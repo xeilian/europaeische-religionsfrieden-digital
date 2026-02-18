@@ -1,0 +1,3939 @@
+<?xml-model href="../../../customization/schema_quellentexte/religionsfrieden-quellentexte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa000008_edikt_von_amboise_frz">
+	<teiHeader>      
+		<fileDesc>         
+			<titleStmt>
+				<title level="a">Edikt von Amboise (19. März 1563)</title>
+				<title level="s">Europäische Religionsfrieden Digital</title>
+				 
+				
+				<editor role="http://id.loc.gov/vocabulary/relators/edt" ref="http://d-nb.info/gnd/1147863490">
+                    <persName>Bengt Büttner</persName>
+                </editor>
+				<respStmt>
+                    <resp ref="http://id.loc.gov/vocabulary/relators/mrk">Mitarbeit</resp>
+                    <persName>Kevin Wunsch</persName>
+                    <persName>Silke Kalmer</persName>
+                </respStmt>           
+			</titleStmt>         
+			<editionStmt>
+				<edition>Digitale Edition gemäß <ref target="http://www.tei-c.org/">TEI P5</ref>
+                </edition>
+				<funder>Akademie der Wissenschaften und der Literatur Mainz</funder>
+                <principal>Unter der Leitung von Irene Dingel und Thomas Stäcker</principal>
+			</editionStmt>         
+			<publicationStmt>
+				<publisher>
+					<orgName ref="http://www.isni.org/0000000119314040">Leibniz-Institut für Europäische Geschichte Mainz</orgName>
+				</publisher>           
+				<distributor>
+					<orgName ref="http://www.isni.org/0000000110101946">Universitäts- und Landesbibliothek Darmstadt</orgName>
+					<idno type="ISIL">http://lobid.org/organisation/DE-17</idno>
+				</distributor>
+				<date when="2013-10-17" type="issued">2013</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by/4.0/">
+						<p xml:lang="en">This file is licensed under the terms of the Creative Commons License CC-BY 4.0 (Attribution 4.0 International)</p>
+					</licence>
+				</availability>
+			</publicationStmt>        
+			<sourceDesc>
+                <p>Textgrundlage s. ggf. Einleitung.</p>
+            </sourceDesc>
+		</fileDesc>      
+		<encodingDesc>         
+			<projectDesc>
+				<p>
+                    <ref target="https://eured.de">Europäische Religionsfrieden Digital</ref>
+                </p>
+			</projectDesc>
+			<classDecl>
+				<taxonomy xml:id="marcrelator">
+					<bibl>
+                        <idno type="URI">http://id.loc.gov/vocabulary/relators/</idno> MARC Code List for Relators </bibl>
+				</taxonomy>
+			</classDecl>         
+		</encodingDesc>      
+		<profileDesc>         
+			<langUsage>
+				<language ident="fra">Französisch</language>
+			</langUsage>         
+		</profileDesc>      
+		<!--<revisionDesc><change/></revisionDesc>-->   
+	</teiHeader>
+    <standOff>
+        <listPerson>
+            <person xml:id="karl_viiii">
+                    <persName ref="http://d-nb.info/gnd/118720880">
+                        <forename>Charles IX</forename>
+                        <roleName>König</roleName>
+                    </persName>
+                    <note>König von <rs type="place" ref="#frankreich_koenigreich">Frankreich</rs>
+                </note>
+                </person>
+            <person xml:id="estienne_robert">
+                    <persName ref="http://d-nb.info/gnd/1077628269">
+                        <forename>Robert</forename>
+                        <surname>Estienne</surname>
+                    </persName>
+                    <note>Robert II. Estienne, Buchdrucker und Buchhändler</note>
+                </person>
+            <person xml:id="medici_katharina">
+                    <persName ref="http://d-nb.info/gnd/118560557">
+                        <forename>Catherine</forename>
+                        <nameLink>de</nameLink>
+                        <surname>Médicis</surname>
+                        <roleName>Regentin</roleName>
+                    </persName>
+                    <note>Königin von <rs type="place" ref="#frankreich_koenigreich">Frankreich</rs>
+                </note>
+                </person>
+            <person xml:id="karl_bourbon">
+                    <persName ref="http://d-nb.info/gnd/120334925">
+                        <forename>Charles I.</forename>
+                        <nameLink>de</nameLink>
+                        <surname type="toponymic">
+                            <rs type="place" ref="#bourbon_burg">Bourbon</rs>
+                        </surname>
+                        <roleName>Kardinal</roleName>
+                    </persName>
+                    <note>Erzbischof von <rs type="place" ref="#rouen">Rouen</rs>
+                </note>
+                </person>
+            <person xml:id="conde_louis">
+                    <persName ref="http://d-nb.info/gnd/102550018">
+                        <forename>Louis I</forename>
+                        <nameLink>de</nameLink>
+                        <surname type="toponymic">
+                            <rs type="place" ref="#bourbon_burg">Bourbon</rs>
+                        </surname>
+                        <roleName>Fürst</roleName>
+                    </persName>
+                    <note>Prince de <rs type="place" ref="#conde_en_brie_herrschaft">Condé</rs>,
+                        Anführer der evangelischen Partei in den französischen
+                        Religionskriegen</note>
+                </person>
+            <person xml:id="louis_montpensier">
+                    <persName ref="http://d-nb.info/gnd/104222247">
+                        <forename>Louis III</forename>
+                        <nameLink>de</nameLink>
+                        <surname type="toponymic">
+                            <rs type="place" ref="#bourbon_burg">Bourbon</rs>
+                        </surname>
+                    </persName>
+                    <note>Duc de <rs type="place" ref="#montpensier_herzogtum">Montpensier</rs>,
+                        dauphin <rs type="place" ref="#auvergne">d’Auvergne</rs>
+                </note>
+                </person>
+            <person xml:id="karl_roche_sur_yon">
+                    <persName>
+                        <forename>Charles</forename>
+                        <nameLink>de</nameLink>
+                        <surname type="toponymic">
+                            <rs type="place" ref="#bourbon_burg">Bourbon</rs>
+                        </surname>
+                        <roleName>Fürst</roleName>
+                    </persName>
+                    <note>Prince de <rs type="place" ref="#la-roche-sur-yon">La
+                        Roche-sur-Yon</rs>
+                </note>
+                </person>
+            <person xml:id="guise_louis_de">
+                    <persName ref="http://d-nb.info/gnd/13798118X">
+                        <forename>Louis</forename>
+                        <nameLink>de</nameLink>
+                        <surname type="toponymic">
+                            <rs type="place" ref="#guise_herzogtum">Guise</rs>
+                        </surname>
+                    </persName>
+                    <note>Kardinal von Guise</note>
+                </person>
+            <person xml:id="lorraine_claude">
+                    <persName ref="http://d-nb.info/gnd/1021278335">
+                        <forename>Claude II</forename>
+                        <nameLink>de</nameLink>
+                        <surname type="toponymic">
+                            <rs type="place" ref="#lothringen_herzogtum">Lorraine</rs>
+                        </surname>
+                        <roleName>Herzog</roleName>
+                    </persName>
+                    <note>Angehöriger der Familie <rs type="place" ref="#guise_herzogtum">Guise</rs>, Duc d‘ <rs type="place" ref="#aumale_herzogtum">Aumale</rs>
+                </note>
+                </person>
+            <person xml:id="montmorency_anne_de">
+                    <persName ref="http://d-nb.info/gnd/11899686X">
+                        <forename>Anne</forename>
+                        <nameLink>de</nameLink>
+                        <surname type="toponymic">
+                            <rs type="place" ref="#montmorency_herzogtum">Montmorency</rs>
+                        </surname>
+                        <roleName>Connétable</roleName>
+                    </persName>
+                    <note>Duc de <rs type="place" ref="#montmorency_herzogtum">Montmorency</rs>,
+                        Connétable von <rs type="place" ref="#frankreich_koenigreich">Frankreich</rs>
+                </note>
+                </person>
+            <person xml:id="brosse_jean_iv">
+                    <persName>
+                        <forename>Jean IV</forename>
+                        <nameLink>de</nameLink>
+                        <surname>Brosse</surname>
+                        <roleName>Herzog</roleName>
+                    </persName>
+                    <note>Duc d‘<rs type="place" ref="#etampes">Étampes</rs>
+                </note>
+                </person>
+            <person xml:id="cosse_charles_de">
+                    <persName ref="http://d-nb.info/gnd/13232170X">
+                        <forename>Charles Ier</forename>
+                        <nameLink>de</nameLink>
+                        <surname type="toponymic">Cossé</surname>
+                        <roleName>Marschall von <rs type="place" ref="#frankreich_koenigreich">Frankreich</rs>
+                    </roleName>
+                    </persName>
+                    <note>Comte de <rs type="place" ref="#brissac_grafschaft">Brissac</rs>
+                </note>
+                </person>
+            <person xml:id="platiere_imbert">
+                    <persName>
+                        <forename>Imbert</forename>
+                        <nameLink>de</nameLink>
+                        <surname>La Platière</surname>
+                        <roleName>Marschall von <rs type="place" ref="#frankreich_koenigreich">Frankreich</rs>
+                    </roleName>
+                    </persName>
+                    <note>Seigneur de Bourdillon</note>
+                </person>
+            <person xml:id="francois_coligny">
+                    <persName ref="http://d-nb.info/gnd/140898395">
+                        <forename>Franҫois</forename>
+                        <nameLink>de</nameLink>
+                        <surname type="toponymic">
+                            <rs type="place" ref="#coligny">Coligny</rs>
+                        </surname>
+                    </persName>
+                    <note>Seigneur d’<rs type="place" ref="#andelot">Andelot</rs>, protestantischer
+                        Heerführer</note>
+                </person>
+            <person xml:id="prevost_de_sansac_louis">
+                    <persName>
+                        <forename>Louis</forename>
+                        <nameLink>de</nameLink>
+                        <surname>Prévost</surname>
+                        <roleName>Marschall von <rs type="place" ref="#frankreich_koenigreich">Frankreich</rs>
+                    </roleName>
+                    </persName>
+                    <note>Baron de Sansac</note>
+                </person>
+            <person xml:id="marsilly_de_cypierre_philibert">
+                    <persName>
+                        <forename>Philibert</forename>
+                        <nameLink>de</nameLink>
+                        <surname>Marsilly</surname>
+                    </persName>
+                    <note>Seigneur de Cypierre</note>
+                </person>
+            <person xml:id="heinrich_ii">
+                    <persName ref="http://d-nb.info/gnd/118548166">
+                        <forename>Heinrich II.</forename>
+                        <roleName>König </roleName>
+                    </persName>
+                    <note>König von <rs type="place" ref="#frankreich_koenigreich">Frankreich</rs>
+                </note>
+                </person>
+            <person xml:id="florimond_ii_robertet">
+                    <persName>
+                        <forename>Florimond II</forename>
+                        <surname>Robertet</surname>
+                    </persName>
+                    <note>französischer Staatssekretär</note>
+                </person>
+            <person xml:id="tillet_jean">
+                    <persName ref="http://d-nb.info/gnd/119189348">
+                        <forename>Jean</forename>
+                        <nameLink>Du</nameLink>
+                        <surname>Tillet</surname>
+                    </persName>
+                    <note>Sekretär des <rs type="place" ref="#paris">Pariser</rs> Parlement</note>
+                </person>
+            <person xml:id="fromaget_hugues">
+                    <persName>
+                        <forename>Hugues</forename>
+                        <surname>Fromaget</surname>
+                    </persName>
+                    <note>Nicht identifiziert</note>
+                </person>
+            <person xml:id="le_sueur_lienard">
+                    <persName>
+                        <forename>Liénard</forename>
+                        <surname>Le Sueur</surname>
+                    </persName>
+                    <note>Nicht identifiziert.</note>
+                </person>
+            <person xml:id="claude_aubespine">
+                    <persName ref="http://d-nb.info/gnd/107838262X">
+                        <forename>Claude II.</forename>
+                        <nameLink>de l’</nameLink>
+                        <surname>Aubespine</surname>
+                    </persName>
+                    <note>Diplomat, Außenminister</note>
+                </person>
+        </listPerson>
+        <listPlace>
+            <place xml:id="frankreich_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/4018145-5">Frankreich,
+                        Königreich</placeName>
+                    <!-- dnb link geprüft, BM, 15.1.2021 -->
+                </place>
+            <place xml:id="bourbon_burg">
+                    <placeName ref="http://www.geonames.org/3031089/bourbon-l-archambault.html">Bourbon-l’Archambault</placeName>
+                </place>
+            <place xml:id="rouen">
+                    <placeName ref="http://www.geonames.org/2982652/rouen.html">Rouen</placeName>
+                </place>
+            <place xml:id="conde_en_brie_herrschaft">
+                    <placeName>Condé-en-Brie, Herrschaft</placeName>
+                    <!-- kein passender dnb link, BM, 15.2.21 -->
+                </place>
+            <place xml:id="montpensier_herzogtum">
+                    <placeName>Montpensier, Herzogtum</placeName>
+                </place>
+            <place xml:id="auvergne">
+                    <placeName ref="http://www.geonames.org/3035876/auvergne.html">Auvergne</placeName>
+                </place>
+            <place xml:id="la-roche-sur-yon">
+                    <!-- mit La alphabetisch sortiert, so richtig? -->
+                    <placeName ref="http://www.geonames.org/3006767/la-roche-sur-yon.html">La
+                        Roche-sur-Yon</placeName>
+                </place>
+            <place xml:id="guise_herzogtum">
+                    <placeName>Guise, Herzogtum</placeName>
+                </place>
+            <place xml:id="lothringen_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4036377-6">Lothringen,
+                        Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="aumale_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4513907-6">Aumale, Herzogtum</placeName>
+                </place>
+            <place xml:id="montmorency_herzogtum">
+                    <placeName>Montmorency, Herzogtum</placeName>
+                    <!-- dnb link entfernt, BM, 22.2.21 -->
+                </place>
+            <place xml:id="etampes">
+                    <placeName ref="http://www.geonames.org/6446136/etampes.html">Étampes</placeName>
+                </place>
+            <place xml:id="brissac_grafschaft">
+                    <placeName>Brissac, Grafschaft</placeName>
+                    <!-- kein passender dnb link vorhanden, BM, 21.1.2021  -->
+                </place>
+            <place xml:id="coligny">
+                    <placeName ref="http://www.geonames.org/3024351/coligny.html">Coligny</placeName>
+                </place>
+            <place xml:id="andelot">
+                    <placeName ref="http://www.geonames.org/3037732/andelot-morval.html">Andelot</placeName>
+                </place>
+            <place xml:id="paris">
+                    <placeName ref="http://www.geonames.org/2988507/paris.html">Paris</placeName>
+                </place>
+            <place xml:id="peronne">
+                    <placeName ref="http://www.geonames.org/2987928/peronne.html">Peronne</placeName>
+                </place>
+            <place xml:id="montdidier">
+                    <placeName ref="http://www.geonames.org/6437726/montdidier.html">Montdidier</placeName>
+                </place>
+            <place xml:id="roye">
+                    <placeName ref="http://www.geonames.org/6454771/roye.html">Roye</placeName>
+                </place>
+            <place xml:id="la_rochelle">
+                    <!-- mit La alphabetisch sortiert, so richtig? -->
+                    <placeName ref="http://www.geonames.org/3006787/la-rochelle.html">La
+                        Rochelle</placeName>
+                </place>
+            <place xml:id="amboise">
+                    <placeName ref="http://www.geonames.org/3037902/amboise.html">Amboise</placeName>
+                </place>
+            <place xml:id="orleans">
+                    <placeName ref="http://www.geonames.org/6454159/orleans.html">Orléans</placeName>
+                </place>
+            <place xml:id="saint_germain_en_laye">
+                    <placeName ref="http://www.geonames.org/2979783/saint-germain-en-laye.html">Saint-Germain-en-Laye</placeName>
+                </place>
+        </listPlace>
+    </standOff>
+	
+	<facsimile xml:id="bnf_ark_12148_bpt6k9691730m">
+		<surface xml:id="bpt6k9691730m_f1_image">
+            <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k9691730m/f1.highres"/>
+        </surface>
+		<surface xml:id="bpt6k9691730m_f2_image">
+            <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k9691730m/f2.highres"/>
+        </surface>
+		<surface xml:id="bpt6k9691730m_f3_image">
+            <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k9691730m/f3.highres"/>
+        </surface>
+		<surface xml:id="bpt6k9691730m_f4_image">
+            <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k9691730m/f4.highres"/>
+        </surface>
+		<surface xml:id="bpt6k9691730m_f5_image">
+            <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k9691730m/f5.highres"/>
+        </surface>
+		<surface xml:id="bpt6k9691730m_f6_image">
+            <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k9691730m/f6.highres"/>
+        </surface>
+		<surface xml:id="bpt6k9691730m_f7_image">
+            <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k9691730m/f7.highres"/>
+        </surface>
+		<surface xml:id="bpt6k9691730m_f8_image">
+            <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k9691730m/f8.highres"/>
+        </surface>
+		<surface xml:id="bpt6k9691730m_f9_image">
+            <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k9691730m/f9.highres"/>
+        </surface>
+		<surface xml:id="bpt6k9691730m_f10_image">
+            <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k9691730m/f10.highres"/>
+        </surface>
+		<surface xml:id="bpt6k9691730m_f11_image">
+            <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k9691730m/f11.highres"/>
+        </surface>
+		<surface xml:id="bpt6k9691730m_f12_image">
+            <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k9691730m/f12.highres"/>
+        </surface>
+		<surface xml:id="bpt6k9691730m_f13_image">
+            <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k9691730m/f13.highres"/>
+        </surface>
+		<surface xml:id="bpt6k9691730m_f14_image">
+            <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k9691730m/f14.highres"/>
+        </surface>
+		<surface xml:id="bpt6k9691730m_f15_image">
+            <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k9691730m/f15.highres"/>
+        </surface>
+		<surface xml:id="bpt6k9691730m_f16_image">
+            <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k9691730m/f16.highres"/>
+        </surface>
+		<surface xml:id="bpt6k9691730m_f17_image">
+            <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k9691730m/f17.highres"/>
+        </surface>
+		<surface xml:id="bpt6k9691730m_f18_image">
+            <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k9691730m/f18.highres"/>
+        </surface>
+		<surface xml:id="bpt6k9691730m_f19_image">
+            <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k9691730m/f19.highres"/>
+        </surface>
+		<surface xml:id="bpt6k9691730m_f20_image">
+            <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k9691730m/f20.highres"/>
+        </surface>
+		<surface xml:id="bpt6k9691730m_f21_image">
+            <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k9691730m/f21.highres"/>
+        </surface>
+		<surface xml:id="bpt6k9691730m_f22_image">
+            <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k9691730m/f22.highres"/>
+        </surface>
+		<surface xml:id="bpt6k9691730m_f23_image">
+            <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k9691730m/f23.highres"/>
+        </surface>
+		<surface xml:id="bpt6k9691730m_f24_image">
+            <graphic url="http://gallica.bnf.fr/ark:/12148/bpt6k9691730m/f24.highres"/>
+        </surface>
+	</facsimile>
+		
+	<text>
+		<body>
+			<div type="chapter">
+    <head type="main">
+    <lb/>
+                    <pb facs="#bpt6k9691730m_f1_image" n="A1r"/>
+                    <milestone type="unit" unit="section" xml:id="crit_1"/>
+                    <choice>
+                        <orig>EDICT</orig>
+                        <reg>Edict</reg>
+                    </choice> <choice>
+                        <orig>ET</orig>
+                        <reg>Et</reg>
+                    </choice>
+	<lb/>Declaration <choice>
+                        <orig>
+                            <w>fai
+	<pc>-</pc>
+                                <lb/>CTE</w>
+                        </orig>
+                        <reg>
+                            <w>fai
+	<pc>-</pc>
+                                <lb/>cte</w>
+                        </reg>
+                    </choice> <choice>
+                        <orig>PAR</orig>
+                        <reg>Par</reg>
+                    </choice> <choice>
+                        <orig>LE</orig>
+                        <reg>Le</reg>
+                    </choice> <choice>
+                        <orig>ROY</orig>
+                        <reg>Roy</reg>
+                    </choice>
+    <lb/>
+                    <rs type="person" ref="#karl_viiii">
+                        <choice>
+                            <orig>CHARLES</orig>
+                            <reg>Charles</reg>
+                        </choice> IX.</rs> <choice>
+                        <orig>DE</orig>
+                        <reg>De</reg>
+                    </choice> <choice>
+                        <orig>CE</orig>
+                        <reg>Ce</reg>
+                    </choice> <choice>
+                        <orig>NOM</orig>
+                        <reg>Nom</reg>
+                    </choice>
+                    <supplied>,</supplied>
+	<lb/>
+                    <choice>
+                        <orig>ſur</orig>
+                        <reg>sur</reg>
+                    </choice> la pacification des troubles de
+    <lb/>ce <rs type="place" ref="#frankreich_koenigreich">Royaume</rs>
+                    <choice>
+                        <orig>:</orig>
+                        <reg>,</reg>
+                    </choice> <seg xml:id="datum">le XIX iour de Mars,
+    <lb/>mil cinq cens <choice>
+                            <orig>ſoixante</orig>
+                            <reg>soixante</reg>
+                        </choice> deux.<note type="annotation" xml:id="jahreszahl">Gemeint ist 1563, denn da der Jahreswechsel
+    		für die Kanzlei der französischen Königs vor 1564 erst zu Ostern erfolgte, liegt die Jahreszahl französischer Königsurkunden bis 1564 zwischen Januar und Ostern
+    		des jeweiligen Ausstellungsjahres um eine Einheit zu niedrig, vgl. <rs type="bibl" ref="#grotefend_zeitrechnung_1">
+                                <surname type="author">Grotefend</surname>,
+    		Zeitrechnung 1, S. 141a s. v. "Osteranfang"</rs>.</note>
+                    </seg>
+                </head>
+	<head type="sub">
+	<lb/>
+                    <hi rend="italic">Publié en la Cour de Parlement<note type="annotation" xml:id="parlement">Königliches Obergericht in jeder Provinz, auch zur Registrierung und Ratifizierung von Gesetzen,
+		vgl. <rs type="bibl" ref="#jouanna_parlements">
+                                <surname type="author">Jouanna</surname>, Parlements</rs>.</note> à <rs type="place" ref="#paris">Paris</rs>,
+	<lb/>le <choice>
+                            <orig>vingtſeptieme</orig>
+                            <reg>vingtseptieme</reg>
+                        </choice> iour dudict mois.</hi>
+	<space dim="vertical"/><!-- Abbildung -->
+	<lb/>A  <choice>
+                        <orig>PARIS</orig>
+                        <reg>Paris</reg>
+                    </choice>,
+    <lb/>Par <rs type="person" ref="#estienne_robert">Robert <choice>
+                            <orig>Eſtienne</orig>
+                            <reg>Estienne</reg>
+                        </choice>
+                    </rs>
+                    <supplied>,</supplied> Imprimeur du Roy.
+	<lb/>M. D. LXIII.<space dim="vertical"/>
+	<lb/>Auec priuilege dudict <rs type="person" ref="#karl_viiii">Seigneur</rs>.</head>
+            </div>
+	<pb facs="#bpt6k9691730m_f2_image" n="A1v leer"/>
+		
+	<div>
+ <p>
+                    <lb/>
+                    <pb facs="#bpt6k9691730m_f3_image" n="A2r"/>
+                    <choice>
+                        <orig>EDICT</orig>
+                        <reg>Edict</reg>
+                    </choice> <choice>
+                        <orig>ET</orig>
+                        <reg>Et</reg>
+                    </choice> <choice>
+                        <orig> <w>DECLARA<pc>-</pc>
+                                <lb/>TION</w>
+                        </orig>
+                        <reg>
+                            <w>Declara
+	<pc>-</pc>
+                                <lb/>tion</w>
+                        </reg>
+                    </choice> <choice>
+                        <orig>FAICTE</orig>
+                        <reg>Faicte</reg>
+                    </choice> <choice>
+                        <orig>PAR</orig>
+                        <reg>Par</reg>
+                    </choice> <choice>
+                        <orig>LE</orig>
+                        <reg>Le</reg>
+                    </choice> <choice>
+                        <orig>ROY</orig>
+                        <reg>Roy</reg>
+                    </choice>
+	<lb/>
+                    <rs type="person" ref="#karl_viiii">Charles IX</rs> de ce nom, <choice>
+                        <orig>ſur</orig>
+                        <reg>sur</reg>
+                    </choice> la pacification
+	<lb/>des troubles de ce <rs type="place" ref="#frankreich_koenigreich">Royaume</rs>
+                    <note type="crit_app">Korrigiert nach Druck 2 aus: Royaum[e] mit beschädigtem Buchstaben e.</note>
+                    <note type="annotation">Vgl. oben <ref type="quelle" target="#jahreszahl">
+                            <ref type="print">S. #, </ref>Anm. 1</ref>.</note>
+                    <choice>
+                        <orig>:</orig>
+                        <reg>,</reg>
+                    </choice> le XIX iour
+	<lb/>de Mars, 1562.<milestone type="unit" unit="section" xml:id="crit_2"/>
+ 	<span type="crit_app" from="#crit_1" to="#crit_2">Fehlt <rs type="bibl" ref="#barbiche_ua_edits"> u.a., Édits</rs>, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_opener">Edikt II, Präambel</ref>.</span>
+                </p>
+	<space dim="vertical"/>
+ <p>
+                    <lb/>
+                    <rs type="person" ref="#karl_viiii">
+                        <choice>
+                            <orig>
+                                <hi rend="initiale">C</hi>HARLES</orig>
+                            <reg>Charles</reg>
+                        </choice>
+                    </rs>
+                    <supplied>,</supplied> par la
+	<lb/>grace de Dieu Roy de
+	<lb/>
+                    <rs type="place" ref="#frankreich_koenigreich">France</rs>, A tous ceux
+	<lb/>qui ces <choice>
+                        <orig>preſentes</orig>
+                        <reg>presentes</reg>
+                    </choice> <w>let
+	<pc>-</pc>
+                        <lb/>tres</w> verront, Salut.
+	<lb/>
+                    <choice>
+                        <orig>Chaſcun</orig>
+                        <reg>Chascun</reg>
+                    </choice> a veu &amp; <w>co
+	<pc>-</pc>
+                        <lb/>gneu</w> <choice>
+                        <orig>cōme</orig>
+                        <reg>comme</reg>
+                    </choice> il a pleu à <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> Seigneur<supplied>,</supplied>
+	<lb/>depuis quelques annees en ça, <w>permet
+	<pc>-</pc>
+                        <lb/>tre</w> que <choice>
+                        <orig>ceſtuy</orig>
+                        <reg>cestuy</reg>
+                    </choice> <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> <rs type="place" ref="#frankreich_koenigreich">Royaume</rs> ait <choice> <orig>
+                            <w>e<pc>-</pc>
+                                <lb/>ſté</w>
+                        </orig> <reg>
+                            <w>e
+	<pc>-</pc>
+                                <lb/>sté</w>
+                        </reg>
+                    </choice> affligé &amp; trauaillé de beaucoup de
+	<lb/>troubles, <choice>
+                        <orig>ſeditions</orig>
+                        <reg>seditions</reg>
+                    </choice> &amp; tumultes entre 
+	<lb/>nos <choice>
+                        <orig>ſubiects</orig>
+                        <reg>subiects</reg>
+                    </choice>, <choice>
+                        <orig>eſleuez</orig>
+                        <reg>esleuez</reg>
+                    </choice> &amp; <choice>
+                        <orig>ſuſcitez</orig>
+                        <reg>suscitez</reg>
+                    </choice> de la <choice>
+                        <orig>
+                            <w>di<lb/>uerſité</w>
+                        </orig>
+                        <reg>
+                            <w>di
+	<pc>-</pc>
+                                <lb/>uersité</w>
+                        </reg>
+                    </choice> des opinions pour le faict de la
+	<lb/>
+                    <pb facs="#bpt6k9691730m_f4_image" n="A2v"/>
+                    <choice>
+                        <orig>Religiō</orig>
+                        <reg>Religion</reg>
+                    </choice> &amp; <choice>
+                        <orig>ſcrupule</orig>
+                        <reg>scrupule</reg>
+                    </choice> de leur<note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_opener">Edikt II, Präambel</ref>
+                        </rs>: leurs.</note> <choice>
+                        <orig>cōſciences</orig>
+                        <reg>consciences</reg>
+                    </choice>.</p>
+ <p>
+                    <lb/>Pour à quoy pouruoir, &amp; <choice>
+                        <orig>empeſcher</orig>
+                        <reg>empescher</reg>
+                    </choice>
+	<lb/>que ce feu ne <choice>
+                        <orig>ſ’allumast</orig>
+                        <reg>s’allumast</reg>
+                    </choice> <choice>
+                        <orig>dauātage</orig>
+                        <reg>dauantage</reg>
+                    </choice>, ont
+	<lb/> <choice>
+                        <orig>eſté</orig>
+                        <reg>esté</reg>
+                    </choice> cy deuant faictes <choice>
+                        <orig>pluſieurs</orig>
+                        <reg>plusieurs</reg>
+                    </choice> <choice>
+                        <orig>
+                            <w>aſſem<pc>-</pc>
+                                <lb/>blees</w>
+                        </orig>
+                        <reg>
+                            <w>assem
+	<pc>-</pc>
+                                <lb/>blees</w>
+                        </reg>
+                    </choice> &amp; conuocations des plus grands
+	<lb/>&amp; notables <choice>
+                        <orig>perſōnages</orig>
+                        <reg>personnages</reg>
+                    </choice> de <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> <rs type="place" ref="#frankreich_koenigreich">
+                        <w>Roy
+	<pc>-</pc>
+                            <lb/>aume</w>
+                    </rs>, &amp; par leur bon <choice>
+                        <orig>conſeil</orig>
+                        <reg>conseil</reg>
+                    </choice> &amp; aduis
+	<lb/>faict <choice>
+                        <orig>pluſieurs</orig>
+                        <reg>plusieurs</reg>
+                    </choice> Edicts &amp; Ordonnances<supplied>,</supplied>
+	<lb/>
+                    <choice>
+                        <orig>ſelō</orig>
+                        <reg>selon</reg>
+                    </choice> le <choice>
+                        <orig>beſoing</orig>
+                        <reg>besoing</reg>
+                    </choice> &amp; la <choice>
+                        <orig>neceſsité</orig>
+                        <reg>necessité</reg>
+                    </choice> qui <choice>
+                        <orig>ſ</orig>
+                        <reg>s</reg>
+                    </choice>’<w>of
+	<pc>-</pc>
+                        <lb/>froit</w>
+                    <choice>
+                        <orig>:</orig>
+                        <reg>,</reg>
+                    </choice> <choice>
+                        <orig>eſtimant</orig>
+                        <reg>estimant</reg>
+                    </choice> par là preuenir le mal, 
+	<lb/> &amp; aller au deuant de l’<choice>
+                        <orig>incōuenient</orig>
+                        <reg>inconuenient</reg>
+                    </choice> qui
+	<lb/>y pendoit.</p>
+ <p>
+                    <lb/>Toutesfois la malice du <choice>
+                        <orig>tēps</orig>
+                        <reg>temps</reg>
+                    </choice> a <w>vou
+	<pc>-</pc>
+                        <lb/>lu</w>, &amp; <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> Seigneur a <choice>
+                        <orig>auſsi</orig>
+                        <reg>aussi</reg>
+                    </choice> par <choice>
+                        <orig>ſon</orig>
+                        <reg>son</reg>
+                    </choice>
+	<lb/>iugement incogneu, (prouoqué, <w>com
+	<pc>-</pc>
+                        <lb/>me</w> il fault croire, de nos faultes &amp; <w>pe
+	<pc>-</pc>
+                        <lb/>chez</w>
+                    <orig>,</orig>) <choice>
+                        <orig>laſcher</orig>
+                        <reg>lascher</reg>
+                    </choice> la bride <choice>
+                        <orig>auſdicts</orig>
+                        <reg>ausdicts</reg>
+                    </choice> <w>tumul
+	<pc>-</pc>
+                        <lb/>tes</w>
+                    <choice>
+                        <orig>:</orig>
+                        <reg>;</reg>
+                    </choice> de façon que l’on <choice>
+                        <orig>eſt</orig>
+                        <reg>est</reg>
+                    </choice> venu à <w>met
+	<pc>-</pc>
+                        <lb/>tre</w> les mains aux armes, <choice>
+                        <orig>ſi</orig>
+                        <reg>si</reg>
+                    </choice> auant qu’il<note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_opener">Edikt II, Präambel</ref>
+                        </rs>: qu’ilz.</note>
+	<lb/>en <choice>
+                        <orig>ſont</orig>
+                        <reg>sont</reg>
+                    </choice> <choice>
+                        <orig>ſortis</orig>
+                        <reg>sortis</reg>
+                    </choice> infinis meurtres, <choice>
+                        <orig>
+                            <w>vēgean<pc>-</pc>
+                                <lb/>ces</w>
+                        </orig>
+                        <reg>
+                            <w>vengean
+	<pc>-</pc>
+                                <lb/>ces</w>
+                        </reg>
+                    </choice>, pilleries, forcemens &amp; <choice>
+                        <orig>ſaccagemēs</orig>
+                        <reg>saccagemens</reg>
+                    </choice>
+	<lb/> de villes, ruine<note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_opener">Edikt II, Präambel</ref>
+                        </rs>: ruynes.</note> de temples &amp; <choice>
+                        <orig>egliſes</orig>
+                        <reg>eglises</reg>
+                    </choice>,
+	<lb/>
+                    <pb facs="#bpt6k9691730m_f5_image" n="A3r"/> batailles <choice>
+                        <orig>dōnees</orig>
+                        <reg>donnees</reg>
+                    </choice>, &amp; <choice>
+                        <orig>tāt</orig>
+                        <reg>tant</reg>
+                    </choice> d’autres maulx,
+	<lb/>calamitez<orig>,</orig> &amp; <choice>
+                        <orig>deſolations</orig>
+                        <reg>desolations</reg>
+                    </choice> <choice>
+                        <orig>commiſes</orig>
+                        <reg>commises</reg>
+                    </choice> &amp; 
+	<lb/>exercees en diuers endroicts<choice>
+                        <orig>:</orig>
+                        <reg>,</reg>
+                    </choice> que <w>con
+	<pc>-</pc>
+                        <lb/>tinuant</w> ce mal, &amp; voyant tant d’<choice>
+                        <orig>
+                            <w>eſtrā<pc>-</pc>
+                                <lb/>gers</w>
+                        </orig>
+                        <reg>
+                            <w>estran
+	<pc>-</pc>
+                                <lb/>gers</w>
+                        </reg>
+                    </choice> <choice>
+                        <orig>deſia</orig>
+                        <reg>desia</reg>
+                    </choice> en <choice>
+                        <orig>noſtredict</orig>
+                        <reg>nostredict</reg>
+                    </choice> <rs type="place" ref="#frankreich_koenigreich">Royaume</rs>, <choice>
+                        <orig>
+                            <w>ſça<pc>-</pc>
+                                <lb/>chāt</w>
+                        </orig>
+                        <reg>
+                            <w>sça
+	<pc>-</pc>
+                                <lb/>chant</w>
+                        </reg>
+                    </choice> <choice>
+                        <orig>auſſi</orig>
+                        <reg>aussi</reg>
+                    </choice> les preparatifs faicts pour en
+	<lb/>introduire dauantage, la ruine <w>euiden
+	<choice>
+                            <orig/>
+                            <reg>
+                                <pc>-</pc>
+                            </reg>
+                        </choice>
+                        <lb/>te</w>
+                    <note type="crit_app">Fehlt <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_opener">Edikt II, Präambel</ref>
+                        </rs> im Haupttext.</note> d’iceluy <choice>
+                        <orig>eſtre</orig>
+                        <reg>estre</reg>
+                    </choice> ineuitable<choice>
+                        <orig>:</orig>
+                        <reg>,</reg>
+                    </choice> ioinct la
+	<lb/>grande &amp; irreparable perte qu’à <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice>
+	<lb/>
+                    <choice>
+                        <orig>treſgrand</orig>
+                        <reg>tresgrand</reg>
+                    </choice> regret nous auons faicte, <w>de
+	<pc>-</pc>
+                        <lb/>puis</w> ces tumultes commencez, de tant
+	<lb/>de Princes, Seigneurs, Cheualiers de
+	<lb/>
+                    <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> ordre<note type="annotation">Gemeint ist der St. Michaels-Orden (<hi rend="italic">ordre de Saint-Michel</hi>), ein von König Franz II. erweiteter Ritterorden, vgl. <rs type="bibl" ref="#boucher_ordres">
+                            <surname type="author">Boucher</surname>, Ordres</rs>.</note>, grands Capitaines &amp; <choice>
+                        <orig>gēs</orig>
+                        <reg>gens</reg>
+                    </choice>
+	<lb/>de guerre<choice>
+                        <orig>:</orig>
+                        <reg>,</reg>
+                    </choice> qui <choice>
+                        <orig>eſt</orig>
+                        <reg>est</reg>
+                    </choice>, <choice>
+                        <orig>ſoubs</orig>
+                        <reg>soubs</reg>
+                    </choice> la main de
+	<lb/>Dieu, le vray <choice>
+                        <orig>ſouſtien</orig>
+                        <reg>soustien</reg>
+                    </choice>, appuy, <choice>
+                        <orig>defenſe</orig>
+                        <reg>defense</reg>
+                    </choice>
+	<lb/>&amp; protection de <choice>
+                        <orig>ceſte</orig>
+                        <reg>ceste</reg>
+                    </choice> <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> <w>Couron
+	<pc>-</pc>
+                        <lb/>ne</w>, &amp; <choice>
+                        <orig>vn</orig>
+                        <reg>un</reg>
+                    </choice> argument à nos <choice>
+                        <orig>voiſins</orig>
+                        <reg>voisins</reg>
+                    </choice>, qui
+	<lb/>auroyent <choice>
+                        <orig>mauuaiſe</orig>
+                        <reg>mauuaise</reg>
+                    </choice> volonté, de nous
+	<lb/>entamer &amp; inuahir, comme nous en
+	<lb/>auons <choice>
+                        <orig>eſté</orig>
+                        <reg>esté</reg>
+                    </choice> &amp; <choice>
+                        <orig>ſommes</orig>
+                        <reg>sommes</reg>
+                    </choice> menacez.</p>
+ <p>
+                    <lb/>
+                    <choice>
+                        <orig>CE</orig>
+                        <reg>Ce</reg>
+                    </choice> que par nous <choice>
+                        <orig>conſideré</orig>
+                        <reg>consideré</reg>
+                    </choice>, <w>cher
+	<pc>-</pc>
+                        <lb/>chants</w> tous remedes <choice>
+                        <orig>poſſibles</orig>
+                        <reg>possibles</reg>
+                    </choice> (encores
+	<lb/>
+                    <pb facs="#bpt6k9691730m_f6_image" n="A3v"/>que, graces à Dieu, nos forces <choice>
+                        <orig>ſoyent</orig>
+                        <reg>soyent</reg>
+                    </choice>
+	<lb/>grandes, &amp; qu’en apparence<supplied>,</supplied> celles des
+	<lb/>hommes ne nous defaillent<orig>:</orig>)<supplied/>, voyant
+	<lb/>neantmoins que tout le mal &amp; <w>incon
+	<pc>-</pc>
+                        <lb/>uenient</w> qui <choice>
+                        <orig>ſort</orig>
+                        <reg>sort</reg>
+                    </choice> de <choice>
+                        <orig>ceſte</orig>
+                        <reg>ceste</reg>
+                    </choice> guerre, <w>tour
+	<pc>-</pc>
+                        <lb/>ne</w> à la diminution &amp; dommage de <choice> <orig>
+                            <w>no<lb/>ſtre</w>
+                        </orig>
+                        <reg>
+                            <w>no
+	<pc>-</pc>
+                                <lb/>stre</w>
+                        </reg>
+                    </choice> <rs type="place" ref="#frankreich_koenigreich">Royaume</rs>
+                    <choice>
+                        <orig>:</orig>
+                        <reg>,</reg>
+                    </choice> &amp; ayant experimenté,
+	<lb/>auec <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> grande perte, tel remede
+	<lb/>n’y <choice>
+                        <orig>eſtre</orig>
+                        <reg>estre</reg>
+                    </choice> propre ne<note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_opener">Edikt II, Präambel</ref>
+                        </rs>: ny.</note> <choice>
+                        <orig>conuenable</orig>
+                        <reg>convenable</reg>
+                    </choice>
+                    <orig>,</orig> (<choice>
+                        <orig>eſtant</orig>
+                        <reg>estant</reg>
+                    </choice>
+	<lb/>la maladie cachee dedans les entrailles
+	<lb/>&amp; <choice>
+                        <orig>eſprits</orig>
+                        <reg>esprits</reg>
+                    </choice> de <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> peuple<orig>:</orig>)<supplied>,</supplied> Auons <choice>
+                        <orig>
+                            <w>e<pc>-</pc>
+                                <lb/>ſtimé</w>
+                        </orig>
+                        <reg>
+                            <w>e
+	<pc>-</pc>
+                                <lb/>stimé</w>
+                        </reg>
+                    </choice> que le meilleur &amp; plus vtile qu’y
+	<lb/>pouuions appliquer, <choice>
+                        <orig>eſtoit</orig>
+                        <reg>estoit</reg>
+                    </choice>
+                    <orig>,</orig> (comme
+	<lb/>Prince <choice>
+                        <orig>Treſchreſtien</orig>
+                        <reg>Treschrestien</reg>
+                    </choice>, dont nous <w>por
+	<pc>-</pc>
+                        <lb/>tons</w> le nom<orig>,</orig>) auoir recours à l’infinie
+	<lb/>grace &amp; bonté de <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> Seigneur, &amp;
+	<lb/>auec <choice>
+                        <orig>ſon</orig>
+                        <reg>son</reg>
+                    </choice> bon aide<supplied>,</supplied> trouuer moyen de
+	<lb/>pacifier par <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> douceur l’aigreur
+	<lb/>de <choice>
+                        <orig>ceſte</orig>
+                        <reg>ceste</reg>
+                    </choice> maladie<choice>
+                        <orig>:</orig>
+                        <reg>,</reg>
+                    </choice> En rappelant &amp; <w>re
+	<pc>-</pc>
+                        <lb/>conciliant</w> les <choice>
+                        <orig>volōtez</orig>
+                        <reg>volontez</reg>
+                    </choice> de <choice>
+                        <orig>noſdicts</orig>
+                        <reg>nosdicts</reg>
+                    </choice> <choice>
+                        <orig>
+                            <w>ſub<pc>-</pc>
+                                <lb/>iects</w>
+                        </orig>
+                        <reg>
+                            <w>sub
+	<pc>-</pc>
+                                <lb/>iects</w>
+                        </reg>
+                    </choice> à vne vnion, &amp; à la <choice>
+                        <orig>
+                            <w>recognoiſſan<pc>-</pc>
+                                <lb/>ce</w>
+                        </orig>
+                        <reg>
+                            <w>recognoissan
+	<pc>-</pc>
+                                <lb/>ce</w>
+                        </reg>
+                    </choice> qu’ils <choice>
+                        <orig>doiuēt</orig>
+                        <reg>doivent</reg>
+                    </choice> tous à <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> <choice>
+                        <orig>
+                            <w>obeiſſan
+	<pc>-</pc>
+                                <lb/>
+                                <pb facs="#bpt6k9691730m_f7_image" n="A4r"/>ce</w>
+                        </orig>
+                        <reg>
+                            <w>obeiſſan
+	<pc>-</pc>
+                                <lb/>
+                                <pb facs="#bpt6k9691730m_f7_image" n="A4r"/>ce</w>
+                        </reg>
+                    </choice>, à l’honneur de Dieu, bien, <choice>
+                        <orig>ſalut</orig>
+                        <reg>salut</reg>
+                    </choice> &amp;
+	<lb/>
+                    <choice>
+                        <orig>conſeruation</orig>
+                        <reg>conseruation</reg>
+                    </choice> de <choice>
+                        <orig>ceſtuy</orig>
+                        <reg>cestuy</reg>
+                    </choice> <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> <rs type="place" ref="#frankreich_koenigreich">Royau
+	<lb rend="trennstrich"/>me</rs>
+                    <choice>
+                        <orig>:</orig>
+                        <reg>;</reg>
+                    </choice> En pouruoyant de moyen qui
+	<lb/>
+                    <choice>
+                        <orig>puiſſe</orig>
+                        <reg>puisse</reg>
+                    </choice> retenir &amp; <choice>
+                        <orig>contēter</orig>
+                        <reg>contenter</reg>
+                    </choice> <choice>
+                        <orig>noſdicts</orig>
+                        <reg>nosdicts</reg>
+                    </choice>
+                    <choice> <orig>
+                            <w>ſub<pc>-</pc>
+                                <lb/>iects</w>
+                        </orig>
+                        <reg>
+                            <w>sub
+	<pc>-</pc>
+                                <lb/>iects</w>
+                        </reg>
+                    </choice>
+                    <choice>
+                        <orig>:</orig>
+                        <reg>,</reg>
+                    </choice> <choice>
+                        <orig>Eſperant</orig>
+                        <reg>Esperant</reg>
+                    </choice> que le temps, le fruict
+	<lb/>d’vn bon, <choice>
+                        <orig>ſainct</orig>
+                        <reg>sainct</reg>
+                    </choice>, libre &amp; general ou <w>na
+	<choice>
+                            <orig/>
+                            <reg>
+                                <pc>-</pc>
+                            </reg>
+                        </choice>
+                        <lb/>tionnal</w> Concile, &amp; la vertu de <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice>
+	<lb/>maiorité prochaine, conduicte &amp; <w>diri
+	<pc>-</pc>
+                        <lb/>gee</w> par la main &amp; grace de <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> <w>Sei
+	<pc>-</pc>
+                        <lb/>gneur</w>
+                    <orig>,</orig> (qui par <choice>
+                        <orig>ſa</orig>
+                        <reg>sa</reg>
+                    </choice> bonté a eu <choice>
+                        <orig>touſiours</orig>
+                        <reg>tousiours</reg>
+                    </choice>
+	<lb/>
+                    <choice>
+                        <orig>ſoing</orig>
+                        <reg>soing</reg>
+                    </choice> &amp; garde de <choice>
+                        <orig>ceſte</orig>
+                        <reg>ceste</reg>
+                    </choice> Couronne<orig>,</orig>)<supplied>,</supplied> y
+	<lb/>apporteront cy apres le <choice>
+                        <orig>ſeur</orig>
+                        <reg>seur</reg>
+                    </choice> &amp; vray <choice>
+                        <orig>
+                            <w>e<pc>-</pc>
+                                <lb/>ſtabliſſement</w>
+                        </orig>
+                        <reg>
+                            <w>e
+	<pc>-</pc>
+                                <lb/>stablissement</w>
+                        </reg>
+                    </choice> à <choice>
+                        <orig>ſon</orig>
+                        <reg>son</reg>
+                    </choice> honneur &amp; gloire,
+	<lb/>repos &amp; tranquillité de <choice>
+                        <orig>noſdicts</orig>
+                        <reg>nosdicts</reg>
+                    </choice> <w>peu
+	<pc>-</pc>
+                        <lb/>ples</w> &amp; <choice>
+                        <orig>ſubiects</orig>
+                        <reg>subiects</reg>
+                    </choice>.</p>
+ <p>
+                    <lb/>
+                    <choice>
+                        <orig>SVR</orig>
+                        <reg>Svr</reg>
+                    </choice> quoy <choice>
+                        <orig>auōs</orig>
+                        <reg>auons</reg>
+                    </choice> bien voulu <w>pren
+	<pc>-</pc>
+                        <lb/>dre</w> le bon &amp; <choice>
+                        <orig>prudēt</orig>
+                        <reg>prudent</reg>
+                    </choice> <choice>
+                        <orig>conſeil</orig>
+                        <reg>conseil</reg>
+                    </choice> de la <rs type="person" ref="#medici_katharina">
+                        <w>Roy
+	<pc>-</pc>
+                            <lb/>ne</w>
+                    </rs> <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> <choice>
+                        <orig>treſchere</orig>
+                        <reg>treschere</reg>
+                    </choice> &amp; treshonoree <w>Da
+	<choice>
+                            <orig/>
+                            <reg>
+                                <pc>-</pc>
+                            </reg>
+                        </choice>
+                        <lb/>me</w> &amp; mere, de nos <choice>
+                        <orig>treſchers</orig>
+                        <reg>treschers</reg>
+                    </choice> &amp; <choice>
+                        <orig>
+                            <w>treſa<pc>-</pc>
+                                <lb/>mez</w>
+                        </orig>
+                        <reg>
+                            <w>tresa
+	<pc>-</pc>
+                                <lb/>mez</w>
+                        </reg>
+                    </choice> <choice>
+                        <orig>Couſins</orig>
+                        <reg>Cousins</reg>
+                    </choice> les <rs type="person" ref="#karl_bourbon">Cardinal de <choice>
+                            <orig>Bourbō</orig>
+                            <reg>Bourbon</reg>
+                        </choice>
+                    </rs>,
+	<lb/>
+                    <rs type="person" ref="#conde_louis">Prince de Condé</rs>, <rs type="person" ref="#louis_montpensier">Duc de <choice>
+                            <orig>Montpēſier</orig>
+                            <reg>Montpensier</reg>
+                        </choice>
+                    </rs>
+	<lb/>&amp; <rs type="person" ref="#karl_roche_sur_yon">Prince de <choice>
+                            <orig>la Roche-ſur-Yon</orig>
+                            <reg>la Roche-sur-Yon</reg>
+                        </choice>
+                    </rs>, <w>Prin
+	<pc>-</pc>
+                        <lb/>
+                        <pb facs="#bpt6k9691730m_f8_image" n="A4v"/>ces</w> de <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> <choice>
+                        <orig>ſāg</orig>
+                        <reg>sang</reg>
+                    </choice>
+                    <note type="annotation">Prinzen von Geblüt, alle Fürsten königlicher Abstammung über den engeren Familienkreis des regierenden Königs hinaus, vgl. <rs type="bibl" ref="#jouanna_princes">
+                            <surname type="author">Jouanna</surname>, Princes</rs>.</note>
+                    <choice>
+                        <orig>:</orig>
+                        <reg>;</reg>
+                    </choice> <choice>
+                        <orig>auſsi</orig>
+                        <reg>aussi</reg>
+                    </choice> de nos <choice>
+                        <orig>treſchers</orig>
+                        <reg>treschers</reg>
+                    </choice>
+	<lb/>&amp; <choice>
+                        <orig>treſamez</orig>
+                        <reg>tresamez</reg>
+                    </choice> <choice>
+                        <orig>Couſins</orig>
+                        <reg>Cousins</reg>
+                    </choice> les <rs type="person" ref="#guise_louis_de">Cardinal de
+	<lb/>
+                        <choice>
+                            <orig>Guyſe</orig>
+                            <reg>Guyse</reg>
+                        </choice>
+                    </rs>, <rs type="person" ref="#lorraine_claude">Duc d’Aumale</rs><!--Korrekter Tag? ggf http://d-nb.info/gnd/10190505X-->, <rs type="person" ref="#montmorency_anne_de">Duc de <w>Mont
+	<pc>-</pc>
+                            <lb/>morency</w>
+                    </rs>
+                    <supplied>,</supplied> <choice>
+                        <orig>Cōneſtable</orig>
+                        <reg>Connestable</reg>
+                    </choice>
+                    <note type="annotation">Höchster militärischer Befehlshaber in Frankreich, vgl. <rs type="bibl" ref="#labourdette_grands_officiers">
+                            <surname type="author">Labourdette</surname>, Grands officiers, S. 617f.</rs>
+                    </note>, Pairs de France<note type="annotation">Höchster Fürstenstand in Frankreich nach den Prinzen von Geblüt, vgl. <rs type="bibl" ref="#labourdette_ducs_et_pairs">
+                            <surname type="author">Labourdette</surname>, Ducs et pairs</rs>.</note>
+                    <choice>
+                        <orig>:</orig>
+                        <reg>;</reg>
+                    </choice>
+	<lb/>
+                    <rs type="person" ref="#brosse_jean_iv">Duc d’<choice>
+                            <orig>Eſtampes</orig>
+                            <reg>Estampes</reg>
+                        </choice>
+                    </rs>, <choice>
+                        <orig>Mareſchaulx</orig>
+                        <reg>Mareschaulx</reg>
+                    </choice> <rs type="person" ref="#cosse_charles_de"> de <choice>
+                            <orig>
+                                <w>Briſ<pc>-</pc>
+                                    <lb/>ſac</w>
+                            </orig>
+                            <reg>
+                                <w>Bris
+	<pc>-</pc>
+                                    <lb/>sac</w>
+                            </reg>
+                        </choice>
+                    </rs> &amp; <rs type="person" ref="#platiere_imbert">de Bordillon</rs>, Sieurs <rs type="person" ref="#francois_coligny">d’Andelot</rs>,
+     <lb/>
+                    <rs type="person" ref="#prevost_de_sansac_louis">de <choice>
+                            <orig>Sanſac</orig>
+                            <reg>Sansac</reg>
+                        </choice>
+                    </rs>, <rs type="person" ref="#marsilly_de_cypierre_philibert">de Sipierre</rs>, &amp; autres <choice>
+                        <orig>bōs</orig>
+                        <reg>bons</reg>
+                    </choice> &amp;
+	<lb/>grands <choice>
+                        <orig>perſonnages</orig>
+                        <reg>personnages</reg>
+                    </choice> de <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> <choice>
+                        <orig>Conſeil</orig>
+                        <reg>Conseil</reg>
+                    </choice>
+	<lb/>priué<choice>
+                        <orig>:</orig>
+                        <reg>,</reg>
+                    </choice> qui tous ont <choice>
+                        <orig>eſté</orig>
+                        <reg>esté</reg>
+                    </choice> d’aduis &amp; <w>trou
+	<pc>-</pc>
+                        <lb/>ué</w> <choice>
+                        <orig>raiſonnable</orig>
+                        <reg>raisonnable</reg>
+                    </choice>, pour le bien public de
+	<lb/>
+                    <choice>
+                        <orig>ceſtuy</orig>
+                        <reg>cestuy</reg>
+                    </choice> <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> <rs type="place" ref="#frankreich_koenigreich">Royaume</rs>, faire &amp; <choice>
+                        <orig>
+                            <w>ordō<pc>-</pc>
+                                <lb/>ner</w>
+                        </orig>
+                        <reg>
+                            <w>ordon
+	<pc>-</pc>
+                                <lb/>er</w>
+                        </reg>
+                    </choice> ce qui <choice>
+                        <orig>ſ’</orig>
+                        <reg>s’</reg>
+                    </choice>
+                    <choice>
+                        <orig>enſuit</orig>
+                        <reg>ensuit</reg>
+                    </choice>:</p>
+ <p>
+                    <lb/>
+                    <choice>
+                        <orig>SCAVOIR</orig>
+                        <reg>Scavoir</reg>
+                    </choice> <choice>
+                        <orig>faiſons</orig>
+                        <reg>faisons</reg>
+                    </choice>, que Nous
+	<lb/>
+                    <choice>
+                        <orig>ſuyuant</orig>
+                        <reg>suiuant</reg>
+                    </choice> iceluy leur bon <choice>
+                        <orig>cōſeil</orig>
+                        <reg>conseil</reg>
+                    </choice>, &amp; pour
+	<lb/>les <choice>
+                        <orig>cauſes</orig>
+                        <reg>causes</reg>
+                    </choice>, <choice>
+                        <orig>raiſons</orig>
+                        <reg>raisons</reg>
+                    </choice> &amp; <choice>
+                        <orig>cōſiderations</orig>
+                        <reg>considerations</reg>
+                    </choice> <choice>
+                        <orig>
+                            <w>deſ<pc>-</pc>
+                                <lb/>ſuſdictes</w>
+                        </orig>
+                        <reg>
+                            <w>des
+	<pc>-</pc>
+                                <lb/>susdictes</w>
+                        </reg>
+                    </choice>, &amp; aultres bonnes &amp; grandes
+	<lb/>à ce nous mouuants, Auons dict, <w>de
+	<pc>-</pc>
+                        <lb/>clairé</w>, <choice>
+                        <orig>ſtatué</orig>
+                        <reg>statué</reg>
+                    </choice> &amp; ordonné, <choice>
+                        <orig>diſons</orig>
+                        <reg>disons</reg>
+                    </choice>, <w>de
+	<pc>-</pc>
+                        <lb/>clairons</w>, <choice>
+                        <orig>ſtatuons</orig>
+                        <reg>statuons</reg>
+                    </choice> &amp; ordonnons, <w>vou
+	<pc>-</pc>
+                        <lb/>lons</w> &amp; nous <choice>
+                        <orig>plaiſt</orig>
+                        <reg>plaist</reg>
+                    </choice>,</p>
+		
+  <p>
+                    <milestone type="ref" unit="section" xml:id="evangelische_gottesdienste_beginn"/>
+                    <milestone type="ref" unit="section" xml:id="art_1_beginn"/>
+                    <lb/>Que <choice>
+                        <orig>doreſnauant</orig>
+                        <reg>doresnauant</reg>
+                    </choice> tous <choice>
+                        <orig>
+                            <w>Gentils-hō<pc>-</pc>
+                                <lb/>mes</w>
+                        </orig>
+                        <reg>
+                            <w>Gentils-hom
+	<pc>-</pc>
+                                <lb/>mes</w>
+                        </reg>
+                    </choice> qui <choice>
+                        <orig>ſont</orig>
+                        <reg>sont</reg>
+                    </choice> <choice>
+                        <orig>Barōs</orig>
+                        <reg>Barons</reg>
+                    </choice>, <choice>
+                        <orig>Chaſtelains</orig>
+                        <reg>Chastelains</reg>
+                    </choice>, haults
+	<lb/>
+                    <pb facs="#bpt6k9691730m_f9_image" n="B1r"/>
+                    <choice>
+                        <orig>Iuſticiers</orig>
+                        <reg>Iusticiers</reg>
+                    </choice>, &amp; Seigneurs tenants plein
+	<lb/>fief de haubert, &amp; <choice>
+                        <orig>chaſcun</orig>
+                        <reg>chascun</reg>
+                    </choice> d’eulx, <choice>
+                        <orig>
+                            <w>puiſ<pc>-</pc>
+                                <lb/>ſent</w>
+                        </orig>
+                        <reg>
+                            <w>puis
+	<pc>-</pc>
+                                <lb/>sent</w>
+                        </reg>
+                    </choice> viure en leurs <choice>
+                        <orig>maiſons</orig>
+                        <reg>maisons</reg>
+                    </choice> (<choice>
+                        <orig>eſquelles</orig>
+                        <reg>esquelles</reg>
+                    </choice>,
+	<lb/>ils habiteront) en liberté de leurs <choice>
+                        <orig>
+                            <w>con<pc>-</pc>
+                                <lb/>ſciences</w>
+                        </orig>
+                        <reg>
+                            <w>con
+	<pc>-</pc>
+                                <lb/>sciences</w>
+                        </reg>
+                    </choice>, &amp; exercice de la Religion,
+	<lb/>qu’ils <choice>
+                        <orig>diſent</orig>
+                        <reg>disent</reg>
+                    </choice> reformee, auecque leur<note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_01">Edikt II, Art. 1</ref>
+                        </rs>: leurs.</note>
+	<lb/>famille<note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_01">Edikt II, Art. 1</ref>
+                        </rs>: familles.</note> &amp; <choice>
+                        <orig>ſubiects</orig>
+                        <reg>subiects</reg>
+                    </choice>, qui librement &amp;
+	<lb/>
+                    <choice>
+                        <orig>ſans</orig>
+                        <reg>sans</reg>
+                    </choice> aucune contraincte <choice>
+                        <orig>ſ</orig>
+                        <reg>s</reg>
+                    </choice>’y voudront
+	<lb/>trouuer.</p>
+ <p>
+                    <lb/>Et les aultres <choice>
+                        <orig>Gentil-hōmes</orig>
+                        <reg>Gentil-hommes</reg>
+                    </choice> ayants
+	<lb/>fief, <choice>
+                        <orig>auſſi</orig>
+                        <reg>aussi</reg>
+                    </choice>, en leurs <choice>
+                        <orig>maiſons</orig>
+                        <reg>maisons</reg>
+                    </choice>, pour eulx
+	<lb/>&amp; leurs familles tant <choice>
+                        <orig>ſeulement</orig>
+                        <reg>seulement</reg>
+                    </choice>
+                    <choice>
+                        <orig>:</orig>
+                        <reg>,</reg>
+                    </choice> <w>moy
+	<pc>-</pc>
+                        <lb/>ennant</w> qu’ils ne <choice>
+                        <orig>ſoyent</orig>
+                        <reg>soyent</reg>
+                    </choice> demourants es
+	<lb/>villes, bourgs &amp; villages des Seigneurs
+	<lb/>hauts <choice>
+                        <orig>Iuſticiers</orig>
+                        <reg>Iusticiers</reg>
+                    </choice>, aultres que nous<choice>
+                        <orig>:</orig>
+                        <reg>;</reg>
+                    </choice> <w>Au
+	<pc>-</pc>
+                        <lb/>quel</w> cas, ils ne pourront <choice>
+                        <orig>eſdicts</orig>
+                        <reg>esdicts</reg>
+                    </choice> lieux
+	<lb/>faire exercice de ladicte Religion, <choice>
+                        <orig>ſi</orig>
+                        <reg>si</reg>
+                    </choice>
+	<lb/>n’<choice>
+                        <orig>eſt</orig>
+                        <reg>est</reg>
+                    </choice> par <choice>
+                        <orig>permiſſion</orig>
+                        <reg>permission</reg>
+                    </choice> &amp; congé de <choice>
+                        <orig>
+                            <w>leurſ<pc>-</pc>
+                                <lb/>dicts</w>
+                        </orig>
+                        <reg>
+                            <w>leurs
+	<pc>-</pc>
+                                <lb/>dicts</w>
+                        </reg>
+                    </choice> Seigneurs haults <choice>
+                        <orig>Iuſticiers</orig>
+                        <reg>Iusticiers</reg>
+                    </choice>, &amp; <choice>
+                        <orig>nō</orig>
+                        <reg>non</reg>
+                    </choice>
+ 	<lb/>aultrement.<milestone type="ref" unit="section" xml:id="art_1_ende"/>
+                </p>
+		<p>
+                    <milestone type="ref" unit="section" xml:id="art_2_beginn"/>
+                    <lb/>Qu’en <choice>
+                        <orig>chaſcū</orig>
+                        <reg>chascun</reg>
+                    </choice> Bailliage<note type="annotation" xml:id="bailliage">Verwaltungsbezirk
+		mittlerer Ebene v.a. im Norden Frankreichs, vgl. <rs type="bibl" ref="#constant_bailliages">
+                            <surname type="author">Constant</surname>, Bailliages</rs>.</note>, <choice>
+                        <orig>
+                            <w>Seneſchauſ<pc>-</pc>
+                                <lb/>ſee</w>
+                        </orig>
+                        <reg>
+                            <w>Seneschaus
+	<pc>-</pc>
+                                <lb/>see</w>
+                        </reg>
+                    </choice>
+                    <note type="annotation" xml:id="senechaussee">Verwaltungsbezirk mittlerer Ebene v.a. im Süden Frankreichs,
+		vgl. <rs type="bibl" ref="#constant_bailliages">
+                            <surname type="author">Constant</surname>, Bailliages</rs>.</note> &amp; Gouuernement tenant lieu de
+	<lb/>
+                    <pb facs="#bpt6k9691730m_f10_image" n="B1v"/>Bailliage, comme <rs type="place" ref="#peronne">Peronne</rs>, <rs type="place" ref="#montdidier">
+                        <w>Montdi
+	<pc>-</pc>
+                            <lb/>dier</w>
+                    </rs>
+                    <note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_02">Edikt II, Art. 2</ref>
+                        </rs>: <hi rend="italic">danach folgend</hi> et.</note>, <rs type="place" ref="#roye">Roye</rs>, &amp; <rs type="place" ref="#la_rochelle">
+                        <choice>
+                            <orig>la</orig>
+                            <reg>La</reg>
+                        </choice> Rochelle</rs>, &amp; aultres de
+	<lb/>
+                    <choice>
+                        <orig>ſemblable</orig>
+                        <reg>semblable</reg>
+                    </choice> nature, <choice>
+                        <orig>reſſortiſſant</orig>
+                        <reg>ressortissant</reg>
+                    </choice>
+                    <note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_02">Edikt II, Art. 2</ref>
+                        </rs>: ressortissans.</note> <choice>
+                        <orig>nuemēt</orig>
+                        <reg>nuement</reg>
+                    </choice>
+	<lb/>&amp; <choice>
+                        <orig>ſans</orig>
+                        <reg>sans</reg>
+                    </choice> moyen en nos Cours de <w>Parle
+	<pc>-</pc>
+                        <lb/>ments</w>
+                    <note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_02">Edikt II, Art. 2</ref>
+                        </rs>: parlement.</note>
+                    <note type="annotation">Vgl. oben <ref type="quelle" target="#parlement">
+                            <ref type="print">S. #, </ref>Anm. 2</ref>.</note>
+                    <choice>
+                        <orig>:</orig>
+                        <reg>,</reg>
+                    </choice> Nous ordonnerons à la <choice>
+                        <orig>
+                            <w>reque<pc>-</pc>
+                                <lb/>ſte</w>
+                        </orig>
+                        <reg>
+                            <w>reque
+	<pc>-</pc>
+                                <lb/>ste</w>
+                        </reg>
+                    </choice> <choice>
+                        <orig>deſdicts</orig>
+                        <reg>desdicts</reg>
+                    </choice> de la <choice>
+                        <orig>Religiō</orig>
+                        <reg>Religion</reg>
+                    </choice> vne ville, aux
+	<lb/>faulxbourgs de laquelle l’exercice de
+	<lb/>ladicte <choice>
+                        <orig>Religiō</orig>
+                        <reg>Religion</reg>
+                    </choice> <choice>
+                        <orig>ſe</orig>
+                        <reg>se</reg>
+                    </choice> pourra faire de tous
+	<lb/>ceulx du <choice>
+                        <orig>reſſort</orig>
+                        <reg>ressort</reg>
+                    </choice> qui y voudront aller,
+	<lb/>&amp; non aultrement, ny ailleurs.</p>
+ <p>
+                    <lb/>Et neantmoins<supplied>,</supplied> <choice>
+                        <orig>chaſcun</orig>
+                        <reg>chascun</reg>
+                    </choice> pourra <w>vi
+	<pc>-</pc>
+                        <lb/>ure</w> &amp; demourer par tout en <choice>
+                        <orig>ſa</orig>
+                        <reg>sa</reg>
+                    </choice> <choice>
+                        <orig>maiſon</orig>
+                        <reg>maison</reg>
+                    </choice>
+	<lb/>librement, <choice>
+                        <orig>ſans</orig>
+                        <reg>sans</reg>
+                    </choice> <choice>
+                        <orig>eſtre</orig>
+                        <reg>estre</reg>
+                    </choice> recherché ne <choice>
+                        <orig>
+                            <w>mo<pc>-</pc>
+                                <lb/>leſté</w>
+                        </orig>
+                        <reg>
+                            <w>mo
+	<pc>-</pc>
+                                <lb/>lesté</w>
+                        </reg>
+                    </choice>, forcé ne contrainct pour le faict
+ 	<lb/>de <choice>
+                        <orig>ſa</orig>
+                        <reg>sa</reg>
+                    </choice> <choice>
+                        <orig>conſcience</orig>
+                        <reg>conscience</reg>
+                    </choice>.<milestone type="ref" unit="section" xml:id="art_2_ende"/>
+                </p>
+ <p xml:id="art_3">
+                    <lb/>Qu’en toutes les villes, <choice>
+                        <orig>eſquelles</orig>
+                        <reg>esquelles</reg>
+                    </choice> <w>la
+	<pc>-</pc>
+                        <lb/>dicte</w> Religion <choice>
+                        <orig>eſtoit</orig>
+                        <reg>estoit</reg>
+                    </choice> <choice>
+                        <orig>iuſques</orig>
+                        <reg>iusques</reg>
+                    </choice> au VII.<note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_03">Edikt II, Art. 3</ref>
+                        </rs>: septiesme.</note>
+	<lb/>de ce <choice>
+                        <orig>preſēt</orig>
+                        <reg>present</reg>
+                    </choice> mois de Mars exercee, <w>oul
+	<pc>-</pc>
+                        <lb/>tre</w> les aultres villes, qui <choice>
+                        <orig>ſerōt</orig>
+                        <reg>seront</reg>
+                    </choice>, <choice>
+                        <orig>ainſi</orig>
+                        <reg>ainsi</reg>
+                    </choice> que
+	<lb/>dict <choice>
+                        <orig>eſt</orig>
+                        <reg>est</reg>
+                    </choice>, <choice>
+                        <orig>particulieremēt</orig>
+                        <reg>particulierement</reg>
+                    </choice> <choice>
+                        <orig>ſpecifiees</orig>
+                        <reg>specifiees</reg>
+                    </choice> <w>des
+	<pc>-</pc>
+                        <lb/>dicts</w> Bailliages<note type="annotation">Vgl. oben <ref type="quelle" target="#bailliage">
+                            <ref type="print">S. #, </ref>Anm. 8</ref>.</note> &amp; <choice>
+                        <orig>Seneſchauſſees</orig>
+                        <reg>Seneschaussees</reg>
+                    </choice>
+                    <note type="annotation">Vgl. oben <ref type="quelle" target="#senechaussee">
+                            <ref type="print">S. #, </ref>Anm. 9</ref>.</note>
+                    <choice>
+                        <orig>:</orig>
+                        <reg>,</reg>
+                    </choice> le
+	<lb/>
+                    <choice>
+                        <orig>meſme</orig>
+                        <reg>mesme</reg>
+                    </choice> exercice <choice>
+                        <orig>ſera</orig>
+                        <reg>sera</reg>
+                    </choice> continué en vn
+	<lb/>
+                    <pb facs="#bpt6k9691730m_f11_image" n="B2r"/>ou deux lieux dedans ladicte ville, tel
+	<lb/>ou tels que par nous <choice>
+                        <orig>ſera</orig>
+                        <reg>sera</reg>
+                    </choice> <choice>
+                        <orig>ordōné</orig>
+                        <reg>ordonné</reg>
+                    </choice>. Sans
+	<lb/>que ceulx de ladicte Religion <choice>
+                        <orig>puiſſent</orig>
+                        <reg>puissent</reg>
+                    </choice>
+	<lb/>
+                    <choice>
+                        <orig>ſ</orig>
+                        <reg>s</reg>
+                    </choice>’aider, <choice>
+                        <orig>prēdre</orig>
+                        <reg>prendre</reg>
+                    </choice> ne retenir aucun temple
+	<lb/>ne <choice>
+                        <orig>egliſes</orig>
+                        <reg>eglises</reg>
+                    </choice>
+                    <note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_03">Edikt II, Art. 3</ref>
+                        </rs>: eglise.</note> des gens <choice>
+                        <orig>Eccleſiaſtiques</orig>
+                        <reg>Ecclesiastiques</reg>
+                    </choice>
+                    <choice>
+                        <orig>:</orig>
+                        <reg>;</reg>
+                    </choice> <choice> <orig>
+                            <w>leſ<pc>-</pc>
+                                <lb/>quels</w>
+                        </orig>
+                        <reg>
+                            <w>les
+	<pc>-</pc>
+                                <lb/>quels</w>
+                        </reg>
+                    </choice> nous entendons <choice>
+                        <orig>eſtre</orig>
+                        <reg>estre</reg>
+                    </choice> des <w>main
+	<pc>-</pc>
+                        <lb/>tenant</w> remis en leurs <choice>
+                        <orig>Egliſes</orig>
+                        <reg>Eglises</reg>
+                    </choice>, <choice>
+                        <orig>maiſons</orig>
+                        <reg>maisons</reg>
+                    </choice>,
+	<lb/>biens<note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_03">Edikt II, Art. 3</ref>
+                        </rs>: <hi rend="italic">danach folgend</hi> et.</note>, <choice>
+                        <orig>poſſeſsions</orig>
+                        <reg>possessions</reg>
+                    </choice> &amp; reuenus, pour en
+	<lb/>iouir &amp; <choice>
+                        <orig>vſer</orig>
+                        <reg>vser</reg>
+                    </choice> tout <choice>
+                        <orig>ainſi</orig>
+                        <reg>ainsi</reg>
+                    </choice> qu’ils <choice>
+                        <orig>faiſoyent</orig>
+                        <reg>faisoyent</reg>
+                    </choice>
+	<lb/>au parauant ces tumultes: faire &amp; <w>con
+	<pc>-</pc>
+                        <lb/>tinuer</w> le <choice>
+                        <orig>ſeruice</orig>
+                        <reg>seruice</reg>
+                    </choice> diuin &amp; <choice>
+                        <orig>accouſtumé</orig>
+                        <reg>accoustumé</reg>
+                    </choice>
+	<lb/>par eulx en <choice>
+                        <orig>leurſdictes</orig>
+                        <reg>leursdictes</reg>
+                    </choice> <choice>
+                        <orig>egliſes</orig>
+                        <reg>eglises</reg>
+                    </choice>, <choice>
+                        <orig>ſans</orig>
+                        <reg>sans</reg>
+                    </choice> <choice>
+                        <orig>
+                            <w>mo
+	<lb/>leſte</w>
+                        </orig>
+                        <reg>
+                            <w>mo
+	<pc>-</pc>
+                                <lb/>leste</w>
+                        </reg>
+                    </choice> ne<note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_03">Edikt II, Art. 3</ref>
+                        </rs>: ny.</note> <choice>
+                        <orig>empeſchement</orig>
+                        <reg>empeschement</reg>
+                    </choice> quelconque<choice>
+                        <orig>:</orig>
+                        <reg>;</reg>
+                    </choice>
+	<lb/>ne <choice>
+                        <orig>auſſi</orig>
+                        <reg>aussi</reg>
+                    </choice> qu’ils <choice>
+                        <orig>puiſſent</orig>
+                        <reg>puissent</reg>
+                    </choice> pretendre <w>aucu
+	<pc>-</pc>
+                        <lb/>ne</w> <choice>
+                        <orig>choſe</orig>
+                        <reg>chose</reg>
+                    </choice> des demolitions qui y ont <choice>
+                        <orig>
+                            <w>e<pc>-</pc>
+                                <lb/>ſté</w>
+                        </orig>
+                        <reg>
+                            <w>e
+    <pc>-</pc>
+                                <lb/>sté</w>
+                        </reg>
+                    </choice> faictes.<milestone type="ref" unit="section" xml:id="evangelische_gottesdienste_ende"/>
+                </p>
+		
+<p>
+                    <milestone type="ref" unit="section" xml:id="art_4_beginn"/>
+                    <lb/>Entendons <choice>
+                        <orig>auſſi</orig>
+                        <reg>aussi</reg>
+                    </choice> que la ville &amp; <choice>
+                        <orig>
+                            <w>reſ<pc>-</pc>
+                                <lb/>ſort</w>
+                        </orig>
+                        <reg>
+                            <w>res
+    <pc>-</pc>
+                                <lb/>sort</w>
+                        </reg>
+                    </choice> de la <choice>
+                        <orig>Preuoſté</orig>
+                        <reg>Preuosté</reg>
+                    </choice> &amp; Viconté de <rs type="place" ref="#paris">Paris</rs>
+                    <note type="annotation">Jurisdiktionsbezirk der Stadt Paris, vgl. <rs type="bibl" ref="#limon_chatelet">
+                            <surname type="author">Limon</surname>, Châtelet, S. 252</rs>.</note>
+	<lb/>
+                    <choice>
+                        <orig>ſoyent</orig>
+                        <reg>soyent</reg>
+                    </choice> &amp; demeurent exempts de tout
+	<lb/>exercice de ladicte Religion. Et que
+	<lb/>neantmoins ceulx qui ont leurs <choice>
+                        <orig>
+                            <w>mai<pc>-</pc>
+                                <lb/>ſons</w>
+                        </orig>
+                        <reg>
+                            <w>mai
+	<pc>-</pc>
+                                <lb/>sons</w>
+                        </reg>
+                    </choice> &amp; reuenus dedans ladicte ville &amp;
+	<lb/>
+                    <pb facs="#bpt6k9691730m_f12_image" n="B2v"/>
+                    <choice>
+                        <orig>reſſort</orig>
+                        <reg>ressort</reg>
+                    </choice>, <choice>
+                        <orig>puiſſent</orig>
+                        <reg>puissent</reg>
+                    </choice> retourner en <choice>
+                        <orig>
+                            <w>leurſdi<pc>-</pc>
+                                <lb/>ctes</w>
+                        </orig>
+                        <reg>
+                            <w>leursdi
+	<pc>-</pc>
+                                <lb/>ctes</w>
+                        </reg>
+                    </choice> <choice>
+                        <orig>maiſons</orig>
+                        <reg>maisons</reg>
+                    </choice> &amp; iouir de <choice>
+                        <orig>leurſdicts</orig>
+                        <reg>leursdicts</reg>
+                    </choice> <choice>
+                        <orig>biēs</orig>
+                        <reg>biens</reg>
+                    </choice>
+	<lb/>
+                    <choice>
+                        <orig>paiſiblement</orig>
+                        <reg>paisiblement</reg>
+                    </choice>
+                    <choice>
+                        <orig>:</orig>
+                        <reg>,</reg>
+                    </choice> <choice>
+                        <orig>ſans</orig>
+                        <reg>sans</reg>
+                    </choice> <choice>
+                        <orig>eſtre</orig>
+                        <reg>estre</reg>
+                    </choice> forcez ne <w>con
+	<pc>-</pc>
+                        <lb/>traincts</w>, recherchez ne <choice>
+                        <orig>moleſtez</orig>
+                        <reg>molestez</reg>
+                    </choice> du
+	<lb/>
+                    <choice>
+                        <orig>paſſé</orig>
+                        <reg>passé</reg>
+                    </choice> ne pour l’aduenir<supplied>,</supplied> pour le faict de
+	<lb/>leurs <choice>
+                        <orig>conſciences</orig>
+                        <reg>consciences</reg>
+                    </choice>.</p>
+ <p xml:id="wiederherstellung_staedte">
+                    <lb/>Toutes villes <choice>
+                        <orig>ſeront</orig>
+                        <reg>seront</reg>
+                    </choice> <choice>
+                        <orig>remiſes</orig>
+                        <reg>remises</reg>
+                    </choice> en leur
+	<lb/>premier <choice>
+                        <orig>eſtat</orig>
+                        <reg>estat</reg>
+                    </choice> &amp; libre commerce, &amp;
+	<lb/>tous <choice>
+                        <orig>eſtrangers</orig>
+                        <reg>estrangers</reg>
+                    </choice> mis &amp; renuoyez hors
+	<lb/>
+                    <choice>
+                        <orig>ceſtuy</orig>
+                        <reg>cestuy</reg>
+                    </choice> <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> <rs type="place" ref="#frankreich_koenigreich">Royaume</rs>, le <choice>
+                        <orig>pluſtoſt</orig>
+                        <reg>plustost</reg>
+                    </choice> que
+ 	<lb/>faire <choice>
+                        <orig>ſe</orig>
+                        <reg>se</reg>
+                    </choice> pourra.<milestone type="ref" unit="section" xml:id="art_4_ende"/>
+                </p>
+ <p xml:id="art_5">
+                    <lb/>
+                    <choice>
+                        <orig>ET</orig>
+                        <reg>Et</reg>
+                    </choice> pour rendre les volontez de
+	<lb/>
+                    <choice>
+                        <orig>noſdicts</orig>
+                        <reg>nosdicts</reg>
+                    </choice> <choice>
+                        <orig>ſubiects</orig>
+                        <reg>subiects</reg>
+                    </choice> plus contentes &amp; <choice>
+                        <orig>
+                            <w>ſa<pc>-</pc>
+                                <lb/>tiſfaictes</w>
+                        </orig>
+                        <reg>
+                            <w>sa
+	<pc>-</pc>
+                                <lb/>tisfaictes</w>
+                        </reg>
+                    </choice>, ordonnons, voulons <choice>
+                        <orig>auſsi</orig>
+                        <reg>aussi</reg>
+                    </choice> &amp;
+	<lb/>nous <choice>
+                        <orig>plaiſt</orig>
+                        <reg>plaist</reg>
+                    </choice>, que <choice>
+                        <orig>chaſcun</orig>
+                        <reg>chascun</reg>
+                    </choice> d’eulx <w>retour
+	<pc>-</pc>
+                        <lb/>ne</w>, &amp; <choice>
+                        <orig>ſoit</orig>
+                        <reg>soit</reg>
+                    </choice> <choice>
+                        <orig>conſerué</orig>
+                        <reg>conserué</reg>
+                    </choice>, maintenu &amp; <w>gar
+	<pc>-</pc>
+                        <lb/>dé</w> <choice>
+                        <orig>ſoubs</orig>
+                        <reg>soubs</reg>
+                    </choice> <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> protection en tous <choice>
+                        <orig>ſes</orig>
+                        <reg>ses</reg>
+                    </choice>
+	<lb/>biens, honneurs, <choice>
+                        <orig>eſtats</orig>
+                        <reg>estats</reg>
+                    </choice>, charges &amp; <w>offi
+	<pc>-</pc>
+                        <lb/>ces</w>, de quelque qualité qu’ils <choice>
+                        <orig>ſoyent</orig>
+                        <reg>soyent</reg>
+                    </choice>
+                    <choice>
+                        <orig>:</orig>
+                        <reg>,</reg>
+                    </choice>
+	<lb/>
+                    <choice>
+                        <orig>Nonobſtant</orig>
+                        <reg>Nonobstant</reg>
+                    </choice> tous decrets, <choice>
+                        <orig>ſaiſies</orig>
+                        <reg>saisies</reg>
+                    </choice>, <w>pro
+	<pc>-</pc>
+                        <lb/>cedures</w>, iugements, <choice>
+                        <orig>ſentences</orig>
+                        <reg>sentences</reg>
+                    </choice>, <choice>
+                        <orig>arreſts</orig>
+                        <reg>arrests</reg>
+                    </choice>
+	<lb/>contre eulx <choice>
+                        <orig>dōnez</orig>
+                        <reg>donnez</reg>
+                    </choice> depuis le <choice>
+                        <orig>treſpas</orig>
+                        <reg>trespas</reg>
+                    </choice> du
+	<lb/>
+                    <pb facs="#bpt6k9691730m_f13_image" n="B3r"/>feu Roy <rs type="person" ref="#heinrich_ii">Henry</rs> <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> treshonoré <w>Sei
+	<pc>-</pc>
+                        <lb/>gneur</w> &amp; pere de louable memoire, &amp;
+	<lb/>execution d’iceulx<choice>
+                        <orig>:</orig>
+                        <reg>,</reg>
+                    </choice> tant pour le faict
+	<lb/>de la Religion, voyages faicts dedans
+	<lb/>&amp; dehors ce <rs type="place" ref="#frankreich_koenigreich">Royaume</rs> par le <w>comman
+	<choice>
+                            <orig/>
+                            <reg>
+                                <pc>-</pc>
+                            </reg>
+                        </choice>
+                        <lb/>dement</w> de <choice>
+                        <orig>noſtredict</orig>
+                        <reg>nostredict</reg>
+                    </choice> <choice>
+                        <orig>Couſin</orig>
+                        <reg>Cousin</reg>
+                    </choice> le <rs type="person" ref="#conde_louis">
+                        <w>Prin
+	<pc>-</pc>
+                            <lb/>ce</w> de Condé</rs>, que pour<note type="crit_app">Korrigiert aus: po[u]r mit beschädigtem Buchstaben u.</note> les armes <choice>
+                        <orig>priſes</orig>
+                        <reg>prises</reg>
+                    </choice>
+	<lb/>à <choice>
+                        <orig>ceſte</orig>
+                        <reg>ceste</reg>
+                    </choice> <choice>
+                        <orig>occaſiō</orig>
+                        <reg>occasion</reg>
+                    </choice>, &amp; ce qui <choice>
+                        <orig>ſ</orig>
+                        <reg>s</reg>
+                    </choice>’en <choice>
+                        <orig>eſt</orig>
+                        <reg>est</reg>
+                    </choice> <choice>
+                        <orig>
+                            <w>enſuy<pc>-</pc>
+                                <lb/>ui</w>
+                        </orig>
+                        <reg>
+                            <w>ensui
+	<pc>-</pc>
+                                <lb/>ui</w>
+                        </reg>
+                    </choice>: <choice>
+                        <orig>leſquels</orig>
+                        <reg>lesquels</reg>
+                    </choice> nous auons declarez &amp; <w>de
+	<pc>-</pc>
+                        <lb/>clarons</w> nuls &amp; de nul effect<note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_05">Edikt II, Art. 5</ref>
+                        </rs>: <hi rend="italic">danach folgend</hi> et valeure.</note>. Sans ce
+	<lb/>que pour <choice>
+                        <orig>raiſon</orig>
+                        <reg>raison</reg>
+                    </choice> d’iceulx, eulx ne leurs
+	<lb/>enfans, heritiers &amp; ayants <choice>
+                        <orig>cauſe</orig>
+                        <reg>cause</reg>
+                    </choice> <choice>
+                        <orig>ſoyent</orig>
+                        <reg>soyent</reg>
+                    </choice>
+	<lb/>
+                    <choice>
+                        <orig>aucunemēt</orig>
+                        <reg>aucunement</reg>
+                    </choice> <choice>
+                        <orig>empeſchez</orig>
+                        <reg>empeschez</reg>
+                    </choice> en la <choice>
+                        <orig>
+                            <w>iouiſſan<pc>-</pc>
+                                <lb/>ce</w>
+                        </orig>
+                        <reg>
+                            <w>iouissan
+	<pc>-</pc>
+                                <lb/>ce</w>
+                        </reg>
+                    </choice> de <choice>
+                        <orig>leurſdicts</orig>
+                        <reg>leursdicts</reg>
+                    </choice> biens &amp; honneurs, ne
+	<lb/>qu’ils <choice>
+                        <orig>ſoyent</orig>
+                        <reg>soyent</reg>
+                    </choice> tenus en prendre ne <w>ob
+	<pc>-</pc>
+                        <lb/>tenir</w> de nous aultre <choice>
+                        <orig>prouiſion</orig>
+                        <reg>prouision</reg>
+                    </choice> que ces
+	<lb/>
+                    <choice>
+                        <orig>preſentes</orig>
+                        <reg>presentes</reg>
+                    </choice>, par <choice>
+                        <orig>leſquelles</orig>
+                        <reg>lesquelles</reg>
+                    </choice> nous mettons
+	<lb/>leurs <choice>
+                        <orig>perſonnes</orig>
+                        <reg>personnes</reg>
+                    </choice> &amp; biens en pleine <w>li
+	<pc>-</pc>
+                        <lb/>berté</w>.</p>
+ <p xml:id="art_6">
+                    <lb/>
+                    <choice>
+                        <orig>ET</orig>
+                        <reg>Et</reg>
+                    </choice> à fin qu’il ne <choice>
+                        <orig>ſoit</orig>
+                        <reg>soit</reg>
+                    </choice> doubté de la
+	<lb/>
+                    <choice>
+                        <orig>ſincerité</orig>
+                        <reg>sincerité</reg>
+                    </choice> &amp; droicte intention de <choice>
+                        <orig>
+                            <w>no<pc>-</pc>
+                                <lb/>ſtredict</w>
+                        </orig>
+                        <reg>
+                            <w>no
+	<pc>-</pc>
+                                <lb/>stredict</w>
+                        </reg>
+                    </choice> <choice>
+                        <orig>Couſin</orig>
+                        <reg>Cousin</reg>
+                    </choice> le <rs type="person" ref="#conde_louis">Prince de Condé</rs>,
+	<lb/>
+                    <pb facs="#bpt6k9691730m_f14_image" n="B3v"/>Auons dict &amp; declairé, <choice>
+                        <orig>diſons</orig>
+                        <reg>disons</reg>
+                    </choice> &amp; <w>de
+	<pc>-</pc>
+                        <lb/>clairons</w> Que nous reputons iceluy <choice>
+                        <orig>
+                            <w>no
+	<lb/>ſtredict</w>
+                        </orig>
+                        <reg>
+                            <w>no
+	<pc>-</pc>
+                                <lb/>stredict</w>
+                        </reg>
+                    </choice> <choice>
+                        <orig>Couſin</orig>
+                        <reg>Cousin</reg>
+                    </choice> pour <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> bon <choice>
+                        <orig>parēt</orig>
+                        <reg>parent</reg>
+                    </choice>,
+	<lb/>fidele <choice>
+                        <orig>ſubiect</orig>
+                        <reg>subiect</reg>
+                    </choice> &amp; <choice>
+                        <orig>ſeruiteur</orig>
+                        <reg>seruiteur</reg>
+                    </choice>, comme <choice>
+                        <orig>
+                            <w>auſ<pc>-</pc>
+                                <lb/>ſi</w>
+                        </orig>
+                        <reg>
+                            <w>aus
+	<pc>-</pc>
+                                <lb/>si</w>
+                        </reg>
+                    </choice> nous tenons tous les Seigneurs, <w>Che
+	<choice>
+                            <orig/>
+                            <reg>
+                                <pc>-</pc>
+                            </reg>
+                        </choice>
+                        <lb/>ualiers</w>, <choice>
+                        <orig>Gētils-hommes</orig>
+                        <reg>Gentils-hommes</reg>
+                    </choice> &amp; aultres <w>ha
+	<pc>-</pc>
+                        <lb/>bitans</w> des villes, communautez<note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_06">Edikt II, Art. 6</ref>
+                        </rs>: <hi rend="italic">danach folgend</hi> et.</note>, <w>bour
+	<pc>-</pc>
+                        <lb/>gades</w>, &amp; aultres lieux de nos <rs type="place" ref="#frankreich_koenigreich">
+                        <w>Royau
+	<pc>-</pc>
+                            <lb/>mes</w>
+                        <note type="crit_app">
+                            <rs type="bibl" ref="#barbiche_ua_edits">
+                                <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_06">Edikt II, Art. 6</ref>
+                            </rs>: royaume.</note>
+                    </rs> &amp; pays de <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> <choice>
+                        <orig>obeiſſance</orig>
+                        <reg>obeissance</reg>
+                    </choice>, qui
+	<lb/>l’ont <choice>
+                        <orig>ſuyui</orig>
+                        <reg>suyui</reg>
+                    </choice>, <choice>
+                        <orig>ſecouru</orig>
+                        <reg>secouru</reg>
+                    </choice>, aidé &amp; <w>accompa
+	<pc>-</pc>
+                        <lb/>gné</w> en <choice>
+                        <orig>ceſte</orig>
+                        <reg>ceste</reg>
+                    </choice> <choice>
+                        <orig>preſente</orig>
+                        <reg>presente</reg>
+                    </choice> guerre, &amp; durant
+	<lb/>
+                    <choice>
+                        <orig>ceſdicts</orig>
+                        <reg>cesdicts</reg>
+                    </choice> tumultes, en quelque part &amp; 
+	<lb/>lieu que <choice>
+                        <orig>ſoit</orig>
+                        <reg>soit</reg>
+                    </choice> de <choice>
+                        <orig>noſtredict</orig>
+                        <reg>nostredict</reg>
+                    </choice> Royaume,
+	<lb/>pour nos bons &amp; loyaux <choice>
+                        <orig>ſubiects</orig>
+                        <reg>subiects</reg>
+                    </choice> &amp; <choice>
+                        <orig>
+                            <w>ſer<lb/>uiteurs</w>
+                        </orig>
+                        <reg>
+                            <w>ser
+	<pc>-</pc>
+                                <lb/>uiteurs</w>
+                        </reg>
+                    </choice>
+                    <choice>
+                        <orig>:</orig>
+                        <reg>,</reg>
+                    </choice> Croyant &amp; <choice>
+                        <orig>eſtimāt</orig>
+                        <reg>estimant</reg>
+                    </choice> que ce qui
+	<lb/>a <choice>
+                        <orig>eſté</orig>
+                        <reg>esté</reg>
+                    </choice> faict cy deuant par <choice>
+                        <orig>noſdicts</orig>
+                        <reg>nosdicts</reg>
+                    </choice> <choice>
+                        <orig>
+                            <w>ſub<pc>-</pc>
+                                <lb/>iects</w>
+                        </orig>
+                        <reg>
+                            <w>sub
+	<pc>-</pc>
+                                <lb/>iects</w>
+                        </reg>
+                    </choice>, tant pour le faict des armes, qu’<choice>
+                        <orig>
+                            <w>e<pc>-</pc>
+                                <lb/>ſtabliſſement</w>
+                        </orig>
+                        <reg>
+                            <w>e
+	<pc>-</pc>
+                                <lb/>stablissement</w>
+                        </reg>
+                    </choice> de la <choice>
+                        <orig>Iuſtice</orig>
+                        <reg>Iustice</reg>
+                    </choice> <choice>
+                        <orig>miſe</orig>
+                        <reg>mise</reg>
+                    </choice> entre
+	<lb/>eulx, iugements &amp; execution d’icelle,
+	<lb/>a <choice>
+                        <orig>eſté</orig>
+                        <reg>esté</reg>
+                    </choice> faict à bonne fin &amp; intention, &amp;
+	<lb/>pour <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> <choice>
+                        <orig>ſeruice</orig>
+                        <reg>seruice</reg>
+                    </choice>.</p>
+<p>
+                    <milestone type="ref" unit="section" xml:id="art_7_beginn"/>
+                    <lb/>Ordonnons <choice>
+                        <orig>auſsi</orig>
+                        <reg>aussi</reg>
+                    </choice>, voulons &amp; nous
+	<lb/>
+                    <pb facs="#bpt6k9691730m_f15_image" n="B4r"/>
+                    <choice>
+                        <orig>plaiſt</orig>
+                        <reg>plaist</reg>
+                    </choice>
+                    <supplied>,</supplied> Que <choice>
+                        <orig>noſtredict</orig>
+                        <reg>nostredict</reg>
+                    </choice> <choice>
+                        <orig>couſin</orig>
+                        <reg>cousin</reg>
+                    </choice> le <rs type="person" ref="#conde_louis">Prince
+	<lb/>de Condé</rs> demeure quicte, &amp; par ces
+	<lb/>
+                    <choice>
+                        <orig>preſētes</orig>
+                        <reg>presentes</reg>
+                    </choice> <choice>
+                        <orig>ſignees</orig>
+                        <reg>signees</reg>
+                    </choice> de <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> main<supplied>,</supplied> le <w>qui
+	<pc>-</pc>
+                        <lb/>ctons</w> de tous les deniers qui ont <choice>
+                        <orig>eſté</orig>
+                        <reg>esté</reg>
+                    </choice>
+	<lb/>par luy, &amp; par <choice>
+                        <orig>ſon</orig>
+                        <reg>son</reg>
+                    </choice> commandement &amp;
+	<lb/>ordonnance prins &amp; leuez en nos <w>Re
+	<pc>-</pc>
+                        <lb/>ceptes</w> &amp; de nos Finances, à quelque
+	<lb/>
+                    <choice>
+                        <orig>ſomme</orig>
+                        <reg>somme</reg>
+                    </choice> qu’ils <choice>
+                        <orig>ſe</orig>
+                        <reg>se</reg>
+                    </choice> <choice>
+                        <orig>puiſſent</orig>
+                        <reg>puissent</reg>
+                    </choice> monter.</p> 
+ <p>
+                    <lb/>Et <choice>
+                        <orig>ſemblablement</orig>
+                        <reg>semblablement</reg>
+                    </choice> qu’il demeure
+	<lb/>
+                    <choice>
+                        <orig>deſchargé</orig>
+                        <reg>deschargé</reg>
+                    </choice> de ceulx qui ont <choice>
+                        <orig>eſté</orig>
+                        <reg>esté</reg>
+                    </choice>, <choice>
+                        <orig>ainſi</orig>
+                        <reg>ainsi</reg>
+                    </choice> 
+	<lb/>que dict <choice>
+                        <orig>eſt</orig>
+                        <reg>est</reg>
+                    </choice>, par luy &amp; <choice>
+                        <orig>ſon</orig>
+                        <reg>son</reg>
+                    </choice> <w>ordonnan
+	<pc>-</pc>
+                        <lb/>ce</w> <choice>
+                        <orig>auſsi</orig>
+                        <reg>aussi</reg>
+                    </choice> prins, &amp; leuez des <choice>
+                        <orig>
+                            <w>Cōmunau<pc>-</pc>
+                                <lb/>tez</w>
+                        </orig>
+                        <reg>
+                            <w>Communau
+	<pc>-</pc>
+                                <lb/>tez</w>
+                        </reg>
+                    </choice>, villes, argenteries, rentes, reuenus
+	<lb/>des <choice>
+                        <orig>egliſes</orig>
+                        <reg>eglises</reg>
+                    </choice>, &amp; aultres de par luy <w>em
+	<pc>-</pc>
+                        <lb/>ployez</w> pour l’<choice>
+                        <orig>occaſion</orig>
+                        <reg>occasion</reg>
+                    </choice> de la <choice>
+                        <orig>preſente</orig>
+                        <reg>presente</reg>
+                    </choice>
+	<lb/>guerre<choice>
+                        <orig>:</orig>
+                        <reg>;</reg>
+                    </choice> Sans ce que luy, les <choice>
+                        <orig>ſiens</orig>
+                        <reg>siens</reg>
+                    </choice>, ny
+	<lb/>ceulx qui ont <choice>
+                        <orig>eſté</orig>
+                        <reg>esté</reg>
+                    </choice> par luy commis à la
+	<lb/>leuee <choice>
+                        <orig>deſdicts</orig>
+                        <reg>desdicts</reg>
+                    </choice> deniers (<choice>
+                        <orig>leſquels</orig>
+                        <reg>lesquels</reg>
+                    </choice>, &amp; <choice>
+                        <orig>
+                            <w>ſem<pc>-</pc>
+                                <lb/>blablement</w>
+                        </orig>
+                        <reg>
+                            <w>sem
+	<pc>-</pc>
+                                <lb/>blablement</w>
+                        </reg>
+                    </choice> ceulx qui les ont fournis
+	<lb/>&amp; baillez, en demoureront quictes &amp;
+	<lb/>
+                    <choice>
+                        <orig>deſchargez</orig>
+                        <reg>deschargez</reg>
+                    </choice>
+                    <orig>:</orig>)<supplied>,</supplied> en <choice>
+                        <orig>puiſſent</orig>
+                        <reg>puissent</reg>
+                    </choice> <choice>
+                        <orig>eſtre</orig>
+                        <reg>estre</reg>
+                    </choice> <w>aucune
+	<pc>-</pc>
+                        <lb/>ment</w> recherchez pour le <choice>
+                        <orig>preſent</orig>
+                        <reg>present</reg>
+                    </choice>
+                    <orig>,</orig> ne<note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_07">Edikt II, Art. 7</ref>
+                        </rs>: ny.</note>
+	<lb/>
+                    <pb facs="#bpt6k9691730m_f16_image" n="B4v"/>pour l’aduenir<choice>
+                        <orig>:</orig>
+                        <reg>;</reg>
+                    </choice> n’<choice>
+                        <orig>auſsi</orig>
+                        <reg>aussi</reg>
+                    </choice> de la <choice>
+                        <orig>fabricatiō</orig>
+                        <reg>fabrication</reg>
+                    </choice>
+	<lb/>de la monnoye, fonte d’artillerie, <w>con
+	<pc>-</pc>
+                        <lb/>fection</w> de pouldres &amp; <choice>
+                        <orig>ſalpeſtres</orig>
+                        <reg>salpestres</reg>
+                    </choice>, <w>forti
+	<pc>-</pc>
+                        <lb/>fications</w> de villes, demolitions faictes
+	<lb/>pour <choice>
+                        <orig>leſdictes</orig>
+                        <reg>lesdictes</reg>
+                    </choice> <choice>
+                        <orig>fortificatiōs</orig>
+                        <reg>fortifications</reg>
+                    </choice>
+                    <supplied>,</supplied> par le <w>com
+	<pc>-</pc>
+                        <lb/>mandement</w> d’iceluy <choice>
+                        <orig>noſtredict</orig>
+                        <reg>nostredict</reg>
+                    </choice> <choice>
+                        <orig>
+                            <w>Cou<pc>-</pc>
+                                <lb/>ſin</w>
+                        </orig>
+                        <reg>
+                            <w>Cou
+	<pc>-</pc>
+                                <lb/>sin</w>
+                        </reg>
+                    </choice> le <rs type="person" ref="#conde_louis">Prince de Condé</rs>
+                    <supplied>,</supplied> en toutes villes
+	<lb/>de <choice>
+                        <orig>ceſtuy</orig>
+                        <reg>cestuy</reg>
+                    </choice> <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> <rs type="place" ref="#frankreich_koenigreich">Royaume</rs> &amp; pays de
+	<lb/>
+                    <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> <choice>
+                        <orig>obeiſſance</orig>
+                        <reg>obeissance</reg>
+                    </choice>. Dont les corps &amp;
+	<lb/>habitans d’icelles villes demoureront
+	<lb/>
+                    <choice>
+                        <orig>auſsi</orig>
+                        <reg>aussi</reg>
+                    </choice> <choice>
+                        <orig>deſchargez</orig>
+                        <reg>deschargez</reg>
+                    </choice>, &amp; iceulx en <choice>
+                        <orig>
+                            <w>deſchar<pc>-</pc>
+                                <lb/>geons</w>
+                        </orig>
+                        <reg>
+                            <w>deschar
+	<pc>-</pc>
+                                <lb/>geons</w>
+                        </reg>
+                    </choice> par <choice>
+                        <orig>ceſdites</orig>
+                        <reg>cesdites</reg>
+                    </choice> <choice>
+                        <orig>preſentes</orig>
+                        <reg>presentes</reg>
+                    </choice>.<milestone type="ref" unit="section" xml:id="art_7_ende"/>
+                </p>
+ <p xml:id="art_8">
+                    <lb/>Que tous <choice>
+                        <orig>priſonniers</orig>
+                        <reg>prisonniers</reg>
+                    </choice>, foit de <w>guer
+	<pc>-</pc>
+                        <lb/>re</w>
+                    <orig>,</orig> ou pour le faict de la Religion, <choice>
+                        <orig>ſerōt</orig>
+                        <reg>seront</reg>
+                    </choice>
+	<lb/>
+                    <choice>
+                        <orig>reſpectiuement</orig>
+                        <reg>respectiuement</reg>
+                    </choice> mis en liberté de leurs
+	<lb/>
+                    <choice>
+                        <orig>perſonnes</orig>
+                        <reg>personnes</reg>
+                    </choice> &amp; biens, <choice>
+                        <orig>ſans</orig>
+                        <reg>sans</reg>
+                    </choice> payer aucune
+	<lb/>rançon<choice>
+                        <orig>:</orig>
+                        <reg>;</reg>
+                    </choice> En ce non comprins les <w>vol
+	<pc>-</pc>
+                        <lb/>leurs</w>, brigands, larrons &amp; meurtriers,
+	<lb/>
+                    <choice>
+                        <orig>leſquels</orig>
+                        <reg>lesquels</reg>
+                    </choice> ne <choice>
+                        <orig>ſeront</orig>
+                        <reg>seront</reg>
+                    </choice> comprins en <choice>
+                        <orig>
+                            <w>ceſdi<pc>-</pc>
+                                <lb/>ctes</w>
+                        </orig>
+                        <reg>
+                            <w>cesdi
+	<pc>-</pc>
+                                <lb/>ctes</w>
+                        </reg>
+                    </choice> <choice>
+                        <orig>preſentes</orig>
+                        <reg>presentes</reg>
+                    </choice>.</p>
+    
+ <p>
+                    <milestone type="ref" unit="section" xml:id="art_9_beginn"/>
+                    <lb/>
+                    <choice>
+                        <orig>ET</orig>
+                        <reg>Et</reg>
+                    </choice> pourautant que nous <choice>
+                        <orig>deſirons</orig>
+                        <reg>desirons</reg>
+                    </choice>
+	<lb/>
+                    <choice>
+                        <orig>ſingulieremēt</orig>
+                        <reg>singulierement</reg>
+                    </choice> que toutes les <choice>
+                        <orig>occaſions</orig>
+                        <reg>occasions</reg>
+                    </choice>
+	<lb/>
+                    <pb facs="#bpt6k9691730m_f17_image" n="C1r"/>de ces troubles, tumultes &amp; <choice>
+                        <orig>ſeditions</orig>
+                        <reg>seditions</reg>
+                    </choice>
+	<lb/>
+                    <choice>
+                        <orig>ceſſent</orig>
+                        <reg>cessent</reg>
+                    </choice>, reconcilier &amp; vnir les <w>inten
+	<pc>-</pc>
+                        <lb/>tions</w> &amp; volontez de <choice>
+                        <orig>noſdicts</orig>
+                        <reg>nosdicts</reg>
+                    </choice> <choice>
+                        <orig>ſubiects</orig>
+                        <reg>subiects</reg>
+                    </choice>
+	<lb/>les vns enuers les autres, &amp; de <choice>
+                        <orig>ceſte</orig>
+                        <reg>ceste</reg>
+                    </choice> <w>v
+	<pc>-</pc>
+                        <lb/>nion</w> maintenir plus <choice>
+                        <orig>facilemēt</orig>
+                        <reg>facilement</reg>
+                    </choice> l’<choice>
+                        <orig>
+                            <w>obeiſ<pc>-</pc>
+                                <lb/>ſāce</w>
+                        </orig>
+                        <reg>
+                            <w>obeis
+	<pc>-</pc>
+                                <lb/>sance</w>
+                        </reg>
+                    </choice> que les vns &amp; les aultres nous <w>doi
+	<pc>-</pc>
+                        <lb/>uent</w>
+                    <choice>
+                        <orig>:</orig>
+                        <reg>,</reg>
+                    </choice> Auons ordonné &amp; ordonnons,
+	<lb/>entendons, voulons &amp; nous <choice>
+                        <orig>plaiſt</orig>
+                        <reg>plaist</reg>
+                    </choice>,</p>
+ <p>
+                    <lb/>Que toutes iniures &amp; <choice>
+                        <orig>offenſes</orig>
+                        <reg>offenses</reg>
+                    </choice> que
+	<lb/>l’iniquité du temps, &amp; les <choice>
+                        <orig>occaſiōs</orig>
+                        <reg>occasions</reg>
+                    </choice> qui
+	<lb/>en <choice>
+                        <orig>ſont</orig>
+                        <reg>sont</reg>
+                    </choice> <choice>
+                        <orig>ſuruenues</orig>
+                        <reg>suruenues</reg>
+                    </choice>, ont peu faire <choice>
+                        <orig>naiſtre</orig>
+                        <reg>naistre</reg>
+                    </choice>
+	<lb/>entre <choice>
+                        <orig>noſdicts</orig>
+                        <reg>nosdicts</reg>
+                    </choice> <choice>
+                        <orig>ſubiects</orig>
+                        <reg>subiects</reg>
+                    </choice>, &amp; toutes <w>aul
+	<pc>-</pc>
+                        <lb/>tres</w> <choice>
+                        <orig>choſes</orig>
+                        <reg>choses</reg>
+                    </choice> <choice>
+                        <orig>paſſees</orig>
+                        <reg>passees</reg>
+                    </choice> &amp; <choice>
+                        <orig>cauſees</orig>
+                        <reg>causees</reg>
+                    </choice> de ces <choice>
+                        <orig>
+                            <w>pre
+	<lb/>ſens</w>
+                        </orig>
+                        <reg>
+                            <w>pre
+	<pc>-</pc>
+                                <lb/>sens</w>
+                        </reg>
+                    </choice> tumultes, <choice>
+                        <orig>demourerōt</orig>
+                        <reg>demoureront</reg>
+                    </choice> <choice>
+                        <orig>eſteinctes</orig>
+                        <reg>esteinctes</reg>
+                    </choice>,
+	<lb/>comme mortes, <choice>
+                        <orig>enſeuelies</orig>
+                        <reg>enseuelies</reg>
+                    </choice> &amp; non <w>ad
+	<pc>-</pc>
+                        <lb/>uenues</w>
+                    <choice>
+                        <orig>:</orig>
+                        <reg>;</reg>
+                    </choice> Defendant <choice>
+                        <orig>treſeſtroictement</orig>
+                        <reg>tresestroictement</reg>
+                    </choice>
+	<lb/>
+                    <choice>
+                        <orig>ſur</orig>
+                        <reg>sur</reg>
+                    </choice> peine de la vie à tous <choice>
+                        <orig>noſdicts</orig>
+                        <reg>nosdicts</reg>
+                    </choice> <w>sub
+	<pc>-</pc>
+                        <lb/>iects</w>, de quelque <choice>
+                        <orig>eſtat</orig>
+                        <reg>estat</reg>
+                    </choice> &amp; qualité qu’ils
+	<lb/>
+                    <choice>
+                        <orig>ſoyent</orig>
+                        <reg>soyent</reg>
+                    </choice>, qu’ils n’ayent à <choice>
+                        <orig>ſ</orig>
+                        <reg>s</reg>
+                    </choice>’attacher, <w>in
+	<pc>-</pc>
+                        <lb/>iurier</w> ne prouoquer l’vn l’autre<supplied>,</supplied> par <w>re
+	<pc>-</pc>
+                        <lb/>proche</w> de ce qui <choice>
+                        <orig>eſt</orig>
+                        <reg>est</reg>
+                    </choice> <choice>
+                        <orig>paſſé</orig>
+                        <reg>passé</reg>
+                    </choice>, <choice>
+                        <orig>diſputer</orig>
+                        <reg>disputer</reg>
+                    </choice>,
+	<lb/>quereler, ne <choice>
+                        <orig>cōteſter</orig>
+                        <reg>contester</reg>
+                    </choice> <choice>
+                        <orig>enſemble</orig>
+                        <reg>ensemble</reg>
+                    </choice> du faict
+	<lb/>
+                    <pb facs="#bpt6k9691730m_f18_image" n="C1v"/>de la <choice>
+                        <orig>Religiō</orig>
+                        <reg>Religion</reg>
+                    </choice>, <choice>
+                        <orig>offenſer</orig>
+                        <reg>offenser</reg>
+                    </choice> ne oultrager de 
+	<lb/>faict ne de parolle<choice>
+                        <orig>:</orig>
+                        <reg>;</reg>
+                    </choice> mais <choice>
+                        <orig>ſe</orig>
+                        <reg>se</reg>
+                    </choice> contenir &amp;
+	<lb/>viure <choice>
+                        <orig>paiſiblement</orig>
+                        <reg>paisiblement</reg>
+                    </choice> <choice>
+                        <orig>enſemble</orig>
+                        <reg>ensemble</reg>
+                    </choice>, comme
+	<lb/>freres, amis &amp; concitoyens<choice>
+                        <orig>:</orig>
+                        <reg>;</reg>
+                    </choice> <choice>
+                        <orig>ſur</orig>
+                        <reg>sur</reg>
+                    </choice> peine
+	<lb/>à ceux qui y<note type="crit_app">Fehlt <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_09">Edikt II, Art. 9</ref>
+                        </rs> im Haupttext.</note> <choice>
+                        <orig>contreuiendrōt</orig>
+                        <reg>contreuiendront</reg>
+                    </choice>, &amp; qui <choice>
+                        <orig>
+                            <w>ſe
+	<pc>-</pc>
+                                <lb/>rōt</w>
+                        </orig>
+                        <reg>
+                            <w>se
+	<pc>-</pc>
+                                <lb/>ront</w>
+                        </reg>
+                    </choice> <choice>
+                        <orig>cauſe</orig>
+                        <reg>cause</reg>
+                    </choice> &amp; motifs<note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_09">Edikt II, Art. 9</ref>
+                        </rs>: motif.</note> de l’iniure &amp; <choice>
+                        <orig>
+                            <w>offen
+	<pc>-</pc>
+                                <lb/>ſe</w>
+                        </orig>
+                        <reg>
+                            <w>offen
+	<pc>-</pc>
+                                <lb/>se</w>
+                        </reg>
+                    </choice> qui <choice>
+                        <orig>aduiēdroit</orig>
+                        <reg>aduiendroit</reg>
+                    </choice>, d’<choice>
+                        <orig>eſtre</orig>
+                        <reg>estre</reg>
+                    </choice> <choice>
+                        <orig>ſur</orig>
+                        <reg>sur</reg>
+                    </choice> le champ,
+	<lb/>&amp; <choice>
+                        <orig>ſans</orig>
+                        <reg>sans</reg>
+                    </choice> autre forme de proces, punis<note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_09">Edikt II, Art. 9</ref>
+                        </rs>: puny.</note> <choice>
+                        <orig>
+                            <w>ſe
+	<pc>-</pc>
+                                <lb/>lon</w>
+                        </orig>
+                        <reg>
+                            <w>se
+	<pc>-</pc>
+                                <lb/>lon</w>
+                        </reg>
+                    </choice> la rigueur de <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> <choice>
+                        <orig>preſente</orig>
+                        <reg>presente</reg>
+                    </choice> <w>Or
+	<pc>-</pc>
+                        <lb/>donnance</w>.<milestone type="ref" unit="section" xml:id="art_9_ende"/>
+                </p>
+ <p xml:id="art_10">
+                    <lb/>En <choice>
+                        <orig>conſideration</orig>
+                        <reg>consideration</reg>
+                    </choice> <choice>
+                        <orig>auſſi</orig>
+                        <reg>aussi</reg>
+                    </choice> de laquelle,
+	<lb/>&amp; du contenu cy <choice>
+                        <orig>deſſus</orig>
+                        <reg>dessus</reg>
+                    </choice>, &amp; pour faire
+	<lb/>
+                    <choice>
+                        <orig>ceſſer</orig>
+                        <reg>cesser</reg>
+                    </choice> tout <choice>
+                        <orig>ſcrupule</orig>
+                        <reg>scrupule</reg>
+                    </choice> &amp; doubte, <choice>
+                        <orig>noſdits</orig>
+                        <reg>nosdits</reg>
+                    </choice>
+	<lb/>
+                    <choice>
+                        <orig>ſubiects</orig>
+                        <reg>subiects</reg>
+                    </choice> <choice>
+                        <orig>ſe</orig>
+                        <reg>se</reg>
+                    </choice> departiront &amp; <choice>
+                        <orig>deſiſteront</orig>
+                        <reg>desisteront</reg>
+                    </choice>
+	<lb/>de toutes <choice>
+                        <orig>aſſociations</orig>
+                        <reg>associations</reg>
+                    </choice> qu’ils ont <choice>
+                        <orig>dedās</orig>
+                        <reg>dedans</reg>
+                    </choice>
+	<lb/>&amp; dehors ce <rs type="place" ref="#frankreich_koenigreich">Royaume</rs>
+                    <choice>
+                        <orig>:</orig>
+                        <reg>,</reg>
+                    </choice> &amp; ne feront
+	<lb/>
+                    <choice>
+                        <orig>doreſnauāt</orig>
+                        <reg>doresnauant</reg>
+                    </choice> aucunes leuees de deniers,
+	<lb/>enrollemens<note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_10">Edikt II, Art. 10</ref>
+                        </rs>: enrollement.</note> d’<choice>
+                        <orig>hōmes</orig>
+                        <reg>hommes</reg>
+                    </choice>, congregations
+	<lb/>ne <choice>
+                        <orig>aſſemblees</orig>
+                        <reg>assemblees</reg>
+                    </choice> aultres que <choice>
+                        <orig>deſſus</orig>
+                        <reg>dessus</reg>
+                    </choice>, &amp; <choice>
+                        <orig>ſās</orig>
+                        <reg>sans</reg>
+                    </choice>
+	<lb/>armes: Ce que nous leur prohibons &amp;
+	<lb/>defendons <choice>
+                        <orig>auſſi</orig>
+                        <reg>aussi</reg>
+                    </choice>, <choice>
+                        <orig>ſur</orig>
+                        <reg>sur</reg>
+                    </choice> peine d’<choice>
+                        <orig>eſtre</orig>
+                        <reg>estre</reg>
+                    </choice> punis
+	<lb/>
+                    <choice>
+                        <orig>rigoureuſement</orig>
+                        <reg>rigoureusement</reg>
+                    </choice>, &amp; comme <w>contem
+	<pc>-</pc>
+                        <lb/>
+                        <pb facs="#bpt6k9691730m_f19_image" n="C2r"/>pteurs</w> &amp; infracteurs de nos <w>comman
+	<pc>-</pc>
+                        <lb/>demens</w>
+                    <note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_10">Edikt II, Art. 10</ref>
+                        </rs>: <hi rend="italic">im Haupttext</hi> edictz.</note> &amp; Ordonnances.</p>
+ <p>
+                    <lb/>
+                    <choice>
+                        <orig>SI</orig>
+                        <reg>Si</reg>
+                    </choice> <choice>
+                        <orig>DONNONS</orig>
+                        <reg>Donnons</reg>
+                    </choice> en <w>man
+	<pc>-</pc>
+                        <lb/>dement</w> par ces <choice>
+                        <orig>meſmes</orig>
+                        <reg>mesmes</reg>
+                    </choice> <choice>
+                        <orig>preſentes</orig>
+                        <reg>presentes</reg>
+                    </choice>
+                    <supplied>,</supplied> à
+	<lb/>nos amez &amp; feaulx les gens tenans nos
+	<lb/>Cours de Parlemens, <choice>
+                        <orig>Chābres</orig>
+                        <reg>Chambres</reg>
+                    </choice> de nos
+	<lb/>
+                    <choice>
+                        <orig>Cōptes</orig>
+                        <reg>Comptes</reg>
+                    </choice>, Cours <seg type="crit_app">de nos</seg>
+                    <note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_closer">Edikt II, Abschlussklausel</ref>
+                        </rs>: des.</note> Aydes, Baillifs,
+	<lb/>
+                    <choice>
+                        <orig>Seneſchaulx</orig>
+                        <reg>Seneschaulx</reg>
+                    </choice>, &amp; autres nos <choice>
+                        <orig>Iuſticiers</orig>
+                        <reg>Iusticiers</reg>
+                    </choice> &amp;
+	<lb/>Officiers qu’il appartiendra<note type="crit_app"> Korrigiert aus: appa[r]tiendra mit undeutlichem Buchstaben r.</note>, ou à leurs
+	<lb/>Lieutenants, Que <choice>
+                        <orig>ceſte</orig>
+                        <reg>ceste</reg>
+                    </choice> <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> <choice>
+                        <orig>
+                            <w>preſen<pc>-</pc>
+                                <lb/>te</w>
+                        </orig>
+                        <reg>
+                            <w>presen
+	<pc>-</pc>
+                                <lb/>te</w>
+                        </reg>
+                    </choice> Declaration &amp; Ordonnance<supplied>,</supplied> ils <w>fa
+	<pc>-</pc>
+                        <lb/>cent</w> lire, publier &amp; <choice>
+                        <orig>enregiſtrer</orig>
+                        <reg>enregistrer</reg>
+                    </choice> en leurs
+	<lb/>Cours &amp; <choice>
+                        <orig>iuriſdictions</orig>
+                        <reg>iurisdictions</reg>
+                    </choice>
+                    <choice>
+                        <orig>,</orig>
+                        <reg>;</reg>
+                    </choice> &amp; icelle <w>entre
+	<pc>-</pc>
+                        <lb/>tenir</w> &amp; faire entretenir, garder &amp; <choice>
+                        <orig>
+                            <w>ob<pc>-</pc>
+                                <lb/>ſeruer</w>
+                        </orig>
+                        <reg>
+                            <w>ob
+	<pc>-</pc>
+                                <lb/>seruer</w>
+                        </reg>
+                    </choice> <choice>
+                        <orig>inuiolablement</orig>
+                        <reg>inuiolablement</reg>
+                    </choice> de poinct en
+	<lb/>poinct, &amp; du <choice>
+                        <orig>cōtenu</orig>
+                        <reg>contenu</reg>
+                    </choice> iouir &amp; <choice>
+                        <orig>vſer</orig>
+                        <reg>vser</reg>
+                    </choice> <w>plei
+	<pc>-</pc>
+                        <lb/>nement</w> &amp; <choice>
+                        <orig>paiſiblement</orig>
+                        <reg>paisiblement</reg>
+                    </choice> ceulx qu’il <w>ap
+	<choice>
+                            <orig/>
+                            <reg>
+                                <pc>-</pc>
+                            </reg>
+                        </choice>
+                        <lb/>partiendra</w>
+                    <choice>
+                        <orig>:</orig>
+                        <reg>;</reg>
+                    </choice> <choice>
+                        <orig>ceſſants</orig>
+                        <reg>cessants</reg>
+                    </choice>
+                    <note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_closer">Edikt II, Abschlussklausel</ref>
+                        </rs>: cessant.</note> &amp; <choice>
+                        <orig>faiſants</orig>
+                        <reg>faisants</reg>
+                    </choice>
+                    <note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_closer">Edikt II, Abschlussklausel</ref>
+                        </rs>: faisant.</note> <choice>
+                        <orig>ceſſer</orig>
+                        <reg>cesser</reg>
+                    </choice>
+	<lb/>tous troubles &amp; <choice>
+                        <orig>empeſchements</orig>
+                        <reg>empeschements</reg>
+                    </choice> au
+	<lb/>contraire.</p>
+ <p>
+                    <lb/>Car tel <choice>
+                        <orig>eſt</orig>
+                        <reg>est</reg>
+                    </choice> <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> <choice>
+                        <orig>plaiſir</orig>
+                        <reg>plaisir</reg>
+                    </choice>. En <choice>
+                        <orig>
+                            <w>teſ<pc>-</pc>
+                                <lb/>moing</w>
+                        </orig>
+                        <reg>
+                            <w>tes
+	<pc>-</pc>
+                                <lb/>moing</w>
+                        </reg>
+                    </choice> de ce<note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_closer">Edikt II, Abschlussklausel</ref>
+                        </rs>: quoy.</note> nous <choice>
+                        <orig>auons</orig>
+                        <reg>avons</reg>
+                    </choice> faict mettre
+	<lb/>
+                    <pb facs="#bpt6k9691730m_f20_image" n="C2v"/>
+                    <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> <choice>
+                        <orig>ſeel</orig>
+                        <reg>seel</reg>
+                    </choice> à <choice>
+                        <orig>ceſdictes</orig>
+                        <reg>cesdictes</reg>
+                    </choice> <choice>
+                        <orig>preſentes</orig>
+                        <reg>presentes</reg>
+                    </choice>.</p>
+ <p>
+                    <lb/>Donné à <rs type="place" ref="#amboise">
+                        <choice>
+                            <orig>Amboiſe</orig>
+                            <reg>Amboise</reg>
+                        </choice>
+                    </rs>
+                    <supplied>,</supplied> le XIX<note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_date">Edikt II, Datierung</ref>
+                        </rs>: dix neufviesme.</note> iour de
+	<lb/>Mars, l’an de grace mil cinq cens <choice>
+                        <orig>
+                            <w>ſoi<pc>-</pc>
+                                <lb/>xāte</w>
+                        </orig>
+                        <reg>
+                            <w>soi
+	<pc>-</pc>
+                                <lb/>xante</w>
+                        </reg>
+                    </choice> &amp;<note type="crit_app">Fehlt <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_date">Edikt II, Datierung</ref>
+                        </rs>.</note> deux<note type="annotation">Vgl. oben <ref type="quelle" target="#jahreszahl">
+                            <ref type="print">S. #, </ref>Anm. 1</ref>.</note>, &amp; de <choice>
+                        <orig>noſtre</orig>
+                        <reg>nostre</reg>
+                    </choice> regne le <choice>
+                        <orig>
+                            <w>troi<pc>-</pc>
+                                <lb/>ſieme</w>
+                        </orig>
+                        <reg>
+                            <w>troi
+	<pc>-</pc>
+                                <lb/>sieme</w>
+                        </reg>
+                    </choice>.</p>
+ <p>
+                    <lb/>Signé<note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_date">Edikt II, Datierung</ref>
+                        </rs>: Ainsi signé.</note> <rs type="person" ref="#karl_viiii">
+                        <choice>
+                            <orig>CHARLES</orig>
+                            <reg>Charles</reg>
+                        </choice>
+                    </rs>.</p>
+ <p>
+                    <lb/>Et <seg type="crit_app">au <choice>
+                            <orig>deſſous</orig>
+                            <reg>dessous</reg>
+                        </choice>
+                    </seg>
+                    <note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_date">Edikt II, Datierung</ref>
+                        </rs>: contresigné.</note>,
+	<lb/>
+                    <hi rend="italic">Par le <rs type="person" ref="#karl_viiii">Roy</rs> en <choice>
+                            <orig>ſon</orig>
+                            <reg>son</reg>
+                        </choice> <choice>
+                            <orig>Cōseil</orig>
+                            <reg>Conseil</reg>
+                        </choice>
+                    </hi>, <rs type="person" ref="#florimond_ii_robertet">
+                        <choice>
+                            <orig>ROBERTET</orig>
+                            <reg>Robertet</reg>
+                        </choice>
+                    </rs>.</p>
+ <p>
+                    <lb/>Et <choice>
+                        <orig>ſeellé</orig>
+                        <reg>seellé</reg>
+                    </choice> <note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_date">Edikt II, Datierung</ref>
+                        </rs>: <hi rend="italic">danach folgend</hi> du grand seel.</note> en cire iaulne <seg type="crit_app">à double
+	<lb/>queüe de parchemin pendant</seg>
+                    <note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_date">Edikt II, Datierung</ref>
+                        </rs>: sur queue double et sur le reply.</note>.</p>
+	</div>
+	<div type="chapter">
+ <p>
+                    <lb/>
+                    <choice>
+                        <orig>LECTA</orig>
+                        <reg>Lecta</reg>
+                    </choice>, <hi rend="italic">publicata &amp; <choice>
+                            <orig>regiſtrata</orig>
+                            <reg>registrata</reg>
+                        </choice>,
+	<lb/>audito Procuratore Generali Regis<note type="annotation" xml:id="procurator">Juristischer Interessenvertreter des französischen Königs an den Obergerichten (<hi rend="italic">parlements</hi>), vgl. <rs type="bibl" ref="#marion_dictionnaire">
+                                <surname type="author">Marion</surname>, Dictionnaire, S. 460</rs>.</note>, in <choice>
+                            <orig>
+                                <w>præ<pc>-</pc>
+                                    <lb/>ſentia</w>
+                            </orig>
+                            <reg>
+                                <w>prae
+	<pc>-</pc>
+                                    <lb/>sentia</w>
+                            </reg>
+                        </choice> <choice>
+                            <orig>ſuperilluſtrium</orig>
+                            <reg>superillustrium</reg>
+                        </choice> Principum ac <w>Domi
+	<pc>-</pc>
+                            <lb/>norum</w> <rs type="person" ref="#karl_bourbon">Cardinalis à Borbonio</rs>, &amp; <rs type="person" ref="#louis_montpensier">Ducis <choice>
+                                <orig>
+                                    <w>Mon<pc>-</pc>
+                                        <lb/>tiſpenſerij</w>
+                                </orig>
+                                <reg>
+                                    <w>Mon
+	<pc>-</pc>
+                                        <lb/>tispenserii</w>
+                                </reg>
+                            </choice>
+                        </rs>, ad hoc <choice>
+                            <orig>ſpecialiter</orig>
+                            <reg>specialiter</reg>
+                        </choice> à Domino <choice>
+                            <orig>noſtro</orig>
+                            <reg>nostro</reg>
+                        </choice>
+	<lb/>Rege <choice>
+                            <orig>Chriſtianißimo</orig>
+                            <reg>Christianißimo</reg>
+                        </choice> <choice>
+                            <orig>miſſorum</orig>
+                            <reg>missorum</reg>
+                        </choice>. <rs type="place" ref="#paris">
+                            <choice>
+                                <orig>Pariſiis</orig>
+                                <reg>Parisiis</reg>
+                            </choice>
+                        </rs> in
+	<lb/>Parlamento<note type="annotation">Vgl. oben <ref type="quelle" target="#parlement">
+                                <ref type="print">S. #, </ref>Anm. 2</ref>.</note> <seg type="crit_app">die XXVII</seg>
+                        <note type="crit_app">
+                            <rs type="bibl" ref="#barbiche_ua_edits">
+                                <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_date">Edikt II, Datierung</ref>
+                            </rs>: vigesimo septima die.</note> <choice>
+                            <orig>menſis</orig>
+                            <reg>mensis</reg>
+                        </choice> Martij, anno
+	<lb/>Domini <choice>
+                            <orig>milleſimo</orig>
+                            <reg>millesimo</reg>
+                        </choice> <choice>
+                            <orig>quingenteſimo</orig>
+                            <reg>quingentesimo</reg>
+                        </choice> <choice>
+                            <orig>ſexageſimo</orig>
+                            <reg>sexagesimo</reg>
+                        </choice>
+	<lb/>
+                        <choice>
+                            <orig>ſecundo</orig>
+                            <reg>secundo</reg>
+                        </choice>
+                        <note type="annotation">Vgl. oben <ref type="quelle" target="#jahreszahl">
+                                <ref type="print">S. #, </ref>Anm. 1</ref>.</note>, ante <choice>
+                            <orig>Paſcha</orig>
+                            <reg>Pascha</reg>
+                        </choice>.</hi>
+                </p>
+ <p>
+                    <lb/>
+                    <seg type="crit_app">
+                        <rs type="person" ref="#tillet_jean">
+                            <choice>
+                                <orig>DV</orig>
+                                <reg>Du</reg>
+                            </choice> <choice>
+                                <orig>TILLET</orig>
+                                <reg>Tillet</reg>
+                            </choice>
+                        </rs>
+                    </seg>
+                    <note type="crit_app">
+                        <rs type="bibl" ref="#barbiche_ua_edits">
+                            <surname type="editor">Barbiche</surname> u.a., Édits, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_date">Edikt II, Datierung</ref>
+                        </rs>: Sic signatum: DUTILLET, <hi rend="italic">danach folgend</hi> Collation est faicte à l’original rendu à monsr le gouverneur de ceste ville et Isle-de-France, DUTILLET.</note>.</p>
+	
+ <p>
+                    <lb/>
+                    <pb facs="#bpt6k9691730m_f21_image" n="C3r"/>
+                    <milestone type="unit" unit="section" xml:id="crit_3"/>
+                    <choice>
+                        <orig>LECTA</orig>
+                        <reg>Lecta</reg>
+                    </choice> <hi rend="italic">
+                        <choice>
+                            <orig>ſimiliter</orig>
+                            <reg>similiter</reg>
+                        </choice>, publicata &amp; <choice>
+                            <orig>
+                                <w>re<pc>-</pc>
+                                    <lb/>giſtrata</w>
+                            </orig>
+                            <reg>
+                                <w>re
+	<pc>-</pc>
+                                    <lb/>gistrata</w>
+                            </reg>
+                        </choice>, audito Procuratore Generali Regis,
+	<lb/>in Camera rationum Regiarum, anno &amp; die
+	<lb/>
+                        <choice>
+                            <orig>ſupradictis</orig>
+                            <reg>supradictis</reg>
+                        </choice>.</hi>
+                </p>
+ <p>
+                    <lb/>
+                    <rs type="person" ref="#fromaget_hugues">
+                        <choice>
+                            <orig>FROMAGET</orig>
+                            <reg>Fromaget</reg>
+                        </choice>
+                    </rs>.</p>
+	<space dim="vertical"/>
+ <p>
+                    <lb/>Leües, publiees &amp; <choice>
+                        <orig>enregiſtrees</orig>
+                        <reg>enregistrees</reg>
+                    </choice> à la
+	<lb/>Cour des Aydes, oy de <choice>
+                        <orig>conſentant</orig>
+                        <reg>consentant</reg>
+                    </choice> le
+	<lb/>procureur General du Roy<note type="annotation">Lat. <hi rend="italic">procurator generalis regis</hi>. Vgl. oben <ref type="quelle" target="#procurator">
+                            <ref type="print">S. #, </ref>Anm. 15</ref>.</note>, le XXVII
+	<lb/>iour de Mars, 1562, auant <choice>
+                        <orig>Paſques</orig>
+                        <reg>Pasques</reg>
+                    </choice>
+                    <note type="annotation">Vgl. oben <ref type="quelle" target="#jahreszahl">
+                            <ref type="print">S. #, </ref>Anm. 1</ref>.</note>.</p>
+ <p>
+                    <lb/>
+                    <rs type="person" ref="#le_sueur_lienard">
+                        <choice>
+                            <orig>LE</orig>
+                            <reg>Le</reg>
+                        </choice> <choice>
+                            <orig>SVEVR</orig>
+                            <reg>Svevr</reg>
+                        </choice>
+                    </rs>.</p>
+	<space dim="vertical"/>
+ <p>
+                    <lb/>Leu, crié &amp; publié à <choice>
+                        <orig>ſon</orig>
+                        <reg>son</reg>
+                    </choice> de trompe
+	<lb/>&amp; cri public par les carrefours de la <w>vil
+	<choice>
+                            <orig/>
+                            <reg>
+                                <pc>-</pc>
+                            </reg>
+                        </choice>
+                        <lb/>le</w> de <rs type="place" ref="#paris">Paris</rs>, par les Heraults de <choice>
+                        <orig>ſa</orig>
+                        <reg>sa</reg>
+                    </choice> <w>Ma
+	<pc>-</pc>
+                        <lb/>i<!--Seitenumschlag, i ergänzt-->eſté</w>, <choice>
+                        <orig>aſſistez</orig>
+                        <reg>assistez</reg>
+                    </choice> de <choice>
+                        <orig>monſieur</orig>
+                        <reg>monsieur</reg>
+                    </choice> le <choice>
+                        <orig>Lieutenāt</orig>
+                        <reg>Lieutenant</reg>
+                    </choice>
+	<lb/>Ciuil<note type="annotation">Zivilrichter über den Jurisdiktionsbezirk der Stadt Paris, vgl. <rs type="bibl" ref="#limon_chatelet">
+                            <surname type="author">Limon</surname>, Châtelet, S. 253</rs>.</note>, &amp; autres: le ieudi XXVII iour de
+	<lb/>May, mil cinq cens <choice>
+                        <orig>ſoixante</orig>
+                        <reg>soixante</reg>
+                    </choice> &amp; trois.</p> </div>
+	<div>
+	<head>
+                    <lb/>
+                    <pb facs="#bpt6k9691730m_f22_image" n="C3v"/>
+                    <choice>
+                        <orig>EXTRAICT</orig>
+                        <reg>Extraict</reg>
+                    </choice> <choice>
+                        <orig>DV</orig>
+                        <reg>Dv</reg>
+                    </choice>
+	<lb/>Priuilege.</head>
+	<space dim="vertical"/> 
+	<p>
+                    <lb/>
+                    <choice>
+                        <orig>PAR</orig>
+                        <reg>Par</reg>
+                    </choice> <hi rend="italic">Priuilege <choice>
+                            <orig>ſpecial</orig>
+                            <reg>special</reg>
+                        </choice> du <rs type="person" ref="#karl_viiii">Roy</rs>, donné au Camp pres
+	<lb/>
+                        <rs type="place" ref="#orleans">Orleans</rs> le XXV. iour de Mars M. D. LXII.<note type="annotation">Vgl. oben <ref type="quelle" target="#jahreszahl">
+                                <ref type="print">S. #, </ref>Anm. 1</ref>.</note> <choice>
+                            <orig>ſigné</orig>
+                            <reg>signé</reg>
+                        </choice>
+                    </hi> <choice>
+                        <orig>Par</orig>
+                        <reg>par</reg>
+                    </choice> le
+	<lb/>Roy en <choice>
+                        <orig>ſon</orig>
+                        <reg>son</reg>
+                    </choice> <choice>
+                        <orig>cōſeil</orig>
+                        <reg>conseil</reg>
+                    </choice>, <rs type="person" ref="#claude_aubespine">De l’<choice>
+                            <orig>Aubeſpine</orig>
+                            <reg>Aubespine</reg>
+                        </choice>
+                    </rs>, <hi rend="italic">&amp; <choice>
+                            <orig>ſeellé</orig>
+                            <reg>seellé</reg>
+                        </choice> du <choice>
+                            <orig>grād</orig>
+                            <reg>grand</reg>
+                        </choice>
+	<lb/>
+                        <choice>
+                            <orig>ſeel</orig>
+                            <reg>seel</reg>
+                        </choice> dudict Seigneur, en cire iaulne <choice>
+                            <orig>ſur</orig>
+                            <reg>sur</reg>
+                        </choice> <choice>
+                            <orig>ſimple</orig>
+                            <reg>simple</reg>
+                        </choice> queuë: <w>confir
+	<pc>-</pc>
+                            <lb/>matif</w> des lettres patentes dudict Seigneur <choice>
+                            <orig>dōnees</orig>
+                            <reg>donnees</reg>
+                        </choice> au<w>para
+	<pc>-</pc>
+                            <lb/>uant</w> à <rs type="place" ref="#saint_germain_en_laye">S<am>.</am>
+                            <ex>aint</ex> Germain en Laye</rs> le VIII. Octobre, M. D. LXI.
+	<lb/>
+                        <choice>
+                            <orig>ſignees</orig>
+                            <reg>signees</reg>
+                        </choice>
+                    </hi> Par le Roy, vous <choice>
+                        <orig>Mōſieur</orig>
+                        <reg>Monsieur</reg>
+                    </choice> le Chancelier <choice>
+                        <orig>
+                            <w>pre<pc>-</pc>
+                                <lb/>ſent</w>
+                        </orig>
+                        <reg>
+                            <w>pre
+	<pc>-</pc>
+                                <lb/>sent</w>
+                        </reg>
+                    </choice>, De l’<choice>
+                        <orig>Aubeſpine</orig>
+                        <reg>Aubespine</reg>
+                    </choice>, <hi rend="italic">
+                        <choice>
+                            <orig>ſeellees</orig>
+                            <reg>seellees</reg>
+                        </choice> comme <choice>
+                            <orig>deſſus</orig>
+                            <reg>dessus</reg>
+                        </choice>, &amp; verifiees
+	<lb/>en la Cour de Parlement à <rs type="place" ref="#paris">Paris</rs> le XVIII. iour de Feburier
+	<lb/>audict an: Il <choice>
+                            <orig>eſt</orig>
+                            <reg>est</reg>
+                        </choice> permis à <rs type="person" ref="#estienne_robert">Robert <choice>
+                                <orig>Eſtienne</orig>
+                                <reg>Estienne</reg>
+                            </choice>
+                        </rs> <choice>
+                            <orig>ſon</orig>
+                            <reg>son</reg>
+                        </choice> Imprimeur,
+	<lb/>d’imprimer ou faire imprimer, vendre &amp; debiter ce <choice>
+                            <orig>preſent</orig>
+                            <reg>present</reg>
+                        </choice>
+                    </hi>
+	<lb/>Edict n’agueres faict pour la pacification des <w>trou
+	<pc>-</pc>
+                        <lb/>bles</w> de ce <rs type="place" ref="#frankreich_koenigreich">Royaume</rs>: <hi rend="italic">Sans qu’aultres imprimeurs <choice>
+                            <orig>
+                                <w>quels<pc>-</pc>
+                                    <lb/>cōques</w>
+                            </orig>
+                            <reg>
+                                <w>quels
+	<pc>-</pc>
+                                    <lb/>conques</w>
+                            </reg>
+                        </choice> le <choice>
+                            <orig>puiſſent</orig>
+                            <reg>puissent</reg>
+                        </choice> imprimer, ne faire imprimer <choice>
+                            <orig>ſans</orig>
+                            <reg>sans</reg>
+                        </choice> <choice>
+                            <orig>ſon</orig>
+                            <reg>son</reg>
+                        </choice> <w>con
+	<pc>-</pc>
+                            <lb/>gé</w>, permißion &amp; <choice>
+                            <orig>conſentement</orig>
+                            <reg>consentement</reg>
+                        </choice>, de trois mois apres l’<choice>
+                            <orig>
+                                <w>impreſ<pc>-</pc>
+                                    <lb/>ſion</w>
+                            </orig>
+                            <reg>
+                                <w>impres
+	<pc>-</pc>
+                                    <lb/>sion</w>
+                            </reg>
+                        </choice> d’iceluy par luy faicte: Sur peine aux contreuenants de
+	<lb/>
+                        <choice>
+                            <orig>confiſcation</orig>
+                            <reg>confiscation</reg>
+                        </choice> de ce qu’ils en auroyent imprimé, &amp; d’amende
+		<lb/>arbitraire.</hi>
+                    <milestone type="unit" unit="section" xml:id="crit_4"/>
+                    <span type="crit_app" from="#crit_3" to="#crit_4">Fehlt <rs type="bibl" ref="#barbiche_ua_edits"> u.a., Édits</rs>, <ref type="online" target="http://elec.enc.sorbonne.fr/editsdepacification/edit_02#art_02_date">Edikt II, Datierung</ref>.</span>
+                </p>
+	</div>
+	<pb facs="#bpt6k9691730m_f23_image" n="C4r leer"/>
+	<pb facs="#bpt6k9691730m_f24_image" n="C4v leer"/>
+	</body>
+        <back>
+            <listBibl>
+                <bibl xml:id="grotefend_zeitrechnung_1">
+                    <abbr>
+                        <surname type="author">Grotefend</surname>, Zeitrechnung</abbr>
+                    <author>
+                        <surname>Grotefend</surname>
+                        <forename>Hermann</forename>
+                    </author>
+                    <title>Zeitrechnung des Deutschen Mittelalters und der Neuzeit, Erster Band:
+                        Glossar</title>
+                    <pubPlace>Hannover</pubPlace>
+                    <date>1891</date>
+                </bibl>
+                <bibl xml:id="jouanna_parlements">
+                    <abbr>
+                        <surname type="author">Jouanna</surname>, Parlements</abbr>
+                    <author>
+                        <surname>Jouanna</surname>
+                        <forename>Arlette</forename>
+                    </author>
+                    <title>Parlements</title>
+                    <bibl>
+                        <editor>
+                            <surname>Jouanna</surname>
+                            <forename>Arlette</forename> u.a.</editor>
+                        <title>La France de la Renaissance. Histoire et dictionnaire</title>
+                        <pubPlace>Paris</pubPlace>
+                        <date>2001</date>
+                    </bibl>
+                    <biblScope>S. 993-995</biblScope>
+                </bibl>
+                <bibl xml:id="barbiche_ua_edits">
+                    <abbr>
+                        <surname type="editor">Barbiche</surname>u.a., Édits</abbr>
+                    <editor>
+                        <surname>Barbiche</surname>
+                        <forename>Bernard</forename> u.a. </editor>
+                    <title> L’édit de Nantes et ses antécédents (1562-1598). Édits de
+                        pacification</title>
+                    <series>
+                        <ref target="#elec" type="abbr">ELEC</ref> 5</series>
+                    <date>Version vom 07.03.2018</date>
+                    <ref type="ex" target="http://elec.enc.sorbonne.fr/editsdepacification/">[Online]</ref>
+                </bibl>
+                <bibl xml:id="boucher_ordres">
+                    <abbr>
+                        <surname type="author">Boucher</surname>, Ordres</abbr>
+                    <author>
+                        <surname>Boucher</surname>
+                        <forename>Jacqueline</forename>
+                    </author>
+                    <title>Ordres de chevalerie</title>
+                    <bibl>
+                        <editor>
+                            <surname>Bély</surname>
+                            <forename>Lucien</forename>
+                        </editor>
+                        <title>Dictionnaire de l’Ancien Regime. Royaume de France XVIe-XVIIIe
+                            siècle</title>
+                        <pubPlace>Paris</pubPlace>
+                        <date>1996</date>
+                    </bibl>
+                    <biblScope>S. 939f</biblScope>
+                </bibl>
+                <bibl xml:id="jouanna_princes">
+                    <abbr>
+                        <surname type="author">Jouanna</surname>, Princes</abbr>
+                    <author>
+                        <surname>Jouanna</surname>
+                        <forename>Arlette</forename>
+                    </author>
+                    <title>Princes du sang</title>
+                    <bibl>
+                        <editor>
+                            <surname>Bély</surname>
+                            <forename>Lucien</forename>
+                        </editor>
+                        <title>Dictionnaire de l’Ancien Regime. Royaume de France XVIe-XVIIIe
+                            siècle</title>
+                        <pubPlace>Paris</pubPlace>
+                        <date>1996</date>
+                    </bibl>
+                    <biblScope>S. 1018f</biblScope>
+                </bibl>
+                <bibl xml:id="labourdette_grands_officiers">
+                    <abbr>
+                        <surname type="author">Labourdette</surname>, Grands officiers</abbr>
+                    <author>
+                        <surname>Labourdette</surname>
+                        <forename>Jean-François</forename>
+                    </author>
+                    <title>Grands officiers de la Couronne</title>
+                    <bibl>
+                        <editor>
+                            <surname>Bély</surname>
+                            <forename>Lucien</forename>
+                        </editor>
+                        <title>Dictionnaire de l’Ancien Regime. Royaume de France XVIe-XVIIIe
+                            siècle</title>
+                        <pubPlace>Paris</pubPlace>
+                        <date>1996</date>
+                    </bibl>
+                    <biblScope>S. 617-619</biblScope>
+                </bibl>
+                <bibl xml:id="labourdette_ducs_et_pairs">
+                    <abbr>
+                        <surname type="author">Labourdette</surname>, Ducs et pairs</abbr>
+                    <author>
+                        <surname>Labourdette</surname>
+                        <forename>Jean-François</forename>
+                    </author>
+                    <title>Ducs et pairs de France</title>
+                    <bibl>
+                        <editor>
+                            <surname>Bély</surname>
+                            <forename>Lucien</forename>
+                        </editor>
+                        <title>Dictionnaire de l’Ancien Regime. Royaume de France XVIe-XVIIIe
+                            siècle</title>
+                        <pubPlace>Paris</pubPlace>
+                        <date>1996</date>
+                    </bibl>
+                    <biblScope>S. 448-450</biblScope>
+                </bibl>
+                <bibl xml:id="constant_bailliages">
+                    <abbr>
+                        <surname type="author">Constant</surname>, Bailliages</abbr>
+                    <author>
+                        <surname>Constant</surname>
+                        <forename>Jean-Marie</forename>
+                    </author>
+                    <title>Bailliages et sénéschaussées</title>
+                    <bibl>
+                        <editor>
+                            <surname>Bély</surname>
+                            <forename>Lucien</forename>
+                        </editor>
+                        <title>Dictionnaire de l’Ancien Regime. Royaume de France XVIe-XVIIIe
+                            siècle</title>
+                        <pubPlace>Paris</pubPlace>
+                        <date>1996</date>
+                    </bibl>
+                    <biblScope>S. 121-123</biblScope>
+                </bibl>
+                <bibl xml:id="limon_chatelet">
+                    <abbr>
+                        <surname type="author">Limon</surname>, Châtelet</abbr>
+                    <author>
+                        <surname>Limon</surname>
+                        <forename>Marie-Françoise</forename>
+                    </author>
+                    <title>Châtelet de Paris</title>
+                    <bibl>
+                        <editor>
+                            <surname>Bély</surname>
+                            <forename>Lucien</forename>
+                        </editor>
+                        <title>Dictionnaire de l’Ancien Regime. Royaume de France XVIe-XVIIIe
+                            siècle</title>
+                        <pubPlace>Paris</pubPlace>
+                        <date>1996</date>
+                    </bibl>
+                    <biblScope>S. 252-254</biblScope>
+                </bibl>
+                <bibl xml:id="marion_dictionnaire">
+                    <abbr>
+                        <surname type="author">Marion</surname>, Dictionnaire</abbr>
+                    <author>
+                        <surname>Marion</surname>
+                        <forename>Marcel</forename>
+                    </author>
+                    <title>Dictionnaire des institutions de la France aux XVIIe et XVIIIe
+                        siècles</title>
+                    <pubPlace>Paris</pubPlace>
+                    <date>1923</date>
+                </bibl>
+            </listBibl>
+            <list xml:id="abbr">
+                <item xml:id="elec">
+                    <abbr>ELEC</abbr>
+                    <expan>Éditions en ligne de l'École des chartes</expan>
+                </item>
+            </list>
+        </back>
+	</text>
+</TEI>
