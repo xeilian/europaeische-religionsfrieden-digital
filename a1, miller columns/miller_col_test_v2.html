@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      :root {
+        --euredPersColor: #9f353b;
+        --euredPlaceColor: #497e00;
+        --euredEntities: white;
+        --zeidAccentColor: #008877;
+        --zeidBackColor: #e9eceb;
+        --zeidEntityColor: #3a8677;
+        --zeidHeaderColor: #9dc2bb;
+        --zeidLineNumberColor: #b9b9b9;
+        --zeidMainColor: #235047;
+        --zeidWhite: #ffffff;
+        --zeidPagebreak: #a1a1a1;
+      }
+
+      body {
+        margin: 0;
+        padding: 0;
+        background: var(--zeidBackColor);
+        font-family: sans-serif;
+      }
+
+      #columns {
+        display: flex;
+        gap: 1rem;
+        padding: 1rem;
+        overflow-x: auto;
+      }
+
+      #columns ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        background: var(--zeidWhite);
+        border-radius: 12px;
+        padding: 0.5rem;
+        min-width: 220px;
+        max-width: 260px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      }
+
+      #columns li {
+        margin: 0.25rem 0;
+      }
+
+      #columns button, #columns a {
+        width: 100%;
+        display: block;
+        text-align: left;
+        padding: 0.5rem;
+        border-radius: 8px;
+        border: none;
+        background: var(--zeidHeaderColor);
+        cursor: pointer;
+        text-decoration: none;
+        color: black;
+        font-size: 14px;
+        font-family: sans-serif;
+        box-sizing: border-box;
+      }
+
+      #columns button:hover, #columns a:hover {
+        background: var(--zeidAccentColor);
+        color: white;
+      }
+
+      .sub-list {
+        margin-left: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="columns"></div>
+
+    <script>
+      const columns = document.getElementById('columns');
+      async function getData(ed) {
+        try {
+          const url = "https://exist.ulb.tu-darmstadt.de/1/r/edoc/collection/" + ed + "/nav.html";
+          const response = await fetch(url);
+          if (!response.ok) {
+            throw new Error(`Response status: ${response.status}`);
+          }
+          const result = await response.text();
+          const parser = new DOMParser();
+          const doc = parser.parseFromString(result, 'text/html');
+          return doc;
+        } catch (error) {
+          console.error('Error fetching data:', error);
+          throw error;
+        }
+      }
+
+      async function main() {
+        try {
+          const doc = await getData("pa000008");
+          const buttons = Array.from(doc.querySelectorAll('button[data-ed], button[data-lvl]'));
+          const cache = {};
+          const container = document.getElementById('columns');
+          container.innerHTML = "";
+          const list = document.createElement('ul');
+
+          const style = document.createElement('style');
+          style.textContent = `
+            .active-button {
+              background: var(--zeidAccentColor) !important;
+              color: white !important;
+            }
+          `;
+          document.head.appendChild(style);
+
+          buttons.forEach(btn => {
+            const li = document.createElement('li');
+            const button = document.createElement('button');
+            button.textContent = btn.textContent;
+            const dataEd = btn.getAttribute('data-ed') || btn.getAttribute('data-lvl') || '';
+            button.dataset.ed = dataEd.replace(/[\[\]()]/g, '');
+
+            button.onclick = async function() {
+              this.closest('ul').querySelectorAll('button').forEach(b => {
+                b.classList.remove('active-button');
+              });
+              this.classList.add('active-button');
+              const ed = this.dataset.ed;
+              let doc;
+
+              if (!ed.includes('-d')) {
+                if (!cache[ed]) {
+                  cache[ed] = await getData(ed);
+                }
+                doc = cache[ed];
+              } else {
+                const parentId = ed.split('-d')[0];
+                if (!cache[parentId]) {
+                  cache[parentId] = await getData(parentId);
+                }
+                doc = cache[parentId];
+              }
+
+              while (this.closest("ul").nextSibling) this.closest("ul").nextSibling.remove();
+              
+              let sub_buttons = [];
+              const all_lvl_buttons = Array.from(
+                doc.querySelectorAll('button[data-lvl]')
+              );
+              const children = all_lvl_buttons.filter(el => {
+                const raw = el.getAttribute('data-lvl') || '';
+                const lvl = raw.replace(/[\[\]()]/g, '');
+                return lvl.startsWith(ed + '-');
+              });
+
+              if (children.length > 0) {
+                sub_buttons = children;
+              } else {
+                const ul = doc.querySelector(`ul[id="${ed}"]`);
+                if (ul) {
+                  sub_buttons = Array.from(ul.querySelectorAll('a'));
+                }
+              }
+
+              let sub_list = document.createElement('ul');
+              sub_list.classList.add('sub-list');
+              columns.appendChild(sub_list);
+
+              sub_list.innerHTML = "";
+
+              sub_buttons.forEach(sub_btn => {
+                const li = document.createElement('li');
+
+                if (sub_btn.tagName === 'BUTTON') {
+                  const subButton = document.createElement('button');
+                  subButton.textContent = sub_btn.textContent;
+                  const dataEd = sub_btn.getAttribute('data-ed') || sub_btn.getAttribute('data-lvl') || '';
+                  subButton.dataset.ed = dataEd.replace(/[\[\]()]/g, '');
+                  subButton.onclick = button.onclick;
+                  li.appendChild(subButton);
+                } else if (sub_btn.tagName === 'A') {
+                  const a = document.createElement('a');
+                  a.textContent = sub_btn.textContent;
+                  a.href = sub_btn.getAttribute('href');
+                  li.appendChild(a);
+                }
+
+                sub_list.appendChild(li);
+
+                this.closest('ul').querySelectorAll('ul').forEach(b => {
+                  b.classList.remove('active-button');
+                });
+              });
+            };
+
+            li.appendChild(button);
+            list.appendChild(li);
+          });
+
+          columns.appendChild(list);
+        } catch (error) {
+          console.error(error.message);
+        }
+      }
+
+      main();
+    </script>
+  </body>
+</html>

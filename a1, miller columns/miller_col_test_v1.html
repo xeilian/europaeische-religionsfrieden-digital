@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+        :root{
+        /* projektspezifische Farben */
+        --euredPersColor:#9f353b ;
+        --euredPlaceColor:#497e00;
+        --euredEntities:white;
+        /* neues Farbschema */
+       
+        --zeidAccentColor: #008877;
+        --zeidBackColor: #e9eceb;
+        --zeidEntityColor:#3A8677;
+        --zeidHeaderColor:#9DC2BB;
+        --zeidLineNumberColor:#B9B9B9;
+        --zeidMainColor: #235047;
+        --zeidWhite: #FFFFFF;
+        --zeidPagebreak: #A1A1A1;}
+        </style>
+    </head>
+    <body>
+    <div id="columns"></div>
+    <script>
+        const columns = document.getElementById('columns');
+
+
+        async function getData(ed) {
+            try {
+                const url = "https://exist.ulb.tu-darmstadt.de/1/r/edoc/collection/" + ed + "/nav.html";
+                const response = await fetch(url);
+                if (!response.ok) {
+                    throw new Error(`Response status: ${response.status}`);
+                }
+
+                const result = await response.text();
+                const parser = new DOMParser();
+                // const doc = parser.parseFromString(result, 'text/html');
+                // let buttons;
+                // try {
+                //     buttons = doc.querySelectorAll('button[data-ed], button[data-lvl], a');
+                // } catch (error) {
+                //     buttons = doc.querySelectorAll('a');
+                // }
+                // return buttons;
+                const doc = parser.parseFromString(result, 'text/html');
+                return doc;
+            } catch (error) {
+                console.error('Error fetching data:', error);
+                throw error;
+            }
+        }
+
+        async function main() {
+            try {
+                const doc = await getData("pa000008");
+                const buttons = Array.from(doc.querySelectorAll('button[data-ed], button[data-lvl]'));
+                const cache = {};
+                const container = document.getElementById('columns');
+                container.innerHTML = "";
+                const list = document.createElement('ul');
+
+                buttons.forEach(btn => {
+                    const li = document.createElement('li');
+                    const button = document.createElement('button');
+                    button.textContent = btn.textContent;
+                    const dataEd = btn.getAttribute('data-ed') || btn.getAttribute('data-lvl') || '';
+                    button.dataset.ed = dataEd.replace(/[\[\]()]/g, '');
+
+                    button.onclick = async function() {
+                        const ed = this.dataset.ed;
+                        let doc;
+
+                        if (!ed.includes('-d')) {
+                            if (!cache[ed]) {
+                                cache[ed] = await getData(ed);
+                            } 
+                            doc = cache[ed];
+                        } else {
+                            const parentId = ed.split('-d')[0];
+                            if (!cache[parentId]) {
+                                cache[parentId] = await getData(parentId);
+                            }
+                            doc = cache[parentId];
+                        }
+
+                        let sub_buttons = [];
+
+                        const all_lvl_buttons = Array.from(
+                            doc.querySelectorAll('button[data-lvl]')
+                        );
+                        const children = all_lvl_buttons.filter(el => {
+                            const raw = el.getAttribute('data-lvl') || '';
+                            const lvl = raw.replace(/[\[\]()]/g, '');
+                            return lvl.startsWith(ed + '-');
+                        });
+
+                        if (children.length > 0) {
+                            sub_buttons = children;
+                        } else {
+                            const ul = doc.querySelector(`ul[id="${ed}"]`);
+                            if (ul) {
+                                sub_buttons = Array.from(ul.querySelectorAll('a'));
+                            }
+                        }
+
+
+
+                    let sub_list = this.nextElementSibling;
+                    if (!sub_list || !sub_list.classList.contains('sub-list')) {
+                        sub_list = document.createElement('ul');
+                        sub_list.classList.add('sub-list');
+                        this.parentElement.appendChild(sub_list);
+                    }
+                    sub_list.innerHTML = "";
+
+                    sub_buttons.forEach(sub_btn => {
+                        const li = document.createElement('li');
+
+                        if (sub_btn.tagName === 'BUTTON') {
+                        const subButton = document.createElement('button');
+                        subButton.textContent = sub_btn.textContent;
+                        const dataEd = sub_btn.getAttribute('data-ed') || sub_btn.getAttribute('data-lvl') || '';
+                        subButton.dataset.ed = dataEd.replace(/[\[\]()]/g, '');
+                        subButton.onclick = button.onclick;
+                        li.appendChild(subButton);
+
+                        } else if (sub_btn.tagName === 'A') {
+                        const a = document.createElement('a');
+                        a.textContent = sub_btn.textContent;
+                        a.href = sub_btn.getAttribute('href');
+                        li.appendChild(a);
+                        }   
+
+                        sub_list.appendChild(li);
+                    });
+                };
+
+
+                    li.appendChild(button);
+                    list.appendChild(li);
+                });
+
+
+                container.appendChild(list);
+            } catch (error) {
+                console.error(error.message);
+            }
+        }
+
+
+        main();
+    </script>
+    </body>
+</html>

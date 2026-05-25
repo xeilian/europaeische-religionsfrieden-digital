@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      :root {
+        --euredPersColor: #9f353b;
+        --euredPlaceColor: #497e00;
+        --euredEntities: white;
+        --zeidAccentColor: #008877;
+        --zeidBackColor: #e9eceb;
+        --zeidEntityColor: #3a8677;
+        --zeidHeaderColor: #9dc2bb;
+        --zeidLineNumberColor: #b9b9b9;
+        --zeidMainColor: #235047;
+        --zeidWhite: #ffffff;
+        --zeidPagebreak: #a1a1a1;
+      }
+
+      body {
+        margin: 0;
+        padding: 0;
+        background: var(--zeidBackColor);
+        font-family: sans-serif;
+      }
+
+      #columns {
+        display: flex;
+        gap: 1rem;
+        padding: 1rem;
+        overflow-x: auto;
+      }
+
+      #columns ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+        background: var(--zeidWhite);
+        border-radius: 12px;
+        padding: 0.5rem;
+        min-width: 220px;
+        max-width: 260px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      }
+
+      #columns li {
+        margin: 0.25rem 0;
+      }
+
+      #columns button,
+      #columns a {
+        width: 100%;
+        display: block;
+        text-align: left;
+        padding: 0.5rem;
+        border-radius: 8px;
+        border: none;
+        background: var(--zeidHeaderColor);
+        cursor: pointer;
+        text-decoration: none;
+        color: black;
+        font-size: 14px;
+        font-family: sans-serif;
+        box-sizing: border-box;
+      }
+
+      #columns button:hover,
+      #columns a:hover {
+        background: var(--zeidAccentColor);
+        color: white;
+      }
+
+      .sub-list {
+        margin-left: 0;
+      }
+
+      /* aktive Auswahl */
+      .active-button {
+        background: var(--zeidAccentColor) !important;
+        color: white !important;
+      }
+    </style>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  </head>
+  <body>
+    <div id="columns"></div>
+
+    <script>
+      const columns = $('#columns');
+
+      // fetch + DOMParser bleiben normales JS, jQuery hat dafür kein eigenes Pendant[web:59][web:60]
+      async function getData(ed) {
+        try {
+          const url =
+            'https://exist.ulb.tu-darmstadt.de/1/r/edoc/collection/' +
+            ed +
+            '/nav.html';
+          const response = await fetch(url);
+          if (!response.ok) {
+            throw new Error('Response status: ' + response.status);
+          }
+          const result = await response.text();
+          const parser = new DOMParser();
+          const doc = parser.parseFromString(result, 'text/html');
+          return doc;
+        } catch (error) {
+          console.error('Error fetching data:', error);
+          throw error;
+        }
+      }
+
+      async function main() {
+        try {
+          const doc = await getData('pa000008');
+          const buttons = Array.from(
+            doc.querySelectorAll('button[data-ed], button[data-lvl]')
+          );
+          const cache = {};
+          const container = $('#columns');
+          container.empty();
+
+          const $list = $('<ul></ul>');
+
+          buttons.forEach((btn) => {
+            const $li = $('<li></li>');
+            const $button = $('<button></button>');
+            $button.text(btn.textContent);
+
+            const dataEd =
+              btn.getAttribute('data-ed') || btn.getAttribute('data-lvl') || '';
+            $button.attr('data-ed', dataEd.replace(/[\[\]()]/g, ''));
+
+            $li.append($button);
+            $list.append($li);
+          });
+
+          container.append($list);
+
+          // jQuery-Click-Handler mit Delegation für alle Buttons in #columns[web:45][web:48]
+          $('#columns').on('click', 'button', async function () {
+            const $this = $(this);
+            const ed = $this.attr('data-ed') || '';
+
+            // aktive Farbe in derselben Liste setzen
+            $this.closest('ul').find('button').removeClass('active-button');
+            $this.addClass('active-button');
+
+            let docForEd;
+
+            if (!ed.includes('-d')) {
+              if (!cache[ed]) {
+                cache[ed] = await getData(ed);
+              }
+              docForEd = cache[ed];
+            } else {
+              const parentId = ed.split('-d')[0];
+              if (!cache[parentId]) {
+                cache[parentId] = await getData(parentId);
+              }
+              docForEd = cache[parentId];
+            }
+
+            // alle Spalten rechts von dieser Liste entfernen
+            let next = $this.closest('ul')[0].nextSibling;
+            while (next) {
+              const toRemove = next;
+              next = next.nextSibling;
+              $(toRemove).remove();
+            }
+
+            let sub_buttons = [];
+            const all_lvl_buttons = Array.from(
+              docForEd.querySelectorAll('button[data-lvl]')
+            );
+            const children = all_lvl_buttons.filter((el) => {
+              const raw = el.getAttribute('data-lvl') || '';
+              const lvl = raw.replace(/[\[\]()]/g, '');
+              return lvl.startsWith(ed + '-');
+            });
+
+            if (children.length > 0) {
+              sub_buttons = children;
+            } else {
+              const ul = docForEd.querySelector('ul[id="' + ed + '"]');
+              if (ul) {
+                sub_buttons = Array.from(ul.querySelectorAll('a'));
+              }
+            }
+
+            const $sub_list = $('<ul></ul>').addClass('sub-list');
+            columns.append($sub_list);
+
+            sub_buttons.forEach((sub_btn) => {
+              const $li = $('<li></li>');
+
+              if (sub_btn.tagName === 'BUTTON') {
+                const $subButton = $('<button></button>');
+                $subButton.text(sub_btn.textContent);
+                const dataEdSub =
+                  sub_btn.getAttribute('data-ed') ||
+                  sub_btn.getAttribute('data-lvl') ||
+                  '';
+                $subButton.attr(
+                  'data-ed',
+                  dataEdSub.replace(/[\[\]()]/g, '')
+                );
+                $li.append($subButton);
+              } else if (sub_btn.tagName === 'A') {
+                const $a = $('<a></a>');
+                $a.text(sub_btn.textContent);
+                $a.attr('href', sub_btn.getAttribute('href'));
+                $li.append($a);
+              }
+
+              $sub_list.append($li);
+            });
+          });
+        } catch (error) {
+          console.error(error.message);
+        }
+      }
+
+      main();
+    </script>
+  </body>
+</html>
