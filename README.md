@@ -1,11 +1,11 @@
 # Finding a new ontology for Eured
 
-The goal of this exercise was to find ideas for a possible CIDOC-based ontology for Eured via NotebookLLM. This encompassed the scraping of all texts from Eured of the first three modules. The [script](https://github.com/xeilian/europaeische-religionsfrieden-digital/blob/main/a4%2C%20find_ontology/extract_text_contents.py) was done in Python. The scraped texts, all 52 of them, are also in this [repository](https://github.com/xeilian/europaeische-religionsfrieden-digital/blob/main/a4%2C%20find_ontology/).
+The goal of this exercise was to find ideas for a possible CIDOC-based ontology for Eured via NotebookLM. This encompassed the scraping of all texts from Eured of the first three modules. The [script](https://github.com/xeilian/europaeische-religionsfrieden-digital/blob/main/a4%2C%20find_ontology/extract_text_contents.py) was done in Python. The scraped texts, all 52 of them, are also in this [repository](https://github.com/xeilian/europaeische-religionsfrieden-digital/blob/main/a4%2C%20find_ontology/).
 
-The first prompt for NotebookLLM was the following:
+The first prompt for NotebookLM was the following:
 >As sources, you'll find 50 sources of early-modern European peace treatments. Scour through the texts and find a possible ontology for a online edition adhering to the CIDOC Conceptual Reference Model (CIDOC). This ontology should help to link data to certain classes and properties that are relevant to the texts in questions. Please list all the individual elements of the ontology and explain its relevance in a few words.
 
-This was the answer of NotebookLLM. It sadly only allowed a maximum capacity of 50 sources, that's why two sources were not taken into account. It was answered in German.[^1]
+This was the answer of NotebookLM. It sadly only allowed a maximum capacity of 50 sources, that's why two sources were not taken into account. It was answered in German.[^1]
 
 >Ein auf dem CIDOC Conceptual Reference Model (CRM) basierendes Ontologie-Modell für eine Online-Edition frühneuzeitlicher Friedensverträge (wie sie in den Quellen vorliegen) ermöglicht eine strukturierte semantische Erfassung der komplexen politischen, religiösen und rechtlichen Verhältnisse jener Zeit.
 >Hier ist eine Auflistung der relevanten CIDOC-CRM-Klassen und -Eigenschaften für eine solche Edition, basierend auf den bereitgestellten Dokumenten:
