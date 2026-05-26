@@ -210,7 +210,7 @@ Present the result as a table.
 ### Result
 Based on the provided corpus of 50 early modern peace treaties and decrees, the following table outlines concrete use cases for a CIDOC CRM-based ontology within a digital edition.
 
-**Use Cases for a Treaty Ontology**
+**Use Cases for a Treaty Ontology**<br>
 
 | User Need / Function | Description | Ontology Elements | Core/Advanced | Corpus Support |
 | :--- | :--- | :--- | :--- | :--- |
@@ -223,7 +223,7 @@ Based on the provided corpus of 50 early modern peace treaties and decrees, the 
 | **Mapping Territorial Validity** | Visualizing the reach of a treaty (e.g., validity for the whole Empire vs. a single city like Altona). | **E31 Document**, **E53 Place**, **P6 valid in**. | **Core** | **Strong**: Preambles explicitly list the territories or groups subject to the law. |
 | **Mandate & Penalty Tracking** | Finding documents that invoke specific legal consequences, such as the **Imperial Ban (Acht)**. | **E31 Document**, **E73 Information Object**, **P67 refers to**. | **Advanced** | **Strong**: Penal formulas like *bey peen der Acht* are standard in imperial decrees. |
 
-**Explanation of Use Cases**
+**Explanation of Use Cases**<br>
 
 *   **Finding Treaties by Facet:** This is a basic requirement for any digital edition. Users need to filter the 50 sources to find all documents issued in **Speyer** or those involving **King Ferdinand**. The ontology links the **E31 Document** to the **E53 Place** via **P67** and to the **E21 Person** via **P11**.
 *   **Tracing Legal Lineage:** Historians often need to see the "life" of a law. The **Edict of Restitution (1629)** is essentially a 40-page commentary on the **1555 Peace of Augsburg**. Modeling these as **P67 refers to** relations between **E31** entities allows users to navigate this hierarchy.
@@ -359,37 +359,37 @@ Please list these cases and explain what kind of modeling problem each creates.
 ### Result
 Based on the analysis of the 50 early modern documents in the corpus, several ambiguous or difficult cases emerge that present significant challenges for modeling in a CIDOC CRM-based ontology.
 
-**1. Uncertain and Complex Dates**
+**1. Uncertain and Complex Dates**<br>
 The corpus rarely relies on simple ISO-standard dates, instead using religious calendars or regnal years.
 *   **Case:** Dates are frequently defined by **Saints’ days** (e.g., "Monday after Sunday Rogationum", "Tuesday after St. Michael's Day") or **regnal years** (e.g., "the 10th year of our Roman reign", "34th year of our reign").
 *   **Modeling Problem:** These do not map directly to a static `E52 Time-Span`. Modeling them requires a **transformation layer** to align relative dates with the Gregorian calendar. Furthermore, legal validity is often tied to these specific, non-standard start dates, meaning errors in calculation ripple through the entire legal lineage of the ontology.
 
-**2. Ambiguous Places and Jurisdictional Overlap**
+**2. Ambiguous Places and Jurisdictional Overlap**<br>
 Documents often involve multiple geographic entities with different roles.
 *   **Case:** A treaty might be **issued** at Prague Castle, **negotiated** at Leithmeritz and Pirna, but be **valid** for the entire Kingdom of Bohemia. Other documents, like the **Hammelburg Treaty**, were signed in Hammelburg but concern the internal governance of Erfurt.
 *   **Modeling Problem:** Using only `P7 took place at` and `P67 refers to` is insufficient. The ontology must distinguish between the **Place of Issue** (the `E53 Place` where `P92 brought into existence` happened) and the **Territorial Reach** (`P6 valid in`). Additionally, places often have **multilingual names** (e.g., Fredericopolis/Friedrichstadt), requiring the model to support multiple `E41 Appellations` for a single `E53 Place`.
 
-**3. Collective and Institutional Actors**
+**3. Collective and Institutional Actors**<br>
 The primary actors in the corpus are rarely individuals, but rather collective bodies or institutions.
 *   **Case:** Agreements are made between "The Three Estates of the Crown of Bohemia", "The Cathedral Chapter", "City Councils", or "The Common Man". Individuals like **Ferdinand I** often act "on behalf of" the Emperor.
 *   **Modeling Problem:** Representing these as `E21 Person` is incorrect. They require **`E74 Group`**. The difficulty lies in modeling **Delegation**: an individual (`E21`) participates in an event (`E5`) not as themselves, but as a representative of a Group (`E74`). The ontology needs a way to link the person to the group via a specific **Role** (e.g., *Commissarien*).
 
-**4. Multiple Versions and Document States**
+**4. Multiple Versions and Document States**<br>
 Annotations frequently highlight the physical or transmission status of the document.
 *   **Case:** Documents are labeled as "Warhafftiger Abtruckh" (True Print), "Copei" (Copy), or "Gegen dem Original Collationirt" (Collated against the original).
 *   **Modeling Problem:** There is a conflict between the **Legal Act** (the `E73 Information Object`) and its **Physical Manifestations** (the `E31 Documents`). If two documents represent the same treaty but one is an original and one is a "collated copy," the ontology must link them while preserving their distinct archival metadata. Standard CRM properties do not inherently distinguish between "Original" and "Copy" without custom extensions for **Document State**.
 
-**5. Editorial Interventions and Placeholder Actors**
+**5. Editorial Interventions and Placeholder Actors**<br>
 The sources contain editorial placeholders and transcriptions of missing text.
 *   **Case:** Formulas such as **"N. N. N. und N."** are used when the names of ambassadors were to be inserted later. Square brackets like **"[uns]"** or **"[nit]"** indicate editorial reconstructions of damaged or missing text.
 *   **Modeling Problem:** This creates **identitiy ambiguity**. A participant modeled as "N. N." cannot be linked to a known `E21 Person`. The ontology needs to support **Uncertainty Markers** or a way to model "Potential Participants" to distinguish between verified historical actors and editorial placeholders.
 
-**6. References without a Clear Referent**
+**6. References without a Clear Referent**<br>
 Treaties are part of a dense web of "recursive" legal language.
 *   **Case:** Documents frequently refer to "the former treaty", "the aforementioned articles", or "the above-mentioned mandates". In the **1529 Speyer Recess**, one section refers specifically to "the Seven Articles" handed over by the Statthalter.
 *   **Modeling Problem:** Without **Internal Hierarchy modeling** (`P148 has component`), these references remain "blind." If the ontology only models the document as a whole, it cannot resolve a reference to a specific **Article** or **Paragraph** within that document. This requires a granular structural model of the text itself.
 
-**7. Difficult Legal and Normative Statements**
+**7. Difficult Legal and Normative Statements**<br>
 Many legal clauses define conditions that are theoretically and ontologically complex.
 *   **Case:**
     *   **Conditional Validity:** "Valid until a final Christian settlement".
@@ -400,7 +400,7 @@ Many legal clauses define conditions that are theoretically and ontologically co
 
 ## Part 6: Application on the Treaty of Münster
 ### Input
-* this (.ttl-file)[https://github.com/WunschK/EuReD-Ontology/blob/main/muenster_vertrag.ttl]
+* this [.ttl-file](https://github.com/WunschK/EuReD-Ontology/blob/main/muenster_vertrag.ttl)
 * the source file of the Treaty of Münster
 
 ### Prompt
@@ -411,36 +411,36 @@ Please apply your findings on this specific use case.
 ### Result
 To apply the findings from our analysis to the **Münsterer Vertrag (1533)**, we can see how this specific document perfectly illustrates the need for the suggested ontology extensions. This treaty is a prime example of the complex institutional and conditional legal structures found throughout the corpus.
 
-**1. Modeling Recurring Entities: Beyond Individuals**
+**1. Modeling Recurring Entities: Beyond Individuals**<br>
 The current model identifies several **E21 Persons** (e.g., Philipp of Hesse, Franz von Waldeck). However, the text highlights the necessity of the **E74 Group** extension:
 *   **Collective Actors:** The treaty is not just between individuals but involves the "City Council, Elders, Masters, and the entire community of Münster" (*Raith, Alterleute, Meisterleute und gantze gemeyneheit*) and the **Cathedral Chapter** (*Dhumcapittel*).
 *   **Delegated Authority:** Philipp of Hesse acts as a mediator (*unß yn die saichen geschlagen unnd zu guitlicher underhandelonge*), involving his own counselors (*unßere Rethe*). The ontology must distinguish his role as an **Intercessor** from the primary parties.
 
-**2. Structural Granularity (P148 has component)**
+**2. Structural Granularity (P148 has component)**<br>
 The text is clearly organized into **19 Articles**, validating the call for a component-based model:
 *   **Article 1:** Grants the city the right to preach the "Word of God" and minister sacraments in six specific parish churches (St. Lamberti, Ludgeri, etc.).
 *   **Article 2:** Protects the religious practice of the Cathedral Chapter and other foundations in all other locations.
 *   **Modeling Benefit:** Using **P148**, a researcher could query specific rights granted to the **Parish Churches** versus the **Cathedral**, rather than retrieving the entire 1533 document.
 
-**3. Legal Lineage and References**
+**3. Legal Lineage and References**<br>
 This treaty explicitly confirms the findings regarding cross-document dependencies:
 *   **Reference to Earlier Norms:** Article 1 explicitly states that its provisions must follow the "Recess and Peace" established at the **Diet of Nuremberg in 1532** (*Nuremberg uffgericht... abschidts unnd friddens*).
 *   **Ontological Link:** This supports the need for a property like **"confirms"** or **"refers to"** to link the 1533 Münsterer Vertrag to the 1532 Nuremberg Peace.
 
-**4. Handling Temporal Ambiguity**
+**4. Handling Temporal Ambiguity**<br>
 The Münsterer Vertrag provides a textbook example of **conditional validity**:
 *   **The Condition:** The religious arrangements are valid only **"until a general, free, Christian council in the German nation"** (*biß uff ein gemein, frei, christlich Concilium yn deutscher Nation*).
 *   **Modeling Problem:** As identified in the dossier, this cannot be modeled as a fixed end-date. The **E52 Time-Span** for this treaty’s validity must be linked to a future, uncertain **E5 Event** (the Council).
 
-**5. Authentication and Document State**
+**5. Authentication and Document State**<br>
 The final articles (17–19) provide rich metadata for **P92 brought into existence**:
 *   **Seals as Metadata:** The document lists the specific seals attached: the Landgrave's secret seal, the Bishop's princely seal, and the city's "great seal" (*Statt groiß Siegel*).
 *   **Document Versions:** The text mentions that two identical versions were created (*zweene gleich lautend gefertigt*), one for the Bishop and one for the City Council. This supports the need for the ontology to track **multiple manifestations** of the same legal act.
 
-**Summary of Application**
+**Summary of Application**<br>
 For this specific use case, the basic model (E31/E21) would capture the date and the main signatories but would miss the **institutional complexity of the Münster City Council**, the **conditional timeframe** based on a future council, and the **granular legal distinctions** between the six parish churches and the cathedral. Implementing the **E74 Group** and **P148 component** extensions is essential to make this digital edition truly research-capable.
 
-**Improved .ttl file**
+**Improved .ttl file**<br>
 This improved `.ttl` file incorporates the findings from our analysis, specifically adding institutional groups (**E74 Group**), distinguishing the conceptual legal act (**E73 Information Object**) from the physical document, modeling the internal structure of **Articles** (**P148**), and capturing the **conditional validity** contingent on a future council.
 
 ```turtle
