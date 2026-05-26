@@ -1,0 +1,1062 @@
+<?xml-model href="../../../customization/schema_quellentexte/religionsfrieden-quellentexte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa000008-0310">
+        <teiHeader>      
+                <fileDesc>         
+                        <titleStmt>
+                                <title level="a">Schlesischer Majestätsbrief (20. August 1609)</title>
+                                <title level="s">Europäische Religionsfrieden Digital</title>
+                                 
+                                
+                                <editor role="http://id.loc.gov/vocabulary/relators/edt" ref="https://orcid.org/0000-0002-1696-925X">
+                    <persName>Corinna Ehlers</persName>
+                </editor> 
+                                <respStmt>
+                    <resp ref="http://id.loc.gov/vocabulary/relators/mrk">Mitarbeit</resp>
+                    <persName>Kevin Wunsch</persName>
+                    <persName>Silke Kalmer</persName>
+                </respStmt>           
+                        </titleStmt>         
+                        <editionStmt>
+                                <edition>Digitale Edition gemäß <ref target="http://www.tei-c.org/">TEI P5</ref>
+                </edition>
+                                <funder>Akademie der Wissenschaften und der Literatur Mainz</funder>
+                <principal>Unter der Leitung von Irene Dingel und Thomas Stäcker</principal>
+                        </editionStmt>         
+                        <publicationStmt>
+                                <publisher>
+                                        <orgName ref="http://www.isni.org/0000000119314040">Leibniz-Institut für Europäische Geschichte Mainz</orgName>
+                                </publisher>           
+                                <distributor>
+                                        <orgName ref="http://www.isni.org/0000000110101946">Universitäts- und Landesbibliothek Darmstadt</orgName>
+                                        <idno type="ISIL">http://lobid.org/organisation/DE-17</idno>
+                                </distributor>
+                                <date when="2013-10-17" type="issued">2013</date>
+                                <availability>
+                                        <licence target="https://creativecommons.org/licenses/by/4.0/">
+                                                <p xml:lang="en">This file is licensed under the terms of the Creative Commons License CC-BY 4.0 (Attribution 4.0 International)</p>
+                                        </licence>
+                                </availability>
+                        </publicationStmt>        
+                        <sourceDesc>
+                <p>Textgrundlage s. ggf. Einleitung.</p>
+            </sourceDesc>
+                </fileDesc>      
+                <encodingDesc>         
+                        <projectDesc>
+                                <p>
+                    <ref target="https://eured.de">Europäische Religionsfrieden Digital</ref>
+                </p>
+                        </projectDesc>
+                        <classDecl>
+                                <taxonomy xml:id="marcrelator">
+                                        <bibl>
+                        <idno type="URI">http://id.loc.gov/vocabulary/relators/</idno> MARC Code List for Relators </bibl>
+                                </taxonomy>
+                        </classDecl>         
+                </encodingDesc>      
+                <profileDesc>         
+                        <langUsage>
+                                <language ident="deu">Deutsch</language>
+                        </langUsage>         
+                </profileDesc>      
+                <!--<revisionDesc><change/></revisionDesc>-->   
+        </teiHeader>
+    <standOff>
+        <listPerson>
+            <person xml:id="rudolf_ii">
+                    <persName ref="http://d-nb.info/gnd/118603701">
+                        <forename>Rudolf II.</forename>
+                        <roleName>Kaiser</roleName>
+                    </persName>
+                    <note>Kaiser des <rs type="place" ref="#heiliges_roemisches_reich">Heiligen
+                            Römischen Reichs</rs>.</note>
+                </person>
+            <person xml:id="promnitz_weighart">
+                    <persName>
+                        <forename>Weighart</forename>
+                        <nameLink>von</nameLink>
+                        <surname>Promnitz</surname>
+                    </persName>
+                    <note>schlesischer Adliger, gehörte 1609 zu den Initiatoren des Schlesischen
+                        Majestätsbriefs</note>
+                </person>
+            <person xml:id="zedlitz_hans_georg">
+                    <persName>
+                        <forename>Hans Georg</forename>
+                        <nameLink>von</nameLink>
+                        <surname>Zedlitz</surname>
+                    </persName>
+                    <note>schlesischer Adliger, gehörte 1609 zu den Initiatoren des Schlesischen
+                        Majestätsbriefs</note>
+                </person>
+            <person xml:id="burghauss_sigismund">
+                    <persName>
+                        <forename>Sigismund</forename>
+                        <nameLink>von</nameLink>
+                        <surname>Burghauß</surname>
+                    </persName>
+                    <note>schlesischer Adliger, gehörte 1609 zu den Initiatoren des Schlesischen
+                        Majestätsbriefs</note>
+                </person>
+            <person xml:id="geissler_andreas">
+                    <persName>
+                        <forename>Andreas</forename>
+                        <surname>Geißler</surname>
+                    </persName>
+                    <note>Jurist, bei Abschluss des Schlesischen Majestätsbriefs 1609 fürstlich
+                        liegnitzischer Rat</note>
+                </person>
+            <person xml:id="otter_wenzel">
+                    <persName ref="http://d-nb.info/gnd/1053181604">
+                        <forename>Wenzel</forename>
+                        <surname>Otter</surname>
+                    </persName>
+                    <note>Rat in <rs type="place" ref="#schweidnitz">Schweidnitz</rs>, gehörte 1609
+                        zu den Initiatoren des Schlesischen Majestätsbriefs</note>
+                </person>
+            <person xml:id="ferdinand_i">
+                    <persName ref="http://d-nb.info/gnd/118532502">
+                        <forename>Ferdinand I.</forename>
+                        <roleName>Kaiser</roleName>
+                    </persName>
+                    <note>Kaiser des <rs type="place" ref="#heiliges_roemisches_reich">Heiligen
+                            Römischen Reichs</rs>
+                </note>
+                </person>
+            <person xml:id="maximilian_ii">
+                    <persName ref="http://d-nb.info/gnd/11857938X">
+                        <forename>Maximilian II.</forename>
+                        <roleName>Kaiser</roleName>
+                    </persName>
+                    <note>Kaiser des <rs type="place" ref="#heiliges_roemisches_reich">Heiligen
+                            Römischen Reichs</rs>.</note>
+                </person>
+            <person xml:id="sternberg_adam">
+                    <persName ref="http://d-nb.info/gnd/136863302">
+                        <forename>Adam</forename>
+                        <nameLink>von</nameLink>
+                        <surname>Sternberg</surname>
+                    </persName>
+                    <note>Adam II. (der Ältere) von Sternberg, Landrichter und Burggraf von <rs type="place" ref="#prag">Prag</rs>
+                </note>
+                </person>
+            <person xml:id="michna_paul">
+                    <persName>
+                        <forename>Paul</forename>
+                        <surname>Michna von Waizenhofen (Vacínov)</surname>
+                        <roleName>Graf</roleName>
+                    </persName>
+                    <note>Hofsekretär der kaiserlichen Statthalterei in <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs>
+                </note>
+                </person>
+            <person xml:id="bohutsky_jonata">
+                    <persName ref="http://d-nb.info/gnd/1037506251">
+                        <forename>Jonata</forename>
+                        <surname>Bohutský von Hranice</surname>
+                    </persName>
+                    <note>Buchdrucker in <rs type="place" ref="#prag">Prag</rs>
+                </note>
+                </person>
+        </listPerson>
+        <listPlace>
+            <place xml:id="heiliges_roemisches_reich">
+                    <placeName ref="http://d-nb.info/gnd/2035457-5">Heiliges Römisches Reich
+                        Deutscher Nation</placeName>
+                    <!-- dnb link geprüft, BM, 18.1.2021 -->
+                </place>
+            <place xml:id="schweidnitz">
+                    <placeName ref="https://www.geonames.org/3084093/swidnica.html">Schweidnitz
+                        (Świdnica)</placeName>
+                </place>
+            <place xml:id="prag">
+                    <placeName ref="http://www.geonames.org/3067696/prague.html">Prag,
+                        Stadt</placeName>
+                </place>
+            <place xml:id="boehmen_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/63739-7">Böhmen, Königreich</placeName>
+                    <!-- dnb link geprüft, BM, 14.1.2021 -->
+                </place>
+            <place xml:id="niederlausitz_markgrafschaft">
+                    <placeName ref="http://d-nb.info/gnd/4042205-7">Niederlausitz,
+                        Markgrafschaft</placeName>
+                    <!-- dnb link geprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="oberlausitz_markgrafschaft">
+                    <placeName ref="http://d-nb.info/gnd/16135736-2">Oberlausitz,
+                        Markgrafschaft</placeName>
+                    <!-- dnb link geprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="ungarn_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/4078541-5">Ungarn, Königreich</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="schlesien_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/24372-3">Ober- und Niederschlesien,
+                        Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="sorau_herrschaft">
+                    <placeName>Sorau, Herrschaft in der <rs type="place" ref="#niederlausitz_markgrafschaft">Niederlausitz</rs>
+                </placeName>
+                    <note>Hauptort <placeName ref="https://www.geonames.org/3080644/zary.html">Sorau
+                            (Żary)</placeName>
+                </note>
+                </place>
+            <place xml:id="triebel_herrschaft">
+                    <placeName>Triebel, Herrschaft um <rs type="place" ref="#triebel">Triebel</rs>
+                        in der Niederlausitz</placeName>
+                    <!-- dnb link entfernt, kein geeigneter vorhanden, Erläuterung angefügt, BM, 1.3.2021 -->
+                </place>
+            <place xml:id="pless_herrschaft">
+                    <placeName ref="http://d-nb.info/gnd/4046356-4">Pleß, Herrschaft</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="hoyerswerda_herrschaft">
+                    <placeName>Hoyerswerda, Herrschaft in der <rs type="place" ref="#oberlausitz_markgrafschaft">Oberlausitz</rs>
+                </placeName>
+                    <note>Hauptort <placeName ref="https://www.geonames.org/2898304/hoyerswerda.html">Hoyerswerda</placeName>
+                </note>
+                </place>
+            <place xml:id="falkenberg_herrschaft">
+                    <placeName>Falkenberg, Herrschaft (Oberschlesien)</placeName>
+                </place>
+            <place xml:id="stroppen">
+                    <placeName ref="https://www.geonames.org/3084477/strupina.html">Stroppen
+                        (Strupina)</placeName>
+                </place>
+            <place xml:id="stoltz">
+                    <placeName ref="https://www.geonames.org/3084587/stolec.html">Stoltz
+                        (Stolec)</placeName>
+                </place>
+            <place xml:id="liegnitz_fuerstentum">
+                    <placeName ref="http://d-nb.info/gnd/4035685-1">Liegnitz, Fürstentum</placeName>
+                    <!-- dnb link geprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="brieg_fuerstentum">
+                    <placeName ref="http://d-nb.info/gnd/4008253-2">Brieg, Fürstentum</placeName>
+                    <!-- dnb link geprüft, BM, 14.1.2021 -->
+                </place>
+            <place xml:id="dalmatien">
+                    <placeName>Dalmatien, Region</placeName>
+                </place>
+            <place xml:id="kroatien_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/4073841-3">Kroatien-Slawonien,
+                        Königreich</placeName>
+                    <!-- dnb Link überprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="slawonien">
+                    <placeName ref="http://d-nb.info/gnd/4055289-5">Slawonien</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="oesterreich_erzherzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4075601-4">Österreich,
+                        Erzherzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="burgund_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4009139-9">Burgund, Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 14.1.2021 -->
+                </place>
+            <place xml:id="maehren_markgrafschaft">
+                    <placeName ref="http://d-nb.info/gnd/4074432-2">Mähren,
+                        Markgrafschaft</placeName>
+                    <!-- dnb link geprüft und aktualisiert, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="luxemburg_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4036728-9">Luxemburg, Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="brabant_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4089892-1">Brabant, Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 14.1.2021 -->
+                </place>
+            <place xml:id="steiermark_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4057092-7">Steiermark,
+                        Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="kaernten_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4029175-3">Kärnten, Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="krain_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4032741-3">Krain, Herzogtum</placeName>
+                    <!-- dnb Link geprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="wuerttemberg_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4067029-6">Württemberg,
+                        Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 21.1.2021 -->
+                </place>
+            <place xml:id="teck_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4119540-1">Teck, Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="schwaben_reichslandvogtei">
+                    <placeName ref="http://d-nb.info/gnd/16135750-7">Schwaben,
+                        Reichslandvogtei</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="lausitz">
+                    <placeName ref="http://d-nb.info/gnd/4034753-9">Lausitz</placeName>
+                    <note>bestand im 18. Jh. aus den Markgrafschaften <rs type="place" ref="#oberlausitz_markgrafschaft">Oberlausitz</rs> und <rs type="place" ref="#niederlausitz_markgrafschaft">Niederlausitz</rs>
+                </note>
+                    <!-- dnb link geprüft, BM, 19.1.2021, Erklärung ist notwendig -->
+                </place>
+            <place xml:id="habsburg_grafschaft">
+                    <placeName ref="http://d-nb.info/gnd/4844433-9">Habsburg, Grafschaft</placeName>
+                    <!-- dnb link geprüft, BM, 18.1.2021 -->
+                </place>
+            <place xml:id="tirol_grafschaft">
+                    <placeName ref="http://d-nb.info/gnd/4060207-2">Tirol, Grafschaft</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="pfirt_grafschaft">
+                    <placeName ref="http://d-nb.info/gnd/4291051-1">Pfirt, Grafschaft</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="kyburg_grafschaft">
+                    <placeName ref="http://d-nb.info/gnd/4266883-9">Kyburg, Grafschaft</placeName>
+                    <!-- dnb link geprüft, BM, 19.1.2021  -->
+                </place>
+            <place xml:id="goerz_grafschaft">
+                    <placeName ref="http://d-nb.info/gnd/4257667-2">Görz, Grafschaft</placeName>
+                    <!-- dnb link geprüft, BM, 18.01.2021 -->
+                </place>
+            <place xml:id="elsass">
+                    <placeName>Elsass, Landgrafschaft</placeName>
+                </place>
+            <place xml:id="burgau_markgrafschaft">
+                    <placeName ref="http://d-nb.info/gnd/4088662-1">Burgau,
+                        Markgrafschaft</placeName>
+                    <!-- dnb link geprüft, BM, 14.1.2021 -->
+                </place>
+            <place xml:id="windische_mark">
+                    <placeName ref="http://d-nb.info/gnd/4843205-2">Windische Mark,
+                        Herrschaft</placeName>
+                    <!-- dnb link geprüft, BM, 21.1.2021 -->
+                </place>
+            <place xml:id="portenau">
+                    <placeName>Portenau, Herrschaft</placeName>
+                </place>
+            <place xml:id="salins_herrschaft">
+                    <placeName>Salins, Herrschaft</placeName>
+                </place>
+        </listPlace>
+    </standOff>
+        
+        <facsimile>
+            <surface xml:id="f0005">
+            <graphic url="https://iiif.onb.ac.at/images/ABO/Z207564504/00000005/full/full/0/default.jpg"/>
+        </surface>
+            <surface xml:id="f0006">
+            <graphic url="https://iiif.onb.ac.at/images/ABO/Z207564504/00000006/full/full/0/default.jpg"/>
+        </surface>
+            <surface xml:id="f0007">
+            <graphic url="https://iiif.onb.ac.at/images/ABO/Z207564504/00000007/full/full/0/default.jpg"/>
+        </surface>
+            <surface xml:id="f0008">
+            <graphic url="https://iiif.onb.ac.at/images/ABO/Z207564504/00000008/full/full/0/default.jpg"/>
+        </surface>
+            <surface xml:id="f0009">
+            <graphic url="https://iiif.onb.ac.at/images/ABO/Z207564504/00000009/full/full/0/default.jpg"/>
+        </surface>
+            <surface xml:id="f0010">
+            <graphic url="https://iiif.onb.ac.at/images/ABO/Z207564504/00000010/full/full/0/default.jpg"/>
+        </surface>
+            <surface xml:id="f0011">
+            <graphic url="https://iiif.onb.ac.at/images/ABO/Z207564504/00000011/full/full/0/default.jpg"/>
+        </surface>
+            <surface xml:id="f0012">
+            <graphic url="https://iiif.onb.ac.at/images/ABO/Z207564504/00000012/full/full/0/default.jpg"/>
+        </surface>
+            <surface xml:id="f0013">
+            <graphic url="https://iiif.onb.ac.at/images/ABO/Z207564504/00000013/full/full/0/default.jpg"/>
+        </surface>
+            <surface xml:id="f0014">
+            <graphic url="https://iiif.onb.ac.at/images/ABO/Z207564504/00000014/full/full/0/default.jpg"/>
+        </surface>
+            <surface xml:id="f0015">
+            <graphic url="https://iiif.onb.ac.at/images/ABO/Z207564504/00000015/full/full/0/default.jpg"/>
+        </surface>
+            <surface xml:id="f0016">
+            <graphic url="https://iiif.onb.ac.at/images/ABO/Z207564504/00000016/full/full/0/default.jpg"/>
+        </surface>
+            <surface xml:id="f0017">
+            <graphic url="https://iiif.onb.ac.at/images/ABO/Z207564504/00000017/full/full/0/default.jpg"/>
+        </surface>
+            <surface xml:id="f0018">
+            <graphic url="https://iiif.onb.ac.at/images/ABO/Z207564504/00000018/full/full/0/default.jpg"/>
+        </surface>
+            <surface xml:id="f0019">
+            <graphic url="https://iiif.onb.ac.at/images/ABO/Z207564504/00000019/full/full/0/default.jpg"/>
+        </surface>
+        </facsimile>
+<text>
+<body> 
+<div xml:id="titelblatt">
+<head>
+<lb/>
+                    <pb facs="#f0005" n="A1r"/>Deß <w>Allerdurchleuch
+<pc>-</pc>
+                        <lb/>tigisten</w>, Großmechtigisten Fürsten unnd
+<lb/>Herrn, Herrn <rs type="person" ref="#rudolf_ii">Rudolphi deß Andern</rs>, Erwöhlten
+<lb/>Römischen Kaysers, auch zu <rs type="place" ref="#ungarn_koenigreich">Hungern</rs> und <rs type="place" ref="#boehmen_koenigreich">Behaimb</rs>
+<lb/>Königs, uber das freye Exercitium Religionis <w>Aug
+<pc>-</pc>
+                        <lb/>spurgischer</w> Confession im Lande <rs type="place" ref="#schlesien_herzogtum">Schlesien</rs>
+<lb/>Allergnedigste <w>Confir
+<pc>-</pc>
+                        <lb/>mation,</w>
+<lb/>
+<lb/>Der Herrn Fürsten und Stände
+<lb/>Abgesandten,
+<lb/>Dem Wolgebornen, Auch
+<lb/>Edlen, Gestrengen, Ehrnvesten, <w>Hochge
+<pc>-</pc>
+                        <lb/>lehrten</w>, Wolweisen Herrn, Herrn <rs type="person" ref="#promnitz_weighart">Weigharten von
+<lb/>Promnitz</rs>, Freyherrn auff <rs type="place" ref="#sorau_herrschaft">Sorau</rs>, <rs type="place" ref="#triebel_herrschaft">Triebel</rs>, <rs type="place" ref="#pless_herrschaft">Pleß</rs>, <rs type="place" ref="#hoyerswerda_herrschaft">
+                        <w>Hoyerswer
+<pc>-</pc>
+                            <lb/>da</w>
+                    </rs> und <rs type="place" ref="#falkenberg_herrschaft">Falckenberg</rs>; <rs type="person" ref="#zedlitz_hans_georg">Hans Georgen von Zedlitz</rs> auff <rs type="place" ref="#stroppen">
+                        <w>Strop
+<pc>-</pc>
+                            <lb/>pen</w>
+                    </rs>; <rs type="person" ref="#burghauss_sigismund">Sigmunden von Burghauß</rs> auff <rs type="place" ref="#stoltz">Stoltz</rs>; <rs type="person" ref="#geissler_andreas">Andreae <w>Geiß
+<pc>-</pc>
+                            <lb/>lern</w>
+                    </rs>, beyder Rechten Doctorn, Fürstlichem <rs type="place" ref="#liegnitz_fuerstentum">Lignitzischen</rs>, <rs type="place" ref="#brieg_fuerstentum">
+                        <w>Brie
+<pc>-</pc>
+                            <lb/>gischen</w>
+                    </rs> Rhat und der Herrn Fürsten und Stände in <rs type="place" ref="#schlesien_herzogtum">Schlesien</rs>
+<lb/>Landsbestelten, und <rs type="person" ref="#otter_wenzel">Wentzel Ottern</rs>, deß Rahts zur <rs type="place" ref="#schweidnitz">
+                        <w>Schweid
+<pc>-</pc>
+                            <lb/>nitz</w>
+                    </rs>, den Acht und Zwantzigsten Augusti <w>inste
+<pc>-</pc>
+                        <lb/>henden</w> 1609. Jahres
+<lb/>ertailet
+<lb/>Im Jahr 1609.</head>
+            </div>
+        
+<div xml:id="vorrede">
+<head>
+<lb/>
+                    <pb facs="#f0006" n="A1v"/>Mayestat und Privilegium uber
+<lb/>das Freye Exercitium der Augspurgischen
+<lb/>Confession deß Landes <rs type="place" ref="#schlesien_herzogtum">Schlesien</rs>.</head>
+<p>
+<lb/>Wir <rs type="person" ref="#rudolf_ii">Rudolff der Ander</rs> von
+<lb/>Gottes Gnaden Erwöhlter <w>Römi
+<pc>-</pc>
+                        <lb/>scher</w> Kayser, zu allen zeiten Mehrer deß
+<lb/>Reichs inn <rs type="place" ref="#heiliges_roemisches_reich">Germanien</rs>, zu <rs type="place" ref="#ungarn_koenigreich">Hungern</rs>,
+<lb/>
+                    <rs type="place" ref="#boehmen_koenigreich">Behaimb</rs>, <rs type="place" ref="#dalmatien">Dalmatien</rs>, <rs type="place" ref="#kroatien_koenigreich">Croatien</rs> unnd
+<lb/>
+                    <rs type="place" ref="#slawonien">Sclavonien</rs> etc. König, Ertzhertzog zu <rs type="place" ref="#oesterreich_erzherzogtum">Oesterreich</rs>, <w>Her
+<pc>-</pc>
+                        <lb/>tzog</w> zu <rs type="place" ref="#burgund_herzogtum">Burgund</rs>, Marggraff zu <rs type="place" ref="#maehren_markgrafschaft">Mährern</rs>, Hertzog
+<lb/>zu <rs type="place" ref="#luxemburg_herzogtum">Lützenburg</rs>, in <rs type="place" ref="#schlesien_herzogtum">Schlesien</rs>, zu <rs type="place" ref="#brabant_herzogtum">Braband</rs>, zu <rs type="place" ref="#steiermark_herzogtum">Steyr</rs>,
+<lb/>
+                    <rs type="place" ref="#kaernten_herzogtum">Kärndten</rs>, <rs type="place" ref="#krain_herzogtum">Crain</rs>, <rs type="place" ref="#wuerttemberg_herzogtum">Wirttemberg</rs> und <rs type="place" ref="#teck_herzogtum">Teckh</rs> etc. Fürst
+<lb/>zu <rs type="place" ref="#schwaben_reichslandvogtei">Schwaben</rs>, Marggraff zu <rs type="place" ref="#lausitz">Lausitz</rs>, Gefürster 
+<lb/>Graff zu <rs type="place" ref="#habsburg_grafschaft">Habspurg</rs>, zu <rs type="place" ref="#tirol_grafschaft">Tyroll</rs>, zu <rs type="place" ref="#pfirt_grafschaft">Pfirt</rs>, zu <rs type="place" ref="#kyburg_grafschaft">Kiburg</rs>
+<lb/>und zu <rs type="place" ref="#goerz_grafschaft">Görtz</rs>, Landgraff inn <rs type="place" ref="#elsass">Elsaß</rs>, Marggraff deß
+<lb/>Heiligen Römischen Reichs <rs type="place" ref="#oesterreich_erzherzogtum">ob der Ens</rs> und zu <rs type="place" ref="#burgau_markgrafschaft">
+                        <w>Bur
+<pc>-</pc>
+                            <lb/>gau</w>
+                    </rs>, Herr auff der <rs type="place" ref="#windische_mark">Windischen Marckh</rs>, zu <rs type="place" ref="#portenau">
+                        <w>Porte
+<pc>-</pc>
+                            <lb/>nau</w>
+                    </rs> und <rs type="place" ref="#salins_herrschaft">Salimß</rs> etc.</p>
+<p>
+<lb/>Bekennen für uns, unsere Erben unnd
+<lb/>nachkommende Könige zu <rs type="place" ref="#boehmen_koenigreich">Behaimb</rs> offentlich mit <w>die
+<pc>-</pc>
+                        <lb/>sem</w> Brieff: Demnach unsere Getreue und <w>Gehorsa
+<pc>-</pc>
+                        <lb/>me</w> der Augspurgischen Confession zugethane Fürsten
+<lb/>und Stende in <rs type="place" ref="#schlesien_herzogtum">Ober und Nieder Schlesien</rs> <w>verwiche
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="#f0007" n="A2r"/>ner</w> zeit durch ihre Gesandten, Den Wolgebornen und
+<lb/>die Ehrnveste, auch Gelährte und Ersame unsere liebe
+<lb/>getreue: <rs type="person" ref="#promnitz_weighart">Weickharten von Promnitz</rs>, Frey-Herrn zu
+<lb/>
+                    <rs type="place" ref="#pless_herrschaft">Pleß</rs> auff <rs type="place" ref="#sorau_herrschaft">Sorau</rs>, <rs type="place" ref="#triebel_herrschaft">Triebel</rs> und <rs type="place" ref="#hoyerswerda_herrschaft">Hoyerswerda</rs>; <rs type="person" ref="#zedlitz_hans_georg">Hans
+<lb/>Georgen von Zedlitz</rs> auff <rs type="place" ref="#stroppen">Stroppen</rs>; <rs type="person" ref="#burghauss_sigismund">Sigmunden
+<lb/>von Burghaus</rs> auff <rs type="place" ref="#stoltz">Stoltz</rs>; <rs type="person" ref="#geissler_andreas">Andreas Geißlern</rs>, der
+<lb/>Rechten Doctorn, und <rs type="person" ref="#otter_wenzel">Wentzel Ottern</rs> Unter andern
+<lb/>deß Landes beschwerden züförderist unnd <w>fürnembli
+<pc>-</pc>
+                        <lb/>chen</w> von Uns als Regirendem Könige zu <rs type="place" ref="#boehmen_koenigreich">Behaimb</rs>
+<lb/>und Obristen Hertzoge inn <rs type="place" ref="#schlesien_herzogtum">Schlesien</rs> aller <w>untertheni
+<pc>-</pc>
+                        <lb/>gist</w> gebetten, das sie bey der Augspurgischen Confession
+<lb/>dero freyen Exercitio gelassen unnd dessen von uns <w>ge
+<pc>-</pc>
+                        <lb/>nugsam</w> versichert werden möchten; Wir auch sie <w>un
+<pc>-</pc>
+                        <lb/>derm</w> dato den 16. Tag deß Monats Decembris nechst
+<lb/>verflossenen Jahres mit mehrer außführung gnedigist
+<lb/>dahin beschieden, Daß wann ein jeder bey dem jenigen,
+<lb/>wessen er befügt und berechtigt, verbliebe und nicht <w>da
+<pc>-</pc>
+                        <lb/>von</w> gedrungen würde, wir ihnen nachmals keine <w>Unbil
+<pc>-</pc>
+                        <lb/>ligkeit</w> zu zufügen verstatten, sondern es in Glaubens <w>sa
+<pc>-</pc>
+                        <lb/>chen</w> aller dings bey deme, wie es bey unsern <w>Hochge
+<pc>-</pc>
+                        <lb/>ehrten</w> Vorfahrn, als Kaysers <rs type="person" ref="#ferdinand_i">Ferdinandi</rs> und <rs type="person" ref="#maximilian_ii">
+                        <w>Maxi
+<pc>-</pc>
+                            <lb/>miliani</w>
+                    </rs>, zeiten gehalten worden, Und wie wir es bey <w>un
+<pc>-</pc>
+                        <lb/>ser</w> angehenden Regierung befunden, in gnaden beruhen
+<lb/>lassen wolten.</p>
+<p>
+<lb/>Und aber Uns bey dieser jetzigen Absendung sie
+<lb/>ferner underthenigst fürbringen lassen, das ihnen solche
+
+<lb/>
+                    <pb facs="#f0008" n="A2v"/>Resolution darumb beschwerlichen fallen wolte, weil
+<lb/>dieselbte Conditioniret, unnd dadurch den <w>Catholi
+<pc>-</pc>
+                        <lb/>schen</w> der Augspurgischen Confessions verwandten
+<lb/>Stritt zu erregen anlaß gegeben würde. Mit <w>under
+<pc>-</pc>
+                        <lb/>thenigster</w> Bitte, das in puncto Religionis, ebener <w>mas
+<pc>-</pc>
+                        <lb/>sen</w>, wie wir gegen unsern Ständen deß Königreichs
+<lb/>
+                    <rs type="place" ref="#boehmen_koenigreich">Behaimb</rs>, sub utraq<am>;</am>
+                    <ex>ue</ex>, uns gnedigist resolviret,<note type="annotation">Vgl. den <ref type="quelle" target="boehmischer_majestaetsbrief_1609_tschech.xml">Böhmischen Majestätsbrief</ref>.</note> auch
+<lb/>ihnen, den gehorsamben Fürsten unnd Ständen, mit
+<lb/>gleichmässiger satisfaction allergnedigist uns zu <w>erzei
+<pc>-</pc>
+                        <lb/>gen</w> geruhen wolten.</p>
+<p>
+<lb/>Wann Wir dann gnedigist angesehen solch <w>unse
+<pc>-</pc>
+                        <lb/>rer</w> gehorsamen und getreuen Augspurgischer <w>Confes
+<pc>-</pc>
+                        <lb/>sions</w> verwandten Fürsten und Stände <w>underthenig
+<pc>-</pc>
+                        <lb/>stes</w> flehen und bitten, bey nebens auch war genommen
+<lb/>die vielfaltige und grosse Beschwerungen, so wie hien
+<lb/>und wider also im Lande <rs type="place" ref="#schlesien_herzogtum">Schlesien</rs> aus des Religions
+<lb/>strittigkeiten erwachsen unnd biß dato sich erhalten <w>ha
+<pc>-</pc>
+                        <lb/>ben</w>, Hinfüro auch nach mehr (wo fern, wie biß dieser zeit
+<lb/>beschehen, ein theil kegen dem andern sein Recht und <w>Ge
+<pc>-</pc>
+                        <lb/>rechtigkeit</w>, welche sich kegen einander vor Alters wie
+<lb/>auch vor antrettung unserer Regierung zu Stifften,
+<lb/>Clöstern, Kirchen, Consistoriis, Renten, Zehenden, <w>ein
+<pc>-</pc>
+                        <lb/>komen</w> und allen andern Zugehörungen, sive ex prima
+<lb/>fundatione aut ex iure patronatus vel alio quovis
+<lb/>titulo, wie solcher erdacht, auffgesucht unnd herfür <w>ge
+<pc>-</pc>
+                        <lb/>zogen</w> werden künte und möchte, gehabt, im petitorio
+
+<lb/>
+                    <pb facs="#f0009" n="A3r"/>rügen, eifern, deßwegen ein ander turbiren und <w>bedrän
+<pc>-</pc>
+                        <lb/>gen</w> solten) sich gar leicht erheben und uberhauffen möchten.</p>
+<p>
+<lb/>Diesem nach und damit solchem unrath in der zeit
+<lb/>vorkommen und wie inn allen andern unsern <w>Königrei
+<pc>-</pc>
+                        <lb/>chen</w> und Landen  also auch im Land <rs type="place" ref="#schlesien_herzogtum">Schlesien</rs> unter
+<lb/>beyder Religionen, Nemblich den Catholischen unnd
+<lb/>Augspurgischen Confessions verwandten, unsern <w>ge
+<pc>-</pc>
+                        <lb/>horsamen</w> Fürsten und Ständen und getreuen <w>Unter
+<pc>-</pc>
+                        <lb/>thanen</w>, jetzo und allezeit standhaffte Liebe, Fried, Einig-
+<lb/>und Vertreuligkeit zu auffnehmung deß gemeinen <w>Nu
+<pc>-</pc>
+                        <lb/>tzes</w> gepflantzet und erhalten, auch fürbas kein theil dieser
+<lb/>beyder bewilligten Religionen in seinem Posseß unnd 
+<lb/>Exercitio bedrängt, sondern dabey geruiglich ohne
+<lb/>mennigliches einhalt gelassen werden möchte.</p>
+<p>
+<lb/>Als haben wir inn betrachtung dieser aller jetzt <w>ge
+<pc>-</pc>
+                        <lb/>setzten</w> und sonst vieler andern erheblichen ursachen und
+<lb/>motiven, bevoraus deren uns von obgedachten unsern
+<lb/>gehorsamen Fürsten und Ständen in allen unnd jeden
+<lb/>die gantze zeit unserer Kayser- und Königlichen <w>Regie
+<pc>-</pc>
+                        <lb/>rung</w> vorgefallenen angelegenheiten mit so <w>standhaff
+<pc>-</pc>
+                        <lb/>ter</w> Treue gantz nützlichst unnd willigst geleisten <w>Dien
+<pc>-</pc>
+                        <lb/>sten</w>, welche ihre Treuhertzigkeit sie auch nach <w>fer
+<pc>-</pc>
+                        <lb/>ners</w> zu continuiren sich gehorsambist anerbitten, auff
+<lb/>gehabten genugsamben bedacht unnd mit unsern <w>gut
+<pc>-</pc>
+                        <lb/>ten</w> wissen unnd willen, auch zuvor mit unserer <w>Obri
+<pc>-</pc>
+                        <lb/>sten</w> Landofficirer, Landrechtsitzern, Edlen Räthen
+
+<lb/>
+                    <pb facs="#f0010" n="A3v"/>und lieben getreuen unsers Königreichs <rs type="place" ref="#boehmen_koenigreich">Behaimb</rs> <w>ge
+<pc>-</pc>
+                        <lb/>pflogenen</w> reiffen Raht, den Articul, die Religion <w>be
+<pc>-</pc>
+                        <lb/>treffend</w>, gnedigst dahin vermittelt und beschlossen und
+<lb/>zu desto bestendiger wehrenden fest haltung gedachten
+<lb/>unsern gehorsamen Augspurgischer Confessions <w>ver
+<pc>-</pc>
+                        <lb/>wandten</w> Fürsten und Ständen und getreuen <w>Unter
+<pc>-</pc>
+                        <lb/>thanen</w> solches alles mit darüber ertaillung dieses <w>un
+<pc>-</pc>
+                        <lb/>sers</w> Kayser- und Königlichen offenen Majestet Brieffs
+<lb/>versichert und bestettiget.</p>
+            </div>
+
+<div xml:id="art_1">
+<p>
+<lb/>Erstlich, Demnach die Catholischen im Lande
+<lb/>
+                    <rs type="place" ref="#schlesien_herzogtum">Schlesien</rs> ihr freyes und ungehindertes Exercitium
+<lb/>Religionis haben, in welchem<note type="crit_app">Korrigiert nach <rs type="bibl" ref="#konrad_majestaetsbrief">
+                            <surname type="author">Konrad</surname>, Majestätsbrief, S. 95</rs>, aus: welchen.</note> ihnen die Augspurgischen
+<lb/>Confessions verwandten keinen eintrag thun oder <w>ord
+<pc>-</pc>
+                        <lb/>nung</w> geben, viel mehr sie bey ihren Kirchen, <w>Gottes
+<pc>-</pc>
+                        <lb/>dienst</w>, Ceremonien, Clöstern, Schulen, Pfarren,
+<lb/>Stifftungen, Zehenden, Zinßen, Accidentien, <w>einkom
+<pc>-</pc>
+                        <lb/>men</w> und alten gebreuchen, wie solches alles bißanhero
+<lb/>und zu dato sie im Besitz gehabt, dieser unser Majestet
+<lb/>unnd dem interdicto uti possidetis, ita possideatis <w>ge 
+<pc>-</pc>
+                        <lb/>mäß</w> ruhig unnd ohne verhinderung verbleiben lassen
+<lb/>sollen und wollen.</p>
+<p>
+<lb/>Diesem nach und damit hierinnen eine gleichheit
+<lb/>gehalten werde, bewilligen Wir und geben macht unnd
+<lb/>recht darzu, daß die gehorsamen Fürsten und Stände
+<lb/>und also alle unnd jede Einwohner deß gantzen Landes
+<lb/>
+                    <rs type="place" ref="#schlesien_herzogtum">Schlesien</rs>, sie sein unter Geist- oder Weltlichen <w>Für
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="#f0011" n="A4r"/>sten</w>, Herrn, Commendatorn, auch in unsern <w>Ertzfür
+<pc>-</pc>
+                        <lb/>stenthumern</w> gesessen, auffm Land, Städten unnd in
+<lb/>Dörffern, welche der Augspurgischen Confession<note type="crit_app">Korrigiert nach <rs type="bibl" ref="#konrad_majestaetsbrief">
+                            <surname type="author">Konrad</surname>, Majestätsbrief, S. 95</rs>, aus: Concession.</note> <w>ver
+<pc>-</pc>
+                        <lb/>wandt</w> sein und sich zu derselben bekennen, keinen <w>auß
+<pc>-</pc>
+                        <lb/>genommen</w>, ihre Religion laut jetzt erwehnten <w>Confes
+<pc>-</pc>
+                        <lb/>sion</w> frey unnd ungehindert uberal, an allen orten, uben
+<lb/>und verrichten bey solch ihrer Religion, Priesterschafft
+<lb/>und Kirchenordnung, welche jetzo bey ihnen ist oder
+<lb/>dieser Confession gemeß möchte auffgerichtet werden,
+<lb/>fried- unnd geruigklich verbleiben, keiner aus denselben
+<lb/>zu einer andern Religion, als wie sie die bißhero <w>ge
+<pc>-</pc>
+                        <lb/>habt</w>, ungeachtet, unter welcher Geist- oder Weltlichen
+<lb/>Obrigkeit einer gesessen oder sich auffhalten thuet, <w>ge
+<pc>-</pc>
+                        <lb/>drungen</w> oder derowegen verjaget, viel weniger bloß
+<lb/>und allein der Religion halben ab officiis removiret,
+<lb/>und also auff keinerley weise nach wege in ihren <w>Gewis
+<pc>-</pc>
+                        <lb/>sen</w> bedrenget oder betrübet, sondern viel mehr alle unnd
+<lb/>jede dieser Augspurgischen Confessions verwandte bey
+<lb/>deroselben, auch bey allen jetzo innehabenden Kirchen,
+<lb/>Gottesdienst, Ceremonien, Schulen, Pfarren, <w>Clö
+<pc>-</pc>
+                        <lb/>stern</w>, Stifftungen, Zehenden, Zinsen, Accidentien,
+<lb/>Einkomben, aller massen wie sie solche bißhero im besitz
+<lb/>und gebrauch gehalten, ruhig und unangefochten <w>gelas
+<pc>-</pc>
+                        <lb/>sen</w> werden sollen.</p>
+            </div>
+
+<div xml:id="art_2">
+<p>
+<lb/>Zum Andern Wöllen unnd ordnen Wir, das
+<lb/>alles das jenige, was ein theil zu dem andern, <w>Catho
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="#f0012" n="A4v"/>lische</w> so wol als der Augspurgischen Confession <w>ver
+<pc>-</pc>
+                        <lb/>wandte</w>, vor Alters wie auch vor und nach antrettung
+<lb/>unserer Löblichen Regierung zu Stifftern, Clöstern,
+<lb/>Kirchen, Consistoriis, Renten, Zehenden, Einkomben
+<lb/>und allen andern Zugehörungen, sive ex prima <w>funda
+<pc>-</pc>
+                        <lb/>tione</w> aut ex iure patronatus aut ex alio quovis <w>ti
+<pc>-</pc>
+                        <lb/>tulo</w>, wie solcher in petitorio erdacht, auffgesucht oder
+<lb/>herfür gezogen werden künte oder möchte, berechtiget <w>ge
+<pc>-</pc>
+                        <lb/>wesen</w> oder zu sein vermeinet, gantz ruehen und ein jeder
+<lb/>bey deme, was Er besitzet, insonderheit Kirchen unnd
+<lb/>Schulen, unangesehen, wem solche vor Alters <w>zugehö
+<pc>-</pc>
+                        <lb/>ret</w> unnd destwegen noch ihre iura patronatus darauff
+<lb/>praetendiren möchten, verbleiben unnd destwegen kein
+<lb/>theil das ander mit oder ausser Recht anfassen, <w>darin
+<pc>-</pc>
+                        <lb/>nen</w> turbiren oder im wenigsten bedrangen soll.</p>
+            </div>
+
+<div xml:id="art_3">
+<p>
+<lb/>Zum Dritten Verwilligen Wir auch dieses: da
+<lb/>jemand aus den Fürsten und Ständen ausser denen <w>Kir
+<pc>-</pc>
+                        <lb/>chen</w> und Gotteshäusern, welche sie jetzo inne haben, <w>hal
+<pc>-</pc>
+                        <lb/>ten</w> oder ihnen sonsten zustendig sein (bey welchen sie
+<lb/>auch friedlich geschützt unnd erhalten werden sollen)
+<lb/>etwa in Städten, Städtlein, Dörffern oder <w>anders
+<pc>-</pc>
+                        <lb/>wo</w>, wolte oder wolten mehr Kirchen, Gotteshäuser
+<lb/>oder Schulen zu Unterweiß- und aufferziehung der
+<lb/>Jugendt auffrichten unnd bauen lassen, das solches
+<lb/>gleich wie den Fürsten und Herrn Standt unnd <w>der
+<pc>-</pc>
+                        <lb/>selbten</w> allerseits Unterthanen, also auch den <w>Erb
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="#f0013" n="B1r"/>Fürstenthümern</w>, so wol in Städten als auff dem <w>Lan
+<pc>-</pc>
+                        <lb/>de</w> in gemein und einem jeden insonderheit an jetzo und
+<lb/>in künfftig zu thun frey und offen stehen sol, vor <w>men
+<pc>-</pc>
+                        <lb/>niglich</w> ungehindert.</p>
+            </div>
+        
+<div xml:id="art_4">
+<p>
+<lb/>Zum Vierden Wollen wir auch den <w>Augspurgi
+<pc>-</pc>
+                        <lb/>schen</w> Confessions verwandten Fürsten und Ständen
+<lb/>diese sondere Gnad thun, das die jenigen Fürsten, so zu
+<lb/>zeitten unserer Hochgeehrten Herrn Anherns unnd
+<lb/>Herrn Vatters, auch bey antrettung unserer <w>Regie
+<pc>-</pc>
+                        <lb/>rung</w>, ihre Consistoria gehabt unnd biß dato erhalten /
+<lb/>dabey nun unnd hin füro allezeit vor menniglich <w>unbeir
+<pc>-</pc>
+                        <lb/>ret</w> sein und bleiben, auch das denen andern <w>Augspurgi
+<pc>-</pc>
+                        <lb/>scher</w> Confession, Fürsten unnd Ständen, so hiebevor
+<lb/>keine Consistoria gehabt, neue auffzurichten und aller
+<lb/>massen mit denselben wie die andern, so die ihrige biß
+<lb/>hero gehalten, in ordination vnd Ehesachen zu <w>vorfah
+<pc>-</pc>
+                        <lb/>ren</w>, frey stehen sol.</p>
+<p>
+<lb/>Dabey wir dann insonderheit den <w>Erbfürsten
+<pc>-</pc>
+                        <lb/>thumbern</w> gnedigist frey stellen, das sie es in <w>ordinatio
+<pc>-</pc>
+                        <lb/>nibus</w>, wie vor diesem beschehen, in künfftig halten und
+<lb/>die Pfarrer ordiniren lassen, In Ehsachen aber sich
+<lb/>entweder der Consistorien der Augspurgischen <w>Con
+<pc>-</pc>
+                        <lb/>fessions</w> verwandten Fürsten und Stände inn <rs type="place" ref="#schlesien_herzogtum">
+                        <w>Schle
+<pc>-</pc>
+                            <lb/>sien</w>
+                    </rs> gebrauchen oder aber durch die Hauptleute unnd
+<lb/>die vom Lande darzu verordnete Personen <w>Augspur
+<pc>-</pc>
+                        <lb/>gischen</w> Confession an einem gewissen Orte ein <w>Gene
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="#f0014" n="B1v"/>ral</w> Consistorium auffrichten mögen. Jedoch auff unser
+<lb/>gnedigiste Ratification, so innerhalb eines Monats
+<lb/>nach beschehenem ihrem gehorsambistem anbringen <w>er
+<pc>-</pc>
+                        <lb/>folgen</w> oder in verbleibung dessen, wie es auffgerichtet,
+<lb/>gehalten unnd von ihren deputirten ohne allen eintrag
+<lb/>dirigiret werden sol. Dahin dann sie alle und jede <w>Ehe
+<pc>-</pc>
+                        <lb/>sachen</w> remittiren mögen, mit diesem außdrücklichen
+<lb/>vorbehalt, das in erwehneten Heyraths- und Ehesachen
+<lb/>wie bey diesem also auch in allen andern Consistorien
+<lb/>fleissig auffacht gegeben werde, damit niemandt zu nahe
+<lb/>mit dem Geblütte sich vermische, unnd das es je <w>besche
+<pc>-</pc>
+                        <lb/>hen</w> solte doch der modus coercendi &amp; puniendi aller
+<lb/>massen, wie es im <rs type="place" ref="#heiliges_roemisches_reich">Heyligen Römischen Reich</rs> unter den
+<lb/>Augspurgischen Confessions verwandten und deren
+<lb/>wolbestelten Consistoriis in ublichen brauch biß hero <w>ge
+<pc>-</pc>
+                        <lb/>halten</w>, observiret werde.</p>
+            </div>
+
+<div xml:id="art_5">
+<p>
+<lb/>Zum Fünfften sollen die Begräbnüs Todter <w>Leich
+<pc>-</pc>
+                        <lb/>nam</w> in Kirchen und auff Kirchhöffen, wie auch das
+<lb/>Ausleutten, den jenigen, so dazu gepfarret, nicht <w>abge
+<pc>-</pc>
+                        <lb/>schlagen</w>, Gleichwol aber bey den Catholischen Kirchen
+<lb/>unnd Pfarren den Augspurgischen Confessions <w>ver
+<pc>-</pc>
+                        <lb/>wandten</w> anders nicht denn vermöge derer daselbeten
+<lb/>gebreuchlichen Ceremonien, Hinwiderumb auch den
+<lb/>Catholischen bey deß andern theils Pfarren ebener <w>ge
+<pc>-</pc>
+                        <lb/>stalt</w> zugelassen und ertailet werden, Unnd da es je <w>be
+<pc>-</pc>
+                        <lb/>schehe</w>, von den eingepfarreten die zur zeit so gestalten
+
+<lb/>
+                    <pb facs="#f0015" n="B2r"/>verwegerung gebürende unnd sonst zur Kirchen oder
+<lb/>Pfarr schuldige Rent und Decem zu entrichten <w>entnom
+<pc>-</pc>
+                        <lb/>men</w>, unnd ihre Obrigkeiten dieselben zu einer andern
+<lb/>Pfarr, da es ihr gefellig, zu verwenden unnd daselbst sie
+<lb/>begraben zu lassen befügt sein.</p>
+<p>
+<lb/>Wegen frembder Personen und Laichen aber soll
+<lb/>dieses alles mit deß Collatoris oder Pfarrers selbigen
+<lb/>Orts guten wissen und willen verrichtet werden. In
+<lb/>welchen Orten aber und Städten die jenigen, so der
+<lb/>Augspurgischen Confession sein, ihr eigne Kirchen und
+<lb/>Begräbnis oder gesampt mit den Catholischen nicht
+<lb/>hetten, dieselben sollen vermöge dieser unser Concession,
+<lb/>wie Kirchen und Gottshäuser, also Begräbnüs unnd
+<lb/>Kirchhöfe auffzubauen, auch stellen darzu auszusetzen 
+<lb/>macht haben.</p>
+            </div>
+
+<div xml:id="art_6">
+<p>
+<lb/>Auff das also hierin zum Sechsten vielgedachten
+<lb/>unsern gehorsamben Fürsten und Ständen, auch allen
+<lb/>andern unsern im <rs type="place" ref="#schlesien_herzogtum">Hertzogthumb Schlesien</rs> unnd <w>un
+<pc>-</pc>
+                        <lb/>serer</w> darin habenden Erbfürstenthumbern getreuen
+<lb/>Unterthanen und Einwohnern nicht etwas <w>verhinder
+<pc>-</pc>
+                        <lb/>liches</w> sein möge, So thun wir hiemit alle Bevehlich und
+<lb/>Mandata, welche vor diesem wider die Augspurgischen
+<lb/>Confessions verwandte, in specie aber die jenigen, so
+<lb/>wegen verbottener graduum in Heyrathen und andern
+<lb/>in puncto Religionis außgangen sein, in gegenwertig
+<lb/>gentzlich auffheben und Cassirn.</p>
+            </div>
+
+<div xml:id="art_7">
+<p>
+<lb/>
+                    <pb facs="#f0016" n="B2v"/>Letzlich Wollen wir auch dieses, das zu erhaltung
+<lb/>Lieb und Einigkeit eine part der andern, Catholische
+<lb/>so wol als der Augspurgischen Confessions <w>verwand
+<pc>-</pc>
+                        <lb/>te</w>, inn so wie vorgesetzt verwilligter ubung unnd <w>ge
+<pc>-</pc>
+                        <lb/>brauch</w> ihrer Religion, Kirchenordnung und ertheilten
+<lb/>Gerechtigkeiten nicht eingreiffen oder fürschreiben, die
+<lb/>Geistliche in Weltliche unnd hinwieder die Weltliche
+<lb/>in Geistliche Empter sich nicht einmischen, Viel <w>weni
+<pc>-</pc>
+                        <lb/>ger</w> einander schmehen nach verfolgen, sondern nun mehr
+<lb/>als Glieder zu einem corpore gehörig einander lieben,
+<lb/>ehren, fördern und beyderseits für einen Mann inn <w>al
+<pc>-</pc>
+                        <lb/>len</w> unsern und deß Vaterlandes Notturfften und <w>ange
+<pc>-</pc>
+                        <lb/>legenheiten</w>, es sey in Mitleidungen oder andern <w>unver
+<pc>-</pc>
+                        <lb/>meidenlichen</w> zufellen, beysamen als treue Freunde <w>ste
+<pc>-</pc>
+                        <lb/>hen</w>. Und in summa also von heutiges Tages dato an
+<lb/>keiner von dem andern, wie aus den Fürsten, Herrn und
+<lb/>Ständen, also auch den Städten, Städtlein unnd
+<lb/>Pauersvolck, weder von ihren Obrigkeiten nach von
+<lb/>keinem einzigen andern Geist- oder Weltliches <w>Stan
+<pc>-</pc>
+                        <lb/>des</w> Personen wegen der Religion bedrenget und zu <w>ei
+<pc>-</pc>
+                        <lb/>ner</w> andern, es sey durch gewalt oder anderer <w>unzimli
+<pc>-</pc>
+                        <lb/>cher</w> weise, gezwungen und abgeführet werden.</p>
+            </div>
+
+<div xml:id="schluss">
+<p>
+<lb/>Welches alles und jedes, wie jetzt erzehlet, <w>verwilli
+<pc>-</pc>
+                        <lb/>gen</w>, versichern unnd bestettigen wir hiemit aus <w>Regi
+<pc>-</pc>
+                        <lb/>render</w> <rs type="place" ref="#boehmen_koenigreich">Königlicher Böhmischer</rs> volkommenheit, 
+<lb/>Macht und Gewalt unnd als Obrister Hertzog inn
+
+<lb/>
+                    <pb facs="#f0017" n="B3r"/>
+                    <rs type="place" ref="#schlesien_herzogtum">Schlesien</rs>, Mainen, setzen und wöllen, bey unsern <w>Kö
+<pc>-</pc>
+                        <lb/>niglichen</w> Worten versprechendt, das viel erwehnte <w>un
+<pc>-</pc>
+                        <lb/>sere</w> Augspurgischer Confessions verwandte Fürsten
+<lb/>unnd Stände sampt andern obberürten unsern deren
+<lb/>orth, Landen und Erbfürstenthumbern getreuen <w>Un
+<pc>-</pc>
+                        <lb/>terthanen</w> unnd Einwohnern für sich und ihre <w>Nach
+<pc>-</pc>
+                        <lb/>kommen</w> bey allem dem, was obgesetzt, von uns auch
+<lb/>künfftigen Königen zu <rs type="place" ref="#boehmen_koenigreich">Behaimb</rs> und Obristen <w>Her
+<pc>-</pc>
+                        <lb/>tzogen</w> in <rs type="place" ref="#schlesien_herzogtum">Schlesien</rs> biß zu einer Christlichen <w>volkom
+<pc>-</pc>
+                        <lb/>lichen</w> und endlichen vereinigung wegen der Religion
+<lb/>im <rs type="place" ref="#heiliges_roemisches_reich">Heyligen Römischen Reich</rs> gantz unnd volkömlich
+<lb/>in Fried und Ruhe gelassen unnd gleich andern bey dem
+<lb/>Religions frieden deß <rs type="place" ref="#heiliges_roemisches_reich">Heyligen Römischen Reichs</rs> <w>er
+<pc>-</pc>
+                        <lb/>halten</w>, das geringste ihnen hierinn weder von uns nach,
+<lb/>wie obgedacht, all unsern Nachkommen oder aber von
+<lb/>andern Geist- oder Weltlichen Personen zu künfftigen
+<lb/>und jeden zeiten einige verhinderung oder eintrag nicht
+<lb/>geschehen nach verstattet, weniger wieder solchen <w>Reli
+<pc>-</pc>
+                        <lb/>gion</w> frieden unnd die unsere Assecuration ainzige <w>be
+<pc>-</pc>
+                        <lb/>vellich</w> oder etwas dergleichen, so dessen geringste <w>ver
+<pc>-</pc>
+                        <lb/>hinder-</w> oder veränderung verursachen möchte, von uns
+<lb/>oder mehr erwehnten unsern Nachkommen oder aber
+<lb/>sonsten jemandts andern ausgehen oder von jemandts
+<lb/>anzunehmen angehalten, Unnd im fall gar etwas <w>der
+<pc>-</pc>
+                        <lb/>gleichen</w> außgienge oder von jemanden angenommen
+<lb/>würde, jedoch unkrefftig sein und dafür gehalten, auch
+
+<lb/>
+                    <pb facs="#f0018" n="B3v"/>auff solche gestalt weder mit oder ohne recht ichtwas
+<lb/>geurtheilet und außgesprochen werden sol.</p>
+<p>
+<lb/>Und gebitten darauff unsern Ober- und allen <w>an
+<pc>-</pc>
+                        <lb/>dern</w> Hauptleuten in <rs type="place" ref="#schlesien_herzogtum">Ober und Nieder Schlesien</rs>, das
+<lb/>sie gemelte unsere gehorsame Fürsten unn Stände sampt
+<lb/>allen andern hierin Vermelt unsern getreuen <w>Unter
+<pc>-</pc>
+                        <lb/>thanen</w> und Einwohnern in <rs type="place" ref="#schlesien_herzogtum">Ober- und Nieder <w>Schle
+<pc>-</pc>
+                            <lb/>sien</w>
+                    </rs>, so sich zu vielberürter bewilligter Augspurgischer
+<lb/>Confession bekennen, bey dieser unserer versicherung
+<lb/>und Majestet, wie dieselbte in allen Articuln, <w>Senten
+<pc>-</pc>
+                        <lb/>tzen</w> und Clausuln lautet, vertretten und schützen, selbst
+<lb/>ihnen hierin keinen eintrag thuen, viel weniger andern
+<lb/>zuthun verstaten. Unnd wo uber diß jemandt, es sey
+<lb/>von Geist- oder Weltlichen Personen, diese unsere <w>Asse
+<pc>-</pc>
+                        <lb/>curation</w> und Majestat zu ubertretten sich unterstunde, /
+<lb/>zu deme und einem jeden deroselben, als zu einem <w>zerstö
+<pc>-</pc>
+                        <lb/>rer</w> deß gemeinen Friedens, an stat unser und ihres von
+<lb/>uns oder mehres erwehnet unsern Nachkommen ihnen
+<lb/>anvertrauten <seg type="crit_app">Ampts halben</seg>
+                    <note type="crit_app">Korrigiert aus: Amptshalben.</note> greiffen und also <w>vielermel
+<pc>-</pc>
+                        <lb/>te</w> unsere gehorsame Fürsten und Stände festiglich <w>schü
+<pc>-</pc>
+                        <lb/>tzen</w>, beschirmen und verthaidigen sollen.</p>
+<p>
+<lb/>Und diß alles bey vermeidung unsers, unserer <w>nach
+<pc>-</pc>
+                        <lb/>kommen</w> unnd künfftigen Regierenden Königen zu <rs type="place" ref="#boehmen_koenigreich">
+                        <w>Be
+<pc>-</pc>
+                            <lb/>haimb</w>
+                    </rs>, auch Obristen Hertzogen in <rs type="place" ref="#schlesien_herzogtum">Schlesien</rs> zorns,
+<lb/>schwerer straff und ungnade. Alles getreulich und <w>un
+<pc>-</pc>
+                        <lb/>gefehrlich</w>. Uhrkündtlich und umb mehrer sicherheit
+
+<lb/>
+                    <pb facs="#f0019" n="B4r"/>willen mit unserm Kayser: und Königlichen <w>anhengen
+<pc>-</pc>
+                        <lb/>den</w> grössern Insigel bekrefftiget. Geben auff unserm
+<lb/>Königlichen Schloß <rs type="place" ref="#prag">Prag</rs> den Zwantzigsten Tag deß
+<lb/>Monats Augusti, Nach Christi unsers lieben Herrn
+<lb/>und Seligmachers Geburt im Ein tausent <w>Sechs
+<pc>-</pc>
+                        <lb/>hundert</w> und Neundten Jahre, Unserer Reiche deß <rs type="place" ref="#heiliges_roemisches_reich">
+                        <w>Rö
+<pc>-</pc>
+                            <lb/>mischen</w>
+                    </rs> im Vier und Dreyssigsten, deß <rs type="place" ref="#ungarn_koenigreich">Hungerischen</rs>
+<lb/>im Sieben und Dreyssigsten unnd deß <rs type="place" ref="#boehmen_koenigreich">Behemischen</rs>
+<lb/>auch im Vier und Dreyssigsten Jahre.</p>
+<p>
+<lb/>
+                    <rs type="person" ref="#rudolf_ii">Rudolff</rs>.</p>
+<p>
+<lb/>
+                    <rs type="person" ref="#sternberg_adam">Adamus de Sternbergk</rs>,
+<lb/>Supremus Burggravius
+<lb/>
+                    <rs type="place" ref="#prag">Pragensis</rs>.</p>
+<p>
+<lb/>Ad mandatum <rs type="person" ref="#rudolf_ii">Sacrae Caes<am>:</am>
+                        <ex>areae</ex>
+<lb/>Maiestatis</rs> proprium,</p>
+<p>
+<lb/>
+                    <rs type="person" ref="#michna_paul">Paulus Michna</rs>.</p>
+<p>
+<lb/>Gedruckt in der Alten Stadt <rs type="place" ref="#prag">Prag</rs> bey <rs type="person" ref="#bohutsky_jonata">Jonatan
+<lb/>Bohutsky</rs>, bey der Brucken neben dem Zollhauß,
+<lb/>4. Tag deß Monats Septembris.
+<lb/>Anno M.DC.IX.</p>
+
+</div>
+                
+</body>
+        <back>
+            <listBibl>
+                <bibl xml:id="konrad_majestaetsbrief">
+                    <abbr>
+                        <surname type="author">Konrad</surname>, Majestätsbrief</abbr>
+                    <author>
+                        <surname>Konrad</surname>
+                        <forename>Paul</forename>
+                    </author>
+                    <title>Der schlesische Majestätsbrief Kaiser Rudolfs II. vom Jahre 1609 in
+                        seiner Bedeutung für das städtische Konsistorium und die evangelischen
+                        Kirchengemeinden Breslaus. Festschrift zur 300jährigen Jubelfeier im
+                        Auftrage des Breslauer Stadtkonsistoriums</title>
+                    <pubPlace>Breslau</pubPlace>
+                    <date>1906</date>
+                </bibl>
+            </listBibl>
+        </back>
+</text>
+</TEI>

@@ -1,0 +1,1085 @@
+<?xml-model href="../../../customization/schema_quellentexte/religionsfrieden-quellentexte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pa000008-0220">
+   <teiHeader>      
+      <fileDesc>         
+         <titleStmt>
+            <!--Datum anpassen -->
+            <title level="a">Bremer Vergleich (<date when="1561-05-02">2. Mai 1561</date>) - StAHH 710-1 I X 3</title>
+            <title level="s">Europäische Religionsfrieden Digital</title>   
+            <editor role="http://id.loc.gov/vocabulary/relators/edt">
+                    <persName ref="https://orcid.org/0009-0002-3635-3935">Hans-Otto Schneider</persName>
+                </editor><!-- Name eingeben und bei ref evtl. orchid, ansonsten rauslöschen -->
+            <respStmt>
+                    <resp ref="http://id.loc.gov/vocabulary/relators/mrk">Mitarbeit</resp>
+                    <persName>Kevin Wunsch</persName>
+                </respStmt>           
+         </titleStmt>         
+         <editionStmt>
+            <edition>Digitale Edition gemäß <ref target="http://www.tei-c.org/">TEI P5</ref>
+                </edition>
+            <funder>Akademie der Wissenschaften und der Literatur Mainz</funder>
+                <principal>Unter der Leitung von Irene Dingel und Thomas Stäcker</principal>
+         </editionStmt>         
+         <publicationStmt>
+            <publisher>
+               <orgName ref="http://www.isni.org/0000000119314040">Leibniz-Institut für Europäische Geschichte Mainz</orgName>
+            </publisher>           
+            <distributor>
+               <orgName ref="http://www.isni.org/0000000110101946">Universitäts- und Landesbibliothek Darmstadt</orgName>
+               <idno type="ISIL">http://lobid.org/organisation/DE-17</idno>
+            </distributor>
+            <date when="2024" type="issued"/><!-- Datum (Jahr) eintragen, bei @when Datum in der Form JJJJ-MM-TT -->
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p xml:lang="en">This file is licensed under the terms of the Creative Commons License CC-BY 4.0 (Attribution 4.0 International)</p>
+               </licence>
+            </availability>
+         </publicationStmt>        
+         <sourceDesc>
+                <p>Textgrundlage s. Einleitung.</p>
+            </sourceDesc><!-- am besten eine msDesc einfügen! --> <!-- ACHTUNG bei Einleitungen: <sourceDesc><p>Born digital.</p></sourceDesc> -->
+      </fileDesc>      
+      <encodingDesc>         
+         <projectDesc>
+            <p>
+                    <ref target="https://eured.de">Europäische Religionsfrieden Digital</ref>
+                </p>
+         </projectDesc>
+         <classDecl>
+            <taxonomy xml:id="marcrelator">
+               <bibl>
+                        <idno type="URI">http://id.loc.gov/vocabulary/relators/</idno> MARC Code List for Relators </bibl>
+            </taxonomy>
+         </classDecl>         
+      </encodingDesc>      
+      <profileDesc>         
+         <langUsage>
+            <language ident="deut">Deutsch</language><!-- Sprache des Dokuments eintragen, bei ident Kürzel der Sprache ??? deu oder deut ????-->
+         </langUsage>         
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="1480" lry="1940" xml:id="facs_1">
+      <!--   <graphic url="0001_01_BV_1561.png" width="1480px" height="1940px"/>-->
+         <graphic url="https://files.transkribus.eu/Get?id=GSZGUWTERAHOIXTPVUQKKZDB&amp;fileType=view" width="1480px" height="1940px"/>
+         <zone points="96,100 1354,100 1354,1832 96,1832" rendition="TextRegion" xml:id="facs_1_tr_1">
+            <zone points="104,100 1314,100 1314,158 104,158" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+            <zone points="118,128 1320,128 1320,192 118,192" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+            <zone points="120,160 1316,160 1316,222 120,222" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+            <zone points="116,190 1330,190 1330,256 116,256" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+            <zone points="118,220 1332,220 1332,290 118,290" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+            <zone points="118,246 1336,246 1336,326 118,326" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+            <zone points="118,280 1318,280 1318,352 118,352" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+            <zone points="118,308 1314,308 1314,386 118,386" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+            <zone points="114,338 1308,338 1308,414 114,414" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+            <zone points="116,368 1316,368 1316,438 116,438" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+            <zone points="116,396 1334,396 1334,468 116,468" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+            <zone points="108,426 1322,426 1322,498 108,498" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+            <zone points="118,458 1320,458 1320,532 118,532" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+            <zone points="108,488 1334,488 1334,560 108,560" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+            <zone points="112,518 1326,518 1326,598 112,598" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+            <zone points="108,548 1320,548 1320,624 108,624" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+            <zone points="108,580 1322,580 1322,656 108,656" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
+            <zone points="110,612 1328,612 1328,682 110,682" rendition="Line" xml:id="facs_1_tr_1_tl_18"/>
+            <zone points="114,648 1342,648 1342,714 114,714" rendition="Line" xml:id="facs_1_tr_1_tl_19"/>
+            <zone points="114,682 1324,682 1324,746 114,746" rendition="Line" xml:id="facs_1_tr_1_tl_20"/>
+            <zone points="110,718 1318,718 1318,776 110,776" rendition="Line" xml:id="facs_1_tr_1_tl_21"/>
+            <zone points="118,750 1338,750 1338,808 118,808" rendition="Line" xml:id="facs_1_tr_1_tl_22"/>
+            <zone points="110,782 1320,782 1320,842 110,842" rendition="Line" xml:id="facs_1_tr_1_tl_23"/>
+            <zone points="106,822 1328,822 1328,874 106,874" rendition="Line" xml:id="facs_1_tr_1_tl_24"/>
+            <zone points="108,856 1318,856 1318,908 108,908" rendition="Line" xml:id="facs_1_tr_1_tl_25"/>
+            <zone points="108,888 1342,888 1342,940 108,940" rendition="Line" xml:id="facs_1_tr_1_tl_26"/>
+            <zone points="104,926 1334,926 1334,974 104,974" rendition="Line" xml:id="facs_1_tr_1_tl_27"/>
+            <zone points="116,954 1334,954 1334,1006 116,1006" rendition="Line" xml:id="facs_1_tr_1_tl_28"/>
+            <zone points="108,982 1330,982 1330,1038 108,1038" rendition="Line" xml:id="facs_1_tr_1_tl_29"/>
+            <zone points="108,1014 1342,1014 1342,1070 108,1070" rendition="Line" xml:id="facs_1_tr_1_tl_30"/>
+            <zone points="108,1050 1330,1050 1330,1107 108,1107" rendition="Line" xml:id="facs_1_tr_1_tl_31"/>
+            <zone points="104,1082 1340,1082 1340,1144 104,1144" rendition="Line" xml:id="facs_1_tr_1_tl_32"/>
+            <zone points="106,1118 1338,1118 1338,1178 106,1178" rendition="Line" xml:id="facs_1_tr_1_tl_33"/>
+            <zone points="104,1152 1342,1152 1342,1210 104,1210" rendition="Line" xml:id="facs_1_tr_1_tl_34"/>
+            <zone points="108,1182 1352,1182 1352,1242 108,1242" rendition="Line" xml:id="facs_1_tr_1_tl_35"/>
+            <zone points="116,1218 1340,1218 1340,1276 116,1276" rendition="Line" xml:id="facs_1_tr_1_tl_36"/>
+            <zone points="108,1250 1338,1250 1338,1304 108,1304" rendition="Line" xml:id="facs_1_tr_1_tl_37"/>
+            <zone points="110,1286 1330,1286 1330,1342 110,1342" rendition="Line" xml:id="facs_1_tr_1_tl_38"/>
+            <zone points="108,1322 1328,1322 1328,1374 108,1374" rendition="Line" xml:id="facs_1_tr_1_tl_39"/>
+            <zone points="110,1354 1338,1354 1338,1402 110,1402" rendition="Line" xml:id="facs_1_tr_1_tl_40"/>
+            <zone points="104,1384 1354,1384 1354,1438 104,1438" rendition="Line" xml:id="facs_1_tr_1_tl_41"/>
+            <zone points="100,1418 1332,1418 1332,1474 100,1474" rendition="Line" xml:id="facs_1_tr_1_tl_42"/>
+            <zone points="104,1452 1332,1452 1332,1508 104,1508" rendition="Line" xml:id="facs_1_tr_1_tl_43"/>
+            <zone points="104,1484 1342,1484 1342,1540 104,1540" rendition="Line" xml:id="facs_1_tr_1_tl_44"/>
+            <zone points="100,1514 1324,1514 1324,1580 100,1580" rendition="Line" xml:id="facs_1_tr_1_tl_45"/>
+            <zone points="106,1546 1330,1546 1330,1612 106,1612" rendition="Line" xml:id="facs_1_tr_1_tl_46"/>
+            <zone points="100,1584 1324,1584 1324,1648 100,1648" rendition="Line" xml:id="facs_1_tr_1_tl_47"/>
+            <zone points="96,1619 1346,1619 1346,1686 96,1686" rendition="Line" xml:id="facs_1_tr_1_tl_48"/>
+            <zone points="100,1654 1330,1654 1330,1722 100,1722" rendition="Line" xml:id="facs_1_tr_1_tl_49"/>
+            <zone points="100,1690 1338,1690 1338,1760 100,1760" rendition="Line" xml:id="facs_1_tr_1_tl_50"/>
+            <zone points="100,1722 1344,1722 1344,1796 100,1796" rendition="Line" xml:id="facs_1_tr_1_tl_51"/>
+            <zone points="100,1768 1080,1768 1080,1832 100,1832" rendition="Line" xml:id="facs_1_tr_1_tl_52"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="1924" lry="2391" xml:id="facs_2">
+   <!--      <graphic url="0002_02_BV_1561.png" width="1924px" height="2391px"/>-->
+         <graphic url="https://files.transkribus.eu/Get?id=CEUGQMLXJRYYZTPKVPPXKTDS&amp;fileType=view" width="1924px" height="2391px"/>
+         <zone points="87,89 1621,89 1621,2271 87,2271" rendition="TextRegion" xml:id="facs_2_tr_1">
+            <zone points="30,93 1556,93 1556,188 30,188" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
+            <zone points="183,169 1547,169 1547,219 183,219" rendition="Line" xml:id="facs_2_tr_1_tl_4"/>
+            <zone points="179,207 1524,207 1524,266 179,266" rendition="Line" xml:id="facs_2_tr_1_tl_5"/>
+            <zone points="181,242 1562,242 1562,308 181,308" rendition="Line" xml:id="facs_2_tr_1_tl_6"/>
+            <zone points="196,291 1579,291 1579,354 196,354" rendition="Line" xml:id="facs_2_tr_1_tl_7"/>
+            <zone points="194,331 1560,331 1560,386 194,386" rendition="Line" xml:id="facs_2_tr_1_tl_8"/>
+            <zone points="200,379 1564,379 1564,436 200,436" rendition="Line" xml:id="facs_2_tr_1_tl_9"/>
+            <zone points="190,413 1533,413 1533,474 190,474" rendition="Line" xml:id="facs_2_tr_1_tl_10"/>
+            <zone points="181,445 1552,445 1552,514 181,514" rendition="Line" xml:id="facs_2_tr_1_tl_11"/>
+            <zone points="196,502 1545,502 1545,563 196,563" rendition="Line" xml:id="facs_2_tr_1_tl_12"/>
+            <zone points="198,542 1562,542 1562,590 198,590" rendition="Line" xml:id="facs_2_tr_1_tl_13"/>
+            <zone points="192,580 1474,580 1474,643 192,643" rendition="Line" xml:id="facs_2_tr_1_tl_14"/>
+            <zone points="162,590 1568,590 1568,677 162,677" rendition="Line" xml:id="facs_2_tr_1_tl_15"/>
+            <zone points="186,657 1582,657 1582,729 186,729" rendition="Line" xml:id="facs_2_tr_1_tl_16"/>
+            <zone points="177,702 1564,702 1564,761 177,761" rendition="Line" xml:id="facs_2_tr_1_tl_17"/>
+            <zone points="181,740 1579,740 1579,820 181,820" rendition="Line" xml:id="facs_2_tr_1_tl_18"/>
+            <zone points="202,782 1526,782 1526,862 202,862" rendition="Line" xml:id="facs_2_tr_1_tl_19"/>
+            <zone points="198,810 1570,810 1570,902 198,902" rendition="Line" xml:id="facs_2_tr_1_tl_20"/>
+            <zone points="207,860 1549,860 1549,942 207,942" rendition="Line" xml:id="facs_2_tr_1_tl_21"/>
+            <zone points="200,921 1581,921 1581,980 200,980" rendition="Line" xml:id="facs_2_tr_1_tl_22"/>
+            <zone points="432,810 1794,810 1794,881 432,881" rendition="Line" xml:id="facs_2_tr_1_tl_23"/>
+            <zone points="205,984 1568,984 1568,1060 205,1060" rendition="Line" xml:id="facs_2_tr_1_tl_24"/>
+            <zone points="194,1039 1562,1039 1562,1111 194,1111" rendition="Line" xml:id="facs_2_tr_1_tl_25"/>
+            <zone points="200,1079 1558,1079 1558,1155 200,1155" rendition="Line" xml:id="facs_2_tr_1_tl_26"/>
+            <zone points="205,1122 1556,1122 1556,1208 205,1208" rendition="Line" xml:id="facs_2_tr_1_tl_27"/>
+            <zone points="183,1164 1564,1164 1564,1248 183,1248" rendition="Line" xml:id="facs_2_tr_1_tl_28"/>
+            <zone points="207,1206 1571,1206 1571,1277 207,1277" rendition="Line" xml:id="facs_2_tr_1_tl_29"/>
+            <zone points="141,1261 1608,1261 1608,1337 141,1337" rendition="Line" xml:id="facs_2_tr_1_tl_30"/>
+            <zone points="205,1298 1541,1298 1541,1362 205,1362" rendition="Line" xml:id="facs_2_tr_1_tl_31"/>
+            <zone points="164,1320 1585,1320 1585,1419 164,1419" rendition="Line" xml:id="facs_2_tr_1_tl_32"/>
+            <zone points="194,1393 1554,1393 1554,1446 194,1446" rendition="Line" xml:id="facs_2_tr_1_tl_33"/>
+            <zone points="129,1431 1566,1431 1566,1518 129,1518" rendition="Line" xml:id="facs_2_tr_1_tl_34"/>
+            <zone points="207,1474 1604,1474 1604,1566 207,1566" rendition="Line" xml:id="facs_2_tr_1_tl_35"/>
+            <zone points="205,1524 1604,1524 1604,1604 205,1604" rendition="Line" xml:id="facs_2_tr_1_tl_36"/>
+            <zone points="190,1573 1617,1573 1617,1659 190,1659" rendition="Line" xml:id="facs_2_tr_1_tl_37"/>
+            <zone points="188,1619 1594,1619 1594,1707 188,1707" rendition="Line" xml:id="facs_2_tr_1_tl_38"/>
+            <zone points="219,1670 1587,1670 1587,1737 219,1737" rendition="Line" xml:id="facs_2_tr_1_tl_39"/>
+            <zone points="202,1718 1579,1718 1579,1785 202,1785" rendition="Line" xml:id="facs_2_tr_1_tl_40"/>
+            <zone points="211,1764 1560,1764 1560,1823 211,1823" rendition="Line" xml:id="facs_2_tr_1_tl_42"/>
+            <zone points="99,1809 1583,1809 1583,1893 99,1893" rendition="Line" xml:id="facs_2_tr_1_tl_43"/>
+            <zone points="211,1859 1598,1859 1598,1927 211,1927" rendition="Line" xml:id="facs_2_tr_1_tl_44"/>
+            <zone points="183,1910 1566,1910 1566,1963 183,1963" rendition="Line" xml:id="facs_2_tr_1_tl_45"/>
+            <zone points="221,1958 1585,1958 1585,2024 221,2024" rendition="Line" xml:id="facs_2_tr_1_tl_46"/>
+            <zone points="224,2000 1602,2000 1602,2076 224,2076" rendition="Line" xml:id="facs_2_tr_1_tl_47"/>
+            <zone points="224,2047 1592,2047 1592,2127 224,2127" rendition="Line" xml:id="facs_2_tr_1_tl_48"/>
+            <zone points="226,2100 1590,2100 1590,2152 226,2152" rendition="Line" xml:id="facs_2_tr_1_tl_49"/>
+            <zone points="205,2138 1592,2138 1592,2211 205,2211" rendition="Line" xml:id="facs_2_tr_1_tl_50"/>
+            <zone points="230,2186 1581,2186 1581,2247 230,2247" rendition="Line" xml:id="facs_2_tr_1_tl_51"/>
+            <zone points="1474,2228 1598,2228 1598,2291 1474,2291" rendition="Line" xml:id="facs_2_tr_1_tl_52"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="1629" lry="2329" xml:id="facs_3">
+        <!-- <graphic url="0003_03_BV_1561.png" width="1629px" height="2329px"/>-->
+         <graphic url="https://files.transkribus.eu/Get?id=ETUBOJCYZIGGKHYWSAONWJVD&amp;fileType=view" width="1629px" height="2329px"/>
+         <zone points="110,74 1534,74 1534,2206 110,2206" rendition="TextRegion" xml:id="facs_3_tr_1">
+            <zone points="124,17 1531,17 1531,133 124,133" rendition="Line" xml:id="facs_3_tr_1_tl_1"/>
+            <zone points="111,98 1520,98 1520,185 111,185" rendition="Line" xml:id="facs_3_tr_1_tl_2"/>
+            <zone points="118,135 1483,135 1483,207 118,207" rendition="Line" xml:id="facs_3_tr_1_tl_3"/>
+            <zone points="130,178 1485,178 1485,257 130,257" rendition="Line" xml:id="facs_3_tr_1_tl_4"/>
+            <zone points="130,205 1511,205 1511,283 130,283" rendition="Line" xml:id="facs_3_tr_1_tl_5"/>
+            <zone points="122,250 1503,250 1503,354 122,354" rendition="Line" xml:id="facs_3_tr_1_tl_6"/>
+            <zone points="131,304 1494,304 1494,396 131,396" rendition="Line" xml:id="facs_3_tr_1_tl_7"/>
+            <zone points="135,335 1500,335 1500,437 135,437" rendition="Line" xml:id="facs_3_tr_1_tl_8"/>
+            <zone points="130,378 1485,378 1485,476 130,476" rendition="Line" xml:id="facs_3_tr_1_tl_9"/>
+            <zone points="128,424 1481,424 1481,505 128,505" rendition="Line" xml:id="facs_3_tr_1_tl_10"/>
+            <zone points="122,463 1520,463 1520,541 122,541" rendition="Line" xml:id="facs_3_tr_1_tl_11"/>
+            <zone points="37,504 1494,504 1494,592 37,592" rendition="Line" xml:id="facs_3_tr_1_tl_12"/>
+            <zone points="120,554 1509,554 1509,641 120,641" rendition="Line" xml:id="facs_3_tr_1_tl_13"/>
+            <zone points="111,589 1494,589 1494,687 111,687" rendition="Line" xml:id="facs_3_tr_1_tl_14"/>
+            <zone points="124,626 1525,626 1525,724 124,724" rendition="Line" xml:id="facs_3_tr_1_tl_15"/>
+            <zone points="122,692 1474,692 1474,763 122,763" rendition="Line" xml:id="facs_3_tr_1_tl_16"/>
+            <zone points="133,718 1527,718 1527,802 133,802" rendition="Line" xml:id="facs_3_tr_1_tl_17"/>
+            <zone points="130,781 1507,781 1507,866 130,866" rendition="Line" xml:id="facs_3_tr_1_tl_18"/>
+            <zone points="111,816 1498,816 1498,890 111,890" rendition="Line" xml:id="facs_3_tr_1_tl_19"/>
+            <zone points="128,868 1472,868 1472,933 128,933" rendition="Line" xml:id="facs_3_tr_1_tl_21"/>
+            <zone points="6,889 1494,889 1494,989 6,989" rendition="Line" xml:id="facs_3_tr_1_tl_22"/>
+            <zone points="135,965 1461,965 1461,1033 135,1033" rendition="Line" xml:id="facs_3_tr_1_tl_23"/>
+            <zone points="131,1011 1509,1011 1509,1096 131,1096" rendition="Line" xml:id="facs_3_tr_1_tl_24"/>
+            <zone points="133,1053 1496,1053 1496,1135 133,1135" rendition="Line" xml:id="facs_3_tr_1_tl_25"/>
+            <zone points="100,1090 1492,1090 1492,1177 100,1177" rendition="Line" xml:id="facs_3_tr_1_tl_26"/>
+            <zone points="124,1142 1477,1142 1477,1203 124,1203" rendition="Line" xml:id="facs_3_tr_1_tl_27"/>
+            <zone points="126,1183 1496,1183 1496,1250 126,1250" rendition="Line" xml:id="facs_3_tr_1_tl_28"/>
+            <zone points="130,1226 1509,1226 1509,1288 130,1288" rendition="Line" xml:id="facs_3_tr_1_tl_29"/>
+            <zone points="130,1270 1494,1270 1494,1327 130,1327" rendition="Line" xml:id="facs_3_tr_1_tl_31"/>
+            <zone points="120,1309 1494,1309 1494,1379 120,1379" rendition="Line" xml:id="facs_3_tr_1_tl_32"/>
+            <zone points="130,1359 1511,1359 1511,1413 130,1413" rendition="Line" xml:id="facs_3_tr_1_tl_33"/>
+            <zone points="137,1396 1524,1396 1524,1459 137,1459" rendition="Line" xml:id="facs_3_tr_1_tl_34"/>
+            <zone points="133,1440 1305,1440 1305,1494 133,1494" rendition="Line" xml:id="facs_3_tr_1_tl_35"/>
+            <zone points="124,1461 1511,1461 1511,1561 124,1561" rendition="Line" xml:id="facs_3_tr_1_tl_36"/>
+            <zone points="126,1518 1485,1518 1485,1596 126,1596" rendition="Line" xml:id="facs_3_tr_1_tl_37"/>
+            <zone points="135,1583 1512,1583 1512,1638 135,1638" rendition="Line" xml:id="facs_3_tr_1_tl_38"/>
+            <zone points="135,1616 1522,1616 1522,1672 135,1672" rendition="Line" xml:id="facs_3_tr_1_tl_39"/>
+            <zone points="107,1662 1505,1662 1505,1722 107,1722" rendition="Line" xml:id="facs_3_tr_1_tl_40"/>
+            <zone points="143,1701 1524,1701 1524,1768 143,1768" rendition="Line" xml:id="facs_3_tr_1_tl_41"/>
+            <zone points="128,1746 1514,1746 1514,1820 128,1820" rendition="Line" xml:id="facs_3_tr_1_tl_42"/>
+            <zone points="144,1788 1479,1788 1479,1853 144,1853" rendition="Line" xml:id="facs_3_tr_1_tl_43"/>
+            <zone points="146,1825 1524,1825 1524,1896 146,1896" rendition="Line" xml:id="facs_3_tr_1_tl_44"/>
+            <zone points="133,1873 1487,1873 1487,1953 133,1953" rendition="Line" xml:id="facs_3_tr_1_tl_45"/>
+            <zone points="144,1923 1500,1923 1500,1977 144,1977" rendition="Line" xml:id="facs_3_tr_1_tl_46"/>
+            <zone points="156,1975 1501,1975 1501,2029 156,2029" rendition="Line" xml:id="facs_3_tr_1_tl_47"/>
+            <zone points="139,2005 1492,2005 1492,2085 139,2085" rendition="Line" xml:id="facs_3_tr_1_tl_48"/>
+            <zone points="152,2046 1494,2046 1494,2116 152,2116" rendition="Line" xml:id="facs_3_tr_1_tl_49"/>
+            <zone points="150,2083 1511,2083 1511,2147 150,2147" rendition="Line" xml:id="facs_3_tr_1_tl_50"/>
+            <zone points="152,2127 1518,2127 1518,2201 152,2201" rendition="Line" xml:id="facs_3_tr_1_tl_51"/>
+            <zone points="1379,2155 1512,2155 1512,2218 1379,2218" rendition="Line" xml:id="facs_3_tr_1_tl_52"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="1712" lry="2291" xml:id="facs_4">
+         <!--<graphic url="0004_04_BV_1561.png" width="1712px" height="2291px"/>-->
+         <graphic url="https://files.transkribus.eu/Get?id=KQVFSUXCQAZLHHIUUDHXYMMG&amp;fileType=view" width="1712px" height="2291px"/>
+         <zone points="109,33 1529,33 1529,2167 109,2167" rendition="TextRegion" xml:id="facs_4_tr_1">
+            <zone points="120,4 1495,4 1495,90 120,90" rendition="Line" xml:id="facs_4_tr_1_tl_1"/>
+            <zone points="122,58 1461,58 1461,128 122,128" rendition="Line" xml:id="facs_4_tr_1_tl_2"/>
+            <zone points="113,100 1476,100 1476,168 113,168" rendition="Line" xml:id="facs_4_tr_1_tl_3"/>
+            <zone points="111,143 1461,143 1461,224 111,224" rendition="Line" xml:id="facs_4_tr_1_tl_4"/>
+            <zone points="117,186 1472,186 1472,250 117,250" rendition="Line" xml:id="facs_4_tr_1_tl_5"/>
+            <zone points="113,237 1480,237 1480,307 113,307" rendition="Line" xml:id="facs_4_tr_1_tl_6"/>
+            <zone points="117,282 1433,282 1433,343 117,343" rendition="Line" xml:id="facs_4_tr_1_tl_7"/>
+            <zone points="115,328 1468,328 1468,393 115,393" rendition="Line" xml:id="facs_4_tr_1_tl_8"/>
+            <zone points="0,363 1474,363 1474,448 0,448" rendition="Line" xml:id="facs_4_tr_1_tl_9"/>
+            <zone points="111,424 1438,424 1438,489 111,489" rendition="Line" xml:id="facs_4_tr_1_tl_10"/>
+            <zone points="128,462 1500,462 1500,526 128,526" rendition="Line" xml:id="facs_4_tr_1_tl_12"/>
+            <zone points="72,506 1448,506 1448,563 72,563" rendition="Line" xml:id="facs_4_tr_1_tl_14"/>
+            <zone points="122,570 1459,570 1459,617 122,617" rendition="Line" xml:id="facs_4_tr_1_tl_15"/>
+            <zone points="113,593 1470,593 1470,659 113,659" rendition="Line" xml:id="facs_4_tr_1_tl_16"/>
+            <zone points="122,638 1472,638 1472,695 122,695" rendition="Line" xml:id="facs_4_tr_1_tl_17"/>
+            <zone points="120,680 1480,680 1480,747 120,747" rendition="Line" xml:id="facs_4_tr_1_tl_18"/>
+            <zone points="120,717 1489,717 1489,794 120,794" rendition="Line" xml:id="facs_4_tr_1_tl_19"/>
+            <zone points="120,768 1483,768 1483,823 120,823" rendition="Line" xml:id="facs_4_tr_1_tl_20"/>
+            <zone points="115,802 1497,802 1497,858 115,858" rendition="Line" xml:id="facs_4_tr_1_tl_21"/>
+            <zone points="117,843 1500,843 1500,924 117,924" rendition="Line" xml:id="facs_4_tr_1_tl_22"/>
+            <zone points="126,889 1504,889 1504,956 126,956" rendition="Line" xml:id="facs_4_tr_1_tl_23"/>
+            <zone points="83,936 1493,936 1493,1005 83,1005" rendition="Line" xml:id="facs_4_tr_1_tl_24"/>
+            <zone points="111,998 1497,998 1497,1064 111,1064" rendition="Line" xml:id="facs_4_tr_1_tl_25"/>
+            <zone points="130,1032 1502,1032 1502,1103 130,1103" rendition="Line" xml:id="facs_4_tr_1_tl_26"/>
+            <zone points="113,1081 1519,1081 1519,1128 113,1128" rendition="Line" xml:id="facs_4_tr_1_tl_27"/>
+            <zone points="79,1124 1489,1124 1489,1171 79,1171" rendition="Line" xml:id="facs_4_tr_1_tl_28"/>
+            <zone points="136,1165 1510,1165 1510,1222 136,1222" rendition="Line" xml:id="facs_4_tr_1_tl_29"/>
+            <zone points="139,1201 1521,1201 1521,1265 139,1265" rendition="Line" xml:id="facs_4_tr_1_tl_31"/>
+            <zone points="128,1233 1506,1233 1506,1299 128,1299" rendition="Line" xml:id="facs_4_tr_1_tl_32"/>
+            <zone points="128,1284 1525,1284 1525,1346 128,1346" rendition="Line" xml:id="facs_4_tr_1_tl_33"/>
+            <zone points="128,1337 1478,1337 1478,1380 128,1380" rendition="Line" xml:id="facs_4_tr_1_tl_34"/>
+            <zone points="47,1374 1542,1374 1542,1459 47,1459" rendition="Line" xml:id="facs_4_tr_1_tl_35"/>
+            <zone points="124,1423 1506,1423 1506,1497 124,1497" rendition="Line" xml:id="facs_4_tr_1_tl_36"/>
+            <zone points="77,1463 1480,1463 1480,1542 77,1542" rendition="Line" xml:id="facs_4_tr_1_tl_37"/>
+            <zone points="130,1497 1512,1497 1512,1561 130,1561" rendition="Line" xml:id="facs_4_tr_1_tl_38"/>
+            <zone points="124,1546 1508,1546 1508,1613 124,1613" rendition="Line" xml:id="facs_4_tr_1_tl_39"/>
+            <zone points="136,1596 1472,1596 1472,1649 136,1649" rendition="Line" xml:id="facs_4_tr_1_tl_40"/>
+            <zone points="8,1634 1517,1634 1517,1724 8,1724" rendition="Line" xml:id="facs_4_tr_1_tl_41"/>
+            <zone points="132,1677 1515,1677 1515,1754 132,1754" rendition="Line" xml:id="facs_4_tr_1_tl_42"/>
+            <zone points="137,1726 1504,1726 1504,1807 137,1807" rendition="Line" xml:id="facs_4_tr_1_tl_43"/>
+            <zone points="143,1775 1468,1775 1468,1837 143,1837" rendition="Line" xml:id="facs_4_tr_1_tl_44"/>
+            <zone points="156,1824 1515,1824 1515,1884 156,1884" rendition="Line" xml:id="facs_4_tr_1_tl_45"/>
+            <zone points="154,1871 1500,1871 1500,1931 154,1931" rendition="Line" xml:id="facs_4_tr_1_tl_47"/>
+            <zone points="152,1907 1515,1907 1515,1988 152,1988" rendition="Line" xml:id="facs_4_tr_1_tl_48"/>
+            <zone points="160,1947 1515,1947 1515,2020 160,2020" rendition="Line" xml:id="facs_4_tr_1_tl_49"/>
+            <zone points="141,1988 1506,1988 1506,2052 141,2052" rendition="Line" xml:id="facs_4_tr_1_tl_50"/>
+            <zone points="154,2039 1495,2039 1495,2095 154,2095" rendition="Line" xml:id="facs_4_tr_1_tl_51"/>
+            <zone points="151,2080 1523,2080 1523,2140 151,2140" rendition="Line" xml:id="facs_4_tr_1_tl_52"/>
+            <zone points="1391,2131 1487,2131 1487,2182 1391,2182" rendition="Line" xml:id="facs_4_tr_1_tl_53"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="1606" lry="2286" xml:id="facs_5">
+        <!-- <graphic url="0005_05_BV_1561.png" width="1606px" height="2286px"/>-->
+         <graphic url="https://files.transkribus.eu/Get?id=WWPJMWGOOQIMAYDGPAAUPIPE&amp;fileType=view" width="1606px" height="2286px"/>
+         <zone points="75,70 1534,70 1534,2196 75,2196" rendition="TextRegion" xml:id="facs_5_tr_1">
+            <zone points="151,24 1530,24 1530,127 151,127" rendition="Line" xml:id="facs_5_tr_1_tl_1"/>
+            <zone points="157,104 1519,104 1519,168 157,168" rendition="Line" xml:id="facs_5_tr_1_tl_2"/>
+            <zone points="142,136 1508,136 1508,207 142,207" rendition="Line" xml:id="facs_5_tr_1_tl_3"/>
+            <zone points="151,171 1510,171 1510,237 151,237" rendition="Line" xml:id="facs_5_tr_1_tl_4"/>
+            <zone points="149,218 1504,218 1504,276 149,276" rendition="Line" xml:id="facs_5_tr_1_tl_5"/>
+            <zone points="149,250 1491,250 1491,317 149,317" rendition="Line" xml:id="facs_5_tr_1_tl_6"/>
+            <zone points="147,291 1498,291 1498,363 147,363" rendition="Line" xml:id="facs_5_tr_1_tl_7"/>
+            <zone points="151,330 1497,330 1497,404 151,404" rendition="Line" xml:id="facs_5_tr_1_tl_8"/>
+            <zone points="153,373 1504,373 1504,444 153,444" rendition="Line" xml:id="facs_5_tr_1_tl_9"/>
+            <zone points="144,427 1482,427 1482,483 144,483" rendition="Line" xml:id="facs_5_tr_1_tl_10"/>
+            <zone points="140,447 1532,447 1532,544 140,544" rendition="Line" xml:id="facs_5_tr_1_tl_11"/>
+            <zone points="140,496 1515,496 1515,574 140,574" rendition="Line" xml:id="facs_5_tr_1_tl_12"/>
+            <zone points="130,540 1500,540 1500,619 130,619" rendition="Line" xml:id="facs_5_tr_1_tl_13"/>
+            <zone points="144,589 1512,589 1512,677 144,677" rendition="Line" xml:id="facs_5_tr_1_tl_14"/>
+            <zone points="91,628 1468,628 1468,731 91,731" rendition="Line" xml:id="facs_5_tr_1_tl_15"/>
+            <zone points="106,673 1508,673 1508,762 106,762" rendition="Line" xml:id="facs_5_tr_1_tl_16"/>
+            <zone points="144,716 1523,716 1523,798 144,798" rendition="Line" xml:id="facs_5_tr_1_tl_18"/>
+            <zone points="145,762 1506,762 1506,857 145,857" rendition="Line" xml:id="facs_5_tr_1_tl_19"/>
+            <zone points="103,805 1498,805 1498,904 103,904" rendition="Line" xml:id="facs_5_tr_1_tl_20"/>
+            <zone points="136,848 1497,848 1497,937 136,937" rendition="Line" xml:id="facs_5_tr_1_tl_21"/>
+            <zone points="140,896 1495,896 1495,973 140,973" rendition="Line" xml:id="facs_5_tr_1_tl_22"/>
+            <zone points="145,941 1519,941 1519,1016 145,1016" rendition="Line" xml:id="facs_5_tr_1_tl_23"/>
+            <zone points="136,988 1515,988 1515,1053 136,1053" rendition="Line" xml:id="facs_5_tr_1_tl_24"/>
+            <zone points="130,1034 1510,1034 1510,1107 130,1107" rendition="Line" xml:id="facs_5_tr_1_tl_25"/>
+            <zone points="125,1075 1478,1075 1478,1142 125,1142" rendition="Line" xml:id="facs_5_tr_1_tl_27"/>
+            <zone points="7,1122 1506,1122 1506,1178 7,1178" rendition="Line" xml:id="facs_5_tr_1_tl_28"/>
+            <zone points="125,1161 1497,1161 1497,1224 125,1224" rendition="Line" xml:id="facs_5_tr_1_tl_30"/>
+            <zone points="130,1198 1508,1198 1508,1252 130,1252" rendition="Line" xml:id="facs_5_tr_1_tl_31"/>
+            <zone points="130,1241 1480,1241 1480,1295 130,1295" rendition="Line" xml:id="facs_5_tr_1_tl_32"/>
+            <zone points="125,1277 1489,1277 1489,1344 125,1344" rendition="Line" xml:id="facs_5_tr_1_tl_33"/>
+            <zone points="117,1327 1448,1327 1448,1400 117,1400" rendition="Line" xml:id="facs_5_tr_1_tl_35"/>
+            <zone points="136,1372 1469,1372 1469,1424 136,1424" rendition="Line" xml:id="facs_5_tr_1_tl_36"/>
+            <zone points="121,1415 1461,1415 1461,1463 121,1463" rendition="Line" xml:id="facs_5_tr_1_tl_38"/>
+            <zone points="67,1452 1497,1452 1497,1513 67,1513" rendition="Line" xml:id="facs_5_tr_1_tl_39"/>
+            <zone points="142,1504 1502,1504 1502,1560 142,1560" rendition="Line" xml:id="facs_5_tr_1_tl_41"/>
+            <zone points="138,1553 1521,1553 1521,1601 138,1601" rendition="Line" xml:id="facs_5_tr_1_tl_42"/>
+            <zone points="103,1590 1508,1590 1508,1640 103,1640" rendition="Line" xml:id="facs_5_tr_1_tl_43"/>
+            <zone points="136,1635 1519,1635 1519,1696 136,1696" rendition="Line" xml:id="facs_5_tr_1_tl_44"/>
+            <zone points="134,1676 1489,1676 1489,1735 134,1735" rendition="Line" xml:id="facs_5_tr_1_tl_46"/>
+            <zone points="140,1718 1491,1718 1491,1769 140,1769" rendition="Line" xml:id="facs_5_tr_1_tl_47"/>
+            <zone points="140,1761 1504,1761 1504,1828 140,1828" rendition="Line" xml:id="facs_5_tr_1_tl_48"/>
+            <zone points="136,1808 1469,1808 1469,1871 136,1871" rendition="Line" xml:id="facs_5_tr_1_tl_50"/>
+            <zone points="129,1853 1489,1853 1489,1920 129,1920" rendition="Line" xml:id="facs_5_tr_1_tl_51"/>
+            <zone points="129,1901 1497,1901 1497,1966 129,1966" rendition="Line" xml:id="facs_5_tr_1_tl_52"/>
+            <zone points="142,1936 1485,1936 1485,2000 142,2000" rendition="Line" xml:id="facs_5_tr_1_tl_53"/>
+            <zone points="138,1989 1493,1989 1493,2059 138,2059" rendition="Line" xml:id="facs_5_tr_1_tl_54"/>
+            <zone points="144,2028 1443,2028 1443,2078 144,2078" rendition="Line" xml:id="facs_5_tr_1_tl_55"/>
+            <zone points="6,2063 1457,2063 1457,2143 6,2143" rendition="Line" xml:id="facs_5_tr_1_tl_57"/>
+            <zone points="132,2104 1510,2104 1510,2195 132,2195" rendition="Line" xml:id="facs_5_tr_1_tl_58"/>
+            <zone points="1405,2154 1484,2154 1484,2218 1405,2218" rendition="Line" xml:id="facs_5_tr_1_tl_59"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="1562" lry="2331" xml:id="facs_6">
+        <!-- <graphic url="0006_06_BV_1561.png" width="1562px" height="2331px"/>-->
+         <graphic url="https://files.transkribus.eu/Get?id=KXPASYMWKZMLMIEAPJKLTWVP&amp;fileType=view" width="1562px" height="2331px"/>
+         <zone points="9,59 1437,59 1437,2239 9,2239" rendition="TextRegion" xml:id="facs_6_tr_1">
+            <zone points="52,21 1402,21 1402,127 52,127" rendition="Line" xml:id="facs_6_tr_1_tl_1"/>
+            <zone points="52,109 1416,109 1416,175 52,175" rendition="Line" xml:id="facs_6_tr_1_tl_2"/>
+            <zone points="36,152 1409,152 1409,223 36,223" rendition="Line" xml:id="facs_6_tr_1_tl_3"/>
+            <zone points="41,180 1416,180 1416,273 41,273" rendition="Line" xml:id="facs_6_tr_1_tl_5"/>
+            <zone points="43,219 1409,219 1409,298 43,298" rendition="Line" xml:id="facs_6_tr_1_tl_6"/>
+            <zone points="37,276 1363,276 1363,357 37,357" rendition="Line" xml:id="facs_6_tr_1_tl_7"/>
+            <zone points="43,334 1425,334 1425,400 43,400" rendition="Line" xml:id="facs_6_tr_1_tl_8"/>
+            <zone points="45,367 1397,367 1397,441 45,441" rendition="Line" xml:id="facs_6_tr_1_tl_9"/>
+            <zone points="41,403 1397,403 1397,485 41,485" rendition="Line" xml:id="facs_6_tr_1_tl_10"/>
+            <zone points="39,453 1393,453 1393,546 39,546" rendition="Line" xml:id="facs_6_tr_1_tl_11"/>
+            <zone points="29,498 1395,498 1395,574 29,574" rendition="Line" xml:id="facs_6_tr_1_tl_12"/>
+            <zone points="39,535 1343,535 1343,603 39,603" rendition="Line" xml:id="facs_6_tr_1_tl_13"/>
+            <zone points="7,580 1407,580 1407,672 7,672" rendition="Line" xml:id="facs_6_tr_1_tl_14"/>
+            <zone points="50,639 1370,639 1370,689 50,689" rendition="Line" xml:id="facs_6_tr_1_tl_15"/>
+            <zone points="41,664 1427,664 1427,728 41,728" rendition="Line" xml:id="facs_6_tr_1_tl_17"/>
+            <zone points="37,724 1397,724 1397,783 37,783" rendition="Line" xml:id="facs_6_tr_1_tl_18"/>
+            <zone points="41,742 1397,742 1397,815 41,815" rendition="Line" xml:id="facs_6_tr_1_tl_19"/>
+            <zone points="23,801 1432,801 1432,867 23,867" rendition="Line" xml:id="facs_6_tr_1_tl_20"/>
+            <zone points="34,849 1411,849 1411,899 34,899" rendition="Line" xml:id="facs_6_tr_1_tl_21"/>
+            <zone points="34,883 1434,883 1434,945 34,945" rendition="Line" xml:id="facs_6_tr_1_tl_22"/>
+            <zone points="25,936 1397,936 1397,1004 25,1004" rendition="Line" xml:id="facs_6_tr_1_tl_23"/>
+            <zone points="36,969 1429,969 1429,1040 36,1040" rendition="Line" xml:id="facs_6_tr_1_tl_24"/>
+            <zone points="41,1019 1409,1019 1409,1074 41,1074" rendition="Line" xml:id="facs_6_tr_1_tl_25"/>
+            <zone points="29,1061 1370,1061 1370,1113 29,1113" rendition="Line" xml:id="facs_6_tr_1_tl_26"/>
+            <zone points="11,1102 1413,1102 1413,1175 11,1175" rendition="Line" xml:id="facs_6_tr_1_tl_27"/>
+            <zone points="36,1147 1377,1147 1377,1220 36,1220" rendition="Line" xml:id="facs_6_tr_1_tl_28"/>
+            <zone points="41,1184 1398,1184 1398,1245 41,1245" rendition="Line" xml:id="facs_6_tr_1_tl_29"/>
+            <zone points="36,1233 1416,1233 1416,1290 36,1290" rendition="Line" xml:id="facs_6_tr_1_tl_30"/>
+            <zone points="29,1283 1423,1283 1423,1345 29,1345" rendition="Line" xml:id="facs_6_tr_1_tl_31"/>
+            <zone points="36,1322 1427,1322 1427,1368 36,1368" rendition="Line" xml:id="facs_6_tr_1_tl_32"/>
+            <zone points="25,1372 1406,1372 1406,1432 25,1432" rendition="Line" xml:id="facs_6_tr_1_tl_33"/>
+            <zone points="27,1407 1420,1407 1420,1484 27,1484" rendition="Line" xml:id="facs_6_tr_1_tl_35"/>
+            <zone points="16,1452 1432,1452 1432,1507 16,1507" rendition="Line" xml:id="facs_6_tr_1_tl_36"/>
+            <zone points="16,1502 1415,1502 1415,1570 16,1570" rendition="Line" xml:id="facs_6_tr_1_tl_37"/>
+            <zone points="12,1541 1322,1541 1322,1614 12,1614" rendition="Line" xml:id="facs_6_tr_1_tl_38"/>
+            <zone points="11,1575 1416,1575 1416,1675 11,1675" rendition="Line" xml:id="facs_6_tr_1_tl_39"/>
+            <zone points="18,1645 1404,1645 1404,1703 18,1703" rendition="Line" xml:id="facs_6_tr_1_tl_40"/>
+            <zone points="0,1700 1431,1700 1431,1768 0,1768" rendition="Line" xml:id="facs_6_tr_1_tl_41"/>
+            <zone points="23,1739 1407,1739 1407,1816 23,1816" rendition="Line" xml:id="facs_6_tr_1_tl_42"/>
+            <zone points="21,1773 1397,1773 1397,1880 21,1880" rendition="Line" xml:id="facs_6_tr_1_tl_43"/>
+            <zone points="23,1814 1354,1814 1354,1900 23,1900" rendition="Line" xml:id="facs_6_tr_1_tl_44"/>
+            <zone points="4,1868 1423,1868 1423,1964 4,1964" rendition="Line" xml:id="facs_6_tr_1_tl_45"/>
+            <zone points="23,1925 1407,1925 1407,2005 23,2005" rendition="Line" xml:id="facs_6_tr_1_tl_46"/>
+            <zone points="18,1957 1377,1957 1377,2035 18,2035" rendition="Line" xml:id="facs_6_tr_1_tl_47"/>
+            <zone points="29,2016 1393,2016 1393,2064 29,2064" rendition="Line" xml:id="facs_6_tr_1_tl_48"/>
+            <zone points="23,2053 1407,2053 1407,2135 23,2135" rendition="Line" xml:id="facs_6_tr_1_tl_49"/>
+            <zone points="23,2082 1398,2082 1398,2180 23,2180" rendition="Line" xml:id="facs_6_tr_1_tl_50"/>
+            <zone points="21,2144 1432,2144 1432,2221 21,2221" rendition="Line" xml:id="facs_6_tr_1_tl_52"/>
+            <zone points="1283,2198 1413,2198 1413,2260 1283,2260" rendition="Line" xml:id="facs_6_tr_1_tl_53"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="1693" lry="2336" xml:id="facs_7">
+        <!-- <graphic url="0007_07_BV_1561.png" width="1693px" height="2336px"/>-->
+         <graphic url="https://files.transkribus.eu/Get?id=YRFNBUDGOGAFACFIPTKWDFWD&amp;fileType=view" width="1693px" height="2336px"/>
+         <zone points="150,60 1584,60 1584,2202 150,2202" rendition="TextRegion" xml:id="facs_7_tr_1">
+            <zone points="180,0 1524,0 1524,132 180,132" rendition="Line" xml:id="facs_7_tr_1_tl_1"/>
+            <zone points="176,84 1522,84 1522,182 176,182" rendition="Line" xml:id="facs_7_tr_1_tl_2"/>
+            <zone points="184,110 1531,110 1531,206 184,206" rendition="Line" xml:id="facs_7_tr_1_tl_3"/>
+            <zone points="182,178 1539,178 1539,267 182,267" rendition="Line" xml:id="facs_7_tr_1_tl_4"/>
+            <zone points="165,208 1515,208 1515,312 165,312" rendition="Line" xml:id="facs_7_tr_1_tl_5"/>
+            <zone points="163,258 1502,258 1502,375 163,375" rendition="Line" xml:id="facs_7_tr_1_tl_6"/>
+            <zone points="182,303 1541,303 1541,405 182,405" rendition="Line" xml:id="facs_7_tr_1_tl_7"/>
+            <zone points="180,355 1528,355 1528,438 180,438" rendition="Line" xml:id="facs_7_tr_1_tl_8"/>
+            <zone points="71,386 1526,386 1526,507 71,507" rendition="Line" xml:id="facs_7_tr_1_tl_9"/>
+            <zone points="182,451 1531,451 1531,527 182,527" rendition="Line" xml:id="facs_7_tr_1_tl_10"/>
+            <zone points="176,470 1524,470 1524,566 176,566" rendition="Line" xml:id="facs_7_tr_1_tl_11"/>
+            <zone points="178,523 1559,523 1559,616 178,616" rendition="Line" xml:id="facs_7_tr_1_tl_12"/>
+            <zone points="178,557 1522,557 1522,668 178,668" rendition="Line" xml:id="facs_7_tr_1_tl_13"/>
+            <zone points="176,600 1546,600 1546,698 176,698" rendition="Line" xml:id="facs_7_tr_1_tl_14"/>
+            <zone points="180,646 1528,646 1528,742 180,742" rendition="Line" xml:id="facs_7_tr_1_tl_15"/>
+            <zone points="184,689 1530,689 1530,796 184,796" rendition="Line" xml:id="facs_7_tr_1_tl_16"/>
+            <zone points="182,728 1550,728 1550,824 182,824" rendition="Line" xml:id="facs_7_tr_1_tl_17"/>
+            <zone points="182,780 1544,780 1544,882 182,882" rendition="Line" xml:id="facs_7_tr_1_tl_18"/>
+            <zone points="184,820 1526,820 1526,911 184,911" rendition="Line" xml:id="facs_7_tr_1_tl_19"/>
+            <zone points="187,865 1526,865 1526,973 187,973" rendition="Line" xml:id="facs_7_tr_1_tl_20"/>
+            <zone points="115,906 1535,906 1535,1002 115,1002" rendition="Line" xml:id="facs_7_tr_1_tl_21"/>
+            <zone points="167,950 1550,950 1550,1051 167,1051" rendition="Line" xml:id="facs_7_tr_1_tl_22"/>
+            <zone points="69,1006 1517,1006 1517,1095 69,1095" rendition="Line" xml:id="facs_7_tr_1_tl_23"/>
+            <zone points="163,1052 1546,1052 1546,1129 163,1129" rendition="Line" xml:id="facs_7_tr_1_tl_24"/>
+            <zone points="184,1091 1511,1091 1511,1175 184,1175" rendition="Line" xml:id="facs_7_tr_1_tl_25"/>
+            <zone points="139,1130 1539,1130 1539,1210 139,1210" rendition="Line" xml:id="facs_7_tr_1_tl_26"/>
+            <zone points="178,1179 1569,1179 1569,1247 178,1247" rendition="Line" xml:id="facs_7_tr_1_tl_27"/>
+            <zone points="174,1221 1539,1221 1539,1279 174,1279" rendition="Line" xml:id="facs_7_tr_1_tl_28"/>
+            <zone points="72,1266 1552,1266 1552,1355 72,1355" rendition="Line" xml:id="facs_7_tr_1_tl_29"/>
+            <zone points="180,1311 1552,1311 1552,1374 180,1374" rendition="Line" xml:id="facs_7_tr_1_tl_30"/>
+            <zone points="180,1355 1567,1355 1567,1411 180,1411" rendition="Line" xml:id="facs_7_tr_1_tl_31"/>
+            <zone points="178,1401 1569,1401 1569,1476 178,1476" rendition="Line" xml:id="facs_7_tr_1_tl_32"/>
+            <zone points="180,1446 1543,1446 1543,1507 180,1507" rendition="Line" xml:id="facs_7_tr_1_tl_33"/>
+            <zone points="169,1483 1541,1483 1541,1543 169,1543" rendition="Line" xml:id="facs_7_tr_1_tl_34"/>
+            <zone points="165,1530 1548,1530 1548,1583 165,1583" rendition="Line" xml:id="facs_7_tr_1_tl_35"/>
+            <zone points="186,1574 1543,1574 1543,1634 186,1634" rendition="Line" xml:id="facs_7_tr_1_tl_36"/>
+            <zone points="178,1621 1569,1621 1569,1700 178,1700" rendition="Line" xml:id="facs_7_tr_1_tl_37"/>
+            <zone points="111,1661 1550,1661 1550,1715 111,1715" rendition="Line" xml:id="facs_7_tr_1_tl_38"/>
+            <zone points="182,1698 1556,1698 1556,1754 182,1754" rendition="Line" xml:id="facs_7_tr_1_tl_39"/>
+            <zone points="187,1734 1569,1734 1569,1814 187,1814" rendition="Line" xml:id="facs_7_tr_1_tl_40"/>
+            <zone points="187,1780 1541,1780 1541,1856 187,1856" rendition="Line" xml:id="facs_7_tr_1_tl_41"/>
+            <zone points="186,1817 1580,1817 1580,1895 186,1895" rendition="Line" xml:id="facs_7_tr_1_tl_42"/>
+            <zone points="191,1858 1548,1858 1548,1927 191,1927" rendition="Line" xml:id="facs_7_tr_1_tl_43"/>
+            <zone points="193,1903 1569,1903 1569,1971 193,1971" rendition="Line" xml:id="facs_7_tr_1_tl_44"/>
+            <zone points="189,1947 1572,1947 1572,2001 189,2001" rendition="Line" xml:id="facs_7_tr_1_tl_45"/>
+            <zone points="72,1986 1561,1986 1561,2070 72,2070" rendition="Line" xml:id="facs_7_tr_1_tl_46"/>
+            <zone points="182,2033 1569,2033 1569,2096 182,2096" rendition="Line" xml:id="facs_7_tr_1_tl_47"/>
+            <zone points="265,2083 368,2083 368,2116 265,2116" rendition="Line" xml:id="facs_7_tr_1_tl_48"/>
+            <zone points="186,2081 1541,2081 1541,2159 186,2159" rendition="Line" xml:id="facs_7_tr_1_tl_49"/>
+            <zone points="191,2116 1574,2116 1574,2218 191,2218" rendition="Line" xml:id="facs_7_tr_1_tl_50"/>
+            <zone points="1442,2168 1537,2168 1537,2213 1442,2213" rendition="Line" xml:id="facs_7_tr_1_tl_51"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="1666" lry="2287" xml:id="facs_8">
+        <!-- <graphic url="0008_08_BV_1561.png" width="1666px" height="2287px"/>-->
+         <graphic url="https://files.transkribus.eu/Get?id=CSKNCJQLEIWZGLLKAACQPWJP&amp;fileType=view" width="1666px" height="2287px"/>
+         <zone points="26,63 1511,63 1511,2261 26,2261" rendition="TextRegion" xml:id="facs_8_tr_1">
+            <zone points="113,18 1508,18 1508,142 113,142" rendition="Line" xml:id="facs_8_tr_1_tl_1"/>
+            <zone points="110,90 1490,90 1490,182 110,182" rendition="Line" xml:id="facs_8_tr_1_tl_2"/>
+            <zone points="110,148 1490,148 1490,234 110,234" rendition="Line" xml:id="facs_8_tr_1_tl_3"/>
+            <zone points="106,196 1499,196 1499,274 106,274" rendition="Line" xml:id="facs_8_tr_1_tl_4"/>
+            <zone points="101,223 1499,223 1499,324 101,324" rendition="Line" xml:id="facs_8_tr_1_tl_5"/>
+            <zone points="103,268 1482,268 1482,375 103,375" rendition="Line" xml:id="facs_8_tr_1_tl_6"/>
+            <zone points="92,326 1484,326 1484,412 92,412" rendition="Line" xml:id="facs_8_tr_1_tl_7"/>
+            <zone points="103,366 1475,366 1475,467 103,467" rendition="Line" xml:id="facs_8_tr_1_tl_8"/>
+            <zone points="94,421 1446,421 1446,492 94,492" rendition="Line" xml:id="facs_8_tr_1_tl_9"/>
+            <zone points="104,452 1472,452 1472,555 104,555" rendition="Line" xml:id="facs_8_tr_1_tl_10"/>
+            <zone points="99,513 1452,513 1452,600 99,600" rendition="Line" xml:id="facs_8_tr_1_tl_11"/>
+            <zone points="103,560 1500,560 1500,643 103,643" rendition="Line" xml:id="facs_8_tr_1_tl_12"/>
+            <zone points="95,596 1468,596 1468,683 95,683" rendition="Line" xml:id="facs_8_tr_1_tl_13"/>
+            <zone points="97,630 1490,630 1490,711 97,711" rendition="Line" xml:id="facs_8_tr_1_tl_14"/>
+            <zone points="92,686 1481,686 1481,775 92,775" rendition="Line" xml:id="facs_8_tr_1_tl_15"/>
+            <zone points="92,737 1472,737 1472,823 92,823" rendition="Line" xml:id="facs_8_tr_1_tl_16"/>
+            <zone points="23,776 1470,776 1470,856 23,856" rendition="Line" xml:id="facs_8_tr_1_tl_17"/>
+            <zone points="88,823 1477,823 1477,915 88,915" rendition="Line" xml:id="facs_8_tr_1_tl_19"/>
+            <zone points="77,868 1500,868 1500,951 77,951" rendition="Line" xml:id="facs_8_tr_1_tl_20"/>
+            <zone points="88,904 1495,904 1495,1011 88,1011" rendition="Line" xml:id="facs_8_tr_1_tl_21"/>
+            <zone points="92,946 1490,946 1490,1056 92,1056" rendition="Line" xml:id="facs_8_tr_1_tl_22"/>
+            <zone points="81,994 1488,994 1488,1097 81,1097" rendition="Line" xml:id="facs_8_tr_1_tl_23"/>
+            <zone points="43,1056 1470,1056 1470,1140 43,1140" rendition="Line" xml:id="facs_8_tr_1_tl_24"/>
+            <zone points="79,1090 1479,1090 1479,1178 79,1178" rendition="Line" xml:id="facs_8_tr_1_tl_25"/>
+            <zone points="77,1128 1495,1128 1495,1212 77,1212" rendition="Line" xml:id="facs_8_tr_1_tl_26"/>
+            <zone points="81,1169 1475,1169 1475,1239 81,1239" rendition="Line" xml:id="facs_8_tr_1_tl_27"/>
+            <zone points="79,1203 1452,1203 1452,1301 79,1301" rendition="Line" xml:id="facs_8_tr_1_tl_28"/>
+            <zone points="76,1237 1482,1237 1482,1340 76,1340" rendition="Line" xml:id="facs_8_tr_1_tl_29"/>
+            <zone points="77,1302 1459,1302 1459,1387 77,1387" rendition="Line" xml:id="facs_8_tr_1_tl_30"/>
+            <zone points="68,1326 1472,1326 1472,1425 68,1425" rendition="Line" xml:id="facs_8_tr_1_tl_31"/>
+            <zone points="76,1367 1450,1367 1450,1468 76,1468" rendition="Line" xml:id="facs_8_tr_1_tl_32"/>
+            <zone points="76,1430 1450,1430 1450,1513 76,1513" rendition="Line" xml:id="facs_8_tr_1_tl_33"/>
+            <zone points="77,1472 1477,1472 1477,1571 77,1571" rendition="Line" xml:id="facs_8_tr_1_tl_34"/>
+            <zone points="68,1517 1459,1517 1459,1623 68,1623" rendition="Line" xml:id="facs_8_tr_1_tl_35"/>
+            <zone points="70,1576 1475,1576 1475,1646 70,1646" rendition="Line" xml:id="facs_8_tr_1_tl_36"/>
+            <zone points="67,1598 1452,1598 1452,1704 67,1704" rendition="Line" xml:id="facs_8_tr_1_tl_37"/>
+            <zone points="76,1668 1479,1668 1479,1758 76,1758" rendition="Line" xml:id="facs_8_tr_1_tl_38"/>
+            <zone points="68,1702 1479,1702 1479,1805 68,1805" rendition="Line" xml:id="facs_8_tr_1_tl_39"/>
+            <zone points="22,1708 1461,1708 1461,1832 22,1832" rendition="Line" xml:id="facs_8_tr_1_tl_40"/>
+            <zone points="72,1801 1454,1801 1454,1899 72,1899" rendition="Line" xml:id="facs_8_tr_1_tl_41"/>
+            <zone points="59,1826 1421,1826 1421,1940 59,1940" rendition="Line" xml:id="facs_8_tr_1_tl_42"/>
+            <zone points="47,1859 1457,1859 1457,1983 47,1983" rendition="Line" xml:id="facs_8_tr_1_tl_43"/>
+            <zone points="72,1938 1470,1938 1470,2026 72,2026" rendition="Line" xml:id="facs_8_tr_1_tl_44"/>
+            <zone points="70,1987 1461,1987 1461,2066 70,2066" rendition="Line" xml:id="facs_8_tr_1_tl_45"/>
+            <zone points="63,2010 1412,2010 1412,2116 63,2116" rendition="Line" xml:id="facs_8_tr_1_tl_47"/>
+            <zone points="67,2070 1434,2070 1434,2145 67,2145" rendition="Line" xml:id="facs_8_tr_1_tl_48"/>
+            <zone points="58,2084 1446,2084 1446,2190 58,2190" rendition="Line" xml:id="facs_8_tr_1_tl_49"/>
+            <zone points="59,2151 1466,2151 1466,2244 59,2244" rendition="Line" xml:id="facs_8_tr_1_tl_50"/>
+            <zone points="1356,2216 1445,2216 1445,2257 1356,2257" rendition="Line" xml:id="facs_8_tr_1_tl_51"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="1538" lry="2177" xml:id="facs_9">
+         <!--<graphic url="0009_09_BV1561.png" width="1538px" height="2177px"/>-->
+         <graphic url="https://files.transkribus.eu/Get?id=SHNPNJXZOADJDNQBDEZETMMS&amp;fileType=view" width="1538px" height="2177px"/>
+         <zone points="78,56 1508,56 1508,1240 78,1240" rendition="TextRegion" xml:id="facs_9_tr_1">
+            <zone points="118,0 1479,0 1479,127 118,127" rendition="Line" xml:id="facs_9_tr_1_tl_1"/>
+            <zone points="121,92 1461,92 1461,186 121,186" rendition="Line" xml:id="facs_9_tr_1_tl_2"/>
+            <zone points="125,127 1448,127 1448,233 125,233" rendition="Line" xml:id="facs_9_tr_1_tl_3"/>
+            <zone points="112,168 1439,168 1439,261 112,261" rendition="Line" xml:id="facs_9_tr_1_tl_4"/>
+            <zone points="94,228 1443,228 1443,315 94,315" rendition="Line" xml:id="facs_9_tr_1_tl_5"/>
+            <zone points="119,253 1461,253 1461,344 119,344" rendition="Line" xml:id="facs_9_tr_1_tl_6"/>
+            <zone points="114,300 1403,300 1403,424 114,424" rendition="Line" xml:id="facs_9_tr_1_tl_7"/>
+            <zone points="78,360 1459,360 1459,460 78,460" rendition="Line" xml:id="facs_9_tr_1_tl_8"/>
+            <zone points="118,405 1486,405 1486,496 118,496" rendition="Line" xml:id="facs_9_tr_1_tl_9"/>
+            <zone points="116,454 1455,454 1455,530 116,530" rendition="Line" xml:id="facs_9_tr_1_tl_10"/>
+            <zone points="116,500 1482,500 1482,585 116,585" rendition="Line" xml:id="facs_9_tr_1_tl_11"/>
+            <zone points="118,548 1459,548 1459,628 118,628" rendition="Line" xml:id="facs_9_tr_1_tl_12"/>
+            <zone points="33,588 1486,588 1486,684 33,684" rendition="Line" xml:id="facs_9_tr_1_tl_14"/>
+            <zone points="109,630 1490,630 1490,729 109,729" rendition="Line" xml:id="facs_9_tr_1_tl_15"/>
+            <zone points="67,681 1448,681 1448,769 67,769" rendition="Line" xml:id="facs_9_tr_1_tl_16"/>
+            <zone points="94,708 1506,708 1506,813 94,813" rendition="Line" xml:id="facs_9_tr_1_tl_17"/>
+            <zone points="125,766 1491,766 1491,869 125,869" rendition="Line" xml:id="facs_9_tr_1_tl_18"/>
+            <zone points="112,814 1490,814 1490,892 112,892" rendition="Line" xml:id="facs_9_tr_1_tl_19"/>
+            <zone points="116,854 1493,854 1493,927 116,927" rendition="Line" xml:id="facs_9_tr_1_tl_20"/>
+            <zone points="127,896 1497,896 1497,990 127,990" rendition="Line" xml:id="facs_9_tr_1_tl_21"/>
+            <zone points="130,938 1502,938 1502,1019 130,1019" rendition="Line" xml:id="facs_9_tr_1_tl_22"/>
+            <zone points="123,976 1490,976 1490,1081 123,1081" rendition="Line" xml:id="facs_9_tr_1_tl_24"/>
+            <zone points="125,1023 1446,1023 1446,1104 125,1104" rendition="Line" xml:id="facs_9_tr_1_tl_25"/>
+            <zone points="109,1037 1490,1037 1490,1160 109,1160" rendition="Line" xml:id="facs_9_tr_1_tl_26"/>
+            <zone points="110,1115 1453,1115 1453,1231 110,1231" rendition="Line" xml:id="facs_9_tr_1_tl_27"/>
+            <zone points="116,1160 914,1160 914,1274 116,1274" rendition="Line" xml:id="facs_9_tr_1_tl_28"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+          <!--  <pb facs="#facs_1" xml:id="img_0001" n="!1"/>-->
+            <p facs="#facs_2_tr_1">
+            <pb facs="#facs_2" xml:id="img_0002" n="1r"/>
+            
+               <lb facs="#facs_2_tr_1_tl_2" n="N001"/>Wir, <rs type="person" ref="#witmer_hinrich">Hinricus Withmer</rs>, decanus, <rs type="person" ref="#keye_johannes">Johannes Keye</rs>, senior, und gantze capittell der domkirchen
+               <lb facs="#facs_2_tr_1_tl_4" n="N002"/>zu <rs type="place" ref="#">Hamburg</rs>, an einem, unnd burgermeistere unnd raedt der statt
+               <lb facs="#facs_2_tr_1_tl_5" n="N003"/>
+                    <rs type="place" ref="#hamburg">Hamburg</rs> anderß theilß, bekennen in diesem briefe fur unns und unsere <w>nach-
+               <lb facs="#facs_2_tr_1_tl_6" n="N004"/>khommen</w> an gemeltem capittell unnd <rs type="place" ref="#hamburg">statt</rs>, unnd fernehr<note type="annotation">ferner.</note> fur alle die, so von unser beider
+               <lb facs="#facs_2_tr_1_tl_7" n="N005"/>seits wegen in nachfolgender handlung unnd vertrage begriffen seyn, jegen<note type="annotation">gegen, gegenüber.</note> <w>idermennig<pc>-</pc>
+                  <lb facs="#facs_2_tr_1_tl_8" n="N006"/>lichen</w>
+                    <note type="annotation">jedermann.</note>, daß wir Gott dem Allmechtigen zu lob unnd ehren, unnß unnd unsern <w>nachkhom<pc>-</pc>
+                     <lb facs="#facs_2_tr_1_tl_9" n="N007"/>men</w> am capittell unnd rahedt unnd sunst allen unnd jeglichen gaystlichen unnd weltlichen
+               <lb facs="#facs_2_tr_1_tl_10" n="N008"/>stants<note type="annotation">Standes.</note> eingesessener cleresey<note type="annotation">Klerisei, Geistlichkeit.</note> unnd burgerschafftt der statt <rs type="place" ref="#hamburg">Hamburg</rs>, zu wollstand<note type="annotation">zur Wohlordnung, Richtigstellung, Bereinigung.</note>
+               <lb facs="#facs_2_tr_1_tl_11" n="N009"/>aller spenn<note type="annotation">Streitigkeiten.</note> unnd irrunge<note type="annotation">Auseinandersetzungen.</note>, darumb wir, die vom capittell, gegen benante hern <w>bur<pc>-</pc>
+                  <lb facs="#facs_2_tr_1_tl_12" n="N010"/>germeistere</w> unnd raedt, auch kirchengeschworne, burgere unnd gantze gemeinde <w>vorge<pc>-</pc>
+                     <lb facs="#facs_2_tr_1_tl_13" n="N011"/>nanter</w> statt vor etzlichen jahren am keyserlichen cammergerichtt in rechtfertigung
+               <lb facs="#facs_2_tr_1_tl_14" n="N012"/>erwachssen<note type="annotation">in Rechtfertigung erwachsen = gerichtliche Verfahren angestrengt.</note> unnd biß auff diese zeitt gestanden,<note type="annotation">und bis in die Gegenwart fortgeführt.</note> auff vorgehabten zeittigen rahtt,<note type="annotation">nach vorheriger Beratung.</note>
+               <lb facs="#facs_2_tr_1_tl_15" n="N013"/>tractation<note type="annotation">Verhandlung.</note> unnd bedencken<note type="annotation">Erörterung.</note>, mith unserm guten freyen willen, ohne einiche bodrancknuß<note type="annotation">Bedrängnis, Nötigung, Zwang.</note>, <w>forch<pc>-</pc>
+               <lb facs="#facs_2_tr_1_tl_16" n="N014"/>te</w> oder gefehrliche induction<note type="annotation">Weiterungen, Folgerungen, Konsequenzen (?); Verführung (??)</note>, seind vorglichen<note type="annotation">zum Ausgleich der Interessen gebracht.</note> unnd entlich vertragen<note type="annotation">vertraglich befriedet.</note>, 
+            </p>
+               <p resp="HOS">
+                    <supplied reason="article_added">1.1</supplied>  dergestalltt,
+               <lb facs="#facs_2_tr_1_tl_17" n="N015"/>daß wir, domdechant unnd capittell neben unnd mitt unserm thumbprobst, wollen eynen
+                  <lb facs="#facs_2_tr_1_tl_18" n="N016"/>Erbaren Raedtt der statt <rs type="place" ref="#hamburg">Hamburg</rs>, ihre burgere, unnderthanen unnd semptliche <w>ge<pc>-</pc>
+                  <lb facs="#facs_2_tr_1_tl_19" n="N017"/>meinde</w> vermuge des religion friedenß bey der <rs type="event" ref="#ca_invariata">Auspurgischen Confession</rs> Religion,
+                  <lb facs="#facs_2_tr_1_tl_20" n="N018"/>glauben, bestellung der ministerien<note type="annotation">Bestellung der Ministerien = Besetzung der Pfarrstellen.</note>, auch kirchen gebreuchen, ordnungen unnd <w>cere<pc>-</pc>
+                  <lb facs="#facs_2_tr_1_tl_21" n="N019"/>monien</w>, so der Erbar Raedt in ihrer statt unnd gebiete auffgerichtet hatt, friedlich
+               <lb facs="#facs_2_tr_1_tl_22" n="N020"/>unnd geruebiglich<note type="annotation">ruhig.</note> pleiben laissen, unnd nicht practizieren<note type="annotation">etwas (auf unlautere Weise) ins Werk setzen, intrigieren.</note>, sie davon zu tringen<note type="annotation">davon abzubringen.</note>
+                  <lb facs="#facs_2_tr_1_tl_23" n="N021"/>oder bewegen, noch durch mandata oder jeniger anderer gestaltt<note type="annotation">jeniger anderer Gestalt = auf irgendeine andere Weise.</note> beschweren<note type="annotation">belasten, behelligen.</note> oder <w>ver<pc>-</pc>
+                     <lb facs="#facs_2_tr_1_tl_24" n="N022"/>achten</w>.</p>
+            
+            <p resp="HOS">
+                    <supplied reason="article_added">1.2</supplied> Wyr obbemelte domcapittell wollen auch unsere gaystliche <w>juris<pc>[-]</pc>
+                        <lb facs="#facs_2_tr_1_tl_25" n="N023"/>diction</w> dawider, biß zu entlicher vergleichunge der religion, nicht exerciren<note type="annotation">ausüben.</note>, <w>ge<pc>-</pc>
+                  <lb facs="#facs_2_tr_1_tl_26" n="N024"/>brauchen</w> oder uben, sonder soll alsolliche<note type="annotation">die besagte.</note> jurisdiction biß zu entlicher<note type="annotation">abschließender.</note> christlicher
+               <lb facs="#facs_2_tr_1_tl_27" n="N025"/>vorgleichung der religion ruhen, eingestellt unnd suspendirtt seyn unnd pleiben.</p>
+            <p resp="HOS">
+                    <supplied reason="article_added">1.3</supplied>
+                  <lb facs="#facs_2_tr_1_tl_28" n="N026"/>Idoch wollen wyr, burgermeister unnd rahtt, den dohmprobst, dechant unnd <w>ca<pc>-</pc>
+                  <lb facs="#facs_2_tr_1_tl_29" n="N027"/>pittell</w> nichtt hindern oder beeindrechtigen, ihre jurisdiction in criminalibus causis,
+               <lb facs="#facs_2_tr_1_tl_30" n="N028"/>wie von alterßhero gewohnlich unnd sie dessen exercitium, brauch unnd ubung gehabtt,
+               <lb facs="#facs_2_tr_1_tl_31" n="N029"/>uber die personen ihres thumbcapittels, vicarien, cemmerer, staff dreger<note type="annotation">Stabträger, Domschweizer, Ordnungshüter in der Domkirche, Laien in kirchlichem Dienst mit vielfältigem Aufgabenbereich.</note>, vogtt,
+               <lb facs="#facs_2_tr_1_tl_32" n="N030"/>custere<note type="annotation">Küster.</note> unnd kirchenknechtt<note type="annotation">Kirchendiener, Küster, Glöckner.</note> zugebrauchen, sonder wollen sie dabey friedsam lassen,
+               <lb facs="#facs_2_tr_1_tl_33" n="N031"/>mitt dem bescheide, so fernhe in obberurten malefitz unnd criminall sachen<note type="annotation">Malefiz- und Kriminalsachen = (Gerichtsverfahren, die) Kapital- und Schwerverbrechen (betreffen).</note> die
+               <lb facs="#facs_2_tr_1_tl_34" n="N032"/>thetter in unnserer jurisdiction angetroffen, oder ratione domicilii<note type="annotation">ratione domicilii = wegen des Wohn-/Aufenthaltsorts einer beteiligten Partei.</note> oder delicti<note type="annotation">ratione delicti = wegen der Art des Verbrechens.</note>
+               <lb facs="#facs_2_tr_1_tl_35" n="N033"/>gefallen, haben wir unnß den angriff vůehrbehalten, die thätter bey dem wyrdtt
+                        <lb facs="#facs_2_tr_1_tl_36" n="N034"/>auff dem Winser baume<note type="annotation">
+                        <q>Winser Baum</q> bezeichnete eigentlich eine Sperre für den Schiffsverkehr auf der Oberelbe (benannt nach der Stadt Winsen an der Luhe, wohin von dort aus eine Straßenverbindung führte), dann auch eine Straße bzw. ein Gelände in der Nähe der Anlage. In einem dort gelegenen Wirtshaus war anscheinend ein Arrestlokal eingerichtet, in dem vorübergehend Untersuchungsgefangene untergebracht werden konnten.</note> eyn zu ziehen. Jdoch wollen wir alsolliche mißthätter
+               <lb facs="#facs_2_tr_1_tl_37" n="N035"/>inwendig vyer unnd zwentzich stunden dem domprobste, dechante vnnd capittell, ihrem
+               <lb facs="#facs_2_tr_1_tl_38" n="N036"/>cemmerern oder einichem derselbigen dienere auff ihre erste anforderunge folgen
+               <lb facs="#facs_2_tr_1_tl_39" n="N037"/>lassen<note type="annotation">folgen lassen = überantworten, überstellen.</note>, wie sonsten in mehr orteren gebreuchlich, illesos<note type="annotation">illaesos, unverletzt.</note> unnd unvorletzet in deß
+               <lb facs="#facs_2_tr_1_tl_40" n="N038"/>capittels vorwahre<note type="annotation">Verwahrung, Haft.</note> zu überantwortten, folgends dieselben thetter nach gestalt der
+               <lb facs="#facs_2_tr_1_tl_42" n="N039"/>mißhandlong der gebuhr nach zu straffen.</p>
+            <p resp="HOS">
+                    <supplied reason="article_added">1.4</supplied>
+               Wyr wollen auch den
+               <lb facs="#facs_2_tr_1_tl_43" n="N040"/>thumbprobst, dechant unnd capittell nichtt hinderen oder beeindrechtigen, uber unnd
+               <lb facs="#facs_2_tr_1_tl_44" n="N041"/>zwischen obgedochten gaystlichen personen, auch ihren dieneren und wesentlichen
+               <lb facs="#facs_2_tr_1_tl_45" n="N042"/>haußgesinde, in civilibus causis unnd burgerlichen sachen die jurißdiction, wie sie
+                  <lb facs="#facs_2_tr_1_tl_46" n="N043"/>deren von alterßhero in ubung gewesen, zu gebrauchen, doch mitt der <w>beschei<pc>-</pc>
+                  <lb facs="#facs_2_tr_1_tl_47" n="N044"/>denheitt</w>
+                    <note type="annotation">Einschränkung (?).</note>, daß wyr, domcapittell obgemeltt, auff den fall, da jemandtß von burgern
+                  <lb facs="#facs_2_tr_1_tl_48" n="N045"/>oder inwohnern unnd verwanten der statt <rs type="place" ref="#hamburg">Hamburg</rs> oder sonnst anderen <w>fremb<pc>-</pc>
+                  <lb facs="#facs_2_tr_1_tl_49" n="N046"/>den</w> personen einen oder mehr unnsers mittelß<note type="annotation">unsers mittels = aus unserer Mitte.</note>, thumbhern, andere gaystliche,
+               <lb facs="#facs_2_tr_1_tl_50" n="N047"/>unsere oder ihre dienere unnd haußgesinde, mitt rechte anlangen<note type="annotation">anzeigen, rechtlich belangen, vor Gericht ziehen.</note> wurde, daß deme
+               <lb facs="#facs_2_tr_1_tl_51" n="N048"/>oder denen auff ihre ansuchunge geburlich unvorzuglich rechtt durch unns soll mitt
+               <!--<lb facs="#facs_2_tr_1_tl_52" n="N049"/>geteilet,-->
+           
+               <pb facs="#facs_3" xml:id="img_0003" n="1v"/>
+           
+                        <lb facs="#facs_3_tr_1_tl_1" n="N001"/>geteilet<note type="crit_app">Kustode auf der vorangehenden Seite: <q>geteilet</q>; auf der neuen Seite nur: <q>teilet</q>
+                    </note> werden, dermassen, daß die sache innerhalb sechß wochen soll anhengig gemachtt
+               <lb facs="#facs_3_tr_1_tl_2" n="N002"/>unnd zum lengsten inwendich<note type="annotation">binnen.</note> jahres fristt nach gelegenhaitt darnach darinne erkhantt,
+               <lb facs="#facs_3_tr_1_tl_3" n="N003"/>und kheinem teile ursach gegeben werden, von weygerung oder verzognen rechtens<note type="annotation">verzognes Rechten = Prozessverschleppung.</note>
+               <lb facs="#facs_3_tr_1_tl_4" n="N004"/>sich zu beclagen. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">1.5</supplied>
+               Daer jegen<note type="annotation">daer jegen = dagegen, im Gegenzug, entsprechend.</note> wollen wyr, burgermeister unnd rahdt, eß
+                  <lb facs="#facs_3_tr_1_tl_5" n="N005"/>gleichermaissen in vorhelffunge rechtenns halten, so fernhe jemants von dem <w>dom<pc>-</pc>
+                  <lb facs="#facs_3_tr_1_tl_6" n="N006"/>capittell</w> unnd clerisey oder ihren dieneren unnd wesentlichen haußgesinde, jenige <w>bur<pc>-</pc>
+                  <lb facs="#facs_3_tr_1_tl_7" n="N007"/>gere</w>, inwohnere unnd verwanten, so unnserm gerichts zwang underworffen, mitt rechte
+               <lb facs="#facs_3_tr_1_tl_8" n="N008"/>anlangen wurde, daß inwendich sechs wochen die sache soll anhengig gemachtt unnd nach
+               <lb facs="#facs_3_tr_1_tl_9" n="N009"/>gelegenhaitt innerhalb jahres frist darinnen erkhandt werden, waß sich zu rechte
+               <lb facs="#facs_3_tr_1_tl_10" n="N010"/>eignen unnd gebuhren will. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">1.6</supplied>
+               Idoch sollen von unserer, diß dohmcapittels, <w>juris<pc>[-]</pc>
+                  <lb facs="#facs_3_tr_1_tl_11" n="N011"/>diction</w> exempt unnd außgezogen<note type="annotation">ausgenommen.</note> sein der Doctor Theologiae oder Superintendens, Secundarius
+               <lb facs="#facs_3_tr_1_tl_12" n="N012"/>Lector, die pastoren, cappellanen, unnd dienere der vyer pfarkirchen<note type="annotation">Sankt Petri, Sankt Nikolai (am Hopfenmarkt, heute Mahnmal), Sankt Katharinen, Sankt Jakobi.</note>, item zu Sanct
+               <lb facs="#facs_3_tr_1_tl_13" n="N013"/>Jurgen<note type="annotation">Hospital(kirche) Sankt Georg.</note>, dem Heilligen Geiste<note type="annotation">Hospital(kirche) zum Heiligen Geist.</note>, S. Johann<note type="annotation">Dominikanerkloster St. Johann.</note>, Marien Magdalenen<note type="annotation">Franziskanerkloster Maria Magdalena.</note>, kostere<note type="annotation">Küster.</note>, schullmeistere,
+               <lb facs="#facs_3_tr_1_tl_14" n="N014"/>schulgesellen<note type="annotation">Gehilfen des Schulmeisters.</note>, auch alle andere personen unnd kirchen dienere, ausserhalb <rs type="place" ref="#hamburg">Hamburgk</rs>
+               <lb facs="#facs_3_tr_1_tl_15" n="N015"/>in des raths jurisdiction gesessen, unnd gemeiniglich wollen wyr die synodalische,
+               <lb facs="#facs_3_tr_1_tl_16" n="N016"/>officialische oder einiche andere gaystliche jurisdiction, wie die nahmen hetten,
+                  <lb facs="#facs_3_tr_1_tl_17" n="N017"/>nicht gebrauchen, ausserhalb dem, ßo in obengesetzten articuln vermeldet, <w>son<pc>-</pc>
+                  <lb facs="#facs_3_tr_1_tl_18" n="N018"/>der</w> soll in allen anderen fellen, in maissen obstehet, alsolliche jurisdiction,
+               <lb facs="#facs_3_tr_1_tl_19" n="N019"/>vermuge des <rs type="event" ref="#augsburger_religionsfrieden">religion friedenß</rs>, biß zu entlicher christleicher vorgleichunge der streitigen
+            <lb facs="#facs_3_tr_1_tl_21" n="N020"/>religion ruhen eingestellt unnd suspendirtt sein unnd pleiben. </p> 
+            <p resp="HOS">
+                    <supplied reason="article_added">2</supplied>
+            Wyr,
+               <lb facs="#facs_3_tr_1_tl_22" n="N021"/>burgermeistere unnd rahdt, wollen die eilff thumbhöfe<note type="annotation">Domhöfe, elf Anwesen, die als standesgemäße Wohnungen für die Mitglieder des Domkapitels erbaut waren, zehn davon waren um St. Petri gelegen.</note> bay ihrer von alterß her
+                  <lb facs="#facs_3_tr_1_tl_23" n="N022"/>gebrachten freyheitt, so fernhe von thumb hern, in wellicher behueff<note type="annotation">in welcher Behuf = zu deren Gebrauch.</note> die höfe <w>ge<pc>[-]</pc>
+                  <lb facs="#facs_3_tr_1_tl_24" n="N023"/>bauwet</w>, ader andern gaystlichen personen, so dem thumb probst, dechant oder <w>ca<pc>-</pc>
+                  <lb facs="#facs_3_tr_1_tl_25" n="N024"/>pittell</w> verwant sein, bewohnet werden, pleiben lassen. Dagegen wollen wyr dem
+               <lb facs="#facs_3_tr_1_tl_26" n="N025"/>capittell in gemein unnd unserß capittels personen insonderheitt in
+               <lb facs="#facs_3_tr_1_tl_27" n="N026"/>alsollichen höfen kheine mißthetter oder jemants, ßo deß rahtß jurisdiction ratione
+               <lb facs="#facs_3_tr_1_tl_28" n="N027"/>delicti vel domicilii<note type="annotation">ratione delicti vel domicilii = nach Maßgabe der Tat oder des Wohnorts</note> underworffen, wider deß rahts willen nicht underschlauffen<note type="annotation">beherbergen, Unterschlupf gewähren.</note>, unnd
+                        <lb facs="#facs_3_tr_1_tl_29" n="N028"/>einem Erb<am>.</am>
+                    <ex>aren</ex> Rahtt auff ihre anforderunge dieselbigen unweigerlich folgen lassen
+               <lb facs="#facs_3_tr_1_tl_31" n="N029"/>unnd nichtt vorenthalten. Wurde auch ein oder mehr berurter thumbhöfe von
+               <lb facs="#facs_3_tr_1_tl_32" n="N030"/>welttlichen personen bewohnett (welliche doch, so dieselbigen einem Ehrb<am>.</am>
+                    <ex>aren</ex> Rahte auß
+               <lb facs="#facs_3_tr_1_tl_33" n="N031"/>billichen<note type="annotation">rechtmäßigen, verständlichen, nachvollziehbaren.</note> ursachen unleittlich<note type="annotation">unerträglich, nicht zu dulden.</note>, von unnß in gemein oder von den capitular personen
+               <lb facs="#facs_3_tr_1_tl_34" n="N032"/>nichtt sollen underhalten werden), alsdan sollen alsolliche inwohner der gebuehr
+               <lb facs="#facs_3_tr_1_tl_35" n="N033"/>nach<note type="annotation">der Gebühr nach = wie es angemessen ist, wie es sich gebührt, wie es sich gehört.</note> unnd vermuge alter concordien<note type="annotation">Verträge, Übereinkünfte.</note> wie andere burgere steuren<note type="annotation">Steuern und Abgaben leisten.</note>.</p>
+            <p resp="HOS">
+                    <supplied reason="article_added">3.1</supplied> 
+                  <lb facs="#facs_3_tr_1_tl_36" n="N034"/>Wyr, burgermeistere unnd rahet, wollen in beneficialibus<note type="annotation">in Lehensangelegenheiten, was die Vergabe von Pfründen betrifft.</note> dem domprobste, <w>thumb<pc>[-]</pc>
+               <lb facs="#facs_3_tr_1_tl_37" n="N035"/>dechant</w> vnnd capittell, wie gewontlich, die investitur unnd institution<note type="annotation">Investitur (Einkleidung) und Institution (Einsetzung) sind Elemente der förmlichen Belehnung mit einer Pfründe.</note>, so dem capittell
+               <lb facs="#facs_3_tr_1_tl_38" n="N036"/>von alterß hero geburet hatt, nichtt vorhindern, doch mitt dem bescheide<note type="annotation">mit der Einschränkung.</note>, dieweile wyr
+               <lb facs="#facs_3_tr_1_tl_39" n="N037"/>oder ein andere sonderbahre personen zu ettlichen lehnen daß jus patronatus<note type="annotation">Recht zur Besetzung geistlicher Stellen.</note> haben,
+               <lb facs="#facs_3_tr_1_tl_40" n="N038"/>so soll unns oder andern patronen in ihrer gerechtigkaitt nichts benohmen sein. Der
+               <lb facs="#facs_3_tr_1_tl_41" n="N039"/>gestaltt, wanner wyr ader andere, so daerzu berechtigtt, alse patroni dem thumbprobst,
+               <lb facs="#facs_3_tr_1_tl_42" n="N040"/>dechant unnd capittell zu alsollichen lehnen eine taugentliche<note type="annotation">geeignete.</note> personen praesentiren
+               <lb facs="#facs_3_tr_1_tl_43" n="N041"/>wurden, soll der thumb probst, dechant unnd capittell uff conscientz<note type="annotation">Gewissen, Verantwortung.</note> der patronen
+               <lb facs="#facs_3_tr_1_tl_44" n="N042"/>oder presentanten, ohne fernher inquisition<note type="annotation">Befragung, (Über)prüfung.</note>, die presentirte personen, gegen erstattung
+                  <lb facs="#facs_3_tr_1_tl_45" n="N043"/>gewonlichß statuten gelts unnd eidts, wellicher eidtt alleine auff getreuwe <w>ver<pc>-</pc>
+                  <lb facs="#facs_3_tr_1_tl_46" n="N044"/>waltunge</w> der guter ihrer beneficien unnd dieselbige gefehrlicher unnd ungebuehrlicher
+               <lb facs="#facs_3_tr_1_tl_47" n="N045"/>weise von den beneficien nichtt zu alieniren soll gerichtet seyn, ohne allen weittern
+                  <lb facs="#facs_3_tr_1_tl_48" n="N046"/>zusatz in den vyer pfarkirchen, auch im thumb, in den vicarien unnd <w>com<pc>-</pc>
+                  <lb facs="#facs_3_tr_1_tl_49" n="N047"/>menden</w>, zu wellichen wyr oder andere laicj das ius patronatus haben, schuldig
+               <lb facs="#facs_3_tr_1_tl_50" n="N048"/>sein, dieselbige zu investiren unnd institueren, doch soll niemandtt investiertt
+               <lb facs="#facs_3_tr_1_tl_51" n="N049"/>werden, er sey denn ein scholar<note type="annotation">akademisch gebildet oder doch zumindest Absolvent einer Lateinschule.</note> oder in universiteten gestanden unnd das er seyn
+              <!-- <lb facs="#facs_3_tr_1_tl_52" n="N050"/>studieren-->
+            <pb facs="#facs_4" xml:id="img_0004" n="2r"/>
+            
+               <lb facs="#facs_4_tr_1_tl_1" n="N001"/>studieren nicht ubergeben habe<note type="annotation">nicht ohne Vorlage der Studiennachweise oder Examenszeugnisse (?).</note>, unnd da er sich zu welttlichen emptern begeben wurde,
+               <lb facs="#facs_4_tr_1_tl_2" n="N002"/>so sollen solliche beneficia ipso iure<note type="annotation">ipso iure = unmittelbar von Rechts wegen.</note> vaciren<note type="annotation">frei werden, wieder als unbesetzt gelten.</note>, unnd andere vorgeschriebner maissen
+                  <lb facs="#facs_4_tr_1_tl_3" n="N003"/>taugentliche personen, durch die patronen præsentirt unnd die investituer, gegen <w>er<pc>-</pc>
+                  <lb facs="#facs_4_tr_1_tl_4" n="N004"/>stattunge</w>, (wie obengesetzet) gegeben werden, unnd zu vorhutunge aller gefehrlicheitt<note type="annotation">Gefährdung, Unsicherheit, unnötigen Aufhebens.</note>
+               <lb facs="#facs_4_tr_1_tl_5" n="N005"/>unnd weiterunge<note type="annotation">Verwicklungen.</note>, so offtt sich angeregter fall begeben wurde, soll dasselbige dem patronen
+               <lb facs="#facs_4_tr_1_tl_6" n="N006"/>durch die hern deß capittels denuncijrt<note type="annotation">bekannt gemacht, angekündigt.</note> unnd angekhundigtt, unnd inwendich dreyer monatt
+               <lb facs="#facs_4_tr_1_tl_7" n="N007"/>darnach, von zeit der denunctiation unnd a tempore scientiae<note type="annotation">a tempore scientiae = vom Zeitpunkt des Bekanntwerdens.</note> an zu rechnen, ßoferne
+               <lb facs="#facs_4_tr_1_tl_8" n="N008"/>der patron binnen landeß, oder in sechs monatten, so ferhne der patron ausserhalb
+               <lb facs="#facs_4_tr_1_tl_9" n="N009"/>landeß, durch den patronen eyn andre persone, wie vorgemeldett, den collatoribus<note type="annotation">Inhabern des Rechts zur Besetzung einer geistlichen Stelle, Vergabe einer Pfründe etc.</note>
+               <lb facs="#facs_4_tr_1_tl_10" n="N010"/>præsentirt werden. Wo aber die patron in gesetzter frist, nach empfangner
+               <lb facs="#facs_4_tr_1_tl_12" n="N011"/>denunctiation, darin seumich wurde, soll pro illa vice<note type="annotation">pro illa vice = für jenes eine Mal ersatzweise.</note> die provision derselbigen an
+               <lb facs="#facs_4_tr_1_tl_14" n="N012"/>thumbprobst, dechantt unnd capittell gefallen seyn. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">3.2</supplied>
+               Wyr wollen unnß auch
+               <lb facs="#facs_4_tr_1_tl_15" n="N013"/>aller collation<note type="annotation">Verleihung, Vergabe.</note> der gaystlichen lehne, welliche in deß capittels monatt<note type="annotation">Anscheinend wechselte das Recht zur Vergabe der betreffenden geistlichen Lehen abhängig vom Monat des Heimfalls.</note> erleddigtt unnd
+                  <lb facs="#facs_4_tr_1_tl_16" n="N014"/>vacieret, oder so dem thumbprobste, dechant oder capittell ohne alle mittell zu <w>conferi<pc>-</pc>
+                  <lb facs="#facs_4_tr_1_tl_17" n="N015"/>ren</w> gebuhren, hinfernehr enthalten. Daerjegen wollen wyr, dohmcapittell,
+                  <lb facs="#facs_4_tr_1_tl_18" n="N016"/>auffrichtich damitt handlen. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">3.3</supplied>
+               Unnd nachdem zu richtig machunge der lehne, so <w>ex<pc>-</pc>
+                  <lb facs="#facs_4_tr_1_tl_19" n="N017"/>periert</w>
+                    <note type="annotation">erloschen, frei geworden, heimgefallen.</note> ader durch andere wege derselbigen guitter<note type="annotation">Güter.</note> corpora unnd andere jahrliche hebunge
+               <lb facs="#facs_4_tr_1_tl_20" n="N018"/>enthwendet oder underschlagen sein, von noten ist, daß eine visitation von uns, dem
+                  <lb facs="#facs_4_tr_1_tl_21" n="N019"/>domcapitell, furgenohmmen unnd Ein Erb<am>.</am>
+                    <ex>arer</ex> Rahet auff ditz mahll etzliche personen <w>da<pc>-</pc>
+                  <lb facs="#facs_4_tr_1_tl_22" n="N020"/>bey</w> zuvorordnen von unnß angelanget<note type="annotation">(flehentlich) gebeten.</note> unnd gebetten werde, wollen wyr dasselbige
+               <lb facs="#facs_4_tr_1_tl_23" n="N021"/>furdersaem unnd zu erster gelegenheitt wurcklich an unnd fur die handt nehmen,
+                  <lb facs="#facs_4_tr_1_tl_24" n="N022"/>unnd sollen die visitatores gruntlich aller patronattschafftt, unnd waß von den <w>bene<pc>-</pc>
+                  <lb facs="#facs_4_tr_1_tl_25" n="N023"/>ficien</w> verrucktt, auch der experierten<note type="annotation">erloschenen, frei gewordenen, heimgefallenen.</note> lehne gelegenheitt sich fleissig und eigentlich
+               <lb facs="#facs_4_tr_1_tl_26" n="N024"/>erkhunden, doch soll die beyforderunge welttlicher personen bey diese visitation
+               <lb facs="#facs_4_tr_1_tl_27" n="N025"/>unnß in unserm jure visitandi, folgendß fur unns alleine zu thuende, unschedlich seynn,
+               <lb facs="#facs_4_tr_1_tl_28" n="N026"/>unnd nach volnnfurter visitation sollen die visitanten daruon unnß bestendige
+                  <lb facs="#facs_4_tr_1_tl_29" n="N027"/>relation<note type="annotation">Bericht.</note> thuen, auch soll einem Erb<am>.</am>
+                    <ex>aren</ex> Rahde, worin die mangell befunden, <w>grunt<pc>-</pc>
+                  <lb facs="#facs_4_tr_1_tl_31" n="N028"/>lich</w> angezeigtt werden. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">3.4</supplied>
+               Unnd so viehle die expirirten<note type="annotation">erloschenen, heimgefallenen.</note> lehne belangtt, khonnen
+               <lb facs="#facs_4_tr_1_tl_32" n="N029"/>wyr, domcapittell, zwischen unns unnd den patronen jegliche unnd friedsame handlung
+                  <lb facs="#facs_4_tr_1_tl_33" n="N030"/>unnd mittell leiden, aber dasunst befinden, daß etwas von den beneficien <w>ungebur<pc>-</pc>
+                  <lb facs="#facs_4_tr_1_tl_34" n="N031"/>lichermaiß</w> alienirt, occupirt oder entzogen, wollen wir in gleichnuß auch wier,
+               <lb facs="#facs_4_tr_1_tl_35" n="N032"/>burgermeister unnd raht, jeder die vnsere ernstlich nach eusserstem vermugen dohin halten,
+               <lb facs="#facs_4_tr_1_tl_36" n="N033"/>dasselbige bey unnd an die beneficia, daruon eß entwendett, wederumb zu bringen,
+               <lb facs="#facs_4_tr_1_tl_37" n="N034"/>alß auch ein Erb<am>.</am>
+                    <ex>arer</ex> Rahtt oder die burgermeistere etzliche beneficia fur dieser zeitt
+               <lb facs="#facs_4_tr_1_tl_38" n="N035"/>conferirt unnd vorlehnet haben, daran doch wir, domcapittell, ihnen deß iuris
+               <lb facs="#facs_4_tr_1_tl_39" n="N036"/>conferendi nichtt gestendich, auch andere personen dieselbigen erlangtt, haben
+               <lb facs="#facs_4_tr_1_tl_40" n="N037"/>wir dennoch umb mehrer ruhe unnd friedenß willen nachgegeben, daß die itzigen
+               <lb facs="#facs_4_tr_1_tl_41" n="N038"/>belehneten des rahtts auff billiche contentation<note type="annotation">Abfindung, Zufriedenstellung.</note> der impetranten<note type="annotation">Anspruchsberechtigten(?), Kläger(?).</note> nach erkhanttnuß<note type="annotation">Urteil, Beschluss.</note>
+               <lb facs="#facs_4_tr_1_tl_42" n="N039"/>unnd messigung<note type="annotation">Bemessung.</note> der negsten visitatoren, sofernhe sie sunst daruber sich nichtt khonten
+                  <lb facs="#facs_4_tr_1_tl_43" n="N040"/>vorgleichen, dabey sollen gelassen werden. Idoch wollen wier hiemitt <w>an<pc>[-]</pc>
+                  <lb facs="#facs_4_tr_1_tl_44" n="N041"/>geregten</w> impetranten die persecution<note type="annotation">Verfolgung, Durchsetzung.</note> ihrer rechten auff den fall, da sie mitt
+                  <lb facs="#facs_4_tr_1_tl_45" n="N042"/>diesem mittell nitt friedich<note type="annotation">befriedigt, zufrieden.</note>, furbehalten haben. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">3.5</supplied> 
+               Dagegen wollen wir, <w>burger<pc>-</pc>
+                  <lb facs="#facs_4_tr_1_tl_47" n="N043"/>meister</w> unnd rahtt, hinfüro dergleichen collation im thumb unnß enthalten, aber
+               <lb facs="#facs_4_tr_1_tl_48" n="N044"/>mitt denne lecturen im thumb unnd underhaltunge der lecturen soll eß
+                  <lb facs="#facs_4_tr_1_tl_49" n="N045"/>bey itziger verordunge gelassen werden, doch daß nach abgange deß itzigen <w>Docto<pc>-</pc>
+                  <lb facs="#facs_4_tr_1_tl_50" n="N046"/>ris</w> Theologiae <rs type="person" ref="#eitzen_paul_von">Pauli ab Eitzen</rs> unnd deß Sublectorn M<am>.</am>
+                    <ex>agistri</ex> <rs type="person" ref="#degener_joachim">Joachimi Degenerß</rs>, die
+               <lb facs="#facs_4_tr_1_tl_51" n="N047"/>negest folgende Doctor Theologiae unnd Sublector unnd ihre successores<note type="annotation">Nachfolger.</note> hinfurder
+               <lb facs="#facs_4_tr_1_tl_52" n="N048"/>von dem structurario<note type="annotation">Struktu(r)ar, für das Bauwesen eines Domstifts zuständiger Domherr, Dombauherr.</note> unnd elttisten burgermeister die praesentation, aber von
+              <!-- <lb facs="#facs_4_tr_1_tl_53" n="N049"/>unns-->
+            <pb facs="#facs_5" xml:id="img_0005" n="2v"/>
+            
+               <lb facs="#facs_5_tr_1_tl_1" n="N001"/>unnß dem thumbcapittell die collation unnd possession empfangen unnd annstatt des eidts
+               <lb facs="#facs_5_tr_1_tl_2" n="N002"/>mith ihrem handtgelubde<note type="annotation">Versprechen durch Handschlag.</note> sich verpflichten, in massen hie oben von andern beneficiaten,
+                        <lb facs="#facs_5_tr_1_tl_3" n="N003"/>so vom Erb<am>.</am>
+                    <ex>aren</ex> Rahde oder andern patronis presentirt werden, gesetzet, auch <w>gewohn<pc>-</pc>
+                  <lb facs="#facs_5_tr_1_tl_4" n="N004"/>liche</w> statuten betzalen. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">4.1</supplied>
+               Die memorien<note type="annotation">Stiftungen zum Totengedenken</note> in den vyer pfarkirchen sollen bey
+                  <lb facs="#facs_5_tr_1_tl_5" n="N005"/>den kirchen pleiben unnd den gemeinen vicarien, so daerzu berechtigett, ohne <w>verhinde<pc>-</pc>
+                  <lb facs="#facs_5_tr_1_tl_6" n="N006"/>rung</w> unnd impaß<note type="annotation">ungehindert, ungeschmälert (?).</note> außgeteilet unnd zugestellett, auch in prophanos usus unnd weltliche
+                  <lb facs="#facs_5_tr_1_tl_7" n="N007"/>ungeburliche gebrauche kheines wegeß angewandtt werden. </p> 
+            <p resp="HOS">
+                    <supplied reason="article_added">4.2</supplied>
+               Jedoch, dieweill nach <w>ende<pc>-</pc>
+                  <lb facs="#facs_5_tr_1_tl_8" n="N008"/>rung</w> der religion in der statt <rs type="place" ref="#hamburg">Hamburg</rs> eine summa geldts alle jahr auß den <w>me<pc>-</pc>
+                  <lb facs="#facs_5_tr_1_tl_9" n="N009"/>morien</w> zu underhaltunge der schulen, als einem noittwendigen, nutzbarn<note type="annotation">nützlichen, nutzbringenden.</note> unnd <w>christ<pc>-</pc>
+                  <lb facs="#facs_5_tr_1_tl_10" n="N010"/>lichem</w> amptt<note type="annotation">Aufgabe(nbereich).</note>, verordnet unnd bestellet, so haben wyr Domcapittell zu erbawong<note type="annotation">Hebung.</note>
+               <lb facs="#facs_5_tr_1_tl_11" n="N011"/>gemeinen wollstandß unnd alles guten, erbahrlichen wesens, nachgegeben unnd bewilligtt,
+               <lb facs="#facs_5_tr_1_tl_12" n="N012"/>daß hinfuro sollen die monitorn<note type="annotation">Aufseher (über die Finanzen) (?)</note> in den vyer pfarkirchen den vorstendern der schulen
+                  <lb facs="#facs_5_tr_1_tl_13" n="N013"/>sechß hundert Marck Lubisch<note type="annotation">Die Lübische Mark war Basis eines einheitlichen Währungssystems, auf das sich etliche wendische Hansestädte, darunter Lübeck, Hamburg, Wismar, Lüneburg, Rostock und Stralsund, verständigt hatten.</note>, zu underhaltunge der schulen unnd besoldunge der <w>schull<pc>-</pc>
+                  <lb facs="#facs_5_tr_1_tl_14" n="N014"/>meistern</w>, auß obberurten memorien zu uberantwortten unnd behendigen schuldig seyn,
+                  <lb facs="#facs_5_tr_1_tl_15" n="N015"/>unnd mith dem ubrigen der memorien, ßo eyn grosses unnd mergklicheß, soll es <w>ge<pc>-</pc>
+                  <lb facs="#facs_5_tr_1_tl_16" n="N016"/>halten</w> werden, wie obstehet. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">4.3</supplied>
+               Nachdem auch die hern deß capittels alle vnnd <w>itz<pc>-</pc>
+                  <lb facs="#facs_5_tr_1_tl_18" n="N017"/>liche</w> der geystlichen lehne, silberen unnd golden clenodia<note type="annotation">Kleinodien, Kostbarkeiten, Wertgegenstände.</note>, kirchen unnd altar zirath<note type="annotation">Schmuck.</note>, siegell
+               <lb facs="#facs_5_tr_1_tl_19" n="N018"/>unnd briefe<note type="annotation">Urkunden.</note>, so bey dem Erb<am>.</am>
+                    <ex>aren</ex> Rahde oder den burgern verhanden, uff der thumbkirchen
+                        <lb facs="#facs_5_tr_1_tl_20" n="N019"/>treße<note type="annotation">Threse(kammer), ein gegen Einbruch, Diebstahl, Feuergefahr etc. besonders gesicherter Raum zur Aufbewahrung wertvoller Gegenstände, Urkunden etc., Schatzkammer (vgl. <q>Tresor</q>), in Kirchenbauten oft auch die Sakristei.</note> in zeiten der ersten visitation lieberen<note type="annotation">(an/aus-)liefern.</note> zu laissen gesonnen, unnd wyr, <w>bur<pc>-</pc>
+                  <lb facs="#facs_5_tr_1_tl_21" n="N020"/>germeistere</w> unnd rahtt, es darfur halten, daß bey unns sollicher stuck nichtt enthalten,
+               <lb facs="#facs_5_tr_1_tl_22" n="N021"/>da eß dennoch uber unsere wissenschafftt<note type="annotation">über unsere Wissenschaft = ohne unser Wissen.</note> doselbst oder bey unnsern burgern befunden
+               <lb facs="#facs_5_tr_1_tl_23" n="N022"/>mochte werden, in dem wollen wir aller unverweißlichen gebuehr<note type="annotation">wie es sich untadeligerweise gehört.</note> unnd dermassen
+                  <lb facs="#facs_5_tr_1_tl_24" n="N023"/>unns ertzeigen, daß den gaistlichen beneficien wider rechtt unnd fuge<note type="annotation">Recht, Schicklichkeit, Angemessenheit.</note> nichts soll <w>furent<pc>-</pc>
+                     <lb facs="#facs_5_tr_1_tl_25" n="N024"/>halten</w> werden. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">4.4</supplied>
+               Wir wollen auch auß unnsern unnd unserer underthanen
+               <lb facs="#facs_5_tr_1_tl_27" n="N025"/>dorffern alle hebunge an khorn<note type="annotation">Getreide.</note> unnd gelde, dem domcapittell restituiren, unnd die
+               <lb facs="#facs_5_tr_1_tl_28" n="N026"/>leuthe anhalten, die retardata<note type="annotation">Außenstände, rückständigen Beträge.</note> zu betzalen an enden unnd orten, da dem domcapittel
+                  <lb facs="#facs_5_tr_1_tl_30" n="N027"/>unnd clerisey sollichß gebuhret. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">4.5</supplied>  
+               Wir wollen auch dem domdechantt am <w>klos<pc>-</pc>
+                  <lb facs="#facs_5_tr_1_tl_31" n="N028"/>ter</w> Hervesthude<note type="annotation">Das 1246 gegründete Kloster befand sich ursprünglich am Pepermölenbek außerhalb des Stadtgebiets und wurde 1295 in den Bereich des heutigen Hamburger Stadtteils Harvestehude verlegt. Es verfügte über erheblichen Landbesitz, aus dem der Unterhalt des Klosters finanziert wurde. Dieser Besitz blieb als separates Stiftungsgut weitgehend erhalten, als das Kloster im Zuge der Reformation zunächst aufgehoben und ab 1536 in ein evangelisches Stift zur Versorgung unverheirateter Hamburger Patrizier- und Bürgertöchter umgewandelt wurde.</note>, itzo binnen <rs type="place" ref="#hamburg">Hamburg</rs>, seine alte gerechtigkeitt, also eynen Hamburger
+               <lb facs="#facs_5_tr_1_tl_32" n="N029"/>gulden jahrlichß, folgen<note type="annotation">ausfolgen, auszahlen.</note> lassen, unnd sollen einem vicarien zu einer vicarien
+               <lb facs="#facs_5_tr_1_tl_33" n="N030"/>Beatae Mariae albae im thumb von demselbigen closter zwo Marck vier schilling jehrlich
+               <lb facs="#facs_5_tr_1_tl_35" n="N031"/>gegeben werden. Wir wollen auch alle jehrliche hebunge von deß klosters
+               <lb facs="#facs_5_tr_1_tl_36" n="N032"/>dorffern restituirn unnd die retardata betzalen lassen. Dagegen wollen wir,
+               <lb facs="#facs_5_tr_1_tl_38" n="N033"/>domcapittell, unnsern gerichts leuthen zu Sasell ernstlich befehlen, dem Kloster
+                  <lb facs="#facs_5_tr_1_tl_39" n="N034"/>Hervesthude daß ihrige, so sie inen schuldig, zu entrichten. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">4.6</supplied>
+               Wyr, <w>burger<pc>-</pc>
+                  <lb facs="#facs_5_tr_1_tl_41" n="N035"/>meister</w> unnd raht, wollen auch daß khorn samptt einen wispell<note type="annotation">Hohlmaß (meist für Getreide), Scheffel.</note> weten moltes<note type="annotation">Weizenmalz wird insbesondere zum Bierbrauen eingesetzt.</note> auß
+               <lb facs="#facs_5_tr_1_tl_42" n="N036"/>der muhlen unnd dem Heilligen geiste sonder arrest dem domcapittell folgen<note type="annotation">ausfolgen, zustellen.</note> laissen.
+                  <lb facs="#facs_5_tr_1_tl_43" n="N037"/>Darauß umb deß arrestes willen einem Erb<am>.</am>
+                    <ex>aren</ex> Rahde ein wispell vor zeitten durch <w>freuntt<pc>-</pc>
+                  <lb facs="#facs_5_tr_1_tl_44" n="N038"/>schafftt</w> nachgegeben worden, welliche betzalunge jeder Zeitt gescheen soll unnd gebuert
+               <lb facs="#facs_5_tr_1_tl_46" n="N039"/>zwischen Martini<note type="annotation">Der. 11. November ist der Gedenktag des Heiligen Martin von Tours.</note> unnd Nativitatis Christi<note type="annotation">25. Dezember.</note>. Dagegen wollen wir, domcapittell,
+               <lb facs="#facs_5_tr_1_tl_47" n="N040"/>dem doctori theologiae unnd superintenden in der thumbkirchen, nach bezalunge
+                  <lb facs="#facs_5_tr_1_tl_48" n="N041"/>der statuten, seine geburende hebunge auch folgen lassen. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">4.7</supplied>  
+               Wyr, <w>bur<pc>-</pc>
+                  <lb facs="#facs_5_tr_1_tl_50" n="N042"/>germeister</w> unnd rahtt, wollen auch der thumbkirchen, dem capittell, thesaurarien<note type="annotation">Der Thesaurar war verantwortlich für die Verwaltung der Güter und Vermögenswerte des Domkapitels.</note>,
+               <lb facs="#facs_5_tr_1_tl_51" n="N043"/>kemmerern unnd andern deß capittelß officianten, vicarien unnd commendisten
+               <lb facs="#facs_5_tr_1_tl_52" n="N044"/>ihre gewonttliche jehrliche grunthure<note type="annotation">Grundhur, Grundheuer = Grund- und Bodenzins.</note>, creutz pfenning<note type="annotation">eine jährliche Abgabe am Kreuztag (höchstwahrscheinlich 14. September).</note> unnd andere gefelle, binnen unnd
+               <lb facs="#facs_5_tr_1_tl_53" n="N045"/>fur der statt <rs type="place" ref="#hamburg">Hamburg</rs> allenthalben widerumb folgen unnd die retardata betzalen
+               <lb facs="#facs_5_tr_1_tl_54" n="N046"/>lassen an enden unnd orten, da sie dessen befuegtt zu sein, gebuerlich bescheinen
+               <lb facs="#facs_5_tr_1_tl_55" n="N047"/>werden. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">5.1</supplied>
+               Im fall auch wir, burgermeistere unnd rahtt, oder unnsere
+               <lb facs="#facs_5_tr_1_tl_57" n="N048"/>burgere auff der thumbkirchen unnd capittels oder ihrer verwanten hofe oder
+                  <lb facs="#facs_5_tr_1_tl_58" n="N049"/>grunde in oder ausserhalb <rs type="place" ref="#hamburg">Hamburg</rs>, ohne ihren willen, ethweß gebauwett hetten, <w>daer<pc>-</pc>
+               <!--<lb facs="#facs_5_tr_1_tl_59" n="N050"/>fur-->
+            <pb facs="#facs_6" xml:id="img_0006" n="3r"/>
+            
+                  <lb facs="#facs_6_tr_1_tl_1" n="N001"/>fur</w> sollen die guethern von unns oder unnsern burgern, von wellichen daß gebau <w>ge<pc>-</pc>
+                  <lb facs="#facs_6_tr_1_tl_2" n="N002"/>scheen</w>, befriedigtt werden in allem, darin sie befugtt, bey erster ihrer anforderunge, oder
+               <lb facs="#facs_6_tr_1_tl_3" n="N003"/>wir unnd unsere burgere wollen sollich gebau abbrechen. Unnd nachdem ethweß von
+                  <lb facs="#facs_6_tr_1_tl_5" n="N004"/>deß capittels grunden in der statt vestunghe getzogen, sollichs soll ohne widerstattunge dabey <w>ge<pc>-</pc>
+                  <lb facs="#facs_6_tr_1_tl_6" n="N005"/>laessen</w> werden; sonst wollen wir auch daß Domcapittell, den platz bey dem dohme unnd
+               <lb facs="#facs_6_tr_1_tl_7" n="N006"/>schulldore in itzigem stande lassen unnd khein part daerauff bauwen oder andern zu
+                  <lb facs="#facs_6_tr_1_tl_8" n="N007"/>bauen verstatten. Sonnst soll von wegen der Sieben Höfen zu Hamma<note type="annotation">Hamburg-Hamm.</note>, bey negster <w>Visita<pc>-</pc>
+                  <lb facs="#facs_6_tr_1_tl_9" n="N008"/>tion</w> in jegenwartt der dryer vicarien, so sich der jurisdiction deß orts annehmen, guetliche
+               <lb facs="#facs_6_tr_1_tl_10" n="N009"/>handlonge fuergenommen werden. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">5.2</supplied> 
+               Wir Burgermeistere unnd Rahtt wollen auch hinfuro
+               <lb facs="#facs_6_tr_1_tl_11" n="N010"/>von der gantzen clereseyen unnd deß Domcapittels verwandten gaystlichen stands unnd
+                  <lb facs="#facs_6_tr_1_tl_12" n="N011"/>kirchen dienern obgemeltt, in massen sie von alterßhero darfur gefreyett, khein <w>wachtt<pc>-</pc>
+                  <lb facs="#facs_6_tr_1_tl_13" n="N012"/>geldtt</w>
+                    <note type="annotation">Abgabe zur Besoldung der städtischen Nachtwächter.</note>, stattknechte geldtt<note type="annotation">Abgabe zur Besoldung der städtischen Büttel, Polizeibediensteten.</note>, hennkergeldtt<note type="annotation">Abgabe zur Besoldung des Henkers und Scharfrichters etc.</note>, schott<note type="annotation">Schoss, eine Vermögensabgabe.</note> unnd andere deß gleichen nichtt schatzen.
+               <lb facs="#facs_6_tr_1_tl_14" n="N013"/>Sie sollen auch nichtt bey tage oder nachtt in den graben zu gehen, auch zu wachen gedrungen,
+               <lb facs="#facs_6_tr_1_tl_15" n="N014"/>sonder bey aller freyheitt gelassen werden. Also wollen wir auch auß den
+               <lb facs="#facs_6_tr_1_tl_17" n="N015"/>freyen wohnungen under der decheneien unnd so andern domhern hofen annectirtt
+               <lb facs="#facs_6_tr_1_tl_18" n="N016"/>unnd inverleibtt unnd sonst auff der thumbkirchen unnd andern freyen grundtt unnd
+               <lb facs="#facs_6_tr_1_tl_19" n="N017"/>boddem gelegen, daruon in den alten versiegelten concordien angerurtt, kein schott,
+               <lb facs="#facs_6_tr_1_tl_20" n="N018"/>schatz oder andere burger pflichtt furdern lassen, so ferhne dieselbige von gaistlichen unnd
+               <lb facs="#facs_6_tr_1_tl_21" n="N019"/>kirchendienern werden bewohnett, sondern unns deß enthalten, unnd berurte heuser frey
+                  <lb facs="#facs_6_tr_1_tl_22" n="N020"/>laessen. Aber welttliche sollen steuren, alß obengesetzett. Wir wollen auch der <w>cleri<pc>-</pc>
+                  <lb facs="#facs_6_tr_1_tl_23" n="N021"/>sey</w> gutter mitt einichen arrestt<note type="annotation">Beschlagnahme (?).</note>, ausserhalb ordentlichen rechten, auch mitt inventirunge<note type="annotation">Bestandsaufnahmen, Anfertigung von Inventaren.</note>
+                  <lb facs="#facs_6_tr_1_tl_24" n="N022"/>nichtt beschweren. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">5.3</supplied> 
+               Dagegen haben wyr, domcapittell, nachgegeben, daß obwoll <w>unn<pc>-</pc>
+                  <lb facs="#facs_6_tr_1_tl_25" n="N023"/>ser</w> kemmerer hiebevor in seiner behausunge ohne accyse<note type="annotation">Steuer.</note> weyn unnd byer geschencktt<note type="annotation">ausgeschenkt.</note>,
+               <lb facs="#facs_6_tr_1_tl_26" n="N024"/>daß sollichß hinfuro vorpleiben<note type="annotation">unterbleiben.</note>, aber sonnst genantem kemmerer sein ellerholtz<note type="annotation">Erlenwaldung.</note> samptt
+               <lb facs="#facs_6_tr_1_tl_27" n="N025"/>wischen<note type="annotation">Wiesen.</note> am Billwerder<note type="annotation">Marschland zwischen den Flüssen Bille und Dove Elbe, weiträumiger als der heutige Hamburger Stadtteil gleichen Namens.</note> gelegen, auch der kampe<note type="annotation">eingefriedetes Grundstück, evtl. hier die Einfriedigung selbst (?).</note> fur dem ellerholtze, so viehle von demselbigen
+               <lb facs="#facs_6_tr_1_tl_28" n="N026"/>noch vorhanden, wellichß auff erkundunge bey der negsten visitation steett, gefolget soll
+               <lb facs="#facs_6_tr_1_tl_29" n="N027"/>werden. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">5.4</supplied>  
+               Aber der streitt zwisschen unns, dem domcapittell unnd dem rahde, von wegen
+                  <lb facs="#facs_6_tr_1_tl_30" n="N028"/>einer wische<note type="annotation">Wiese.</note> fur dem Damdore<note type="annotation">Das Dammtor war Teil der Hamburger Wallanlagen, lag zwischen Alt- und Neustadt.</note> unnd einer fur dem Schardohre<note type="annotation">Das Schaartor lag am Südende des Alsterfleets.</note>, item von wegen deß <w>Nording<pc>-</pc>
+                  <lb facs="#facs_6_tr_1_tl_31" n="N029"/>buttelß</w>
+                    <note type="annotation">Bislang nicht identifiziert.</note> soll auff der außfurung unnser beiderseitz rechten beruhen, zu guettlicher handlonge bey
+                  <lb facs="#facs_6_tr_1_tl_32" n="N030"/>der negsten visitation, oder zu rechttlichem außtrage per viam compromissi<note type="annotation">per viam compromissi = auf dem Wege des gerichtlichen Vergleichs (?).</note>, soferne <w>gutt<pc>-</pc>
+                  <lb facs="#facs_6_tr_1_tl_33" n="N031"/>licher</w> enttscheidt alßdan<note type="annotation">d. h. im Zuge der Visitation.</note> nichtt zu erlangen. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">6.1</supplied>
+               Wir, burgermeister unnd rahtt,
+               <lb facs="#facs_6_tr_1_tl_35" n="N032"/>wollen dem domcapittell copeyen aller siegell briefe<note type="annotation">Urkunden.</note> unnd jurium<note type="annotation">der Urkunden über geleistete Amtseide.</note> der doctorien im
+               <lb facs="#facs_6_tr_1_tl_36" n="N033"/>dohme zugehorich, welliche <rs type="person" ref="#moller_wilhelm">Doctor Moller</rs> unns fur etzlichen jahrn auff unnsere kammerey
+               <lb facs="#facs_6_tr_1_tl_37" n="N034"/>geliebertt<note type="annotation">eingeliefert.</note>, in unserm besondern versiegelten reversall<note type="annotation">Reversal, Revers = Gegenbrief, Bestätigung über den Erhalt von Urkunden.</note> zustellen, in wellichem, daß
+               <lb facs="#facs_6_tr_1_tl_38" n="N035"/>solliche briefe bey unnß zu getreuen handen in deposito<note type="annotation">in Aufbewahrung.</note> sein, soll bekhantt werden.</p>
+            <p resp="HOS">
+                    <supplied reason="article_added">6.2</supplied>
+                  <lb facs="#facs_6_tr_1_tl_39" n="N036"/>Wir wollen auch befurdern, daß dem domdechanten, capittell, provisorn unnd gantzer <w>cleri<pc>-</pc>
+                  <lb facs="#facs_6_tr_1_tl_40" n="N037"/>seien</w> auß den ewigen testamenten<note type="annotation">Vermächtnissen auf ewige Zeiten, Gedenkstiftungen.</note>, ihres inhalts, alß nempttlich <rs type="person" ref="#stoer_segebande">Segebandeß Stör</rs>,
+               <lb facs="#facs_6_tr_1_tl_41" n="N038"/>
+                    <rs type="person" ref="#langwedel_joachim">Langwedelß</rs>
+                    <note type="annotation">Magister <rs type="person" ref="#langwedel_joachim">Joachim Langwedel</rs> hatte 1501 testamentarisch eine Stiftung errichtet, aus der Stipendien für Theologie- und Jurastudenten finanziert werden sollten.</note>, <rs type="person" ref="#bantschow_hinrich">Bantzschouwen</rs>
+                    <note type="annotation">Sein Testament aus dem Jahr <date when="1538">1538</date> wird mitgeteilt bei Staphorst, Hamburgische Kirchengeschichte I,4, 464-478 (Jensen, Geistliche, 8f).</note> unnd anderen dergleichen testamenten, jedertzeitt, waß <w>darin<pc>-</pc>
+                  <lb facs="#facs_6_tr_1_tl_42" n="N039"/>ne</w> verordnett, muge gehalten unnd gefolgtt werden. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">6.3</supplied>
+               Also khonnen wir auch leiden unnd
+                  <lb facs="#facs_6_tr_1_tl_43" n="N040"/>wollen befurdern, daß zwisschen unns unnd dem domcapittell guettliche handlonge <w>furge<pc>-</pc>
+                  <lb facs="#facs_6_tr_1_tl_44" n="N041"/>nohmmen</w> unnd billiche vergleichunge getroffen werde von wegen deß Papenwerderß<note type="annotation">Papenwerder ist der nordwestliche Teil von Uhlenhorst (ehemals Papenhude).</note>, 
+               <lb facs="#facs_6_tr_1_tl_45" n="N042"/>Westenhoffstede unnd den waldttmarcken zwischen <rs type="place" ref="#hamburg_fuhlsbuettel">Vulßbuttell</rs> unnd <rs type="place" ref="#hamburg_eppendorf">Eppendorpff</rs>, und
+               <lb facs="#facs_6_tr_1_tl_46" n="N043"/>einer grossen wisch<note type="annotation">Wiese.</note>, dabey gelegen. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">6.4</supplied>
+               Sonst soll in dem Hasenmohr<note type="annotation">Hinter den Domhöfen gelegen, das Gelände diente den Domherren zeitweilig als Abtritt.</note> der alte gebrauch lautt
+               <lb facs="#facs_6_tr_1_tl_47" n="N044"/>daruber auffgerichteden vertrags gehalten unnd auff die jugent und burger kinder mitt
+               <lb facs="#facs_6_tr_1_tl_48" n="N045"/>ernstlicher zuchtigonge gesehen unnd ihnen gewehret werden, die unnsere am thumb
+               <lb facs="#facs_6_tr_1_tl_49" n="N046"/>unnd den angehorigen gebeuen auß zu werffen oder zubrechen unnd sunst deß ordts zu
+               <lb facs="#facs_6_tr_1_tl_50" n="N047"/>fluchen, schwern<note type="annotation">schwören, lästern.</note> oder andern muitwillen unnd unzuchtt<note type="annotation">Disziplinlosigkeit.</note> zu treiben, dagegen wier
+               <lb facs="#facs_6_tr_1_tl_52" n="N048"/>beider seits die geburnuß beschaffen wollen. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">6.5</supplied>
+               Im fall auch nach erkundigter gelegenheitt
+              <!-- <lb facs="#facs_6_tr_1_tl_53" n="N049"/>befunden.-->
+            <pb facs="#facs_7" xml:id="img_0007" n="3v"/>
+            
+               <lb facs="#facs_7_tr_1_tl_1" n="N001"/>befunden wurde, daß zu der ungebuehr<note type="annotation">zur Ungebühr = ungerechtfertigterweise, unzulässigerweise.</note> etwas entwendett von der fundation<note type="annotation">Stiftungsgründung.</note>, juribus unnd
+               <lb facs="#facs_7_tr_1_tl_2" n="N002"/>andern angehorungen Marien zeitten<note type="annotation">zeitliches Gut, das Maria übereignet ist (?).</note>, wollen wir, burgermeistere unnd raht, auff
+                  <lb facs="#facs_7_tr_1_tl_3" n="N003"/>anforderunge des thumbcapittels darumb, auch jegen hern <rs type="person" ref="#moller_joachim">Joachim Mollerß</rs>, ethwan<note type="annotation">einst.</note> <w>raht<pc>-</pc>
+                  <lb facs="#facs_7_tr_1_tl_4" n="N004"/>mans</w> zu <rs type="place" ref="#hamburg">Hamburg</rs>, Heinrichen Ryscher unnd der Alten Soltowischen Erben, so die zu rechte vom <w>dom<pc>-</pc>
+                  <lb facs="#facs_7_tr_1_tl_5" n="N005"/>capittell</w> umb ungebuhrliche verwendunge geisttlicher gutter beschuldigtt werden, ordentlich unnd
+               <lb facs="#facs_7_tr_1_tl_6" n="N006"/>gebuhrlich rechtt ergehn laessen. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">6.6</supplied>
+               Aber von wegen deß newen schedesteins<note type="annotation">Grenzsteins.</note> zwischen <rs type="place" ref="#hamburg-sasel">Sasell</rs>
+               <lb facs="#facs_7_tr_1_tl_7" n="N007"/>unnd der Behren<note type="annotation">Wohl die Vogtei Berne, im heutigen Hamburger Stadtteil <rs type="place" ref="#hamburg_farmsen-berne">Farmsen-Berne</rs> gelegen.</note>, so fernhe bekundigtt kan werden, daß wir beiderseits darumb unnß hie
+               <lb facs="#facs_7_tr_1_tl_8" n="N008"/>bevorr vorgleichett, soll es dabey gelassen werden. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">6.7</supplied> 
+               Nachdem auch die lade, zugehorich
+                  <lb facs="#facs_7_tr_1_tl_9" n="N009"/>
+                    <rs type="person" ref="#langwedel_joachim">Langwedelß</rs> zeligen testament<note type="annotation">Vgl. oben Anm. ???</note>, mitt ihren einvorwarten<note type="annotation">darin verwahrten.</note> clenodien, sziegeln unnd <w>brie<pc>-</pc>
+                  <lb facs="#facs_7_tr_1_tl_10" n="N010"/>fen</w>, auß des eltisten burgermeisters hauß in ihre alte gebürliche stette, alß dem
+               <lb facs="#facs_7_tr_1_tl_11" n="N011"/>doctori theologiae widerumb gelibertt<note type="annotation">eingeliefert.</note> ist, in gleichnuß so bescheinett wurde, daß zwischen
+               <lb facs="#facs_7_tr_1_tl_12" n="N012"/>unns, den burgermeistern unnd rahtt, unnd den testamentarien<note type="annotation">Testamentsvollstreckern.</note> vorgemeltts testaments
+               <lb facs="#facs_7_tr_1_tl_13" n="N013"/>transigirt<note type="annotation">verglichen, übereingekommen.</note> von wegen sechtzigk Lubischer Marck jahrlichen hebunge, wollen wir, domcapittell,
+               <lb facs="#facs_7_tr_1_tl_14" n="N014"/>es dabey laessen. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">6.8</supplied>
+               Aber so befunden wurde, daß von unns, dem rahde, buchsen-pulver<note type="annotation">Schwarzpulver, Schießpulver für Geschütze.</note>
+               <lb facs="#facs_7_tr_1_tl_15" n="N015"/>unter die thumbkirchen gelegtt, dasselbig soll hinweg gebrachtt, aber victrill<note type="annotation">Vitriol (Bezeichnung für kristallwasserhaltige Sulfate zweiwertiger Metalle).</note>, salpetter
+               <lb facs="#facs_7_tr_1_tl_16" n="N016"/>und schwefell<note type="annotation">Salpeter und Schwefel sind (neben Holzkohle) Bestandteile von Schwarzpulver (möglicherweise wurden auch Vitriole für die Rezeptur eingesetzt); solange sie getrennt vorliegen, sind sie nicht explosiv.</note> mag daselbstt gelaessen werden, dergestaltt, wen es dem capittel nichtt
+                  <lb facs="#facs_7_tr_1_tl_17" n="N017"/>lenger leidtlich<note type="annotation">erträglich, hinnehmbar.</note>, wollen wir dieselbigen stuck auch hinwech schaffen, unnd sonnst dem <w>domca<pc>-</pc>
+                     <lb facs="#facs_7_tr_1_tl_18" n="N018"/>pittell</w> wider Werner Rolevingk<note type="annotation">Vmtl. nicht der am <date when="1590-10-03">03. Oktober 1590</date> in <rs type="place" ref="#hamburg">Hamburg</rs> verstorbene Rektor <date from="1575" to="1590">(1575-1590)</date> der Hamburger Gelehrtenschule Johanneum.</note>, da er durch freuntliche abhandlonge sie nichtt wirdett <w>clag<pc>-</pc>
+                  <lb facs="#facs_7_tr_1_tl_19" n="N019"/>loeß</w> machen, geburlich rechtt mitt theilen, unnd gemeltem domcapittell jahrlichß sechs
+                        <lb facs="#facs_7_tr_1_tl_20" n="N020"/>unnd dreyssig Marck Lubisch ungefehrlich aus dem zollen auff Lucie<note type="annotation">13. Dezember.</note> bedagtt, so fernhe die
+               <lb facs="#facs_7_tr_1_tl_21" n="N021"/>Grafen von Schowenborch<note type="annotation">Die Grafen von Schauenburg (Schaumburg) und Holstein-Pinneberg erhoben gemeinsam mit der Stadt <rs type="place" ref="#hamburg">Hamburg</rs> den Schauenburger Zoll, aus dem der hamburgischen Kirche im Mittelalter erhebliche Einkünfte erwuchsen; im Jahr <date when="1561">1561</date> führte <rs type="person" ref="#holstein_schaumburg_otto_iv_von">Otto IV. von Holstein-Schaumburg</rs> die Regierung.</note> daran kheine verhinderung thuen, mitt den retardaten<note type="annotation">Rückständen.</note> betzalen,
+               <lb facs="#facs_7_tr_1_tl_22" n="N022"/>auch sie unnd ihre rithmeistere<note type="annotation">Statthalter, Gerichtsherrn.</note> bey ihrem alten gebrauch in zuchtigung ihrer lantsten<note type="annotation">Landsaten, Landsassen (?).</note> unnd
+               <lb facs="#facs_7_tr_1_tl_23" n="N023"/>leuthe lassen, und so viehle mueglich unnd thuinlich, wollen wir dem thumbcapittell,
+                  <lb facs="#facs_7_tr_1_tl_24" n="N024"/>auff ihre ansuchen, beraten unnd hilfflich erscheinen, damitt ihre domhern hofe durch <w>ge<pc>-</pc>
+                  <lb facs="#facs_7_tr_1_tl_25" n="N025"/>waltt</w>, wider ihren willen, von niemants mugen innegehalten unnd bewohnett werdenn. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">7</supplied>
+                  <lb facs="#facs_7_tr_1_tl_26" n="N026"/>Unndt im fall, da sunst mehr irrige stuck zwischen unnß, domcapittel unnd raht, furhanden, <w>wel<pc>-</pc>
+                  <lb facs="#facs_7_tr_1_tl_27" n="N027"/>liche</w> in dieser concordien außdrucklich nichtt vorglichen, dieselbigen sollen von obgedachten <w>visita<pc>-</pc>
+                  <lb facs="#facs_7_tr_1_tl_28" n="N028"/>torn</w> fur de handtt genommen unnd, so muglich, bey der ersten visitation entscheiden werden.
+               <lb facs="#facs_7_tr_1_tl_29" n="N029"/>Also auch, dahinfurder zu erkundigen, oder bey kunfftiger Visitation sich ereugende, daß etwaß in
+                  <lb facs="#facs_7_tr_1_tl_30" n="N030"/>dieser concordien unbegriffen, daran von rechts unnd billigkeitt wegen dem domcapittell die <w>resti<pc>-</pc>
+                  <lb facs="#facs_7_tr_1_tl_31" n="N031"/>tution</w> geburett, sollichß ist ihnen zu specificiren unnd darauff bey unnß, dem rahde, restitutionem
+                  <lb facs="#facs_7_tr_1_tl_32" n="N032"/>zu erlangende, die ihnen auch geburlich widerfahren soll, furbehalten. Alle kosten, scheden, <w>zerun<pc>-</pc>
+                  <lb facs="#facs_7_tr_1_tl_33" n="N033"/>ge</w>, bottenlohn, unnd waß sonst wir, domcapittell, an einem, unnd wir, burgermeister unnd
+               <lb facs="#facs_7_tr_1_tl_34" n="N034"/>rahtt mitt unsern consorten<note type="annotation">Teilhabern, Genossen.</note>, anderß theilß, auff diese sache unnd von wegen derselbigen in oder
+               <lb facs="#facs_7_tr_1_tl_35" n="N035"/>ausserhalb gerichts auffgewendet, wie dasselbige nahmen haben mochte, sollich alleß unnd jedeß haben
+                  <lb facs="#facs_7_tr_1_tl_36" n="N036"/>wir auß freiem willen jegen einander compensirtt<note type="annotation">ausgeglichen, aufgerechnet.</note>, zu dem auch wyr, domcapittell, unser <w>in<pc>-</pc>
+                  <lb facs="#facs_7_tr_1_tl_37" n="N037"/>teresse</w> unnd anteill an den condemnatis<note type="annotation">Strafgeldern(?).</note> dem Erb<am>.</am>
+                    <ex>aren</ex> Rahde unnd gemeiner statt <rs type="place" ref="#hamburg">Hamburg</rs> nachgegeben<note type="annotation">erlassen.</note>. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">8</supplied>
+               <lb facs="#facs_7_tr_1_tl_38" n="N038"/>Dagegen haben wir, burgermeistere unnd rahtt guitthertziglich angesehen die jegenwertigen
+               <lb facs="#facs_7_tr_1_tl_39" n="N039"/>baufelligkeitt der domkirchen zu <rs type="place" ref="#hamburg">Hamburg</rs> unnd den unvermugen, darein daß domcapittell
+               <lb facs="#facs_7_tr_1_tl_40" n="N040"/>durch allerhandtt widerigen zustandtt gerathen, unnd ihnen funff tausent Marck Lubisch<note type="annotation">Vgl. oben Anm. ???</note>
+               <lb facs="#facs_7_tr_1_tl_41" n="N041"/>inwendich<note type="annotation">binnen.</note> zehen jahren zu betzalen glaublich versprochen unnd verschrieben, inhalts
+               <lb facs="#facs_7_tr_1_tl_42" n="N042"/>eyner besondern obligation, so wir ihnen daruber gegeben. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">9.1</supplied> 
+               Im fall auch kunfftigers,
+               <lb facs="#facs_7_tr_1_tl_43" n="N043"/>unserer ein theill von dem andern wider diese concordia beschweret zu sein vermeinen
+               <lb facs="#facs_7_tr_1_tl_44" n="N044"/>würde unnd wir under unnß darumb nicht khenten freuntlich verglichen werden, haben
+               <lb facs="#facs_7_tr_1_tl_45" n="N045"/>wir freywilliglich unns hiemitt volgender gestaltt in ein ewig werend compromiß begeben:
+               <lb facs="#facs_7_tr_1_tl_46" n="N046"/>Das bey dem Ehrw<am>.</am>
+                    <ex>ürdigen</ex> Thumcapittell zu <rs type="place" ref="#bremen_erzstift">Bremen</rs>, wellich wir, domcapittell zu <rs type="place" ref="#hamburg">Hamburg</rs>,
+               <lb facs="#facs_7_tr_1_tl_47" n="N047"/>unnd dem Erb<am>.</am>
+                    <ex>aren</ex> Rathe der statt <rs type="place" ref="#lueneburg_stadt">Luneburg</rs>, welliche wir, der rahtt zu <rs type="place" ref="#hamburg">Hamburg</rs>, darzu erbetten
+                        <lb facs="#facs_7_tr_1_tl_49" n="N049"/>unnd hiemitt<note type="crit_app">Einschub über der Zeile.</note> bonennet haben, der clagende theill seine nottorfft anzeigen sollen, unnd ob dieselbe
+               <lb facs="#facs_7_tr_1_tl_50" n="N050"/>vormittelß guittlicher handlong durch ihre vollmechtige<note type="annotation">Bevollmächtigten.</note> oder commissarien den irsallen<note type="annotation">Verwicklungen, Verwirrungen, Störungen.</note>
+               <!--<lb facs="#facs_7_tr_1_tl_51" n="N051"/>nichtt-->
+                <pb facs="#facs_8" xml:id="img_0008" n="4r"/>
+           
+                  <lb facs="#facs_8_tr_1_tl_1" n="N001"/>nichtt abhelffen konten, daß alßdan dieselben, durch schleunigen schrifftlichen process, <w>bei<pc>-</pc>
+                  <lb facs="#facs_8_tr_1_tl_2" n="N002"/>der</w> theill nottorfftt zu rechte annehmen, unnd unns inwendig jahres fristt, von zeitt <w>ange<pc>-</pc>
+                  <lb facs="#facs_8_tr_1_tl_3" n="N003"/>stalter</w> gerichttlicher clage anzurechnen, durch ihr laudum<note type="annotation">Schiedsspruch.</note>, machtspruch unnd willkohrlich<note type="annotation">nach freiem Ermessen gestaltet.</note>
+                  <lb facs="#facs_8_tr_1_tl_4" n="N004"/>erkenthnuß<note type="annotation">Urteilsspruch.</note> entscheiden sollen. Dabey es auch ohne alle appellation<note type="annotation">Berufung (an eine höhere Instanz).</note>, reduction<note type="annotation">Urteilsläuterung, gerichtliche Urteilsüberprüfung durch eine höhere Instanz.</note> oder <w>eini<pc>-</pc>
+                  <lb facs="#facs_8_tr_1_tl_5" n="N005"/>ge</w> ausfluchtt, wie die schein unnd nahmen haben mochte, soll gelassen unnd dem laudo und
+               <lb facs="#facs_8_tr_1_tl_6" n="N006"/>machtspruch von unß beider seits gehorsambtt werden, bey peen<note type="annotation">Strafe.</note> zweier tausent gulden,
+                  <lb facs="#facs_8_tr_1_tl_7" n="N007"/>idern gulden zu vier unnd zwantzich schillingen Lubisch zu rechnen. Eß soll auch <w>daer<pc>-</pc>
+                  <lb facs="#facs_8_tr_1_tl_8" n="N008"/>auff</w> der gewinnende theill wider den ungehorsamen am keyserlichen cammergerichtt <w>exe<pc>-</pc>
+                  <lb facs="#facs_8_tr_1_tl_9" n="N009"/>cution</w> auff daß laudum oder urtheill, in geleichnuß auch auff die berurte geldtt peen,
+               <lb facs="#facs_8_tr_1_tl_10" n="N010"/>nichtt weiniger zu bitten unnd wurcklich zu prosequiren haben, alß ob sollich laudum
+               <lb facs="#facs_8_tr_1_tl_11" n="N011"/>oder urtheill an wollgemeltem cammergerichtt wehre außgesprochen. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">9.2</supplied> 
+               Im fall auch
+               <lb facs="#facs_8_tr_1_tl_12" n="N012"/>die gerurte scheideß herrn<note type="annotation">Scheidesherrn = Schlichter, Vermittler, Schiedsleute.</note> durch ihre verordenten, in guthe oder durch ihre rechtliche außspruch,
+               <lb facs="#facs_8_tr_1_tl_13" n="N013"/>unns jegeneinander inwendig eineß jahreß fristt, in maessen furgesetztt, nichtt entscheiden
+                  <lb facs="#facs_8_tr_1_tl_14" n="N014"/>wurden, alßdan soll dem clagenden theill hiemitt vuerbehalten sein, seine clage am <w>keyser<pc>-</pc>
+                     <lb facs="#facs_8_tr_1_tl_15" n="N015"/>lichen</w> cammergerichtt oder regiment, so von wegen der Key<am>:</am>
+                    <ex>serliche</ex>n May<ex>estä</ex>tt<am>.</am>
+                    <ex>e</ex>n unnd deß heiligen <rs type="place" ref="#heiliges_roemisches_reich">Reichß</rs>
+               <lb facs="#facs_8_tr_1_tl_16" n="N016"/>in teutschen landen zu jedertzeitt sein wirdet, anhengig zu machen unnd außzufuhren.
+                  <lb facs="#facs_8_tr_1_tl_17" n="N017"/>Dagegen auch der beclagte theill fori declinatoriam<note type="annotation">exceptio fori declinatioria = Einrede gegen die Zuständigkeit des Gerichts (?).</note> oder andre gleichmessige behelff, nicht <w>inn<pc>-</pc>
+                  <lb facs="#facs_8_tr_1_tl_19" n="N018"/>wenden</w> soll. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">10.1</supplied>
+               Wyr, burgermeistere unnd rahtt, wollen hinfuro in allem guten den
+                  <lb facs="#facs_8_tr_1_tl_20" n="N019"/>thumbprobst, dechantt unnd capittell unns lassen befolhen sein, die schutzen unnd schirmen, auch <w>nie<pc>-</pc>
+                  <lb facs="#facs_8_tr_1_tl_21" n="N020"/>mants</w>, daruber wir zu gebieten oder vorbieten haben, wissentlich verstatten, sie zu verachtten oder
+                  <lb facs="#facs_8_tr_1_tl_22" n="N021"/>die personen zuvorkleineren<note type="annotation">herabzusetzen.</note>, schmehen, iniuryrn<note type="annotation">beleidigen, kränken.</note> oder bespotten, sondern da wir dessen <w>gnug<pc>-</pc>
+                  <lb facs="#facs_8_tr_1_tl_23" n="N022"/>sam</w> berichtett, der gebuhr nach straffen. Dagegen wollen auch wir, domdechant unnd
+               <lb facs="#facs_8_tr_1_tl_24" n="N023"/>capittell neben unnd mitt unserm thumbprobst, aller bescheidenheitt unns wissen zu gebrauchen
+               <lb facs="#facs_8_tr_1_tl_25" n="N024"/>unnd nichts, wie obsteett, verursachen. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">10.2</supplied>  
+               Waß auch fuer personen von unnser beiderseits wegen
+                  <lb facs="#facs_8_tr_1_tl_26" n="N025"/>in dieser sache sich haben laessen gebrauchen, sollen derhalben von kheinem theile <w>benei<pc>-</pc>
+                  <lb facs="#facs_8_tr_1_tl_27" n="N026"/>dett</w> oder gehassett, dargegen auch nichts heimlich oder offentlich practizierett oder <w>fur<pc>-</pc>
+                  <lb facs="#facs_8_tr_1_tl_28" n="N027"/>genommen</w> werden, sonder wyr, domcapittell unnd rahtt vorgemeltt, auch unsere <w>nach<pc>-</pc>
+                  <lb facs="#facs_8_tr_1_tl_29" n="N028"/>khommen</w> an dem capittell unnd statt <rs type="place" ref="#hamburg">Hamburg</rs>, unnd unser beiderseitz mithbeschriebne, sollen
+               <lb facs="#facs_8_tr_1_tl_30" n="N029"/>unnd wollen alles, wie obstehtt, samptt unnd besonder mitt alle seinen inhaltungen, clausulen
+                  <lb facs="#facs_8_tr_1_tl_31" n="N030"/>unnd articuln wahr, stehtt, fest unnd erbahrlich haltten unnd dieser concordien <w>auffrich<pc>-</pc>
+                  <lb facs="#facs_8_tr_1_tl_32" n="N031"/>tig</w> unnd unverweißlich nachleben, dawider wissentlich nummer thuen, in wasserley
+               <lb facs="#facs_8_tr_1_tl_33" n="N032"/>schein unnd nahmen daß auch geschehen mochte, unnd verzeihen<note type="annotation">verzichten.</note> unns, fuehr unns unnd unsere
+               <lb facs="#facs_8_tr_1_tl_34" n="N033"/>mitt benante an beiden theilen, hiemitt aller privilegien, freiheiten unnd gnade, die jeder theile
+               <lb facs="#facs_8_tr_1_tl_35" n="N034"/>gegeben seind oder hinfuro hiewider gegeben und erworben werden mochten, unnd sunst alleß
+                  <lb facs="#facs_8_tr_1_tl_36" n="N035"/>deß, damitt wir unnd jedes theill insonderheitt wider diesen vertrag sich beschirmen oder <w>be<pc>-</pc>
+                  <lb facs="#facs_8_tr_1_tl_37" n="N036"/>helffen</w> khonte oder mochte. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">10.3</supplied> 
+               Unnd nahmhafftiglich wir, domcapittell, renuncijren<note type="annotation">widerrufen.</note> hiemitt liti
+                  <lb facs="#facs_8_tr_1_tl_38" n="N037"/>et causae absque ulla protestatione et reservatione<note type="annotation">Klagen und Fälle ohne jeglichen Protest und Vorbehalt.</note>, so von obengesettzter stuck wegen, am <w>keyser<pc>-</pc>
+                  <lb facs="#facs_8_tr_1_tl_39" n="N038"/>lichen</w> cammergericht biß auff diese zeitt anhengig gewesen, in aller besten unnd bestendigsten
+               <lb facs="#facs_8_tr_1_tl_40" n="N039"/>form rechtenß, lautt eins besondern daruber auffgerichteden instrumentts, haben auch zu
+               <lb facs="#facs_8_tr_1_tl_41" n="N040"/>mehrer befestigung dem Erbarn Rahde die erlangte executorialn<note type="annotation">executoriale = Gebotsbrief.</note> ubergeben. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">10.4</supplied> 
+               Also
+               <lb facs="#facs_8_tr_1_tl_42" n="N041"/>auch wir, burgermeister unnd rahtt, cassirn und heben auff hiemitt in bester form
+               <lb facs="#facs_8_tr_1_tl_43" n="N042"/>rechtenß das jenige, so ethwan durch unsere unnd gemeine statt <rs type="place" ref="#hamburg">Hamburg</rs> verordnung
+               <lb facs="#facs_8_tr_1_tl_44" n="N043"/>oder receß<note type="annotation">Beschluss, Verordnung.</note> mochte eingeführett sein, so weith unnd fernhe dasselbige dieser concordien zuwider
+                  <lb facs="#facs_8_tr_1_tl_45" n="N044"/>verstanden unnd außgelegtt khonte werden, argelistt und gefehrde von dem allem <w>gentz<pc>-</pc>
+                  <lb facs="#facs_8_tr_1_tl_47" n="N045"/>lich</w> außgeschlossen. </p>
+            <p resp="HOS">
+                    <supplied reason="article_added">11</supplied> 
+               Unnd nachdem vorgesetztter massen diese sache abgehandlett unnd
+               <lb facs="#facs_8_tr_1_tl_48" n="N046"/>mitt unnser beider partt wissen unnd guten willen verglichen unnd vertragen unnd in
+               <lb facs="#facs_8_tr_1_tl_49" n="N047"/>diese schrifftliche concordia verfassett sein, so haben wir, domdechant, senior unnd capittell
+               <lb facs="#facs_8_tr_1_tl_50" n="N048"/>der domkirchen, unnd wir, burgermeister unnd rahtt der statt <rs type="place" ref="#hamburg">Hamburg</rs>, fur unnß
+               <!--<lb facs="#facs_8_tr_1_tl_51" n="N049"/>und-->
+            <pb facs="#facs_9" xml:id="img_0009" n="4v"/>
+            
+                  <lb facs="#facs_9_tr_1_tl_1" n="N001"/>unnd unser beiderseits nachkhommen unnd mithbenante an gemeltem capittell unnd statt, <w>un<pc>-</pc>
+                  <lb facs="#facs_9_tr_1_tl_2" n="N002"/>serer</w> kirchen unnd statt sziegell wissentlichen heissen hangen an diesen brieff, deren zwey
+               <lb facs="#facs_9_tr_1_tl_3" n="N003"/>eynes inhaltts gemachtt unnd iderm theill einer daervon zu gestellett ist. Wir haben
+               <lb facs="#facs_9_tr_1_tl_4" n="N004"/>auch die Ehrwirdige, Ernttvheste, Hochgelarte, Erbahre unnd Weyse Hern Domprobsten,
+               <lb facs="#facs_9_tr_1_tl_5" n="N005"/>Domdechantt, Seniorn unnd Capittell deß Ertzstifftts <rs type="place" ref="#bremen_erzstift">Bremen</rs> unnd Burgermeistere
+               <lb facs="#facs_9_tr_1_tl_6" n="N006"/>unnd Raht der statt <rs type="place" ref="#lueneburg_stadt">Lunenburg</rs> freuntlich vermochtt, mitt ihreß capittelß unnd statt
+               <lb facs="#facs_9_tr_1_tl_7" n="N007"/>siegell, umb mehrer wissenschafftt willen, diesen brieff neben unns zu befestigen,
+               <lb facs="#facs_9_tr_1_tl_8" n="N008"/>unnd bekhennen wir, domcapittell zu <rs type="place" ref="#bremen_erzstift">Bremen</rs> unnd rahtt zu <rs type="place" ref="#lueneburg_stadt">Lunenburg</rs>, daß wir
+               <lb facs="#facs_9_tr_1_tl_9" n="N009"/>auff obengesetzter partheien freuntlich gesinnen unsers capittels unnd statt sziegell,
+               <lb facs="#facs_9_tr_1_tl_10" n="N010"/>mehrer wissenschafftt halben, idoch unns unnd unsern nachkhommen ohne schaden,
+               <lb facs="#facs_9_tr_1_tl_11" n="N011"/>neben deß capittelß unnd rahdeß zu <rs type="place" ref="#hamburg">Hamburg</rs> sziegeln haben befohlen zu hangen an
+               <lb facs="#facs_9_tr_1_tl_12" n="N012"/>diesen brieff. Wellicher gegeben unnd geschrieben ist binnen<note type="annotation">in, innerhalb von.</note> <rs type="place" ref="#bremen">Bremen</rs> auff dem
+               <lb facs="#facs_9_tr_1_tl_14" n="N013"/>thumbcapittel hause <date when="1561-05-02">nach unnserß hern unnd selichmacherß geburtt tausent funff
+                  <lb facs="#facs_9_tr_1_tl_15" n="N014"/>hundertt eyn unnd sexich den zweyten tagk May</date>. Vnderhandlerß hern, die
+               <lb facs="#facs_9_tr_1_tl_16" n="N015"/>Erwurdige Ernueste hochgelarte vnnd Erbare Eren <rs type="person" ref="#varendorp_ludolph">Ludolff von Varendorpp</rs>,
+               <lb facs="#facs_9_tr_1_tl_17" n="N016"/>thumbprobstt, et <rs type="person" ref="#hyncke_joachim">Joachim Hinke</rs>, der rechten doctor unnd thumbdechant, vnnd <rs type="person" ref="#hude_segebade">Segebade
+               <lb facs="#facs_9_tr_1_tl_18" n="N017"/>von der Hude</rs>, probst zu S. Anscharij zu <rs type="place" ref="#bremen">Bremen</rs>. Von wegen deß humbcapittelß
+               <lb facs="#facs_9_tr_1_tl_19" n="N018"/>zu <rs type="place" ref="#hamburg">Hamburg</rs> vorhandelerß die auch Erwurdige Ernueste unnd Erbahre <rs type="person" ref="#witmer_hinrich">Hinricus
+               <lb facs="#facs_9_tr_1_tl_20" n="N019"/>Witthmar</rs>, dechant, <rs type="person" ref="#schlueter_johann">Johann Schluter</rs>, structurarius, <rs type="person" ref="#eckleff_johannes">Johannes Eickleff</rs>, cantor,
+                  <lb facs="#facs_9_tr_1_tl_21" n="N020"/>
+                    <rs type="person" ref="#barkey_antonius">Anthonius Borkey</rs>, <rs type="person" ref="#wersabe_boldewin">Boldewyn von Werßbe</rs> unnd <rs type="person" ref="#justus_bartholomaeus">Bartholomeus Justus</rs>, <w>secreta<pc>-</pc>
+                  <lb facs="#facs_9_tr_1_tl_22" n="N021"/>rius</w>. Von wegen eynes Erbarn Raedts zu <rs type="place" ref="#hamburg">Hamburgk</rs> vorordnete unnd <w>abge<pc>-</pc>
+                  <lb facs="#facs_9_tr_1_tl_24" n="N022"/>sante</w>, die Achtbare Weise hochgelarte unnd Erbare hern <rs type="person" ref="#hackemann_albert">Albertt Hackemann</rs>, <rs type="person" ref="#niebur_laurens">
+                        <w>Lau<pc>-</pc>
+                  <lb facs="#facs_9_tr_1_tl_25" n="N023"/>renß</w> Nyebuer</rs>, beide burgermeistere, <rs type="person" ref="#moller_wilhelm">Wilhelm Moller</rs>, doctor unnd syndicus,
+               <lb facs="#facs_9_tr_1_tl_26" n="N024"/>
+                    <rs type="person" ref="#wetken_hermann">Herman Wettke</rs> unndt <rs type="person" ref="#vogler_nicolas">Nicolaeß Vogler</rs>, der rechten licentiaten, beide raedtmanne zu
+               <lb facs="#facs_9_tr_1_tl_27" n="N025"/>
+                    <rs type="place" ref="#hamburg">Hamburgk</rs>, <rs type="person" ref="#rheder_hinrich">Hinrich Reederß</rs> unnd <rs type="person" ref="#beckmann_lucas">Lucas Bekemann</rs>, heillige leichamß schworen<note type="annotation">Leichnamsgeschworene = Kirchengeschworene in <rs type="place" ref="#hamburg">Hamburg</rs>, an der Verwaltung der Kirchengemeinde beteiligte vereidigte Gemeindeglieder.</note>
+               <lb facs="#facs_9_tr_1_tl_28" n="N026"/>zu S. Niclaen unnd S. Peter auß der gemeynn.
+            </p>
+         </div>
+      </body>
+   </text>
+</tei:TEI>

@@ -1,0 +1,415 @@
+<span class="lineNumber">1</span>Wir, <button class="entity #albrecht_mainz person" data-ref="albrecht_mainz" data-type="person" id="d2e199">Albrecht</button>, von gots gnaden, der hayligen Römischen kirchen des Titels <br/>
+<span class="lineNumber">2</span>Sancti petri ad vincula priester, Cardinal Legatus natus, Ertzbischof <br/>
+<span class="lineNumber">3</span>zu <button class="entity #magdeburg_erzstift place" data-ref="magdeburg_erzstift" data-type="place" id="d2e206">Magdeburgk</button> und <button class="entity #mainz_erzdioezese place" data-ref="mainz_erzdioezese" data-type="place" id="d2e210">Meintz</button>, Primas des <button class="entity #roemisches_reich place" data-ref="roemisches_reich" data-type="place" id="d2e213">hayligen Romischen </button><br/>
+<span class="lineNumber">4</span><button class="entity #roemisches_reich place" data-ref="roemisches_reich" data-type="place" id="d2e213">Reichs</button> durch Germanien, Ertzcantzler<a class="fnNumber" href="#F_1" id="A_1">1</a> und Churfurst, Administra-<br/>
+<span class="lineNumber">5</span>tor<a class="fnNumber" href="#F_2" id="A_2">2</a> des Stiffts zu <button class="entity #halberstadt_hochstift place" data-ref="halberstadt_hochstift" data-type="place" id="d2e233">Halberstadt</button>, Marggraven zu <button class="entity #brandenburg_markgrafschaft place" data-ref="brandenburg_markgrafschaft" data-type="place" id="d2e237">Brandenburgk</button>, zu <br/>
+<span class="lineNumber">6</span><button class="entity #pommern_stettin_herzogtum place" data-ref="pommern_stettin_herzogtum" data-type="place" id="d2e241">Stettin</button>, <button class="entity #pommern_herzogtum place" data-ref="pommern_herzogtum" data-type="place" id="d2e244">Pommern</button>, der Cassuben<a class="fnNumber" href="#F_3" id="A_3">3</a> und wenden<a class="fnNumber" href="#F_4" id="A_4">4</a> hertzog, Burggraff zu <button class="entity #nuernberg_burggrafschaft place" data-ref="nuernberg_burggrafschaft" data-type="place" id="d2e254">Nur-</button><br/>
+<span class="lineNumber">7</span><button class="entity #nuernberg_burggrafschaft place" data-ref="nuernberg_burggrafschaft" data-type="place" id="d2e254">embergk</button> und Furst zu <button class="entity #ruegen_fuerstentum place" data-ref="ruegen_fuerstentum" data-type="place" id="d2e262">Ruhgen</button>, und von denselben gnaden <br/>
+<span class="lineNumber">8</span>Wir, <button class="entity #georg_sachsen person" data-ref="georg_sachsen" data-type="person" id="d2e267">Georg</button>, Hertzog zu <button class="entity #sachsen_albertinisches place" data-ref="sachsen_albertinisches" data-type="place" id="d2e270">Sachssen</button>, Landtgraf in <button class="entity #thueringen_landgrafschaft place" data-ref="thueringen_landgrafschaft" data-type="place" id="d2e273">doringen</button> und Marg-<br/>
+<span class="lineNumber">9</span>graf zu <button class="entity #meissen_markgrafschaft place" data-ref="meissen_markgrafschaft" data-type="place" id="d2e284">Meyssen</button>, bekennen und thun kundt <br/>
+<span class="lineNumber">10</span>an diesem Offnen brieve<a class="fnNumber" href="#F_5" id="A_5">5</a>: Nachdem und als zcwuschen dem <br/>
+<span class="lineNumber">11</span>aller durchleuchtigen, Grosmechtigen, hochgebornen Fursten und hern, <br/>
+<span class="lineNumber">12</span>hern <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e297">Ferdinando</button>, Römischem kunige, zu allen zeitten mehrer<a class="fnNumber" href="#F_6" id="A_6">6</a> des <button class="entity #roemisches_reich place" data-ref="roemisches_reich" data-type="place" id="d2e308">Reichs</button>, <br/>
+<span class="lineNumber">13</span>in Germanien, zu <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e313">Hungarn</button>, <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e316">Beheim</button>, <button class="entity #dalmatien place" data-ref="dalmatien" data-type="place" id="d2e320">Dalmatien</button> und <button class="entity #kroatien_koenigreich place" data-ref="kroatien_koenigreich" data-type="place" id="d2e323">Croatien</button> etc. <br/>
+<span class="lineNumber">14</span>kunig, Infant<a class="fnNumber" href="#F_7" id="A_7">7</a> in <button class="entity #spanien_koenigreich place" data-ref="spanien_koenigreich" data-type="place" id="d2e331">Hispanien</button>, Ertzhertzogen zu <button class="entity #oesterreich_erzherzogtum place" data-ref="oesterreich_erzherzogtum" data-type="place" id="d2e334">Osterreich</button>, hertzogen <br/>
+<span class="lineNumber">15</span>zu <button class="entity #burgund_herzogtum place" data-ref="burgund_herzogtum" data-type="place" id="d2e340">Burgundi</button>, <button class="entity #brabant_herzogtum place" data-ref="brabant_herzogtum" data-type="place" id="d2e343">Brabandt</button> etc., Graven zu <button class="entity #tirol_grafschaft place" data-ref="tirol_grafschaft" data-type="place" id="d2e346">Tyrol</button> et., unserm gnedigsten <br/>
+<span class="lineNumber">16</span>hern an einem, und dem hochgepornen fursten, hern <button class="entity #johann_friedrich_sachsen person" data-ref="johann_friedrich_sachsen" data-type="person" id="d2e351">Johans Fride-</button><br/>
+<span class="lineNumber">17</span><button class="entity #johann_friedrich_sachsen person" data-ref="johann_friedrich_sachsen" data-type="person" id="d2e351">richen</button>, hertzogen zu <button class="entity #sachsen_ernestinisches place" data-ref="sachsen_ernestinisches" data-type="place" id="d2e361">Sachssen</button>, des <button class="entity #roemisches_reich place" data-ref="roemisches_reich" data-type="place" id="d2e364">hayligen Romischen Reichs</button> Ertz-<br/>
+<span class="lineNumber">18</span>marschalh<a class="fnNumber" href="#F_8" id="A_8">8</a>, Churfursten, Landtgraven in <button class="entity #thueringen_landgrafschaft place" data-ref="thueringen_landgrafschaft" data-type="place" id="d2e393">doringen</button> und Marg-<br/>
+<span class="lineNumber">19</span>graven zu <button class="entity #meissen_markgrafschaft place" data-ref="meissen_markgrafschaft" data-type="place" id="d2e404">Meyssen</button>, unserm freuntlichem, lieben hern Ohmen, <br/>
+<span class="lineNumber">20</span>Brudern und vedter,<a class="fnNumber" href="#F_9" id="A_9">9</a> sampt derselben mitt vorwantten anders tayls, <br/>
+<span class="lineNumber">21</span>sich ein zeit her ettlich zwyspaldt und geprechen<a class="fnNumber" href="#F_10" id="A_10">10</a>, von wegen irer <br/>
+<span class="lineNumber">22</span><button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e419">Romischen konigklichen Mayestat</button> bescheene wahl zu Romischem ku-<br/>
+<span class="lineNumber">23</span>nige, dawider bemeltter<a class="fnNumber" href="#F_11" id="A_11">11</a> <button class="entity #johann_friedrich_sachsen person" data-ref="johann_friedrich_sachsen" data-type="person" id="d2e432">Churfurst zu Sachssen</button>, sampt seinen mit-<br/>
+<span class="lineNumber">24</span>vorwantten, aus ettlichen, vorgewantten ursachen, protestirt,<a class="fnNumber" href="#F_12" id="A_12">12</a> auch <br/>
+<span class="lineNumber">25</span>von wegen ettlicher disputation<a class="fnNumber" href="#F_a" id="A_a">a</a> und irrung, so des <button aria-label="opens information about an entity" class="entity event" data-ref="#anstand_nuernberg_1532">fridestandts</button> <br/>
+<span class="lineNumber">26</span>halber, jungst zu <button class="entity #nuernberg place" data-ref="nuernberg" data-type="place" id="d2e456">Nurembergk</button> in der Religion sache behandelt <br/>
+<span class="lineNumber">27</span>und durch die <button class="entity #karl_v person" data-ref="karl_v" data-type="person" id="d2e462">Romische kayserliche Maiestat</button> auffgericht<a class="fnNumber" href="#F_13" id="A_13">13</a>, ettlicher <br/>
+<span class="lineNumber">28</span>am kayserlichen Camergericht vorgenohmenen proceß halben vor-<br/>
+<span class="lineNumber">29</span>gefallen, unentschayden gehaltten. Das wir <button class="entity #roemisches_reich place" data-ref="roemisches_reich" data-type="place" id="d2e477">dem hayligen </button><br/>
+<span class="lineNumber">30</span><button class="entity #roemisches_reich place" data-ref="roemisches_reich" data-type="place" id="d2e477">Reich deutzscher nation</button> zu nutz, Ehren und wolfarth, auch allen <br/>
+<span class="lineNumber">31</span>Stenden desselben zu ruhe, fride und aynigkeitt, auf gnedig zulassung <br/>
+<span class="lineNumber">32</span>hochgemeltter<a class="fnNumber" href="#F_14" id="A_14">14</a> <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e490">konigklicher Maiestat</button>, auch mit bewilligung g[e]nants <br/>
+<span class="lineNumber">33</span>unsers Ohmen, Brudern und vedtern, des <button class="entity #johann_friedrich_sachsen person" data-ref="johann_friedrich_sachsen" data-type="person" id="d2e495">Churfursten zu Sachssen</button>, <br/>
+<span class="lineNumber">34</span>von wegen sein und seiner mit vorwantten, uns gantzer getrawer <br/>
+<span class="lineNumber">35</span>wolmaynunge in solchen geprechen guetlich zu handeln, eingelassen <br/>
+<span class="lineNumber">36</span>haben. Und so dann eben zur selben zeit, als wir in <br/>
+<span class="lineNumber">37</span>solcher handlung gestanden, sich zugetragen, das die hochgebornen <br/>
+<span class="lineNumber">38</span>Fursten, her <button class="entity #ulrich_wuerttemberg person" data-ref="ulrich_wuerttemberg" data-type="person" id="d2e509">Ulrich</button>, hertzog zu <button class="entity #wuerttemberg_herzogtum place" data-ref="wuerttemberg_herzogtum" data-type="place" id="d2e512">Wirttembergk</button> und Grave zu <button class="entity #teck_herzogtum place" data-ref="teck_herzogtum" data-type="place" id="d2e516">Deck</button> etc., <br/>
+<span class="lineNumber">39</span>und her <button class="entity #philipp_hessen person" data-ref="philipp_hessen" data-type="person" id="d2e521">Phillips</button>, Landtgraf zu <button class="entity #hessen_landgrafschaft place" data-ref="hessen_landgrafschaft" data-type="place" id="d2e524">Hessen</button>, Graf zu <button class="entity #katzenelnbogen_grafschaft place" data-ref="katzenelnbogen_grafschaft" data-type="place" id="d2e527">Catzenellnpogen</button>, <br/>
+<span class="lineNumber">40</span>zu <button class="entity #diez_grafschaft place" data-ref="diez_grafschaft" data-type="place" id="d2e533">Dietz</button>, <button class="entity #ziegenhain_grafschaft place" data-ref="ziegenhain_grafschaft" data-type="place" id="d2e536">Zygenhayn</button> und <button class="entity #nidda_grafschaft place" data-ref="nidda_grafschaft" data-type="place" id="d2e539">Neyda</button> etc., unsere lieben Ohmen und Shon<a class="fnNumber" href="#F_15" id="A_15">15</a>, <br/>
+<span class="lineNumber">41</span>understanden, das <button class="entity #wuerttemberg_herzogtum place" data-ref="wuerttemberg_herzogtum" data-type="place" id="d2e547">hertzogthumb zu Wirttembergk</button> zu ubertzyhen<a class="fnNumber" href="#F_16" id="A_16">16</a>, eyn-<br/>
+<span class="lineNumber">42</span>zunehmen und zu erobern. Wie sie auch dasselbig sampt seinen vest-<br/>
+<span class="lineNumber">43</span>ungen gantz erobert und eyngenomen hetten, auch in weytherm <br/>
+<span class="lineNumber">44</span>furnehmen gestanden, daraus, wo solchem nit vorkommen<a class="fnNumber" href="#F_17" id="A_17">17</a>, mergk-<br/>
+<span class="lineNumber">45</span>licher unrath<a class="fnNumber" href="#F_18" id="A_18">18</a> im <button class="entity #roemisches_reich place" data-ref="roemisches_reich" data-type="place" id="d2e584">hayligen Reich</button> hette ervolgen mögen, des wir <br/>
+<span class="lineNumber">46</span>dann die <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e589">konigkliche Maiestat</button>, die herwiderumb auch in tapfferer<a class="fnNumber" href="#F_19" id="A_19">19</a> <br/>
+<span class="lineNumber">47</span>krigsrustung, solchem vornehmen mit der that<a class="fnNumber" href="#F_20" id="A_20">20</a> zu begegenen und das-<br/>
+<span class="lineNumber">48</span>selbige <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e608">irer Maiestat</button> abgedrungen<a class="fnNumber" href="#F_21" id="A_21">21</a> <button class="entity #wuerttemberg_herzogtum place" data-ref="wuerttemberg_herzogtum" data-type="place" id="d2e614">Furstenthumb</button> wider zu erlangen, <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-Bl. 1v"> [Blatt: Bl. 1<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">49</span>gestanden ist, aus schuldiger pflicht underthenigklich erinnert und gebe-<br/>
+<span class="lineNumber">50</span>thern, das ire <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e629">konigkliche Maiestat</button> in ansehung itziger leufft und <br/>
+<span class="lineNumber">51</span>beschwerungen, uns gnedigklich nachlassen wolt, das wir neben <br/>
+<span class="lineNumber">52</span>den vorangetzaygten irrungen, inn derselben wirttembergischen <br/>
+<span class="lineNumber">53</span>sach auch mittel und wege suchen mochten, dardurch solch furnehmen <br/>
+<span class="lineNumber">54</span>gestillet<a class="fnNumber" href="#F_22" id="A_22">22</a>, die krigsrustung von bayden taylen abgethan<a class="fnNumber" href="#F_23" id="A_23">23</a> und ferrer<a class="fnNumber" href="#F_24" id="A_24">24</a> <br/>
+<span class="lineNumber">55</span>beschwerung<a class="fnNumber" href="#F_25" id="A_25">25</a>, so dem <button class="entity #roemisches_reich place" data-ref="roemisches_reich" data-type="place" id="d2e656">Reich</button> und deutzscher nation daraus ervolgen mocht, <br/>
+<span class="lineNumber">56</span>vorkommen werden, das dann irer <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e661">konigklichen Maiestat</button>, auf solche <br/>
+<span class="lineNumber">57</span>unsere underthenige bitt, als ein gnediger, guethiger Romischer Kunigk, <br/>
+<span class="lineNumber">58</span>der gemeynes <button class="entity #roemisches_reich place" data-ref="roemisches_reich" data-type="place" id="d2e668">Reichs</button> Ehre und wolfart vor derselben <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e672">irer Maiestat</button> <br/>
+<span class="lineNumber">59</span>aygen nutz zu gemuth gefurth, uns gnedigklich nachgehangen, auch <br/>
+<span class="lineNumber">60</span>obbemeltter unser her Oheim, Bruder und vedter, der <button class="entity #johann_friedrich_sachsen person" data-ref="johann_friedrich_sachsen" data-type="person" id="d2e679">churfurst zu </button><br/>
+<span class="lineNumber">61</span><button class="entity #johann_friedrich_sachsen person" data-ref="johann_friedrich_sachsen" data-type="person" id="d2e679">Sachssen</button>, an stadt und in vollmacht itztbemeltter bayder fursten, <br/>
+<span class="lineNumber">62</span><button class="entity #ulrich_wuerttemberg person" data-ref="ulrich_wuerttemberg" data-type="person" id="d2e685">hertzog Ulrichs von Wirttemberg</button> und <button class="entity #philipp_hessen person" data-ref="philipp_hessen" data-type="person" id="d2e689">Landtgraf Phillips zu </button><br/>
+<span class="lineNumber">63</span><button class="entity #philipp_hessen person" data-ref="philipp_hessen" data-type="person" id="d2e689">Hessen</button>, solche guetliche underhandlunge gewilligt und eyngereuhmet <br/>
+<span class="lineNumber">64</span>hat, und wir uns derselben im nahmen Gottes underfangen. <br/>
+<span class="lineNumber">65</span>Und so wir dann deshalb ettliche tage erstlich auff Sanct Annaperge, <br/>
+<span class="lineNumber">66</span>auch volgende zum <button class="entity #kaaden place" data-ref="kaaden" data-type="place" id="d2e700">Cadan</button>, im <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e703">kunigreich Beheim</button>, dahin wir uns, <br/>
+<span class="lineNumber">67</span>den sachen zu guth, zu der <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e709">Romischen Kunigklichen Maiestat</button> aygener <br/>
+<span class="lineNumber">68</span>person gefugt, Auch den <button class="entity #johann_friedrich_sachsen person" data-ref="johann_friedrich_sachsen" data-type="person" id="d2e714">Churfursten zu Sachssen</button> vormacht<a class="fnNumber" href="#F_26" id="A_26">26</a>, das <br/>
+<span class="lineNumber">69</span><button class="entity #johann_friedrich_sachsen person" data-ref="johann_friedrich_sachsen" data-type="person" id="d2e722">sein Lieb</button> zu letzt aygener person auch dahin kommen, in embsiger, <br/>
+<span class="lineNumber">70</span>vleyssiger handlunge gestanden, Habenn wir <br/>
+<span class="lineNumber">71</span>beschlieslich durch vorleyhung des allemechtigen und mit aller tayl <br/>
+<span class="lineNumber">72</span>volwort und vorwilligung alle solche zwyspalt, irrungen und geprechen <br/>
+<span class="lineNumber">73</span>auff nachvolgende maynunge beredt, gesuhnet und endtlich zu <br/>
+<span class="lineNumber">74</span>grunde beygelegt und vortragen, wie hernach volgt und gemeldt <br/>
+<span class="lineNumber">75</span>wirdet:
+<span class="lineNumber">76</span>standt
+<span class="lineNumber">77</span><button class="entity #karl_v person" data-ref="karl_v" data-type="person" id="d2e759">Romische Kayserliche Maiestat</button> allen Stenden zu haltten gebothen ist. <br/>
+<span class="lineNumber">78</span>in allewege soll gehaltten und demselben nachgelebt werden. <br/>
+<span class="lineNumber">79</span>Und nachdem ein mysverstandt<a class="fnNumber" href="#F_28" id="A_28">28</a> darinnen vor-<br/>
+<span class="lineNumber">80</span>gevallen, So hat die <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e777">konigkliche Maiestat</button> gnedigklich gewilligt, <br/>
+<span class="lineNumber">81</span>das ire <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e783">Koe. Mat.</button> von wegen der <button class="entity #karl_v person" data-ref="karl_v" data-type="person" id="d2e786">kayserlichen Maiestat</button> beschaffen <br/>
+<span class="lineNumber">82</span>wolle, das mit den processen am kayserlichen cammergericht, zu <br/>
+<span class="lineNumber">83</span>erhalttung solchs <button aria-label="opens information about an entity" class="entity event" data-ref="#anstand_nuernberg_1532">fridestandts</button>, wider die, so darinnen benent sein, <br/>
+<span class="lineNumber">84</span>stiller gestanden, auch alle die bisher vorgenohmene process wirgk-<br/>
+<span class="lineNumber">85</span>lich abgeschafft werden, alles nach lauth desselbigen auffgerichten <button aria-label="opens information about an entity" class="entity event" data-ref="#anstand_nuernberg_1532">fride-<br/><span class="lineNumber">86</span>standts</button>. Doch so sollen in allewege die Sacramentirer, wider-<br/>
+<span class="lineNumber">86</span>standts
+<span class="lineNumber">87</span>teuffisch Secten, auch andere naue<a class="fnNumber" href="#F_29" id="A_29">29</a>, unchristliche Secten, die hinforthan <br/>
+<span class="lineNumber">88</span>erregt<a class="fnNumber" href="#F_30" id="A_30">30</a> werden mochten, hirinnen aussgeschlossen sein und durch <br/>
+<span class="lineNumber">89</span>die <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e832">Koe. Mat.</button>, Churfursten, fursten und Stende eintrechtigklich <br/>
+<span class="lineNumber">90</span>gewehret und in iren landen nit geduldet noch gelieden<a class="fnNumber" href="#F_31" id="A_31">31</a> werden. <br/>
+<span class="lineNumber">91</span>Und sall sunst hiruber kein tayl den andern <br/>
+<span class="lineNumber">92</span>in der Religion sachen ubertzyhen<a class="fnNumber" href="#F_32" id="A_32">32</a>, vorgeweltigen<a class="fnNumber" href="#F_33" id="A_33">33</a>, noch des seinen <br/>
+<span class="lineNumber">93</span>entsetzen<a class="fnNumber" href="#F_34" id="A_34">34</a>, bey einer ansehenlichen<a class="fnNumber" href="#F_35" id="A_35">35</a> peen, nemlich: Wa eyn Chur-<br/>
+<span class="lineNumber">94</span>furst dawider handelt, bey verlust seiner Chur und eyn ander <br/>
+<span class="lineNumber">95</span>Furst, Standt ader Stadt, bey vorlust seiner Regalia, privilegia <span aria-label="a pagebreak without a facsimile" class="pagebreak" id="p-Bl. 2r"> [Blatt: Bl. 2<span class="rectoVerso">r</span> ] </span> <br/>
+<span class="lineNumber">96</span>und Lehen. Und sall solcher Fridebrecher daruber mit der that<a class="fnNumber" href="#F_36" id="A_36">36</a> in <br/>
+<span class="lineNumber">97</span>die Acht gefallen sein<a class="fnNumber" href="#F_37" id="A_37">37</a>. Und in allen andern <br/>
+<span class="lineNumber">98</span>sachen sall ihme ein yeder tayl gegen dem andern an gleich und <br/>
+<span class="lineNumber">99</span>Recht<a class="fnNumber" href="#F_38" id="A_38">38</a> benugen<a class="fnNumber" href="#F_39" id="A_39">39</a> lassen und keiner den andern, sonder<a class="fnNumber" href="#F_40" id="A_40">40</a> vorgehendt <br/>
+<span class="lineNumber">100</span>ordentlich, rechtlich erkenttnus, des seinen entsetzen, uberzyhen <br/>
+<span class="lineNumber">101</span>noch vorgewelttigen; auch den ihenigen, so sich des understehen <br/>
+<span class="lineNumber">102</span>mochten, sie weren in diesem friden begriffen ader nit, und <br/>
+<span class="lineNumber">103</span>wurde von ihnen in waserley<a class="fnNumber" href="#F_41" id="A_41">41</a> schein solchs erdacht, mit der that<a class="fnNumber" href="#F_42" id="A_42">42</a> <br/>
+<span class="lineNumber">104</span>understanden, mit gar nichts hulff noch furderunge<a class="fnNumber" href="#F_43" id="A_43">43</a> darezuthun<a class="fnNumber" href="#F_44" id="A_44">44</a>, <br/>
+<span class="lineNumber">105</span>wider<a class="fnNumber" href="#F_45" id="A_45">45</a> mit leuthen, gelde noch practiciren<a class="fnNumber" href="#F_46" id="A_46">46</a>, oder wie sunst solch tetlich <br/>
+<span class="lineNumber">106</span>furnehmen mocht desem frieden zuentgegen gesterckt werden, alles <br/>
+<span class="lineNumber">107</span>bey obangetzaygtter peen, doch das der vordechtige des vordachts zu-<br/>
+<span class="lineNumber">108</span>vorn, vormuge des auffgerichten <button aria-label="opens information about an entity" class="entity event" data-ref="#ewiger_landfrieden">Landtfridens</button> uberwunden <br/>
+<span class="lineNumber">109</span>werde, welchs alles die <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e944">koe. Mat.</button> von wegen der <button class="entity #karl_v person" data-ref="karl_v" data-type="person" id="d2e947">kayserlichen </button><br/>
+<span class="lineNumber">110</span><button class="entity #karl_v person" data-ref="karl_v" data-type="person" id="d2e947">Maiestat</button> und vor sich selbst gnedigklich gewilligtt und hirmit <br/>
+<span class="lineNumber">111</span>confirmirt hat, dawider nit zu thuen noch zu vorhengen<a class="fnNumber" href="#F_47" id="A_47">47</a>.
+<span class="lineNumber">112</span><span class="article_added">[Art. 2]</span>Ferrer ist auch beredt und vortragen, das der Churfurst <br/>
+<span class="lineNumber">113</span>zu Sachssen sampt seinen mittvorwantten, den Romischen Kunigk, <br/>
+<span class="lineNumber">114</span>wie andere Churfursten, fursten und Stende, fur ein Romischen <br/>
+<span class="lineNumber">115</span>Kunig erkennen, seiner maiestat den titel geben und von der d[i]spu-<br/>
+<span class="lineNumber">116</span>tation der wahl sachen abstehen und die fallen lassen sall und will, <br/>
+<span class="lineNumber">117</span>wie auch sein lieb vor sich und seine mittvorwantten davon gegen-<br/>
+<span class="lineNumber">118</span>werttigk abgestanden und darauf den Romischen Kunigk erkant <br/>
+<span class="lineNumber">119</span>hat.
+<span class="lineNumber">120</span>bey der Kay. Mat. zu erlangen und ires tayls bey den Churfursten <br/>
+<span class="lineNumber">121</span>hier zcwuschen und Ostern nehstkommendt zu sollicitiren, das dieße <br/>
+<span class="lineNumber">122</span>nachvolgende artickel bewilligt und darauff durch die Kay. Mat. <br/>
+<span class="lineNumber">123</span>bey der Gulden bullen confirmirt und dieselbig damit ercleret und <br/>
+<span class="lineNumber">124</span>verbrievet werde: Nemlich, das kunfftigklich <br/>
+<span class="lineNumber">125</span>wann bey leben eins Romischen Kaysers oder Kunigs ein Romischer <br/>
+<span class="lineNumber">126</span>Kunigk sall erwehlt werden, alle Churfursten zuvorn zusampne <br/>
+<span class="lineNumber">127</span>beschayden werden, davon zu werden, ob ursach gnugsam vorhanden <br/>
+<span class="lineNumber">128</span>und dem Reich vortreglich sey, ein Romischen Kunig bey leben eins <br/>
+<span class="lineNumber">129</span>Kaysers ader kunigs zu erwehlen. Und wann sie sich des ver-<br/>
+<span class="lineNumber">130</span>aynigt, das alsdann und nit ehr, die Churfursten, vormoge und <br/>
+<span class="lineNumber">131</span>Inhalt der gulden Bullen, sollen zu konigklicher wahl erfordert <br/>
+<span class="lineNumber">132</span>und zur wahl geschritten und derselben Bullen unverrugklich in <br/>
+<span class="lineNumber">133</span>allem nachgegangen werden. Und wa die wahl in dem fall <br/>
+<span class="lineNumber">134</span>anders furgenohmen und ergieng, das daselbig nichtigk und <br/>
+<span class="lineNumber">135</span>durch ein decretum irritans der Kay. Mat. Cassirt sein soll. <br/>
+<span class="lineNumber">136</span>Und hirmit sall aller unwill und verdrieß, <br/>
+<span class="lineNumber">137</span>so uf allen taylen kegeneynander gefast, auffgehaben und durch <br/>
+<span class="lineNumber">138</span>die Kaye. und Koe. Maiestaten in ungnaden ader sunst durch andere <br/>
+<span class="lineNumber">139</span>stende bayderseits in unguthem nit geanth, nach geefert werden.
+<span class="lineNumber">140</span><span class="article_added">[Art. 4]</span>Im fall aber, das solche obgemeltte artickel zcwuschen angetzeigter <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-Bl. 2v"> [Blatt: Bl. 2<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">141</span>zeitt durch den merhern tayl der Churfursten nit bewilligt nach <br/>
+<span class="lineNumber">142</span>beslossen, und die kaye. Mat. zugelassen, bestettigt und vorbrivet <br/>
+<span class="lineNumber">143</span>worden, So soll dann der Churfurst zu Sachssen sampt seinen <br/>
+<span class="lineNumber">144</span>mittverwantten des kunigs, der wahl und Titels halber wider-<br/>
+<span class="lineNumber">145</span>umb frey stehen und ihm sein Recht vorbehaltten sein, sich auch <br/>
+<span class="lineNumber">146</span>die koe. Mat. in keinerley weyße, in nach auserhalb Rechtens, <br/>
+<span class="lineNumber">147</span>des falles darmitt zu behelffen haben. Und dannoch soll ein <br/>
+<span class="lineNumber">148</span>tayl gegen dem andern sich an gleich und Recht benugen lassen.
+<span class="lineNumber">149</span><span class="article_added">[Art. 5]</span>Wie es auch der personen halber, die zu Ro-<br/>
+<span class="lineNumber">150</span>mischen Kunigen zu erwehlen und nit dutzscher sprach ader ge-<br/>
+<span class="lineNumber">151</span>zcungs weren, auch ob zcwene, drey ader mehr Romische <br/>
+<span class="lineNumber">152</span>Kunige aus einem hauße nacheynander mogen erwehlet werden, <br/>
+<span class="lineNumber">153</span>darumb sollen sich die Churfursten, inwendigk vorbestimptter <br/>
+<span class="lineNumber">154</span>zeitt vorgleichen und voraynigen, und solchs in irer vorayni-<br/>
+<span class="lineNumber">155</span>gung verordent werden.
+<span class="lineNumber">156</span>dem Churfursten zu Sachssen und seiner Lieb unmundigen Bruder <br/>
+<span class="lineNumber">157</span>in vorberurtter zceitt ire lehen und Regalia gelyhen werdenn.
+<span class="lineNumber">158</span><span class="article_added">[Art. 7]</span>Es wollen auch die Koe. Mat. sich bey der <br/>
+<span class="lineNumber">159</span>Romischen Kayserlichen Maiestat zum hohsten und treulichsten be-<br/>
+<span class="lineNumber">160</span>vleyssigen, das der vortragk des Churfursten zu Sachssen mit <br/>
+<span class="lineNumber">161</span>Gulich und Clef durch ire Kaye. Mat. bestettigt werde.
+<span class="lineNumber">162</span><span class="article_added">[Art. 8]</span>Dann sovil die bekrigung und eynnehm-<br/>
+<span class="lineNumber">163</span>ung des Furstenthumbs Wirttembergk belangt, ist beredt <br/>
+<span class="lineNumber">164</span>und vortragen: Nachdem die koe. Mat. hievor von der Kay. <br/>
+<span class="lineNumber">165</span>Mat mit dem Furstenthumb Wirttembergk gnedigklich unnd <br/>
+<span class="lineNumber">166</span>freuntlich belehendt sein, das die Roe. Koe. Mat. den Titel herzog <br/>
+<span class="lineNumber">167</span>von Wirttenbergk behaltte und hinfur bemelt furstenthumb <br/>
+<span class="lineNumber">168</span>Wirttembergk des hauses Osterreich affterlehen sey, und hertzog <br/>
+<span class="lineNumber">169</span>Ulrich dasselbig von Roe. Koe. Mat. als regirendem ertzherzog zu Oster-<br/>
+<span class="lineNumber">170</span>reich zu Lehen empfahe und ire Koe. Mat. ader derselben erben, <br/>
+<span class="lineNumber">171</span>Ertzhertzogen zu Osterreich, nach abgange gedachts hertzog Ulrichs <br/>
+<span class="lineNumber">172</span>vorpunden sein, angetzaygt furstenthumb seinen manlichen, ehelichen <br/>
+<span class="lineNumber">173</span>leibes erben zu Lehen zu verleyhen, und sie, die hertzogen von <br/>
+<span class="lineNumber">174</span>Wirttembergk, so offt sich der fall begibt, solchs von dem hauße Oster-<br/>
+<span class="lineNumber">175</span>reich also zu affterlehen zu empfahen schuldigk sein, doch dem hayligen <br/>
+<span class="lineNumber">176</span>reich, sein obirkeit und gerechtigkeit, auch dem von Wirttembergk <br/>
+<span class="lineNumber">177</span>sein standt und Stymm im Reich, wie er solchs zuvor gehabt, <br/>
+<span class="lineNumber">178</span>an bemelttem hertzogthumb in alleweg vorbehaltten, der gestalt, <br/>
+<span class="lineNumber">179</span>das sich die koe. Mat. vor sich und ire manliche erben und nach-<br/>
+<span class="lineNumber">180</span>kommen, Ertzhertzogen zu Osterreich, kegen auffrichtung dieses vor-<br/>
+<span class="lineNumber">181</span>trags, verschrieben hat, so offt von irer Koe. Mat. ader derselben <br/>
+<span class="lineNumber">182</span>Lehens erben das Furstenthumb Wirttembergk zu Affterlehen <br/>
+<span class="lineNumber">183</span>vorlyhen wirdett ader, so sich der fall obbemeltter massen begibet, <span aria-label="a pagebreak without a facsimile" class="pagebreak" id="p-Bl. 3r"> [Blatt: Bl. 3<span class="rectoVerso">r</span> ] </span> <br/>
+<span class="lineNumber">184</span>das berurt Furstenthumb Wirttembergk an das haus Osterreich <br/>
+<span class="lineNumber">185</span>fellet und von Koe. Mat. als Ertzhertzogen zu Osterreich, ader der-<br/>
+<span class="lineNumber">186</span>selben lehens erben, vom Reich zu lehen empfangen wirdt und selbst <br/>
+<span class="lineNumber">187</span>besitzen, das durch dieselbig belehnung dem Reich nichts benohmen, <br/>
+<span class="lineNumber">188</span>sondern dem Reich von angezaygttem furstenthumb alle dienst-<br/>
+<span class="lineNumber">189</span>barkeit, gehorsam, Steuer und anders, wie von alters herkomen <br/>
+<span class="lineNumber">190</span>ist, zustehen und verfolgen soll.
+<span class="lineNumber">191</span>hertzog Ulrich die Roe. koe. Mat. vor Romischen Kunig erkennen, <br/>
+<span class="lineNumber">192</span>ehren und haltten und sich, wie andere des Reichs Stende, in solchem <br/>
+<span class="lineNumber">193</span>gehorsamlich ertzaygen und wider die koe. Mat. mit nymande <br/>
+<span class="lineNumber">194</span>vorbinden soll nach will.
+<span class="lineNumber">195</span>dem <button class="entity #philipp_hessen person" data-ref="philipp_hessen" data-type="person" id="d2e1265">Landtgraven</button> sollen und wollen auch das, so in itziger erobe-<br/>
+<span class="lineNumber">196</span>rung des Lands von Stedten, flecken,<a class="fnNumber" href="#F_48" id="A_48">48</a> heusern<a class="fnNumber" href="#F_49" id="A_49">49</a> und anderm, das <br/>
+<span class="lineNumber">197</span>zu dem lande nit gehorth, sonder andern fursten, prelaten, Graven, <br/>
+<span class="lineNumber">198</span>denen vom Adel und andern zustendigk, eingenohmen ist, wider-<br/>
+<span class="lineNumber">199</span>umb abtrethen und einem yedern das seine, des er also entwehrt<a class="fnNumber" href="#F_50" id="A_50">50</a> ist, <br/>
+<span class="lineNumber">200</span>widerumb eynantwortten<a class="fnNumber" href="#F_51" id="A_51">51</a>, zustellen und solche guether berwigklich <br/>
+<span class="lineNumber">201</span>besetzen lassen, auch einen yeden, in- und auserhalb des <button class="entity #wuerttemberg_herzogtum place" data-ref="wuerttemberg_herzogtum" data-type="place" id="d2e1304">Furstenthumbs</button>, <br/>
+<span class="lineNumber">202</span>zusampt den gefursten Ebten<a class="fnNumber" href="#F_52" id="A_52">52</a>, die im lande gesessen<a class="fnNumber" href="#F_53" id="A_53">53</a> und ire sonderliche <br/>
+<span class="lineNumber">203</span>Regalia<a class="fnNumber" href="#F_54" id="A_54">54</a> haben und zum <button class="entity #wuerttemberg_herzogtum place" data-ref="wuerttemberg_herzogtum" data-type="place" id="d2e1327">Furstenthumb</button> nit gehoren, mit sampt iren <br/>
+<span class="lineNumber">204</span>leuthen und underthanen bey irem glauben und Religion pleiben, <br/>
+<span class="lineNumber">205</span>ihnen auch ire Rent und zcynse volgen und darane ungehindert <br/>
+<span class="lineNumber">206</span>lassen, nach lauth und inhalt der kaÿserliche reichs Abschiede.
+<span class="lineNumber">207</span><span class="article_added">[Art. 11]</span>Es sollen auch hohs- und nyderstands, sie seyn <br/>
+<span class="lineNumber">208</span>gaystlich ader weltlich, nyemande aussgenohmen, welche sich <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e1344">koe. Mat.</button> <br/>
+<span class="lineNumber">209</span>gehorsam gehaltten, aus dem lande gewichen ader daraus vortrieben <br/>
+<span class="lineNumber">210</span>sein und denen auch das ire genohmen ist, durch <button class="entity #ulrich_wuerttemberg person" data-ref="ulrich_wuerttemberg" data-type="person" id="d2e1352">hertzog Ulrich</button> <br/>
+<span class="lineNumber">211</span>widerumb mit friden und Glayth<a class="fnNumber" href="#F_55" id="A_55">55</a> eingelassen, inen ire entwehrte<a class="fnNumber" href="#F_56" id="A_56">56</a> <br/>
+<span class="lineNumber">212</span>gueter widerunb zugestalt und ruigklich dabey gelassen werden, <br/>
+<span class="lineNumber">213</span>und welcher im lande nit wohnen ader den <button class="entity #ulrich_wuerttemberg person" data-ref="ulrich_wuerttemberg" data-type="person" id="d2e1368">hertzog Ulrich</button> dar-<br/>
+<span class="lineNumber">214</span>innen nit leiden wolt, das denselben sall vergont und zugelassen sein, <br/>
+<span class="lineNumber">215</span>seine guether zu vorkeuffen und sich an andere orthe seins gefallens <br/>
+<span class="lineNumber">216</span>nyder zu thuen<a class="fnNumber" href="#F_57" id="A_57">57</a>.
+<span class="lineNumber">217</span>gaystlichen und weltlichen, die in dem Furstenthumb Wirttenbergk <br/>
+<span class="lineNumber">218</span>nit gesessen sein und doch Rent, zcynse und gult darinnen haben, <br/>
+<span class="lineNumber">219</span>solche ire zcynse, Rentt und Guldt unvorhindert vorfolgen und ge-<br/>
+<span class="lineNumber">220</span>raycht und inen uber die ungehorsamen ader nit halttenden <br/>
+<span class="lineNumber">221</span>gepurlich vorholffen werden, doch so ferren von denselben ortten den <br/>
+<span class="lineNumber">222</span>wirttembergischen ire Rent und Zcynsse auch nit gehemmt werden, <br/>
+<span class="lineNumber">223</span>sunder in gleichnus volgen.
+<span class="lineNumber">224</span>wil auch hertzog Ulrich, obgedacht, und seine Erben die Roe. Koe. Mat. <br/>
+<span class="lineNumber">225</span>des ausstehenden Rests unnd anderer anforderunge von wegen des <br/>
+<span class="lineNumber">226</span>obbestimpten wirttembergischen Furstenthumbs gegen den Stenden <br/>
+<span class="lineNumber">227</span>des Bunds zu Schwaben, desgleichen kegen hertzog Christoff und Graf <br/>
+<span class="lineNumber">228</span>Georgen von Wirttembergk, durch diesen vertrag irer pension und an-<br/>
+<span class="lineNumber">229</span>forderunge entheben schuldlos halten und frey machen <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-Bl. 3v"> [Blatt: Bl. 3<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">230</span>auch irer maiestat ir aygen und gelyhen geschutz, mit seiner zugehorung, <br/>
+<span class="lineNumber">231</span>so in jungster ubergebung des Schloss Aspergk uf demselben Sloss pliben <br/>
+<span class="lineNumber">232</span>und wie es vorhanden gewist ist, daselbst widerumb zustellen und volgen <br/>
+<span class="lineNumber">233</span>lassen.
+<span class="lineNumber">234</span>Wirttemberg sein, dieselbige sollen an alles ansuchen, so an Koe. Mat. ge-<br/>
+<span class="lineNumber">235</span>scheen mochte, durch hertzog Ulrich und seine erben betzalt und vorgungt <br/>
+<span class="lineNumber">236</span>ader zu friden gestalt werden. Was aber solcher schuldt, auser-<br/>
+<span class="lineNumber">237</span>halb Kaye. Mat. schuldt, durch die Koe. Mat. darauf in irem aygen <br/>
+<span class="lineNumber">238</span>nutz und nit des landes nottorfft vorschrieben weren, die sich uber <br/>
+<span class="lineNumber">239</span>zcwentzigk tausent gulden hauptsuma erstreckten, die sall gnanter <br/>
+<span class="lineNumber">240</span>hertzog Ulrich zu betzalen nit vorpflicht sein. Sein lieb sall auch <br/>
+<span class="lineNumber">241</span>und will nyemand seiner zuhabenden pfandtschafft ader schuldt vor-<br/>
+<span class="lineNumber">242</span>schreybunge ane vorgehendt Rechtlich erkenttnus entsetzen, doch dem <br/>
+<span class="lineNumber">243</span>artickel, so obstehet anfahende: »Es sollen auch hohes und nyder <br/>
+<span class="lineNumber">244</span>stands etc.« unvorgreifflich. Ob aber yemands pension ader dienstgeldt <br/>
+<span class="lineNumber">245</span>aus gnaden durch Koe. Mat. vorschrieben werden, die hertzog Ulrichen vor <br/>
+<span class="lineNumber">246</span>diener nit leidelichen, den mag er solche pension auffkundigen.
+<span class="lineNumber">247</span><span class="article_added">[Art. 15]</span>Und nachdem auch im land zu Wirttemberg <br/>
+<span class="lineNumber">248</span>ettliche herschafften, Stuck und guether sein, die von der Chron zu <br/>
+<span class="lineNumber">249</span>Beheim zu lehen gehen, dieselben sall und will hertzog Ulrich von <br/>
+<span class="lineNumber">250</span>itziger Roe. Koe. Mat. als regirendem Kunig zu Beheim empfahen <br/>
+<span class="lineNumber">251</span>und solchs soll hinfùr auch von seinen lehens erben ordentlich, wie <br/>
+<span class="lineNumber">252</span>sich gepurth gescheen.
+<span class="lineNumber">253</span>Phillips seins zusagens und andere der Koe. Mat. Rethe und diener irer <br/>
+<span class="lineNumber">254</span>pflicht und gelubd, hertzog Ulrich und dem Landtgraven in ubergebung <br/>
+<span class="lineNumber">255</span>hohen Aspergs gethan, ane entgeldt ledigk sein, auch dasselbig, was sich <br/>
+<span class="lineNumber">256</span>irent halben vorlouffen, herwiderumb nit geefert nach geanth werden.
+<span class="lineNumber">257</span><span class="article_added">[Art. 17]</span>Und so dan der Churfurst zu Sachssen, obgemelt, <br/>
+<span class="lineNumber">258</span>an stadt und in vollmacht hertzog Ulrich von Wirttembergk und des <br/>
+<span class="lineNumber">259</span>Landtgraven zu Hessen alle dieße obbeschribene artickel gegenwerttigk-<br/>
+<span class="lineNumber">260</span>lich belibet und gewilligt, auch zugesagt hat, das hertzog Ulrich alle <br/>
+<span class="lineNumber">261</span>dieselben ires inhalts vor sich und seine erben zu verfolgen und zu haltten <br/>
+<span class="lineNumber">262</span>mit briven und Sigiln furderlichst versichern und sich vorschreiben soll, <br/>
+<span class="lineNumber">263</span>das auch gemeltte bayde fursten, Wirttembergk und Hessen, ir krigsvolgk <br/>
+<span class="lineNumber">264</span>ane weyther zugriff und vergewaltigung Kay. und Koe. Mat., auch <br/>
+<span class="lineNumber">265</span>der andern Stende des Reichs, zertrennen und abtzihen lassen sollen, dar-<br/>
+<span class="lineNumber">266</span>gegen so haben wir, als die underhendler, die Roe. Koe. Mat. undertheniglich <br/>
+<span class="lineNumber">267</span>erbethen, das ire Maiestat gewilligt hat, umb solcher unser furbit wil-<br/>
+<span class="lineNumber">268</span>len, das ihme hertzog Ulrichen, seinem Sone und iren ehelichen, mannlichen <br/>
+<span class="lineNumber">269</span>leibes erben gegen den Conditionen, wie obstahet, das landt Wirttenbergk <br/>
+<span class="lineNumber">270</span>hiemit, unverhindert irer Maiestat noch derselben erben, berwigklich <br/>
+<span class="lineNumber">271</span>vervolgen und pleiben soll. Das auch ire Roe. Ko. Mat. <br/>
+<span class="lineNumber">272</span>ihm und dem Landtgraven auf ir ansuchen, das sie zcwuschen dietz und <br/>
+<span class="lineNumber">273</span>Invocavit nehstkunfftigk bey irer Mat. desta zeitlicher thuen sollen, <br/>
+<span class="lineNumber">274</span>einen namhafftigen tag an gelegene malstadt ansetzen wollen und inen <br/>
+<span class="lineNumber">275</span>alsdann, auf ir underthenig bitten und selbst ansuchen, in aygener <br/>
+<span class="lineNumber">276</span>person ader durch ire anseheliche, stadtliche botschafft mit billichem <br/>
+<span class="lineNumber">277</span>underthenigem fusfallen vorgangene handlung gnedigklich vortzeihen <span aria-label="a pagebreak without a facsimile" class="pagebreak" id="p-Bl. 4r"> [Blatt: Bl. 4<span class="rectoVerso">r</span> ] </span> <br/>
+<span class="lineNumber">278</span>und diesen auffgerichten friden weither damit bekrefftigen, dagegen sich ire <br/>
+<span class="lineNumber">279</span>bayde Libden hinfuro gehorsamlich haltten, auch sich nach die iren wider <br/>
+<span class="lineNumber">280</span>Kaye. und Koe. Mat. und die Stende des Reichs zu thetlichem furnehmen <br/>
+<span class="lineNumber">281</span>ader angriff nit geprauchen nach vormogen lassen. Alsdan <br/>
+<span class="lineNumber">282</span>sall auch hertzog Ulrich auff denselben tagk den Lehnen am lande <br/>
+<span class="lineNumber">283</span>Wirttembergk, wie oben gemelt, aygener person, wie gepurlich, volge <br/>
+<span class="lineNumber">284</span>thun und die von der Koe. Mat. empfahen und damit belyhen werden.
+<span class="lineNumber">285</span><span class="article_added">[Art. 18]</span>So will auch seine Koe. Mat. die Kaye. Mat. mit vleisse <br/>
+<span class="lineNumber">286</span>erbitten, das sein Maiestat gleicher gestalt angetzaygtten bayden fursten, <br/>
+<span class="lineNumber">287</span>Wirttembergk und Hessen, vorgangene handlung auch gnedigklich vortzeihen <br/>
+<span class="lineNumber">288</span>und diesen vertragk bestettige. Und wan ire kaye. Mat. ins Reich <br/>
+<span class="lineNumber">289</span>deutzscher nation kommet, dann sollen und wollen dagegen hertzog Ulrich <br/>
+<span class="lineNumber">290</span>und der Landtgraff irer Maiestat einen underthenigen fußfal ayge <br/>
+<span class="lineNumber">291</span>ner person thun und vorgangene handlunge irer Mat. auch abbitten.
+<span class="lineNumber">292</span><span class="article_added">[Art. 19]</span>Es sollen auch hiemitt alle die, so bayden taylen in dießer <br/>
+<span class="lineNumber">293</span>vehde gedienet, furschube ader furderung gethan, aus sorgen gelassen, auch <br/>
+<span class="lineNumber">294</span>die in dieser krigshandlung nach gefangen ader bestrickt, auf ein gewon-<br/>
+<span class="lineNumber">295</span>lich gelubd und zusag die gefencknus nit zu efern frey und ledigk gegeben <br/>
+<span class="lineNumber">296</span>und derhalb wider an irem leib nach guth beschedigt, gestrafft nach beschwert <br/>
+<span class="lineNumber">297</span>werden, auch durch diesen vortrag aller krigskosten, so bayden taylen auf <br/>
+<span class="lineNumber">298</span>erlauffen, hirmit gentzlich auffgehebt sein und kein tayl gegen dem an-<br/>
+<span class="lineNumber">299</span>dern derhalben aynige anforderunge suchen.
+<span class="lineNumber">300</span>obbeschriebene artickel, wie die mit iren anhengen von wortte zu wortte <br/>
+<span class="lineNumber">301</span>vormeldet sein, hat die Koe. Mat. auf solch unsere handlunge und under-<br/>
+<span class="lineNumber">302</span>thenige bitt gnedigklich, auch der Churfurst zu Sachssen vor sich und seine <br/>
+<span class="lineNumber">303</span>mittvorwantten in der Religion und wahlsachen, auch von wegen und <br/>
+<span class="lineNumber">304</span>in vollermacht der vilgemelter bayder fursten, Wirttembergk und Hessen, <br/>
+<span class="lineNumber">305</span>freuntlich und wolbedechtlich bewilligt, angenohmen und zugesagt, dem <br/>
+<span class="lineNumber">306</span>allem und yedem vor sich selbst, ire vorwantten und principal unvorbruch-<br/>
+<span class="lineNumber">307</span>lichen nach zukommen und zu geleben.
+<span class="lineNumber">308</span>Ferdinand, von gots gnaden Romischer Kunig, zu allen zeytten mehrer des <br/>
+<span class="lineNumber">309</span>Reichs in Germanien, zu Hungarn und Beheim etc. Kunig, Infant in His-<br/>
+<span class="lineNumber">310</span>panien, Ertzhertzog zu Osterreich, hertzog zu Burgundi und Wirttenbergk etc. <br/>
+<span class="lineNumber">311</span>und Graf zu Thyrol etc., bekennen vor uns unsere nach-<br/>
+<span class="lineNumber">312</span>kommen und erben, das diese vortracht mit unßerer gnedigen nachlassungen, <br/>
+<span class="lineNumber">313</span>wissen, willen und volwort durch obbemelte hendler auffgericht und <br/>
+<span class="lineNumber">314</span>voltzogen ist, welche unsere bewilligung, wir auch hirmit dartzu geben. <br/>
+<span class="lineNumber">315</span>Gereden auch und vorsprechen bey unsern konigklichen waren wortten, <br/>
+<span class="lineNumber">316</span>demselben unvorbruchlichen nachzukomen und zu geleben. Confirmiren <br/>
+<span class="lineNumber">317</span>auch und bestettegen [sic] hiemit alles das jhenige, das uns darinne zu con-<br/>
+<span class="lineNumber">318</span>firmiren hiroben auffgelegt ist.
+<span class="lineNumber">319</span>gleichen bekennen auch von gots gnaden wir, Johans Friderich, hertzog <br/>
+<span class="lineNumber">320</span>zu Sachssen, des hay. Ro. Reichs Ertzmarschalh und Churfurst, Landt-<br/>
+<span class="lineNumber">321</span>graf in doringen und Marggraf in Meyssen, und thuen kunt <br/>
+<span class="lineNumber">322</span>hiemit vor uns, alle unsere mitvorwantten in der Religion und der <br/>
+<span class="lineNumber">323</span>wahlsachen, auch in sonderlicher volmacht hertzog Ulrichs von Wirt-<br/>
+<span class="lineNumber">324</span>tembergs und Landtgraf Phillips zu Hessen etc., das wir alle diße <br/>
+<span class="lineNumber">325</span>obbeschriebene artickel mit iren anhengen vor uns selbst und dieselben <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-Bl. 4v"> [Blatt: Bl. 4<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">326</span>unsere mitvorwandten und volmechtigern bewilligt, belibt und ange-<br/>
+<span class="lineNumber">327</span>nohmen, auch den Romischen Kunig alsbaldt daruf vor uns und <br/>
+<span class="lineNumber">328</span>die mit beschribenen, der sachen verwantten, erkant haben, inmassen <br/>
+<span class="lineNumber">329</span>wir denselben hiemit vor Romischen Kunig mit der beschaydenheit, <br/>
+<span class="lineNumber">330</span>wie der vorbemelte arttickel sich anfahend: "Und im fall aber etc." <br/>
+<span class="lineNumber">331</span>inheldt und vormagk, erkennen und ehren. Gereden auch und <br/>
+<span class="lineNumber">332</span>geleben bey unsern furstlichen trauen und waren wortten, allen den-<br/>
+<span class="lineNumber">333</span>selben artickeln, wie die hiroben vortragen sein, unvorbruchliche volge <br/>
+<span class="lineNumber">334</span>zu thuen, auch darane zu ßein, das dem also durch alle obberurtten <br/>
+<span class="lineNumber">335</span>sachen mitt verwantten unvorbruchlich vorvolgt und gelebt sol werd.
+<span class="lineNumber">336</span><span class="article_added">[Art. 23]</span>Und nachdem diese nachgeschrieben artickel durch <br/>
+<span class="lineNumber">337</span>uns, die hendeler, in dieser sachen auch vorgeschlagen und in handlunge <br/>
+<span class="lineNumber">338</span>gewest sein, nemlich: damitt das krigsfolck, so Wirttembergk <br/>
+<span class="lineNumber">339</span>und Hessen itzo beyeynander haben, sovil bas getrent wurde, das bayde <br/>
+<span class="lineNumber">340</span>ire Libden der Koe. Mat. einen ansehenlichen Reuther denst thun <br/>
+<span class="lineNumber">341</span>soltten, der gestalt, das sie in Irer Maiestat nahmen Funffhundert <br/>
+<span class="lineNumber">342</span>geruster pferde und drey tausent guther knecht mit nottorfftigem ge-<br/>
+<span class="lineNumber">343</span>schutz itzo alsbaldt vor Monster schicken, dieselbige Stadt in nahmen <br/>
+<span class="lineNumber">344</span>und auf bevelh der Koe. Mat. dem Bischove erobern helffen und <br/>
+<span class="lineNumber">345</span>das dieselben Reuther und knecht der Koe. Mat. vorwant sein und sich <br/>
+<span class="lineNumber">346</span>derselben bevelhs haltten sollen. Und ob es die nottorfft vor Monster <br/>
+<span class="lineNumber">347</span>erfordern wurde, also das die Stadt vor der zceit nit erobert, uf drey <br/>
+<span class="lineNumber">348</span>Monat lang auf derselben bayder fursten kosten und darlegen vorsol-<br/>
+<span class="lineNumber">349</span>det und unterhalten wurden.
+<span class="lineNumber">350</span>auch die Koe. Mat. an dem Schlosse Hohen Tweil, im Hegau gelegen, vor-<br/>
+<span class="lineNumber">351</span>mals tayl hat, das gegen der vilfalttigen irer Maiestat gnedigen nach-<br/>
+<span class="lineNumber">352</span>lassungen, so sie dem hertzogen von Wirttembergk in dieser handlunge <br/>
+<span class="lineNumber">353</span>gethan, die uberigen hertzog Ulrichs tayl darane mit aller zugehe-<br/>
+<span class="lineNumber">354</span>rungen erblich vorfolgen und zugestalt sollt werden.
+<span class="lineNumber">355</span><span class="article_added">[Art. 25]</span>Item, das hertzog Ulrichs gemahl ire vorweysunge, so sie bisher im <br/>
+<span class="lineNumber">356</span>lande gehabt hat, ewigs pleiben und vorfolgen soll. Das <br/>
+<span class="lineNumber">357</span>auch die gemeine Landtschafft in Wirttembergk die abbeschribene, <br/>
+<span class="lineNumber">358</span>vertragene Artickel, welche hertzog Ulrich vor sich und seine Erben <br/>
+<span class="lineNumber">359</span>vorschreyben und vorsichern soll, vor sich, sovil sie zu haltten betrifft, zu <br/>
+<span class="lineNumber">360</span>haltten und denen zu geleben, neben hertzog Ulrichen, versicherung thun <br/>
+<span class="lineNumber">361</span>sollen.
+<span class="lineNumber">362</span>artickel, betreffende Graf Georgen von Wirttembergk, erinnert, der gestalt, <br/>
+<span class="lineNumber">363</span>das derselbe mit zu den wirttembergischen Lehen solt gelassen werden, des <br/>
+<span class="lineNumber">364</span>sich doch die Koe. Mat. itzo alhie nit hat entschliessen konnen von des wegen, <br/>
+<span class="lineNumber">365</span>das ire Mat. die brieve uber die erhebung des lands Wirttembergk zu <br/>
+<span class="lineNumber">366</span>einem Furstenthumb, desgleichen die belehnung hertzog Ulrichs und die <br/>
+<span class="lineNumber">367</span>vortracht Koe. Mat. mit Graf Georgen von Wirttmbergk, hievor uff-<br/>
+<span class="lineNumber">368</span>gericht, nit bey handen gehabt.
+<span class="lineNumber">369</span>ter Churfurst zu Sachssen auch angezaigt, das Wirttembergk unnd <br/>
+<span class="lineNumber">370</span>Hessen her Diethrich Speht und her George von Stauffen in dieser vor-<br/>
+<span class="lineNumber">371</span>tracht wollen aussgezogen haben, des doch die Koe. Mat., dieweil die gantze <br/>
+<span class="lineNumber">372</span>Vehde soll vortragen und sunst zcwuschen aller der sachen vorwantten <span aria-label="a pagebreak without a facsimile" class="pagebreak" id="p-Bl. 5r"> [Blatt: Bl. 5<span class="rectoVerso">r</span> ] </span> <br/>
+<span class="lineNumber">373</span>gesuhnet sein und ire Maiestat darinnen nyemandt außgetzogen, nit <br/>
+<span class="lineNumber">374</span>fur billich hat bedencken mogen.
+<span class="lineNumber">375</span>von solchen itzt ertzeltten artickeln, außerhalb bemelter bayder fursten, <br/>
+<span class="lineNumber">376</span>Wirttembergk und Hessen, gegenwerttigkait, nit hat mogen gehandelt <br/>
+<span class="lineNumber">377</span>werden, auch die zeit zu kurtz geweßen, von wegen beyder tayl krige <br/>
+<span class="lineNumber">378</span>kosten, so tegelich auffgelauffen, vor obbemelter, endtlichen voltzihung <br/>
+<span class="lineNumber">379</span>des frides vortrags hievon mit iren Liebden zu handeln, dem-<br/>
+<span class="lineNumber">380</span>nach so seint dieselben itz ertzeltten artickel auf ferner handlunge <br/>
+<span class="lineNumber">381</span>angestalt, dergestaltt, das der Churfurst zu Sachssen zum aller furder-<br/>
+<span class="lineNumber">382</span>lichsten seine Rethe zu bemeltten bayden Fursten schicken und abferttigen <br/>
+<span class="lineNumber">383</span>und mit bayden iren Libden zum vleissigsten und treulichsten - und <br/>
+<span class="lineNumber">384</span>nit anders, als ob die sachen sein liebd selbst belangt - handeln lassen <br/>
+<span class="lineNumber">385</span>sall und will, damit der artickel hiroben vertzeychent, sich anfa-<br/>
+<span class="lineNumber">386</span>hend: "Nemlich damitt das Krigsfolck, so Wirttembergk und <br/>
+<span class="lineNumber">387</span>Hessen etc.", weil diesselb sach keinen vortzug leyden kan, bey beyden <br/>
+<span class="lineNumber">388</span>iren Libden erhaltten und vorvolgt werden moge. Und das <br/>
+<span class="lineNumber">389</span>in den andern angesteltten artickeln, weil dieselbig nit so aylendt, <br/>
+<span class="lineNumber">390</span>bemelter Churfurst, so furderlich das sein lieb anderer irer geschefft <br/>
+<span class="lineNumber">391</span>halber schicken kan, sich aygener person zu bemelten bayden fursten <br/>
+<span class="lineNumber">392</span>vorfuegen, oder die zu sich beschayden, und mit iren Libden zum <br/>
+<span class="lineNumber">393</span>treulichsten und vleissgisten handeln und tractiren sall und will, damit <br/>
+<span class="lineNumber">394</span>die, wie sie gestelt, bey iren Libden auch erhaltten werden mogen. <br/>
+<span class="lineNumber">395</span>Auf dieselbige zceit, welche der Churfurst zu Sachssen die Koe. Mat. <br/>
+<span class="lineNumber">396</span>zceytlich berichten soll, will die Koe. Mat. ire Rethe zu seiner lieb <br/>
+<span class="lineNumber">397</span>schicken, die angezaygtten artickeln bey seiner Lieb, das sie gewilligt <br/>
+<span class="lineNumber">398</span>werden, zu sollicitiren.
+<span class="lineNumber">399</span>steter und vehster<a class="fnNumber" href="#F_58" id="A_58">58</a> haltung, haben wir, obbemeltter<a class="fnNumber" href="#F_59" id="A_59">59</a> <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e2033">Ferdinand</button>, Romischer, <br/>
+<span class="lineNumber">400</span>hungarischer und beheimischer Kunig etc., vor uns und unsere erben <br/>
+<span class="lineNumber">401</span>Eins, wir, <button class="entity #albrecht_mainz person" data-ref="albrecht_mainz" data-type="person" id="d2e2041">Albrecht</button>, Cardinal Legat, Ertzbischof zu <button class="entity #magdeburg_erzstift place" data-ref="magdeburg_erzstift" data-type="place" id="d2e2044">Magdeburgk</button> <br/>
+<span class="lineNumber">402</span>und <button class="entity #mainz_erzdioezese place" data-ref="mainz_erzdioezese" data-type="place" id="d2e2049">Mentz</button>, Churfurst etc. und <button class="entity #georg_sachsen person" data-ref="georg_sachsen" data-type="person" id="d2e2052">Georg</button>, hertzog zu <button class="entity #sachsen_albertinisches place" data-ref="sachsen_albertinisches" data-type="place" id="d2e2056">Sachssen</button> etc., als die hend-<br/>
+<span class="lineNumber">403</span>ler, und wir, <button class="entity #johann_friedrich_sachsen person" data-ref="johann_friedrich_sachsen" data-type="person" id="d2e2066">Johans Friderich</button>, hertzog zu <button class="entity #sachsen_ernestinisches place" data-ref="sachsen_ernestinisches" data-type="place" id="d2e2069">Sachssen</button>, Churfurst etc., <br/>
+<span class="lineNumber">404</span>vor uns, unsere mittvorwantten, auch in vollermacht der obbemelten <br/>
+<span class="lineNumber">405</span>bayder fursten, <button class="entity #ulrich_wuerttemberg person" data-ref="ulrich_wuerttemberg" data-type="person" id="d2e2077">Wirttembergk</button> und <button class="entity #philipp_hessen person" data-ref="philipp_hessen" data-type="person" id="d2e2080">Hessen</button>, anders tayls etc., diesen vortracht <br/>
+<span class="lineNumber">406</span>mit aygenen handen underschrieben und unsere insigel wissentlich <br/>
+<span class="lineNumber">407</span>darane gehangen, der da geben ist zum <button class="entity #kaaden place" data-ref="kaaden" data-type="place" id="d2e2087">Cadan</button> am montage nach <br/>
+<span class="lineNumber">408</span>Johannis Baptiste,<a class="fnNumber" href="#F_60" id="A_60">60</a> nach Christi unsers lieben hern gepurth im <br/>
+<span class="lineNumber">409</span>funfftzehen hundert und vier und dreissigsten Jhare.
+<span class="lineNumber">410</span><button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e2104">Ferdinand</button> subscribsit <br/>
+<span class="lineNumber">411</span><button class="entity #albrecht_mainz person" data-ref="albrecht_mainz" data-type="person" id="d2e2108">Albertus</button> Card[inal] <button class="entity #mainz_erzdioezese place" data-ref="mainz_erzdioezese" data-type="place" id="d2e2114">Mens</button> Ch[urfürst] <br/>
+<span class="lineNumber">412</span>manu propria subscribsit <br/>
+<span class="lineNumber">413</span><button class="entity #johann_friedrich_sachsen person" data-ref="johann_friedrich_sachsen" data-type="person" id="d2e2124">Jo[hann] Fridrich</button> Churfürst <br/>
+<span class="lineNumber">414</span>Manu propria subscribsit <br/>
+<span class="lineNumber">415</span><button class="entity #georg_sachsen person" data-ref="georg_sachsen" data-type="person" id="d2e2134">Jorg</button> hertzog zcu <button class="entity #sachsen_albertinisches place" data-ref="sachsen_albertinisches" data-type="place" id="d2e2137">Sachssen</button> etc. subscripsit

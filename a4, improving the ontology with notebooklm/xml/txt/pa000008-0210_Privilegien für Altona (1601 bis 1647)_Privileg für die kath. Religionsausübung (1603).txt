@@ -1,0 +1,223 @@
+<?xml-model href="../../../customization/schema_quellentexte/religionsfrieden-quellentexte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pa000008-0210">
+<teiHeader>      
+      <fileDesc>         
+         <titleStmt>
+            <title level="a">Privileg für die katholische Religionsausübung (<date when="1603-10-19">19. Oktober 1603</date>) - NLA BU, F 3 Nr. 1514</title>
+            <title level="s">Europäische Religionsfrieden Digital</title>
+            <principal ref="http://d-nb.info/gnd/111186870">Irene Dingel</principal> 
+            <editor role="http://id.loc.gov/vocabulary/relators/edt" ref="http://orcid.org/0000-0002-1509-6960">Thomas Stäcker</editor>
+            <editor role="http://id.loc.gov/vocabulary/relators/edt" ref="https://orcid.org/0000-0002-5429-6367">
+                    <persName>Christopher Voigt-Goy</persName>
+                </editor> 
+            <editor role="http://id.loc.gov/vocabulary/relators/mrk">Kevin Wunsch</editor>           
+            <editor role="http://id.loc.gov/vocabulary/relators/mrk">Kevin Kuck</editor>           
+         </titleStmt>         
+         <editionStmt>
+            <edition>Digitale Edition gemäß <ref target="http://www.tei-c.org/">TEI P5</ref>
+                </edition>
+            <funder>Akademie der Wissenschaften und der Literatur</funder>
+         </editionStmt>         
+         <publicationStmt>
+            <publisher>
+               <orgName ref="http://www.isni.org/0000000119314040">Akademie der Wissenschaften und Literatur Mainz</orgName>
+            </publisher>           
+            <distributor>
+               <orgName ref="http://www.isni.org/0000000110101946">Universitäts- und Landesbibliothek Darmstadt</orgName>
+               <idno type="ISIL">http://lobid.org/organisation/DE-17</idno>
+            </distributor>
+            <date when="2021-12-16" type="issued">2024</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p xml:lang="en">This file is licensed under the terms of the Creative Commons License CC-BY 4.0 (Attribution 4.0 International)</p>
+               </licence>
+            </availability>
+         </publicationStmt>        
+         <sourceDesc><!-- bitte ausfüllen; nicht zutreffende Elemente bitte rauslöschen -->
+            <msDesc>
+               <msIdentifier>
+                  <settlement/>                               
+                  <repository/>
+                  <collection/>
+                  <idno>Signatur</idno>
+                  <idno type="urn"/>
+                  <idno type="vd16"/>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title/>
+                     <respStmt>
+                        <resp/>
+                        <persName/>
+                     </respStmt>
+                     <biblStruct><!-- gilt nur für Drucke; rausnehmen, wenn es sich um ein Manuskript handelt! -->
+                        <monogr xml:id="vorlage">
+                           <imprint>
+                              <pubPlace ref="http://www.geonames.org/2874225/mainz.html">Mainz</pubPlace>
+                              <publisher>
+                                 <persName/>
+                              </publisher>
+                              <date>1529</date>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                  </msItem>
+               </msContents>
+               <history><!-- bei Manuskript, falls Datum und/oder Ort bekannt sind; andernfalls rauslöschen! -->
+                  <origin>
+                     <date/>
+                     <placeName/>
+                  </origin>
+               </history>
+            </msDesc>    
+         </sourceDesc>
+      </fileDesc>      
+      <encodingDesc>         
+         <projectDesc>
+            <p>
+               <ref target="http://www.eured.de">Europäische Religionsfrieden Digital</ref>
+            </p>
+         </projectDesc>
+         <classDecl>
+            <taxonomy xml:id="marcrelator">
+               <bibl>
+                        <idno type="URI">http://id.loc.gov/vocabulary/relators/</idno> MARC Code List for Relators </bibl>
+            </taxonomy>
+         </classDecl>         
+      </encodingDesc>      
+      <profileDesc>         
+         <langUsage>
+            <language ident="deut">Deutsch</language><!-- Sprache hinzufügen -->
+         </langUsage>         
+      </profileDesc>      
+      <revisionDesc>
+         <change xml:id="ch01" when="2018-01-18">
+                <p>Die Edition ist 2018 von der Herzog August Bibliothek Wolfenbüttel an die Universitäts- und Landesbibliothek Darmstadt umgezogen.</p>
+            </change>
+      </revisionDesc>   
+   </teiHeader>
+   
+   <!--<facsimile>
+      <surface lrx="3009" lry="4398" ulx="0" uly="0" xml:id="facs_1">
+         <graphic height="4398px" url="56334013.jpg" width="3009px"/>
+         <graphic height="4398px" url="https://files.transkribus.eu/Get?id=PJERKGXEVDRGHRWZTGEENLAA&amp;fileType=view" width="3009px"/>
+         <zone points="865,412 2512,412 2512,2200 2470,3298 838,3298 838,2244" rendition="TextRegion" xml:id="facs_1_TextRegion_1687165041259_33">
+            <zone points="906,515 1040,474 1932,488 2048,552 2217,486 2460,513 2458,396 2196,352 1805,379 1520,336 1203,402 1061,334 904,328" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+            <zone points="865,634 1059,579 1172,614 1656,585 1809,637 2109,591 2334,651 2453,618 2453,517 2307,486 2050,552 1959,482 1508,554 1252,494 1051,552 983,515 865,540" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+            <zone points="886,686 1143,737 1187,698 1461,686 1533,752 1632,682 2476,725 2476,626 2336,651 2116,591 2019,649 1953,602 1813,637 1496,583 886,622" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+            <zone points="878,789 1496,789 1566,843 1737,789 1844,845 2085,791 2462,808 2462,764 2373,723 2184,694 2070,744 1908,682 1732,688 1555,754 1265,688 1139,737 878,688" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+            <zone points="886,925 1310,937 1378,900 1693,954 1879,908 2340,956 2476,913 2474,814 2350,797 1963,869 1708,808 1564,843 1397,799 884,799" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+            <zone points="865,1018 1005,1057 1358,1016 1578,1088 1660,1030 2441,1053 2441,991 2097,919 1844,981 1561,911 1477,966 863,939" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+            <zone points="884,1133 1267,1135 1456,1224 1531,1176 1800,1226 1973,1158 2138,1189 2237,1127 2437,1176 2437,1049 2381,1030 2081,1069 1790,1028 1644,1084 1382,1034 1288,1094 1170,1030 1009,1065 884,1020" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+            <zone points="853,1250 1224,1296 1442,1265 1535,1308 1714,1261 1936,1333 2217,1250 2509,1283 2509,1207 2330,1143 2140,1187 1967,1162 1800,1230 1458,1224 1364,1180 1145,1207 1055,1160 853,1184" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+            <zone points="884,1430 1172,1360 1479,1366 1689,1421 2017,1362 2200,1415 2420,1378 2420,1312 2229,1283 2056,1283 1938,1335 1716,1263 1535,1308 1444,1265 1154,1302 884,1250" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+            <zone points="867,1555 1046,1551 1145,1477 1461,1549 1636,1506 1813,1564 2103,1483 2503,1494 2501,1423 2272,1395 2235,1426 2066,1376 1889,1386 1802,1448 1714,1411 1444,1438 1318,1378 865,1428" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+            <zone points="875,1639 985,1615 1063,1652 1300,1573 1419,1621 1603,1573 1718,1627 2023,1586 2392,1641 2474,1615 2474,1508 2406,1503 2218,1545 2087,1493 1817,1543 1640,1485 1327,1526 1213,1456 1038,1538 875,1534" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+            <zone points="882,1774 1100,1780 1201,1718 1454,1790 1712,1759 1792,1802 1941,1790 2095,1712 2256,1753 2445,1735 2445,1681 2359,1642 2151,1621 1957,1671 1467,1619 1209,1675 882,1660" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+            <zone points="896,1850 1176,1838 1421,1903 1590,1835 2021,1891 2388,1864 2390,1759 2177,1767 2112,1726 1835,1811 1677,1765 1458,1792 1355,1730 1203,1720 1100,1782 898,1794" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+            <zone points="884,1992 968,2019 1061,1953 1226,1955 1320,2011 1411,1957 1658,2035 1844,1971 2050,2031 2184,1953 2396,1947 2396,1877 2023,1891 1741,1838 1689,1877 1520,1852 1426,1903 1137,1844 884,1914" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+            <zone points="884,2085 1232,2124 1308,2074 1378,2109 1461,2083 1578,2136 1763,2112 1860,2155 1938,2087 1982,2118 2138,2074 2344,2087 2344,1986 2149,1978 2015,2037 1815,1973 1611,2048 1461,1963 1325,2023 1226,1955 1096,2019 884,1992" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+            <zone points="876,2239 1191,2254 1526,2192 1763,2256 2054,2192 2390,2196 2390,2066 2000,2163 1862,2167 1770,2114 1522,2142 1329,2076 1246,2132 1038,2093 876,2163" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+            <zone points="868,2340 1099,2306 1214,2362 1457,2313 1583,2360 1727,2308 1925,2358 2250,2337 2339,2385 2543,2356 2512,2172 2240,2257 2156,2216 1945,2255 1758,2220 1704,2269 1461,2212 1268,2259 868,2227" rendition="Line" xml:id="facs_1_tr_2_tl_1"/>
+            <zone points="871,2433 950,2431 1073,2517 1343,2435 1638,2433 1893,2505 2177,2425 2313,2472 2445,2445 2445,2350 2280,2398 2008,2334 1840,2396 1745,2340 1469,2367 1364,2322 1106,2381 1053,2344 871,2353" rendition="Line" xml:id="facs_1_tr_2_tl_2"/>
+            <zone points="876,2635 1456,2554 1553,2604 1625,2571 1842,2602 1965,2552 2107,2614 2443,2587 2443,2474 2318,2491 2247,2447 2050,2456 1877,2526 1714,2449 1520,2507 1450,2462 1090,2517 876,2484" rendition="Line" xml:id="facs_1_tr_2_tl_3"/>
+            <zone points="826,2756 962,2779 1108,2686 1203,2738 1390,2690 1601,2727 1794,2686 1949,2740 2404,2709 2402,2602 2095,2614 1965,2552 1852,2602 1671,2616 1617,2571 1450,2624 1209,2563 1088,2626 824,2556" rendition="Line" xml:id="facs_1_tr_2_tl_4"/>
+            <zone points="878,2816 1106,2872 1279,2868 1399,2806 1586,2878 1846,2808 2433,2835 2433,2723 2373,2705 2293,2756 2068,2773 1763,2697 878,2789" rendition="Line" xml:id="facs_1_tr_2_tl_5"/>
+            <zone points="886,2929 1040,2979 1687,2929 1858,2989 1971,2944 2091,3001 2272,2933 2449,2958 2447,2832 2256,2861 1838,2812 1586,2878 1438,2820 1242,2898 884,2847" rendition="Line" xml:id="facs_1_tr_2_tl_6"/>
+            <zone points="892,3069 1073,3043 1203,3102 1294,3057 1531,3102 1656,3057 1774,3109 1943,3043 2217,3090 2466,3055 2466,2960 2381,2983 2301,2946 1875,3010 1683,2950 1388,3016 1143,2960 892,2979" rendition="Line" xml:id="facs_1_tr_2_tl_7"/>
+            <zone points="889,3189 1626,3184 1721,3143 1941,3205 2036,3139 2463,3176 2461,3065 2255,3057 2149,3114 1993,3034 1781,3084 1350,3057 1272,3102 1179,3059 887,3053" rendition="Line" xml:id="facs_1_tr_2_tl_8"/>
+            <zone points="888,3317 1038,3292 1238,3348 1370,3280 1827,3286 2015,3368 2194,3327 2287,3368 2462,3300 2435,3216 2229,3238 2031,3166 1936,3230 1809,3185 1242,3244 1127,3195 886,3218" rendition="Line" xml:id="facs_1_tr_2_tl_9"/>
+         </zone>
+      </surface>
+      <surface lrx="3009" lry="4398" ulx="0" uly="0" xml:id="facs_2">
+         <graphic height="4398px" url="56334014.jpg" width="3009px"/>
+         <graphic height="4398px" url="https://files.transkribus.eu/Get?id=BPXXUEEPYGQXHSLPMWKPSYJE&amp;fileType=view" width="3009px"/>
+         <zone points="1175,352 2831,352 2845,946 1155,946" rendition="TextRegion" xml:id="facs_2_TextRegion_1687165218011_105">
+            <zone points="1203,426 1414,461 1731,436 1914,486 2000,414 2426,457 2522,416 2694,475 2723,365 2588,328 2305,365 2180,301 1891,373 1381,281 1201,324" rendition="Line" xml:id="facs_2_tr_2_tl_1"/>
+            <zone points="1211,514 1703,514 1881,576 1977,543 2090,580 2278,524 2475,565 2545,527 2694,545 2692,430 2540,418 2342,481 2153,412 1993,426 1911,484 1731,436 1580,473 1522,434 1479,465 1209,434" rendition="Line" xml:id="facs_2_tr_2_tl_2"/>
+            <zone points="1211,664 1764,621 1901,676 2141,613 2274,670 2385,641 2467,674 2745,627 2745,545 2545,527 2473,565 2278,527 1879,574 1700,524 1211,578" rendition="Line" xml:id="facs_2_tr_2_tl_3"/>
+            <zone points="1188,721 2104,762 2319,721 2758,736 2727,621 2467,674 2346,641 2262,672 2204,623 2104,662 2043,617 1901,676 1856,645 1690,678 1629,639 1539,688 1442,643 1188,705" rendition="Line" xml:id="facs_2_tr_2_tl_4"/>
+            <zone points="1207,840 1735,824 2043,910 2282,828 2538,877 2690,820 2825,838 2827,731 2532,785 2467,742 2409,787 2266,736 1764,760 1674,717 1403,727 1283,779 1209,752" rendition="Line" xml:id="facs_2_tr_2_tl_5"/>
+            <zone points="1201,949 1301,940 1369,985 1434,940 1532,1002 1557,987 1592,998 1596,844 1559,834 1545,846 1510,824 1420,850 1397,838 1336,887 1287,899 1242,873 1205,877" rendition="Line" xml:id="facs_2_tr_2_tl_6"/>
+         </zone>
+         <zone points="1155,946 2845,946 2859,1523 1171,1523 1151,1068" rendition="TextRegion" xml:id="facs_2_TextRegion_1687165230420_111">
+            <zone points="1164,1067 1323,1035 1418,1115 1537,1039 1936,1078 1998,1033 2260,1022 2467,1088 2803,1014 2805,914 2723,906 2651,951 1805,926 1520,1006 1442,949 1373,1010 1166,975" rendition="Line" xml:id="facs_2_tr_2_tl_7"/>
+            <zone points="1188,1155 1422,1158 1467,1205 1645,1147 2065,1172 2176,1135 2288,1196 2440,1188 2778,1143 2780,1059 2428,1086 2098,1024 1936,1076 1500,1069 1352,1123 1248,1045 1190,1057" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
+            <zone points="1196,1293 1737,1248 2024,1295 2311,1252 2520,1299 2565,1266 2663,1317 2713,1283 2713,1215 2612,1174 2178,1219 1955,1137 1879,1184 1651,1147 1395,1229 1196,1155" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
+            <zone points="1196,1373 1307,1416 1631,1367 1780,1440 1887,1371 2221,1367 2407,1424 2809,1387 2809,1285 2743,1262 2655,1330 2446,1264 2204,1315 1698,1256 1543,1311 1328,1274 1196,1311" rendition="Line" xml:id="facs_2_tr_1_tl_3"/>
+            <zone points="1194,1510 1494,1520 1563,1565 1672,1514 1942,1530 2067,1481 2217,1559 2315,1508 2729,1516 2694,1391 2405,1424 2077,1369 1879,1444 1741,1412 1692,1453 1606,1403 1194,1393" rendition="Line" xml:id="facs_2_tr_1_tl_4"/>
+         </zone>
+         <zone points="1171,1523 2859,1523 2876,2159 1199,2159" rendition="TextRegion" xml:id="facs_2_TextRegion_1687165230420_110">
+            <zone points="1137,1694 1221,1664 1379,1715 1506,1659 1614,1717 1905,1629 2102,1629 2211,1686 2317,1625 2458,1676 2536,1623 2629,1664 2702,1621 2786,1643 2786,1545 2713,1528 2592,1588 2282,1524 2221,1559 1961,1547 1891,1498 1797,1569 1637,1590 1500,1532 1250,1586 1141,1514" rendition="Line" xml:id="facs_2_tr_1_tl_5"/>
+            <zone points="1203,1766 1403,1797 1866,1752 2036,1817 2151,1743 2247,1795 2352,1731 2784,1733 2813,1647 2629,1664 2538,1625 2448,1700 2079,1631 1614,1717 1285,1705 1205,1651" rendition="Line" xml:id="facs_2_tr_1_tl_6"/>
+            <zone points="1203,1907 1315,1936 1426,1901 1487,1938 1639,1864 1805,1944 1885,1883 2018,1868 2147,1916 2297,1860 2432,1926 2645,1844 2786,1850 2788,1774 2508,1776 2436,1735 2245,1795 2170,1752 2028,1817 1756,1748 1205,1809" rendition="Line" xml:id="facs_2_tr_1_tl_7"/>
+            <zone points="1205,2079 1440,2028 1766,2043 1887,1985 2166,2028 2295,1973 2565,2065 2778,2063 2821,2051 2827,1877 2643,1844 2430,1928 2362,1885 2288,1950 2225,1895 2041,1887 1893,1946 1721,1901 1662,1940 1567,1905 1502,1944 1426,1901 1209,1940" rendition="Line" xml:id="facs_2_tr_1_tl_8"/>
+            <zone points="1203,2157 1237,2157 1250,2168 1262,2159 1323,2157 1367,2145 1369,2057 1348,2055 1336,2067 1319,2065 1293,2079 1268,2073 1246,2057 1213,2086 1203,2086" rendition="Line" xml:id="facs_2_tr_1_tl_9"/>
+         </zone>
+         <zone points="774,2401 777,3179 1416,3179 1413,2401" rendition="TextRegion" xml:id="facs_2_region_1687165114622_60" subtype="signature-mark">
+            <zone points="798,2413 1395,2429 1371,2716 1417,2696 1420,2710 781,2717" rendition="Line" xml:id="facs_2_line_1687165114757_63"/>
+         </zone>
+      </surface>
+   </facsimile>-->
+   <text>
+      <body>
+         <div>
+                <p facs="#facs_1_TextRegion_1687165041259_33">
+                    <pb facs="#facs_1" xml:id="img_0001" n="40r"/>
+               <lb facs="#facs_1_tr_1_tl_1" n="N001"/>Von Gottes Gnaden, Wir <rs type="person" ref="#ernst_schaumburg_holstein">Ernst</rs> Graff zue <rs type="place" ref="#holstein_grafschaft">Holstein</rs>,
+               <lb facs="#facs_1_tr_1_tl_2" n="N002"/>
+                    <rs type="place" ref="#schaumburg_grafschaft">Schaumburg</rs> und <rs type="place" ref="#sternberg_grafschaft">Sterenberg</rs>, Herr zu <rs type="place" ref="#gehmen_herrschaft">Gehmen</rs> etc. Bezeugen
+               <lb facs="#facs_1_tr_1_tl_3" n="N003"/>mit disem unserem Brieff, für unß, unsere Erben und <w>Nach<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_4" n="N004"/>kommen</w>: Das wir den frembden hantierenden Nationen
+               <lb facs="#facs_1_tr_1_tl_5" n="N005"/>in <rs type="place" ref="#hamburg">Hamburg</rs> etc. in unserem Fleckhen<note type="annotation">Ort.</note> <rs type="place" ref="#altona">Altenah</rs>, die freyheit irer
+               <lb facs="#facs_1_tr_1_tl_6" n="N006"/>Religion, wie sie die bey lebzeitten, weilandt deß wolgebornen
+               <lb facs="#facs_1_tr_1_tl_7" n="N007"/>unsers Bruders Graff <rs type="person" ref="#adolf_xi_schaumburg_holstein">Adolffs</rs> zu <rs type="place" ref="#holstein_grafschaft">Holstein</rs>, <rs type="place" ref="#schaumburg_grafschaft">Schaumburg</rs>
+               <lb facs="#facs_1_tr_1_tl_8" n="N008"/>wolseliger gedechtnus nun in das zehende Jar gehabt, und <w>erst<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_9" n="N009"/>lich</w> im Jar <date when="1601-05">ein tausent sechshundert eins in mense Maii</date>
+               <lb facs="#facs_1_tr_1_tl_10" n="N010"/>geendiget, auff firnehmmer herren und Potentaten vorbitte<note type="annotation">Vgl. die <ref type="einleitung" target="0216#interzession">Einleitung</ref>.</note>,
+               <lb facs="#facs_1_tr_1_tl_11" n="N011"/>ganze <date from="1601" to="1607">sechs Jar lang</date> von verleschunge obgedachter privilegii
+               <lb facs="#facs_1_tr_1_tl_12" n="N012"/>anzurechnen, der gestalt gnediglich prorogirt<note type="annotation">verlängert.</note>, das Sie das
+               <lb facs="#facs_1_tr_1_tl_13" n="N013"/>exercitium irer Religion, allein für sich allda ueben, ire
+               <lb facs="#facs_1_tr_1_tl_14" n="N014"/>aigenen Kinder instituirn, ire todten, doch in der stille
+               <lb facs="#facs_1_tr_1_tl_15" n="N015"/>begraben, und Priestere darzue hallten mögen, die nicht
+               <lb facs="#facs_1_tr_1_tl_16" n="N016"/>zänckisch sondern stille und eingezogen sein, auch unsere
+               <lb facs="#facs_1_tr_2_tl_1" n="N017"/>underthonen und benachpaurten nicht understehen, auff ire
+               <lb facs="#facs_1_tr_2_tl_2" n="N018"/>meinung zuvergleiten, die auch kaine disputation anrichten,
+               <lb facs="#facs_1_tr_2_tl_3" n="N019"/>sondern in allem sich unergerlich und fritsamb verhallten.
+               <lb facs="#facs_1_tr_2_tl_4" n="N020"/>Wir geben auch nach, das die Nationen in mittler weill
+               <lb facs="#facs_1_tr_2_tl_5" n="N021"/>einen raum, in unserem Fleckhen<note type="annotation">Ort.</note> <rs type="place" ref="#altona">Altenau</rs> contentirn<note type="annotation">beibehalten.</note>,
+               <lb facs="#facs_1_tr_2_tl_6" n="N022"/>und nicht zu einer Kirchen, sondern zur wonungen <w>bau<pc>-</pc>
+               <lb facs="#facs_1_tr_2_tl_7" n="N023"/>en</w>, warin sie dannoch ire Religion exercirn mögen, <w>wel<pc>-</pc>
+                  <lb facs="#facs_1_tr_2_tl_8" n="N024"/>liches</w> hauß auch soll <date from="1601" to="1607">in disen sechs Jaren</date>, aller <w>auff<pc>-</pc>
+               <lb facs="#facs_1_tr_2_tl_9" n="N025"/>lage</w>, schatzunge<note type="annotation">öffentlichen Abgaben.</note>, und bürden befreiet sein. Wann aber
+            <pb facs="#facs_2" xml:id="img_0002" n="40v"/>
+               <lb facs="#facs_2_tr_2_tl_1" n="N001"/>die <date when="1607">sechs Jar vorbey</date>, mögen sie dasselbige hauß anderen
+               <lb facs="#facs_2_tr_2_tl_2" n="N002"/>leuthen, die uns leidenlich, wol verkauffen, oder für sich
+               <lb facs="#facs_2_tr_2_tl_3" n="N003"/>selbst behallten. Allsdann aber soll dasselbige hauß, und
+               <lb facs="#facs_2_tr_2_tl_4" n="N004"/>wer es bewonet, aller umbpflichten<note type="annotation">Verbindlichkeiten</note> und bürden, die andere
+               <lb facs="#facs_2_tr_2_tl_5" n="N005"/>unsere heusser und underthonen zu <rs type="place" ref="#altona">Alltena</rs> ertragen, <w>under<pc>-</pc>
+               <lb facs="#facs_2_tr_2_tl_6" n="N006"/>worffen</w> sein.
+         </p>
+             <p facs="#facs_2_TextRegion_1687165230420_111">
+               <lb facs="#facs_2_tr_2_tl_7" n="N001"/>Worauff wir auch unserem Drosten<note type="annotation">Den Landesherren vertretende Beamte.</note>, Ampten Vogten<note type="annotation">Für ein Amt zuständige Beamte.</note>, und
+               <lb facs="#facs_2_tr_1_tl_1" n="N002"/>Dienern, hiemit ernstlich befelhen, das Sie hergegen, mehr <w>ge<pc>-</pc>
+               <lb facs="#facs_2_tr_1_tl_2" n="N003"/>dachte</w> frembde Nationen nicht beschweren, noch beschweren
+               <lb facs="#facs_2_tr_1_tl_3" n="N004"/>lassen, sondern sie dabey <date from="1601" to="1607">die bestimbten sechs Jare uber</date>
+               <lb facs="#facs_2_tr_1_tl_4" n="N005"/>unserentwegen, schutzen, schirmen und handthaben sollen.
+            </p>
+            <p facs="#facs_2_TextRegion_1687165230420_110">
+               <lb facs="#facs_2_tr_1_tl_5" n="N001"/>Deß zu urkhundt haben wir disen brieff mit aigener handt,
+               <lb facs="#facs_2_tr_1_tl_6" n="N002"/>underschriben, und mit unserem Pettschafft<note type="annotation">Siegel.</note> versiglet, der
+               <lb facs="#facs_2_tr_1_tl_7" n="N003"/>gegeben uff unseren Hause und Schlosse zum <rs type="place" ref="#stadthagen">
+                        <w>Statt<pc>-</pc>
+               <lb facs="#facs_2_tr_1_tl_8" n="N004"/>hagen</w>
+                    </rs> den <date when="1601-10-19">19. October A<am>.</am>
+                        <ex>nno</ex> ein tausent sechshundert
+               <lb facs="#facs_2_tr_1_tl_9" n="N005"/>drey</date>.
+               <lb/>
+                    <rs type="person" ref="#ernst_holstein_schaumburg">Ernst</rs>
+            </p>
+         </div>
+      </body>
+   </text>
+</tei:TEI>

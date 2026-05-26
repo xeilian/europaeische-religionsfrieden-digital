@@ -1,0 +1,59 @@
+<span class="lineNumber">1</span>In Sachen der <button class="entity #niederlande_vereinigte place" data-ref="niederlande_vereinigte" data-type="place" id="d2e378">Niederlendischen</button> religions Verwandten <br/>
+<span class="lineNumber">2</span>ist heutt den 23. dießes Monats octobris mitt den Ab-<br/>
+<span class="lineNumber">3</span>gesanndten <button class="entity #staes_petrus person" data-ref="staes_petrus" data-type="person" id="d2e394">Doctore Petro Staeß</button> unndt <button class="entity #fontein_jacob person" data-ref="fontein_jacob" data-type="person" id="d2e397">Jacob Fontein</button> <br/>
+<span class="lineNumber">4</span>berathschlagt:
+<span class="lineNumber">5</span>1. Das in p<span class="ex">[unct]</span>o religionis noch ein Monat, 9 oder 10 die sachenn <br/>
+<span class="lineNumber">6</span>hin stehen, unndt in großer geheimb gehaltten werdtten <br/>
+<span class="lineNumber">7</span>müßen, auß Uhrsachen, die den Abgesandten notturfftig <br/>
+<span class="lineNumber">8</span>seindt zugemuth geführet. Des sie auch mitt dem Wolgebor-<br/>
+<span class="lineNumber">9</span>nen <button class="entity #ernst_schaumburg_holstein person" data-ref="ernst_schaumburg_holstein" data-type="person" id="d2e424">Meinem gnedigen Herrn</button> einigk sein.
+<span class="lineNumber">10</span>2. Es soll aber auch der minister<a class="fnNumber" href="#F_1" id="A_1">1</a>, den die Niederlennder bestellen <br/>
+<span class="lineNumber">11</span>wollen, ein feiner Gottfurchttiger gelertter unndt friedt-<br/>
+<span class="lineNumber">12</span>samer Mann sein, der von der Kirchen in der <button class="entity #pfalz_kurfuerstentum place" data-ref="pfalz_kurfuerstentum" data-type="place" id="d2e444">Pfaltz</button> oder in <br/>
+<span class="lineNumber">13</span>der <button class="entity #nassau_dillenburg place" data-ref="nassau_dillenburg" data-type="place" id="d2e450">Graveschafft Naßaue Dillenbergk</button>, oder im <button class="entity #den_haag place" data-ref="den_haag" data-type="place" id="d2e453">Hagen</button> in <br/>
+<span class="lineNumber">14</span><button class="entity #holland_provinz place" data-ref="holland_provinz" data-type="place" id="d2e457">Hollanndt</button>, oder auch in <button class="entity #bremen place" data-ref="bremen" data-type="place" id="d2e460">Bremen</button> oder in <button class="entity #emden place" data-ref="emden" data-type="place" id="d2e464">Emden</button> ein guttes <br/>
+<span class="lineNumber">15</span>testimonium<a class="fnNumber" href="#F_2" id="A_2">2</a> gesunndter lehr unndt erbarn Wandels hab <br/>
+<span class="lineNumber">16</span>auff zulegen. Unndt den werdten die Niederlennder selbst <br/>
+<span class="lineNumber">17</span>underhaltten, worbei sie haben einen trefflichen gelerthen <br/>
+<span class="lineNumber">18</span>Mann vorgeschlagenn, <button class="entity #trelcatius_lucas_jr person" data-ref="trelcatius_lucas_jr" data-type="person" id="d2e479">Lucas Trelcacius</button> geheißen, auß <br/>
+<span class="lineNumber">19</span><button class="entity #bruessel place" data-ref="bruessel" data-type="place" id="d2e483">Brußell</button> bürtigk.<a class="fnNumber" href="#F_3" id="A_3">3</a>
+<span class="lineNumber">20</span>3. Der soll aber auch M<span class="ex">[einem]</span> g<span class="ex">[nädigen]</span> Herren leutt wie auch die <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e512">Ham-</button><br/>
+<span class="lineNumber">21</span><button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e512">burgenses</button> oder annder in Irer lehr unndt Ceremonien nichtt <br/>
+<span class="lineNumber">22</span>Irr machen, noch einer den anndern weeder publice noch privatim <br/>
+<span class="lineNumber">23</span>schwerlich angreiffen noch condemniren<a class="fnNumber" href="#F_4" id="A_4">4</a>, sonndern bei seinen Schaff-<br/>
+<span class="lineNumber">24</span>lein in gutter ruhe unndt stille seines Amptts wartten.
+<span class="lineNumber">25</span>4. Mann soll auch ein gutte Kirchenordnung auffrichten, die <br/>
+<span class="lineNumber">26</span>in Ceremonien unndt der Kirchenn Zuchtt der Kirchen ord-<br/>
+<span class="lineNumber">27</span>nung der von <button class="entity #emden place" data-ref="emden" data-type="place" id="d2e549">Emden</button>, die sehr gerumbt wirdt, durchaus <br/>
+<span class="lineNumber">28</span>gleich sey.
+<span class="lineNumber">29</span>Quo ad politica.
+<span class="lineNumber">30</span>1. Sollen die Niederlennder zue erster gelegenheitt einen <br/>
+<span class="lineNumber">31</span>abriß anherschicken, wie die straßen unndt gebaudte <br/>
+<span class="lineNumber">32</span>in <button class="entity #altona place" data-ref="altona" data-type="place" id="d2e570">Altenahe</button> außzutheilen. Worbey dern gelegenheit <br/>
+<span class="lineNumber">33</span>so bereitts daselbst Ir heußer unndt gebeute haben, in acht <br/>
+<span class="lineNumber">34</span>zunehmen.
+<span class="lineNumber">35</span>2. Wann dann M<span class="ex">[ein]</span> g<span class="ex">[nädiger]</span> Herr befinndet, das sich die Niederlender <br/>
+<span class="lineNumber">36</span>in <button class="entity #altona place" data-ref="altona" data-type="place" id="d2e592">Altenahe</button> heuffig<a class="fnNumber" href="#F_5" id="A_5">5</a> setzen<a class="fnNumber" href="#F_6" id="A_6">6</a>, wirdt I<span class="ex">[hre]</span> G<span class="ex">[naden]</span> nach angehorten <br/>
+<span class="lineNumber">37</span>Irem bedennckhen, Wie daselbst in <button class="entity #altona place" data-ref="altona" data-type="place" id="d2e610">Altenahe</button> die gerichte <br/>
+<span class="lineNumber">38</span>zubestellen gnedig ahnordnen.
+<span class="lineNumber">39</span>3. I<span class="ex">[hre]</span> G<span class="ex">[naden]</span> wirdt Ihnen dann auch gleich anderen I<span class="ex">[hrer]</span> G<span class="ex">[naden]</span> Stetten, <br/>
+<span class="lineNumber">40</span>Immuniteten<a class="fnNumber" href="#F_a" id="A_a">a</a> unndt freyheiten geben.
+<span class="lineNumber">41</span>4. Undt nicht gestatten, das die hanndtwerkher, so itzo zue <br/>
+<span class="lineNumber">42</span><button class="entity #altona place" data-ref="altona" data-type="place" id="d2e644">Altenahe</button> wohnen, annder, die auch dieselbieg wißen unndt <br/>
+<span class="lineNumber">43</span>redtlich uben wollen, dran sollen hinndern, sonnder <br/>
+<span class="lineNumber">44</span>I<span class="ex">[hre]</span> G<span class="ex">[naden]</span> wirdt die Hanndtwercker frey geben.
+<span class="lineNumber">45</span>5. Unndt wirdt I<span class="ex">[hre]</span> G<span class="ex">[naden]</span> die gnedige ahnordnung thun, wenn <br/>
+<span class="lineNumber">46</span>einer zue <button class="entity #altona place" data-ref="altona" data-type="place" id="d2e672">Altenahe</button> will bauwen, das der bey Drosten<a class="fnNumber" href="#F_7" id="A_7">7</a> <br/>
+<span class="lineNumber">47</span>unndt Amptten zum <button class="entity #pinneberg_grafschaft place" data-ref="pinneberg_grafschaft" data-type="place" id="d2e680">Pinnebergk</button> sollen richtigen bescheidtt <br/>
+<span class="lineNumber">48</span>bekommen.
+<span class="lineNumber">49</span>6. Die Niederlender, so in <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e691">Hamburgk</button> wohnen unndtt <br/>
+<span class="lineNumber">50</span>die Prediger zue <button class="entity #altona place" data-ref="altona" data-type="place" id="d2e696">Altenahe</button> wollen hören, werdten <br/>
+<span class="lineNumber">51</span>sich drumb gegen M<span class="ex">[einen]</span> g<span class="ex">[nädigen]</span> herren geburlich zuerzeigen <br/>
+<span class="lineNumber">52</span>wißen.
+<span class="lineNumber">53</span>Daß dieses alles also auf obenbemelten Dato verhandelt undt accordirt<a class="fnNumber" href="#F_8" id="A_8">8</a> <br/>
+<span class="lineNumber">54</span>worden, auf sonderlich begehr undt befehlich des Wolgebornen etc. meines <br/>
+<span class="lineNumber">55</span>f<span class="ex">[reundlichen]</span> lieben Vetters <button class="entity #ernst_schaumburg_holstein person" data-ref="ernst_schaumburg_holstein" data-type="person" id="d2e726">Grafe Ernsten zu Holstein Schaumburgk</button> etc. durch <br/>
+<span class="lineNumber">56</span><button class="entity #ernst_mansfeld_hinterort person" data-ref="ernst_mansfeld_hinterort" data-type="person" id="d2e730">mich</button> undt S<span class="ex">[einer]</span> L<span class="ex">[iebden]</span> Cantzler <button class="entity #wietersheim_anton person" data-ref="wietersheim_anton" data-type="person" id="d2e740">D. Antoni Wieterßheimb</button> etc. bezeuge <br/>
+<span class="lineNumber">57</span>ich mitt meiner handt subscription. Signum <button class="entity #stadthagen place" data-ref="stadthagen" data-type="place" id="d2e745">Stadhagen</button> den 28. <br/>
+<span class="lineNumber">58</span>Octobris Ao. 1601.
+<span class="lineNumber">59</span><button class="entity #ernst_mansfeld_hinterort person" data-ref="ernst_mansfeld_hinterort" data-type="person" id="d2e757">Ernst graf zu Mansffeldtt</button>

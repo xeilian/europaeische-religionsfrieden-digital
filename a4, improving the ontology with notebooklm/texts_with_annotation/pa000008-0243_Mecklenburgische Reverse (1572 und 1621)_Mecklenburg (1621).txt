@@ -1,0 +1,1044 @@
+<span class="lineNumber">1</span>Wir<a class="fnNumber" href="#F_1" id="A_1">1</a> <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e157">Ferdinandt der Ander</button> <br/>
+<span class="lineNumber">2</span>von Gottes gnaden, Erwölter<a class="fnNumber" href="#F_2" id="A_2">2</a> Römischer Kaiser, zu allen zeitten <br/>
+<span class="lineNumber">3</span>Mehrer deß <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e168">Reichs</button>, in <button class="entity #germanien place" data-ref="germanien" data-type="place" id="d2e171">Germanien</button>, zu <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e174">Hungern</button>, <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e177">Böhaimb</button>, <button class="entity #dalmatien place" data-ref="dalmatien" data-type="place" id="d2e180">Dalma-</button><br/>
+<span class="lineNumber">4</span><button class="entity #dalmatien place" data-ref="dalmatien" data-type="place" id="d2e180">tien</button>, <button class="entity #kroatien_koenigreich place" data-ref="kroatien_koenigreich" data-type="place" id="d2e188">Croatien</button> unnd <button class="entity #slawonien place" data-ref="slawonien" data-type="place" id="d2e191">Sclavonien</button> etc. König, Ertzhertzog zu <button class="entity #oesterreich_erzherzogtum place" data-ref="oesterreich_erzherzogtum" data-type="place" id="d2e194">Osterreich</button>, <br/>
+<span class="lineNumber">5</span>Hertzog zu <button class="entity #burgund_herzogtum place" data-ref="burgund_herzogtum" data-type="place" id="d2e199">Burgundi</button>, zu <button class="entity #brabant_herzogtum place" data-ref="brabant_herzogtum" data-type="place" id="d2e202">Brabant</button>, zu <button class="entity #steiermark_herzogtum place" data-ref="steiermark_herzogtum" data-type="place" id="d2e206">Steyr</button>, zu <button class="entity #kaernten_herzogtum place" data-ref="kaernten_herzogtum" data-type="place" id="d2e209">Karndten</button>, zu <button class="entity #krain_herzogtum place" data-ref="krain_herzogtum" data-type="place" id="d2e212">Crain</button>, <br/>
+<span class="lineNumber">6</span>zu <button class="entity #luxemburg_herzogtum place" data-ref="luxemburg_herzogtum" data-type="place" id="d2e217">Lützemburg</button>, zu <button class="entity #wuerttemberg_herzogtum place" data-ref="wuerttemberg_herzogtum" data-type="place" id="d2e220">Würtemberg</button>, <button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e224">Ober- unnd Nider-Schlesien</button>, Fürst <br/>
+<span class="lineNumber">7</span>zu Schwaben<a class="fnNumber" href="#F_3" id="A_3">3</a>, Marggrave deß <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e237">Heiligen Römischen Reichs</button> zu <button class="entity #burgau_markgrafschaft place" data-ref="burgau_markgrafschaft" data-type="place" id="d2e240">Burg-</button><br/>
+<span class="lineNumber">8</span><button class="entity #burgau_markgrafschaft place" data-ref="burgau_markgrafschaft" data-type="place" id="d2e240">au</button>, zu <button class="entity #maehren_markgrafschaft place" data-ref="maehren_markgrafschaft" data-type="place" id="d2e247">Mähren</button>, <button class="entity #oberlausitz_markgrafschaft place" data-ref="oberlausitz_markgrafschaft" data-type="place" id="d2e251">Ober-</button> unnd <button class="entity #niederlausitz_markgrafschaft place" data-ref="niederlausitz_markgrafschaft" data-type="place" id="d2e254">Nider-Lausznitz</button>, gefürster Grave zu <br/>
+<span class="lineNumber">9</span><button class="entity #habsburg_grafschaft place" data-ref="habsburg_grafschaft" data-type="place" id="d2e258">Habspurg</button>, zu <button class="entity #tirol_grafschaft place" data-ref="tirol_grafschaft" data-type="place" id="d2e261">Tyrol</button>, zu <button class="entity #pfirt_grafschaft place" data-ref="pfirt_grafschaft" data-type="place" id="d2e264">Pfierdt</button>, zu <button class="entity #kyburg_grafschaft place" data-ref="kyburg_grafschaft" data-type="place" id="d2e268">Kyburg</button> unnd zu <button class="entity #goerz_grafschaft place" data-ref="goerz_grafschaft" data-type="place" id="d2e271">Görtz</button>, Landt-<br/>
+<span class="lineNumber">10</span>graff in <button class="entity #elsass place" data-ref="elsass" data-type="place" id="d2e280">Elsäs</button>, Herr auf der <button class="entity #windische_mark place" data-ref="windische_mark" data-type="place" id="d2e283">Windischen Marck</button>, zu <button class="entity #portenau place" data-ref="portenau" data-type="place" id="d2e286">Portenau</button> und <br/>
+<span class="lineNumber">11</span>zu <button class="entity #salins_herrschaft place" data-ref="salins_herrschaft" data-type="place" id="d2e292">Salins</button> etc. bekennen fur Unns und Unß-<br/>
+<span class="lineNumber">12</span>ere nachkommen am reich<a class="fnNumber" href="#F_4" id="A_4">4</a> offentlich mit disem brief<a class="fnNumber" href="#F_5" id="A_5">5</a> und thuenn <br/>
+<span class="lineNumber">13</span>kundt allermenngclich<a class="fnNumber" href="#F_6" id="A_6">6</a>, daß Unnß Unnsere unnd deß <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e313">reichs</button> liebe <br/>
+<span class="lineNumber">14</span>getrewe N. unnd N.<a class="fnNumber" href="#F_7" id="A_7">7</a>, die fürstliche Meckelburgische Ritterschafft und <br/>
+<span class="lineNumber">15</span>lanndt ständt, in underthenigkait zuerkennen gegeben, waß <br/>
+<span class="lineNumber">16</span>maßen zwischen weilandt<a class="fnNumber" href="#F_8" id="A_8">8</a> den Hochgebornen <button class="entity #johann_albrecht_i_mecklenburg person" data-ref="johann_albrecht_i_mecklenburg" data-type="person" id="d2e329">Johann Albrechten</button> und <br/>
+<span class="lineNumber">17</span><button class="entity #ulrich_mecklenburg person" data-ref="ulrich_mecklenburg" data-type="person" id="d2e333">Ulrich</button>, Hertzogen zu <button class="entity #mecklenburg_herzogtum place" data-ref="mecklenburg_herzogtum" data-type="place" id="d2e336">Meckelburg</button>, gebrüedern, Unnsern liebenn <br/>
+<span class="lineNumber">18</span>oheimen<a class="fnNumber" href="#F_9" id="A_9">9</a> unnd fürsten, unnd inen, obberürtten<a class="fnNumber" href="#F_10" id="A_10">10</a> lanndtständen, zu <br/>
+<span class="lineNumber">19</span>beßerer unnd bestendiger verfaßung politischen wohlstandes unnd er-<br/>
+<span class="lineNumber">20</span>halttung gnedigen unnd respective undertheniger vertrauen, ge-<br/>
+<span class="lineNumber">21</span>wiße concordaten<a class="fnNumber" href="#F_11" id="A_11">11</a> unnd verainigung uffgerichtet, unter andern aber <br/>
+<span class="lineNumber">22</span>jahrs funffzehenhundert zway und sybenzig gewiße assecurationes<a class="fnNumber" href="#F_12" id="A_12">12</a> <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-1v"> [Blatt: 1<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">23</span>erthailet, darinnen die damals vorgewesene gravamina<a class="fnNumber" href="#F_13" id="A_13">13</a> erledigt, unnd <br/>
+<span class="lineNumber">24</span>wie das Justitien wesen<a class="fnNumber" href="#F_14" id="A_14">14</a> zuverbeßern, unnd sonsten allen besorgelichen disordien<a class="fnNumber" href="#F_15" id="A_15">15</a> <br/>
+<span class="lineNumber">25</span>trennung unnd mißverstandnußen vorzubüegen, mit irer, der landtschafft <br/>
+<span class="lineNumber">26</span>belieben disponirt, bey erhalttung solcher reversalien, hetten die höchst-<br/>
+<span class="lineNumber">27</span>gedachte lanndtfürsten unnd sy, die lanndtstände, sich iederzeit wohlempfunden. <br/>
+<span class="lineNumber">28</span>Nach dem nun die auch hochgeborne <button class="entity #adolf_friedrich_schwerin person" data-ref="adolf_friedrich_schwerin" data-type="person" id="d2e403">Adolph Friderich</button> und <button class="entity #johann_albrecht_II_guestrow person" data-ref="johann_albrecht_II_guestrow" data-type="person" id="d2e406">Hannß Albrecht</button>, <br/>
+<span class="lineNumber">29</span>gebrüedere, herzogen zu <button class="entity #mecklenburg_herzogtum place" data-ref="mecklenburg_herzogtum" data-type="place" id="d2e411">Meckelburg</button>, Unnsere liebe ohaimben unnd <br/>
+<span class="lineNumber">30</span>fürsten, alß yetzige regierende lanndtsfürsten unnd herrn zum regi-<br/>
+<span class="lineNumber">31</span>ment kommen, unnd sich darbey allerhandt unordnungen, spänn<a class="fnNumber" href="#F_16" id="A_16">16</a> unnd irr-<br/>
+<span class="lineNumber">32</span>salen erreugt, alß<a class="fnNumber" href="#F_17" id="A_17">17</a> hetten Ire L<span class="orig">L.</span>[iebden] demselben auß dem grundt<a class="fnNumber" href="#F_18" id="A_18">18</a> zu re-<br/>
+<span class="lineNumber">33</span>medirn<a class="fnNumber" href="#F_19" id="A_19">19</a>, unnd alle eingeriessene beschwärnußen abzustellen, mit ihr, <br/>
+<span class="lineNumber">34</span>der ritter- unnd lanndtschafft, jahrs sechzehenhundert ainund-<br/>
+<span class="lineNumber">35</span>zwainzig, den drey unndzwaintzigisten Februarii, nach langen müehsamen <br/>
+<span class="lineNumber">36</span>tractaten<a class="fnNumber" href="#F_20" id="A_20">20</a>, eine abermalige assecuration<a class="fnNumber" href="#F_21" id="A_21">21</a> getroffen, in welcher <br/>
+<span class="lineNumber">37</span>vorige vortrag<a class="fnNumber" href="#F_22" id="A_22">22</a> nicht allain bestettiget, sondern auch vielen unnötigen neuen <br/>
+<span class="lineNumber">38</span>erregten disputaten<a class="fnNumber" href="#F_23" id="A_23">23</a> abgeholffen, allerhanndt beschwärnußen er-<br/>
+<span class="lineNumber">39</span>ledigt, viel hailsames unnd berürten fürstenthumb <button class="entity #mecklenburg_herzogtum place" data-ref="mecklenburg_herzogtum" data-type="place" id="d2e480">Meckelburg</button> er-<br/>
+<span class="lineNumber">40</span>sprießliches constituiret unnd verordnet. Inmaßen hernach ge-<br/>
+<span class="lineNumber">41</span>schriebenes unnd Unnß in beglaubter form<a class="fnNumber" href="#F_24" id="A_24">24</a> furgebrachtes trans-<br/>
+<span class="lineNumber">42</span>sumpt<a class="fnNumber" href="#F_25" id="A_25">25</a>, mit mehrerm zuvernemen gibt unnd von wortt zu wortten <br/>
+<span class="lineNumber">43</span>hernach geschrieben stehet unnd also lauttet:
+<span class="lineNumber">44</span>[I.] ASSECURATIO <br/>
+<span class="lineNumber">45</span>zum <button class="entity #sternberg_stadt place" data-ref="sternberg_stadt" data-type="place" id="d2e520">Sterneberge</button> andern Iulii anno <br/>
+<span class="lineNumber">46</span>zwayunnd sybentzig datirt.
+<span class="lineNumber">47</span>Wir <button class="entity #johann_albrecht_i_mecklenburg person" data-ref="johann_albrecht_i_mecklenburg" data-type="person" id="d2e533">Johanns Albrecht</button> unnd <button class="entity #ulrich_mecklenburg person" data-ref="ulrich_mecklenburg" data-type="person" id="d2e536">Ulrich</button> gebrüedere, von Gottes <br/>
+<span class="lineNumber">48</span>gnaden hertzogen zu <button class="entity #mecklenburg_herzogtum place" data-ref="mecklenburg_herzogtum" data-type="place" id="d2e541">Meckelburg</button>, fürsten zu <button class="entity #wenden_fuerstentum place" data-ref="wenden_fuerstentum" data-type="place" id="d2e545">Wenden</button>, graven zu <button class="entity #schwerin_grafschaft place" data-ref="schwerin_grafschaft" data-type="place" id="d2e548">Schwerin</button>, <br/>
+<span class="lineNumber">49</span>der lannde <button class="entity #rostock place" data-ref="rostock" data-type="place" id="d2e553">Rosstockh</button> unnd <button class="entity #stargard place" data-ref="stargard" data-type="place" id="d2e556">Stargardt</button> herren, thuen <br/>
+<span class="lineNumber">50</span>kundt unnd bekennen hiemit: Nach dem Unnsere unnderthenige landt-<br/>
+<span class="lineNumber">51</span>schafft auf etzlichen bißhero gehaltenen lanndtagen Unnß underschiedliche <br/>
+<span class="lineNumber">52</span>beschwärungen, so eins thails die gemeine, eins theils aber sonderbare personen <br/>
+<span class="lineNumber">53</span>angehen unnd betreffen, stuckhweise fürgebracht unnd geklaget, unnd <br/>
+<span class="lineNumber">54</span>darüber Unser gnedige verpeßerung gebetten, daß Wir Unß darauf <br/>
+<span class="lineNumber">55</span>gegen gedachter Unnserer getreuen lanndtschafft gnedigelich erpotten <br/>
+<span class="lineNumber">56</span>unnd ercläret, thuen auch solches in krafft dises briefs, wie <br/>
+<span class="lineNumber">57</span>von puncten zu puncten folget:
+<span class="lineNumber">58</span><span class="article_added">[Art. I.1]</span> Erstlich, Nachdem auß dem mittel unnserer lanndträthe etzliche <br/>
+<span class="lineNumber">59</span>mit todte abgangen, so haben wir zu ersezung derselbigen ledigen stelle <br/>
+<span class="lineNumber">60</span>die erbaren Unnsere lehenleute unnd liebe getreuen <button class="entity #rohr_joachim person" data-ref="rohr_joachim" data-type="person" id="d2e592">Johim Rhore zum </button><br/>
+<span class="lineNumber">61</span><button class="entity #rohr_joachim person" data-ref="rohr_joachim" data-type="person" id="d2e592">Neuenhause</button>, <button class="entity #hahn_kuno person" data-ref="hahn_kuno" data-type="person" id="d2e597">Köne Hanen zu Basedow</button>, <button class="entity #linstow_hans person" data-ref="linstow_hans" data-type="person" id="d2e601">Hannß Linsowen zu Bellin</button> und <button class="entity #fincke_claus person" data-ref="fincke_claus" data-type="person" id="d2e604">Clauß </button><br/>
+<span class="lineNumber">62</span><button class="entity #fincke_claus person" data-ref="fincke_claus" data-type="person" id="d2e604">Fincken zum Gnemer</button> verordnet unnd zu landträthen erwehlet, die auch durch <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-2v"> [Blatt: 2<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">63</span>sonderbare schrifften darzu ermahnet seind worden, sich zu solchem stande <br/>
+<span class="lineNumber">64</span>guetwillig vermügen unnd auf disem landtage voreyden zu laßen<a class="fnNumber" href="#F_a" id="A_a">a</a>, die wollen <br/>
+<span class="lineNumber">65</span>Wir hinfüro<a class="fnNumber" href="#F_26" id="A_26">26</a> neben den alten lanndträthen in fürfallenden nöthen zu rathe <br/>
+<span class="lineNumber">66</span>ziehen unnd gebrauchen, nach dem löblichen exempel Unnserer gottseeligen <br/>
+<span class="lineNumber">67</span>voreltern, milder gedächtnus.
+<span class="lineNumber">68</span><span class="article_added">[Art. I.2]</span> Zum andern sollen zu vollnkommener unnd warhafftiger bestel-<br/>
+<span class="lineNumber">69</span>lung Unnsers hof gerichts, zwelff personen, jederzeit auf den rechts-<br/>
+<span class="lineNumber">70</span>tagen sitzen, lauts unnd einhalts<a class="fnNumber" href="#F_27" id="A_27">27</a> Unserer hofgerichtsordnung, nemblich <br/>
+<span class="lineNumber">71</span>vier lanndträthe, vier hofräthe, eine vom <button class="entity #schwerin_hochstift place" data-ref="schwerin_hochstift" data-type="place" id="d2e657">stifft Schwerin</button>, eine von der <br/>
+<span class="lineNumber">72</span>hohen schuel<a class="fnNumber" href="#F_28" id="A_28">28</a> zu <button class="entity #rostock place" data-ref="rostock" data-type="place" id="d2e665">Rostockh</button>, zway von baide seestetten, <button class="entity #rostock place" data-ref="rostock " data-type="place" id="d2e668">Rostockh</button> <br/>
+<span class="lineNumber">73</span>unnd <button class="entity #wismar place" data-ref="wismar" data-type="place" id="d2e674">Wißmar</button>, unnd den beysitzer eydt, so darin verleibet<a class="fnNumber" href="#F_29" id="A_29">29</a>, auf ietzigen <br/>
+<span class="lineNumber">74</span>rechts tag würcklich schwären<a class="fnNumber" href="#F_30" id="A_30">30</a>, auch dabey one veränderung in solcher anzahl <br/>
+<span class="lineNumber">75</span>jederzeit gelaßen werden.
+<span class="lineNumber">76</span><span class="article_added">[Art. I.3]</span> Zum dritten sollen Unnsere haupt- und amptleute zu denen clagen, <br/>
+<span class="lineNumber">77</span>die in irer befohlenen ambts verwalttung sich zutragen oder verursachet <br/>
+<span class="lineNumber">78</span>werden, an Unnserm hofgericht zu andtwortten schuldig sein unnd keinen <br/>
+<span class="lineNumber">79</span>declinatoriae exceptionis fori<a class="fnNumber" href="#F_31" id="A_31">31</a>, wie ein zeitlang bißhero geschehen, <br/>
+<span class="lineNumber">80</span>sich dawider zugebrauchen haben. So sollen auch die amptleute durch einige <br/>
+<span class="lineNumber">81</span>rescripta<a class="fnNumber" href="#F_32" id="A_32">32</a> von Unns nicht auß dem gerichtszwang eximiret<a class="fnNumber" href="#F_33" id="A_33">33</a> oder <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-3r"> [Blatt: 3<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">82</span>avocieret<a class="fnNumber" href="#F_34" id="A_34">34</a> werden, und da gleich solches per obreptionem<a class="fnNumber" href="#F_35" id="A_35">35</a> geschehe, soll <br/>
+<span class="lineNumber">83</span>es doch crafftloß unnd nichtig sein. So soll auch kein poenal manda-<br/>
+<span class="lineNumber">84</span>tum<a class="fnNumber" href="#F_36" id="A_36">36</a> auß der gerichts- oder hof-cantzley im anfang ohne justificatori <br/>
+<span class="lineNumber">85</span>clausul<a class="fnNumber" href="#F_37" id="A_37">37</a> außgehen. Wolte auch jemandt Unnß selbst besprechen<a class="fnNumber" href="#F_38" id="A_38">38</a>, <br/>
+<span class="lineNumber">86</span>so wollen Wir vermüge deß <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e749">heyligen reichs</button> außträge<a class="fnNumber" href="#F_39" id="A_39">39</a> oder vermittelst <br/>
+<span class="lineNumber">87</span>in der setzung der parium curiae<a class="fnNumber" href="#F_40" id="A_40">40</a> einem jeden unwaigerlich<a class="fnNumber" href="#F_41" id="A_41">41</a> rechtspflegen<a class="fnNumber" href="#F_42" id="A_42">42</a>. <br/>
+<span class="lineNumber">88</span>Hetten aber Wir jemandt von Unnsern underthanen zubelangen, und solches <br/>
+<span class="lineNumber">89</span>nit offenbare hochstrafflich peinliche falle betreffe, in welchen von gefengk-<br/>
+<span class="lineNumber">90</span>lichen angrif, nach verordnung der rechte, der anfang gemacht würdt, so soll <br/>
+<span class="lineNumber">91</span>wider denselben nicht mit gwaldtsamer thatt oder vom zugriff unnd ein-<br/>
+<span class="lineNumber">92</span>ziehung der güetter oder execution, sondern citation zuvorher und <br/>
+<span class="lineNumber">93</span>erkundigung der sachen verfahren werden, wie solches in gottlichen, natür-<br/>
+<span class="lineNumber">94</span>lichen unnd beschriebenen<a class="fnNumber" href="#F_43" id="A_43">43</a> rechten versehen<a class="fnNumber" href="#F_44" id="A_44">44</a>, damit eines jeden einrede<a class="fnNumber" href="#F_45" id="A_45">45</a> unnd <br/>
+<span class="lineNumber">95</span>entschuldigung angehört, beweiß aufgenommen unnd ordenlich darüber <br/>
+<span class="lineNumber">96</span>erkendt<a class="fnNumber" href="#F_46" id="A_46">46</a> werde.
+<span class="lineNumber">97</span><span class="article_added">[Art. I.4]</span> Zum Vierten überweisen Wir Unserer landtschafft die drey jung-<br/>
+<span class="lineNumber">98</span>frawen clöster <button class="entity #dobbertin_kloster place" data-ref="dobbertin_kloster" data-type="place" id="d2e821">Dobbertin</button>, <button class="entity #ribnitz_kloster place" data-ref="ribnitz_kloster" data-type="place" id="d2e824">Ribbenitz</button> unnd <button class="entity #malchow_kloster place" data-ref="malchow_kloster" data-type="place" id="d2e827">Malchouw</button>, dergestalt das <br/>
+<span class="lineNumber">99</span>sy christlicher erbarer auferziehung der innlandischen jungfrauen, so sich <br/>
+<span class="lineNumber">100</span>darin zubegeben lust hetten, angewendt unnd gebraucht werden<a class="fnNumber" href="#F_47" id="A_47">47</a> unnd die <br/>
+<span class="lineNumber">101</span>lanndtschafft macht haben soll, einen ambtman, vorsteher oder verwahlter, <br/>
+<span class="lineNumber">102</span>doch vermittelst Unnser confirmation<a class="fnNumber" href="#F_48" id="A_48">48</a> unnd bestettigung, darein zu-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-3v"> [Blatt: 3<span class="rectoVerso">v</span> ] </button><br/>
+<span class="lineNumber">103</span>zusetzen und auß erheblichen ursachen wider zuenturlauben<a class="fnNumber" href="#F_49" id="A_49">49</a>, welcher sambtlich <br/>
+<span class="lineNumber">104</span>Unns und etzlichen, so die lanndtschafft verordnet, nemblichen <button class="entity #below_georg person" data-ref="below_georg" data-type="person" id="d2e863">Georgen Belaw </button><br/>
+<span class="lineNumber">105</span><button class="entity #below_georg person" data-ref="below_georg" data-type="person" id="d2e863">zu Kargouw</button>, <button class="entity #plessen_dietrich person" data-ref="plessen_dietrich" data-type="person" id="d2e868">Dietrich Pleß zu Zulouw</button>, <button class="entity #oldenburg_claus person" data-ref="oldenburg_claus" data-type="person" id="d2e871">Clauß von Oldenburg zu Grem-</button><br/>
+<span class="lineNumber">106</span><button class="entity #oldenburg_claus person" data-ref="oldenburg_claus" data-type="person" id="d2e871">melein</button> unnd <button class="entity #cramon_johann person" data-ref="cramon_johann" data-type="person" id="d2e880">Johann Krammon zu Wusterin</button>, von seiner haußhalttung <br/>
+<span class="lineNumber">107</span>jährlich rechnung thuen, unnd waß an einkommen ersparret und erübriget <br/>
+<span class="lineNumber">108</span>würdt, dem closter zum besten angewendet, dargegen auch die jungfern <br/>
+<span class="lineNumber">109</span>nach Unnserer gefaßeten Reformation<a class="fnNumber" href="#F_50" id="A_50">50</a> leben unnd wandeln, unnd durch die <br/>
+<span class="lineNumber">110</span>lanndtschafft eine gewiße ordnung der haußhalttung auf Unser ratifica-<br/>
+<span class="lineNumber">111</span>tion<a class="fnNumber" href="#F_51" id="A_51">51</a> gemacht und darein gehaltten werden soll. Eß soll aber die <br/>
+<span class="lineNumber">112</span>hochgeborne fürstinne <button class="entity #ursula_mecklenburg person" data-ref="ursula_mecklenburg" data-type="person" id="d2e905">Freulein Ursula, Hertzogin zu Mecklnburg</button> unnd <br/>
+<span class="lineNumber">113</span>abbtißin zu <button class="entity #ribnitz_kloster place" data-ref="ribnitz_kloster" data-type="place" id="d2e910">Ribbenitze</button>, Unsere freundliche liebe vetterche<a class="fnNumber" href="#F_52" id="A_52">52</a>, an volkommener <br/>
+<span class="lineNumber">114</span>regierung, administrierung, bestallung unnd genießung gemelttes <br/>
+<span class="lineNumber">115</span>closters <button class="entity #ribnitz_kloster place" data-ref="ribnitz_kloster" data-type="place" id="d2e921">Ribbenitz</button> die zeit <button class="entity #ursula_mecklenburg person" data-ref="ursula_mecklenburg" data-type="person" id="d2e924">Irer L<span class="orig">.</span>[iebden]</button> lebens dardurch in nichts gehindert, <br/>
+<span class="lineNumber">116</span>keine jungfraw ohne <button class="entity #ursula_mecklenburg person" data-ref="ursula_mecklenburg" data-type="person" id="d2e932">Irer L<span class="orig">.</span>[iebden]</button> vorwißen unnd bewilligung hienein begeben, <br/>
+<span class="lineNumber">117</span>sondern alles in vorigen stande (ohn<a class="fnNumber" href="#F_53" id="A_53">53</a> das sich die jungfrawen Unnserer neuen <br/>
+<span class="lineNumber">118</span>closter ordnung gleich den andern gemäß vorhalten sollen) bey <button class="entity #ursula_mecklenburg person" data-ref="ursula_mecklenburg" data-type="person" id="d2e944">Irer L<span class="orig">.</span>[iebden]</button> <br/>
+<span class="lineNumber">119</span>leben gelaßen werden. Wann aber <button class="entity #ursula_mecklenburg person" data-ref="ursula_mecklenburg" data-type="person" id="d2e952">genantes freylein, die </button><br/>
+<span class="lineNumber">120</span><button class="entity #ursula_mecklenburg person" data-ref="ursula_mecklenburg" data-type="person" id="d2e952">jetzige abbtißin</button> nach Gottes willen vorsturbe, so soll diß closter <button class="entity #ribnitz_kloster place" data-ref="ribnitz_kloster" data-type="place" id="d2e957">Ribbenitz</button> <br/>
+<span class="lineNumber">121</span>in allermaß wie <button class="entity #dobbertin_kloster place" data-ref="dobbertin_kloster" data-type="place" id="d2e965">Dobbertin</button><a class="fnNumber" href="#F_b" id="A_b">b</a> an eine Erbare Landtschafft unnd derselbigen <br/>
+<span class="lineNumber">122</span>verordnungen kommen, daran Wir sy auch nicht hintern sollen noch wollen. <br/>
+<span class="lineNumber">123</span>Wir wollen auch auß sondern gnaden, umb Unnserer getreuen landtschafft <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-4r"> [Blatt: 4<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">124</span>pitt<a class="fnNumber" href="#F_54" id="A_54">54</a> willen, daß closter <button class="entity #dobbertin_kloster place" data-ref="dobbertin_kloster" data-type="place" id="d2e983">Dobbertin</button>, <button class="entity #ribnitz_kloster place" data-ref="ribnitz_kloster" data-type="place" id="d2e986">Ribbenitz</button> und <button class="entity #malchow_kloster place" data-ref="malchow_kloster" data-type="place" id="d2e990">Molchouw</button>, mit <br/>
+<span class="lineNumber">125</span>tage leistungen, so ie bißweiln hiebevorn darein gehaltten worden, deß-<br/>
+<span class="lineNumber">126</span>gleichen mit dem auffritt<a class="fnNumber" href="#F_55" id="A_55">55</a> unnd atzung<a class="fnNumber" href="#F_56" id="A_56">56</a> Unns unnd Unnserer diener unnd <br/>
+<span class="lineNumber">127</span>gesindes, unnd dann derselbigen zugehörige untersäßen<a class="fnNumber" href="#F_57" id="A_57">57</a> unnd pauersleuthe, <br/>
+<span class="lineNumber">128</span>mit allem fleiß unnd fuhr diensten, fürnemblich auch mit dem vierzehen-<br/>
+<span class="lineNumber">129</span>tagigen hasen jäger ablagern<a class="fnNumber" href="#F_58" id="A_58">58</a>, so wir von alters hero im closter gehabt, <br/>
+<span class="lineNumber">130</span>hinfuro verschonen unnd Unns derselben hiermit begeben<a class="fnNumber" href="#F_59" id="A_59">59</a> haben. Jedoch <br/>
+<span class="lineNumber">131</span>vorbeheltlich Unnsers herbst ablagers im closter <button class="entity #dobbertin_kloster place" data-ref="dobbertin_kloster" data-type="place" id="d2e1032">Dobbertin</button> und deß <br/>
+<span class="lineNumber">132</span>alten jäger ablagers, so Wir auf deß <button class="entity #dobbertin_kloster place" data-ref="dobbertin_kloster" data-type="place" id="d2e1037">closters</button> pauersleuthen, vonn <br/>
+<span class="lineNumber">133</span>Unnsere voreltern erblich hergebracht. Wie wir dann auch die altten <br/>
+<span class="lineNumber">134</span>wohlhergebrachte ablager in baiden clöstern <button class="entity #ribnitz_kloster place" data-ref="ribnitz_kloster" data-type="place" id="d2e1045">Ribbenitz</button> und <button class="entity #malchow_kloster place" data-ref="malchow_kloster" data-type="place" id="d2e1048">Malchow</button> <br/>
+<span class="lineNumber">135</span>gleichergestalt Unns fürbehaltten.
+<span class="lineNumber">136</span><span class="article_added">[Art. I.5]</span> Zum fünfften soll mennigelichen<a class="fnNumber" href="#F_60" id="A_60">60</a> frey stehen, der sich an Unserm <br/>
+<span class="lineNumber">137</span>consistorio oder kirchen gerichte beschwäret zesein vermeinet, davon <br/>
+<span class="lineNumber">138</span>ordentlicher weise an Unnser hofgerichte zu appellirn unnd summarie<a class="fnNumber" href="#F_61" id="A_61">61</a> <br/>
+<span class="lineNumber">139</span>seine beschwärung zu deducirn<a class="fnNumber" href="#F_62" id="A_62">62</a>, auch der rechtlichen wohlthatt<a class="fnNumber" href="#F_63" id="A_63">63</a> non de-<br/>
+<span class="lineNumber">140</span>ducta deducam et non probata probabo zugebrauchen,<a class="fnNumber" href="#F_64" id="A_64">64</a> wann auch <br/>
+<span class="lineNumber">141</span>hinfüro einer von Unnsern superintendenten in seinem craiß visitiren <br/>
+<span class="lineNumber">142</span>wurde, sollen ime allezeit etlich nachgesessene tüchtige persohnen <br/>
+<span class="lineNumber">143</span>von der lanndtschafft adiungiert<a class="fnNumber" href="#F_65" id="A_65">65</a> werden.
+<span class="lineNumber">144</span><span class="article_added">[Art. I.6]</span> Zum sechsten wollen Wir hinfüro Unser landt- unnd <br/>
+<span class="lineNumber">145</span>musterungs täge auf dem Judenberge<a class="fnNumber" href="#F_66" id="A_66">66</a> für<a class="fnNumber" href="#F_67" id="A_67">67</a> Unnser statt <br/>
+<span class="lineNumber">146</span><button class="entity #sternberg_stadt place" data-ref="sternberg_stadt" data-type="place" id="d2e1116">Sternebergs</button> haltten.
+<span class="lineNumber">147</span><span class="article_added">[Art. I.7]</span> Zum sybenden, soll hinfüro in Unser hofkantzley nachfolgender tax<a class="fnNumber" href="#F_68" id="A_68">68</a> <br/>
+<span class="lineNumber">148</span>in außlösung der brife gehalten werden, in beyden cantzleyen zusammen: <br/>
+<span class="lineNumber">149</span>von einem wilbrief<a class="fnNumber" href="#F_69" id="A_69">69</a> auf verpfendete oder zum leibgeding<a class="fnNumber" href="#F_70" id="A_70">70</a> vermachten güeter <br/>
+<span class="lineNumber">150</span>von hundert einen halben, von neuen lehenbrifen nach wihrdierung<a class="fnNumber" href="#F_71" id="A_71">71</a> deß <br/>
+<span class="lineNumber">151</span>lehenguets von hundert einen halben, von einem gleide<a class="fnNumber" href="#F_72" id="A_72">72</a> einen thaler, <br/>
+<span class="lineNumber">152</span>von einem arrest oder relaxation<a class="fnNumber" href="#F_73" id="A_73">73</a> brife zwelff schilling<a class="fnNumber" href="#F_74" id="A_74">74</a>, von einem <br/>
+<span class="lineNumber">153</span>abschiede oder vertrage, nach mündtlicher verhör oder gehalttenem par-<br/>
+<span class="lineNumber">154</span>theyen verbescheide<a class="fnNumber" href="#F_75" id="A_75">75</a>, einen thaler, von einem paßbrief zu seewarts oder <br/>
+<span class="lineNumber">155</span>zu lande einen thaler, von einem tutorio oder curatorio<a class="fnNumber" href="#F_76" id="A_76">76</a> sechtzehen schilling <br/>
+<span class="lineNumber">156</span>lübsch<a class="fnNumber" href="#F_77" id="A_77">77</a>, von einer citation oder commission, in baiden cantzleyen zu-<br/>
+<span class="lineNumber">157</span>sammen, sechs schilling, von einem mueth zettel<a class="fnNumber" href="#F_78" id="A_78">78</a> sechtzehen ßlüb<a class="fnNumber" href="#F_79" id="A_79">79</a>, vor aine <br/>
+<span class="lineNumber">158</span>vorschrifft<a class="fnNumber" href="#F_80" id="A_80">80</a> an potentaten oder fürsten oder ansehenlichen communen sechs <br/>
+<span class="lineNumber">159</span>schilling.
+<span class="lineNumber">160</span><span class="article_added">[Art. I.8]</span> Zum achten wollen Wir hinfüro keinem<a class="fnNumber" href="#F_c" id="A_c">c</a> von der ritterschafft, <br/>
+<span class="lineNumber">161</span>der zu ablegung seiner schulden oder wendung anderer obligenden<a class="fnNumber" href="#F_81" id="A_81">81</a> noth, <br/>
+<span class="lineNumber">162</span>sein alt stamblehen<a class="fnNumber" href="#F_82" id="A_82">82</a>, so nicht auf den eußersten fall der anwarttung<a class="fnNumber" href="#F_83" id="A_83">83</a> <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-5r"> [Blatt: 5<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">163</span>oder eröffnung stunde, verpfenden, versetzen oder auch zum leibgeding <br/>
+<span class="lineNumber">164</span>vermachen<a class="fnNumber" href="#F_84" id="A_84">84</a> wolte, Unnsern consens unnd wilbrief weigern, doch daß daßelbe <br/>
+<span class="lineNumber">165</span>dem negesten agnaten<a class="fnNumber" href="#F_85" id="A_85">85</a> zuvorn angebotten werde.
+<span class="lineNumber">166</span>articul sambt und sonderlich gereden Wir bey Unsern fürstlichen ehren, <br/>
+<span class="lineNumber">167</span>für Unnß, Unnsere erben unnd alle nachkommende hertzogen zu <button class="entity #mecklenburg_herzogtum place" data-ref="mecklenburg_herzogtum" data-type="place" id="d2e1254">Meckeln-</button><br/>
+<span class="lineNumber">168</span><button class="entity #mecklenburg_herzogtum place" data-ref="mecklenburg_herzogtum" data-type="place" id="d2e1254">burg</button>, Unnserer getreuen, gehorsamben landtschafft gnedigelich und vesst<a class="fnNumber" href="#F_86" id="A_86">86</a> <br/>
+<span class="lineNumber">169</span>iederzeit zuhaltten, zu urkundt haben Wir Unns mit eignen handen under-<br/>
+<span class="lineNumber">170</span>schrieben, unnd unnsere secret<a class="fnNumber" href="#F_87" id="A_87">87</a> zu endt dises briefs aufgetrucket, der <br/>
+<span class="lineNumber">171</span>geben ist zum <button class="entity #sternberg_stadt place" data-ref="sternberg_stadt" data-type="place" id="d2e1278">Sterneberge</button>, den andern July, anno der wenigern <br/>
+<span class="lineNumber">172</span>zahl zway unnd sybentzig,
+<span class="lineNumber">173</span><button class="entity #johann_albrecht_i_mecklenburg person" data-ref="johann_albrecht_i_mecklenburg" data-type="person" id="d2e1291">Hannß Albrecht</button> <br/>
+<span class="lineNumber">174</span>H<span class="orig">.</span>[erzog] z<span class="orig">.</span>[u] <button class="entity #mecklenburg_herzogtum place" data-ref="mecklenburg_herzogtum" data-type="place" id="d2e1303">M<span class="orig">.</span>[ecklenburg]</button> <span class="orig">mppa.</span>[manu propria] <br/>
+<span class="lineNumber">175</span><button class="entity #ulrich_mecklenburg person" data-ref="ulrich_mecklenburg" data-type="person" id="d2e1314">Ulrich</button> Hertzog <br/>
+<span class="lineNumber">176</span>zu <button class="entity #mecklenburg_herzogtum place" data-ref="mecklenburg_herzogtum" data-type="place" id="d2e1322">Mecklnburg</button> <br/>
+<span class="lineNumber">177</span><span class="orig">mppa.</span>[manu propria.]
+<span class="lineNumber">178</span>[II.] REVERS<a class="fnNumber" href="#F_88" id="A_88">88</a> <br/>
+<span class="lineNumber">179</span> quarta Iulij anno funffzehenhundert <br/>
+<span class="lineNumber">180</span>zway und sybenzig zum <button class="entity #sternberg_stadt place" data-ref="sternberg_stadt" data-type="place" id="d2e1346">Sterneberge</button> gegeben. <br/>
+<span class="lineNumber">181</span>Wir, von Gottes gnaden <button class="entity #johann_albrecht_i_mecklenburg person" data-ref="johann_albrecht_i_mecklenburg" data-type="person" id="d2e1352">Johanns Albrecht</button> unnd <button class="entity #ulrich_mecklenburg person" data-ref="ulrich_mecklenburg" data-type="person" id="d2e1355">Ulrich</button> gebrüedere, <br/>
+<span class="lineNumber">182</span>herzogen zu <button class="entity #mecklenburg_herzogtum place" data-ref="mecklenburg_herzogtum" data-type="place" id="d2e1360">Meckelnburg</button>, fürsten zu <button class="entity #wenden_fuerstentum place" data-ref="wenden_fuerstentum" data-type="place" id="d2e1363">Wenden</button>, graven zu <button class="entity #schwerin_grafschaft place" data-ref="schwerin_grafschaft" data-type="place" id="d2e1366">Schwerin</button>, <br/>
+<span class="lineNumber">183</span>der lande <button class="entity #rostock place" data-ref="rostock" data-type="place" id="d2e1372">Rosstockh</button> unnd <button class="entity #stargard place" data-ref="stargard" data-type="place" id="d2e1375">Stargardt</button> herren, bekennen hiemit <br/>
+<span class="lineNumber">184</span>für Unß, Unnsere erben unnd nachkommende herzogen zu <button class="entity #mecklenburg_herzogtum place" data-ref="mecklenburg_herzogtum" data-type="place" id="d2e1380"> Meckhln-</button><br/>
+<span class="lineNumber">185</span><button class="entity #mecklenburg_herzogtum place" data-ref="mecklenburg_herzogtum" data-type="place" id="d2e1380">burg</button>: <span class="article_added">[Art. II.1]</span> Nach dem Unnsere liebe getreuen underthanen aller stände uff <br/>
+<span class="lineNumber">186</span>Unnser vielfeltiges gnediges begern unnd anregen sich auß undertheniger zu-<br/>
+<span class="lineNumber">187</span>naigung, treue unnd liebe, so sy gegen Unns, alß ire erbherrn und landes fürsten <br/>
+<span class="lineNumber">188</span>tragen, unnd daß Wir ihnen die drey zugesagte clöster <button class="entity #dobbertin_kloster place" data-ref="dobbertin_kloster" data-type="place" id="d2e1407">Dobberten</button>, <button class="entity #ribnitz_kloster place" data-ref="ribnitz_kloster" data-type="place" id="d2e1410">Ribbenitze</button> <br/>
+<span class="lineNumber">189</span>unnd <button class="entity #malchow_kloster place" data-ref="malchow_kloster" data-type="place" id="d2e1416">Malchow</button> mit mehrer befreyung unnd erlaßung derer hiebevor darauf <br/>
+<span class="lineNumber">190</span>hafftenden beschwärungen<a class="fnNumber" href="#F_89" id="A_89">89</a> eingereumet unnd ubergeben, auch etzlichen allgemeinen <br/>
+<span class="lineNumber">191</span>unnd sonderbaren<a class="fnNumber" href="#F_90" id="A_90">90</a> beschwärungen, zum thail abgeholffen, unnd nachmahlen den <br/>
+<span class="lineNumber">192</span>übrigen, so noch nit abgeholffen, gnedigclich unnd förderlich abhelffen wollen, <br/>
+<span class="lineNumber">193</span>solches auch von Unnß und<a class="fnNumber" href="#F_d" id="A_d">d </a> inen assecurieret<a class="fnNumber" href="#F_91" id="A_91">91</a> oder versichert, unnd daß auch <br/>
+<span class="lineNumber">194</span>die jenigen vom adel unnd stetten, in Unnserer landtschafft geseßen<a class="fnNumber" href="#F_92" id="A_92">92</a>, so fur <br/>
+<span class="lineNumber">195</span>Unnß sich in bürgschafft gelaßen oder Unnß ir gelt fürstrecket, entfreyet <br/>
+<span class="lineNumber">196</span>unnd bezahlet werden sollen, doch unschedlich unnd unverfengclich Unnsers zuvor <br/>
+<span class="lineNumber">197</span>inen gegebenen revers, sich freywillig unnd one alle pflicht unnd schuldt dahin <br/>
+<span class="lineNumber">198</span>bewegen laßen, daß sy zu abhelffung Unnserer obligenden schulden under-<br/>
+<span class="lineNumber">199</span>thenig bewilligt, zugesagt unnd versprochen, viermahlhundert tausent <br/>
+<span class="lineNumber">200</span>gulden jezt gangbarer münze zuerlegen unnd Unnsere warhafftige richtige <br/>
+<span class="lineNumber">201</span>unnd außgezahlte schulde (fürnemblich aber, unnd daß für allen andern Unsere <br/>
+<span class="lineNumber">202</span>bürgen vom adl unnd stetten Unnserer lanndtschafft, solcher ihrer <br/>
+<span class="lineNumber">203</span>geliebdten<a class="fnNumber" href="#F_93" id="A_93">93</a> entfreyet, unnd die Uns gelt geliehen, bezahlt worden) abzu-<br/>
+<span class="lineNumber">204</span>tragen, sich auch der mittel unnd hilff, dadurch solches geschehen soll, mit-<br/>
+<span class="lineNumber">205</span>einander unverzoglich vergleichen wolen, <span class="article_added">[Art. II.2]</span> daß Wir demnach, wie <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-6r"> [Blatt: 6<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">206</span>zuvorn in erbhuldigung, auch annemung der vorigen schulde geschehen, <br/>
+<span class="lineNumber">207</span>denen vom adel unnd stetten gnedigclich zugesagt, sy bey allen <br/>
+<span class="lineNumber">208</span>iren habenden privilegien, freyhaiten unnd gerechtigkait (die sy <br/>
+<span class="lineNumber">209</span>von Unnsern löblichen vorfahren, den herzogen zu <button class="entity #mecklenburg_herzogtum place" data-ref="mecklenburg_herzogtum" data-type="place" id="d2e1503">Mecklnburg</button> er-<br/>
+<span class="lineNumber">210</span>worben, geruehigclich unnd wohlhergebracht haben), insonderhait die <br/>
+<span class="lineNumber">211</span>vom adl, die sonsten mit iren ritterlichen güettern ain freyer <br/>
+<span class="lineNumber">212</span>standt ist unnd sein soll, bleiben laßen, auch darbey deßgleichen bey der <br/>
+<span class="lineNumber">213</span>wahren religion der <button aria-label="opens information about an entity" class="entity event" data-ref="#ca_invariata">Augspurgischen Confession</button> unnd bey friedt <br/>
+<span class="lineNumber">214</span>unnd recht gnedigclich schutzen unnd handthaben<a class="fnNumber" href="#F_94" id="A_94">94</a>, auch den allgemeinenn <br/>
+<span class="lineNumber">215</span>unnd sonderbaren Unnß fürgebrachten beschwärungen<a class="fnNumber" href="#F_95" id="A_95">95</a> unnd clagenn, <br/>
+<span class="lineNumber">216</span>welchen noch nit abgeholffen, aber dennoch liquide<a class="fnNumber" href="#F_96" id="A_96">96</a> und auf sigel unnd <br/>
+<span class="lineNumber">217</span>brife<a class="fnNumber" href="#F_97" id="A_97">97</a> oder kundtbarlichen<a class="fnNumber" href="#F_98" id="A_98">98</a> entwehrungen<a class="fnNumber" href="#F_99" id="A_99">99</a> beruehen, unverzügclich und ohne <br/>
+<span class="lineNumber">218</span>alle ferner vorweisen<a class="fnNumber" href="#F_100" id="A_100">100</a> oder rechtsgang abgeholffen, die andern <br/>
+<span class="lineNumber">219</span>aber, welche nicht so kundtbar, sondern altiorem indaginem<a class="fnNumber" href="#F_101" id="A_101">101</a> erfordern, <br/>
+<span class="lineNumber">220</span>durch die nachgesessene<a class="fnNumber" href="#F_102" id="A_102">102</a> unpartheysche commißarien (welche sich unverzüg-<br/>
+<span class="lineNumber">221</span>lich darzu erledigen<a class="fnNumber" href="#F_103" id="A_103">103</a> sollen unnd wollen)<a class="fnNumber" href="#F_e" id="A_e">e</a> oder durch nidersetzung der Räthe oder <br/>
+<span class="lineNumber">222</span>parium curiae<a class="fnNumber" href="#F_104" id="A_104">104</a>, wie solches dem clagendem thail am besten gelegen und <br/>
+<span class="lineNumber">223</span>von Unnß bitten werden, noch für<a class="fnNumber" href="#F_105" id="A_105">105</a> Michaelis<a class="fnNumber" href="#F_106" id="A_106">106</a> den anfang geben, unnd <br/>
+<span class="lineNumber">224</span>folgents mit dem aller förderlichsten, unnd zum lengsten innerhalb Jahrs <br/>
+<span class="lineNumber">225</span>Jahrs<a class="fnNumber" href="#F_f" id="A_f">f</a> frist zu entlicher<a class="fnNumber" href="#F_107" id="A_107">107</a> erörtterung, gnediger unnd billiger<a class="fnNumber" href="#F_108" id="A_108">108</a> endtschafft<a class="fnNumber" href="#F_109" id="A_109">109</a> <br/>
+<span class="lineNumber">226</span>kommen unnd gelangen laßen wöllen, <span class="article_added">[Art. II.3]</span> mit diesem anhange<a class="fnNumber" href="#F_110" id="A_110">110</a> und gnedigen <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-6v"> [Blatt: 6<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">227</span>zusage, daß dise der landtschafft iezt abermals geleistete freywillige <br/>
+<span class="lineNumber">228</span>hilff inen unnd allen iren nachkommen daran unnd also an iren privilegien, <br/>
+<span class="lineNumber">229</span>freyhaiten, gewonnhaiten unnd von Unnß habenden revers (welchen Wir <br/>
+<span class="lineNumber">230</span>hiemit in der allerbesten form, maß unnd gestalt, wie solches von rechts <br/>
+<span class="lineNumber">231</span>wegen geschehen soll, kann oder mag, verneuert, erweitert und confirmirt<a class="fnNumber" href="#F_111" id="A_111">111</a> <br/>
+<span class="lineNumber">232</span>haben wollen) ganz unschedlich unnd unnachtailig sein soll. <span class="article_added">[Art. II.4]</span> Sy sollen auch solche <br/>
+<span class="lineNumber">233</span>unnd dergleichen beschwärungen auf sich zunemen unnd hilff zuleisten, hinfüro <br/>
+<span class="lineNumber">234</span>nicht schuldig noch verpflichtet sein, sondern allewege bey iren alten privi-<br/>
+<span class="lineNumber">235</span>legien und freyhaiten und der alten gewöhnlichen einfächtigen landbeten<a class="fnNumber" href="#F_112" id="A_112">112</a> <br/>
+<span class="lineNumber">236</span>(wann in künfftigen zeiten ein fürstlich freulein außgegeben<a class="fnNumber" href="#F_113" id="A_113">113</a> unnd außge-<br/>
+<span class="lineNumber">237</span>steuert<a class="fnNumber" href="#F_114" id="A_114">114</a> wurde. Daß sy auch unnd nicht anders dann auf <br/>
+<span class="lineNumber">238</span>vorgehende freye unnd guetwillige bewilligung, unnd sonsten nicht, zulaisten <br/>
+<span class="lineNumber">239</span>schuldig sein) gelaßen, unnd weiter Unnser oder unnsern erben und nach-<br/>
+<span class="lineNumber">240</span>kommender herzogen zu <button class="entity #mecklenburg_herzogtum place" data-ref="mecklenburg_herzogtum" data-type="place" id="d2e1680">Mecklnburg</button> schulde anzenemen<a class="fnNumber" href="#F_115" id="A_115">115</a> und zubezahlen <br/>
+<span class="lineNumber">241</span>nicht schuldig sein unnd damit in keinem weg mit nichten be-<br/>
+<span class="lineNumber">242</span>schwäret werden sollen. <span class="article_added">[Art. II.5]</span> Da auch durch solche bewilligte summa alle Unsere <br/>
+<span class="lineNumber">243</span>außgesatzete bürgen nicht befreyet werden könten, so sollen unnd wollen <br/>
+<span class="lineNumber">244</span>Wir unnd Unnsere erben unnd nachkommende herzogen zu <button class="entity #mecklenburg_herzogtum place" data-ref="mecklenburg_herzogtum" data-type="place" id="d2e1702">Meckhlnburg</button> <br/>
+<span class="lineNumber">245</span>die, welche ein yeder vorsetzet, für Unnß selbst irer gelübde fürstlich <br/>
+<span class="lineNumber">246</span>one Unnserer landtschafft beschwärung befreyen, noth- unnd schadloß halten. <br/>
+<span class="lineNumber">247</span><span class="article_added">[Art. II.6]</span> Ferner, ob Unnß wohl frey stehen soll unnd muß, ob Wir Unnsere under-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-7r"> [Blatt: 7<span class="rectoVerso">r</span> ] </button><br/>
+<span class="lineNumber">248</span>thanen zu bürgen aussetzen wollen oder nicht, so versprechen Wir <br/>
+<span class="lineNumber">249</span>doch Unser underthenigen landtschafft, daß Wir hinfüro niemandt <br/>
+<span class="lineNumber">250</span>von Unserer ritterschafft, stätten unnd dero einwohner zu einigen <br/>
+<span class="lineNumber">251</span>gelübden oder in bürgschafft sich einzulaßen zwingen wollen. <span class="article_added">[Art. II.7]</span> Damit <br/>
+<span class="lineNumber">252</span>auch solche yezt bewilligte summa der viermahlhundert tausendt <br/>
+<span class="lineNumber">253</span>gulden münnz desto fügelicher unnd treglicher könne und möge auß und <br/>
+<span class="lineNumber">254</span>zusammen gebracht werden, wollen Wir nicht allein gewilliget <br/>
+<span class="lineNumber">255</span>unnd nachgegeben<a class="fnNumber" href="#F_116" id="A_116">116</a> haben, daß alle Unsere clöster unnd ämbter under-<br/>
+<span class="lineNumber">256</span>thanen (ob Wir der<a class="fnNumber" href="#F_g" id="A_g">g</a> gleich etzliche den<a class="fnNumber" href="#F_h" id="A_h">h</a> hochgebornen fürsten, Unsern<a class="fnNumber" href="#F_i" id="A_i">i</a> <br/>
+<span class="lineNumber">257</span>freundlichen lieben bruedern, herrn <button class="entity #christoph_mecklenburg person" data-ref="christoph_mecklenburg" data-type="person" id="d2e1769">Christoffern</button> und herren <button class="entity #karl_i_guestrow person" data-ref="karl_i_guestrow" data-type="person" id="d2e1773">Caroln</button>, <br/>
+<span class="lineNumber">258</span>herzogen zu <button class="entity #mecklenburg_herzogtum place" data-ref="mecklenburg_herzogtum" data-type="place" id="d2e1778">Meckhlnburg</button>, zu Jrer L<span class="orig">.</span>[iebden] unterhalt übergeben unnd ein-<br/>
+<span class="lineNumber">259</span>gereumet) deßgleichen alle geistliche unnd weltliche güeter (yedoch <br/>
+<span class="lineNumber">260</span>außgenommen daß stifft <button class="entity #schwerin_hochstift place" data-ref="schwerin_hochstift" data-type="place" id="d2e1793">Schwerin</button>, so lange Wir daßelbe in seinen reichs <br/>
+<span class="lineNumber">261</span>anlagen laut habender verträge nicht vortreten werden, oder sich sonsten <br/>
+<span class="lineNumber">262</span>die stände deß <button class="entity #schwerin_hochstift place" data-ref="schwerin_hochstift" data-type="place" id="d2e1800">stiffts</button> auf ansuchen Unnser oder Unnserer Landtschafft, <br/>
+<span class="lineNumber">263</span>welches Wir, herzoge <button class="entity #ulrich_mecklenburg person" data-ref="ulrich_mecklenburg" data-type="person" id="d2e1806">Ulrich</button>, inen gnedigclich nachgegeben, wormit ein-<br/>
+<span class="lineNumber">264</span>laßen wollen), der fürstlichen leibgeding underthanen und der vom <br/>
+<span class="lineNumber">265</span>adel leibgeding und frembder prelaten oder anderer außer- oder inner-<br/>
+<span class="lineNumber">266</span>halb landes geseßenen güeter, so ire nahrung in Unnsern landen haben, <br/>
+<span class="lineNumber">267</span>unnd Unnsers schutzes und beschirmung genießen, waß standes oder <br/>
+<span class="lineNumber">268</span>condition<a class="fnNumber" href="#F_117" id="A_117">117</a> die sein, von Unnsern Vorfahren, oder Unnß privilegiert <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-7v"> [Blatt: 7<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">269</span>oder nicht, wie die nahmen haben mügen, niemandt außgezogen<a class="fnNumber" href="#F_118" id="A_118">118</a>, fürnemblich <br/>
+<span class="lineNumber">270</span>aber Unnsere beiden sehe stätten <button class="entity #rostock place" data-ref="rostock" data-type="place" id="d2e1846">Roßstockh</button> unnd <button class="entity #wismar place" data-ref="wismar" data-type="place" id="d2e1849">Wißmar</button>, so wol alß <br/>
+<span class="lineNumber">271</span>Unnsere landtstätte in solche contribution<a class="fnNumber" href="#F_119" id="A_119">119</a> gezogen, unnd nach ihrer, <br/>
+<span class="lineNumber">272</span>Unnserer lanndtschafft, willen unnd gefallen mügen belegt werden, sondernn <br/>
+<span class="lineNumber">273</span>Wir sollen unnd wollen auch daranne sein, die gnedige verordnung unnd vor-<br/>
+<span class="lineNumber">274</span>sehunge zethun, daß aller dinge niemandt, hierinnen benandt oder nicht benant, <br/>
+<span class="lineNumber">275</span>außerhalb bemeltes <button class="entity #schwerin_hochstift place" data-ref="schwerin_hochstift" data-type="place" id="d2e1870">stifft Schwerin</button>, sich selbst oder sonsten jemandt auß-<br/>
+<span class="lineNumber">276</span>ziehen unnd eximirn<a class="fnNumber" href="#F_120" id="A_120">120</a>, sondern die von gemeiner landtschafft bewilligte <br/>
+<span class="lineNumber">277</span>hilff würcklich praestiren<a class="fnNumber" href="#F_121" id="A_121">121</a> und leisten sollen.
+<span class="lineNumber">278</span>auch einer erbaren landtschafft die frey disposition<a class="fnNumber" href="#F_122" id="A_122">122</a> oder dispensation<a class="fnNumber" href="#F_123" id="A_123">123</a> <br/>
+<span class="lineNumber">279</span>über der zusammenbringung und gleich voneinander theilung der bewilligten <br/>
+<span class="lineNumber">280</span>summen, so wol an der außgaben, solcher hilff geruehigclich lassen, unnd <br/>
+<span class="lineNumber">281</span>inen das sonderlich verschreiben unnd assecurirn, so soll auch der nachstandt <br/>
+<span class="lineNumber">282</span>von den vorigen landthülffen, so vorhanden oder noch in Unnsern ämbtern <br/>
+<span class="lineNumber">283</span>oder bey andern Unnsern underthanen restiren, oder auch von neuen vonn <br/>
+<span class="lineNumber">284</span>Unnsern befelchhabern aufgenommen worden, in dise summa der vier-<br/>
+<span class="lineNumber">285</span>mahlhundert tausent gulden geschlagen<a class="fnNumber" href="#F_124" id="A_124">124</a> unnd darzu gebracht unnd ange-<br/>
+<span class="lineNumber">286</span>wandt werden.
+<span class="lineNumber">287</span>mehr soll übergangen, nachgelaßen unnd in versaumbnus gestellet unnd <br/>
+<span class="lineNumber">288</span>von Unnß nicht würcklich vollentzogen und ins werckh gerichtet werden <br/>
+<span class="lineNumber">289</span>(welches doch nicht geschehen soll), so soll alß dann auf denen fahl <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-8r"> [Blatt: 8<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">290</span>auch daiegen<a class="fnNumber" href="#F_125" id="A_125">125</a> eine underthenige lanndtschafft der bewilligten hilff <br/>
+<span class="lineNumber">291</span>folge zuleisten, ferrer unnd weiter zu contribuiren<a class="fnNumber" href="#F_126" id="A_126">126</a> unverstricket <br/>
+<span class="lineNumber">292</span>unnd unverbunden<a class="fnNumber" href="#F_127" id="A_127">127</a> sein, sondern diselbe auf vorgehende cognition<a class="fnNumber" href="#F_128" id="A_128">128</a> <br/>
+<span class="lineNumber">293</span>der sachen, so für Unnsern undergesetzten lanndt- unnd hofräthen auf der <br/>
+<span class="lineNumber">294</span>clagenden parthey ansuchung alßbaldt unnd unverzüglich angestellet <br/>
+<span class="lineNumber">295</span>werden soll, so lang einzustellen unnd fallen zulaßen, sambt und ein jeder <br/>
+<span class="lineNumber">296</span>insonderhait guet fueg<a class="fnNumber" href="#F_129" id="A_129">129</a> unnd macht haben, auf welchen fahl Wir sy auch <br/>
+<span class="lineNumber">297</span>mit ernstlichen schreiben, mandaten unnd pfandungen ganz unnd gar ver-<br/>
+<span class="lineNumber">298</span>schonen unnd nicht beschwären wollen.
+<span class="lineNumber">299</span>haben Wir sambt unnd sonderlich alß die regierende landesfürsten für <br/>
+<span class="lineNumber">300</span>Unnß unnd Unnsere freundliche liebe brüeder, herzog <button class="entity #christoph_mecklenburg person" data-ref="christoph_mecklenburg" data-type="person" id="d2e1995">Christoffern</button> und <br/>
+<span class="lineNumber">301</span>herzog <button class="entity #karl_i_guestrow person" data-ref="karl_i_guestrow" data-type="person" id="d2e2000">Caroln</button> etc., unnd Unnsere erben unnd nachkommende herzogen zu <br/>
+<span class="lineNumber">302</span><button class="entity #mecklenburg_herzogtum place" data-ref="mecklenburg_herzogtum" data-type="place" id="d2e2005">Meckelnburg</button>, Unnsern underthanen vom adel unnd stätten zugesagt und <br/>
+<span class="lineNumber">303</span>versprochen; zusagen unnd versprechen inen solches alles sambtlich, unnd <br/>
+<span class="lineNumber">304</span>jedes innsonderhait, in crafft unnd macht dises Unnsers offenen briefs <br/>
+<span class="lineNumber">305</span>unnd reverß, bey Unnsern wahren wortten, fürstlichen ehren, würden <br/>
+<span class="lineNumber">306</span>unnd glauben, solches stett unnd fest, unverbruchlich unnd aufrichtig zu-<br/>
+<span class="lineNumber">307</span>haltten unnd zuvolnziehen, dawider nichts furzunemen unnd zuhandlen, noch <br/>
+<span class="lineNumber">308</span>yemandts anders dawider zuthun gestatten, alles getreulich unnd unge-<br/>
+<span class="lineNumber">309</span>fährlich, urkundtlich haben Wir Unnser innsigel wissentlich <br/>
+<span class="lineNumber">310</span>an disen<a class="fnNumber" href="#F_j" id="A_j">j</a> brief hengen lassen, den Wir auch mit aigner hanndt <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-8v"> [Blatt: 8<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">311</span>underschrieben haben. Geschehen zum <button class="entity #sternberg_stadt place" data-ref="sternberg_stadt" data-type="place" id="d2e2045">Sterneberge</button>, den <br/>
+<span class="lineNumber">312</span> vierten July, anno der weniger zahl im zway unnd sybenzigisten, <br/>
+<span class="lineNumber">313</span>[<button class="entity #johann_albrecht_i_mecklenburg person" data-ref="johann_albrecht_i_mecklenburg" data-type="person" id="d2e2055">Johann Albrecht</button>, Herzog zu Mecklenburg]<a class="fnNumber" href="#F_k" id="A_k">k</a> Manu propria, <button class="entity #ulrich_mecklenburg person" data-ref="ulrich_mecklenburg" data-type="person" id="d2e2061">Ulrich</button> Herzog zu Mecklnburg<a class="fnNumber" href="#F_l" id="A_l">l</a> m[anu] p[ro]p[r]ia
+<span class="lineNumber">314</span>[III. Assecurationsrevers vom 23. Februar 1621] <br/>
+<span class="lineNumber">315</span>Von Gottes gnaden Wir <button class="entity #adolf_friedrich_schwerin person" data-ref="adolf_friedrich_schwerin" data-type="person" id="d2e2079">Adolff Friderich</button> unnd <button class="entity #johann_albrecht_II_guestrow person" data-ref="johann_albrecht_II_guestrow" data-type="person" id="d2e2082">Hannß </button><br/>
+<span class="lineNumber">316</span><button class="entity #johann_albrecht_II_guestrow person" data-ref="johann_albrecht_II_guestrow" data-type="person" id="d2e2082">Albrecht</button>, gebruedere, herzogen zu <button class="entity #mecklenburg_herzogtum place" data-ref="mecklenburg_herzogtum" data-type="place" id="d2e2087">Meckelnburg</button>, coadiutor<a class="fnNumber" href="#F_130" id="A_130">130</a> deß <br/>
+<span class="lineNumber">317</span><button class="entity ratzeburg_bistum place" data-ref="atzeburg_bistum" data-type="place" id="d2e2095">Stiffts Razenburg</button><a class="fnNumber" href="#F_131" id="A_131">131</a>, fürsten zu <button class="entity wenden_fuerstentum place" data-ref="enden_fuerstentum" data-type="place" id="d2e2105">Wenden</button>, grafen zu <button class="entity schwerin_grafschaft place" data-ref="chwerin_grafschaft" data-type="place" id="d2e2108">Schwerin</button>, der lande <br/>
+<span class="lineNumber">318</span><button class="entity rostock place" data-ref="ostock" data-type="place" id="d2e2113">Rosstockh</button>, unnd <button class="entity stargard place" data-ref="targard" data-type="place" id="d2e2116">Stargardt</button> herren, thuen kundt unnd bekennen hie-<br/>
+<span class="lineNumber">319</span>mit vor Unnß, Unnsere erben, unnd nachkommende herzogen zu <button class="entity mecklenburg_herzogtum place" data-ref="ecklenburg_herzogtum" data-type="place" id="d2e2125">Meckhln-</button><br/>
+<span class="lineNumber">320</span><button class="entity mecklenburg_herzogtum place" data-ref="ecklenburg_herzogtum" data-type="place" id="d2e2125">burg</button>: Nach dem Unnsere getreue landtstände von ritterschafft und <br/>
+<span class="lineNumber">321</span>stetten bey jetzigem landtage Unns unterschiedliche gravamina<a class="fnNumber" href="#F_132" id="A_132">132</a> und <br/>
+<span class="lineNumber">322</span>beschwärung ubergeben und umb Unnser gnedige verbeßer- und abschaf-<br/>
+<span class="lineNumber">323</span>fung derselben underthenig gebetten, daß Wir Unnß darauf, und bey einem <br/>
+<span class="lineNumber">324</span>jeden punct insonderhait, in gnaden erkleret, verpflicht und anheißig gemacht<a class="fnNumber" href="#F_133" id="A_133">133</a>, <br/>
+<span class="lineNumber">325</span>folgender gestalt unnd also:
+<span class="lineNumber">326</span><span class="article_added">[Art. III.1]</span> Erstlich, den punctum religionis betreffend, haben Wir <br/>
+<span class="lineNumber">327</span>Unnser getreuen ritter- unnd lanndtschafft in gnaden versprochen <br/>
+<span class="lineNumber">328</span>unnd zugesagt, daß Wir sy unnd einen jeden insonderhait bey der <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-9r"> [Blatt: 9<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">329</span>ersten unveränderten anno der weniger zahl funffhundert dreißig <br/>
+<span class="lineNumber">330</span>der damaligen römischen Kay<span class="orig">:</span>[serlichen] May<span class="orig">tt:</span>[estät] chur-fürsten und ständen <br/>
+<span class="lineNumber">331</span>deß <button class="entity heiliges_roemisches_reich place" data-ref="eiliges_roemisches_reich" data-type="place" id="d2e2186">heyligen reichs</button> übergebenen <button aria-label="opens information about an entity" class="entity event" data-ref="ca_invariata">Augspurgischen Confession</button> und <br/>
+<span class="lineNumber">332</span>in Unnsern fürstenthumben unnd landen biß nun hero allenthalben ge-<br/>
+<span class="lineNumber">333</span>lehrt unnd gepredigten lutherischen religion, unnd in Unser pub-<br/>
+<span class="lineNumber">334</span>licierten kirchen ordnung<a class="fnNumber" href="#F_134" id="A_134">134</a> verfaster lehr, glauben unnd bekandt-<br/>
+<span class="lineNumber">335</span>nus unnd dern<a class="fnNumber" href="#F_135" id="A_135">135</a> exercitio<a class="fnNumber" href="#F_136" id="A_136">136</a>, in allen unnd yeden kirchen und schulen <br/>
+<span class="lineNumber">336</span>Unnser fürstenthumb, lannde, stette, ämpter unnd dörffer, auch <br/>
+<span class="lineNumber">337</span>in specie im Thumb<a class="fnNumber" href="#F_137" id="A_137">137</a> zu <button class="entity guestrow place" data-ref="uestrow" data-type="place" id="d2e2230">Gustrow</button> (<a class="fnNumber" href="#F_m" id="A_m">m</a>deßen reformation Wir, hertzog <br/>
+<span class="lineNumber">338</span><button class="entity johann_albrecht_II_guestrow person" data-ref="ohann_albrecht_II_guestrow" data-type="person" id="d2e2237">Hannß Albrecht</button>, Unnß hiemit begeben unnd darin nur allein die <br/>
+<span class="lineNumber">339</span>sepultur<a class="fnNumber" href="#F_138" id="A_138">138</a> unnd leichpredigten für Unnß und Unnser religions ver-<br/>
+<span class="lineNumber">340</span>wandten, wie in gleichem, da Wir mit Unnser hofstatt auf andern <br/>
+<span class="lineNumber">341</span>Unnsern residentz heusern Unnß uffhaltten unnd daselbst obbe-<br/>
+<span class="lineNumber">342</span>rürter Unnser religions verwahnten jemandt mit todt abgehen <br/>
+<span class="lineNumber">343</span>wurde, denselben alda begraben unnd die leichpredigt, dem ordinari <br/>
+<span class="lineNumber">344</span>gottsdienst unverhinderlich, verrichten zulaßen, reserviren unnd <br/>
+<span class="lineNumber">345</span>vorbehalten) ohne ainige veränderung in doctrinalibus et ceremo-<br/>
+<span class="lineNumber">346</span>nialibus<a class="fnNumber" href="#F_139" id="A_139">139</a> geruhigclich verpleiben laßen wollen.
+<span class="lineNumber">347</span><span class="article_added">[Art. III.2]</span> Zum andern verpflichten Wir Unnß auch in allen unnd yeden kirchen <br/>
+<span class="lineNumber">348</span>unnd schulen (keine one alleine Unnser, Herzog <button class="entity johann_albrecht_II_guestrow person" data-ref="ohann_albrecht_II_guestrow" data-type="person" id="d2e2284">Hannß Allbrecht</button>, schloß-<br/>
+<span class="lineNumber">349</span>kirchen, nachgesazter maßen außgenomen), auch in der universitet zu <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-9v"> [Blatt: 9<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">350</span><button class="entity rostock place" data-ref="ostock" data-type="place" id="d2e2300">Rosstockh</button>, keine andre alß obberürter <button aria-label="opens information about an entity" class="entity event" data-ref="ca_invariata">Augspurgischen Confession</button> und <br/>
+<span class="lineNumber">351</span>lutterischen religion verwahnte unnd zugethane prediger, professores, <br/>
+<span class="lineNumber">352</span>lehrer unnd schueldiener<a class="fnNumber" href="#F_140" id="A_140">140</a> zu instituiren<a class="fnNumber" href="#F_141" id="A_141">141</a>, anzunemen oder zugedulden,
+<span class="lineNumber">353</span><span class="article_added">[Art. III.3]</span> Unnd soll, fürs dritte, daß consistorium<a class="fnNumber" href="#F_142" id="A_142">142</a>, welches nebenst dem jure epis-<br/>
+<span class="lineNumber">354</span>copali<a class="fnNumber" href="#F_143" id="A_143">143</a>, nach wie vor gemein<a class="fnNumber" href="#F_144" id="A_144">144</a> pleibet, die inspection<a class="fnNumber" href="#F_145" id="A_145">145</a> haben, daß in allen und <br/>
+<span class="lineNumber">355</span>yeden obbemelten kirchen, schulen<a class="fnNumber" href="#F_n" id="A_n">n</a> unnd universitet zu <button class="entity rostock place" data-ref="ostock" data-type="place" id="d2e2348"></button>Rosstockh, <br/>
+<span class="lineNumber">356</span>keine andere, dann die obangedeutete, <button class="entity karl_v person" data-ref="arl_v" data-type="person" id="d2e2352">Kaiser Carl dem fünfften</button> zu <button class="entity augsburg place" data-ref="ugsburg" data-type="place" id="d2e2356"></button>Augspurg <br/>
+<span class="lineNumber">357</span>übergebene <button aria-label="opens information about an entity" class="entity event" data-ref="#ca_invariata">unveranderte confession</button> unnd lutterischen religion <br/>
+<span class="lineNumber">358</span>gelehret unnd geprediget, weniger einige andere, dann dero zugethane <br/>
+<span class="lineNumber">359</span>unnd warhafftige vorwandte kirchen- unnd schuldiener<a class="fnNumber" href="#F_146" id="A_146">146</a> angenommenn, <br/>
+<span class="lineNumber">360</span>eingesezt, oder geduldet werden.
+<span class="lineNumber">361</span><span class="article_added">[Art. III.4]</span> Unnd da, zum vierten, deren einer oder ander in lehr unnd leben vor-<br/>
+<span class="lineNumber">362</span>dächtig oder schuldig befunden würdt, soll das consistorium in Unser beider <br/>
+<span class="lineNumber">363</span>namen, one einige clage, für sich ex officio<a class="fnNumber" href="#F_147" id="A_147">147</a> zu inquiriren<a class="fnNumber" href="#F_148" id="A_148">148</a>, die Sache zu <br/>
+<span class="lineNumber">364</span>cognosciern<a class="fnNumber" href="#F_149" id="A_149">149</a>, darein zusprechen, die schuldig befunden, ires dienstes zuentsetzen<a class="fnNumber" href="#F_150" id="A_150">150</a> <br/>
+<span class="lineNumber">365</span>unnd abzuschaffen, unnd den beambten oder stätten, darunter der con-<br/>
+<span class="lineNumber">366</span>demnirter<a class="fnNumber" href="#F_151" id="A_151">151</a> seßhafft, die execution<a class="fnNumber" href="#F_152" id="A_152">152</a> zu demandiren<a class="fnNumber" href="#F_153" id="A_153">153</a>, fueg und macht <br/>
+<span class="lineNumber">367</span>haben, inmaßen es auf angestalte clagen vermüge deß consistorii ordnung<a class="fnNumber" href="#F_154" id="A_154">154</a> <br/>
+<span class="lineNumber">368</span>gehaltten, und sonsten bey derselben, wie auch der kirchen und superinten-<br/>
+<span class="lineNumber">369</span>denten ordnung<a class="fnNumber" href="#F_155" id="A_155">155</a>, ohn<a class="fnNumber" href="#F_156" id="A_156">156</a> waß in disem revers in specie<a class="fnNumber" href="#F_157" id="A_157">157</a> anders disponirt<a class="fnNumber" href="#F_158" id="A_158">158</a>, nach <br/>
+<span class="lineNumber">370</span>wie vor allenthalben ungeändert gelaßen werden soll.
+<span class="lineNumber">371</span><span class="article_added">[Art. III.5]</span> Fürß fünffte soll den appellationibus<a class="fnNumber" href="#F_159" id="A_159">159</a> vom consistorio und beide <br/>
+<span class="lineNumber">372</span>canzleyen anß hoffgerichte ihr unbehinderter starcker lauff noch <br/>
+<span class="lineNumber">373</span>wie vor gelaßen werden.
+<span class="lineNumber">374</span><span class="article_added">[Art. III.6]</span> Zum sechsten soll daß consistorium mit keinem andern alß der <br/>
+<span class="lineNumber">375</span>oberwehnten <button aria-label="opens information about an entity" class="entity event" data-ref="ca_invariata">unveränderten Augspurgischen Confession</button> und lutterschen <br/>
+<span class="lineNumber">376</span>religion zugethanen personen besezt werden.
+<span class="lineNumber">377</span><span class="article_added">[Art. III.7]</span> Eß behalten aber Wir, Herzog <button class="entity johann_albrecht_II_guestrow person" data-ref="ohann_albrecht_II_guestrow" data-type="person" id="d2e2487">Hannß Albrecht</button>, fürß sybende, Unnß <br/>
+<span class="lineNumber">378</span>hiemit bevor, auf oder an Unnsern residentz heusern die bereits <br/>
+<span class="lineNumber">379</span>gebaute capellen zuerweitern oder daselbst ieztberürter maßen <br/>
+<span class="lineNumber">380</span>neue kirchen zupauen, und wann Wir Unnß mit Unnser hofstatt <br/>
+<span class="lineNumber">381</span>alda aufhaltten werden, durch Unnsere ordinari hofprediger, so <br/>
+<span class="lineNumber">382</span>Wir zu Unnser schloß kirchen zu <button class="entity guestrow place" data-ref="uestrow" data-type="place" id="d2e2501"></button>Gustrow bestellet, für Unnß unnd <br/>
+<span class="lineNumber">383</span>Unnsere hofdiener predigen zulaßen, dahin aber niemandt eingepfarret, <br/>
+<span class="lineNumber">384</span>weniger der eingepfarreten an der kirchen deß orttes an irem exerci-<br/>
+<span class="lineNumber">385</span>tio der lutterischen religion, einige behinderung unnd eintrag zugefügt <br/>
+<span class="lineNumber">386</span>werden soll.
+<span class="lineNumber">387</span><span class="article_added">[Art. III.8]</span> Ebenermaßen behaltten Wir Unß, fürs achte, bevor, auf Unnser <br/>
+<span class="lineNumber">388</span>hofstatt, Unnsere edl-<a class="fnNumber" href="#F_160" id="A_160">160</a> und ezlich wenig andere knaben, so in der kirchen <br/>
+<span class="lineNumber">389</span>singen, doch nit wider iren, irer eltern oder verwahnten willen, pri-<br/>
+<span class="lineNumber">390</span>vatim instituiren zulaßen. Eß sollen aber daneben keine andere schulen <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-10v"> [Blatt: 10<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">391</span>der<a class="fnNumber" href="#F_o" id="A_o">o</a> reformirten religion angerichtet, sondern diselben alle und <br/>
+<span class="lineNumber">392</span>yede, auch in specie die thumb<a class="fnNumber" href="#F_161" id="A_161">161</a> schule zu <button class="entity guestrow place" data-ref="uestrow" data-type="place" id="d2e2554"></button>Gustrow, in welcher daß <br/>
+<span class="lineNumber">393</span>ministerium<a class="fnNumber" href="#F_162" id="A_162">162</a> die inspection<a class="fnNumber" href="#F_163" id="A_163">163</a> behaltten soll, bey dem exercitio der <br/>
+<span class="lineNumber">394</span>offtgedachten <button aria-label="opens information about an entity" class="entity event" data-ref="ca_invariata">unveränderten Augspurgischen Confession</button> und lutterischen <br/>
+<span class="lineNumber">395</span>religion nach wie vor gelaßen, unnd die knaben andergestalt nicht <br/>
+<span class="lineNumber">396</span>instituiret werden.
+<span class="lineNumber">397</span><span class="article_added">[Art. III.9]</span> Und weil, zum neundten, durch ezlicher prediger ungepürliches <br/>
+<span class="lineNumber">398</span>schmähens und scheltens offtmals viel unruehe erregt und die gemeine <br/>
+<span class="lineNumber">399</span>dadurch nicht gebeßert, weniger die kirche gebauet wirdt, alß <br/>
+<span class="lineNumber">400</span>wollen Wir Unns deßwegen einer sonderbaren ordnung vergleichen, <br/>
+<span class="lineNumber">401</span>wie es solchen fahls damit gehalten werden soll, unnd diselbe vor der <br/>
+<span class="lineNumber">402</span>publication unnser getreuen ritter- unnd landtschafft communiciren <br/>
+<span class="lineNumber">403</span>unnd mittheilen. Unnd da<a class="fnNumber" href="#F_p" id="A_p">p</a> jemandt der prediger wider solche ord-<br/>
+<span class="lineNumber">404</span>nung fräventlich handlen und auf beschehene zwaymahlige erinnerung von <br/>
+<span class="lineNumber">405</span>seinem unfueg<a class="fnNumber" href="#F_164" id="A_164">164</a> nicht abstehen woltte, so soll Unnß, herzog <button class="entity #johann_albrecht_II_guestrow person" data-ref="johann_albrecht_II_guestrow" data-type="person" id="d2e2610">Hannß Al-</button><br/>
+<span class="lineNumber">406</span><button class="entity #johann_albrecht_II_guestrow person" data-ref="johann_albrecht_II_guestrow" data-type="person" id="d2e2610">brecht</button>, denselben zuenturlauben<a class="fnNumber" href="#F_165" id="A_165">165</a> unnd einen andern der offtberürten <br/>
+<span class="lineNumber">407</span><button aria-label="opens information about an entity" class="entity event" data-ref="#ca_invariata">unveränderten Augspurgischen Confession</button> unnd lutterischen reli-<br/>
+<span class="lineNumber">408</span>gion verwahnten prediger an seine stelle widerumb einzusetzen frey <br/>
+<span class="lineNumber">409</span>unnd bevor stehen<a class="fnNumber" href="#F_166" id="A_166">166</a>. Eß soll aber den predigern die reformirte lehr <br/>
+<span class="lineNumber">410</span>unnd dern<a class="fnNumber" href="#F_167" id="A_167">167</a> authorn mit außtrucklicher nennung derselben gebüer-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-11r"> [Blatt: 11<span class="rectoVerso">r</span> ] </button><br/>
+<span class="lineNumber">411</span>lich zuwiderlegen unnd mit grunde göttliches worts zu refutirn<a class="fnNumber" href="#F_168" id="A_168">168</a>, die <br/>
+<span class="lineNumber">412</span>theologicas controversias<a class="fnNumber" href="#F_169" id="A_169">169</a> auf den canzlen perspicue<a class="fnNumber" href="#F_170" id="A_170">170</a> unnd be-<br/>
+<span class="lineNumber">413</span>scheidenlich<a class="fnNumber" href="#F_171" id="A_171">171</a> zu tractiren<a class="fnNumber" href="#F_172" id="A_172">172</a>, auch die jezo gewöhnliche confessional namen<a class="fnNumber" href="#F_173" id="A_173">173</a> <br/>
+<span class="lineNumber">414</span>zum unterschied der lehr und lehrer one schmehen zugebrauchenn, <br/>
+<span class="lineNumber">415</span>im gleichen der reformirten lehrer eigene wortt auß iren büchern <br/>
+<span class="lineNumber">416</span>unnd schrifften nach gelegenhait zu allegirn<a class="fnNumber" href="#F_174" id="A_174">174</a>, unnd alßo die zuehörer <br/>
+<span class="lineNumber">417</span>für allerhandt lehr, wie die nahmen haben mag, so der irigen zuwider, <br/>
+<span class="lineNumber">418</span>treulich unnd fleißig zuwarnen unnd zur bestendigkait in irer er-<br/>
+<span class="lineNumber">419</span>kandten religion zuermahnen, nach wie vor unbenommen sein.
+<span class="lineNumber">420</span><span class="article_added">[Art. III.10]</span> Fürs zehende wollen Wir die disposition uber die oecono-<br/>
+<span class="lineNumber">421</span>mien güeter<a class="fnNumber" href="#F_175" id="A_175">175</a> ein iegelicher in seinem antheil<a class="fnNumber" href="#F_176" id="A_176">176</a> behaltten, und sollen <br/>
+<span class="lineNumber">422</span>diselben iedes ortts unverrucket gelaßen, die kirchen- und schul-<br/>
+<span class="lineNumber">423</span>diener an irem unterhalt und besoldung in nichts verkürzt, oder <br/>
+<span class="lineNumber">424</span>solche güeter zu ichtwas<a class="fnNumber" href="#F_177" id="A_177">177</a> anders alß ad pias causas<a class="fnNumber" href="#F_178" id="A_178">178</a> angewandt, <br/>
+<span class="lineNumber">425</span>auch den bürgern und einwohnern in stetten an iren einhabenden <br/>
+<span class="lineNumber">426</span>oeconomey unnd kirchen äckern kein eintrag zugefüeget, <br/>
+<span class="lineNumber">427</span>sondern diselben unnbehindert dabey gelaßen werden. Solten <br/>
+<span class="lineNumber">428</span>aber von solchen oeconomey güetern ganze dörffer alienirt<a class="fnNumber" href="#F_179" id="A_179">179</a> <br/>
+<span class="lineNumber">429</span>und vereußert werden, auf den fall wollen Wir es bey verordnung der <br/>
+<span class="lineNumber">430</span>gemeinen beschriebenen recht vorbleiben laßen.
+<span class="lineNumber">431</span><span class="article_added">[Art. III.11]</span> Zum ailfften, Sollen die relationes visitationum<a class="fnNumber" href="#F_180" id="A_180">180</a>, so viel <br/>
+<span class="lineNumber">432</span>der prediger unnd zuhörer lehr unnd leben betrifft, item synodorum,<a class="fnNumber" href="#F_181" id="A_181">181</a> <br/>
+<span class="lineNumber">433</span>ins Consistorium eingeschicket, unnd dem jenigen, darunter der Visi-<br/>
+<span class="lineNumber">434</span>tirter orth belegen, daneben zugeferttigt werden.
+<span class="lineNumber">435</span><span class="article_added">[Art. III.12]</span> Anreichendt<a class="fnNumber" href="#F_182" id="A_182">182</a>, fürs zwelffte, daß ius nominandi unnd vocandi <br/>
+<span class="lineNumber">436</span>pastores ecclesiarum,<a class="fnNumber" href="#F_183" id="A_183">183</a> erachten Wir christlich, recht unnd billich sein, <br/>
+<span class="lineNumber">437</span>daß den gemeinen, so wol auf dem lannde alß in stetten, auch denen, so <br/>
+<span class="lineNumber">438</span>das ius patronatus<a class="fnNumber" href="#F_184" id="A_184">184</a> et vocandi ministros ecclesiæ nicht haben, keine <br/>
+<span class="lineNumber">439</span>pastores unnd seelsorger, die sy zuvor nicht gehört oder sonsten am <br/>
+<span class="lineNumber">440</span>leben, wandel, lehr unnd gaben tadelhafft und nit qualificiert, bey-<br/>
+<span class="lineNumber">441</span>gebracht unnd aufgetrungen werden. Wollen auch <br/>
+<span class="lineNumber">442</span>Unnserm superintendenten über dise Unnsere verordnung festigclich <br/>
+<span class="lineNumber">443</span>zuhaltten mit ernst auferlegen unnd befehlen, unnd erclären Unnß dem-<br/>
+<span class="lineNumber">444</span>nach in gnaden dahin: Wann Unnß ins künfftig einer vom adel oder die <br/>
+<span class="lineNumber">445</span>räthe in stetten eine person, die er oder sy zu seinem oder iren seel-<br/>
+<span class="lineNumber">446</span>sorger auß erheblichen ursachen gerne haben und befördert sehen möchten, <br/>
+<span class="lineNumber">447</span>nominirn<a class="fnNumber" href="#F_185" id="A_185">185</a> unnd umb Unnser gnedige bewilligung und confirmation<a class="fnNumber" href="#F_186" id="A_186">186</a> under-<br/>
+<span class="lineNumber">448</span>thenig anhalten werden, daß Wir unns darauf nach befindung der fürgeschlagenen person <br/>
+<span class="lineNumber">449</span>qualiteten unnd geschicklichait, doch unbegeben des iuris patrona-<br/>
+<span class="lineNumber">450</span>tus, aller gnedigen gebührnus wollen zuerzaigen wißen.
+<span class="lineNumber">451</span><span class="article_added">[Art. III.13]</span> Zum dreyzehenden soll daß hofgerichte noch wie vor gemein<a class="fnNumber" href="#F_187" id="A_187">187</a> <br/>
+<span class="lineNumber">452</span>pleiben unnd mit keinen andern alß der offtberürten <button aria-label="opens information about an entity" class="entity event" data-ref="#ca_invariata">Augspurgischen Confession</button> <br/>
+<span class="lineNumber">453</span>unnd lutterischen religion verwandten personen nach außweiß deß <br/>
+<span class="lineNumber">454</span>assecuration revers de anno funffzehenhundert zway unnd sybenzig<a class="fnNumber" href="#F_188" id="A_188">188</a> <br/>
+<span class="lineNumber">455</span>besetzet, unnd von einem jeden unter Unnß zwo personen, dern<a class="fnNumber" href="#F_189" id="A_189">189</a> einer deß <br/>
+<span class="lineNumber">456</span>landtrichters officium verwalten soll, continuierlich gehaltten werden, <br/>
+<span class="lineNumber">457</span>unnd wollen Wir Unns, mit zuziehung Unnser getreuen ritter- und landt-<br/>
+<span class="lineNumber">458</span>schafft, wegen reformier- unnd verbeßerung deßelben fodersambst ver-<br/>
+<span class="lineNumber">459</span>gleichen unnd vereinbahren.
+<span class="lineNumber">460</span><span class="article_added">[Art. III.14]</span> So sollen auch, vors vierzehende, die contributiones<a class="fnNumber" href="#F_190" id="A_190">190</a> gemein pleiben, <br/>
+<span class="lineNumber">461</span>unnd die lanndtäge zum <button class="entity #sternberg_stadt place" data-ref="sternberg_stadt" data-type="place" id="d2e2932">Sterneberge</button> unnd <button class="entity #malchin_stadt place" data-ref="malchin_stadt" data-type="place" id="d2e2935">Malchin</button> umbschichtig<a class="fnNumber" href="#F_191" id="A_191">191</a> <br/>
+<span class="lineNumber">462</span>gehaltten werden.
+<span class="lineNumber">463</span><span class="article_added">[Art. III.15]</span> Die erhöhung der zölle, furs funffzehende, betreffendt, wollen <br/>
+<span class="lineNumber">464</span>Wir diselben dem alten gewöhnlichen herkommen nach und einem jegelichen <br/>
+<span class="lineNumber">465</span>bey seiner herbrachten exemption<a class="fnNumber" href="#F_192" id="A_192">192</a> und freyhait derselben, unbeein-<br/>
+<span class="lineNumber">466</span>trächtiget verbleiben laßen, unnd da von den hauß voigten<a class="fnNumber" href="#F_193" id="A_193">193</a>, landt-<br/>
+<span class="lineNumber">467</span>reittern<a class="fnNumber" href="#F_194" id="A_194">194</a> unnd zölnern dem zuwider einiger mißbrauch eingeführet <br/>
+<span class="lineNumber">468</span>worden, wollen wir solches auff gebührliche <br/>
+<span class="lineNumber">469</span>notification<a class="fnNumber" href="#F_195" id="A_195">195</a> widerumb abschaffen.
+<span class="lineNumber">470</span><span class="article_added">[Art. III.16]</span> Zum sechzehenden, wollen und verordnen <br/>
+<span class="lineNumber">471</span>Wir, daß die paursleute die inen umb gewiße zinß oder pacht <br/>
+<span class="lineNumber">472</span>eingethane hueben, acker unnd wißen, doferne sy kein erbzins <br/>
+<span class="lineNumber">473</span>gerechtigkait, ius emphyteuticum<a class="fnNumber" href="#F_196" id="A_196">196</a>, oder dergleichen gepüerlich bey-<br/>
+<span class="lineNumber">474</span>zubringen, den eigenthumbs herren, auf vorgehende loßkundigung, <br/>
+<span class="lineNumber">475</span>nulla vel immemorialis temporis detentatione obstante, un-<br/>
+<span class="lineNumber">476</span>weigerlich abzutretten unnd einzureumen schuldig sein sollen.
+<span class="lineNumber">477</span><span class="article_added">[Art. III.17]</span> Was, fürs sybenzehende, der beambten unnd lanndt-<br/>
+<span class="lineNumber">478</span>reutter execution betrifft, laßen wir es bey Unnser <br/>
+<span class="lineNumber">479</span>publicirten execution ordnung in gnaden verpleiben, und sein <br/>
+<span class="lineNumber">480</span>darüber festigclich zuhaltten gemeinet.
+<span class="lineNumber">481</span><span class="article_added">[Art. III.18]</span> Den zu yetziger contribution verordneten landtcasten, fürs acht-<br/>
+<span class="lineNumber">482</span>zehende, betreffendt, können Wir in gnaden geschehen laßen, daß die <br/>
+<span class="lineNumber">483</span>freye disposition, verwalttung unnd dispensation deßelben, so <br/>
+<span class="lineNumber">484</span>lange die Unnß underthenig bewilligte zehenmahlhundert tausent <br/>
+<span class="lineNumber">485</span>gulden auf unnd beisammen gebracht unnd zu befreyung Unser beschwerten <br/>
+<span class="lineNumber">486</span>furstlichen einkommen widerumb vorwandt unnd angelegt, Unnser <br/>
+<span class="lineNumber">487</span>ritter unnd landtschafft ungehindert gelaßen werde. Wie <br/>
+<span class="lineNumber">488</span>Wir dann derselben solches hiemit unnd in crafft dises auf jeztberürte <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-13r"> [Blatt: 13<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">489</span>maß nochmals gnedig bewilligen unnd nachgeben. Belangendt <br/>
+<span class="lineNumber">490</span>aber die Reichs-, Craiß- unnd andern dergleichen steuren, so nicht Unnß <br/>
+<span class="lineNumber">491</span>unnd Unsern fürstenthumben unnd landen principaliter zu nutz <br/>
+<span class="lineNumber">492</span>unnd frommen gereichen, soll es mit dem lanndtkasten dergestalt <br/>
+<span class="lineNumber">493</span>gehalten werden, daß bey Unnß und Unnsern nachkommen, regie-<br/>
+<span class="lineNumber">494</span>renden herzogen zu Meckelnburg, iederzeit zwen schlüßel, und bey <br/>
+<span class="lineNumber">495</span>Unnser getreuen landtschafft gleichsfahls zwen schlüßl, einen bey <br/>
+<span class="lineNumber">496</span>denen von der ritterschafft und der ander bey denen von stetten, <br/>
+<span class="lineNumber">497</span>hinfüro sein, auch die einnehmer in Unnser unnd gemeiner landtschafft <br/>
+<span class="lineNumber">498</span>namen bestelt und beeidet, und die einkommene gelder in Unnser <br/>
+<span class="lineNumber">499</span>verordenten unnd der von der landtschafft deputirten beisein <br/>
+<span class="lineNumber">500</span>gebüerlich berechnet, unnd waß übrig, ohne der lanndtschafft under-<br/>
+<span class="lineNumber">501</span>thenige beliebung nicht inn Unnsern, sondern allein zu deß landes <br/>
+<span class="lineNumber">502</span>und gemeinen besten gebrauchet unnd verwendet werden soll.
+<span class="lineNumber">503</span><span class="article_added">[Art. III.19]</span> Furs neuntzehende, wollen Wir keinen Unns-<br/>
+<span class="lineNumber">504</span>ern getreuen underthanen an seiner jagt gerechtigkait, die er <br/>
+<span class="lineNumber">505</span>über rechts verwerte zeit legitime hergebracht, geruehigclich <br/>
+<span class="lineNumber">506</span>gebraucht unnd noch yezo in possessione vel quasi rechtmeßig hat, <br/>
+<span class="lineNumber">507</span>einige behinderung, turbation unnd einhalt erzeigen oder solches <br/>
+<span class="lineNumber">508</span>von den Unnserigen zubeschehen verstatten, Unnß auch der vorjagden<a class="fnNumber" href="#F_q" id="A_q">q</a> <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-13v"> [Blatt: 13<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">509</span>ander gestalt nicht dann von Unnsern löblichen vorfahren be-<br/>
+<span class="lineNumber">510</span>schehen, jederzeit gebrauchen, unnd soll in den außschreiben zur vor<a class="fnNumber" href="#F_r" id="A_r">r</a>-<br/>
+<span class="lineNumber">511</span>jagt, eine gewiße zeit nach verfließung derselben sich ein jeder <br/>
+<span class="lineNumber">512</span>seines rechtens unnd befüegnus zugebrauchen alle weege specificieret, <br/>
+<span class="lineNumber">513</span>unnd nambhafft gemacht werden.
+<span class="lineNumber">514</span>Damit auch wegen deß jager rechtens hinkünfftig kein streit er-<br/>
+<span class="lineNumber">515</span>reget werden müge, alß laßen wir geschehen, wann die jagt-<br/>
+<span class="lineNumber">516</span>hunde in verfolgung deß aufgetriebenen wildes über die grenzenn <br/>
+<span class="lineNumber">517</span>lauffen, daß alß dann den jägern freystehe, ire büchsen nider zu-<br/>
+<span class="lineNumber">518</span>legen, die winde<a class="fnNumber" href="#F_197" id="A_197">197</a> zuhinterhaltten unnd die übergelauffenen jagt-<br/>
+<span class="lineNumber">519</span>hunde von deß benachbarten grunde unnd boden widerzuholen unnd <br/>
+<span class="lineNumber">520</span>aufzukoppeln. Wann auch gehezete winde mit dem <br/>
+<span class="lineNumber">521</span>hasen über die gränzen lauffen unnd fangen, so soll der jäger <br/>
+<span class="lineNumber">522</span>dennselben also fort aufzunemen fueg und macht haben, doch daß <br/>
+<span class="lineNumber">523</span>er in nicht an den satel binden, sondern ungebunden in der hanndt <br/>
+<span class="lineNumber">524</span>davon führe. Wurde auch ein thier uff eines <br/>
+<span class="lineNumber">525</span>grundt unnd bodem geschoßen unnd über die grenzen lauffen <br/>
+<span class="lineNumber">526</span>unnd fallen, so soll dem jager erlaubt sein, mit hinterlassung <br/>
+<span class="lineNumber">527</span>der büchsen unnd pistollen dasselbe also fort in continenti <br/>
+<span class="lineNumber">528</span>aufzunemen unnd wegkh zubringen.
+<span class="lineNumber">529</span><span class="article_added">[Art. III.20]</span> Weil auch, zum zwaintzigisten, zu erhalttung red-<br/>
+<span class="lineNumber">530</span>lichen glaubens unnd credits wider die seumb- und auß gefellige <br/>
+<span class="lineNumber">531</span>schuldener unnd bürgen vor jahren scharffe zwangsmittl gebraucht, <br/>
+<span class="lineNumber">532</span>auch deßwegen eine sonderbare constitution anno sechzehen-<br/>
+<span class="lineNumber">533</span>hundert unnd zway wider die muethwillige falliten publiciert <br/>
+<span class="lineNumber">534</span>worden, alß wollen Wir jetztangeregte constitution <br/>
+<span class="lineNumber">535</span>auf der falliten eheweiber, so irer ehemänner umbschläge verrichten, <br/>
+<span class="lineNumber">536</span>selbst mit zehren, banquetirn und in aller üppigkeit leben unnd <br/>
+<span class="lineNumber">537</span>also irer ehemänner und dern creditorn ungelegenhait unnd schaden <br/>
+<span class="lineNumber">538</span>selbst verursachen und deßen uberwiesen werden, zugleich mitge-<br/>
+<span class="lineNumber">539</span>zogen haben. Unnd weil Wir daneben von Unnsern getreuen landt-<br/>
+<span class="lineNumber">540</span>schafft umb wider einführung der einläger in underthenigkait <br/>
+<span class="lineNumber">541</span>ersuchet worden, alß haben Wir irer underthenigen bitte <br/>
+<span class="lineNumber">542</span>auß den von inen angezogenen ursachen auß gnaden geruhet, <br/>
+<span class="lineNumber">543</span>constituirn, ordnen unnd wollen demnach, daß ein bürge, <br/>
+<span class="lineNumber">544</span>wann er für jemandt außgenommen würdt, seinem principaln, <br/>
+<span class="lineNumber">545</span>eß sey gleich die obligation aufs ein lager gerichtet oder nicht, <br/>
+<span class="lineNumber">546</span>krafft diser constitution zu richtiger zahlung und einreitten <br/>
+<span class="lineNumber">547</span>ermahnen soll; wurde aber diselbe auf Antony oder sonsten <br/>
+<span class="lineNumber">548</span>in den beliebeten zahlfristen nicht erfolgen, so soll der <br/>
+<span class="lineNumber">549</span>principall nebenst den bürgen vierzehen tage darnach einreiten <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-14v"> [Blatt: 14<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">550</span>und zugleich seinen neben bürgen zum einreitten erfordern, unnd <br/>
+<span class="lineNumber">551</span>derselbe auch alßbaldt darauf nebenst zway pferdten unnd einem <br/>
+<span class="lineNumber">552</span>diener sich einzustellen schuldig sein. Damit auch die unkosten <br/>
+<span class="lineNumber">553</span>deß einlagers nicht zu hoch gestaigert unnd den für disem darunter <br/>
+<span class="lineNumber">554</span>fürgelauffenen mißbrauchen gewehret werden müge, alß soll <br/>
+<span class="lineNumber">555</span>jedem einreitenden bürgen die erste woche alle tage vier gulden <br/>
+<span class="lineNumber">556</span>für sich, seinen<a class="fnNumber" href="#F_s" id="A_s">s</a> diener und zwey pferde, die ander woche aber sechs <br/>
+<span class="lineNumber">557</span>gulden jeden tag, unnd so fortan hiemit verordnet sein. Und <br/>
+<span class="lineNumber">558</span>da alß dann der principal seine bürgen vom ersten tage deß <br/>
+<span class="lineNumber">559</span>einreitens nicht bezahlen wurde, so soll a primo die morae<a class="fnNumber" href="#F_198" id="A_198">198</a> uff <br/>
+<span class="lineNumber">560</span>jeden tag vor jederhundert ein halb gulde loco interesse <a class="fnNumber" href="#F_199" id="A_199">199</a> angeschlagen, <br/>
+<span class="lineNumber">561</span>am lezten tage aber deß vierzehen tägigen einreittens die bürgen <br/>
+<span class="lineNumber">562</span>würcklich bezahlen, unnd da solches nicht geschicht, von der zeit an statt <br/>
+<span class="lineNumber">563</span>deß interesse, jede woche einen halben gulden auf hundert, über die <br/>
+<span class="lineNumber">564</span>gewohnlichen zinß zu geben schuldig sein. So baldt aber die bürgen wirckh-<br/>
+<span class="lineNumber">565</span>lich zahlen unnd deß principaln obligation unnd cession an sich <br/>
+<span class="lineNumber">566</span>bringen, so sollen sy alß dann in continenti auf ir erstes ansuchen <br/>
+<span class="lineNumber">567</span>unnd vorzeigung der obligation unnd quittung, in deß principalis <br/>
+<span class="lineNumber">568</span>güeter gerichtlich immittiert unnd angewisen werden unnd <br/>
+<span class="lineNumber">569</span>diselbe, da sich ein concursus creditorum erreuget, uff vorgehende <br/>
+<span class="lineNumber">570</span>commission unnd liquidation gebüerlich taxieret und auf für-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-15r"> [Blatt: 15<span class="rectoVerso">r</span> ] </button><br/>
+<span class="lineNumber">571</span>zeigung der eingelöseten original obligationen und deß wirts <br/>
+<span class="lineNumber">572</span>verzeichnus, one einige<a class="fnNumber" href="#F_t" id="A_t">t</a> fernere liquidation unnd moderation <br/>
+<span class="lineNumber">573</span>für die außgezählete hauptsum, zinse und unkosten dem glaub-<br/>
+<span class="lineNumber">574</span>iger alßbaldt insolutum zugeschlagen, und ferner von demselben <br/>
+<span class="lineNumber">575</span>verkaufft, und jeder besage seiner obligation iure prioritatis <br/>
+<span class="lineNumber">576</span>cuiqe salvo darauß contentiret unnd bezahlt gemacht. Solte <br/>
+<span class="lineNumber">577</span>aber nach verkauffung der güeter sich befinden, daß die schulde <br/>
+<span class="lineNumber">578</span>alle nicht bezahlt werden können, so soll alß dann der debitor in <br/>
+<span class="lineNumber">579</span>einen dazu verordneten schuldtthormb geworffen werden, daferne <br/>
+<span class="lineNumber">580</span>auch der bürgen einer oder mehr auf beschehenes einmahnen nicht ein-<br/>
+<span class="lineNumber">581</span>reiten wurde, so soll derselbe dem principall gleich geachtet <br/>
+<span class="lineNumber">582</span>unnd mit im vorgesazter maßen procedirt und verfahren werden. <br/>
+<span class="lineNumber">583</span>Unnd da der eine oder der ander obgesazter ordnung zuwider sich <br/>
+<span class="lineNumber">584</span>auf flüchtigen fueß setzen unnd seine außgesazte bürgen nicht benemen, <br/>
+<span class="lineNumber">585</span>oder auch seine creditorn fuga defraudiren wurde, so soll <br/>
+<span class="lineNumber">586</span>der oder diselbe von helm unnd schilt, ehr unnd redligkait <br/>
+<span class="lineNumber">587</span>offentlich vortheilet unnd deß landes vorfestet werden, <br/>
+<span class="lineNumber">588</span>unnd soll dise constitutio durch keine appellation suspen-<br/>
+<span class="lineNumber">589</span>diret oder deßen effect behindert werden, inmassen <br/>
+<span class="lineNumber">590</span>sich die lanndtschafft aller suspensif mittl, so dawider <br/>
+<span class="lineNumber">591</span>fürgenommen werden möchten, auf disem allgemeinen landtage <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-15v"> [Blatt: 15<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">592</span>unanimi placito vorziehen unnd begeben haben, und soll dise <br/>
+<span class="lineNumber">593</span>constitution so woll ad praesentes alß futuros casus diri-<br/>
+<span class="lineNumber">594</span>giret unnd gerichtet sein.
+<span class="lineNumber">595</span><span class="article_added">[Art. III.21]</span> Die übermeßige stauung deß waßers, zum einundzwaintzig-<br/>
+<span class="lineNumber">596</span>isten belangendt, seindt Wir darunter nochmals gebürliche erkundigung <br/>
+<span class="lineNumber">597</span>fordersambst anzustellen unnd, so viel müglich, Unnser getreuen Underthanen <br/>
+<span class="lineNumber">598</span>schaden unnd nachtail zuverhüetten und abzuwenden, in gnaden geneigt.
+<span class="lineNumber">599</span><span class="article_added">[Art. III.22]</span> So wollen wir auch, fürs zwayundzwaintzigiste, ein jeder seinem <br/>
+<span class="lineNumber">600</span>antheil, Unnsere lanndträthe vermüge deß anno funff zehenhundert <br/>
+<span class="lineNumber">601</span>zway unnd sybentzig der lanndtschafft gegebenen assecuration <br/>
+<span class="lineNumber">602</span>revers zu den lanndtsachen in fürfallenden nöthen zu rath <br/>
+<span class="lineNumber">603</span>ziehen unnd gebrauchen.
+<span class="lineNumber">604</span><span class="article_added">[Art. III.23]</span> Inmaßen Wir auch, furs dreyundzwaintzigiste, zuverkünd-<br/>
+<span class="lineNumber">605</span>igung reichs unnd craiß steuren geschehen laßen können, daß <br/>
+<span class="lineNumber">606</span>in solchen fallen alle mahl landtäge gehaltten werden, und wollen <br/>
+<span class="lineNumber">607</span>Wir alß dann, wann Wir in der person selbst nicht erscheinen, <br/>
+<span class="lineNumber">608</span>die Unnserige mit gebührender instruction dahin zuschicken unnd <br/>
+<span class="lineNumber">609</span>abferttigen. Solten aber dabey etwa hochwichtige sachen <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-16r"> [Blatt: 16<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">610</span>einfallen, darzu Unnser praesentz vonneten, wollen wir Unns <br/>
+<span class="lineNumber">611</span>nach befindung derogestalt zubezeigen wißen, wie Wir es Unsern <br/>
+<span class="lineNumber">612</span>lanndt unnd leüten zuträgl<span class="orig">:</span>[ich] und ersprießlich erachten werden.
+<span class="lineNumber">613</span><span class="article_added">[Art. III.24]</span> Zum vierunndzwaintzigisten wollen Wir Unnser getreuen <br/>
+<span class="lineNumber">614</span>ritter- unnd lanndtschafft in gnaden gewilligt und nachgegeben <br/>
+<span class="lineNumber">615</span>haben, daß in altten lehen die agnaten, so eines nahmens, schilt <br/>
+<span class="lineNumber">616</span>unnd helm sein, wann sy sich schon der sippschafft halber nicht berechnen <br/>
+<span class="lineNumber">617</span>können, einander succediren mögen.
+<span class="lineNumber">618</span><span class="article_added">[Art. III.25]</span> Fürs fünffundzwaintzigiste wollen wir den gebrauch <br/>
+<span class="lineNumber">619</span>dises fürstenthumbs, daß der bürgen erben in bürgschafften, <br/>
+<span class="lineNumber">620</span>so in specie auf die erben nicht gerichtet, zu keiner zahlung ver-<br/>
+<span class="lineNumber">621</span>bunden, hiemit in gnaden confirmiret und bestettiget haben.
+<span class="lineNumber">622</span><span class="article_added">[Art. III.26]</span> Wie Wir ingleichen, furs sechsundzwaintzigste, <br/>
+<span class="lineNumber">623</span>den gebrauch, daß die bürgen, ungeacht sy allen beneficiis und <br/>
+<span class="lineNumber">624</span>einreden renuncyret, demnach mit erlegung ires stranges sich <br/>
+<span class="lineNumber">625</span>entfreyen können, wo sy sich nicht deß Meckhlnburgischen lanndt <br/>
+<span class="lineNumber">626</span>unnd hofgerichts gebrauch in specie vorziehen und begeben, hiemit <br/>
+<span class="lineNumber">627</span>Confirmiren vnnd becräfftigen.
+<span class="lineNumber">628</span><span class="article_added">[Art. III.27]</span> Weil auch, zum sybenundzwaintzigisten, wegen der <br/>
+<span class="lineNumber">629</span>erbjungfrauen unnd wie weit sich deroselben erlangtes privilegium <br/>
+<span class="lineNumber">630</span>erstrecket, einezeithero viel streit unnd irrungen fürgangen, alß <br/>
+<span class="lineNumber">631</span>haben Wir auf Unnsere getreuen ritterschafft selbst eigen under-<br/>
+<span class="lineNumber">632</span>thäniges guetachten die sachen dahin verbscheidet, daß die erbjung-<br/>
+<span class="lineNumber">633</span>frauen, die in<a class="fnNumber" href="#F_200" id="A_200">200</a> angefallene lehen güeter zeit ires lebens frey unge-<br/>
+<span class="lineNumber">634</span>hindert jemandts, doch allein iure usus fructus einhaben, nutzen unnd <br/>
+<span class="lineNumber">635</span>genießen sollen unnd mügen. Zum fall auch einer erbjungfrauen <br/>
+<span class="lineNumber">636</span>vater nicht so viel an baarschafft und alodial güetern auf seinen todts-<br/>
+<span class="lineNumber">637</span>fahl hinter im verlaßen wurde, daß sy davon gebührlich außgesteurt <br/>
+<span class="lineNumber">638</span>werden könte, so soll ir der brautschatz<a class="fnNumber" href="#F_u" id="A_u">u</a> ex feudo pro quantitate eius-<br/>
+<span class="lineNumber">639</span>dem wenigers nit, unnd ungeachtet ires habenden nießbrauchs, abge-<br/>
+<span class="lineNumber">640</span>richtet unnd gefolget werden, doch sollen die erbjungfern die ein-<br/>
+<span class="lineNumber">641</span>habende lehne weder gantz, noch<a class="fnNumber" href="#F_v" id="A_v">v</a> zum theil zu alienirn, zuvereußern <br/>
+<span class="lineNumber">642</span>oder auch zu deteriorirn unnd zuverringern, unnd daß harte bau- <br/>
+<span class="lineNumber">643</span>unnd mastholz weiter dann zu deß lehens scheinbaren nutz unnd <br/>
+<span class="lineNumber">644</span>frommen zuvorhauen keines weegs bemächtiget, oder dem lehens- <br/>
+<span class="lineNumber">645</span>folger, auf dem einen oder andern fahl, allen erweißlichen schaden <br/>
+<span class="lineNumber">646</span>unnd nachtail zuerstatten, auch die gepüer<a class="fnNumber" href="#F_201" id="A_201">201</a> unter tach unnd schwel<a class="fnNumber" href="#F_202" id="A_202">202</a> <br/>
+<span class="lineNumber">647</span>in guetem wesen zuerhaltten schuldig unnd verpflichtet sein. Die <br/>
+<span class="lineNumber">648</span>auf dergleichen lehne auf ableiben deß lehnmans hafftende <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-17r"> [Blatt: 17<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">649</span>schulde, daferne diselbe von deß verstorbenen nachlaß nit bezahlet <br/>
+<span class="lineNumber">650</span>werden können, sollen von der erbjungfern, so lange sy sich ires privilegii <br/>
+<span class="lineNumber">651</span>gebrauchen, gebüerlich verzinset, aber die hauptsumma von den lehens <br/>
+<span class="lineNumber">652</span>folgern entlich widererleget unnd bezahlet werden. Wann <br/>
+<span class="lineNumber">653</span>von der erbjungfrauen in dem lehenguete dergleichen beßerungen <br/>
+<span class="lineNumber">654</span>angerichtet werden, die den lehensfolgern zu besondern nutz unnd <br/>
+<span class="lineNumber">655</span>frommen gereichen können, so sollen ir oder irer erben, diselbige nach <br/>
+<span class="lineNumber">656</span>billiger ermeßigung zum halbschiedt, waß aber der vater in dem <br/>
+<span class="lineNumber">657</span>lehenguete gebawet unnd gebeßert, gar nicht refundiret und wider <br/>
+<span class="lineNumber">658</span>erstattet werden. Eß solle aber ein erbjungfer gar keine neue <br/>
+<span class="lineNumber">659</span>gebeu one vorwißen der lehensfolger anzurichten gemechtiget oder <br/>
+<span class="lineNumber">660</span>dafür keine widergeltung gewertig sein. Alß auch für disem <br/>
+<span class="lineNumber">661</span>in streitt unnd zweiffel gezogen, da mehr dann eine erbjungfer <br/>
+<span class="lineNumber">662</span>vorhanden unnd dern eine todts verfähret, ob derselben antheil an <br/>
+<span class="lineNumber">663</span>die uberlebende schwestern oder den lehensfolgern vorfalle. <br/>
+<span class="lineNumber">664</span>Demnach setzen und ordnen Wir, daß die erbjungfern, wann sy ires <br/>
+<span class="lineNumber">665</span>vattern lehen ungetheilet und pro indiviso gebrauchen und genießen, <br/>
+<span class="lineNumber">666</span>einer der andern succediren, hetten sy aber die lehen unter sich <br/>
+<span class="lineNumber">667</span>getheilet, der verstorbenen antheil auf die negste agnaten unnd <br/>
+<span class="lineNumber">668</span>lehensträger oder an Unns, den lehenherrn, nach gestalten sachen <br/>
+<span class="lineNumber">669</span>respective vorstammen und fallen soll. Endlich wollen Wir, <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-17v"> [Blatt: 17<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">670</span>da einer Unnser lehenleute, der nicht in Unnsern fürstenthumben <br/>
+<span class="lineNumber">671</span>unnd landen heußlich gesessen, ohn männliches leibes lehens erben, <br/>
+<span class="lineNumber">672</span>todts verfahren unnd allein töchter hinter im verlaßen solte, daß <br/>
+<span class="lineNumber">673</span>diselbige wenigers nit, alß wann der vatter unter Unnser bott-<br/>
+<span class="lineNumber">674</span>meßigkait sein domicilium und stätiges anwesen gehabt, obbe-<br/>
+<span class="lineNumber">675</span>rürtes privilegii fähig sein, nutzen und genießen sollen und mögen.
+<span class="lineNumber">676</span><span class="article_added">[Art. III.28]</span> Da auch, fürs achtundzwaintzigiste, die verwittibte edel-<br/>
+<span class="lineNumber">677</span>frauen, wann sy zur andern ehe schreiten, iren einhabenden wit-<br/>
+<span class="lineNumber">678</span>thumb gegen erstattung deß eingebrachten ehegeldes, beßerung <br/>
+<span class="lineNumber">679</span>unnd waß dem anhengig, den lehensfolgern cediren unnd abtretten, <br/>
+<span class="lineNumber">680</span>erachten Wir den rechten unnd herkommen gemäß, eß wäre dann <br/>
+<span class="lineNumber">681</span>daß in der heyraths unnd wittumbs vorschreibungen, so mit <br/>
+<span class="lineNumber">682</span>fürstlichem unnd vätterlichen consens aufgerichtet, ein anders versehen <br/>
+<span class="lineNumber">683</span>unnd enthaltten, dabey es dann billig zulaßen. Yedoch soll es mit <br/>
+<span class="lineNumber">684</span>denselben der melioration unnd deterioration halber allermaßen <br/>
+<span class="lineNumber">685</span>wie eben im punct von erbjungfern disponiret, observiret unnd <br/>
+<span class="lineNumber">686</span>gehalten werden.
+<span class="lineNumber">687</span><span class="article_added">[Art. III.29]</span> Wir constituiren und verordnen auch hiemit, fürs neununnd <br/>
+<span class="lineNumber">688</span>zwaintzigiste, daß die lehne, so jemandt über dreißig und mehr jahren <br/>
+<span class="lineNumber">689</span>geruhigclich beßeßen, in keine wege hinfüro revociret werden sollen.
+<span class="lineNumber">690</span><span class="article_added">[Art. III.30]</span> Der auß einem geschlechte ins andere verkauffter lehen halber <br/>
+<span class="lineNumber">691</span>erclären Wir Unnß, fürs dreißigiste, in gnaden dahin, daß in <br/>
+<span class="lineNumber">692</span>der gleichen fallen deß keuffers sambtliche vettern, so sich mit ihm der <br/>
+<span class="lineNumber">693</span>agnation unnd sippschafft halber biß auf den fünfften gradt ex-<br/>
+<span class="lineNumber">694</span>clusive gebüerlich zuberechnen, in der kauff verschreibung und fürst-<br/>
+<span class="lineNumber">695</span>lichem consens nominatim mit begrieffen, unnd das verkauffte <br/>
+<span class="lineNumber">696</span>lehen, quo ad ipsos nominatos unnd derselben leibs lehens erben, <br/>
+<span class="lineNumber">697</span>in infinitum pro feudo antiquo gehaltten, und solches auf die <br/>
+<span class="lineNumber">698</span>vor disem bereits erkauffte lehen getzogen werden soll.
+<span class="lineNumber">699</span><span class="article_added">[Art. III.31]</span> Dem negst haben Wir, fürs einunddreißigiste, Unnser getreuen <br/>
+<span class="lineNumber">700</span>ritterschafft die besondere gnade gethan, daß die einem lehnman <br/>
+<span class="lineNumber">701</span>anererbte schulde, unnd darin er sonsten wegen gebüerlicher aussteuer <br/>
+<span class="lineNumber">702</span>und abfindung seiner respective töchter, schwester unnd brueder, doch <br/>
+<span class="lineNumber">703</span>daß solches nicht übermeßig geschicht, durch feuerbrunst, ungewitter <br/>
+<span class="lineNumber">704</span>unnd andere casus fortuitos, one seine hin- und fahrleßigkait, auß <br/>
+<span class="lineNumber">705</span>göttlichem<a class="fnNumber" href="#F_w" id="A_w">w</a> unwandelbarem verhengnus gerathen möchte, auß den <br/>
+<span class="lineNumber">706</span>Unns eröffneten lehen bezahlet unnd abgerichtet werden sollen, doch <br/>
+<span class="lineNumber">707</span>mit diser außtrucklichen beschaidenhait, geding unnd vorbehalt, daß <br/>
+<span class="lineNumber">708</span>der lezte lehenträger ein inventarium oder specificirte designa-<br/>
+<span class="lineNumber">709</span>tion der im anererbeten schulden innerhalb vier wochen, nach dem ime <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-18v"> [Blatt: 18<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">710</span>daß lehen haimbgefallen, vermitels eydes zu ediren und in die <br/>
+<span class="lineNumber">711</span>canzley einzuschicken, unnd wann er dann zur außsteuer seiner <br/>
+<span class="lineNumber">712</span>tochter unnd schwester, oder auch in andern fällen, so iezt ver-<br/>
+<span class="lineNumber">713</span>meldet, ainer anleihung einer gewißen summen geldes benötiget, <br/>
+<span class="lineNumber">714</span>solches Unns unnd Unnsern nachkommenden regierenden landes <br/>
+<span class="lineNumber">715</span>fürsten, alß den lehenherrn supplicando zuerkennen zugeben und <br/>
+<span class="lineNumber">716</span>umb gnedigen consens unnd bewilligung underthenig anzuhaltten, <br/>
+<span class="lineNumber">717</span>schuldig und verpflicht, Wir aber unnd Unnser nachkommen, zu ab-<br/>
+<span class="lineNumber">718</span>tragung anderer unnd mehrer schulden dann obberürt, nach eröffnung <br/>
+<span class="lineNumber">719</span>der lehen keines weeges obligirt unnd gehalten sein sollen und wollen.
+<span class="lineNumber">720</span><span class="article_added">[Art. III.32]</span> So laßen Wir auch, zum zwayunddreißigisten, geschehen, daß die <br/>
+<span class="lineNumber">721</span>von der ritterschafft unnd stetten auf iren unstreitigen grundt <br/>
+<span class="lineNumber">722</span>unnd boden, da einer dem andern an waßer unnd windt keinen schaden <br/>
+<span class="lineNumber">723</span>zufüegt und die underthanen auf gewiße mühlen zu mahlen nicht <br/>
+<span class="lineNumber">724</span>verbunden sein, unbehindert mühlen bauen mügen.
+<span class="lineNumber">725</span><span class="article_added">[Art. III.33]</span> Zum fall auch, fürs dreyunddreißigiste, die gewonnhait oder <br/>
+<span class="lineNumber">726</span>constitutio in der chur Brandenburg, wann Marckesche bur-<br/>
+<span class="lineNumber">727</span>gen nebenst Meckelnburgern oder auch anderer<a class="fnNumber" href="#F_x" id="A_x">x</a> herrschafften <br/>
+<span class="lineNumber">728</span>underthanen bürglich gelobet, daß die Marckesche fideiussores <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-19r"> [Blatt: 19<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">729</span>in solidum, ob sy sich schon also verschrieben, nicht belanget oder <br/>
+<span class="lineNumber">730</span>der außlendischen strenge zu bezahlen gedrungen werden mügen, <br/>
+<span class="lineNumber">731</span>wider die Meckelnburger obseruiret werden solte, wollen Wir <br/>
+<span class="lineNumber">732</span>es ebenmeßig wider die Merckische bürgen in solchen fällen hinn-<br/>
+<span class="lineNumber">733</span>widerumb also haltten.
+<span class="lineNumber">734</span><span class="article_added">[Art. III.34]</span> Daß schedliche münzwesen unnd deßelben remedierung, fürs <br/>
+<span class="lineNumber">735</span>vierunnddreißigiste, betreffendt, wollen Wir an Unnser treu-<br/>
+<span class="lineNumber">736</span>eifferigen landts vetterlichen fürsorge, mühe unnd fleiß, so viel <br/>
+<span class="lineNumber">737</span>Unnß immer zuerheben mügelich, noch wie vor nichts erwinden <br/>
+<span class="lineNumber">738</span>laßen und Unnß noch bey wehrendem disem landtage einer <br/>
+<span class="lineNumber">739</span>practicierlichen hailsamen münzordnung vergleichen.
+<span class="lineNumber">740</span><span class="article_added">[Art. III.35]</span> Zum fünffunnddreißigisten, wollen Wir zu verhüet-<br/>
+<span class="lineNumber">741</span>tung künfftiger disputaten, mit zuziehung Unnser getreuen <br/>
+<span class="lineNumber">742</span>lanndtschafft eine gewiße formulam obligationis, wie es <br/>
+<span class="lineNumber">743</span>mit verschreib- und entrichtung der reichsthaler in specie oder <br/>
+<span class="lineNumber">744</span>andern sorten gehaltten werden soll, abfaßen unnd publiciern <br/>
+<span class="lineNumber">745</span>laßen, darnach auch in Unnsern canzleyen unnd hofgericht <br/>
+<span class="lineNumber">746</span>verabschiedet und gesprochen werden soll.
+<span class="lineNumber">747</span><span class="article_added">[Art. III.36]</span> Gestalt wir auch, fürs sechsunnddreißigiste, mit zuziehung <br/>
+<span class="lineNumber">748</span>Unnser getreuen ritter- unnd landtschafft ein gemein landtrecht <br/>
+<span class="lineNumber">749</span>in teutscher sprach, damit ein jeder, wie seine sache im gericht <br/>
+<span class="lineNumber">750</span>zutreiben, selber vorstehen könne, zusammen bringen und abfaßen, unnd <br/>
+<span class="lineNumber">751</span>nach demselben in den canzleyen unnd hofgericht sententiiren unnd <br/>
+<span class="lineNumber">752</span>sprechen laßen wollen.
+<span class="lineNumber">753</span><span class="article_added">[Art. III.37]</span> Wann Wir auch, fürs syben und dreißigiste, auß erheb- unnd <br/>
+<span class="lineNumber">754</span>bewögclichen ursachen zu nutz unnd frommen Unser fürstenthumbe <br/>
+<span class="lineNumber">755</span>und lande mit jemandt in confoederation unnd bündtnus ab-<br/>
+<span class="lineNumber">756</span>sonderlich einlaßen wurden, dazu Unnser getreuen landtschafft <br/>
+<span class="lineNumber">757</span>contribution vonneten, so wollen Wir die lanndträthe alß <br/>
+<span class="lineNumber">758</span>dann mit dazu ziehen unnd ires raths gebrauchen.
+<span class="lineNumber">759</span><span class="article_added">[Art. III.38]</span> Wir seindt auch, zum achtunddreißigisten, hinfüro keine lauff-<br/>
+<span class="lineNumber">760</span>pläze oder durchzüge inn und durch unnsere fürstenthumbe unnd <br/>
+<span class="lineNumber">761</span>landen, oder in anderer gestalt nicht dann auf maß, wie in den reichs ab-<br/>
+<span class="lineNumber">762</span>schieden versehen, zuerstatten genzlich gemeinet und entschloßen.
+<span class="lineNumber">763</span><span class="article_added">[Art. III.39]</span> Wurden wir auch, fürs neununddreißigiste (welches Gott <br/>
+<span class="lineNumber">764</span>gnedig abwenden wolle) in solche schwäre mißverstände und uneinig-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-20r"> [Blatt: 20<span class="rectoVerso">r</span> ] </button><br/>
+<span class="lineNumber">765</span>keit gerathen unnd zu den waffen greiffen, so wollen Wir <br/>
+<span class="lineNumber">766</span>Unnsere getreuen ritter unnd landtschafft, wie auch die statt <br/>
+<span class="lineNumber">767</span>Rosstockh, einer gegen den andern, imgleichen wider die statt <br/>
+<span class="lineNumber">768</span>Rosstockh, wann diselbe in terminis verpleiben, und sich den aufge-<br/>
+<span class="lineNumber">769</span>richteten erbverträgen gemäß verhaltten würdt unnd keinen <br/>
+<span class="lineNumber">770</span>aufstandt unter sich oder auch sonsten rebellion erregen und <br/>
+<span class="lineNumber">771</span>mit unrechten gewaldt gegen Unnß unnd Unnsere underthanen <br/>
+<span class="lineNumber">772</span>nichts tentiren, Unnsere getreue lanndtschafft, wie auch die statt <br/>
+<span class="lineNumber">773</span>Wißmar mit hemmung der ab- unnd zufuhr, oder sonsten ander thätt-<br/>
+<span class="lineNumber">774</span>lichaiten, im gleichen die statt Rosstockh wider die andere stände, <br/>
+<span class="lineNumber">775</span>unnd in specie wider die statt Wißmar in abgedachten fällen <br/>
+<span class="lineNumber">776</span>zu waßer oder zu lande nicht uff fordern unnd gebrauchen.
+<span class="lineNumber">777</span><span class="article_added">[Art. III.40]</span> Zum viertzigisten, laßen Wir es wegen deß geclagten <br/>
+<span class="lineNumber">778</span>mulzenbrauen, vorkaufferey unnd handtwercker auf den <br/>
+<span class="lineNumber">779</span>dörffern bey Unnsern außgekündigten policey ordnung noch-<br/>
+<span class="lineNumber">780</span>mals bewenden, unnd wollen wider solche eingerießene mißbreuche <br/>
+<span class="lineNumber">781</span>gebührende verordnung zumachen und mit der execution darauf <br/>
+<span class="lineNumber">782</span>zuverfahren wißen.
+<span class="lineNumber">783</span><span class="article_added">[Art. III.41]</span> So erklären Wir Vnnß auch, fürs ainundvierzigiste, in gnaden <br/>
+<span class="lineNumber">784</span>dahin, da yemandt auß der ritter- unnd landtschafft straff <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-20v"> [Blatt: 20<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">785</span>würdig befunden, daß Wir unerkandten rechtens wider in nicht ver-<br/>
+<span class="lineNumber">786</span>fahren, sondern in zuvor mit seiner nothturfft vermüge deß <br/>
+<span class="lineNumber">787</span>assecuration revers de anno funffzehenhundert zway unnd <br/>
+<span class="lineNumber">788</span>sybentzigs gebüerlich hören wollen.
+<span class="lineNumber">789</span><span class="article_added">[Art. III.42]</span> Zum zwayunndvierzigisten, haben Wir gnedig bewilliget <br/>
+<span class="lineNumber">790</span>und nachgegeben, daß die jenige, so von Unnserm fiscal in peinliche <br/>
+<span class="lineNumber">791</span>anspruch genomen werden, si delicta casu alia non dolosa sint, <br/>
+<span class="lineNumber">792</span>unnd es sonsten die delicti qualitas permittiret unnd zulaßet, <br/>
+<span class="lineNumber">793</span>allein bey eroffnung der endturtheil sich in der person zustellen <br/>
+<span class="lineNumber">794</span>anzuloben, unnd darüber gewöhnliche caution zu praestiren ver-<br/>
+<span class="lineNumber">795</span>pflicht unnd schuldig sein. Solches aber ad notoria et enor-<br/>
+<span class="lineNumber">796</span>miora delicta, darüber in dem anno sechzehenhundert sechsten <br/>
+<span class="lineNumber">797</span>zum Sterneberge übergebenen generali gravamine, und aber-<br/>
+<span class="lineNumber">798</span>mals von Unnser getreuen ritterschafft bey der landtags <br/>
+<span class="lineNumber">799</span>versamblung daselbst ganz beschwärlich geclaget worden, nit gezogen <br/>
+<span class="lineNumber">800</span>unnd verstanden, sondern darunter einhalts de anno funffzehen-<br/>
+<span class="lineNumber">801</span>hundert zway unnd sybenzig, den viertten July, der <br/>
+<span class="lineNumber">802</span>ritter- unnd lanndtschafft gegebenen assecuration revers <br/>
+<span class="lineNumber">803</span>allerdings procediret, verfahren unnd daß übel mit eyffer <br/>
+<span class="lineNumber">804</span>unnd ernst gestrafft werden.
+<span class="lineNumber">805</span><span class="article_added">[Art. III.43]</span> Was<a class="fnNumber" href="#F_y" id="A_y">y</a> die bestraffung der unter denen vom adl lenger mehr <br/>
+<span class="lineNumber">806</span>zu und überhandt nehmenden unzucht, fürs dreyundviertzigste, <br/>
+<span class="lineNumber">807</span>anreichet, ist derowegen in Unnser publicirten policey ordnung <br/>
+<span class="lineNumber">808</span>tit. von todtſchlag, ehebruch, §. »wurde auch« cum duob<span class="orig">:</span>[us] seq<span class="orig">q.</span>[uentibus], <br/>
+<span class="lineNumber">809</span>alberait verordnung geschehen, darauf Wir auf gebürliches <br/>
+<span class="lineNumber">810</span>anhaltten die execution ohn ansehen der personen unwaigerlich <br/>
+<span class="lineNumber">811</span>ergehen zulaßen, oder auch nach<a class="fnNumber" href="#F_z" id="A_z">z</a> befindung deß delicti und der <br/>
+<span class="lineNumber">812</span>beschuldigten personen qualitet und beschaffenhait, außerhalb <br/>
+<span class="lineNumber">813</span>denen fellen, so leib und lebens straff auf sich tragen, den verwandten <br/>
+<span class="lineNumber">814</span>die vermauerung personae delinquentis zuverstatten <br/>
+<span class="lineNumber">815</span>in gnaden erpietig.
+<span class="lineNumber">816</span><span class="article_added">[Art. III.44]</span> Fürß vierundviertzigiste, wollen Wir Unnser getreu-<br/>
+<span class="lineNumber">817</span>en lanndtschafft außgetretten pauren in Unnsern ämptern <br/>
+<span class="lineNumber">818</span>nicht aufhaltten, sondern auf gebüerliches ansuchen und beweiß-<br/>
+<span class="lineNumber">819</span>thumb iren herrn widerumb folgen laßen.
+<span class="lineNumber">820</span><span class="article_added">[Art. III.45]</span> Zum fünffunndviertzigisten, wollen <br/>
+<span class="lineNumber">821</span>Wir wegen der geclagten unnd von den beambten oder andern <br/>
+<span class="lineNumber">822</span>gelegten neuen krüge<a class="fnNumber" href="#F_203" id="A_203">203</a> erkundigung anstellen und diselben <br/>
+<span class="lineNumber">823</span>nach befindung hinwiderumb abschaffen.
+<span class="lineNumber">824</span><span class="article_added">[Art. III.46]</span><a class="fnNumber" href="#F_aa" id="A_aa">aa</a> <span class="article_added">[Art. 4.47]</span> So viel, zum sybenundviertzigisten, die entlauffung <br/>
+<span class="lineNumber">825</span>der knechte unnd dienstpotten zur erndten unnd andern zeit belanget, <br/>
+<span class="lineNumber">826</span>soll deßwegen, daß kein knecht oder magdt von jemandt in jahrdienst <br/>
+<span class="lineNumber">827</span>angenomen werden, sy haben dann ires gueten abschiedts und verhalt-<br/>
+<span class="lineNumber">828</span>tens glaubwürdigen schein vorgezeiget, nothwendige ordinantz gemacht, <br/>
+<span class="lineNumber">829</span>und die übertretter derselben gebüerlich gestraffet werden.
+<span class="lineNumber">830</span><span class="article_added">[Art. III.48]</span> Imgleichen erachten Wir, fürs achtundviertzigiste, zu erhalttung <br/>
+<span class="lineNumber">831</span>gehorsambs treu unnd redlichait unter dem gemainen gesinde hoch-<br/>
+<span class="lineNumber">832</span>nötig sein, daß kein reisiger knecht, kutscher<a class="fnNumber" href="#F_ab" id="A_ab">ab</a>, vogt, müller, <br/>
+<span class="lineNumber">833</span>schäffer und dergleichen gesellen, die nicht ires redlichen verhalttens <br/>
+<span class="lineNumber">834</span>und abschiedts von iren vorigen junckern oder herrschafft gebüerlichen <br/>
+<span class="lineNumber">835</span>schein unnd kundtschafft, die ein jeder auf seinem eidt unnd pflicht <br/>
+<span class="lineNumber">836</span>inen mittheilen würdt, fürzulegen, von jemandt zu dienst auf <br/>
+<span class="lineNumber">837</span>und angenomen werden. Dahero Wir Unnsere hiebevor deß-<br/>
+<span class="lineNumber">838</span>halb publicirte mandata zu renoviren gemeinet, deren ein <br/>
+<span class="lineNumber">839</span>jeder Unnser underthanen bey unnachleßiger straffe funffzig <br/>
+<span class="lineNumber">840</span>thaler gehorsamblich zugeleben schuldig, und hiemit nochmals unnd <br/>
+<span class="lineNumber">841</span>ernstlich befehligt sein soll.
+<span class="lineNumber">842</span><span class="article_added">[Art. III.49]</span> Schließlich unnd zum neunundviertzigisten, wollen Wir auch den <br/>
+<span class="lineNumber">843</span>angenommenen appellationen am kay<span class="orig">.</span>[serlichen] cammergerichte, doch <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-22r"> [Blatt: 22<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">844</span>mit erinnerung, sich der muethwilligen unnd frävelhafftigen appel-<br/>
+<span class="lineNumber">845</span>lationen dagegen zuenthalten, iren starcken lauff, unnd Unnsere <br/>
+<span class="lineNumber">846</span>getreue ritter- unnd landtschafft bey iren wohlhergebrachten <br/>
+<span class="lineNumber">847</span>privilegiis, assecuration revers, erbverträgen, appellation <br/>
+<span class="lineNumber">848</span>recessen, frey- unnd gerechtigkaiten allenthalben ruehig verbleiben <br/>
+<span class="lineNumber">849</span>laßen und dawider niemandt beschwären.
+<span class="lineNumber">850</span>disen brief in vorgesatzten constitutionibus, concessionibus, be-<br/>
+<span class="lineNumber">851</span>lieb- unnd verordnungen in allen clausuln unnd puncten fur <br/>
+<span class="lineNumber">852</span>Unnß, Unnsere erben unnd nachkommende herzogen zu Meckhlnburg <br/>
+<span class="lineNumber">853</span>mit Unnserer eigenen handen subscription und anhangenden <br/>
+<span class="lineNumber">854</span>fürstlichen innsigeln bestettiget und geben zu <button class="entity #guestrow place" data-ref="guestrow" data-type="place" id="d2e4414">Gustrow</button>, den <br/>
+<span class="lineNumber">855</span>dreyunndzwainzigisten monats februarij, nach Christi Unsers <br/>
+<span class="lineNumber">856</span>erlösers unnd seeligmachers gepurth im ain tausent Sechs-<br/>
+<span class="lineNumber">857</span>hundert, unnd ein unnd zwainzigisten jahre, <br/>
+<span class="lineNumber">858</span><button class="entity #adolf_friedrich_schwerin person" data-ref="adolf_friedrich_schwerin" data-type="person" id="d2e4431">Adolf Friderich</button> H<span class="orig">.</span>[erzog] Z<span class="orig">.</span>[u] M<span class="orig">.</span>[ecklenburg] [manu propria] <button class="entity #johann_albrecht_II_guestrow person" data-ref="johann_albrecht_II_guestrow" data-type="person" id="d2e4446">Hannß Albrecht</button> H<span class="orig">.</span>[erzog] Z<span class="orig">.</span>[u] M<span class="orig">.</span>[ecklenburg] [manu propria]
+<span class="lineNumber">859</span>[IV. Revers vom 23. Februar 1621] <br/>
+<span class="lineNumber">860</span>Von Gottes gnaden Wir, <button class="entity #adolf_friedrich_schwerin person" data-ref="adolf_friedrich_schwerin" data-type="person" id="d2e4474">Adolph Friderich</button> und <button class="entity #johann_albrecht_II_guestrow person" data-ref="johann_albrecht_II_guestrow" data-type="person" id="d2e4477">Hannß Albrecht</button>, <br/>
+<span class="lineNumber">861</span>gebrüeder, herzogen zu <button class="entity #mecklenburg_herzogtum place" data-ref="mecklenburg_herzogtum" data-type="place" id="d2e4483">Meckelnburg</button>, coadiutor deß stüffts <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-22v"> [Blatt: 22<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">862</span><button class="entity #ratzeburg_bistum place" data-ref="ratzeburg_bistum" data-type="place" id="d2e4492">Razeburg</button>, fürsten zu <button class="entity #wenden_fuerstentum place" data-ref="wenden_fuerstentum" data-type="place" id="d2e4495">Wenden</button>, grafen zu <button class="entity #schwerin_grafschaft place" data-ref="schwerin_grafschaft" data-type="place" id="d2e4499">Schwerin</button>, der lannde <br/>
+<span class="lineNumber">863</span><button class="entity #rostock place" data-ref="rostock" data-type="place" id="d2e4503">Rosstockh</button> unnd <button class="entity #stargard place" data-ref="stargard" data-type="place" id="d2e4506">Stargardt</button> herren, bekennen hiemit vor Unnß, <br/>
+<span class="lineNumber">864</span>Unnsere erben unnd nachkommende herzogen zu <button class="entity #mecklenburg_herzogtum place" data-ref="mecklenburg_herzogtum" data-type="place" id="d2e4511">Meckelnburg</button>: <span class="article_added">[Art. IV.1]</span> Nachdem <br/>
+<span class="lineNumber">865</span>Unnsere liebe getreue unnderthanen aller stände sich auß undertheniger <br/>
+<span class="lineNumber">866</span>zuneigung, treu unnd liebe, so sy gegen Unns alß ire erbherrn und landes <br/>
+<span class="lineNumber">867</span>fürsten tragen, sich freywillig unnd one alle pflicht und schuldt dahin be-<br/>
+<span class="lineNumber">868</span>wegen laßen, daß sy zu abhelffung Unnserer obligenden schulde under-<br/>
+<span class="lineNumber">869</span>thenig bewilligt, zugesagt unnd versprochen, zehenmahlhundert tausent <br/>
+<span class="lineNumber">870</span>gulden zuerlegen, unnd von disem yetzt verfloßenen Anthonii<a class="fnNumber" href="#F_204" id="A_204">204</a> an, also <br/>
+<span class="lineNumber">871</span>fort sechsmahlhundert tausent gulden mit den zinsen, und von er-<br/>
+<span class="lineNumber">872</span>melter zeit über sechs jahr zwaymalhundert tausent gulden, <br/>
+<span class="lineNumber">873</span>gleichsfahls mit den zinsen, unnd folgents über zwen, und von abge-<br/>
+<span class="lineNumber">874</span>wichenem Antonii an zurechnen, über acht jahren, die übrigen zwaymal-<br/>
+<span class="lineNumber">875</span>hundert tausent gulden sambt den zinsen anzunemen, und also Unnsere <br/>
+<span class="lineNumber">876</span>schulde abzutragen, sich auch der mittel unnd hilff, dadurch solches geschehen <br/>
+<span class="lineNumber">877</span>soll, miteinander unverzügclich vergleichen<a class="fnNumber" href="#F_ac" id="A_ac">ac</a> wollen. <span class="article_added">[Art. IV.2]</span> Daß Wir <br/>
+<span class="lineNumber">878</span>demnach, wie zuvor in der erbhuldigung geschehen, denen vom adel und <br/>
+<span class="lineNumber">879</span>stätten gnedigclich zugesagt, sy bey allen iren habenden privilegien, <br/>
+<span class="lineNumber">880</span>freyhaiten unnd gerechtigkait (die sy von Unnsern löblichen vorfahren, <br/>
+<span class="lineNumber">881</span>den<a class="fnNumber" href="#F_ad" id="A_ad">ad</a> herzogen zu <button class="entity #mecklenburg_herzogtum place" data-ref="mecklenburg_herzogtum" data-type="place" id="d2e4588">Meckelnburg</button> etc. erworben, geruehigclich und wolher-<br/>
+<span class="lineNumber">882</span>gebracht haben), insonderhait die vom adel, die sonst mit iren<a class="fnNumber" href="#F_ae" id="A_ae">ae</a> ritter-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-23r"> [Blatt: 23<span class="rectoVerso">r</span> ] </button><br/>
+<span class="lineNumber">883</span>lichen güetern ain freyer standt ist und sein soll, bleiben laßen, <span class="article_added">[Art. IV.3]</span> auch <br/>
+<span class="lineNumber">884</span>dabey, deßgleichen bey der anno funffzehenhundert dreißig kaiser <br/>
+<span class="lineNumber">885</span><button class="entity #karl_v person" data-ref="karl_v" data-type="person" id="d2e4622">Carl dem fünfften</button>, chur-fürsten unnd ständen deß <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e4625">heyligen </button><br/>
+<span class="lineNumber">886</span><button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e4625">römischen reichs</button> zu <button class="entity #augsburg place" data-ref="augsburg" data-type="place" id="d2e4630">Augspurg</button> ubergebenen <button aria-label="opens information about an entity" class="entity event" data-ref="#ca_invariata">unveränderten confession</button> <br/>
+<span class="lineNumber">887</span>und lutherischen religion unnd bey fridt unnd recht gnedigclich schuzen <br/>
+<span class="lineNumber">888</span>unnd hanndthaben, <span class="article_added">[Art. IV.4]</span> auch den<a class="fnNumber" href="#F_af" id="A_af">af </a> allgemeinen und sonderbahren<a class="fnNumber" href="#F_205" id="A_205">205</a> Unnß für-<br/>
+<span class="lineNumber">889</span>gebrachten beschwerungen unnd clagen, welchen noch nit abgeholffen, <br/>
+<span class="lineNumber">890</span>aber dennoch clar und auf sigel unnd brife<a class="fnNumber" href="#F_206" id="A_206">206</a> oder kundtbarlichen<a class="fnNumber" href="#F_207" id="A_207">207</a> ent-<br/>
+<span class="lineNumber">891</span>wehrungen<a class="fnNumber" href="#F_208" id="A_208">208</a> beruhen, unverzüglich und ohne ferner vorweisen oder rechts-<br/>
+<span class="lineNumber">892</span>gang abhelffen, die andern aber, welche nicht so kundtbar, sondern <br/>
+<span class="lineNumber">893</span>altiorem indaginem erfordern, durch die nachgeseßene unpartheysche <br/>
+<span class="lineNumber">894</span>commissarien (welche sich unverzüglich darzue entledigen sollen und <br/>
+<span class="lineNumber">895</span>wollen) oder durch nidersezung der räthe oder parium curia, <br/>
+<span class="lineNumber">896</span>wie solches dem clagenden theil am besten gelegen und von Unnß <br/>
+<span class="lineNumber">897</span>pitten werden, noch vor Johannis<a class="fnNumber" href="#F_209" id="A_209">209</a> den anfang geben unnd folgents <br/>
+<span class="lineNumber">898</span>mit dem allerförderlichsten, unnd zum lengsten innerhalb Jahrs <br/>
+<span class="lineNumber">899</span>frist zu entlicher<a class="fnNumber" href="#F_210" id="A_210">210</a> erörterung, gnediger und billiger<a class="fnNumber" href="#F_211" id="A_211">211</a> endtschafft<a class="fnNumber" href="#F_212" id="A_212">212</a> <br/>
+<span class="lineNumber">900</span>kommen unnd gelangen laßen wollen, <span class="article_added">[Art. IV.5]</span> mit disem anhange unnd <br/>
+<span class="lineNumber">901</span>gnedigen zusage, daß dise der landtschafft iezt abermals ge-<br/>
+<span class="lineNumber">902</span>leistete freywillige hilff, inen und allen iren nachkommen, <br/>
+<span class="lineNumber">903</span>daran unnd also an iren privilegien, freyhaiten, gewonnhaiten, <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-23v"> [Blatt: 23<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">904</span>und von Unnß habenden revers (welchen Wir hiemit in der aller besten <br/>
+<span class="lineNumber">905</span>formb, maß und gestalt, wie solches von rechtswegen geschehen soll, <br/>
+<span class="lineNumber">906</span>kann oder mag, verneuert, erweitert unnd confirmirt haben wollen) <br/>
+<span class="lineNumber">907</span>ganz unschedlich unnd unnachtailig sein soll. <span class="article_added">[Art. IV.6]</span> Sy sollen auch solche <br/>
+<span class="lineNumber">908</span>unnd dergleichen beschwärungen auf sich zunemen unnd hülffe zu laisten <br/>
+<span class="lineNumber">909</span>hinfüro nicht schuldig noch verpflichtig sein, sondern allewege bey iren <br/>
+<span class="lineNumber">910</span>alten privilegien und freyhaiten, unnd der alten gewöhnlichen <br/>
+<span class="lineNumber">911</span>einfechtigen landtbeten (wann in künfftigen zeiten ein fürstlich <br/>
+<span class="lineNumber">912</span>freulein außgeben unnd außgesteurt wurde, daß sy auch unnd <br/>
+<span class="lineNumber">913</span>nichts anders dann auf vorgehende frey unnd guetwillige beliebung, <br/>
+<span class="lineNumber">914</span>unnd sonsten nicht, zuleisten sollen schuldig sein) gelaßen unnd weiter <br/>
+<span class="lineNumber">915</span>Unnser oder Unnserer erben unnd nachkommenden herzogen zu Meckeln-<br/>
+<span class="lineNumber">916</span>burg schulde anzunemen und zubezahlen nicht schuldig sein und damit in <br/>
+<span class="lineNumber">917</span>keinen weeg mit nichten beschweret werden. <span class="article_added">[Art. IV.7]</span> Damit auch solche yezt-<br/>
+<span class="lineNumber">918</span>bewilligte summa der zehenmahlhundert tausent gulden, desto <br/>
+<span class="lineNumber">919</span>füegclicher und trägclicher könne und müge auf und zusammen gebracht <br/>
+<span class="lineNumber">920</span>werden, wollen Wir nicht allein gewilliget und nachgegeben haben, <br/>
+<span class="lineNumber">921</span>daß alle Unnsere clöster und ämpter unnderthanen, deßgleichen <br/>
+<span class="lineNumber">922</span>alle geistliche unnd weltliche güetter, der fürstlichen leib-<br/>
+<span class="lineNumber">923</span>geding underthanen und der vom adl leibgeding unnd frembder <br/>
+<span class="lineNumber">924</span>prelaten oder anderer, außer oder innerhalb landes gesessen, <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-24r"> [Blatt: 24<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">925</span>güeter, so ire nahrung in Unsern landen haben unnd Unnsers schutz <br/>
+<span class="lineNumber">926</span>unnd beschürmung genießen, waß standts oder condition die sein, von <br/>
+<span class="lineNumber">927</span>Unnsern vorfahren oder Unnß privilegieret, oder nicht, wie die namen <br/>
+<span class="lineNumber">928</span>haben mügen, niemandt außgezogen<a class="fnNumber" href="#F_213" id="A_213">213</a>, müge beleget werden, sondern <br/>
+<span class="lineNumber">929</span>Wir sollen unnd wollen auch daranne sein, die gnedige verordnung <br/>
+<span class="lineNumber">930</span>und vorsehung zu thun, das allerding hierin niemandt, benandt oder <br/>
+<span class="lineNumber">931</span>nicht benant, sich selbst oder sonst jemandt auß ziehen unnd eximirn, <br/>
+<span class="lineNumber">932</span>sondern die von gemeiner landtschafft gewilligte hilff würcklich <br/>
+<span class="lineNumber">933</span>praestiren unnd laisten sollen. <span class="article_added">[Art. IV.8]</span> Wir sollen und wollen <br/>
+<span class="lineNumber">934</span>auch einer erbaren landtschafft die freye disposition und dis-<br/>
+<span class="lineNumber">935</span>pensation über der zusammenbringung und gleich voneinander theilung <br/>
+<span class="lineNumber">936</span>der bewilligten summen, wol<a class="fnNumber" href="#F_ag" id="A_ag">ag</a> ander außgaben solcher hilff geruehigclich <br/>
+<span class="lineNumber">937</span>laßen, unnd sonderlich inen das vorschreiben unnd assecurirn. So soll <br/>
+<span class="lineNumber">938</span>auch der nachstandt von der vorigen tripelhülff, so verhanden oder <br/>
+<span class="lineNumber">939</span>noch in unnsern embtern oder bey andern Unsern underthanen restirn, <br/>
+<span class="lineNumber">940</span>oder auch von neuem von Unnsern befelchshabern aufgenommen worden, <br/>
+<span class="lineNumber">941</span>in dise summa der zehenmahlhundert tausendt gulden geschlagen, <br/>
+<span class="lineNumber">942</span>unnd darzu gebracht unnd angewendet werden.
+<span class="lineNumber">943</span><span class="article_added">[Art. IV.9]</span> Da auch von obgedachten puncten und articuln ein oder mehr solte <br/>
+<span class="lineNumber">944</span>übergangen, nachgelaßen unnd in seumbnus gestellet unnd von Unnß <br/>
+<span class="lineNumber">945</span>nicht würcklich volnzogen unnd ins werckh gerichtet werden, welches <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-24v"> [Blatt: 24<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">946</span>doch nicht geschehen soll, so soll alß dann auf den fall auch dagegen <br/>
+<span class="lineNumber">947</span>eine underthenige landtschafft, der bewilligten hülffe folge zuleisten, <br/>
+<span class="lineNumber">948</span>ferner unnd weiter zu contribuiren, unverstricket und unverbunden <br/>
+<span class="lineNumber">949</span>sein, sondern diselbe auf fürgehende cognition der sachen, so vor Unsere <br/>
+<span class="lineNumber">950</span>nidergesazte landt- unnd hoffräthen auf der clagenden partey an-<br/>
+<span class="lineNumber">951</span>suchung alßbaldt unnd unverzügclich angestellet werden solle, so lange <br/>
+<span class="lineNumber">952</span>einzustellen unnd fallen zulaßen, sambt unnd ein yeder insonderheit guet <br/>
+<span class="lineNumber">953</span>fueg unnd macht haben, auf welchen fall Wir sy mit ernstlichen schreiben, <br/>
+<span class="lineNumber">954</span>mandaten unnd pfandungen ganz unnd gar verschonen unnd nicht beschwären wollen. <br/>
+<span class="lineNumber">955</span><span class="article_added">[Art. IV.10]</span> Solches alles unnd yedes, wie obgeschrieben, haben Wir sambt unnd sonderlich <br/>
+<span class="lineNumber">956</span>alß die regierende landes fürsten vor Unns unnd Unnsere erbenn <br/>
+<span class="lineNumber">957</span>unnd nachkommende herzogen zu Meckelnburg etc. Unnsern<a class="fnNumber" href="#F_ah" id="A_ah">ah</a> unterthanen <br/>
+<span class="lineNumber">958</span>vom adel und stetten zugesagt und versprochen, zusagen unnd ver-<br/>
+<span class="lineNumber">959</span>sprechen inen solches alleß sambtlich und jedes insonderhait in crafft und <br/>
+<span class="lineNumber">960</span>macht dises Unnsers offenen brifes und reverses, bey Unnsern <br/>
+<span class="lineNumber">961</span>wahren wortten, fürstlichen ehren unnd würden unnd glauben, solches <br/>
+<span class="lineNumber">962</span>steth unnd fesst, unverbruchlich unnd aufrichtig zuhaltten und zuvolnziehen, <br/>
+<span class="lineNumber">963</span>dawider nichts für zunemen unnd zuhandlen, noch iemandts anders dawider <br/>
+<span class="lineNumber">964</span>zuthun gestatten, alles getreulich und ungefehrlich. Urkundlich <br/>
+<span class="lineNumber">965</span>haben Wir Unnser innsigl an disen brief hangen laßen, den Wir <br/>
+<span class="lineNumber">966</span>auch mit eigner handt underschrieben haben, geschehen zu <button class="entity #guestrow place" data-ref="guestrow" data-type="place" id="d2e4928">Gustrow</button> <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-25r"> [Blatt: 25<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">967</span> den dreyunndzwainzigisten Februarii, nach Christi, unsers <br/>
+<span class="lineNumber">968</span>erlösers unnd seeligmachers, geburth ain tausent <br/>
+<span class="lineNumber">969</span>sechshundert ainunndzwainzigisten jahres<a class="fnNumber" href="#F_ai" id="A_ai">ai</a>.
+<span class="lineNumber">970</span><button class="entity #adolf_friedrich_schwerin person" data-ref="adolf_friedrich_schwerin" data-type="person" id="d2e4952">Adolff Friderich,</button> Herzog <br/>
+<span class="lineNumber">971</span>zu <button class="entity #mecklenburg_schwerin_herzogtum place" data-ref="mecklenburg_schwerin_herzogtum" data-type="place" id="d2e4957">Meckhlnburg</button> [...] <br/>
+<span class="lineNumber">972</span><button class="entity #johann_albrecht_II_guestrow person" data-ref="johann_albrecht_II_guestrow" data-type="person" id="d2e4961">Hannß Albrecht</button> Herzog <br/>
+<span class="lineNumber">973</span>zu <button class="entity #mecklenburg_guestrow_herzogtum place" data-ref="mecklenburg_guestrow_herzogtum" data-type="place" id="d2e4967">Mecklnburg</button> [...]
+<span class="lineNumber">974</span>Unnd <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e4981">Unnß</button> darauf obgerürte lanndtstände in underthenigs-<br/>
+<span class="lineNumber">975</span>tem gehorsamb angeruffen unnd gebetten, daß <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e4990">Wir alß yetzt regierender </button><br/>
+<span class="lineNumber">976</span><button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e4990">römischer kaiser</button> obbestimbte verträg vnnd waß dennselben aller-<br/>
+<span class="lineNumber">977</span>dings anhengig, alles ires innhalts zu ratificiern<a class="fnNumber" href="#F_214" id="A_214">214</a>, confirmiren<a class="fnNumber" href="#F_215" id="A_215">215</a> unnd <br/>
+<span class="lineNumber">978</span>zu bestetten<a class="fnNumber" href="#F_216" id="A_216">216</a> gnedigclich geruehen woltten. Deß haben Wir <br/>
+<span class="lineNumber">979</span>angesehen solch gedachter gemeinen lanndtschafft underthenig diemütig <br/>
+<span class="lineNumber">980</span>unnd zimblich pitt unnd darumben mit wolbedachtem mueth, guetem <br/>
+<span class="lineNumber">981</span>rath unnd rechter wißen, auch damit daß erhobene mißvernemen<a class="fnNumber" href="#F_217" id="A_217">217</a> auß <br/>
+<span class="lineNumber">982</span>dem weeg geraumbt unnd allezeit guetes vernemen zwischen herrn <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-25v"> [Blatt: 25<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">983</span>unnd underthanen verpleibe und fortgepflanzt werde, obgeschrieben verträg, alß <br/>
+<span class="lineNumber">984</span>yetzt regierender römischer kaiser, in allen unnd yeden iren puncten, clau-<br/>
+<span class="lineNumber">985</span>suln, articuln, innhalt, mainung unnd begreiffungen (doch mit dem <br/>
+<span class="lineNumber">986</span>vorbehalt unnd disem verstandt unnd maß, daß der punctus religionis <br/>
+<span class="lineNumber">987</span>in allweeg verstanden werden solle, wie solches die hailsamen reichsconsti-<br/>
+<span class="lineNumber">988</span>tutiones vom religion frieden an sich selbsten mitbringen und dernthalben <br/>
+<span class="lineNumber">989</span>darinnen außtruckliche vorsehung geschehen ist, darbey Wir auch viel-<br/>
+<span class="lineNumber">990</span>gedachte Meckelburgische landtstandt schützen unnd handthaben wollen) <br/>
+<span class="lineNumber">991</span>gnedigclich ratificiert, confirmirt unnd bestettigt. Thuen daß <br/>
+<span class="lineNumber">992</span>ratificiern, confirmirn, unnd bestettigen diß alles obgerürtter <br/>
+<span class="lineNumber">993</span>maßen, auß römischer kaiserlicher macht volkommenhait, hiemit <br/>
+<span class="lineNumber">994</span>wißentlich in unnd mit crafft diß briefs, Waß Wir gedachter ritter-<br/>
+<span class="lineNumber">995</span>schafft unnd landt ständen daran von rechts unnd pillichait wegen <br/>
+<span class="lineNumber">996</span>zu confirmirn und zubestettigen haben, confirmirn und bestettigen <br/>
+<span class="lineNumber">997</span>sollen unnd mögen, unnd mainen, setzen unnd wollen, von obberürter <br/>
+<span class="lineNumber">998</span>Unnser kay<span class="orig">:</span>[serlichen] macht, daß obinserirte verträgen unnd waß <br/>
+<span class="lineNumber">999</span>denselben allerdings anhengig, in allen unnd jeden iren wortten, <br/>
+<span class="lineNumber">1000</span>puncten, clausuln, articuln, innhaltt, mainung unnd begreiffung <br/>
+<span class="lineNumber">1001</span>obangeregt und nit anderst verstandener maßen stett, fest und <br/>
+<span class="lineNumber">1002</span>unverbrüchlich gehaltten und volzogen, auch von niemanden, wer der oder <br/>
+<span class="lineNumber">1003</span>die auch sein mogen, weder inner noch außerhalb gerichts, darwider <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-26r"> [Blatt: 26<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">1004</span>etwas fürgenomen, gehandelt oder unterstanden werden solle, in gar <br/>
+<span class="lineNumber">1005</span>keinerley weise noch weeg, doch Unns unnd dem <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e5105">heiligen reich</button>, an Unseren <br/>
+<span class="lineNumber">1006</span>ober unnd lehenschafft und sonst mennigclich an seinen rechten unnd <br/>
+<span class="lineNumber">1007</span>gerechtigkaiten unvergrieffen unnd unnschedlich, und daß der punctus <br/>
+<span class="lineNumber">1008</span>religionis obangedeuter gestalt unnd nit anders, alß wie solches <br/>
+<span class="lineNumber">1009</span>die hailsame religion unnd prophan friden an sich selbsten mitbringen <br/>
+<span class="lineNumber">1010</span>und derethalben darinnen außstruckliche vorsehung geschehen ist, <br/>
+<span class="lineNumber">1011</span>darbey auch sy, die offtgedachten landtstände von Unnß, wie obge-<br/>
+<span class="lineNumber">1012</span>schrieben, gnedigist geschüzt und gehandthabt werden sollen. Unnd gebieten <br/>
+<span class="lineNumber">1013</span>darauf allen unnd yegclichen churfürsten, fürsten, geistlichen und welt-<br/>
+<span class="lineNumber">1014</span>lichen praelaten, graven, freyen, herren, rittern, knechten, hauptleuthen <br/>
+<span class="lineNumber">1015</span>landtvögten, vizedomben, vögten, pflegern, verwesern, ambtleuth, schult-<br/>
+<span class="lineNumber">1016</span>haißen, bürgermaistern, richtern, räthen, burgern, gemeinden unnd <br/>
+<span class="lineNumber">1017</span>sonst allen andern Unsern und deß <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e5146">h<span class="orig">.</span>[eiligen] reichs</button> underthanen und getreuen, <br/>
+<span class="lineNumber">1018</span>waß würden, stanndt oder wesens die seindt, ernstlich unnd festigclich <br/>
+<span class="lineNumber">1019</span>mit diesem brief unnd wollen, daß sy vorgedachte ritter- und landtschafft <br/>
+<span class="lineNumber">1020</span>ins gemain an obeinverleibten verträgen, auch dieser Unnserer ratifica-<br/>
+<span class="lineNumber">1021</span>tion, confirmation unnd bestettigung nitt irren noch hintern<a class="fnNumber" href="#F_218" id="A_218">218</a>, <br/>
+<span class="lineNumber">1022</span>sonder gedachte lanndtständt unnd dero nachkümbling<a class="fnNumber" href="#F_219" id="A_219">219</a> dern<a class="fnNumber" href="#F_220" id="A_220">220</a> geruehig-<br/>
+<span class="lineNumber">1023</span>clich freuen, gebrauchen, genießen unnd genzlich darbey bleiben laßen, <br/>
+<span class="lineNumber">1024</span>auch von Unsert und deß <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e5185">heiligen reichs</button> wegen darbey schutzen und <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-26v"> [Blatt: 26<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">1025</span>hanndthaben, und darwider nicht thuen, noch daß yemandt anderm zuthun gestatten, <br/>
+<span class="lineNumber">1026</span>in kaine weiß noch weege, alß lieb ainem yeden seye, <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e5198">Unnser</button> unnd deß <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e5201">heyligen </button><br/>
+<span class="lineNumber">1027</span><button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e5201">reichs</button> schwäre ungnadt und straffe unnd darzu ain poen<a class="fnNumber" href="#F_221" id="A_221">221</a>, nemblich funffzig marckh <br/>
+<span class="lineNumber">1028</span>lötiges goldts<a class="fnNumber" href="#F_222" id="A_222">222</a> zuvermeiden, die ein yeder, so offt er fräventlich hierwider thette, <br/>
+<span class="lineNumber">1029</span>Unnß halb in Unnser unnd deß reichs cammer unnd den andern halben thail <br/>
+<span class="lineNumber">1030</span>mehr vielberürten lanndtständen sambtlichen unnachleßlichen zubezahlen ver-<br/>
+<span class="lineNumber">1031</span>fallen sein solle, mit urkundt diß briefs, besigelt mit Unnserm kaiserlichen <br/>
+<span class="lineNumber">1032</span>anhangenden insigel, geben in Unnserer statt <button class="entity #wien place" data-ref="wien" data-type="place" id="d2e5228">Wienn</button>, den sybenzehenden <br/>
+<span class="lineNumber">1033</span>Februarij, nach Christi Unnsers lieben herrn unnd seeligmachers gepurth, <br/>
+<span class="lineNumber">1034</span>sechzehenhundert unnd im sechs und zwainzigisten, Unnserer reiche, deß römischen <br/>
+<span class="lineNumber">1035</span>im sybenden, deß hungrischen im achten<a class="fnNumber" href="#F_223" id="A_223">223</a> unnd deß bohembischen im neundten jahrn<a class="fnNumber" href="#F_224" id="A_224">224</a>, <br/>
+<span class="lineNumber">1036</span><button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e5248">Ferdinandt</button>
+<span class="lineNumber">1037</span>v[idi]t <br/>
+<span class="lineNumber">1038</span><button class="entity #stralendorf_peter_heinrich_von person" data-ref="stralendorf_peter_heinrich_von" data-type="person" id="d2e5257">Peter Henrich </button><br/>
+<span class="lineNumber">1039</span><button class="entity #stralendorf_peter_heinrich_von person" data-ref="stralendorf_peter_heinrich_von" data-type="person" id="d2e5257">von<a class="fnNumber" href="#F_aj" id="A_aj">aj</a> Stralendorff</button> <br/>
+<span class="lineNumber">1040</span> <br/>
+<span class="lineNumber">1041</span> <br/>
+<span class="lineNumber">1042</span>Ad mandatum Sac<span class="orig">.</span>[rae] Caes<span class="orig">.</span>[areae] <br/>
+<span class="lineNumber">1043</span>Maiestatis proprium <br/>
+<span class="lineNumber">1044</span><button class="entity #soeldner_johann person" data-ref="soeldner_johann" data-type="person" id="d2e5281">Johan Söldner</button> [manu propria subscripsit (?)]

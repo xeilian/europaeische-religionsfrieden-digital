@@ -1,0 +1,78 @@
+<span class="lineNumber">1</span> <span aria-label="a pagebreak without a facsimile" class="pagebreak" id="p-168v"> [Blatt: 168<span class="rectoVerso">v</span> ] </span> <a class="fnNumber" href="#F_1" id="A_1">1</a> <a class="fnNumber" href="#F_a" id="A_a">a</a> <span class="initiale">C.</span> <br/>
+<span class="lineNumber">2</span>Letztere <span class="antiqua">assecuration</span>, darein das <br/>
+<span class="lineNumber">3</span>wörttl <span class="antiqua">agenda</span> auch khomen, <br/>
+<span class="lineNumber">4</span>vermug des decrets hernach mit <br/>
+<span class="lineNumber">5</span> <span class="initiale">J.</span> <br/>
+<span class="lineNumber">6</span>Diese <span class="italic">assecuration</span> unnd dasselb <br/>
+<span class="lineNumber">7</span>decret sein an aim tag . <a class="fnNumber" href="#F_a">a</a> <span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">8</span> <span aria-label="a pagebreak without a facsimile" class="pagebreak" id="p-167r"> [Blatt: 167<span class="rectoVerso">r</span> ] </span> <button class="entity #maximilian_ii person" data-ref="maximilian_ii" data-type="person" id="d2e426"> <span class="initiale">Wir</span> </button> <a class="fnNumber" href="#F_b" id="A_b">b</a> <span class="antiqua"> <button class="entity #maximilian_ii person" data-ref="maximilian_ii" data-type="person" id="d2e451">Maximilian der Andere</button> </span> etc.<a class="fnNumber" href="#F_c" id="A_c">c</a> bekhennen nachdem <br/>
+<span class="lineNumber">9</span>unnsere getreuen zwen stende von herrn unnd ritter-<br/>
+<span class="lineNumber">10</span>schafft unnsers ertzhertzogthumbs <button class="entity #oesterreich_unter_der_enns_erzherzogtum place" data-ref="oesterreich_unter_der_enns_erzherzogtum" data-type="place" id="d2e513">Österreich under der Enns</button>, <br/>
+<span class="lineNumber">11</span>nun vil lange jahr, so wol bey der regierungs zeit weylendt <br/>
+<span class="lineNumber">12</span>unnsers lieben herrn unnd vattern kaiser <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e523">Ferdinanden</button>, gott-<br/>
+<span class="lineNumber">13</span>selliger unnd hochloblicher gedechtnus, alß nachmals bey <button class="entity #maximilian_ii person" data-ref="maximilian_ii" data-type="person" id="d2e533"></button>uns <br/>
+<span class="lineNumber">14</span>selbst nach eintrettung unnsers kaiserthumbs unnd furstlichen <br/>
+<span class="lineNumber">15</span>regiments unnderthenigist unnd unaufhorlich gebetten, inen gnediglich <br/>
+<span class="lineNumber">16</span>zuvergonnen, das sie sich des <a class="fnNumber" href="#F_d" id="A_d">d</a>religionis <span class="italic">exercitii</span> <a class="fnNumber" href="#F_d">d</a>, alß<a class="fnNumber" href="#F_2" id="A_2">2</a> in <br/>
+<span class="lineNumber">17</span>verkhundung des gottlichen worts, raichung der sacramenta <br/>
+<span class="lineNumber">18</span>unnd anstellung<a class="fnNumber" href="#F_3" id="A_3">3</a> der ceremonien, <span class="underline">nach außweisung der aug-<br/><span class="lineNumber">19</span>spurgischen confession, wie die anno etc.<a class="fnNumber" href="#F_e" id="A_e">e</a> 30 unnserm auch <br/><span class="lineNumber">20</span>in gott rhuenden lieben herrn vettern<a class="fnNumber" href="#F_4" id="A_4">4</a>, schwehen<a class="fnNumber" href="#F_5" id="A_5">5</a> und vatter<a class="fnNumber" href="#F_6" id="A_6">6</a> <br/><span class="lineNumber">21</span>kaiser <button class="entity #karl_v person" data-ref="karl_v" data-type="person" id="d2e622">Carl dem Funfften</button> </span> hochloblicher gedechtnus von etlichen <br/>
+<span class="lineNumber">19</span>spurgischen confession, wie die anno etc.<a class="fnNumber" href="#F_e" id="A_e">e</a> 30 unnserm auch <br/>
+<span class="lineNumber">20</span>in gott rhuenden lieben herrn vettern<a class="fnNumber" href="#F_4" id="A_4">4</a>, schwehen<a class="fnNumber" href="#F_5" id="A_5">5</a> und vatter<a class="fnNumber" href="#F_6" id="A_6">6</a> <br/>
+<span class="lineNumber">21</span>kaiser <button class="entity #karl_v person" data-ref="karl_v" data-type="person" id="d2e622">Carl dem Funfften</button>
+<span class="lineNumber">22</span>churfursten, fursten und stetten des <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e630"></button>reichs uberraicht worden, <br/>
+<span class="lineNumber">23</span>gebrauchen möchten, unnd <button class="entity #maximilian_ii person" data-ref="maximilian_ii" data-type="person" id="d2e635">wir</button> darauf die sachen mehrmaln <br/>
+<span class="lineNumber">24</span>zu zeitlichem rath getzogen, das wir darauf letzlich ermelten <br/>
+<span class="lineNumber">25</span>baiden stenden aus vilen hochbeweglichen<a class="fnNumber" href="#F_7" id="A_7">7</a> ursachen, sonderlich <br/>
+<span class="lineNumber">26</span>aber damit den beschwerlichen<a class="fnNumber" href="#F_8" id="A_8">8</a> yetzt hin unnd wider schwebenden<a class="fnNumber" href="#F_9" id="A_9">9</a> <br/>
+<span class="lineNumber">27</span>secten<a class="fnNumber" href="#F_10" id="A_10">10</a> , desto mehr in unnsern Nider Österreichischen Landen<a class="fnNumber" href="#F_11" id="A_11">11</a>, <br/>
+<span class="lineNumber">28</span>gewohrt<a class="fnNumber" href="#F_12" id="A_12">12</a> wurde, gnedigist bewilligt, vergont unnd entlich zue <br/>
+<span class="lineNumber">29</span>gelassen, das sy (wie wir inen dann des hiemit bewilligen, <br/>
+<span class="lineNumber">30</span>vergonnen unnd zuelassen.) <span class="underline">sich<a class="fnNumber" href="#F_f" id="A_f">f</a> auf unnd in allen iren <br/><span class="lineNumber">31</span>schlossern, heusern unnd guettern, doch ausser<a class="fnNumber" href="#F_13" id="A_13">13</a> unnserer <br/><span class="lineNumber">32</span>stett unnd marckht<a class="fnNumber" href="#F_14" id="A_14">14</a> fur sich selbst, ir gesindt und ire </span> -gehorige <a class="fnNumber" href="#F_15" id="A_15">15</a> auf dem landt aber unnd bey iren zuegehorigen <br/>
+<span class="lineNumber">31</span>schlossern, heusern unnd guettern, doch ausser<a class="fnNumber" href="#F_13" id="A_13">13</a> unnserer <br/>
+<span class="lineNumber">32</span>stett unnd marckht<a class="fnNumber" href="#F_14" id="A_14">14</a> fur sich selbst, ir gesindt und ire
+<span class="lineNumber">33</span>khirchen<a class="fnNumber" href="#F_16" id="A_16">16</a>, zu gleich auch fur ire unnderthonen, solcher <span class="italic">confession<a class="fnNumber" href="#F_17" id="A_17">17</a> </span>, <br/>
+<span class="lineNumber">34</span>unnd unns uberraichter, durch sie, die stende, gefertigter <br/>
+<span class="lineNumber">35</span>agenda<a class="fnNumber" href="#F_18" id="A_18">18</a> frey gebrauchen mogen <span class="underline">und derselben gemeß und <br/><span class="lineNumber">36</span> <span aria-label="a pagebreak without a facsimile" class="pagebreak" id="p-167v"> [Blatt: 167<span class="rectoVerso">v</span> ] </span>nit zuwider</span>, so wol die lehr alß die ceremonien anstellen<a class="fnNumber" href="#F_19" id="A_19">19</a> <br/>
+<span class="lineNumber">36</span> <span aria-label="a pagebreak without a facsimile" class="pagebreak" id="p-167v"> [Blatt: 167<span class="rectoVerso">v</span> ] </span>nit zuwider
+<span class="lineNumber">37</span>unnd in das werckh ziehen mügen; alles biß zu ainer al-<br/>
+<span class="lineNumber">38</span>gemainen, christlichen reformation und gottseliger ver-<br/>
+<span class="lineNumber">39</span>gleichung der religion in <button class="entity heiliges_roemisches_reich place" data-ref="eiliges_roemisches_reich" data-type="place" id="d2e854">Teutscher Nation</button>. Darauf sich<a class="fnNumber" href="#F_g" id="A_g">g</a> <br/>
+<span class="lineNumber">40</span>gemelte zwen stende gehorsamblich erpotten, khain andere <br/>
+<span class="lineNumber">41</span>lehr, gottesdienst noch ceremonien alß die angeregt <br/>
+<span class="lineNumber">42</span>augspurgische confession und agenda <span class="underline">in irer, der zwayer <br/><span class="lineNumber">43</span>stende khirchen weder einzufueren oder</span> <a class="fnNumber" href="#F_h" id="A_h">h</a> <a class="fnNumber" href="#F_i" id="A_i">i</a>zu leiden <a class="fnNumber" href="#F_i">i</a> <a class="fnNumber" href="#F_20" id="A_20">20</a>, <a class="fnNumber" href="#F_j" id="A_j">j</a>sich auch <a class="fnNumber" href="#F_j">j</a> <br/>
+<span class="lineNumber">43</span>stende khirchen weder einzufueren oder
+<span class="lineNumber">44</span>kaines anndern gebrauchs<a class="fnNumber" href="#F_k" id="A_k">k</a>, weder in der lehr noch ceremo-<br/>
+<span class="lineNumber">45</span>nien, dann wie solch confession und agenda ausweiset <br/>
+<span class="lineNumber">46</span>und mitbringet, anzumassen, <span class="underline">sonder das gegen denen, so sich <br/><span class="lineNumber">47</span>aines anndern unnderstehn wurden, mit ernstlicher straff <br/><span class="lineNumber">48</span>verfahren werden solle</span>. unnd dann auch, das<a class="fnNumber" href="#F_l" id="A_l">l</a> die gedachten <br/>
+<span class="lineNumber">47</span>aines anndern unnderstehn wurden, mit ernstlicher straff <br/>
+<span class="lineNumber">48</span>verfahren werden solle
+<span class="lineNumber">49</span>zwen lanndtstende noch yemandts der irigen, den<a class="fnNumber" href="#F_m" id="A_m">m</a> geistlichen <br/>
+<span class="lineNumber">50</span>unnd welltichen, der <span class="underline">catholischen religion zuegethan, in<a class="fnNumber" href="#F_n" id="A_n">n</a> zeit-<br/><span class="lineNumber">51</span>lichem noch leiblichem, gar<a class="fnNumber" href="#F_o" id="A_o">o</a> nit zu wider sein, oder von unnderschidt <br/><span class="lineNumber">52</span>wegen des glaubens was gegen inen furnemen<a class="fnNumber" href="#F_21" id="A_21">21</a> oder thuen, <br/><span class="lineNumber">53</span>sonder es inen als iren lieben</span> mitgliedern treulich mainen, <br/>
+<span class="lineNumber">51</span>lichem noch leiblichem, gar<a class="fnNumber" href="#F_o" id="A_o">o</a> nit zu wider sein, oder von unnderschidt <br/>
+<span class="lineNumber">52</span>wegen des glaubens was gegen inen furnemen<a class="fnNumber" href="#F_21" id="A_21">21</a> oder thuen, <br/>
+<span class="lineNumber">53</span>sonder es inen als iren lieben
+<span class="lineNumber">54</span>unnd sonnderlich <span class="underline">an iren khirchen übungen</span>, khain trotz,<a class="fnNumber" href="#F_22" id="A_22">22</a> gwalt<a class="fnNumber" href="#F_p" id="A_p">p</a> <br/>
+<span class="lineNumber">55</span>noch frevel beweisen<a class="fnNumber" href="#F_23" id="A_23">23</a>, <span class="underline">noch an iren zeitlichen einkhomen, ichtes<a class="fnNumber" href="#F_24" id="A_24">24</a> <br/><span class="lineNumber">56</span> <a class="fnNumber" href="#F_25" id="A_25">25</a>ausser <a class="fnNumber" href="#F_25">25</a> recht entziehen</span>, wie sy dann dergleichen von den andern <br/>
+<span class="lineNumber">56</span> <a class="fnNumber" href="#F_25" id="A_25">25</a>ausser <a class="fnNumber" href="#F_25">25</a> recht entziehen
+<span class="lineNumber">57</span>in gleichem fall auch allenthalben <a class="fnNumber" href="#F_26" id="A_26">26</a>gewertig sein mügen <a class="fnNumber" href="#F_q" id="A_q">q</a> und <br/>
+<span class="lineNumber">58</span>sollen. Unnd <button class="entity #maximilian_ii person" data-ref="maximilian_ii" data-type="person" id="d2e1032">wir</button> sy und yeden, insonderhait auch iren erben <br/>
+<span class="lineNumber">59</span>und nachkhommen, sambt iren pfarrherrn, khirchen und schuelen, <br/>
+<span class="lineNumber">60</span>alle ire unnderthonen und zugehorigen solcher unnser bewilligung <br/>
+<span class="lineNumber">61</span>halber mit rechtem wissen unnd zeittigem, guettem bedacht <br/>
+<span class="lineNumber">62</span>aus khaiserlicher unnd lanndtsfurstlichen macht fur uns, all unnse <br/>
+<span class="lineNumber">63</span>erben unnd nachkhommen hiemit<a class="fnNumber" href="#F_r" id="A_r">r</a> <span class="italic">assecurieren</span> und versichern <br/>
+<span class="lineNumber">64</span> <span aria-label="a pagebreak without a facsimile" class="pagebreak" id="p-168r"> [Blatt: 168<span class="rectoVerso">r</span> ] </span>also unnd dergestalt, das sie sich der halben weder bey unns, <br/>
+<span class="lineNumber">65</span>unnsern erben und nachkomen und unnsern unnd derselben <br/>
+<span class="lineNumber">66</span>unnsere erben nachgesetzten obrigkhaiten ainicher ungnad gesche<a class="fnNumber" href="#F_s" id="A_s">s</a>, <br/>
+<span class="lineNumber">67</span>oder annderer widerwertigkait nit<a class="fnNumber" href="#F_t" id="A_t">t</a> <a class="fnNumber" href="#F_u" id="A_u">u</a>zu besorgen <a class="fnNumber" href="#F_u">u</a> <a class="fnNumber" href="#F_26" id="A_26">26</a> haben<a class="fnNumber" href="#F_v" id="A_v">v</a>, sonder <br/>
+<span class="lineNumber">68</span>derwegen vor menigclich<a class="fnNumber" href="#F_27" id="A_27">27</a>, gaistlich oder welltlichs stanndts, <br/>
+<span class="lineNumber">69</span>versichert unnd vergewist<a class="fnNumber" href="#F_28" id="A_28">28</a> sein unnd bleiben sollen, alles bey <br/>
+<span class="lineNumber">70</span>unnsern khayserlichen worten, dar wider yetzt noch khonfftigclich, <br/>
+<span class="lineNumber">71</span>weder aus khayserlicher oder<a class="fnNumber" href="#F_w" id="A_w">w</a> lanndtsfurstlicher macht, despensation<a class="fnNumber" href="#F_29" id="A_29">29</a> <br/>
+<span class="lineNumber">72</span>indult<a class="fnNumber" href="#F_30" id="A_30">30</a> oder absolution<a class="fnNumber" href="#F_31" id="A_31">31</a> nicht zu thuen, noch zu thuen gestatten <br/>
+<span class="lineNumber">73</span>so lang unnd vil, biß zu ainer algemainen christlichen refor-<br/>
+<span class="lineNumber">74</span>mation unnd gottseliger vergleichung der heiligen religion in <br/>
+<span class="lineNumber">75</span> <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e1150">teutscher Nation</button>, <a class="fnNumber" href="#F_32" id="A_32">32</a>ohne geverde <a class="fnNumber" href="#F_32">32</a>. Zu<a class="fnNumber" href="#F_x" id="A_x">x</a> urkhundt besigl mit <br/>
+<span class="lineNumber">76</span>unnserm <a class="fnNumber" href="#F_y" id="A_y">y</a>khayserlichem anhangendem <a class="fnNumber" href="#F_y">y</a> insigl. Unnd geben auf <br/>
+<span class="lineNumber">77</span>unnserm khunigclichen schloß zu<a class="fnNumber" href="#F_z" id="A_z">z</a> <button class="entity #prag place" data-ref="prag" data-type="place" id="d2e1184">Prag</button>, den vierzehenden <a class="fnNumber" href="#F_aa" id="A_aa">aa</a>tag des <br/>
+<span class="lineNumber">78</span>monats <a class="fnNumber" href="#F_aa">aa</a> januarii, anno <a class="fnNumber" href="#F_ab" id="A_ab">ab</a>etc. 71. <a class="fnNumber" href="#F_ab">ab</a> <a class="fnNumber" href="#F_ac" id="A_ac">ac</a>

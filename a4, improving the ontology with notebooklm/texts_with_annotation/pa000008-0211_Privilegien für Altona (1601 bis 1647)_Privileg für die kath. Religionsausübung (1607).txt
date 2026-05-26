@@ -1,0 +1,62 @@
+<span class="lineNumber">1</span>Von Gottes gnaden Wir <button class="entity #ernst_schaumburg_holstein person" data-ref="ernst_schaumburg_holstein" data-type="person" id="d2e199">Ernst</button> Graff zu <button class="entity #holstein_grafschaft place" data-ref="holstein_grafschaft" data-type="place" id="d2e202">Holstein</button>, <br/>
+<span class="lineNumber">2</span><button class="entity #schaumburg_grafschaft place" data-ref="schaumburg_grafschaft" data-type="place" id="d2e206">Schaumburg</button> und <button class="entity #sternberg_grafschaft place" data-ref="sternberg_grafschaft" data-type="place" id="d2e209">Sternebergk</button>, Herr zu <button class="entity #gehmen_herrschaft place" data-ref="gehmen_herrschaft" data-type="place" id="d2e213">Gehmen</button>: <br/>
+<span class="lineNumber">3</span>Bekennen mit diesem unserem brieffe für uns, unsere <br/>
+<span class="lineNumber">4</span>Erben und nachkomen, als wir in unserem Flecken <button class="entity #altona place" data-ref="altona" data-type="place" id="d2e220">Altenha</button> <br/>
+<span class="lineNumber">5</span>den frembden hantierenden Nationen in <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e225">Hamburg</button>, die <br/>
+<span class="lineNumber">6</span>freyheit irher<a class="fnNumber" href="#F_a" id="A_a">a</a> Catholischer Religion, wie sie die bey lebzeit <br/>
+<span class="lineNumber">7</span>unsers Bruders Graff <button class="entity #adolf_xi_schaumburg_holstein person" data-ref="adolf_xi_schaumburg_holstein" data-type="person" id="d2e240">Adolffen</button> zu <button class="entity #holstein_grafschaft place" data-ref="holstein_grafschaft" data-type="place" id="d2e243">Holstein</button>, <button class="entity #schaumburg_grafschaft place" data-ref="schaumburg_grafschaft" data-type="place" id="d2e246">Schaumburg</button> etc. <br/>
+<span class="lineNumber">8</span>loblicher gedachtenus biß in das Jhar tausend sechshundert <br/>
+<span class="lineNumber">9</span>und ein erlangt, gehabt, uff fürgehende <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e257">Kay[serlicher] Maj[estät]</button> etc., <br/>
+<span class="lineNumber">10</span>unsers allergnädigsten Herrn, und anderer Chür- und Fürsten <br/>
+<span class="lineNumber">11</span>Intercession<a class="fnNumber" href="#F_1" id="A_1">1</a> etliche Jahre und anhero prorogirt<a class="fnNumber" href="#F_2" id="A_2">2</a>, gedachte <br/>
+<span class="lineNumber">12</span>Handler aber ferner underthenig angehalten, die Zeit noch <br/>
+<span class="lineNumber">13</span>auff ein anzahl Jahr zuerstrecken. Wan wir nun <br/>
+<span class="lineNumber">14</span>nichts anders befinden, dan das irhe lerher, sich stil, fromblich <br/>
+<span class="lineNumber">15</span>und woll verhalten, unserem bevelch nicht zu widerleben <br/>
+<span class="lineNumber">16</span>uns auch erinneren, wie es in dergleichen fellen von hohen <br/>
+<span class="lineNumber">17</span>Potentaten gehalten, das wir demnach irhem underthänigen <br/>
+<span class="lineNumber">18</span>suchen und bitten, weil solches dem <button aria-label="opens information about an entity" class="entity event" data-ref="#augsburger_religionsfrieden">Religions frieden</button> <br/>
+<span class="lineNumber">19</span>nicht zuwider, auch gerne sehen das es mit unseren underthanen <br/>
+<span class="lineNumber">20</span>im gleichen under anderen Obrigkeiten auch also gehalten <br/>
+<span class="lineNumber">21</span>werde, gnädigen raum und statt gegeben haben, und thun <br/>
+<span class="lineNumber">22</span>das in Krafft dieses brieffes, dergestalt und also, das <br/>
+<span class="lineNumber">23</span>sie das Exercitium Religionis auff zwantzig Jahr von dato <br/>
+<span class="lineNumber">24</span>anzurechnen uben und treiben, die Kinder instituiren <br/>
+<span class="lineNumber">25</span>und ihr Todten in der stille begraben, auch Priester <br/>
+<span class="lineNumber">26</span>darzu halten mögen. Es sollen sich aber dieselbe aller <br/>
+<span class="lineNumber">27</span>disputation, contention<a class="fnNumber" href="#F_3" id="A_3">3</a> und gezäncks, auch ärgerliches <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-54v"> [Blatt: 54<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">28</span>lebens enthalten, unsere underthanen oder deren Kinder nicht <br/>
+<span class="lineNumber">29</span>zu oder an sich ziehen, und uff ihr meinung fhuren. <br/>
+<span class="lineNumber">30</span>Wir wollen und mögen auch geschehen laßen, das die <br/>
+<span class="lineNumber">31</span>Nationen einen weiteren und gemeinen platz in <br/>
+<span class="lineNumber">32</span>bemeltem unserem <button class="entity #altona place" data-ref="altona" data-type="place" id="d2e336">Flecken</button> nach ihre gelegenheitt <br/>
+<span class="lineNumber">33</span>und noturfft außsehen und erkauffen, jedoch nicht <br/>
+<span class="lineNumber">34</span>zu einer Kichen, sondern zur bequemen wohnung <br/>
+<span class="lineNumber">35</span>bauen und uffrichten, warin sie demnach irhe Reli-<br/>
+<span class="lineNumber">36</span>gion allermaßen uben mögen, welche whonung <br/>
+<span class="lineNumber">37</span>und behausung sol innerhalb abgezetzter Jahr aller <br/>
+<span class="lineNumber">38</span>ufflage, schatzung, accise<a class="fnNumber" href="#F_4" id="A_4">4</a> und burden befreyet sein, jedoch <br/>
+<span class="lineNumber">39</span>dergestalt, das bemelte Nationen alle daselb, wes sie sich <br/>
+<span class="lineNumber">40</span>in einem uns von <button class="entity #rocca_alessandro person" data-ref="rocca_alessandro" data-type="person" id="d2e365">Alexander della Rocha</button> dieser wegen <br/>
+<span class="lineNumber">41</span>herauß gegebenen Reverß verpflichtet, jetzo und hinfhuro <br/>
+<span class="lineNumber">42</span>unfhelbar leisten und volendtziehen.<a class="fnNumber" href="#F_5" id="A_5">5</a> Wen aber abspecifi-<br/>
+<span class="lineNumber">43</span>cirte Jahr vorbey, oder gedachte behausung zu ietz<a class="fnNumber" href="#F_6" id="A_6">6</a> beruhrtem <br/>
+<span class="lineNumber">44</span>Exercitio nicht mehr gebrauchet wirt, soll der Nation <br/>
+<span class="lineNumber">45</span>bevor und freystehen, die behausung anderen umb <br/>
+<span class="lineNumber">46</span>einen billigen und leidtlichen werth zu verkauffen <br/>
+<span class="lineNumber">47</span>oder fur sich selbsten zubehalten. Es soll aber sothan<a class="fnNumber" href="#F_7" id="A_7">7</a> <br/>
+<span class="lineNumber">48</span>behausung, wie auch die besitzer derselben, als dan <br/>
+<span class="lineNumber">49</span>nicht destoweniger aller umpflicht<a class="fnNumber" href="#F_8" id="A_8">8</a> und burden, die <br/>
+<span class="lineNumber">50</span>andere unsere heuser und underthanen zu <button class="entity #altona place" data-ref="altona" data-type="place" id="d2e413">Althena</button> <br/>
+<span class="lineNumber">51</span>ertragen underworffen sein. Worauff <br/>
+<span class="lineNumber">52</span>wir auch unseren Drosten<a class="fnNumber" href="#F_9" id="A_9">9</a>, Beambten, <br/>
+<span class="lineNumber">53</span>Vogten und Dieneren hiemit ernstlich befhelen, <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-53r"> [Blatt: 53<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">54</span>das sie nun hiegegen gedachte frembde Nationen nicht beschweren <br/>
+<span class="lineNumber">55</span>laßen, sondern sie dabey die bestimbten zwantzig Jahren <br/>
+<span class="lineNumber">56</span>uber, in unserem Nahmen und an unser stelle schutzen, <br/>
+<span class="lineNumber">57</span>schirmen und handthaben sollen.
+<span class="lineNumber">58</span>haben wir diesen brieff mit eigen handen underschrieben <br/>
+<span class="lineNumber">59</span>und mit unserm Gräfflichen Pittschafft<a class="fnNumber" href="#F_10" id="A_10">10</a> versiegelt, <br/>
+<span class="lineNumber">60</span>Der gegeben ist auff unser vestung <button class="entity #pinneberg place" data-ref="pinneberg" data-type="place" id="d2e452">Pinnenberg</button> Montags <br/>
+<span class="lineNumber">61</span>in den heiligen Ostern Anno tausent sechshundert und sieben. <br/>
+<span class="lineNumber">62</span><button class="entity #ernst_holstein_schaumburg person" data-ref="ernst_holstein_schaumburg" data-type="person" id="d2e462">Ernst</button>

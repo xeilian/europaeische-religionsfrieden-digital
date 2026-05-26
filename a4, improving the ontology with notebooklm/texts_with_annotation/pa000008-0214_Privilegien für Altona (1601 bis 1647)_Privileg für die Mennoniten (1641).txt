@@ -1,0 +1,28 @@
+<span class="lineNumber">1</span>Wir <button class="entity #christian_iv person" data-ref="christian_iv" data-type="person" id="d2e272">Christian der Vierte</button> von Gottes Gnaden zu <button class="entity #daenemark_koenigreich place" data-ref="daenemark_koenigreich" data-type="place" id="d2e275">Dennemark</button>, <button class="entity #norwegen_koenigreich place" data-ref="norwegen_koenigreich" data-type="place" id="d2e278">Norwegen</button>, <br/>
+<span class="lineNumber">2</span>der Wenden u[nd] Gothen König, Herzog zu <button class="entity #schleswig_herzogtum place" data-ref="schleswig_herzogtum" data-type="place" id="d2e287">Schleswich</button>, <button class="entity #holstein_herzogtum place" data-ref="holstein_herzogtum" data-type="place" id="d2e290">Holstein</button>, <button class="entity #stormarn_herzogtum place" data-ref="stormarn_herzogtum" data-type="place" id="d2e293">Stormarn</button> u[nd] der <br/>
+<span class="lineNumber">3</span><button class="entity #dithmarschen_herzogtum place" data-ref="dithmarschen_herzogtum" data-type="place" id="d2e301">Dithmarschen</button>, Graf zu <button class="entity #oldenburg_grafschaft place" data-ref="oldenburg_grafschaft" data-type="place" id="d2e304">Oldenburg</button> u[nd] <button class="entity #delmenhorst_grafschaft place" data-ref="delmenhorst_grafschaft" data-type="place" id="d2e310">Delmenhorst</button> etc. Thun kund hiemit gegen Jeder-<br/>
+<span class="lineNumber">4</span>männlich<a class="fnNumber" href="#F_1" id="A_1">1</a>, waß gestalt die sämmtliche, angehörige u[nd] Mitverwandte Kauf u[nd] Handwerks <br/>
+<span class="lineNumber">5</span>Leute der genannten ministen<a class="fnNumber" href="#F_2" id="A_2">2</a> zu <button class="entity #altona place" data-ref="altona" data-type="place" id="d2e335">Altena</button> unterthänigst bey uns angehalten u[nd] gesuchet<a class="fnNumber" href="#F_3" id="A_3">3</a>, <br/>
+<span class="lineNumber">6</span>weil sie bey Zeit voriger Herrschaft selbigen Orts von vielen u[nd] nunmehr über die <br/>
+<span class="lineNumber">7</span> 40 Jahren hero nicht allein daselbst geruhiglich residiret und niedergesessen,<a class="fnNumber" href="#F_4" id="A_4">4</a> be-<br/>
+<span class="lineNumber">8</span>sonders auch ihr frey exercitium religionis, auch Handel u[nd] Wandel nicht mit <br/>
+<span class="lineNumber">9</span>geringem Aufnehmen<a class="fnNumber" href="#F_5" id="A_5">5</a> des ganzen Fleckens<a class="fnNumber" href="#F_6" id="A_6">6</a> gehabt; wir geruheten bey <br/>
+<span class="lineNumber">10</span>unsrer jetzt angetretenen Regierung<a class="fnNumber" href="#F_7" id="A_7">7</a>, deren glückseliges stabiliment<a class="fnNumber" href="#F_a" id="A_a">a</a> u[nd] Beharr-<br/>
+<span class="lineNumber">11</span>lichkeit sie wünschten, ihnen ebenmäßige Gnade wiederfahren zulassen, u[nd] sie sowohl <br/>
+<span class="lineNumber">12</span>bey alter possession<a class="fnNumber" href="#F_8" id="A_8">8</a> und erwähnten ihren freyen exercitio wieder alle ihre <br/>
+<span class="lineNumber">13</span>Wiederwärtige<a class="fnNumber" href="#F_9" id="A_9">9</a> kräftiglich handzuhaben, zu schützen u[nd] zu defendiren. Wann <br/>
+<span class="lineNumber">14</span>wir nun, jedoch auf vorhergehende gewiße recognition<a class="fnNumber" href="#F_10" id="A_10">10</a> in solch ihr suchen gnä-<br/>
+<span class="lineNumber">15</span>digst gewilliget. Als concediren u[nd] gestatten Wir hiemit u[nd] in Kraft dieses Un-<br/>
+<span class="lineNumber">16</span>sers offenen Briefes, das besagte ministen, wie die heutiges Tages u[nd] oben tituli-<br/>
+<span class="lineNumber">17</span>ret, auch hinführo, wie bishieher geschehen, sowohl bey ihrem freyen glaubens <br/>
+<span class="lineNumber">18</span>u[nd] religions exercitio als unbehindertem Handel u[nd] Wandel für uns nicht <br/>
+<span class="lineNumber">19</span>allein unbetriebet<a class="fnNumber" href="#F_11" id="A_11">11</a> u[nd] ungekränket an selbigen Ort verbleiben und confir-<br/>
+<span class="lineNumber">20</span>miret sein, besonders auch widermänniglichs<a class="fnNumber" href="#F_12" id="A_12">12</a> eintracht u[nd] turbation<a class="fnNumber" href="#F_13" id="A_13">13</a> von Un-<br/>
+<span class="lineNumber">21</span>sern Beamten daselbst allergebühr<a class="fnNumber" href="#F_14" id="A_14">14</a> kräftiglich geschützet u[nd] vertreten werden <br/>
+<span class="lineNumber">22</span>sollen, hiergegen aber müssen u[nd] sollen sie sich gegen jedermänniglich<a class="fnNumber" href="#F_15" id="A_15">15</a> schiedlich ver-<br/>
+<span class="lineNumber">23</span>halten<a class="fnNumber" href="#F_b" id="A_b">b</a>, durch aus ein unärgerlich Leben führen, und niemand so Unser <br/>
+<span class="lineNumber">24</span>Religion an sich zu ziehen oder zu lokken sich unterstehen, sondern in allen so <br/>
+<span class="lineNumber">25</span>wohl in Religion als Wandels Sachen unsträflich erweisen, sonder alle Ge-<br/>
+<span class="lineNumber">26</span>fährde.
+<span class="lineNumber">27</span>auf unsern Hause <button class="entity #gluecksburg place" data-ref="gluecksburg" data-type="place" id="d2e545">Glücksburg</button> am 6 Juni Anno 1641. <br/>
+<span class="lineNumber">28</span><button class="entity #christian_iv person" data-ref="christian_iv" data-type="person" id="d2e553">Christian R[ex]</button>

@@ -1,0 +1,591 @@
+<span class="lineNumber">1</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00056424_00005/full/full/0/default.jpg" id="p-A1r"> [Blatt: A1<span class="rectoVerso">r</span> ] </button>Der <button class="entity #karl_v person" data-ref="karl_v" data-type="person" id="d2e410">Römischen Kaiser-</button><br/>
+<span class="lineNumber">2</span><button class="entity #karl_v person" data-ref="karl_v" data-type="person" id="d2e410">lichnn Majestat</button> Edict wider <br/>
+<span class="lineNumber">3</span><button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e420">Martin Luther</button> Bücher <br/>
+<span class="lineNumber">4</span>und lere, seyne anhen-<br/>
+<span class="lineNumber">5</span>ger, Enthalter<a class="fnNumber" href="#F_1" id="A_1">1</a> und <br/>
+<span class="lineNumber">6</span>nachvolger<a class="fnNumber" href="#F_2" id="A_2">2</a> unnd <br/>
+<span class="lineNumber">7</span>Etlich annder <br/>
+<span class="lineNumber">8</span>schmeliche sch-<br/>
+<span class="lineNumber">9</span>rifften. Auch <br/>
+<span class="lineNumber">10</span>Gesetz der <br/>
+<span class="lineNumber">11</span>Drucke-<br/>
+<span class="lineNumber">12</span>rey.
+<span class="lineNumber">13</span>WJr <button class="entity #karl_v person" data-ref="karl_v" data-type="person" id="d2e475">Karl Der Fünfft</button> von gotes gnaden <br/>
+<span class="lineNumber">14</span>Erwelter Römischer Kayser, <br/>
+<span class="lineNumber">15</span>zu allentzeiten Merer des <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e482">Reichs</button> etc. in Germa-<br/>
+<span class="lineNumber">16</span>nien, zu <button class="entity #spanien_koenigreich place" data-ref="spanien_koenigreich" data-type="place" id="d2e492">Hispanien</button>, bayder <button class="entity #sizilien_koenigreich place" data-ref="sizilien_koenigreich" data-type="place" id="d2e495">Sicilien</button>, <button class="entity #jerusalem_koenigreich place" data-ref="jerusalem_koenigreich" data-type="place" id="d2e498">Jherusalem</button>, <br/>
+<span class="lineNumber">17</span><button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e502">Hungern</button>, <button class="entity #dalmatien place" data-ref="dalmatien" data-type="place" id="d2e506">Dalmacien</button>, <button class="entity #kroatien_koenigreich place" data-ref="kroatien_koenigreich" data-type="place" id="d2e509">Croacien</button> etc. Künig, Ertzhertzog <br/>
+<span class="lineNumber">18</span>zu <button class="entity #oesterreich_erzherzogtum place" data-ref="oesterreich_erzherzogtum" data-type="place" id="d2e514">Osterreich</button>, Hertzog zu <button class="entity #burgund_herzogtum place" data-ref="burgund_herzogtum" data-type="place" id="d2e517">Burgundi</button> etc, Graff zu <button class="entity #habsburg_grafschaft place" data-ref="habsburg_grafschaft" data-type="place" id="d2e520">Habsburg</button>, <br/>
+<span class="lineNumber">19</span><button class="entity #flandern_grafschaft place" data-ref="flandern_grafschaft" data-type="place" id="d2e525">Flandern</button> und <button class="entity #tirol_grafschaft place" data-ref="tirol_grafschaft" data-type="place" id="d2e528">Tyrol</button> etc., <br/>
+<span class="lineNumber">20</span>Embieten allen und yegli-<br/>
+<span class="lineNumber">21</span>chen Churfürsten, Fürsten, Gaistlichen und weltlichen Pre-<br/>
+<span class="lineNumber">22</span>laten, Graven, Freyen Herren, Rittern, knechten, Hauptleü-<br/>
+<span class="lineNumber">23</span>ten, Landtvögten, Vitzthumben<a class="fnNumber" href="#F_3" id="A_3">3</a>, Vögten, Phlegern<a class="fnNumber" href="#F_4" id="A_4">4</a>, Ver-<br/>
+<span class="lineNumber">24</span>wesern<a class="fnNumber" href="#F_5" id="A_5">5</a>, Landtrichtern, Schultheissen<a class="fnNumber" href="#F_6" id="A_6">6</a>, Schöffen, Burger-<br/>
+<span class="lineNumber">25</span>maistern, Richtern, Reten, Burgern und gemeinden, Auch <br/>
+<span class="lineNumber">26</span>Rectorn und Regenten<a class="fnNumber" href="#F_7" id="A_7">7</a> aller gemeinen<a class="fnNumber" href="#F_8" id="A_8">8</a> Universitetten und <br/>
+<span class="lineNumber">27</span>sonst allen andern unsern und des <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e586">Reichs</button>, auch unser erbli-<br/>
+<span class="lineNumber">28</span>chen Fürstenthumb und Lande underthanen und getreuen, <br/>
+<span class="lineNumber">29</span>in was wirden, stats, oder wesens die sein, den diser unser <br/>
+<span class="lineNumber">30</span>Kaiserlicher brief oder glaublich abschrifft, die durch eynen <br/>
+<span class="lineNumber">31</span>Gaistlichen Prelaten oder offenbarn Notarii verfertigt ist, <br/>
+<span class="lineNumber">32</span>davon fürkumbt oder gezeigt wirdet, unser gnad und alles <br/>
+<span class="lineNumber">33</span>gut. Hochwirdigen und Erwirdigen, Hochgebornen, Wolge-<br/>
+<span class="lineNumber">34</span>bornen Ersamen und Edlen, lieb Freünd, Neven, Oheimen, <br/>
+<span class="lineNumber">35</span>Churfürsten, Fürsten,<a class="fnNumber" href="#F_a" id="A_a">a</a> Andechtigen und getreuen: Nach-<br/>
+<span class="lineNumber">36</span>dem unserm Römischen Kaiserlichen ambt zusteet, nit allein <br/>
+<span class="lineNumber">37</span>den gezirckh des <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e626">heiligen Römischen Reichs</button>, so unser forfarn <br/>
+<span class="lineNumber">38</span>der Deütschnn nation umm der heiligen Römischen und gemei-<br/>
+<span class="lineNumber">39</span>ner<a class="fnNumber" href="#F_9" id="A_9">9</a> kirchen beschirmung willen durch die Götlich gnad mit <br/>
+<span class="lineNumber">40</span>irem schweren blutvergiessen an sich bracht haben, in außdil-<br/>
+<span class="lineNumber">41</span>gung und undertruckung der unglaubigen, zuerweitern, Son-<br/>
+<span class="lineNumber">42</span>der auch nach der Regel, die von der heiligen Römischen Kirch-<br/>
+<span class="lineNumber">43</span>en bißher gehalten ist, fürsehung zuthun<a class="fnNumber" href="#F_10" id="A_10">10</a>, das kain befleckung <br/>
+<span class="lineNumber">44</span>der ketzerey oder Arckwon<a class="fnNumber" href="#F_11" id="A_11">11</a> in dem <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e669">Römischen Reiche</button> unsern <br/>
+<span class="lineNumber">45</span>hayligen Glauben verunrayne, oder ob der Einiche yetz an-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00056424_00008/full/full/0/default.jpg" id="p-A2v"> [Blatt: A2<span class="rectoVerso">v</span> ] </button><br/>
+<span class="lineNumber">46</span>gefangen hette<a class="fnNumber" href="#F_b" id="A_b">b</a>, mit allem vleys, guten mitteln und beschey-<br/>
+<span class="lineNumber">47</span>denheit, so in solichem fürzunemen sein, außzudilgen. Deß-<br/>
+<span class="lineNumber">48</span>halbnn bedencken wir, wo solichs ye einem unnsern vorfaren <br/>
+<span class="lineNumber">49</span>zuthun gebürt, das uns die Bürde desselb vil höher<a class="fnNumber" href="#F_c" id="A_c">c</a> <br/>
+<span class="lineNumber">50</span>und mer auffgelegt ist, Nach dem des Almechtigen Gotes <br/>
+<span class="lineNumber">51</span>unmeßliche gütigkayt zu beschirmung unnd merung sey-<br/>
+<span class="lineNumber">52</span>nes hailigen Glaubens uns mit vil Künigreichen unnd <br/>
+<span class="lineNumber">53</span>Landen und merern macht dann vor manig Jaren ye Ei-<br/>
+<span class="lineNumber">54</span>nen unsern forfarn am Reiche<a class="fnNumber" href="#F_12" id="A_12">12</a> fürsehen und begabt hat. <br/>
+<span class="lineNumber">55</span>Dieweyl wir auch von Vaterlichem stammen aus den <br/>
+<span class="lineNumber">56</span>Aller Christenlichsten Kaysern und Ertzhertzogen zu <br/>
+<span class="lineNumber">57</span><button class="entity #oesterreich_erzherzogtum place" data-ref="oesterreich_erzherzogtum" data-type="place" id="d2e731">Osterreich</button> und Hertzogen zu <button class="entity #burgund_herzogtum place" data-ref="burgund_herzogtum" data-type="place" id="d2e734">Burgundi</button>, und dann aus <br/>
+<span class="lineNumber">58</span>Mutterlichem stammen aus den Christglaubigisten<a class="fnNumber" href="#F_d" id="A_d">d</a> <button class="entity #spanien_koenigreich place" data-ref="spanien_koenigreich" data-type="place" id="d2e743">His-</button><br/>
+<span class="lineNumber">59</span><button class="entity #spanien_koenigreich place" data-ref="spanien_koenigreich" data-type="place" id="d2e743">panischen</button>, <button class="entity #sizilien_koenigreich place" data-ref="sizilien_koenigreich" data-type="place" id="d2e750">Sicilianischen</button> und von <button class="entity #jerusalem_koenigreich place" data-ref="jerusalem_koenigreich" data-type="place" id="d2e753">Jerusalem</button> Künigen <br/>
+<span class="lineNumber">60</span>Entsprungen seyn, Welcher Claren thatten gedechtnus, <br/>
+<span class="lineNumber">61</span>durch sy für den Christenlichen Glauben geübt, nymer abgeen<a class="fnNumber" href="#F_13" id="A_13">13</a> <br/>
+<span class="lineNumber">62</span>wirde. Darumb, wo wir etliche Ketzereyen, so innerhalb drey-<br/>
+<span class="lineNumber">63</span>en Jaren in <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e772">Deütscher Nation</button> entsprungen unnd vor-<br/>
+<span class="lineNumber">64</span>mals durch die hayligen Concilien und der Bäbst Sa-<br/>
+<span class="lineNumber">65</span>tzungen, mit gemayner Kirchen verwilligunng, warlich <br/>
+<span class="lineNumber">66</span>verdampt und ytz von neuem auß den hellen gezogen sein, <br/>
+<span class="lineNumber">67</span>dieffer eynwurtzeln lassen Und aus unser versaumnus <br/>
+<span class="lineNumber">68</span>verhengen und gedulden, So wurde unser gewissen merck-<br/>
+<span class="lineNumber">69</span>lich beswert und unsers Namen Ewige glori in glückse-<br/>
+<span class="lineNumber">70</span>ligem eingang<a class="fnNumber" href="#F_14" id="A_14">14</a> unser Regierung mit aynem duncklen Ne-<br/>
+<span class="lineNumber">71</span>bel umbfangen. Dieweil nu ungezweifelt Eüch allen un-<br/>
+<span class="lineNumber">72</span>vorborgen ist, Wieweyt die Irrungen und Ketzereyen <br/>
+<span class="lineNumber">73</span>von dem Christenlichen weg ab weichen, so Eyner genant <br/>
+<span class="lineNumber">74</span><button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e825">Martin Luther</button> Augustiner Ordens in der Christenlich-<br/>
+<span class="lineNumber">75</span>en Religion und Ordnung, sonderlich in der Durchleü-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00056424_00009/full/full/0/default.jpg" id="p-A3r"> [Blatt: A3<span class="rectoVerso">r</span> ] </button><br/>
+<span class="lineNumber">76</span>chtigen <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e842">Deütschen Nation</button> Als ainer unauffhörlichen <br/>
+<span class="lineNumber">77</span>zerstörerin alles unglaubens und Ketzerey, Eynzüfüren <br/>
+<span class="lineNumber">78</span>und zu beflecken understeet<a class="fnNumber" href="#F_15" id="A_15">15</a>, In der gestalt, wo dem für-<br/>
+<span class="lineNumber">79</span>derlich<a class="fnNumber" href="#F_16" id="A_16">16</a> nit begegent, das dardurch dieselb gantz <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e861">Deutsch </button><br/>
+<span class="lineNumber">80</span><button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e861">Nation</button>, und nachmals durch soliche Einwurtzlung all <br/>
+<span class="lineNumber">81</span>ander Nation, in Ein unmenschliche zertrennung und Er-<br/>
+<span class="lineNumber">82</span>bärmlichen abfall guter Sytten, des Frydens und Chri-<br/>
+<span class="lineNumber">83</span>stenlichen Glaubens kumen wurden. Deßhalben nit <br/>
+<span class="lineNumber">84</span>unbillich<a class="fnNumber" href="#F_17" id="A_17">17</a> unser Hayliger Vatter, Babst <button class="entity #leo_x person" data-ref="leo_x" data-type="person" id="d2e886">Leo der Zehendt</button>, <br/>
+<span class="lineNumber">85</span>der hayligen Römischen und gemaynen<a class="fnNumber" href="#F_18" id="A_18">18</a> Christenlichen <br/>
+<span class="lineNumber">86</span>Kirchen Obrister Bischoff, dem die sorg und fürsehung<a class="fnNumber" href="#F_19" id="A_19">19</a> <br/>
+<span class="lineNumber">87</span>der sachen, so den Christenlichen Glauben antreffen<a class="fnNumber" href="#F_20" id="A_20">20</a>, son-<br/>
+<span class="lineNumber">88</span>derlich zusteet, bewegt worden ist, den selben <button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e911">Luther</button> an-<br/>
+<span class="lineNumber">89</span>fencklich Vätterlich und miltigklich zuwarnen und zuer-<br/>
+<span class="lineNumber">90</span>manen, sölicher bösen anfeng abzusteen<a class="fnNumber" href="#F_21" id="A_21">21</a> und die außge-<br/>
+<span class="lineNumber">91</span>prayten Irrsalen zu Revocieren<a class="fnNumber" href="#F_22" id="A_22">22</a>. Und als Er das under-<br/>
+<span class="lineNumber">92</span>lassen und darüber Ye lenger ye bösers geübt, hat <button class="entity #leo_x person" data-ref="leo_x" data-type="person" id="d2e945">sein hay-</button><br/>
+<span class="lineNumber">93</span><button class="entity #leo_x person" data-ref="leo_x" data-type="person" id="d2e945">ligkait</button> understanden, Dagegen füglich<a class="fnNumber" href="#F_23" id="A_23">23</a> unnd nit <br/>
+<span class="lineNumber">94</span>ungebreüchlich mitel und weg fürzunemen. Unnd dar-<br/>
+<span class="lineNumber">95</span>auf zu mermalen die Cardinal, Bischoff und ander Pre-<br/>
+<span class="lineNumber">96</span>laten, Auch der Regulierten Orden<a class="fnNumber" href="#F_24" id="A_24">24</a> Priorn und General <br/>
+<span class="lineNumber">97</span>Minister<a class="fnNumber" href="#F_25" id="A_25">25</a> und vil ander Treffenlich Redlich leüt, Aller <br/>
+<span class="lineNumber">98</span>Erberkeit, Kunst und wyssenhait Erfarn, Deßgleich-<br/>
+<span class="lineNumber">99</span>en vil ander Christenliche Nation, Doctor unnd May-<br/>
+<span class="lineNumber">100</span>ster Erfordert unnd berüefft, Und den selben <button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e994">Mar-</button><br/>
+<span class="lineNumber">101</span><button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e994">tin Luther</button> dartzu Citiert. Und als Er ungehorsam-<br/>
+<span class="lineNumber">102</span>lich außbelieben ist, all seyn schrifften, so in Latein unnd <br/>
+<span class="lineNumber">103</span>Deütsch außgegangen seyn und noch außgeen werden, <br/>
+<span class="lineNumber">104</span>als schedlich und dem Glauben unnd aynigkayt der <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00056424_00010/full/full/0/default.jpg" id="p-A3v"> [Blatt: A3<span class="rectoVerso">v</span> ] </button><br/>
+<span class="lineNumber">105</span>Kirchen gantz widerwertig verdammet und aus Bäpstlichem <br/>
+<span class="lineNumber">106</span>gewalt, mit Rat und willen der gedachten Cardinäl, zeitlich-<br/>
+<span class="lineNumber">107</span>er erwegung,<a class="fnNumber" href="#F_26" id="A_26">26</a> Bischoff, Prelaten, Doctores und Maistern al-<br/>
+<span class="lineNumber">108</span>lenthalben zuverprennen und gentzlichen zuverdilgen gebot-<br/>
+<span class="lineNumber">109</span>ten. Und daneben den selben <button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e1043">Luther</button>, es sey dann, das er inner-<br/>
+<span class="lineNumber">110</span>halb einer bestimpten zeit nach Eröffnung <button class="entity #leo_x person" data-ref="leo_x" data-type="person" id="d2e1052">seyner haylikeit</button> <br/>
+<span class="lineNumber">111</span>decret beweise, das er seiner Irrsal Reu, auch die verwan-<br/>
+<span class="lineNumber">112</span>delt<a class="fnNumber" href="#F_27" id="A_27">27</a> und Revociert hab, als einen Sun der ungehorsam und <br/>
+<span class="lineNumber">113</span>boßheit<a class="fnNumber" href="#F_28" id="A_28">28</a> und als einen zertrenner und Ketzer von menigklich-<br/>
+<span class="lineNumber">114</span>em<a class="fnNumber" href="#F_29" id="A_29">29</a> zu meiden.<a class="fnNumber" href="#F_30" id="A_30">30</a> Und nach satzung der Recht geordent und ge-<br/>
+<span class="lineNumber">115</span>setzt, bey den peenen, in Bäbstlicher Bullen begriffen,<a class="fnNumber" href="#F_31" id="A_31">31</a> die sein <br/>
+<span class="lineNumber">116</span>heylikeit uns als des Christenlichen glaubens waren und <br/>
+<span class="lineNumber">117</span>Obristen beschirmer Und des heilignn Bäbstlichen stuls und <br/>
+<span class="lineNumber">118</span>der Römischen und gemeinen Cristenlichen kirchen Advoca-<br/>
+<span class="lineNumber">119</span>ten durch sein und desselben Stuls <button class="entity #aleander_hieronymus person" data-ref="aleander_hieronymus" data-type="person" id="d2e1125">Orator</button> und Botschafft, so <br/>
+<span class="lineNumber">120</span>sein haylikeit deßhalben sonderlich zu uns verordent, zuge-<br/>
+<span class="lineNumber">121</span>sandt hat, Mit beger und erforderung, unsern pflichten nach <br/>
+<span class="lineNumber">122</span>und aus Oberkeit und gerechtigkeit unsers Kayserlichen <br/>
+<span class="lineNumber">123</span>Ambts <button class="entity #leo_x person" data-ref="leo_x" data-type="person" id="d2e1141">seyner haylikeit</button> in solichem unser hilf des weltlichen <br/>
+<span class="lineNumber">124</span>Schwerts zu Rettung des Christenlichen glaubens mitze-<br/>
+<span class="lineNumber">125</span>taylen.<a class="fnNumber" href="#F_32" id="A_32">32</a> Und allenthalben im <button class="entity #heiliges_roemisches_reich person" data-ref="heiliges_roemisches_reich" data-type="person" id="d2e1166">hailigen Römischnn Reyche</button>, <br/>
+<span class="lineNumber">126</span>auch, als ainem Christglaubigen Künig und Fürsten wol <br/>
+<span class="lineNumber">127</span>gezimet, in unsern Erblichen Künigreichen und Fürsten-<br/>
+<span class="lineNumber">128</span>thumben und Landen Und sonderlich in Deütscher Na-<br/>
+<span class="lineNumber">129</span>tion zubevelhen und zugebieten alles und yedes, so in <button class="entity #leo_x person" data-ref="leo_x" data-type="person" id="d2e1186">seyner </button><br/>
+<span class="lineNumber">130</span><button class="entity #leo_x person" data-ref="leo_x" data-type="person" id="d2e1186">hayligkeit</button> Bullen begriffen ist, unübertretlich zehalten <br/>
+<span class="lineNumber">131</span>Und darinn Execution<a class="fnNumber" href="#F_33" id="A_33">33</a> und volziehung zethun. Und wie-<br/>
+<span class="lineNumber">132</span>wol wir söliche Ermanung nach uberantwortung der <br/>
+<span class="lineNumber">133</span>Bäbstlichen Bullen und zuletst die verdamnus des <button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e1205">Lu-</button><br/>
+<span class="lineNumber">134</span><button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e1205">thers</button> an vil orten in Deütscher Nation verkündet, auch <br/>
+<span class="lineNumber">135</span>in unsers nydern <button class="entity #burgund_herzogtum place" data-ref="burgund_herzogtum" data-type="place" id="d2e1214">Burgundischen Landen</button> und sonderlich <br/>
+<span class="lineNumber">136</span>zu <button class="entity #koeln_kurfuerstentum place" data-ref="koeln_kurfuerstentum" data-type="place" id="d2e1221">Cölln</button>, <button class="entity #trier_kurfuerstentum place" data-ref="trier_kurfuerstentum" data-type="place" id="d2e1224">Trier</button>, <button class="entity #mainz_kurfuerstentum place" data-ref="mainz_kurfuerstentum" data-type="place" id="d2e1227">Meintz</button> und <button class="entity #luettich_hochstift place" data-ref="luettich_hochstift" data-type="place" id="d2e1230">Lüttich</button>, zu Exequiren und <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00056424_00011/full/full/0/default.jpg" id="p-A4r"> [Blatt: A4<span class="rectoVerso">r</span> ] </button><br/>
+<span class="lineNumber">137</span>zuvolziehen gebotten haben,<a class="fnNumber" href="#F_34" id="A_34">34</a> So hat sich doch <button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e1282">Martin Lu-</button><br/>
+<span class="lineNumber">138</span><button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e1282">ther</button> darüber nit allein nit Erkhennet, gebessert noch seyn <br/>
+<span class="lineNumber">139</span>Irrsal<a class="fnNumber" href="#F_e" id="A_e">e</a> Revociert noch von Bäbstlicher heiligkait Absolu-<br/>
+<span class="lineNumber">140</span>tion und widerumb in der heyligen Christenlichen kirchen <br/>
+<span class="lineNumber">141</span>gnad begert, sonder seins verkerten gemuts und verstands <br/>
+<span class="lineNumber">142</span>vil böser Frucht und würckung, wie ein wüttender, in eyn <br/>
+<span class="lineNumber">143</span>offenbare underdruckung der hailignn Kirchnn eynfallendt <br/>
+<span class="lineNumber">144</span>durch vil gehauffte Bücher, die nit allein neuer, sonder vor-<br/>
+<span class="lineNumber">145</span>mals von den hayligen Concilien verdambten Ketzereyen <br/>
+<span class="lineNumber">146</span>und Gotslesterungn vol sein, in Lateinischer und Deütscher <br/>
+<span class="lineNumber">147</span>Sprach, aus yme selbst oder zum wenigsten under seynem <br/>
+<span class="lineNumber">148</span>Namen gemacht, teglichnn außgebreytet. Darinn er von der <br/>
+<span class="lineNumber">149</span>Heiligen kirchen, so lange jar gehalten der syben Sacramenten <br/>
+<span class="lineNumber">150</span>zal, ordnung und gebrauch, zerstöret, umbkert und verletzet, <br/>
+<span class="lineNumber">151</span>Und die unzerstörlichnn gesetz der heilignn Er in wunderbar-<br/>
+<span class="lineNumber">152</span>lich weg<a class="fnNumber" href="#F_35" id="A_35">35</a> schentlich beflecket. Sagt auch, das die haylig <br/>
+<span class="lineNumber">153</span>Olung ein erdicht ding sey. Er will auch den brauch und der <br/>
+<span class="lineNumber">154</span>unaussprechlichen heilignn Sacraments niessung zu der ver-<br/>
+<span class="lineNumber">155</span>dampten Beheim<a class="fnNumber" href="#F_36" id="A_36">36</a> gewonheit und gebrauch ziehen. Und ver-<br/>
+<span class="lineNumber">156</span>wickelt anfencklich<a class="fnNumber" href="#F_37" id="A_37">37</a> die Peicht, die den hertzn, so mit sünden <br/>
+<span class="lineNumber">157</span>befleckt oder beladn sein, am aller nutzparlichsten ist, dermas-<br/>
+<span class="lineNumber">158</span>sen, daz daraus kein Fundament noch frucht mag genomen <br/>
+<span class="lineNumber">159</span>werdnn. Zum lesten droet er weiter von der Peicht sovilze-<br/>
+<span class="lineNumber">160</span>schreibnn, wo daz gestattet, das nit allein gar nyemands seyn, <br/>
+<span class="lineNumber">161</span>der aus solichnn seinen aberwitzigen schrifften nit understeen<a class="fnNumber" href="#F_38" id="A_38">38</a> <br/>
+<span class="lineNumber">162</span>wirdet zesagen, die Peicht unfruchtbar zusein, Sunder auch <br/>
+<span class="lineNumber">163</span>wenig sein, die nit Predigen werdnn, das nit zu beichtn sey. <br/>
+<span class="lineNumber">164</span>Er haltet auch nit allain priesterlich Ampt und Orden auff <br/>
+<span class="lineNumber">165</span>das aller geringest, sonder understeet<a class="fnNumber" href="#F_39" id="A_39">39</a> auch die Weltlichen <br/>
+<span class="lineNumber">166</span>Layschnn Personen zu bewegnn, Ir hende in der Priester <br/>
+<span class="lineNumber">167</span>blut zu waschnn. Und Nennet den Obristen un-<br/>
+<span class="lineNumber">168</span>sers Christenlichnn Glaubens Priester, des hailignn Sandt <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00056424_00012/full/full/0/default.jpg" id="p-A4v"> [Blatt: A4<span class="rectoVerso">v</span> ] </button><br/>
+<span class="lineNumber">169</span>Petrus Sucessor und Christi waren Vicarien auff Er-<br/>
+<span class="lineNumber">170</span>den<a class="fnNumber" href="#F_40" id="A_40">40</a> mit verleümbten und schentlichen worten und ver-<br/>
+<span class="lineNumber">171</span>folget Ine mit manichfaltigen unerhörten pheyndtschriff-<br/>
+<span class="lineNumber">172</span>ten und Schmehungen. Er bestetiget auch aus <br/>
+<span class="lineNumber">173</span>der Haydenischen Poeten gedicht, das kayn Freyer will <br/>
+<span class="lineNumber">174</span>sey, der maynung, das alle ding in Einer gewyssen Sa-<br/>
+<span class="lineNumber">175</span>tzung steen. Und schreybt, das die Meßhaltung <br/>
+<span class="lineNumber">176</span>nyemands zu gut kome dann dem, der sy volbring. <br/>
+<span class="lineNumber">177</span>Darzu umbkert Er den gebrauch, so mit Vasten unnd <br/>
+<span class="lineNumber">178</span>gebet von der hayligen Kirchen aufgesetzt und byßher <br/>
+<span class="lineNumber">179</span>gehalten worden ist. Sonderlich veracht Er auch <br/>
+<span class="lineNumber">180</span>der hayligen Vätter Auctoriteten, die von der Kirchen <br/>
+<span class="lineNumber">181</span>angenomen seyn. Und nymbt gäntzlichnn hynweg <br/>
+<span class="lineNumber">182</span>die gehorsam und Regierung, Und schreibt bey-<br/>
+<span class="lineNumber">183</span>leüfftig gar nichts anders, das nit zu Auffrür, zertren-<br/>
+<span class="lineNumber">184</span>nung, Krieg, Todtsleg, Rauberey und Prandt und zu <br/>
+<span class="lineNumber">185</span>gantzem Abfall des Christenlichen Glaubens Reich und <br/>
+<span class="lineNumber">186</span>diene.<a class="fnNumber" href="#F_41" id="A_41">41</a> Dann wie Er lernet<a class="fnNumber" href="#F_42" id="A_42">42</a> ain Frey aygenwillig leben, <br/>
+<span class="lineNumber">187</span>das von allem gesetz ausgeschlossen<a class="fnNumber" href="#F_f" id="A_f">f</a> und gantz Vihisch, <br/>
+<span class="lineNumber">188</span>Also ist Er ain frey aygenwillich mensch, der alle gesetz ver-<br/>
+<span class="lineNumber">189</span>dambt und undertruckt, Wie er dann die Decreta und <br/>
+<span class="lineNumber">190</span>geystliche gesetz offenlich zuverprennen kain Entsetzung <br/>
+<span class="lineNumber">191</span>oder Scheühe gehabt hat. Und wo er das weltlich Swert <br/>
+<span class="lineNumber">192</span>nit mer dann des Babst Pann und Peene geförcht, so het <br/>
+<span class="lineNumber">193</span>Er dem weltlichen Rechten vil bösers gethan. Er <br/>
+<span class="lineNumber">194</span>schamet sich auch nicht, yetz wider die hayligen Concilen <br/>
+<span class="lineNumber">195</span>offenlich zureden <a class="fnNumber" href="#F_g" id="A_g">g</a>und die<a class="fnNumber" href="#F_g">g</a> nach seinem willen zu smelern und <br/>
+<span class="lineNumber">196</span>zuverletzen, aus den Er sonderlich das Concili zu <button class="entity #konstanz place" data-ref="konstanz" data-type="place" id="d2e1525">Costentz</button> <br/>
+<span class="lineNumber">197</span>allenthalben mit seinem beflecten Mundt Swerlichen an-<br/>
+<span class="lineNumber">198</span>tastet und Nennet Das der gantzen Christenlichen Kirch-<br/>
+<span class="lineNumber">199</span>en und Deütscher Nation zu Smach und vercleinung eyn <br/>
+<span class="lineNumber">200</span>Sinagog des Teüffels,<a class="fnNumber" href="#F_43" id="A_43">43</a> und dann die, so darinn gewesen seyn <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00056424_00013/full/full/0/default.jpg" id="p-B1r"> [Blatt: B1<span class="rectoVerso">r</span> ] </button><br/>
+<span class="lineNumber">201</span>Und <button class="entity #hus_jan person" data-ref="hus_jan" data-type="person" id="d2e1551">Johansen Hussen</button> umb seyner Ketzereyschen Hande-<br/>
+<span class="lineNumber">202</span>lung wilen zuverprennen verordent haben, Nemlich unsern <br/>
+<span class="lineNumber">203</span>vorfarn <button class="entity #sigismund person" data-ref="sigismund" data-type="person" id="d2e1563">Kayser Sigmunden</button>, auch des <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e1566">heyligen Reychs</button> <br/>
+<span class="lineNumber">204</span>Fürsten und gemaine versamlung, EntChristen und des <br/>
+<span class="lineNumber">205</span>Teüffls Appostel, Todtsleger und Phariseyer. Und <br/>
+<span class="lineNumber">206</span>sagt, das ales das, so in dem selben Concili von des <button class="entity #hus_jan person" data-ref="hus_jan" data-type="person" id="d2e1576">Hus-</button><br/>
+<span class="lineNumber">207</span><button class="entity #hus_jan person" data-ref="hus_jan" data-type="person" id="d2e1576">sen</button> Irrsal wegen verdampt, Christenlich und Evangelisch <br/>
+<span class="lineNumber">208</span>sey und verjeht das anzünemen und zu beweren. Aber die <br/>
+<span class="lineNumber">209</span>Artickel, so das selb Concili angenomen und beslossen hat, <br/>
+<span class="lineNumber">210</span>will Er kains wegs zulassen.<a class="fnNumber" href="#F_44" id="A_44">44</a> Und ist mit seinem gemüt in <br/>
+<span class="lineNumber">211</span>ein soliche unsynnigkeit gefallen, das er gloriert: sey der ge-<br/>
+<span class="lineNumber">212</span>dacht <button class="entity #hus_jan person" data-ref="hus_jan" data-type="person" id="d2e1617">Huss</button> ein mal ein Ketzer gewesen, so sey <button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e1620">Er</button> zehen <br/>
+<span class="lineNumber">213</span>mal eyn Ketzer.<a class="fnNumber" href="#F_45" id="A_45">45</a> Und damit alle ander des <button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e1631">Luthers</button> <br/>
+<span class="lineNumber">214</span>unzalpar boßheiten umb kürtze willen unertzelt beleiben, <br/>
+<span class="lineNumber">215</span>So hat diser ainiger, nit eyn Mensch, sonder als der böß <br/>
+<span class="lineNumber">216</span>vheinde<a class="fnNumber" href="#F_46" id="A_46">46</a> in gestalt eins Menschen, mit angenomer Münchs <br/>
+<span class="lineNumber">217</span>Kuten manicher ketzer aufs höchst verdampter Ketzerey-<br/>
+<span class="lineNumber">218</span>en, die lange zeit verborgen beliben sein, Zu eyn stinckende <br/>
+<span class="lineNumber">219</span>pfützen zusamen versamelt und selbs Etliche von neuem <br/>
+<span class="lineNumber">220</span>erdacht In schein, das er predig den Glauben, den Er me-<br/>
+<span class="lineNumber">221</span>niglichen<a class="fnNumber" href="#F_47" id="A_47">47</a> mit solichem hohen vleys einbildet, damit er den <br/>
+<span class="lineNumber">222</span>waren gerechten Glauben zerstöre. Unnd under dem Na-<br/>
+<span class="lineNumber">223</span>men und schein der Evangelischen lere allen Evangelisch-<br/>
+<span class="lineNumber">224</span>en fryd und liebe, auch aller guten ding ordnung und die <br/>
+<span class="lineNumber">225</span>aller zierlichst Christlich gestalt umbkere und underdrucke. <br/>
+<span class="lineNumber">226</span>Solchs alles haben wir zu hertzen gefast Und in krafft un-<br/>
+<span class="lineNumber">227</span>sers Kayserlichen Ambts und wirdigkait, damit wir von <br/>
+<span class="lineNumber">228</span>Got fürsehen sein, Dartzu aus sonder lieb und zunaygung, <br/>
+<span class="lineNumber">229</span>so wir wie unser vorfarn zubeschirmung, aufenthalt und <br/>
+<span class="lineNumber">230</span>hanthabung des Christenlichen Glaubens, auch des Rö-<br/>
+<span class="lineNumber">231</span>mischen Bischofs und hayligen Stuls Eere, haben unnd <br/>
+<span class="lineNumber">232</span>tragen, betrachtet, das uns sonderlich uber obgemelt<a class="fnNumber" href="#F_48" id="A_48">48</a> <button class="entity #leo_x person" data-ref="leo_x" data-type="person" id="d2e1707"> Bäb-</button><br/>
+<span class="lineNumber">233</span><button class="entity #leo_x person" data-ref="leo_x" data-type="person" id="d2e1707">stlicher hayligkait</button> Ermanung und Ersuchen on unnser <br/>
+<span class="lineNumber">234</span>Merckliche NachRed<a class="fnNumber" href="#F_49" id="A_49">49</a> unnd der ganntzen Christenheyt <br/>
+<span class="lineNumber">235</span>Smach und Schaden in eyner solichen grossen und Er-<br/>
+<span class="lineNumber">236</span>schrockenlichen handlung nachlesig zu seyn nit gebüren <br/>
+<span class="lineNumber">237</span>welle, als wir auch nit thun sollen und unser will und ge-<br/>
+<span class="lineNumber">238</span>müt nit gewesen ist. Sonder wir wöllen vil mer in unser <br/>
+<span class="lineNumber">239</span>vorfarn Römischer Kayser fustapffen treten und Iren <br/>
+<span class="lineNumber">240</span>hochberümbpten Thaten, so Sy zubeschirmung der Chri-<br/>
+<span class="lineNumber">241</span>stenlichen Kirchen volbracht haben, nachvolgen und den <br/>
+<span class="lineNumber">242</span>loblichen Constitutionen, so zu Straff und verdilgung <br/>
+<span class="lineNumber">243</span>der Ketzer gemacht seyn, anhangen. Und haben sonderlich <br/>
+<span class="lineNumber">244</span>diser sachen halben unser und des <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e1757">heiligen Reichs</button> Churfür-<br/>
+<span class="lineNumber">245</span>sten, Fürsten und Stende yetz hie zu <button class="entity #worms place" data-ref="worms" data-type="place" id="d2e1766">Wormbs</button> zumermalen <br/>
+<span class="lineNumber">246</span>zu uns berufft und dieselb sachen mit hohem vleis, wie <br/>
+<span class="lineNumber">247</span>dann die mercklich notturfft<a class="fnNumber" href="#F_50" id="A_50">50</a> erfordert, treffenlichen bewe-<br/>
+<span class="lineNumber">248</span>gen<a class="fnNumber" href="#F_51" id="A_51">51</a> Und mit Eynhelligem Rat und willen unns diser <br/>
+<span class="lineNumber">249</span>nachvolgenden Mainung vereinet unnd Entschlossen, <br/>
+<span class="lineNumber">250</span>In gestalt: Wiewol einem so verdambten und in seyner <br/>
+<span class="lineNumber">251</span>verstopften verkerung verharten und von dem Prauch <br/>
+<span class="lineNumber">252</span>der Christenlichen Kirchen abgesunderten Menschen <br/>
+<span class="lineNumber">253</span>und offenbaren Ketzer verhör zegeben in allem Rech-<br/>
+<span class="lineNumber">254</span>ten außgenomen ist, Das wir, alle Unnutze Reden abzu-<br/>
+<span class="lineNumber">255</span>schnyden, sonderlich Dieweil Etlich offenlich vermaynen, <br/>
+<span class="lineNumber">256</span>das in des <button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e1810">Luthers</button> Namen vil Bücher geschriben und <br/>
+<span class="lineNumber">257</span>gedruckt worden, die von yme nit gedicht oder außgan-<br/>
+<span class="lineNumber">258</span>gen sein sollen, Und auch Etlich vermaint, den <button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e1822">Luther</button> <br/>
+<span class="lineNumber">259</span>zuvor und Ehe wir weyter gegen yme Procediern<a class="fnNumber" href="#F_52" id="A_52">52</a>, billich<a class="fnNumber" href="#F_53" id="A_53">53</a> <br/>
+<span class="lineNumber">260</span>zuhören, Ine zu uns Erfordern<a class="fnNumber" href="#F_54" id="A_54">54</a> und mit freyem gelayt <br/>
+<span class="lineNumber">261</span>fürsehen sollen. Darauff wir Ine auch an unsern hoff be-<br/>
+<span class="lineNumber">262</span>rüfft Und durch Einen unsern Herold mit schrifft-<br/>
+<span class="lineNumber">263</span>lichem gelait hieher zu uns komen lassen und<a class="fnNumber" href="#F_h" id="A_h">h</a> in unser und al-<br/>
+<span class="lineNumber">264</span>ler obgemelten unser und <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e1863">des Reichs</button> Churfürsten, Für-<br/>
+<span class="lineNumber">265</span>sten und Stende Personlichen gegenwurtigkeit fragen <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00056424_00015/full/full/0/default.jpg" id="p-B2r"> [Blatt: B2<span class="rectoVerso">r</span> ] </button><br/>
+<span class="lineNumber">266</span>lassen,<a class="fnNumber" href="#F_55" id="A_55">55</a> Ob Er die Bücher, die Ime datzemal<a class="fnNumber" href="#F_56" id="A_56">56</a> under Au-<br/>
+<span class="lineNumber">267</span>gen gelegt seyn, auch ander Bücher, die in seynem namen <br/>
+<span class="lineNumber">268</span>umbgetragen werden, gemacht hab, Und ob Er das, so <br/>
+<span class="lineNumber">269</span>in solichen Büchern wider die hailigen Concilien Decret, <br/>
+<span class="lineNumber">270</span>brauch und gewonhaiten, von unsern voreltern bis auf <br/>
+<span class="lineNumber">271</span>disen tag gehalten worden, begriffen sein, Revociern<a class="fnNumber" href="#F_57" id="A_57">57</a> und <br/>
+<span class="lineNumber">272</span>widerumb zu der schoß und Einigkeyt der hailigen Kir-<br/>
+<span class="lineNumber">273</span>chen komen wölle. Und ist Ime sölichs mit der gleich-<br/>
+<span class="lineNumber">274</span>en maynung und Ermanung fürgehalten, Die den ver-<br/>
+<span class="lineNumber">275</span>stoptisten Menschen und herter dann ein Steyn Erweich-<br/>
+<span class="lineNumber">276</span>en und bewegen möchten. Und alspald Er die selben <br/>
+<span class="lineNumber">277</span>Bücher gehört, hat Er die für seyne Bücher bekant und <br/>
+<span class="lineNumber">278</span>verjehen<a class="fnNumber" href="#F_58" id="A_58">58</a>. Und darauff Protestiert, das Er die nymmer-<br/>
+<span class="lineNumber">279</span>mer verleügnen well, Und darzu geret, Das er noch vil <br/>
+<span class="lineNumber">280</span>mer ander Bücher gemacht hab, die wir hierinn, dieweyl <br/>
+<span class="lineNumber">281</span>wir der kain wissen tragen, nit angezaigt haben.
+<span class="lineNumber">282</span>Aber berurend die Revocation<a class="fnNumber" href="#F_59" id="A_59">59</a> hat Er ainer zeit begert,<a class="fnNumber" href="#F_60" id="A_60">60</a> <br/>
+<span class="lineNumber">283</span>Und wiewol Ime die billichen<a class="fnNumber" href="#F_61" id="A_61">61</a> wer abgeslagen worden, <br/>
+<span class="lineNumber">284</span>so doch wyder die neuerung und Irrsall Im Glauben on <br/>
+<span class="lineNumber">285</span>allen verzug gehandelt werden soll, Und Er aus unserm <br/>
+<span class="lineNumber">286</span>vordern<a class="fnNumber" href="#F_62" id="A_62">62</a> Mandat<a class="fnNumber" href="#F_63" id="A_63">63</a> und unserm Schreyben, an yne ausgan-<br/>
+<span class="lineNumber">287</span>gen, die beide im gewiß uberantwort sein, clerlichen verno-<br/>
+<span class="lineNumber">288</span>men hat, umb wellicher ursach willen er zu uns erfordert ist <br/>
+<span class="lineNumber">289</span>und er deßhalben für unser und der Stende angesicht on <br/>
+<span class="lineNumber">290</span>beraite antwort nit komen sein solt, Nichtdestminder haben <br/>
+<span class="lineNumber">291</span>wir aus miltigkeit und gütigkeit yme einen tag zugegeben, <br/>
+<span class="lineNumber">292</span>und nach verscheinung<a class="fnNumber" href="#F_64" id="A_64">64</a> desselben tags ist er widerumb vor <br/>
+<span class="lineNumber">293</span>uns und <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e2013">des Reichs</button> Stenden erschinen und mit vleyssiger <br/>
+<span class="lineNumber">294</span>ermanung wie vor ersucht worden, In sich selbs zugeen, mit <br/>
+<span class="lineNumber">295</span>unserm zusagen, so er das, so in seinen Büchern verdambt <br/>
+<span class="lineNumber">296</span>und böß were, Revociert, Das Er widerumb in unsers <br/>
+<span class="lineNumber">297</span>hayligen Vater Babst huld unnd Gnad komen soll.
+<span class="lineNumber">298</span>Unnd wir auch daran seyn wöllen, das seyn hayligkayt <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00056424_00016/full/full/0/default.jpg" id="p-B2v"> [Blatt: B2<span class="rectoVerso">v</span> ] </button><br/>
+<span class="lineNumber">299</span>aus yeder Christenlichen Nation zwen treffenlich Mann, <br/>
+<span class="lineNumber">300</span>eins gutten lebens und hoher lere, seine Bücher vleyssig-<br/>
+<span class="lineNumber">301</span>clich ubersehen und das böß daraus thun, Und was guet <br/>
+<span class="lineNumber">302</span>were, dasselb solte die Bebstliche hayligkeit Approbiern.
+<span class="lineNumber">303</span>Aber uber das alles hat Er soliche Revocation nit thun <br/>
+<span class="lineNumber">304</span>noch unser gnedig Erbieten nit annemen wöllen, sonder <br/>
+<span class="lineNumber">305</span>das gantz abgeschlagen und mit dergleichen ungebürlich-<br/>
+<span class="lineNumber">306</span>en worten und geberden, die keinem synnigen<a class="fnNumber" href="#F_65" id="A_65">65</a> und Reguli-<br/>
+<span class="lineNumber">307</span>erten<a class="fnNumber" href="#F_66" id="A_66">66</a> geistlichen kains wegs gezimen, offenlich gesagt, Er <br/>
+<span class="lineNumber">308</span>wölle in seynen Büchern nit ein wort endern. Und also <br/>
+<span class="lineNumber">309</span>in unser und der Stende gegenwart die hayligen Conci-<br/>
+<span class="lineNumber">310</span>lien unmiltigclich und unverschampt verspot, verdambt, <br/>
+<span class="lineNumber">311</span>geschmecht und gentzlichen verachtet, Und zuvor<a class="fnNumber" href="#F_67" id="A_67">67</a> das zu <br/>
+<span class="lineNumber">312</span><button class="entity #konstanz place" data-ref="konstanz" data-type="place" id="d2e2089">Costentz</button>, so der Deütschen Nation zu Ewiger Ere den <br/>
+<span class="lineNumber">313</span>Fryden und Einigkeyt wider gegeben; Er werde dann mit <br/>
+<span class="lineNumber">314</span>Disputation, die Er auff vertröstung<a class="fnNumber" href="#F_68" id="A_68">68</a> unsers gelaits be-<br/>
+<span class="lineNumber">315</span>gert, unangesehen das Er gut wissen hat, das die in Göt-<br/>
+<span class="lineNumber">316</span>lichen und Menschlichen Rechten verbotten seyn, uberwun-<br/>
+<span class="lineNumber">317</span>den. Und wiewol wir auff solich unmilte antwort, <br/>
+<span class="lineNumber">318</span>die nit on kleine beschwerung unser und der Stende ge-<br/>
+<span class="lineNumber">319</span>müet, auch des gemainen<a class="fnNumber" href="#F_69" id="A_69">69</a> volcks ergernuss, gehort worden <br/>
+<span class="lineNumber">320</span>ist, aus beweglichen<a class="fnNumber" href="#F_70" id="A_70">70</a> ursachen fürgenomen heten, von <br/>
+<span class="lineNumber">321</span>stund darauff zu ferrern<a class="fnNumber" href="#F_71" id="A_71">71</a> miteln zugreiffen, In gestracks wi-<br/>
+<span class="lineNumber">322</span>derumb abscheyden und heimziehen zulassen, In massen wir <br/>
+<span class="lineNumber">323</span>solch unser meynung, mit aygner handt geschriben, des <br/>
+<span class="lineNumber">324</span> nachvolgenden tags haben eröffnen lassen, So sein wir <br/>
+<span class="lineNumber">325</span>doch durch der Obgemelten Churfürsten, Fürsten und <br/>
+<span class="lineNumber">326</span>Stende hochs ansuchen bewegt worden, Das wir Ime <br/>
+<span class="lineNumber">327</span>noch drey tage sich zubekeren Frist gegeben haben. Und <br/>
+<span class="lineNumber">328</span>seyn darzwischen zwen Churfürsten, auch zwen Gaystlich <br/>
+<span class="lineNumber">329</span>und zwen Weltlich Fürsten Und dann zwen von unsern <br/>
+<span class="lineNumber">330</span>und <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e2168">des Reichs</button> Stetten verordent worden,<a class="fnNumber" href="#F_72" id="A_72">72</a> Die aus be-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00056424_00017/full/full/0/default.jpg" id="p-B3r"> [Blatt: B3<span class="rectoVerso">r</span> ] </button><br/>
+<span class="lineNumber">331</span>felich und von wegen der gemeinen Reichs versamlung<a class="fnNumber" href="#F_73" id="A_73">73</a> <br/>
+<span class="lineNumber">332</span>den gedachten <button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e2195">Luther</button> für Sich erfordert und mit gueter <br/>
+<span class="lineNumber">333</span>Warnung, Ermanung und underweysung und allem <br/>
+<span class="lineNumber">334</span>dem, so müglich und dienstlich ist, Ine zubekeren, nichts <br/>
+<span class="lineNumber">335</span>underlassen, Mit anzaigung, wo Er sich nit bekere, In was <br/>
+<span class="lineNumber">336</span>schweren Straff Er bey Uns und dem <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e2207">hayligen Reiche</button>, <br/>
+<span class="lineNumber">337</span>auch nach ordnung der Recht, fallen werde. Und <br/>
+<span class="lineNumber">338</span>als solicher vleys und Ernst bey ym unfruchtbar gewesen <br/>
+<span class="lineNumber">339</span>ist, Hat <button class="entity #richard_trier person" data-ref="richard_trier" data-type="person" id="d2e2219">unser Churfürsten ainer</button> zwen güetig und kunst-<br/>
+<span class="lineNumber">340</span>reich Doctores zu yme genomen<a class="fnNumber" href="#F_74" id="A_74">74</a> und mitsampt densel-<br/>
+<span class="lineNumber">341</span>ben, auch selbs allain in sonderheit, nit allain mit Hoher <br/>
+<span class="lineNumber">342</span>Ermanung, sonder auch scheinparlicher anzaygung ma-<br/>
+<span class="lineNumber">343</span>nicher sein, des <button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e2260">Luthers</button>, Irrsal understanden yn zu be-<br/>
+<span class="lineNumber">344</span>wegen, das Er mer ansehe unsers heyligen vater Babsts, <br/>
+<span class="lineNumber">345</span>Deßgleichen Unser und aller Reichs Stende, auch an-<br/>
+<span class="lineNumber">346</span>der Christglaubigen Nation gebrauch, den Sy nach ord-<br/>
+<span class="lineNumber">347</span>nung der Christenlichen Kirchen so lange Jar herbracht<a class="fnNumber" href="#F_75" id="A_75">75</a> <br/>
+<span class="lineNumber">348</span>haben, dann sein aynigen Synn,<a class="fnNumber" href="#F_76" id="A_76">76</a> mit dem anhang: Wann Er <br/>
+<span class="lineNumber">349</span>von derselben seyner Unsinnigkeyt abweiche und sich wy-<br/>
+<span class="lineNumber">350</span>derumb bekere, werde Er befynden und Erkennen, das <br/>
+<span class="lineNumber">351</span>solichs aus ainem loblichen Exempel vil hayliger Väter <br/>
+<span class="lineNumber">352</span>und zu behaltung<a class="fnNumber" href="#F_77" id="A_77">77</a> seiner Seel, Ere und leybs beschehe.
+<span class="lineNumber">353</span>Darauff, als wir Glaublichen bericht sein, Solle <button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e2313">Mar-</button><br/>
+<span class="lineNumber">354</span><button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e2313">tin Luther</button> geantwort haben, Das er nit allein alle yetz-<br/>
+<span class="lineNumber">355</span>gemelte Personen, sonder auch ain gemein<a class="fnNumber" href="#F_78" id="A_78">78</a> Concilium (ob <br/>
+<span class="lineNumber">356</span>gleich wol ains sein wurde)<a class="fnNumber" href="#F_79" id="A_79">79</a> verdechtlich und Arckwenig <br/>
+<span class="lineNumber">357</span>halte. Und das Er aus seinen schrifften nit die we-<br/>
+<span class="lineNumber">358</span>nigist Silben verwandeln wolle, wie Er vormals in un-<br/>
+<span class="lineNumber">359</span>ser und des <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e2352">Reichs</button> Stende beywesen<a class="fnNumber" href="#F_80" id="A_80">80</a> auch gethan het.
+<span class="lineNumber">360</span>Es sey dann, das Er von ainem gelerten Mann uberwun-<br/>
+<span class="lineNumber">361</span>den werde, Doch nach seyner Regel und nit aus den Con-<br/>
+<span class="lineNumber">362</span>cilien noch auß Kayserlichen oder Geystlichen gesetzen <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00056424_00018/full/full/0/default.jpg" id="p-B3v"> [Blatt: B3<span class="rectoVerso">v</span> ] </button><br/>
+<span class="lineNumber">363</span>noch auch aus ainicher<a class="fnNumber" href="#F_81" id="A_81">81</a> Väter Auctoriteten, wie hailig die <br/>
+<span class="lineNumber">364</span>sein, sonder allein aus den worten der hailigen schrifft, die Er <br/>
+<span class="lineNumber">365</span>vermaint, nach seinem Syn zuersettigung seins zufelligen <br/>
+<span class="lineNumber">366</span>gemüts verstanden werden sollen. Uber das Clar und <br/>
+<span class="lineNumber">367</span>offenbar ist, das aus denselben Auctoriteten, die zuerfül-<br/>
+<span class="lineNumber">368</span>lung des, so in baiden Testamenten nit gemeldet oder auß-<br/>
+<span class="lineNumber">369</span>gedruckt seyn, bißher die hailig Christenlich Kirch gere-<br/>
+<span class="lineNumber">370</span>giert worden ist. Wann sich nu die sachen dermassen verlauf-<br/>
+<span class="lineNumber">371</span>fen hat und <button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e2417">Martin Luther</button> also gantz verstopft und ver-<br/>
+<span class="lineNumber">372</span>kerlich in seynen offenbaren Ketzerischen Opinionen ver-<br/>
+<span class="lineNumber">373</span>harret und dardurch von allen den, die Gotsforcht und <br/>
+<span class="lineNumber">374</span>vernunfft haben, unsynnig oder, das Er mit dem pösen <br/>
+<span class="lineNumber">375</span>gayst besessen were, geacht und gehalten wirdet, Haben wir <br/>
+<span class="lineNumber">376</span>yne laut unsers glayts auf den Fünffunzweintzigisten tags <br/>
+<span class="lineNumber">377</span>des<a class="fnNumber" href="#F_i" id="A_i">i</a> Monats Aprilis negstverschinen<a class="fnNumber" href="#F_82" id="A_82">82</a> von stund von un-<br/>
+<span class="lineNumber">378</span>serm Angesicht hinweg ziehen lassen Und yme widerumb <br/>
+<span class="lineNumber">379</span>Ein Heroldt zugeordent, Also, das Er von demselben Fünff-<br/>
+<span class="lineNumber">380</span>undzweintzigisten tag Aprilis an zurechen zweintzig tag, <br/>
+<span class="lineNumber">381</span>die negsten darnach volgendt, unnser frey sicher Glayt <br/>
+<span class="lineNumber">382</span>haben und dasselb unser Glayt nach verscheinung<a class="fnNumber" href="#F_83" id="A_83">83</a> solicher <br/>
+<span class="lineNumber">383</span>zweintzig tag auß seyn und yne lenger nit furtragen<a class="fnNumber" href="#F_84" id="A_84">84</a> solle. <br/>
+<span class="lineNumber">384</span>Und zu letzt darauff zu andern füeglichen Remedien<a class="fnNumber" href="#F_85" id="A_85">85</a>, wy-<br/>
+<span class="lineNumber">385</span>der dise swere gifftige sucht zu procedieren, gegriffen, wie her-<br/>
+<span class="lineNumber">386</span>nachvolgt. Am Ersten: zu lob dem Almechtigen und be-<br/>
+<span class="lineNumber">387</span>schirmung des Christenlichen Glaubens, auch des Römisch-<br/>
+<span class="lineNumber">388</span>en Bischofs und Stuls gebürlichen Ere, in Crafft des <br/>
+<span class="lineNumber">389</span>Ambts unser Keiserlichen wirdigkeit, hochheit und Aucto-<br/>
+<span class="lineNumber">390</span>ritet, Darzu mit einhelligem Rat und willen unser und des <br/>
+<span class="lineNumber">391</span><button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e2521">heiligen Reichs</button> Churfürsten, Fürsten und Stende yetzo hie<a class="fnNumber" href="#F_j" id="A_j">j</a> <br/>
+<span class="lineNumber">392</span>versamelt, Haben wir zu Ewiger gedechtnus diss hann-<br/>
+<span class="lineNumber">393</span>dels, zuvolstreckung des Decrets, Sententz und verdamm-<br/>
+<span class="lineNumber">394</span>nus laut der Bullen, so unser <button class="entity #leo_x person" data-ref="leo_x" data-type="person" id="d2e2542">Hailiger Vater Babst</button> alls <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00056424_00019/full/full/0/default.jpg" id="p-B4r"> [Blatt: B4<span class="rectoVerso">r</span> ] </button><br/>
+<span class="lineNumber">395</span>diser sachen ordenlicher Richter hat außgeen lassen,<a class="fnNumber" href="#F_86" id="A_86">86</a> Den <br/>
+<span class="lineNumber">396</span>gedachten <button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e2564">Martin Luther</button> als von Gots Kirchen abge-<br/>
+<span class="lineNumber">397</span>sündert gelide und Einen verstopten zertrenner und offen-<br/>
+<span class="lineNumber">398</span>barn Ketzer von uns und Eüch allen und yedem in son-<br/>
+<span class="lineNumber">399</span>derhayt zuachten und zehalten Erkennet und Ercleret, <br/>
+<span class="lineNumber">400</span>und thun das wissentlich in krafft diß brieffs. Und gebie-<br/>
+<span class="lineNumber">401</span>ten darauff Eüch allen und yedem besonder bey den Phlich-<br/>
+<span class="lineNumber">402</span>ten, damit ir uns und dem <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e2600">heyligen Reiche</button> verwandt seyt, <br/>
+<span class="lineNumber">403</span>Auch vermeydung der peene Criminis lese Mayestatis<a class="fnNumber" href="#F_87" id="A_87">87</a> <br/>
+<span class="lineNumber">404</span>und unser und des <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e2616">Reichs</button> Acht und Aberacht<a class="fnNumber" href="#F_88" id="A_88">88</a> und dartzu <br/>
+<span class="lineNumber">405</span>Privirung und Entsetzung<a class="fnNumber" href="#F_89" id="A_89">89</a> aller Regalia<a class="fnNumber" href="#F_90" id="A_90">90</a>, Lehen<a class="fnNumber" href="#F_91" id="A_91">91</a>, gnaden <br/>
+<span class="lineNumber">406</span>und Freyhaiten, so Ir bißher von unsern vorfarn, uns <br/>
+<span class="lineNumber">407</span>und dem <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e2653">hayligen Reiche</button> in einicher weg<a class="fnNumber" href="#F_92" id="A_92">92</a> gehebt von Rö-<br/>
+<span class="lineNumber">408</span>mischer Kayserlicher macht, Ernstlich mit disem brief und <br/>
+<span class="lineNumber">409</span>wöllen, Das Ir samentlich und sonderlich nach verschey-<br/>
+<span class="lineNumber">410</span>nung<a class="fnNumber" href="#F_93" id="A_93">93</a> der oberürten zwaintzig tag, die sich auff den Vier-<br/>
+<span class="lineNumber">411</span>tzehenden tag ditz gegenwurtigen Monats May En-<br/>
+<span class="lineNumber">412</span>den, den vorgemelten <button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e2690">Martin Luther</button> Nit Hauset, hoffet<a class="fnNumber" href="#F_94" id="A_94">94</a>, <br/>
+<span class="lineNumber">413</span>Etzt<a class="fnNumber" href="#F_95" id="A_95">95</a>, Drencket noch endthaltet<a class="fnNumber" href="#F_96" id="A_96">96</a> noch yme mit worten oder <br/>
+<span class="lineNumber">414</span>Wercken, Haimlich noch Offenlich kaynerlay hilff, An-<br/>
+<span class="lineNumber">415</span>hang, Beystandt noch fürschub<a class="fnNumber" href="#F_97" id="A_97">97</a> beweyset. Sonder wo Ir <br/>
+<span class="lineNumber">416</span>yne alßdann ankomen<a class="fnNumber" href="#F_98" id="A_98">98</a> und betretten<a class="fnNumber" href="#F_99" id="A_99">99</a> und des mechtig seyn <br/>
+<span class="lineNumber">417</span>mügt,<a class="fnNumber" href="#F_100" id="A_100">100</a> In fencklichen annemet<a class="fnNumber" href="#F_101" id="A_101">101</a> und uns wolbewart zusen-<br/>
+<span class="lineNumber">418</span>det oder das zuthun bestellet<a class="fnNumber" href="#F_102" id="A_102">102</a> oder uns das zum wenigi-<br/>
+<span class="lineNumber">419</span>sten,<a class="fnNumber" href="#F_k" id="A_k">k</a> so Er zu Hannden bracht wirdet, unverzogen-<br/>
+<span class="lineNumber">420</span>lich verkündet und anzaiget und yne dazwischen also fen-<br/>
+<span class="lineNumber">421</span>cklichen behaltet, bis Eüch von unns beschayd, was Ir <br/>
+<span class="lineNumber">422</span>ferrer nach Ordnunng der Recht gegen Ime hanndeln <br/>
+<span class="lineNumber">423</span>söllet, gegeben, Unnd Ir umb solich haylig werck, Auch <br/>
+<span class="lineNumber">424</span>Eüer Müe und Costen zimliche Ergetzlichait<a class="fnNumber" href="#F_103" id="A_103">103</a> emphahen <br/>
+<span class="lineNumber">425</span>werdet. Aber gegen seinen mitverwandten Anhengern, <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00056424_00020/full/full/0/default.jpg" id="p-B4v"> [Blatt: B4<span class="rectoVerso">v</span> ] </button><br/>
+<span class="lineNumber">426</span>Enthaltern,<a class="fnNumber" href="#F_104" id="A_104">104</a> Fürschiebern,<a class="fnNumber" href="#F_105" id="A_105">105</a> Gönnern Und nachvolgern <br/>
+<span class="lineNumber">427</span>Und derselben beweglich und unbeweglich güter Sollet <br/>
+<span class="lineNumber">428</span>Ir in Crafft der hayligen Constitution<a class="fnNumber" href="#F_106" id="A_106">106</a> und Unser und <br/>
+<span class="lineNumber">429</span>des <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e2796">Reichs</button> Acht und Aberacht<a class="fnNumber" href="#F_107" id="A_107">107</a> diser weyse handeln:
+<span class="lineNumber">430</span>Nemlich, Sy nyderwerffen und fahen<a class="fnNumber" href="#F_108" id="A_108">108</a> und Ire güeter <br/>
+<span class="lineNumber">431</span>zu Eurn handen nemen und die In Eurn aygen nutz <br/>
+<span class="lineNumber">432</span>wenden und behalten on menigcklichs<a class="fnNumber" href="#F_109" id="A_109">109</a> verhynderung, Es <br/>
+<span class="lineNumber">433</span>sey dann, das sy durch glaublichen schein<a class="fnNumber" href="#F_110" id="A_110">110</a> anzaygen, das Sy <br/>
+<span class="lineNumber">434</span>disen unrechten weg verlassen und Bäbstliche Absolution <br/>
+<span class="lineNumber">435</span>erlangt haben. Ferrer gebieten wir Eüch allen und <br/>
+<span class="lineNumber">436</span>Eür yedem In sonders<a class="fnNumber" href="#F_111" id="A_111">111</a> bey den vorgeschriben peenen<a class="fnNumber" href="#F_112" id="A_112">112</a>, <br/>
+<span class="lineNumber">437</span>Das Eur kainer des obgenannten <button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e2843">Martin Luther</button> <br/>
+<span class="lineNumber">438</span>schrifften, von unserm <button class="entity #leo_x person" data-ref="leo_x" data-type="person" id="d2e2848">hayligen Vater Babst</button>, wie obstet<a class="fnNumber" href="#F_113" id="A_113">113</a>, <br/>
+<span class="lineNumber">439</span>verdambt, und all annder schrifften, die in latein unnd <br/>
+<span class="lineNumber">440</span>Deütsch oder in ander Sprach bißher durch ine gemacht <br/>
+<span class="lineNumber">441</span>sein oder hynfür<a class="fnNumber" href="#F_114" id="A_114">114</a> gemacht werden, Als Böß, Argwenig <br/>
+<span class="lineNumber">442</span>und verdechtlich Und von eynem offenbarn hartneggi-<br/>
+<span class="lineNumber">443</span>ckhen Ketzer außgegangen, Kauff, verkauff, lese, Be-<br/>
+<span class="lineNumber">444</span>halt, Abschreyb, Druck oder abschreyben oder Drucken <br/>
+<span class="lineNumber">445</span>lasse, noch seiner Opinion<a class="fnNumber" href="#F_115" id="A_115">115</a> zufall, die auch nit halt, Predig <br/>
+<span class="lineNumber">446</span>noch beschirme noch das in ainich ander weg,<a class="fnNumber" href="#F_116" id="A_116">116</a> wie Men-<br/>
+<span class="lineNumber">447</span>schen Synn das bedencken kan, understee<a class="fnNumber" href="#F_117" id="A_117">117</a>. Unangesehen, <br/>
+<span class="lineNumber">448</span>ob darinn etwas guts, den Ainfeltigen Menschen damit <br/>
+<span class="lineNumber">449</span>zu betriegen, eingefürt were. Dann wie die aller peste <br/>
+<span class="lineNumber">450</span>Speys, so mit ainem clainen tropfen giffts vermischet, von <br/>
+<span class="lineNumber">451</span>allen Menschen gescheühet, sovil mer sollen soliche schriff-<br/>
+<span class="lineNumber">452</span>ten und Bücher, in den so manig der Seelen gifft und ver-<br/>
+<span class="lineNumber">453</span>dambnus eingefüert<a class="fnNumber" href="#F_l" id="A_l">l</a> sein, von uns allen nit allein vermitten, <br/>
+<span class="lineNumber">454</span>sonder auch die von aller Menschen gedechtnus abgethan <br/>
+<span class="lineNumber">455</span>und verdiglt<a class="fnNumber" href="#F_m" id="A_m">m</a> werden. Damit Sy nyemands scha-<br/>
+<span class="lineNumber">456</span>den oder Ewiglich tödten. Dieweyl doch sonst vormals <br/>
+<span class="lineNumber">457</span>alles das, so gut in seinen Büchern geschriben, von den hey-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00056424_00021/full/full/0/default.jpg" id="p-C1r"> [Blatt: C1<span class="rectoVerso">r</span> ] </button><br/>
+<span class="lineNumber">458</span>ligen Vätern, die von der hayligen Christenlichen Kirch-<br/>
+<span class="lineNumber">459</span>en angenommen und Approbiert seyn, zumermalen an-<br/>
+<span class="lineNumber">460</span>gezaigt ist und on alle sorg und Arckwenigkait eynichs<a class="fnNumber" href="#F_118" id="A_118">118</a> <br/>
+<span class="lineNumber">461</span>ubels mag gelesen und gehalten werden. Dartzu sollet <br/>
+<span class="lineNumber">462</span>Ir all und Eur yeder, in was wirden, stats<a class="fnNumber" href="#F_119" id="A_119">119</a> oder wesens <br/>
+<span class="lineNumber">463</span>der sey, und sonderlich die, so Oberkeyt unnd gerichtß-<br/>
+<span class="lineNumber">464</span>zwang haben und gebrauchen, bey vermeydunng vorbe-<br/>
+<span class="lineNumber">465</span>rürter Peen,<a class="fnNumber" href="#F_120" id="A_120">120</a> Allennthalben Im <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e2992">hayligen Römischen </button><br/>
+<span class="lineNumber">466</span><button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e2992">Reiche</button>, Auch unser Erblichen Fürstenthümben unnd <br/>
+<span class="lineNumber">467</span>Landen, mit der That Ernstlich ordnen, Straffen, Ge-<br/>
+<span class="lineNumber">468</span>pieten und bestellen, all und yegklich solich Obbestimpt des <br/>
+<span class="lineNumber">469</span><button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e3006">Luthers</button> vergifft schrifften und Bücher als die, so dienen <br/>
+<span class="lineNumber">470</span>zu ainem grossen auflauff<a class="fnNumber" href="#F_121" id="A_121">121</a>, Schaden, Zertrennung und <br/>
+<span class="lineNumber">471</span>Ketzereyen In gotes Kirchen, mit dem Feür zuverbren-<br/>
+<span class="lineNumber">472</span>nen und in den und ander weg genntzlichen abzethun, <br/>
+<span class="lineNumber">473</span>zuvernichten und zuverdilgen. Deßgleychen <br/>
+<span class="lineNumber">474</span>söllet Ir der Bäbstlichen hayligkeit Botschafften oder <br/>
+<span class="lineNumber">475</span>Iren verordenten Commissarien<a class="fnNumber" href="#F_122" id="A_122">122</a> in söllichem auff ir an-<br/>
+<span class="lineNumber">476</span>langen und Ersuchen mit allem vleys und Treuen bey-<br/>
+<span class="lineNumber">477</span>steen. Und nichtdestminder in der selben abwesen diss al-<br/>
+<span class="lineNumber">478</span>les und yedes also zugeschehen, zu Exequiern<a class="fnNumber" href="#F_123" id="A_123">123</a> und zuvol-<br/>
+<span class="lineNumber">479</span>bringen aus unserm geheyß und bevelich, thut und han-<br/>
+<span class="lineNumber">480</span>delt. Daneben gebieten wir allen andern un-<br/>
+<span class="lineNumber">481</span>sern unnd des <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e3077">Reichs</button>, Auch unnser Erblichen Fürsten-<br/>
+<span class="lineNumber">482</span>thümb und Lande underthanen und Getreuen Ernstlich <br/>
+<span class="lineNumber">483</span>mit disem brief, Das Ir den obgemelten Stenden und <br/>
+<span class="lineNumber">484</span>Oberkayten, gleich uns selbs, in solichem hilfflich, beysten-<br/>
+<span class="lineNumber">485</span>dig, gehorsam und gewertig<a class="fnNumber" href="#F_124" id="A_124">124</a> seyt bey vermeydung der <br/>
+<span class="lineNumber">486</span>angezaygten Penen,<a class="fnNumber" href="#F_125" id="A_125">125</a> Straffen und Pussen.
+<span class="lineNumber">487</span>Und nach dem die mercklich notturfft<a class="fnNumber" href="#F_126" id="A_126">126</a> Erfordert, fürze-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00056424_00022/full/full/0/default.jpg" id="p-C1v"> [Blatt: C1<span class="rectoVerso">v</span> ] </button><br/>
+<span class="lineNumber">488</span>kumen<a class="fnNumber" href="#F_127" id="A_127">127</a> und zuverhuten. Das des <button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e3123">Luthers</button> Bücher oder <br/>
+<span class="lineNumber">489</span>Böß Ausszüg derselben, so in annderer Namen darinn <br/>
+<span class="lineNumber">490</span>seyn, als des Dichters namen nit gemeldet wirdet, auß-<br/>
+<span class="lineNumber">491</span>geen, noch sunst vil annder Bücher, die, als wir mit be-<br/>
+<span class="lineNumber">492</span>schwerung unsers gemüts bericht, den Merern<a class="fnNumber" href="#F_128" id="A_128">128</a> tayl in <br/>
+<span class="lineNumber">493</span>Deütsch Landen gemacht und Gedruckt und böser le-<br/>
+<span class="lineNumber">494</span>ren und Exempel vol seyn, hinfür nit mer geschriben <br/>
+<span class="lineNumber">495</span>noch gedruckt werden, damit die Christglaubigen wey-<br/>
+<span class="lineNumber">496</span>ter aus verlesung derselben nit in grössern Irrsall des <br/>
+<span class="lineNumber">497</span>Glaubenns, lebenns unnd Gueter sytten fallen unnd <br/>
+<span class="lineNumber">498</span>Ergerung, Neyd und hass in Gotes Kirchen daraus ent-<br/>
+<span class="lineNumber">499</span>springe, wie sich bißher Augenscheinlich erzaygt hat. Da-<br/>
+<span class="lineNumber">500</span>raus täglichs ye lennger ye mer In Künigreichen, Für-<br/>
+<span class="lineNumber">501</span>stenthumben und Landen Aufflauff<a class="fnNumber" href="#F_129" id="A_129">129</a>, Zertrennung und <br/>
+<span class="lineNumber">502</span>Ungehorsam zubesorgen ist. Demnach soliche schedliche <br/>
+<span class="lineNumber">503</span>verderbliche sucht<a class="fnNumber" href="#F_130" id="A_130">130</a> außzudilgen, Gepieten wir <br/>
+<span class="lineNumber">504</span>abermals mit Rat und willen unser unnd des <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e3201">Reichs</button> <br/>
+<span class="lineNumber">505</span>Churfürsten, Fürsten und Stennde, bey vorgedachten <br/>
+<span class="lineNumber">506</span>Sweren Penen<a class="fnNumber" href="#F_131" id="A_131">131</a>, Straffen und Pussen, Eüch den selben <br/>
+<span class="lineNumber">507</span>unsern und des <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e3214">Reychs</button> unnd unnser Erblichen Für-<br/>
+<span class="lineNumber">508</span>stenthumb und Lande underthanen, allen und Euer ye-<br/>
+<span class="lineNumber">509</span>den, als Römischer Kayser und Erblicher Herr, das hyn-<br/>
+<span class="lineNumber">510</span>für<a class="fnNumber" href="#F_132" id="A_132">132</a> Eur kainer soliche Smach und vergiffte Bücher, <br/>
+<span class="lineNumber">511</span>nach ander zedl oder abschrifften als die, so unserm hailigen <br/>
+<span class="lineNumber">512</span>Glauben Irrsal gepern Und dem, das die heyligen Chri-<br/>
+<span class="lineNumber">513</span>stenlich kirch bißher gehalten hat, widerwertig sein, Dar-<br/>
+<span class="lineNumber">514</span>tzu auch vheinds und schmachschrifften wider unsern haili-<br/>
+<span class="lineNumber">515</span>gen vater Babst, Prelaten, Fürsten, hohe schulen und der-<br/>
+<span class="lineNumber">516</span>selben Faculteten und ander Ersam personen und was in-<br/>
+<span class="lineNumber">517</span>haltet das, so sich von den guten syten und der Heiligen Rö-<br/>
+<span class="lineNumber">518</span>mischen kirchen abwendet, nit mer dichte, schreib, druck, Ma-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00056424_00023/full/full/0/default.jpg" id="p-C2r"> [Blatt: C2<span class="rectoVerso">r</span> ] </button><br/>
+<span class="lineNumber">519</span><a class="fnNumber" href="#F_133" id="A_133">133</a>le, verkauff, kauff noch heimlich oder offenlich behaltet noch <br/>
+<span class="lineNumber">520</span>auch nit drucken, abschreiben oder malen lasse noch das in <br/>
+<span class="lineNumber">521</span>kein ander weyse, wie ymmer erdacht werden mag, nit gestat, <br/>
+<span class="lineNumber">522</span>verhenge<a class="fnNumber" href="#F_134" id="A_134">134</a> noch verschaffe<a class="fnNumber" href="#F_135" id="A_135">135</a>. Deßgleichen gepieten wir ern-<br/>
+<span class="lineNumber">523</span>stlich bey angezaigten peenen<a class="fnNumber" href="#F_136" id="A_136">136</a> allen den, so zu der Justicy ver-<br/>
+<span class="lineNumber">524</span>ordent und gesetzt sein, das sy alle yetzgemelte schrifften, Bü-<br/>
+<span class="lineNumber">525</span>cher, zedl und malerey, so bißher gemacht sein und hynfür <br/>
+<span class="lineNumber">526</span>geschriben, gedrückt und gemalet werden, Sy seyen, wes sy <br/>
+<span class="lineNumber">527</span>wöllen, Wo man die findt durch das gantz <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e3331">heilig Reiche</button> <br/>
+<span class="lineNumber">528</span>und unser Erblande, in krafft ditz unsers gebots von unsern <br/>
+<span class="lineNumber">529</span>wegen annemen, zerreissen und mit offenlichem Feür verpren-<br/>
+<span class="lineNumber">530</span>nen. Auch der Dichter, Schreiber, drucker und Maler, <br/>
+<span class="lineNumber">531</span>auch verkauffer und kauffer solicher schentlichen schrifften, <br/>
+<span class="lineNumber">532</span>Bücher, zedeln und Malereyen, die darinn nach verkün-<br/>
+<span class="lineNumber">533</span>dung unsers gegenwürtigen Keiserlichen gebots verhar-<br/>
+<span class="lineNumber">534</span>ren oder deßhalben ichts<a class="fnNumber" href="#F_137" id="A_137">137</a> fürzenemen understeen, wo das of-<br/>
+<span class="lineNumber">535</span>fenbar ist, leib, güter und gerechtigkeyten<a class="fnNumber" href="#F_138" id="A_138">138</a>, wo ir die bekumen <br/>
+<span class="lineNumber">536</span>mügt, Annemet, Fahet<a class="fnNumber" href="#F_139" id="A_139">139</a> und behaltet Und damit nach <br/>
+<span class="lineNumber">537</span>Eürm geffallen handelt; des sollet ir gut fueg und recht und <br/>
+<span class="lineNumber">538</span>damit wider nyemands gethan noch gehandelt haben <br/>
+<span class="lineNumber">539</span>noch yemands darumb weder inner- noch ausserhalb Rech-<br/>
+<span class="lineNumber">540</span>tens<a class="fnNumber" href="#F_140" id="A_140">140</a> zeantworten nit schuldig sein. Damit auch solichs al-<br/>
+<span class="lineNumber">541</span>les und ander ursachen künfftiger irrsal abgesniten und <br/>
+<span class="lineNumber">542</span>die gifft der, so soliche schrifften dichten und machen ferrer <br/>
+<span class="lineNumber">543</span>nit außgeprait und die hochberümbte kunst der Drucke-<br/>
+<span class="lineNumber">544</span>rey allein in guten und löblichen sachen gepraucht und ge-<br/>
+<span class="lineNumber">545</span>übt werde, So haben wir weiter aus Kaiserlicher und Kü-<br/>
+<span class="lineNumber">546</span>nigklicher oberkeit und Rechtem wissen, auch mit ainhelli-<br/>
+<span class="lineNumber">547</span>gem Rat unser und des <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e3434">Reichs</button> Churfursten, Fürsten <br/>
+<span class="lineNumber">548</span>unnd Stennde bey unser unnd des <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e3439">Reychs</button> Acht und <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00056424_00024/full/full/0/default.jpg" id="p-C2v"> [Blatt: C2<span class="rectoVerso">v</span> ] </button><br/>
+<span class="lineNumber">549</span>Aberacht<a class="fnNumber" href="#F_141" id="A_141">141</a> und andern vorberürten Peenen<a class="fnNumber" href="#F_142" id="A_142">142</a> Geboten,
+<span class="lineNumber">550</span>Gebieten auch solichs wyssentlich in Crafft ditz unnsers <br/>
+<span class="lineNumber">551</span>Edicts, Das wir hiemit, für ayn unzerbrochenlich gesetze <br/>
+<span class="lineNumber">552</span>Zehalten, Erkennen, Das hynfüro<a class="fnNumber" href="#F_143" id="A_143">143</a> keyn Buchtrucker <br/>
+<span class="lineNumber">553</span>oder yemands annder, Er sey wer oder wo Er wölle, in <br/>
+<span class="lineNumber">554</span>dem <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e3474">Hayligen Römischen Reyche</button>, Auch in unsern Erb-<br/>
+<span class="lineNumber">555</span>Khünigreychen, Fürstenthumben und Lannden, kayn <br/>
+<span class="lineNumber">556</span>Bücher noch ander schryfften, in den Etwas begriffen <br/>
+<span class="lineNumber">557</span>wirdet, das den Christenlichen Glauben wenig oder vil <br/>
+<span class="lineNumber">558</span>Anrüret, Zum Ersten druck<a class="fnNumber" href="#F_144" id="A_144">144</a> nit Drucke on wyssen und <br/>
+<span class="lineNumber">559</span>willen des Ordinarien desselben Orts oder seins Substi-<br/>
+<span class="lineNumber">560</span>tuten unnd verordenten,<a class="fnNumber" href="#F_145" id="A_145">145</a> mit zulassung der Facultet <br/>
+<span class="lineNumber">561</span>in der hayligen Geschrifft<a class="fnNumber" href="#F_146" id="A_146">146</a> eyner der negstgelegnen Uni-<br/>
+<span class="lineNumber">562</span>versitet. Aber ander Bücher, Sy seyen in we-<br/>
+<span class="lineNumber">563</span>licher Facultet unnd begreyffen was sy wöllen, die sollen <br/>
+<span class="lineNumber">564</span>mit wyssen unnd willen des Ordinarien, und ausserhalb <br/>
+<span class="lineNumber">565</span>desselben kains wegs, Gedruckt, Verkaufft noch zedru-<br/>
+<span class="lineNumber">566</span>cken oder zuverkauffen unnderstanden<a class="fnNumber" href="#F_147" id="A_147">147</a>, Verschaffet<a class="fnNumber" href="#F_148" id="A_148">148</a> noch <br/>
+<span class="lineNumber">567</span>Gestatet werden in kayn weyse. Ob aber yemands, <br/>
+<span class="lineNumber">568</span>in was Wyrden, Stats<a class="fnNumber" href="#F_149" id="A_149">149</a> oder Wesenns der were, Wider <br/>
+<span class="lineNumber">569</span>dise unnser Christennliche und Kayserliche Maynunng, <br/>
+<span class="lineNumber">570</span>Decret, Statut, Gesetz, Ordination unnd Gebot, die <br/>
+<span class="lineNumber">571</span>auch ganntz unnd unzerstörlich sollen gehalten werden, <br/>
+<span class="lineNumber">572</span>In ainem oder mer vorgeschriben Artickeln, so die Ma-<br/>
+<span class="lineNumber">573</span>teri des <button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e3565">Luthers</button> oder der Druckerey betreffen, In Ei-<br/>
+<span class="lineNumber">574</span>nichen weg,<a class="fnNumber" href="#F_150" id="A_150">150</a> wie Menschen Synn das erdencken möcht, <br/>
+<span class="lineNumber">575</span>Freventlich hanndelt und thete. Uber das wir solichs <br/>
+<span class="lineNumber">576</span>vernichten unnd Krafftlos machen. Wider die selben <br/>
+<span class="lineNumber">577</span>wellen wir, das mit den vorgeschryben Auch den Penen<a class="fnNumber" href="#F_151" id="A_151">151</a>, <br/>
+<span class="lineNumber">578</span>In den Rechten eingeleibt<a class="fnNumber" href="#F_152" id="A_152">152</a>, Unnd nach Formm unnd ge-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00056424_00025/full/full/0/default.jpg" id="p-C3r"> [Blatt: C3<span class="rectoVerso">r</span> ] </button><br/>
+<span class="lineNumber">579</span>stalt des Banns Unnd Kayserlichen Acht unnd Aber-<br/>
+<span class="lineNumber">580</span>acht<a class="fnNumber" href="#F_153" id="A_153">153</a> Gehandelt, Procediert unnd fürgefaren werden <br/>
+<span class="lineNumber">581</span>solle. Darnach wysse sich Menigklich<a class="fnNumber" href="#F_154" id="A_154">154</a> zurichten.
+<span class="lineNumber">582</span>Und damit dem Allem volziehunng beschehe und Glau-<br/>
+<span class="lineNumber">583</span>ben gegeben werde, So haben <button class="entity #karl_v person" data-ref="karl_v" data-type="person" id="d2e3634">Wir</button> disen Brief mit un-<br/>
+<span class="lineNumber">584</span>serm Kayserlichen Innsigel Besigelt. Der gegeben ist <br/>
+<span class="lineNumber">585</span>Zu unnser unnd des hayligen Reichs Stat <button class="entity #worms place" data-ref="worms" data-type="place" id="d2e3646">Wurmbs</button> <br/>
+<span class="lineNumber">586</span>Am Achten tag des Monets May, Nach Christi ge-<br/>
+<span class="lineNumber">587</span>burt Fünffzehenhundert unnd Im Einundzweintzigi-<br/>
+<span class="lineNumber">588</span>sten, Unnserer Reiche des <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e3663">Römischen</button> Im Andern<a class="fnNumber" href="#F_155" id="A_155">155</a> und <br/>
+<span class="lineNumber">589</span>der Andern aller Im Sechsten Jaren.
+<span class="lineNumber">590</span>Ad Mandatum domini <br/>
+<span class="lineNumber">591</span>Imperatoris proprium.

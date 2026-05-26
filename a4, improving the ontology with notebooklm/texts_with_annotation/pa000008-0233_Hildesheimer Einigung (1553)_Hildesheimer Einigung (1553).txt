@@ -1,0 +1,176 @@
+<span class="lineNumber">1</span>Zu wissen: Nachdem unnd alß der durchluchtigester, <br/>
+<span class="lineNumber">2</span>grosmechtigster fursth unnd her, her <button class="entity #christian_iii_daenemark person" data-ref="christian_iii_daenemark" data-type="person" id="d2e667">Christian</button>, <br/>
+<span class="lineNumber">3</span>Zu <button class="entity #daenemark_koenigreich place" data-ref="daenemark_koenigreich" data-type="place" id="d2e672">Dennemarcken</button>, <button class="entity #norwegen_koenigreich place" data-ref="norwegen_koenigreich" data-type="place" id="d2e676">Norwegen</button>, der Wenden <br/>
+<span class="lineNumber">4</span>unnd Gotthen konningk etc., desgelichen de <br/>
+<span class="lineNumber">5</span>durchluchtigen unnd hochgebornen fursthen unnd <br/>
+<span class="lineNumber">6</span>hern, her <button class="entity #johann_schleswig_holstein_hadersleben person" data-ref="johann_schleswig_holstein_hadersleben" data-type="person" id="d2e685">Johanß</button>, <button class="entity #adolf_i_schleswig_holstein_gottorf person" data-ref="adolf_i_schleswig_holstein_gottorf" data-type="person" id="d2e688">Adolf</button> und <button class="entity #friedrich_hildesheim person" data-ref="friedrich_hildesheim" data-type="person" id="d2e692">Friderich</button>, <br/>
+<span class="lineNumber">7</span>erben zu <button class="entity #norwegen_koenigreich place" data-ref="norwegen_koenigreich" data-type="place" id="d2e697">Norwegen</button>, hertzugen zu <button class="entity #schleswig_herzogtum place" data-ref="schleswig_herzogtum" data-type="place" id="d2e700">Sleßwigen</button>, <br/>
+<span class="lineNumber">8</span><button class="entity #holstein_herzogtum place" data-ref="holstein_herzogtum" data-type="place" id="d2e704">Holsten</button>, <button class="entity #stormarn_herzogtum place" data-ref="stormarn_herzogtum" data-type="place" id="d2e708">Sthormern</button> unnd der <button class="entity #dithmarschen_herzogtum place" data-ref="dithmarschen_herzogtum" data-type="place" id="d2e711">Detmerschen</button>, <br/>
+<span class="lineNumber">9</span>Graiffen zu <button class="entity #oldenburg_grafschaft place" data-ref="oldenburg_grafschaft" data-type="place" id="d2e716">Oldenburgk</button> unnd <button class="entity #delmenhorst_grafschaft place" data-ref="delmenhorst_grafschaft" data-type="place" id="d2e719">Delmenhorsth</button>, <br/>
+<span class="lineNumber">10</span>de Erbarn, Ernthvesten unnd achtbarn<a class="fnNumber" href="#F_1" id="A_1">1</a> <br/>
+<span class="lineNumber">11</span><button class="entity #woitslaw_wobeser person" data-ref="woitslaw_wobeser" data-type="person" id="d2e729">Woideslaff Wobisser</button>, <button class="entity #jasper_bockenwolde person" data-ref="jasper_bockenwolde" data-type="person" id="d2e732">Jaspern van Bockwolde</button> <br/>
+<span class="lineNumber">12</span>unnd <button class="entity #molner_lucas person" data-ref="molner_lucas" data-type="person" id="d2e737">Lucas Molner</button> anhero gnedigst unnd <br/>
+<span class="lineNumber">13</span>guedigk abgefertiget<a class="fnNumber" href="#F_2" id="A_2">2</a>, unnder andern ihren beve-<br/>
+<span class="lineNumber">14</span>lich mith eynem erb[aren] rhaide der <button class="entity #hildesheim place" data-ref="hildesheim" data-type="place" id="d2e755">Stad Hildeshem</button> <br/>
+<span class="lineNumber">15</span>richtigk einganck<a class="fnNumber" href="#F_3" id="A_3">3</a> auf die einhellige, ordent-<br/>
+<span class="lineNumber">16</span>liche beschene wael, auch folgende bewilligten <br/>
+<span class="lineNumber">17</span><button class="entity #karl_v person" data-ref="karl_v" data-type="person" id="d2e772">Romische key[serliche] Ma[jestä]t</button> bestetigung unnd vorordenten <br/>
+<span class="lineNumber">18</span>Administration des <button class="entity #hildesheim_hochstift place" data-ref="hildesheim_hochstift" data-type="place" id="d2e781">Stifftz Hildeshem</button>, <button class="entity #friedrich_hildesheim person" data-ref="friedrich_hildesheim" data-type="person" id="d2e785">hertzug Fri-</button><br/>
+<span class="lineNumber">19</span><button class="entity #friedrich_hildesheim person" data-ref="friedrich_hildesheim" data-type="person" id="d2e785">derich</button> zu <button class="entity #holstein_herzogtum place" data-ref="holstein_herzogtum" data-type="place" id="d2e794">Holsten</button> betreffen<a class="fnNumber" href="#F_a" id="A_a">a</a>, nach luidt<a class="fnNumber" href="#F_4" id="A_4">4</a> gegebner <br/>
+<span class="lineNumber">20</span>vorschribunge unnd Inserirtes Mandats der <br/>
+<span class="lineNumber">21</span>huldunge der <button class="entity #hildesheim place" data-ref="hildesheim" data-type="place" id="d2e808">Stad Hildeshem</button> unnd einrumunge <br/>
+<span class="lineNumber">22</span>des <button class="entity #peine_burg place" data-ref="peine_burg" data-type="place" id="d2e813">hußes Peins</button> halben zu behandelen,<a class="fnNumber" href="#F_5" id="A_5">5</a> unnd <br/>
+<span class="lineNumber">23</span>daruf allerleie handlung geplogen<a class="fnNumber" href="#F_6" id="A_6">6</a> und vorge-<br/>
+<span class="lineNumber">24</span>wandth worden, Als Ist letzlich mith aller <br/>
+<span class="lineNumber">25</span>parth genuchafftiger bewilligung<a class="fnNumber" href="#F_7" id="A_7">7</a> unnd geborliger<a class="fnNumber" href="#F_8" id="A_8">8</a> <br/>
+<span class="lineNumber">26</span>gehapten rhaide unnd hinderbedencken<a class="fnNumber" href="#F_9" id="A_9">9</a> folgen-
+<span class="lineNumber">27</span>der abschied<a class="fnNumber" href="#F_10" id="A_10">10</a> getroffen<a class="fnNumber" href="#F_b" id="A_b">b</a>, bewilliget unnd eyngeru-<br/>
+<span class="lineNumber">28</span>medt:
+<span class="lineNumber">29</span><button class="entity #hildesheim place" data-ref="hildesheim" data-type="place" id="d2e879">Hildshem</button> vier unnd zwaintzig Mahn<a class="fnNumber" href="#F_12" id="A_12">12</a>, older-<br/>
+<span class="lineNumber">30</span>man der Meinheid<a class="fnNumber" href="#F_13" id="A_13">13</a>, veir<a class="fnNumber" href="#F_14" id="A_14">14</a> Ampt und vif<a class="fnNumber" href="#F_15" id="A_15">15</a> Gilde,<a class="fnNumber" href="#F_16" id="A_16">16</a> <br/>
+<span class="lineNumber">31</span>Nachdem den ihnen von wegen ihres erwelten <br/>
+<span class="lineNumber">32</span>unnd bestedigten <button class="entity #friedrich_hildesheim person" data-ref="friedrich_hildesheim" data-type="person" id="d2e928">hern</button> von den gesanten ihrer <br/>
+<span class="lineNumber">33</span>creditifft<a class="fnNumber" href="#F_17" id="A_17">17</a> und fulmacht nach endlich zugesagt, <br/>
+<span class="lineNumber">34</span>das ein erb. Raedt unnd de gantz gemeine<a class="fnNumber" href="#F_18" id="A_18">18</a> <br/>
+<span class="lineNumber">35</span>der <button class="entity #hildesheim place" data-ref="hildesheim" data-type="place" id="d2e944">Stad Hildeshem</button> bei dem Rechten, waren <br/>
+<span class="lineNumber">36</span>christligen Gottzwordt unnd heilige Religion, <br/>
+<span class="lineNumber">37</span>wie sihe die jetziger Zeidt dorch vorlehnunge <br/>
+<span class="lineNumber">38</span>Gottz, des Almechtigen, reichlich unnd lauther<a class="fnNumber" href="#F_19" id="A_19">19</a> <br/>
+<span class="lineNumber">39</span>halten, bleiben, darbei erhalten<a class="fnNumber" href="#F_20" id="A_20">20</a> und darbenefen<a class="fnNumber" href="#F_21" id="A_21">21</a> <br/>
+<span class="lineNumber">40</span>bei Rechtte, gnaden, Privilegien, gewonheiten <br/>
+<span class="lineNumber">41</span>unnd oldem<a class="fnNumber" href="#F_22" id="A_22">22</a>, loffligen<a class="fnNumber" href="#F_23" id="A_23">23</a> herkomende<a class="fnNumber" href="#F_24" id="A_24">24</a> geschuttzt <br/>
+<span class="lineNumber">42</span>unnd geschirmed werden. Neben dem, das <br/>
+<span class="lineNumber">43</span>die unabgehandelten Artikel auf die gne-<br/>
+<span class="lineNumber">44</span>digste unnd gnedige Zusage, van wegen <br/>
+<span class="lineNumber">45</span><button class="entity #christian_iii_daenemark person" data-ref="christian_iii_daenemark" data-type="person" id="d2e992">koe[niglicher] Ma[jestä]t</button> unnd <button class="entity #friedrich_hildesheim person" data-ref="friedrich_hildesheim" data-type="person" id="d2e999">f[ürstlichen] g[naden]</button> zu <button class="entity #holstein_herzogtum place" data-ref="holstein_herzogtum" data-type="place" id="d2e1005">Holsten</button> ihnen be-<br/>
+<span class="lineNumber">46</span>schen, auch folgen solle, das daruf gemelter <br/>
+<span class="lineNumber">47</span>Raedt vier vnd zwaintzigk Mahn, Olderman <br/>
+<span class="lineNumber">48</span>der gemeinheid, vier Ampt unnd funft gilde <br/>
+<span class="lineNumber">49</span>unnd der gantzen gemeinen der <button class="entity #hildesheim place" data-ref="hildesheim" data-type="place" id="d2e1022">Stad Hildeshem</button> <br/>
+<span class="lineNumber">50</span>mith wolbedachtem, gehaptem rhaide und eindrechtiger <br/>
+<span class="lineNumber">51</span>bewilligunge, geburlige huldunge und vor-<br/>
+<span class="lineNumber">52</span>wanthnussen hochgemeltem ihrem <button class="entity #friedrich_hildesheim person" data-ref="friedrich_hildesheim" data-type="person" id="d2e1036">hern</button>, wan <button class="entity #friedrich_hildesheim person" data-ref="friedrich_hildesheim" data-type="person" id="d2e1040">s[eine] f[ürstliche] g[naden]</button> <br/>
+<span class="lineNumber">53</span>alhir ankomen unnd die erfurderen<a class="fnNumber" href="#F_25" id="A_25">25</a> wirdt, <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=SKWKDMIFWJPYEJTWFPISPMQR&amp;fileType=view" id="p-Bl. 2r"> [Blatt: Bl. 2<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">54</span>bewilligt unnd endlich zugesagt, Ist In massen <br/>
+<span class="lineNumber">55</span><button class="entity #friedrich_hildesheim person" data-ref="friedrich_hildesheim" data-type="person" id="d2e1059">s[einer] f[ürstlichen] g[naden]</button> sulche huldunge auch crafft dusses breiffs <br/>
+<span class="lineNumber">56</span>zugesagt sein soll unnd Isth.
+<span class="lineNumber">57</span>die merckliche Unkosth und auffgewanthe <br/>
+<span class="lineNumber">58</span>geltz und ihrer selbst egener burger bloidtz<a class="fnNumber" href="#F_26" id="A_26">26</a>, <br/>
+<span class="lineNumber">59</span>leibs unnd lebendes spildunge<a class="fnNumber" href="#F_27" id="A_27">27</a> unnd daer-<br/>
+<span class="lineNumber">60</span>streckunge<a class="fnNumber" href="#F_28" id="A_28">28</a> des <button class="entity #peine_burg place" data-ref="peine_burg" data-type="place" id="d2e1096">huißes Peinhe</button> halben eingefu-<br/>
+<span class="lineNumber">61</span>redt unnd ahngezogen worden, Alß Ist lettzlig <br/>
+<span class="lineNumber">62</span>auch mith aller parthe bewilligung nach laudt <br/>
+<span class="lineNumber">63</span>derowegen uffgerichten Recesßes<a class="fnNumber" href="#F_29" id="A_29">29</a> folgende besched<a class="fnNumber" href="#F_30" id="A_30">30</a> <br/>
+<span class="lineNumber">64</span>getroffen: Alß das kegen alle ahngemasthe <br/>
+<span class="lineNumber">65</span>sproche<a class="fnNumber" href="#F_31" id="A_31">31</a> unnd furderunge des <button class="entity #peine_burg place" data-ref="peine_burg" data-type="place" id="d2e1124">haußes Peinhe</button> hal-<br/>
+<span class="lineNumber">66</span>ben Erstlich alle unnd jede ahngetogene reche-<br/>
+<span class="lineNumber">67</span>nunge, Schattzunge<a class="fnNumber" href="#F_32" id="A_32">32</a>, vorwoisthunge der holtunge<a class="fnNumber" href="#F_33" id="A_33">33</a>, <br/>
+<span class="lineNumber">68</span>wie solche punct und artikel von dem <br/>
+<span class="lineNumber">69</span>hauße herruren nhamen haben muchtten, unnd <br/>
+<span class="lineNumber">70</span>die Artikel von weyland<a class="fnNumber" href="#F_34" id="A_34">34</a> Bischoffen <button class="entity #tetleben_valentin person" data-ref="tetleben_valentin" data-type="person" id="d2e1160">Valentin</button> <br/>
+<span class="lineNumber">71</span>Im Chamergerichten wider die <button class="entity #hildesheim place" data-ref="hildesheim" data-type="place" id="d2e1165">Stad Hildessheim</button> <br/>
+<span class="lineNumber">72</span>In klagen furgebracht worden,<a class="fnNumber" href="#F_35" id="A_35">35</a> gentzlich beige-<br/>
+<span class="lineNumber">73</span>legt sein sollen.
+<span class="lineNumber">74</span>brief<a class="fnNumber" href="#F_37" id="A_37">37</a> mith dem Thumcapittel auff vier-<br/>
+<span class="lineNumber">75</span>thaußent gulden sollen sampt den Zinßen <br/>
+<span class="lineNumber">76</span>zu vntherhandlunge uf geluckselige unsers <br/>
+<span class="lineNumber">77</span>gnedigen <button class="entity #friedrich_hildesheim person" data-ref="friedrich_hildesheim" data-type="person" id="d2e1221">fursten</button> und herren ahnkunfft sthein <br/>
+<span class="lineNumber">78</span>bleiben. Neben dem alle jede irrunge und <br/>
+<span class="lineNumber">79</span>gebreche<a class="fnNumber" href="#F_38" id="A_38">38</a>, ßo zwischen einem erb[aren] Rhaide und <br/>
+<span class="lineNumber">80</span>dem Kloisther <button class="entity #sankt_michael place" data-ref="sankt_michael" data-type="place" id="d2e1236">S. Michel</button> geswebet,<a class="fnNumber" href="#F_39" id="A_39">39</a> sollen <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=JWVTTGBPKGLYLHPJFKUIBWJY&amp;fileType=view" id="p-Bl. 2v"> [Blatt: Bl. 2<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">81</span>auch gentzlich und alle upgehoiffen<a class="fnNumber" href="#F_40" id="A_40">40</a> unnd <br/>
+<span class="lineNumber">82</span>beigelicht sein, furbehalt des Gottzhaußes, <br/>
+<span class="lineNumber">83</span>welch men nenned den heiligen Geist<a class="fnNumber" href="#F_41" id="A_41">41</a>, das <br/>
+<span class="lineNumber">84</span>ehrmeltem Kloister also restituirt<a class="fnNumber" href="#F_42" id="A_42">42</a> werden soll. <br/>
+<span class="lineNumber">85</span>Wie es aber mith den kirchen <button class="entity #sankt_michael place" data-ref="sankt_michael" data-type="place" id="d2e1276">S. Michaelis</button> <br/>
+<span class="lineNumber">86</span>unnd <button class="entity #sankt_lamberti_hildesheim place" data-ref="sankt_lamberti_hildesheim" data-type="place" id="d2e1281">Lamberti</button>, so ermeltem kloster zustehen, <br/>
+<span class="lineNumber">87</span>gehalten werden soll, solchs Ist zu hochgemeltem <br/>
+<span class="lineNumber">88</span>unserm gnedigen <button class="entity #friedrich_hildesheim person" data-ref="friedrich_hildesheim" data-type="person" id="d2e1288">fursten</button> und hern gestaldt<a class="fnNumber" href="#F_43" id="A_43">43</a>, <br/>
+<span class="lineNumber">89</span>das <button class="entity #friedrich_hildesheim person" data-ref="friedrich_hildesheim" data-type="person" id="d2e1297">s[eine] f[ürstlichen] g[naden]</button> darein die billicheid<a class="fnNumber" href="#F_44" id="A_44">44</a> und was <br/>
+<span class="lineNumber">90</span>Christlich, wie es <button class="entity #friedrich_hildesheim person" data-ref="friedrich_hildesheim" data-type="person" id="d2e1310">s[einer] f[+rstlichen] g[naden]</button> darmith gehalten haben <br/>
+<span class="lineNumber">91</span>wolle, beschaffen muge. Gelichsfals Ist auch <br/>
+<span class="lineNumber">92</span>von dem Erwirdigen hern <button class="entity #woeller_ulrich person" data-ref="woeller_ulrich" data-type="person" id="d2e1323">Abt</button> tho <button class="entity #sankt_godehard place" data-ref="sankt_godehard" data-type="place" id="d2e1326">S. Godhardt</button> <br/>
+<span class="lineNumber">93</span>bewilligt worden, das alle irrunge unnd <br/>
+<span class="lineNumber">94</span>gebreche<a class="fnNumber" href="#F_45" id="A_45">45</a> zwischen seiner w. und einem erb. <br/>
+<span class="lineNumber">95</span>Rhaide sollen cassird<a class="fnNumber" href="#F_46" id="A_46">46</a> und auffgehoben sein,<a class="fnNumber" href="#F_47" id="A_47">47</a> <br/>
+<span class="lineNumber">96</span>fhurbehalt der Cloak, der Mulen gerechticheid<a class="fnNumber" href="#F_48" id="A_48">48</a>, <br/>
+<span class="lineNumber">97</span>wasser kunsth<a class="fnNumber" href="#F_49" id="A_49">49</a>, Juris dominii des wals, <br/>
+<span class="lineNumber">98</span>der abnutzunge des graßes unnd das der <br/>
+<span class="lineNumber">99</span>wall von dem Slaiffhuiße<a class="fnNumber" href="#F_50" id="A_50">50</a>, so weid ein <br/>
+<span class="lineNumber">100</span>wage dahin furhen kahn, abgeschuttet werden. <br/>
+<span class="lineNumber">101</span>De Religion aber, wie es mith den Stifften <br/>
+<span class="lineNumber">102</span>zu halten, soll auff vorordung ehrgemeltes <br/>
+<span class="lineNumber">103</span>thokunfftigen <button class="entity #friedrich_hildesheim person" data-ref="friedrich_hildesheim" data-type="person" id="d2e1377">Bischoffs</button> unnd hern sthen <br/>
+<span class="lineNumber">104</span>bleiben. Im gelichen hat auch der herr <br/>
+<span class="lineNumber">105</span>prior zur <button class="entity #suelte_hildesheim place" data-ref="suelte_hildesheim" data-type="place" id="d2e1385">Sulthen</button> aller unnd jeder ahn-<br/>
+<span class="lineNumber">106</span>spruchs<a class="fnNumber" href="#F_51" id="A_51">51</a> unnd furderunge von thetlich nider-<br/>
+<span class="lineNumber">107</span>reisßunge des Klosthers, spoliation<a class="fnNumber" href="#F_52" id="A_52">52</a> und ander <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=WWIRQDWZPGXFMOWEUPIXXXRI&amp;fileType=view" id="p-Bl. 3r"> [Blatt: Bl. 3<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">108</span>ander sache halben herrurende<a class="fnNumber" href="#F_53" id="A_53">53</a> gentzlich unnd <br/>
+<span class="lineNumber">109</span>gaer begeben<a class="fnNumber" href="#F_54" id="A_54">54</a>, wie dahn auch Im geleich der <br/>
+<span class="lineNumber">110</span>Carthußer<a class="fnNumber" href="#F_55" id="A_55">55</a> fhur der <button class="entity #hildesheim place" data-ref="hildesheim" data-type="place" id="d2e1448">Stad Hildesham</button> alles nach <br/>
+<span class="lineNumber">111</span>laudt unnd eynholdt<a class="fnNumber" href="#F_56" id="A_56">56</a> mith gedachten Stifften uff-<br/>
+<span class="lineNumber">112</span>gerichem vortrage;<a class="fnNumber" href="#F_57" id="A_57">57</a> j[e]doch haben alle und je <br/>
+<span class="lineNumber">113</span>vorgemelten<a class="fnNumber" href="#F_58" id="A_58">58</a> Stiffen unnd Kloister sich cum solenni <br/>
+<span class="lineNumber">114</span>protestatione<a class="fnNumber" href="#F_59" id="A_59">59</a> furbehalten, wie ihnen auch von den <br/>
+<span class="lineNumber">115</span>gesanten ahnstaed<a class="fnNumber" href="#F_60" id="A_60">60</a> unnd von wegen des zu-<br/>
+<span class="lineNumber">116</span>kunfftigen <button class="entity #friedrich_hildesheim person" data-ref="friedrich_hildesheim" data-type="person" id="d2e1504">herrn</button> unnd einem erb. Raedt endth-<br/>
+<span class="lineNumber">117</span>lich bewilligt unnd zugesagt Ist, das ein <br/>
+<span class="lineNumber">118</span>isliger<a class="fnNumber" href="#F_61" id="A_61">61</a>, furbemelter<a class="fnNumber" href="#F_62" id="A_62">62</a> Stifft unnd Klosther <br/>
+<span class="lineNumber">119</span>samptlich unnd in ßunderheidt hinfuro nhu <br/>
+<span class="lineNumber">120</span>bei seinen althen, wolhergebrachten habenden und <br/>
+<span class="lineNumber">121</span>geburenden Rechten unnd gerechticheiden <br/>
+<span class="lineNumber">122</span>unvorhindert reulich<a class="fnNumber" href="#F_63" id="A_63">63</a> pleiben, beschuttzet <br/>
+<span class="lineNumber">123</span>unnd beschirmedt, auch mith nichten daruber <br/>
+<span class="lineNumber">124</span>beswerd oder belestiget werden sollen, <br/>
+<span class="lineNumber">125</span>daruf auch ein erb. Raedt einem Isligen<a class="fnNumber" href="#F_64" id="A_64">64</a> <br/>
+<span class="lineNumber">126</span>Stifft kegen Uberandtwordung der schrifft-<br/>
+<span class="lineNumber">127</span>ligen, vorsigelten erlassunge<a class="fnNumber" href="#F_65" id="A_65">65</a> geburlich Rever-<br/>
+<span class="lineNumber">128</span>salbrief, das den also beschein<a class="fnNumber" href="#F_66" id="A_66">66</a> soll, her-<br/>
+<span class="lineNumber">129</span>außer geben sollen.
+<span class="lineNumber">130</span>bemelten sachen, irrung, widerwerticheiten, <br/>
+<span class="lineNumber">131</span>so sich dieße zeithhero biß ahn dieße <br/>
+<span class="lineNumber">132</span>sthunde zwischen der clerisey und Stifften <br/>
+<span class="lineNumber">133</span>begeben unnd zugetragen, wie die nhamen <br/>
+<span class="lineNumber">134</span>haben mogen, gentzlich auffgehoben, abgeschaffet, <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=PFRSFLTLILNGVKWMROBRQTYN&amp;fileType=view" id="p-Bl. 3v"> [Blatt: Bl. 3<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">135</span>getodt unnd abeßin<a class="fnNumber" href="#F_67" id="A_67">67</a> unnd pleiben, unwidee-<br/>
+<span class="lineNumber">136</span>ruplich.
+<span class="lineNumber">137</span>punct wolle ein erb. Raedt vier unnd <br/>
+<span class="lineNumber">138</span>zwentzigk Mahn, Olderman der gemeinheidt, <br/>
+<span class="lineNumber">139</span>vier Ampt unnd vif gilde unnd gantze <br/>
+<span class="lineNumber">140</span>gemeine der <button class="entity #hildesheim place" data-ref="hildesheim" data-type="place" id="d2e1622">Stad Hildeshem</button>, wie auch endth-<br/>
+<span class="lineNumber">141</span>lich hirmith bewilligtt unnd zugesagtt Isth, <br/>
+<span class="lineNumber">142</span>das <button class="entity #peine_burg place" data-ref="peine_burg" data-type="place" id="d2e1635">hauß Peine</button>, ahne einige widerendth-<br/>
+<span class="lineNumber">143</span>gelthnisse, dem hochgemelten <button class="entity #friedrich_hildesheim person" data-ref="friedrich_hildesheim" data-type="person" id="d2e1645">fursthen</button> zu-<br/>
+<span class="lineNumber">144</span>stellen unnd einrhumen, wan s[ein] f[ürstliche] g[naden] ahnko-<br/>
+<span class="lineNumber">145</span>men werden, In massen ein erb[arer] Raedt <br/>
+<span class="lineNumber">146</span>sich solchs hirmit auch vorplichtet halten <br/>
+<span class="lineNumber">147</span>unnd haben will. J[e]doch, das hochgemelter <br/>
+<span class="lineNumber">148</span><button class="entity #friedrich_hildesheim person" data-ref="friedrich_hildesheim" data-type="person" id="d2e1677">fursthe</button> die vorschreibunge, so zwischen <br/>
+<span class="lineNumber">149</span>einem erb[aren] Rhaide der <button class="entity #hildesheim place" data-ref="hildesheim" data-type="place" id="d2e1684">Stadt Hildesheme</button> und <br/>
+<span class="lineNumber">150</span>den von Obarge<a class="fnNumber" href="#F_68" id="A_68">68</a> der Resth, alß zehentausent <br/>
+<span class="lineNumber">151</span>gulden halben, In massen unnd gestaldt die-<br/>
+<span class="lineNumber">152</span>selben lauthet, auf unnd ahn sick<a class="fnNumber" href="#F_69" id="A_69">69</a> nhemen <br/>
+<span class="lineNumber">153</span>unnd die <button class="entity #hildesheim place" data-ref="hildesheim" data-type="place" id="d2e1725">Stad Hildenshem</button> der von Obarge <br/>
+<span class="lineNumber">154</span>ansprache<a class="fnNumber" href="#F_70" id="A_70">70</a> halben, so von den Zehentausent <br/>
+<span class="lineNumber">155</span>gulden herruren, gentzlichen vortrede<a class="fnNumber" href="#F_71" id="A_71">71</a>, be-<br/>
+<span class="lineNumber">156</span>nhemen<a class="fnNumber" href="#F_72" id="A_72">72</a> unnd schadeloiß halthe, das die <br/>
+<span class="lineNumber">157</span>gesanten ahn hogest unnd hochgedachte <button class="entity #karl_v person" data-ref="karl_v" data-type="person" id="d2e1750">kei[serliche] Ma[jestä]t</button> <br/>
+<span class="lineNumber">158</span>unnd <button class="entity #friedrich_holstein person" data-ref="friedrich_holstein" data-type="person" id="d2e1759">f[ürstlichen] g[naden]</button> zu gelangen unnd fhur ein-<br/>
+<span class="lineNumber">159</span>ruminge des <button class="entity #peine_burg place" data-ref="peine_burg" data-type="place" id="d2e1773">haußes</button> endliche ercleringe<a class="fnNumber" href="#F_c" id="A_c">c</a> zu beschaffende <br/>
+<span class="lineNumber">160</span>zugesagt, auch zu der zeid, wan <button class="entity #friedrich_hildesheim person" data-ref="friedrich_hildesheim" data-type="person" id="d2e1781">s[seine] f[ürstlichen] g[naden]</button> <br/>
+<span class="lineNumber">161</span>alhir gelucklich ahnlanget, des vorraidtzs des <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=LNQYPZOEPTDNBALOHJOGRCFO&amp;fileType=view" id="p-Bl. 4r"> [Blatt: Bl. 4<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">162</span>korns, kuie<a class="fnNumber" href="#F_73" id="A_73">73</a> unnd varenderhaiffe<a class="fnNumber" href="#F_74" id="A_74">74</a> halben zimlig <br/>
+<span class="lineNumber">163</span>landßgebruicklich abtrag<a class="fnNumber" href="#F_75" id="A_75">75</a> tuin lassen. J[e]doch, was <br/>
+<span class="lineNumber">164</span>von geschuitze von althers auf dem <button class="entity #peine_burg place" data-ref="peine_burg" data-type="place" id="d2e1810">huße</button> gewe-<br/>
+<span class="lineNumber">165</span>sen, von dubbelden haiken<a class="fnNumber" href="#F_76" id="A_76">76</a> und andrem, auch <br/>
+<span class="lineNumber">166</span>was sunsth zum <button class="entity #peine_burg place" data-ref="peine_burg" data-type="place" id="d2e1825">huiße</button> gehorich, soll unvor-<br/>
+<span class="lineNumber">167</span>rucket dabei pleiben.
+<span class="lineNumber">168</span>unnd stheter, vesther<a class="fnNumber" href="#F_77" id="A_77">77</a> allerzeidtz haltunge haben <br/>
+<span class="lineNumber">169</span>die uffgemelt<a class="fnNumber" href="#F_78" id="A_78">78</a> gesanten ihre ahngeborne pitzir<a class="fnNumber" href="#F_79" id="A_79">79</a> <br/>
+<span class="lineNumber">170</span>unnd ein erb[arer] Raedt gelichsfals der <button class="entity #hildesheim place" data-ref="hildesheim" data-type="place" id="d2e1856">Stad</button> <br/>
+<span class="lineNumber">171</span>Secredt<a class="fnNumber" href="#F_80" id="A_80">80</a> wissendlich hirunden gedruckt, und <br/>
+<span class="lineNumber">172</span>sein solcher vorschreibunge gelichludes<a class="fnNumber" href="#F_81" id="A_81">81</a> zwe <br/>
+<span class="lineNumber">173</span>gemaket, welcher ein die gesanten, de <br/>
+<span class="lineNumber">174</span>ander ein erb. Raedt ahn sich genhomen. <br/>
+<span class="lineNumber">175</span>Nach Christi geburd thausent funffhundert dre und <br/>
+<span class="lineNumber">176</span>funffzig jar, Mitwochen nach Viti<a class="fnNumber" href="#F_82" id="A_82">82</a>.

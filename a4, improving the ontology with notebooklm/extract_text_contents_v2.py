@@ -1,4 +1,4 @@
-import requests, os
+import requests, os, re
 from bs4 import BeautifulSoup
 
 
@@ -35,39 +35,40 @@ def extract_text(href):
     
     text_lines = []
     line_spans = soup.find_all("span", class_="lineNumber")
-    for i in line_spans:
-        text_fragments = []
-        line_nr = i.get_text(strip=True)
-        for sibling in i.next_siblings:
-            if isinstance(sibling, type(i)) and sibling.name == "span" and "lineNumber" in sibling.get("class", []):
+    
+    for i, span in enumerate(line_spans):
+        text_fragments = [str(span)]
+        
+        sibling = span.next_sibling
+        while sibling:
+            if hasattr(sibling, 'name') and sibling.name == "span" and "lineNumber" in sibling.get("class", []):
                 break
-            if sibling.name == "br":
-                text_fragments.append(" ")
-            else:
-                raw = sibling.get_text(separator=" ", strip=True)
-                text_fragments.append(" ".join(raw.split()))
-        line_text = " ".join(text_fragments)
-        line_text = " ".join(line_text.split())
-        text_lines.append(f"{line_nr}: {line_text}")
+            text_fragments.append(str(sibling))
+            sibling = sibling.next_sibling
+        
+        line_text = "".join(text_fragments)
+        line_text = re.sub(r'\s+', ' ', line_text).strip()
+        text_lines.append(line_text)
+    
     return text_lines
 
 
-def save_to_csv(titel, text, href, text_lines):
-    path = "hege_hiwi/a4/texts"
+def save_to_txt(titel, text, href, text_lines):
+    path = "a4, find ontology/texts_with_annotation"
     os.makedirs(path, exist_ok=True)
-    with open(f"hege_hiwi/a4/texts/{href}_{titel}_{text}.txt", mode="w", encoding="utf-8") as txt_file:
+    with open(f"a4, find ontology/texts_with_annotation/{href}_{titel}_{text}.txt", mode="w", encoding="utf-8") as txt_file:
         txt_file.write("\n".join(text_lines))    
 
 
 if __name__ == "__main__":
-    modules_to_extract = ["pa000322"] #"pa000322", "pa000321", 
+    modules_to_extract = ["pa000323"]#["pa000321", "pa000322", "pa000323"]
     text_data = []
     for i in modules_to_extract:
         module_data = fetch_eured_modul_ids(i)
         text_data.extend(module_data)
     for i in text_data:
         text_lines = extract_text(i[2])
-        save_to_csv(i[0], i[1], i[2], text_lines)
+        save_to_txt(i[0], i[1], i[2], text_lines)
 
 
     

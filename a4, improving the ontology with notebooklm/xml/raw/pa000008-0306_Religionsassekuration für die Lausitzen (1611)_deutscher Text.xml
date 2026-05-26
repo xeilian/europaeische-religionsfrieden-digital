@@ -1,0 +1,415 @@
+<?xml-model href="../../../customization/schema_quellentexte/religionsfrieden-quellentexte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa000008-0306">
+        
+        
+        
+        <teiHeader>      
+                <fileDesc>         
+                        <titleStmt>
+                                <title level="a">Lausitzische Religionsassekuration (5. September 1611)</title>
+                                <title level="s">Europäische Religionsfrieden Digital</title>
+                                 
+                                
+                                <editor role="http://id.loc.gov/vocabulary/relators/edt" ref="https://orcid.org/0000-0002-1696-925X">
+                    <persName>Corinna Ehlers</persName>
+                </editor>
+                                <respStmt>
+                    <resp ref="http://id.loc.gov/vocabulary/relators/mrk">Mitarbeit</resp>
+                    <persName>Kevin Wunsch</persName>
+                    <persName>Silke Kalmer</persName>
+                </respStmt>           
+                        </titleStmt>         
+                        <editionStmt>
+                                <edition>Digitale Edition gemäß <ref target="http://www.tei-c.org/">TEI P5</ref>
+                </edition>
+                                <funder>Akademie der Wissenschaften und der Literatur Mainz</funder>
+                <principal>Unter der Leitung von Irene Dingel und Thomas Stäcker</principal>
+                        </editionStmt>         
+                        <publicationStmt>
+                                <publisher>
+                                        <orgName ref="http://www.isni.org/0000000119314040">Leibniz-Institut für Europäische Geschichte Mainz</orgName>
+                                </publisher>           
+                                <distributor>
+                                        <orgName ref="http://www.isni.org/0000000110101946">Universitäts- und Landesbibliothek Darmstadt</orgName>
+                                        <idno type="ISIL">http://lobid.org/organisation/DE-17</idno>
+                                </distributor>
+                                <date when="2013-10-17" type="issued">2013</date>
+                                <availability>
+                                        <licence target="https://creativecommons.org/licenses/by/4.0/">
+                                                <p xml:lang="en">This file is licensed under the terms of the Creative Commons License CC-BY 4.0 (Attribution 4.0 International)</p>
+                                        </licence>
+                                </availability>
+                        </publicationStmt>        
+                        <sourceDesc>
+                <p>Textgrundlage s. ggf. Einleitung.</p>
+            </sourceDesc>
+                </fileDesc>      
+                <encodingDesc>         
+                        <projectDesc>
+                                <p>
+                    <ref target="https://eured.de">Europäische Religionsfrieden Digital</ref>
+                </p>
+                        </projectDesc>
+                        <classDecl>
+                                <taxonomy xml:id="marcrelator">
+                                        <bibl>
+                        <idno type="URI">http://id.loc.gov/vocabulary/relators/</idno> MARC Code List for Relators </bibl>
+                                </taxonomy>
+                        </classDecl>         
+                </encodingDesc>      
+                <profileDesc>         
+                        <langUsage>
+                                <language ident="deu">Deutsch</language>
+                        </langUsage>         
+                </profileDesc>      
+                <!--<revisionDesc><change/></revisionDesc>-->   
+        </teiHeader>
+    <standOff>
+        <listPerson>
+            <person xml:id="rudolf_ii">
+                    <persName ref="http://d-nb.info/gnd/118603701">
+                        <forename>Rudolf II.</forename>
+                        <roleName>Kaiser</roleName>
+                    </persName>
+                    <note>Kaiser des <rs type="place" ref="#heiliges_roemisches_reich">Heiligen
+                            Römischen Reichs</rs>.</note>
+                </person>
+            <person xml:id="matthias_oesterreich">
+                    <persName ref="http://d-nb.info/gnd/119400839">
+                        <forename>Matthias</forename>
+                        <roleName>Kaiser</roleName>
+                    </persName>
+                    <note>Kaiser des <rs type="place" ref="#heiliges_roemisches_reich">Heiligen
+                            Römischen Reichs</rs>, Erzherzog von <rs type="place" ref="#oesterreich_erzherzogtum">Österreich</rs>, Generalstatthalter der
+                            <rs type="place" ref="#niederlande">Niederlande</rs>.</note>
+                </person>
+            <person xml:id="ferdinand_i">
+                    <persName ref="http://d-nb.info/gnd/118532502">
+                        <forename>Ferdinand I.</forename>
+                        <roleName>Kaiser</roleName>
+                    </persName>
+                    <note>Kaiser des <rs type="place" ref="#heiliges_roemisches_reich">Heiligen
+                            Römischen Reichs</rs>
+                </note>
+                </person>
+            <person xml:id="maximilian_ii">
+                    <persName ref="http://d-nb.info/gnd/11857938X">
+                        <forename>Maximilian II.</forename>
+                        <roleName>Kaiser</roleName>
+                    </persName>
+                    <note>Kaiser des <rs type="place" ref="#heiliges_roemisches_reich">Heiligen
+                            Römischen Reichs</rs>.</note>
+                </person>
+            <person xml:id="zipser_nikolaus">
+                    <persName ref="http://d-nb.info/gnd/143396420">
+                        <forename>Nikolaus</forename>
+                        <surname>Zipser</surname>
+                    </persName>
+                    <note>Buchdrucker in <rs type="place" ref="#bautzen">Bautzen</rs>
+                </note>
+                </person>
+            <person xml:id="plateiss_johann">
+                    <persName>
+                        <forename>Johann</forename>
+                        <surname>Plateiß</surname>
+                    </persName>
+                    <note>Sekretär der Kaiser <rs type="person" ref="#rudolf_ii">Rudolf II.</rs> und <rs type="person" ref="#matthias_oesterreich">Matthias</rs>
+                </note>
+                </person>
+        </listPerson>
+        <listPlace>
+            <place xml:id="heiliges_roemisches_reich">
+                    <placeName ref="http://d-nb.info/gnd/2035457-5">Heiliges Römisches Reich
+                        Deutscher Nation</placeName>
+                    <!-- dnb link geprüft, BM, 18.1.2021 -->
+                </place>
+            <place xml:id="oesterreich_erzherzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4075601-4">Österreich,
+                        Erzherzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="niederlande">
+                    <!-- wird in Antwerpen verwendet, evtl. durch einen der differenzierteren tags ersetzen? -->
+                    <placeName>Niederlande</placeName>
+                </place>
+            <place xml:id="bautzen">
+                    <placeName ref="http://www.geonames.org/2951881/bautzen.html">Bautzen
+                        (Budissin)</placeName>
+                </place>
+            <place xml:id="oberlausitz_markgrafschaft">
+                    <placeName ref="http://d-nb.info/gnd/16135736-2">Oberlausitz,
+                        Markgrafschaft</placeName>
+                    <!-- dnb link geprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="niederlausitz_markgrafschaft">
+                    <placeName ref="http://d-nb.info/gnd/4042205-7">Niederlausitz,
+                        Markgrafschaft</placeName>
+                    <!-- dnb link geprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="ungarn_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/4078541-5">Ungarn, Königreich</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="boehmen_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/63739-7">Böhmen, Königreich</placeName>
+                    <!-- dnb link geprüft, BM, 14.1.2021 -->
+                </place>
+            <place xml:id="dalmatien">
+                    <placeName>Dalmatien, Region</placeName>
+                </place>
+            <place xml:id="kroatien_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/4073841-3">Kroatien-Slawonien,
+                        Königreich</placeName>
+                    <!-- dnb Link überprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="burgund_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4009139-9">Burgund, Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 14.1.2021 -->
+                </place>
+            <place xml:id="maehren_markgrafschaft">
+                    <placeName ref="http://d-nb.info/gnd/4074432-2">Mähren,
+                        Markgrafschaft</placeName>
+                    <!-- dnb link geprüft und aktualisiert, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="schlesien_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/24372-3">Ober- und Niederschlesien,
+                        Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="steiermark_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4057092-7">Steiermark,
+                        Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="kaernten_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4029175-3">Kärnten, Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="krain_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4032741-3">Krain, Herzogtum</placeName>
+                    <!-- dnb Link geprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="wuerttemberg_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4067029-6">Württemberg,
+                        Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 21.1.2021 -->
+                </place>
+            <place xml:id="lausitz">
+                    <placeName ref="http://d-nb.info/gnd/4034753-9">Lausitz</placeName>
+                    <note>bestand im 18. Jh. aus den Markgrafschaften <rs type="place" ref="#oberlausitz_markgrafschaft">Oberlausitz</rs> und <rs type="place" ref="#niederlausitz_markgrafschaft">Niederlausitz</rs>
+                </note>
+                    <!-- dnb link geprüft, BM, 19.1.2021, Erklärung ist notwendig -->
+                </place>
+            <place xml:id="prag">
+                    <placeName ref="http://www.geonames.org/3067696/prague.html">Prag,
+                        Stadt</placeName>
+                </place>
+        </listPlace>
+    </standOff>
+
+        <facsimile>
+                <surface xml:id="f003">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/warhabetv_377055522/warhabetv_377055522_tif/jpegs/00000003.tif.large.jpg"/>
+        </surface>
+                <surface xml:id="f004">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/warhabetv_377055522/warhabetv_377055522_tif/jpegs/00000004.tif.large.jpg"/>
+        </surface>
+                <surface xml:id="f005">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/warhabetv_377055522/warhabetv_377055522_tif/jpegs/00000058.tif.large.jpg"/>
+        </surface>
+                <surface xml:id="f006">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/warhabetv_377055522/warhabetv_377055522_tif/jpegs/00000059.tif.large.jpg"/>
+        </surface>
+                <surface xml:id="f007">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/warhabetv_377055522/warhabetv_377055522_tif/jpegs/00000060.tif.large.jpg"/>
+        </surface>
+                <surface xml:id="f008">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/warhabetv_377055522/warhabetv_377055522_tif/jpegs/00000061.tif.large.jpg"/>
+        </surface>
+                <surface xml:id="f009">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/warhabetv_377055522/warhabetv_377055522_tif/jpegs/00000062.tif.large.jpg"/>
+        </surface> 
+  </facsimile>
+<text>
+<body> 
+<div>
+<head>
+<lb/>
+                    <pb facs="#f003" type="seite" n="1"/>Warhafftiger Abdruck
+<lb/>Etzlicher von <w>Kay
+<pc>-</pc>
+                        <lb/>ser</w> <rs type="person" ref="#ferdinand_i">Ferdinando</rs>, <rs type="person" ref="#maximilian_ii">Maximiliano</rs>, <rs type="person" ref="#rudolf_ii">Rudolpho</rs>
+<lb/>(Hochlöblichster seligster gedechtnüs) Und der jetzo
+<lb/>Regierenden Römischen Kayserlichen, auch zu <rs type="place" ref="#ungarn_koenigreich">
+                        <w>Hun
+<pc>-</pc>
+                            <lb/>gern</w>
+                    </rs> und <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs> Königlichen <rs type="person" ref="#matthias_oesterreich">Majestät</rs>, Unserm
+<lb/>Allergnedigsten Herrn, den Herrn Landständen  und
+<lb/>Ständen des Marggraffthumbs <rs type="place" ref="#oberlausitz_markgrafschaft">Oberlausitz</rs> Aller
+<lb/>gnedigst verliehenen Privilegien, ertheilten <w>Confir
+<pc>-</pc>
+                        <lb/>mationen</w> und Decreten, derer verzeichnüs im
+<lb/>nachfolgenden blat zubefinden.</head>
+<p>
+<lb/>1615.<!-- Emblem -->
+                </p>
+<p>
+<lb/>Gedruckt<note type="crit_app">Korrigiert aus: Gedruck.</note> zu <rs type="place" ref="#bautzen">Budissin</rs> durch <rs type="person" ref="#zipser_nikolaus">Nicolaum Zipsern</rs>.</p>
+<p>
+<lb/>
+                    <pb facs="#f004" type="seite" n="2"/>
+                </p>
+            </div>
+<div>
+<p>
+<lb/>[...]<note type="annotation">Das Inhaltsverzeichnis (S. 3-4) und der Text der anderen in der Sammlung enthaltenen Privilegien (S. 5-55) sind in der vorliegenden Edition nicht aufgenommen.</note>
+                </p>
+</div>
+
+<div>
+<head>
+<lb/>
+                    <pb facs="#f005" type="seite" n="56"/>IX.
+<lb/>Kaysers <rs type="person" ref="#matthias_oesterreich">Matthiae</rs>
+<lb/>Assecuration uber das exercitium
+<lb/>Religionis,
+<lb/>de dato den 5. Septembris,
+<lb/>Anno 1611.</head>
+<p>
+<lb/>Wir <rs type="person" ref="#matthias_oesterreich">Matthias der
+<lb/>Ander</rs> von Gottes gnaden zu
+<lb/>
+                    <rs type="place" ref="#ungarn_koenigreich">Hungarn</rs>, <rs type="place" ref="#boehmen_koenigreich">Böheimb</rs>, <rs type="place" ref="#dalmatien">
+                        <w>Dalma
+<pc>-</pc>
+                            <lb/>tien</w>
+                    </rs>, <rs type="place" ref="#kroatien_koenigreich">Croatien</rs> König etc., <w>Ertz
+<pc>-</pc>
+                        <lb/>hertzog</w> zu <rs type="place" ref="#oesterreich_erzherzogtum">Osterreich</rs>, Hertzog
+<lb/>zu <rs type="place" ref="#burgund_herzogtum">Burgundi</rs>, Marggraff zu
+<lb/>
+                    <rs type="place" ref="#maehren_markgrafschaft">Mähren</rs>, inn <rs type="place" ref="#schlesien_herzogtum">Schlesien</rs>, zu
+<lb/>
+                    <rs type="place" ref="#steiermark_herzogtum">Steyer</rs>, <rs type="place" ref="#kaernten_herzogtum">Cärnten</rs>, <rs type="place" ref="#krain_herzogtum">Krain</rs> und
+<lb/>
+                    <rs type="place" ref="#wuerttemberg_herzogtum">Württembergk</rs> Hertzog, Marggraff zu <rs type="place" ref="#lausitz">Lausitz</rs> etc.
+<lb/>Bekennen offentlich mit diesem Brieff und thun kund
+<lb/>aller Männiglich vor Uns unsere Erben und <w>Nach
+<pc>-</pc>
+                        <lb/>kommende</w> Könige zu <rs type="place" ref="#boehmen_koenigreich">Böheimb</rs>, als wir Uns gegen
+<lb/>dem Wolgebornen, Gestrengen, Ehrenvhesten und
+ 
+        <lb/>
+                    <pb facs="#f006" n="57"/>Ersamen N.N. unserer getrewen Stände <!-- Landadel und Prälaten bildeten den einen Stand, den anderen der Oberlausitzer Städtebund (http://d-nb.info/gnd/2169329-8) --> des <w>Marg
+<pc>-</pc>
+                        <lb/>graffthumbs</w> <rs type="place" ref="#oberlausitz_markgrafschaft">Oberlausitz</rs> zu Jüngst auffn <rs type="place" ref="#prag">Prager</rs>
+<lb/>Schloß gehaltenen General Landtag damahls <w>ge
+<pc>-</pc>
+                        <lb/>volmechtigten</w> Abgesandten, sub dato den Zwey vnd
+<lb/>Zwantzigsten Tag des Monats May dieses <w>ablauf
+<pc>-</pc>
+                        <lb/>fenden</w> Sechzehenhundert und Eylfften Jahres, <w>un
+<pc>-</pc>
+                        <lb/>ter</w> andern Vorreversiert, ihnen den Ständen, ehe und
+<lb/>zuvorn die Uns im Landt die schuldige Pflicht leisten
+<lb/>würden, wegen des Exercitii Religionis gnugsame
+<lb/>assecuration zuertheilen.</p>
+<p>
+<lb/>Das Wir demnach solchen genedigst <w>nachkom
+<pc>-</pc>
+                        <lb/>men</w> und Sie, die Stände, hierüber vorsichern wollen,
+<lb/>thun auch solches in krafft diß Brieffes, Meinen und
+<lb/>Wollen, daß sie inhalts angezogenen Reverses (der
+<lb/>dann von Uns hiermit confirmiret sein soll) bey dem
+<lb/>freyen exercitio Religionis Augspurgischer <w>Confes
+<pc>-</pc>
+                        <lb/>sion</w>, allermassen sie dessen bey Zeiten vnserer <w>hochge
+<pc>-</pc>
+                        <lb/>ehrten</w> Herren Vorfahren weylandt Kayser <rs type="person" ref="#ferdinand_i">
+                        <w>Ferdi
+<pc>-</pc>
+                            <lb/>nandi</w>
+                    </rs> und <rs type="person" ref="#maximilian_ii">Maxilimiliani</rs> hochlöblicher <w>ange
+<pc>-</pc>
+                        <lb/>dencken</w>, auch der jetzigen <rs type="person" ref="#matthias_oesterreich">Kayserlichen Majestät</rs> <w>Zei
+<pc>-</pc>
+                        <lb/>ten</w>, in Kirchen und Schulen in posses und übunge <w>ge
+<pc>-</pc>
+                        <lb/>wesen</w>, jetzo noch sein, Und wie es bey eintrettung <w>un
+<pc>-</pc>
+                        <lb/>ser</w> Königlichen Regierunge befunden, von <w>Männig
+<pc>-</pc>
+                        <lb/>lichen</w> ungehindert, ruhig und unturbiret gelassen,
+ 
+<lb/>
+                    <pb facs="#f007" type="seite" n="58"/>auch von <rs type="person" ref="#matthias_oesterreich">Uns</rs> darüber geschützet und gehandthabet
+<lb/>werden; Jedoch das ingleichen herentgegen den <w>Ca
+<pc>-</pc>
+                        <lb/>tholischen</w>, Geistlichen und Weltlichen, von <w>nieman
+<pc>-</pc>
+                        <lb/>desten</w> an ihren Gotteßdienst von alters hero <w>haben
+<pc>-</pc>
+                        <lb/>den</w> Rechten und Gerechtigkeiten, auch Geistlichen
+<lb/>Intraden, keine hinderung, Eintrag oder verkürtzung
+<lb/>beschehen, sondern jedes theil bey dem jenigen, wessen
+<lb/>es befuget, hinfüro Standthafft vorbleiben solle,
+<lb/>alles getrewlich und ungefehrlich.</p>
+<p>
+<lb/>Und gebieten hierauff jetzo und künfftigen <w>un
+<pc>-</pc>
+                        <lb/>sern</w> Landtvoigten, Hauptleuten, Pflegern, <w>Vor
+<pc>-</pc>
+                        <lb/>wesern</w> und Räthen in Städten des <w>Marggraff
+<pc>-</pc>
+                        <lb/>thumbs</w> <rs type="place" ref="#oberlausitz_markgrafschaft">Oberlausitz</rs> und sonsten allen unsern <w>Un
+<pc>-</pc>
+                        <lb/>terthanen</w> und Getreuen, wes Würden, Standes
+<lb/>oder Wesens die sein, daß sie mehrgemelte unsere <w>ge
+<pc>-</pc>
+                        <lb/>horsame</w> Stände erwehntes Marggraffthumbs
+<lb/>
+                    <rs type="place" ref="#oberlausitz_markgrafschaft">Oberlausitz</rs> uber obgedachten freyen exercitio <w>Re
+<pc>-</pc>
+                        <lb/>ligionis</w> Augspurgischer Confession schützen und
+<lb/>handthaben, darwider Niemandesten in keinerley <w>we
+<pc>-</pc>
+                        <lb/>ge</w> zuthun gestatten, bey vormeidung unserer schweren
+<lb/>Straff und Ungnad.</p>
+<p>
+<lb/>Ob auch wider diese unsere Assecuration in <w>wa
+<pc>-</pc>
+                        <lb/>serley</w> weise was vorgenommen würde, soll doch <w>das
+<pc>-</pc>
+                        <lb/>selbe</w> alles nichtig und unkräfftig sein. Solches <w>mei
+ 
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="#f008" type="seite" n="59"/>nen</w> <rs type="person" ref="#matthias_oesterreich">Wir</rs> ernstlich, Mit Uhrkundt diß Briefes, <w>besie
+<pc>-</pc>
+                        <lb/>gelt</w> mit unserm Königlichen anhangenden Insiegel.
+<lb/>Geben in unser Stadt <rs type="place" ref="#bautzen">Budissin</rs>, den Fünfften Tag
+<lb/>des Monats Septembris, Nach Christi unsers lieben
+<lb/>Herrn und Seligmachers Geburt im <w>Sechze
+<pc>-</pc>
+                        <lb/>henhundert</w> vnd Eylfften Jahr, Unserer Reiche des
+<lb/>
+                    <rs type="place" ref="#ungarn_koenigreich">Hungarischen</rs> im Dritten und des <rs type="place" ref="#boehmen_koenigreich">Böheimischen</rs> im
+<lb/>Ersten Jahr.</p>
+<p>
+<lb/>
+                    <rs type="person" ref="#matthias_oesterreich">Matthias</rs>.
+<lb/>Ad mandatum S<am>.</am>
+                    <ex>uae</ex> Reg<am>.</am>
+                    <ex>iae</ex>
+<lb/>Maiest<am>.</am>
+                    <ex>atis</ex> proprium,
+<lb/>
+                    <rs type="person" ref="#plateiss_johann">Johan Plateiß</rs>.</p>
+
+</div>
+                
+</body>
+        <back/>
+</text>
+</TEI>

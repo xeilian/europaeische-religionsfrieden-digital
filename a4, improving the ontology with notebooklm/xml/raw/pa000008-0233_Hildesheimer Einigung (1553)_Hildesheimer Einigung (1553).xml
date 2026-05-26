@@ -1,0 +1,586 @@
+<?xml-model href="../../../customization/schema_quellentexte/religionsfrieden-quellentexte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pa000008-0233">
+   <teiHeader>      
+      <fileDesc>         
+         <titleStmt>
+            <title level="a">Hildesheimer Einung (<date when="1553-06-21">21. Juni 1553</date>) - StA Hi Best. 1, Nr. 253</title>
+            <title level="s">Europäische Religionsfrieden Digital</title>
+            <principal ref="http://d-nb.info/gnd/111186870">Irene Dingel</principal> 
+            <editor role="http://id.loc.gov/vocabulary/relators/edt" ref="http://orcid.org/0000-0002-1509-6960">Thomas Stäcker</editor>
+            <editor role="http://id.loc.gov/vocabulary/relators/edt">
+                    <persName>Jan Martin Lies</persName>
+                </editor> 
+            <editor role="http://id.loc.gov/vocabulary/relators/mrk">Kevin Wunsch</editor>           
+            <editor role="http://id.loc.gov/vocabulary/relators/mrk">Kevin Kuck</editor>           
+         </titleStmt>         
+         <editionStmt>
+            <edition>Digitale Edition gemäß <ref target="http://www.tei-c.org/">TEI P5</ref>
+                </edition>
+            <funder>Akademie der Wissenschaften und der Literatur</funder>
+         </editionStmt>         
+         <publicationStmt>
+            <publisher>
+               <orgName ref="http://www.isni.org/0000000119314040">Akademie der Wissenschaften und Literatur Mainz</orgName>
+            </publisher>           
+            <distributor>
+               <orgName ref="http://www.isni.org/0000000110101946">Universitäts- und Landesbibliothek Darmstadt</orgName>
+               <idno type="ISIL">http://lobid.org/organisation/DE-17</idno>
+            </distributor>
+            <date when="2021-12-16" type="issued">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p xml:lang="en">This file is licensed under the terms of the Creative Commons License CC-BY 4.0 (Attribution 4.0 International)</p>
+               </licence>
+            </availability>
+         </publicationStmt>        
+         <sourceDesc><!-- bitte ausfüllen; nicht zutreffende Elemente bitte rauslöschen -->
+            <msDesc>
+               <msIdentifier>
+                  <settlement/>                               
+                  <repository/>
+                  <collection/>
+                  <idno>Signatur</idno>
+                  <idno type="urn"/>
+                  <idno type="vd16"/>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title/>
+                     <respStmt>
+                        <resp/>
+                        <persName/>
+                     </respStmt>
+                     <biblStruct><!-- gilt nur für Drucke; rausnehmen, wenn es sich um ein Manuskript handelt! -->
+                        <monogr xml:id="vorlage">
+                           <imprint>
+                              <tei:pubPlace ref="http://www.geonames.org/2874225/mainz.html">Mainz</tei:pubPlace>
+                              <publisher>
+                                 <persName/>
+                              </publisher>
+                              <date>1529</date>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                  </msItem>
+               </msContents>
+               <history><!-- bei Manuskript, falls Datum und/oder Ort bekannt sind; andernfalls rauslöschen! -->
+                  <origin>
+                     <date/>
+                     <placeName/>
+                  </origin>
+               </history>
+            </msDesc>    
+         </sourceDesc>
+      </fileDesc>      
+      <encodingDesc>         
+         <projectDesc>
+            <p>
+               <ref target="http://www.eured.de">Europäische Religionsfrieden Digital</ref>
+            </p>
+         </projectDesc>
+         <classDecl>
+            <taxonomy xml:id="marcrelator">
+               <bibl>
+                        <idno type="URI">http://id.loc.gov/vocabulary/relators/</idno> MARC Code List for Relators </bibl>
+            </taxonomy>
+         </classDecl>         
+      </encodingDesc>      
+      <profileDesc>         
+         <langUsage>
+            <language ident="deut">Deutsch</language><!-- Sprache hinzufügen -->
+         </langUsage>         
+      </profileDesc>      
+      <revisionDesc>
+         <tei:change xml:id="ch01" when="2018-01-18">
+                <p>Die Edition ist 2018 von der Herzog August Bibliothek Wolfenbüttel an die Universitäts- und Landesbibliothek Darmstadt umgezogen.</p>
+            </tei:change>
+      </revisionDesc>   
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="1754" lry="2795" xml:id="facs_1">
+         <!--  <graphic url="0001_Hildesheim_1553-0001.jpg" width="1754px" height="2795px"/> -->
+         <graphic url="https://files.transkribus.eu/Get?id=ZTWBAFMAZONPSWXEXYYPGRPI&amp;fileType=view" width="1754px" height="2795px"/>
+         <zone points="73,2526 293,2526 293,2703 73,2703" rendition="TextRegion" xml:id="facs_1_tr_1">
+            <zone points="62,2513 212,2513 212,2629 62,2629" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+            <zone points="115,2603 288,2603 288,2698 115,2698" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+         </zone>
+         <zone points="189,213 1619,213 1619,2473 189,2473" rendition="TextRegion" xml:id="facs_1_tr_2">
+            <zone points="179,134 1565,134 1565,305 179,305" rendition="Line" xml:id="facs_1_tr_2_tl_1"/>
+            <zone points="322,240 1512,240 1512,362 322,362" rendition="Line" xml:id="facs_1_tr_2_tl_3"/>
+            <zone points="281,317 1555,317 1555,453 281,453" rendition="Line" xml:id="facs_1_tr_2_tl_4"/>
+            <zone points="267,381 1498,381 1498,486 267,486" rendition="Line" xml:id="facs_1_tr_2_tl_5"/>
+            <zone points="312,438 1563,438 1563,590 312,590" rendition="Line" xml:id="facs_1_tr_2_tl_6"/>
+            <zone points="322,536 1560,536 1560,657 322,657" rendition="Line" xml:id="facs_1_tr_2_tl_7"/>
+            <zone points="341,608 1577,608 1577,743 341,743" rendition="Line" xml:id="facs_1_tr_2_tl_9"/>
+            <zone points="262,690 1493,690 1493,836 262,836" rendition="Line" xml:id="facs_1_tr_2_tl_10"/>
+            <zone points="321,757 1582,757 1582,905 321,905" rendition="Line" xml:id="facs_1_tr_2_tl_11"/>
+            <zone points="222,846 1472,846 1472,983 222,983" rendition="Line" xml:id="facs_1_tr_2_tl_12"/>
+            <zone points="274,917 1563,917 1563,1041 274,1041" rendition="Line" xml:id="facs_1_tr_2_tl_13"/>
+            <zone points="260,995 1531,995 1531,1139 260,1139" rendition="Line" xml:id="facs_1_tr_2_tl_14"/>
+            <zone points="336,1077 1565,1077 1565,1219 336,1219" rendition="Line" xml:id="facs_1_tr_2_tl_15"/>
+            <zone points="319,1141 1553,1141 1553,1298 319,1298" rendition="Line" xml:id="facs_1_tr_2_tl_16"/>
+            <zone points="319,1239 1586,1239 1586,1386 319,1386" rendition="Line" xml:id="facs_1_tr_2_tl_18"/>
+            <zone points="291,1310 1576,1310 1576,1451 291,1451" rendition="Line" xml:id="facs_1_tr_2_tl_19"/>
+            <zone points="350,1403 1574,1403 1574,1546 350,1546" rendition="Line" xml:id="facs_1_tr_2_tl_20"/>
+            <zone points="319,1484 1555,1484 1555,1622 319,1622" rendition="Line" xml:id="facs_1_tr_2_tl_21"/>
+            <zone points="302,1577 1553,1577 1553,1713 302,1713" rendition="Line" xml:id="facs_1_tr_2_tl_22"/>
+            <zone points="303,1639 1536,1639 1536,1775 303,1775" rendition="Line" xml:id="facs_1_tr_2_tl_23"/>
+            <zone points="310,1753 1569,1753 1569,1867 310,1867" rendition="Line" xml:id="facs_1_tr_2_tl_24"/>
+            <zone points="291,1801 1534,1801 1534,1951 291,1951" rendition="Line" xml:id="facs_1_tr_2_tl_25"/>
+            <zone points="291,1889 1555,1889 1555,2029 291,2029" rendition="Line" xml:id="facs_1_tr_2_tl_26"/>
+            <zone points="243,1958 1512,1958 1512,2115 243,2115" rendition="Line" xml:id="facs_1_tr_2_tl_27"/>
+            <zone points="279,2037 1548,2037 1548,2194 279,2194" rendition="Line" xml:id="facs_1_tr_2_tl_28"/>
+            <zone points="288,2125 1576,2125 1576,2293 288,2293" rendition="Line" xml:id="facs_1_tr_2_tl_29"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="1754" lry="2795" xml:id="facs_2">
+         <!-- <graphic url="0002_Hildesheim_1553-0002.jpg" width="1754px" height="2795px"/> -->
+         <graphic url="https://files.transkribus.eu/Get?id=CYCJVMMJYFPTFVSWGVLTTOCA&amp;fileType=view" width="1754px" height="2795px"/>
+         <zone points="465,158 1741,158 1741,2207 465,2207" rendition="TextRegion" xml:id="facs_2_tr_1">
+            <zone points="856,115 1001,115 1001,218 856,218" rendition="Line" xml:id="facs_2_l"/>
+            <zone points="501,150 1699,150 1699,281 501,281" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
+            <zone points="492,222 1676,222 1676,356 492,356" rendition="Line" xml:id="facs_2_tr_1_tl_3"/>
+            <zone points="459,307 1679,307 1679,422 459,422" rendition="Line" xml:id="facs_2_tr_1_tl_4"/>
+            <zone points="467,372 1728,372 1728,479 467,479" rendition="Line" xml:id="facs_2_tr_1_tl_5"/>
+            <zone points="457,452 1706,452 1706,574 457,574" rendition="Line" xml:id="facs_2_tr_1_tl_6"/>
+            <zone points="457,520 1663,520 1663,642 457,642" rendition="Line" xml:id="facs_2_tr_1_tl_8"/>
+            <zone points="484,602 1723,602 1723,723 484,723" rendition="Line" xml:id="facs_2_tr_1_tl_9"/>
+            <zone points="467,667 1731,667 1731,796 467,796" rendition="Line" xml:id="facs_2_tr_1_tl_11"/>
+            <zone points="478,741 1707,741 1707,848 478,848" rendition="Line" xml:id="facs_2_tr_1_tl_12"/>
+            <zone points="471,818 1717,818 1717,954 471,954" rendition="Line" xml:id="facs_2_tr_1_tl_13"/>
+            <zone points="457,889 1717,889 1717,1023 457,1023" rendition="Line" xml:id="facs_2_tr_1_tl_14"/>
+            <zone points="500,963 1699,963 1699,1105 500,1105" rendition="Line" xml:id="facs_2_tr_1_tl_15"/>
+            <zone points="489,1048 1717,1048 1717,1173 489,1173" rendition="Line" xml:id="facs_2_tr_1_tl_16"/>
+            <zone points="490,1119 1657,1119 1657,1267 490,1267" rendition="Line" xml:id="facs_2_tr_1_tl_17"/>
+            <zone points="470,1192 1647,1192 1647,1330 470,1330" rendition="Line" xml:id="facs_2_tr_1_tl_18"/>
+            <zone points="468,1272 1691,1272 1691,1384 468,1384" rendition="Line" xml:id="facs_2_tr_1_tl_19"/>
+            <zone points="490,1341 1717,1341 1717,1491 490,1491" rendition="Line" xml:id="facs_2_tr_1_tl_20"/>
+            <zone points="460,1411 1617,1411 1617,1548 460,1548" rendition="Line" xml:id="facs_2_tr_1_tl_21"/>
+            <zone points="463,1482 1713,1482 1713,1653 463,1653" rendition="Line" xml:id="facs_2_tr_1_tl_23"/>
+            <zone points="519,1565 1710,1565 1710,1693 519,1693" rendition="Line" xml:id="facs_2_tr_1_tl_25"/>
+            <zone points="497,1633 1717,1633 1717,1754 497,1754" rendition="Line" xml:id="facs_2_tr_1_tl_26"/>
+            <zone points="489,1712 1706,1712 1706,1857 489,1857" rendition="Line" xml:id="facs_2_tr_1_tl_27"/>
+            <zone points="484,1784 1729,1784 1729,1918 484,1918" rendition="Line" xml:id="facs_2_tr_1_tl_28"/>
+            <zone points="495,1866 1739,1866 1739,2002 495,2002" rendition="Line" xml:id="facs_2_tr_1_tl_30"/>
+            <zone points="471,1945 1685,1945 1685,2089 471,2089" rendition="Line" xml:id="facs_2_tr_1_tl_34"/>
+            <zone points="473,2018 1726,2018 1726,2174 473,2174" rendition="Line" xml:id="facs_2_tr_1_tl_35"/>
+            <zone points="476,2106 1723,2106 1723,2265 476,2265" rendition="Line" xml:id="facs_2_tr_1_tl_36"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="1754" lry="2795" xml:id="facs_3">
+         <!-- <graphic url="0003_Hildesheim_1553-0003.jpg" width="1754px" height="2795px"/> -->
+         <graphic url="https://files.transkribus.eu/Get?id=SKWKDMIFWJPYEJTWFPISPMQR&amp;fileType=view" width="1754px" height="2795px"/>
+         <zone points="314,127 1619,127 1619,2256 314,2256" rendition="TextRegion" xml:id="facs_3_tr_1">
+            <zone points="354,126 1568,126 1568,252 354,252" rendition="Line" xml:id="facs_3_tr_1_tl_1"/>
+            <zone points="382,222 1603,222 1603,361 382,361" rendition="Line" xml:id="facs_3_tr_1_tl_3"/>
+            <zone points="322,294 1599,294 1599,436 322,436" rendition="Line" xml:id="facs_3_tr_1_tl_5"/>
+            <zone points="358,370 1539,370 1539,500 358,500" rendition="Line" xml:id="facs_3_tr_1_tl_7"/>
+            <zone points="351,415 1604,415 1604,589 351,589" rendition="Line" xml:id="facs_3_tr_1_tl_8"/>
+            <zone points="374,512 1580,512 1580,637 374,637" rendition="Line" xml:id="facs_3_tr_1_tl_9"/>
+            <zone points="386,583 1587,583 1587,720 386,720" rendition="Line" xml:id="facs_3_tr_1_tl_10"/>
+            <zone points="380,658 1577,658 1577,809 380,809" rendition="Line" xml:id="facs_3_tr_1_tl_11"/>
+            <zone points="367,736 1599,736 1599,875 367,875" rendition="Line" xml:id="facs_3_tr_1_tl_12"/>
+            <zone points="378,809 1583,809 1583,958 378,958" rendition="Line" xml:id="facs_3_tr_1_tl_13"/>
+            <zone points="380,894 1531,894 1531,1026 380,1026" rendition="Line" xml:id="facs_3_tr_1_tl_14"/>
+            <zone points="388,961 1609,961 1609,1111 388,1111" rendition="Line" xml:id="facs_3_tr_1_tl_15"/>
+            <zone points="346,1046 1601,1046 1601,1194 346,1194" rendition="Line" xml:id="facs_3_tr_1_tl_16"/>
+            <zone points="372,1117 1595,1117 1595,1266 372,1266" rendition="Line" xml:id="facs_3_tr_1_tl_17"/>
+            <zone points="346,1207 1555,1207 1555,1336 346,1336" rendition="Line" xml:id="facs_3_tr_1_tl_18"/>
+            <zone points="326,1266 1601,1266 1601,1416 326,1416" rendition="Line" xml:id="facs_3_tr_1_tl_19"/>
+            <zone points="346,1358 1615,1358 1615,1470 346,1470" rendition="Line" xml:id="facs_3_tr_1_tl_20"/>
+            <zone points="332,1425 1598,1425 1598,1564 332,1564" rendition="Line" xml:id="facs_3_tr_1_tl_21"/>
+            <zone points="332,1512 1615,1512 1615,1660 332,1660" rendition="Line" xml:id="facs_3_tr_1_tl_22"/>
+            <zone points="372,1575 1547,1575 1547,1729 372,1729" rendition="Line" xml:id="facs_3_tr_1_tl_23"/>
+            <zone points="372,1652 1566,1652 1566,1826 372,1826" rendition="Line" xml:id="facs_3_tr_1_tl_24"/>
+            <zone points="319,1743 1555,1743 1555,1903 319,1903" rendition="Line" xml:id="facs_3_tr_1_tl_27"/>
+            <zone points="310,1820 1582,1820 1582,1992 310,1992" rendition="Line" xml:id="facs_3_tr_1_tl_28"/>
+            <zone points="367,1911 1595,1911 1595,2061 367,2061" rendition="Line" xml:id="facs_3_tr_1_tl_29"/>
+            <zone points="364,1975 1603,1975 1603,2142 364,2142" rendition="Line" xml:id="facs_3_tr_1_tl_30"/>
+            <zone points="372,2056 1612,2056 1612,2216 372,2216" rendition="Line" xml:id="facs_3_tr_1_tl_31"/>
+            <zone points="361,2128 1611,2128 1611,2289 361,2289" rendition="Line" xml:id="facs_3_tr_1_tl_32"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="1754" lry="2795" xml:id="facs_4">
+         <!-- <graphic url="0004_Hildesheim_1553-0004.jpg" width="1754px" height="2795px"/>-->
+         <graphic url="https://files.transkribus.eu/Get?id=JWVTTGBPKGLYLHPJFKUIBWJY&amp;fileType=view" width="1754px" height="2795px"/>
+         <zone points="429,197 1707,197 1707,2256 429,2256" rendition="TextRegion" xml:id="facs_4_tr_1">
+            <zone points="433,143 1613,143 1613,271 433,271" rendition="Line" xml:id="facs_4_tr_1_tl_1"/>
+            <zone points="458,243 1666,243 1666,370 458,370" rendition="Line" xml:id="facs_4_tr_1_tl_2"/>
+            <zone points="466,314 1649,314 1649,415 466,415" rendition="Line" xml:id="facs_4_tr_1_tl_3"/>
+            <zone points="466,390 1646,390 1646,524 466,524" rendition="Line" xml:id="facs_4_tr_1_tl_4"/>
+            <zone points="425,447 1646,447 1646,574 425,574" rendition="Line" xml:id="facs_4_tr_1_tl_5"/>
+            <zone points="455,517 1671,517 1671,655 455,655" rendition="Line" xml:id="facs_4_tr_1_tl_6"/>
+            <zone points="419,588 1682,588 1682,734 419,734" rendition="Line" xml:id="facs_4_tr_1_tl_8"/>
+            <zone points="462,665 1663,665 1663,820 462,820" rendition="Line" xml:id="facs_4_tr_1_tl_9"/>
+            <zone points="434,745 1662,745 1662,875 434,875" rendition="Line" xml:id="facs_4_tr_1_tl_10"/>
+            <zone points="426,817 1682,817 1682,966 426,966" rendition="Line" xml:id="facs_4_tr_1_tl_12"/>
+            <zone points="461,895 1657,895 1657,1035 461,1035" rendition="Line" xml:id="facs_4_tr_1_tl_13"/>
+            <zone points="461,958 1688,958 1688,1107 461,1107" rendition="Line" xml:id="facs_4_tr_1_tl_14"/>
+            <zone points="467,1049 1679,1049 1679,1182 467,1182" rendition="Line" xml:id="facs_4_tr_1_tl_15"/>
+            <zone points="447,1105 1701,1105 1701,1267 447,1267" rendition="Line" xml:id="facs_4_tr_1_tl_16"/>
+            <zone points="483,1194 1693,1194 1693,1354 483,1354" rendition="Line" xml:id="facs_4_tr_1_tl_19"/>
+            <zone points="487,1252 1702,1252 1702,1417 487,1417" rendition="Line" xml:id="facs_4_tr_1_tl_20"/>
+            <zone points="442,1353 1651,1353 1651,1506 442,1506" rendition="Line" xml:id="facs_4_tr_1_tl_21"/>
+            <zone points="478,1452 1693,1452 1693,1577 478,1577" rendition="Line" xml:id="facs_4_tr_1_tl_23"/>
+            <zone points="428,1511 1683,1511 1683,1640 428,1640" rendition="Line" xml:id="facs_4_tr_1_tl_26"/>
+            <zone points="467,1594 1709,1594 1709,1735 467,1735" rendition="Line" xml:id="facs_4_tr_1_tl_28"/>
+            <zone points="422,1668 1654,1668 1654,1821 422,1821" rendition="Line" xml:id="facs_4_tr_1_tl_29"/>
+            <zone points="470,1749 1685,1749 1685,1898 470,1898" rendition="Line" xml:id="facs_4_tr_1_tl_30"/>
+            <zone points="480,1831 1677,1831 1677,1978 480,1978" rendition="Line" xml:id="facs_4_tr_1_tl_31"/>
+            <zone points="478,1906 1687,1906 1687,2046 478,2046" rendition="Line" xml:id="facs_4_tr_1_tl_32"/>
+            <zone points="484,1984 1687,1984 1687,2126 484,2126" rendition="Line" xml:id="facs_4_tr_1_tl_33"/>
+            <zone points="497,2069 1696,2069 1696,2199 497,2199" rendition="Line" xml:id="facs_4_tr_1_tl_34"/>
+            <zone points="464,2151 1701,2151 1701,2298 464,2298" rendition="Line" xml:id="facs_4_tr_1_tl_35"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="1754" lry="2795" xml:id="facs_5">
+         <!-- <graphic url="0005_Hildesheim_1553-0005.jpg" width="1754px" height="2795px"/>-->
+         <graphic url="https://files.transkribus.eu/Get?id=WWIRQDWZPGXFMOWEUPIXXXRI&amp;fileType=view" width="1754px" height="2795px"/>
+         <zone points="301,160 1619,160 1619,2296 301,2296" rendition="TextRegion" xml:id="facs_5_tr_1">
+            <zone points="290,137 1497,137 1497,261 290,261" rendition="Line" xml:id="facs_5_tr_1_tl_1"/>
+            <zone points="335,205 1538,205 1538,330 335,330" rendition="Line" xml:id="facs_5_tr_1_tl_2"/>
+            <zone points="324,269 1533,269 1533,425 324,425" rendition="Line" xml:id="facs_5_tr_1_tl_3"/>
+            <zone points="321,337 1544,337 1544,469 321,469" rendition="Line" xml:id="facs_5_tr_1_tl_4"/>
+            <zone points="341,412 1516,412 1516,542 341,542" rendition="Line" xml:id="facs_5_tr_1_tl_5"/>
+            <zone points="341,472 1555,472 1555,618 341,618" rendition="Line" xml:id="facs_5_tr_1_tl_6"/>
+            <zone points="355,550 1564,550 1564,687 355,687" rendition="Line" xml:id="facs_5_tr_1_tl_7"/>
+            <zone points="355,631 1527,631 1527,773 355,773" rendition="Line" xml:id="facs_5_tr_1_tl_8"/>
+            <zone points="364,699 1573,699 1573,851 364,851" rendition="Line" xml:id="facs_5_tr_1_tl_10"/>
+            <zone points="343,801 1534,801 1534,919 343,919" rendition="Line" xml:id="facs_5_tr_1_tl_11"/>
+            <zone points="346,854 1570,854 1570,1025 346,1025" rendition="Line" xml:id="facs_5_l"/>
+            <zone points="370,949 1575,949 1575,1093 370,1093" rendition="Line" xml:id="facs_5_tr_1_tl_13"/>
+            <zone points="360,1007 1590,1007 1590,1179 360,1179" rendition="Line" xml:id="facs_5_tr_1_tl_14"/>
+            <zone points="375,1107 1570,1107 1570,1255 375,1255" rendition="Line" xml:id="facs_5_tr_1_tl_15"/>
+            <zone points="350,1178 1541,1178 1541,1315 350,1315" rendition="Line" xml:id="facs_5_tr_1_tl_16"/>
+            <zone points="316,1250 1518,1250 1518,1399 316,1399" rendition="Line" xml:id="facs_5_tr_1_tl_17"/>
+            <zone points="363,1325 1581,1325 1581,1476 363,1476" rendition="Line" xml:id="facs_5_tr_1_tl_18"/>
+            <zone points="363,1400 1602,1400 1602,1550 363,1550" rendition="Line" xml:id="facs_5_tr_1_tl_20"/>
+            <zone points="357,1487 1572,1487 1572,1656 357,1656" rendition="Line" xml:id="facs_5_tr_1_tl_21"/>
+            <zone points="370,1562 1604,1562 1604,1741 370,1741" rendition="Line" xml:id="facs_5_tr_1_tl_22"/>
+            <zone points="386,1646 1561,1646 1561,1822 386,1822" rendition="Line" xml:id="facs_5_tr_1_tl_23"/>
+            <zone points="369,1721 1604,1721 1604,1900 369,1900" rendition="Line" xml:id="facs_5_tr_1_tl_24"/>
+            <zone points="391,1814 1579,1814 1579,1962 391,1962" rendition="Line" xml:id="facs_5_tr_1_tl_25"/>
+            <zone points="387,1885 1564,1885 1564,2073 387,2073" rendition="Line" xml:id="facs_5_tr_1_tl_26"/>
+            <zone points="387,1968 1585,1968 1585,2157 387,2157" rendition="Line" xml:id="facs_5_tr_1_tl_27"/>
+            <zone points="377,2064 1551,2064 1551,2252 377,2252" rendition="Line" xml:id="facs_5_tr_1_tl_28"/>
+            <zone points="397,2147 1615,2147 1615,2323 397,2323" rendition="Line" xml:id="facs_5_tr_1_tl_30"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="1754" lry="2795" xml:id="facs_6">
+         <!--  <graphic url="0006_Hildesheim_1553-0006.jpg" width="1754px" height="2795px"/>-->
+         <graphic url="https://files.transkribus.eu/Get?id=PFRSFLTLILNGVKWMROBRQTYN&amp;fileType=view" width="1754px" height="2795px"/>
+         <zone points="127,1999 405,1999 405,2169 127,2169" rendition="TextRegion" xml:id="facs_6_tr_1">
+            <zone points="264,2002 357,2002 357,2064 264,2064" rendition="Line" xml:id="facs_6_l_106"/>
+            <zone points="117,2040 404,2040 404,2170 117,2170" rendition="Line" xml:id="facs_6_tr_1_tl_1"/>
+         </zone>
+         <zone points="439,201 1733,201 1733,2273 439,2273" rendition="TextRegion" xml:id="facs_6_tr_2">
+            <zone points="476,155 1690,155 1690,310 476,310" rendition="Line" xml:id="facs_6_tr_2_tl_1"/>
+            <zone points="484,241 1636,241 1636,376 484,376" rendition="Line" xml:id="facs_6_tr_2_tl_2"/>
+            <zone points="486,320 1581,320 1581,416 486,416" rendition="Line" xml:id="facs_6_tr_2_tl_3"/>
+            <zone points="428,382 1658,382 1658,521 428,521" rendition="Line" xml:id="facs_6_tr_2_tl_4"/>
+            <zone points="452,451 1674,451 1674,576 452,576" rendition="Line" xml:id="facs_6_tr_2_tl_5"/>
+            <zone points="478,508 1693,508 1693,644 478,644" rendition="Line" xml:id="facs_6_tr_2_tl_6"/>
+            <zone points="449,593 1653,593 1653,695 449,695" rendition="Line" xml:id="facs_6_tr_2_tl_7"/>
+            <zone points="436,660 1719,660 1719,790 436,790" rendition="Line" xml:id="facs_6_tr_2_tl_9"/>
+            <zone points="465,739 1658,739 1658,873 465,873" rendition="Line" xml:id="facs_6_tr_2_tl_10"/>
+            <zone points="475,809 1683,809 1683,961 475,961" rendition="Line" xml:id="facs_6_tr_2_tl_11"/>
+            <zone points="480,884 1671,884 1671,1017 480,1017" rendition="Line" xml:id="facs_6_tr_2_tl_12"/>
+            <zone points="470,982 1679,982 1679,1105 470,1105" rendition="Line" xml:id="facs_6_tr_2_tl_13"/>
+            <zone points="467,1042 1685,1042 1685,1167 467,1167" rendition="Line" xml:id="facs_6_tr_2_tl_14"/>
+            <zone points="491,1116 1667,1116 1667,1269 491,1269" rendition="Line" xml:id="facs_6_tr_2_tl_15"/>
+            <zone points="454,1189 1701,1189 1701,1324 454,1324" rendition="Line" xml:id="facs_6_tr_2_tl_16"/>
+            <zone points="468,1268 1706,1268 1706,1413 468,1413" rendition="Line" xml:id="facs_6_tr_2_tl_17"/>
+            <zone points="473,1357 1688,1357 1688,1493 473,1493" rendition="Line" xml:id="facs_6_tr_2_tl_19"/>
+            <zone points="492,1434 1679,1434 1679,1573 492,1573" rendition="Line" xml:id="facs_6_tr_2_tl_20"/>
+            <zone points="481,1496 1690,1496 1690,1634 481,1634" rendition="Line" xml:id="facs_6_tr_2_tl_21"/>
+            <zone points="468,1589 1639,1589 1639,1733 468,1733" rendition="Line" xml:id="facs_6_tr_2_tl_22"/>
+            <zone points="484,1683 1687,1683 1687,1815 484,1815" rendition="Line" xml:id="facs_6_tr_2_tl_23"/>
+            <zone points="460,1749 1645,1749 1645,1896 460,1896" rendition="Line" xml:id="facs_6_tr_2_tl_24"/>
+            <zone points="484,1815 1725,1815 1725,1987 484,1987" rendition="Line" xml:id="facs_6_tr_2_tl_25"/>
+            <zone points="441,1912 1725,1912 1725,2067 441,2067" rendition="Line" xml:id="facs_6_tr_2_tl_27"/>
+            <zone points="484,1979 1719,1979 1719,2141 484,2141" rendition="Line" xml:id="facs_6_tr_2_tl_30"/>
+            <zone points="467,2070 1687,2070 1687,2219 467,2219" rendition="Line" xml:id="facs_6_tr_2_tl_32"/>
+            <zone points="472,2150 1730,2150 1730,2318 472,2318" rendition="Line" xml:id="facs_6_tr_2_tl_34"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="1754" lry="2795" xml:id="facs_7">
+         <!-- <graphic url="0007_Hildesheim_1553-0007.jpg" width="1754px" height="2795px"/>-->
+         <graphic url="https://files.transkribus.eu/Get?id=LNQYPZOEPTDNBALOHJOGRCFO&amp;fileType=view" width="1754px" height="2795px"/>
+         <zone points="337,185 1597,185 1597,1293 337,1293" rendition="TextRegion" xml:id="facs_7_tr_1">
+            <zone points="328,127 1539,127 1539,273 328,273" rendition="Line" xml:id="facs_7_tr_1_tl_1"/>
+            <zone points="328,215 1570,215 1570,345 328,345" rendition="Line" xml:id="facs_7_tr_1_tl_2"/>
+            <zone points="355,293 1584,293 1584,424 355,424" rendition="Line" xml:id="facs_7_tr_1_tl_3"/>
+            <zone points="369,367 1530,367 1530,486 369,486" rendition="Line" xml:id="facs_7_tr_1_tl_4"/>
+            <zone points="361,434 1583,434 1583,556 361,556" rendition="Line" xml:id="facs_7_tr_1_tl_5"/>
+            <zone points="358,500 1567,500 1567,621 358,621" rendition="Line" xml:id="facs_7_tr_1_tl_6"/>
+            <zone points="355,582 1583,582 1583,705 355,705" rendition="Line" xml:id="facs_7_tr_1_tl_7"/>
+            <zone points="341,647 1556,647 1556,753 341,753" rendition="Line" xml:id="facs_7_tr_1_tl_8"/>
+            <zone points="370,733 1577,733 1577,858 370,858" rendition="Line" xml:id="facs_7_tr_1_tl_10"/>
+            <zone points="375,801 1595,801 1595,922 375,922" rendition="Line" xml:id="facs_7_tr_1_tl_11"/>
+            <zone points="396,872 1584,872 1584,999 396,999" rendition="Line" xml:id="facs_7_tr_1_tl_12"/>
+            <zone points="387,945 1515,945 1515,1078 387,1078" rendition="Line" xml:id="facs_7_tr_1_tl_13"/>
+            <zone points="384,1014 1589,1014 1589,1160 384,1160" rendition="Line" xml:id="facs_7_tr_1_tl_14"/>
+            <zone points="356,1097 1587,1097 1587,1214 356,1214" rendition="Line" xml:id="facs_7_tr_1_tl_15"/>
+            <zone points="361,1186 1316,1186 1316,1313 361,1313" rendition="Line" xml:id="facs_7_tr_1_tl_16"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <tei:div>
+                <pb facs="#facs_1" xml:id="img_0001" n="Bl. 1r"/>
+            
+            <p facs="#facs_1_tr_2">
+               <lb facs="#facs_1_tr_2_tl_1" n="N001"/>Zu wissen: Nachdem unnd alß der durchluchtigester,
+               <lb facs="#facs_1_tr_2_tl_3" n="N002"/>grosmechtigster fursth unnd her, her <rs type="person" ref="#christian_iii_daenemark">Christian</rs>,
+               <lb facs="#facs_1_tr_2_tl_4" n="N003"/>Zu <rs type="place" ref="#daenemark_koenigreich">Dennemarcken</rs>, <rs type="place" ref="#norwegen_koenigreich">Norwegen</rs>, der Wenden
+               <lb facs="#facs_1_tr_2_tl_5" n="N004"/>unnd Gotthen konningk etc., desgelichen de
+               <lb facs="#facs_1_tr_2_tl_6" n="N005"/>durchluchtigen unnd hochgebornen fursthen unnd
+               <lb facs="#facs_1_tr_2_tl_7" n="N006"/>hern, her <rs type="person" ref="#johann_schleswig_holstein_hadersleben">Johanß</rs>, <rs type="person" ref="#adolf_i_schleswig_holstein_gottorf">Adolf</rs> und <rs type="person" ref="#friedrich_hildesheim">Friderich</rs>,
+               <lb facs="#facs_1_tr_2_tl_9" n="N007"/>erben zu <rs type="place" ref="#norwegen_koenigreich">Norwegen</rs>, hertzugen zu <rs type="place" ref="#schleswig_herzogtum">Sleßwigen</rs>,
+               <lb facs="#facs_1_tr_2_tl_10" n="N008"/>
+                    <rs type="place" ref="#holstein_herzogtum">Holsten</rs>, <rs type="place" ref="#stormarn_herzogtum">Sthormern</rs> unnd der <rs type="place" ref="#dithmarschen_herzogtum">Detmerschen</rs>,
+               <lb facs="#facs_1_tr_2_tl_11" n="N009"/>Graiffen zu <rs type="place" ref="#oldenburg_grafschaft">Oldenburgk</rs> unnd <rs type="place" ref="#delmenhorst_grafschaft">Delmenhorsth</rs>,
+               <lb facs="#facs_1_tr_2_tl_12" n="N010"/>de Erbarn, Ernthvesten unnd achtbarn<note type="annotation">ehrende Anreden. Im Sinne: ehrenwerte und hochgeachtete.</note>
+               <lb facs="#facs_1_tr_2_tl_13" n="N011"/>
+                    <rs type="person" ref="#woitslaw_wobeser">Woideslaff Wobisser</rs>, <rs type="person" ref="#jasper_bockenwolde">Jaspern van Bockwolde</rs>
+               <lb facs="#facs_1_tr_2_tl_14" n="N012"/>unnd <rs type="person" ref="#molner_lucas">Lucas Molner</rs> anhero gnedigst unnd
+               <lb facs="#facs_1_tr_2_tl_15" n="N013"/>guedigk abgefertiget<note type="annotation">geschickt, gesendet.</note>, unnder andern ihren <w>beve<pc>-</pc>
+               <lb facs="#facs_1_tr_2_tl_16" n="N014"/>lich</w> mith eynem erb<ex>aren</ex> rhaide der <rs type="place" ref="#hildesheim">Stad Hildeshem</rs>
+               <lb facs="#facs_1_tr_2_tl_18" n="N015"/>richtigk einganck<note type="annotation">ernsthafte Gespräche.</note> auf die einhellige, <w>ordent<pc>-</pc>
+               <lb facs="#facs_1_tr_2_tl_19" n="N016"/>liche</w> beschene wael, auch folgende bewilligten
+               <lb facs="#facs_1_tr_2_tl_20" n="N017"/>
+                    <rs type="person" ref="#karl_v">Romische key<ex>serliche</ex> Ma<ex>jestä</ex>t</rs> bestetigung unnd vorordenten
+               <lb facs="#facs_1_tr_2_tl_21" n="N018"/>Administration des <rs type="place" ref="#hildesheim_hochstift">Stifftz Hildeshem</rs>, <rs type="person" ref="#friedrich_hildesheim">hertzug <w>Fri<pc>-</pc>
+                  <lb facs="#facs_1_tr_2_tl_22" n="N019"/>derich</w>
+                    </rs> zu <rs type="place" ref="#holstein_herzogtum">Holsten</rs> betreffen<note type="crit_app">Nachträglich eingefügt: be.</note>, nach luidt<note type="annotation">laut</note> gegebner
+               <lb facs="#facs_1_tr_2_tl_23" n="N020"/>vorschribunge unnd Inserirtes Mandats der
+               <lb facs="#facs_1_tr_2_tl_24" n="N021"/>huldunge der <rs type="place" ref="#hildesheim">Stad Hildeshem</rs> unnd einrumunge
+               <lb facs="#facs_1_tr_2_tl_25" n="N022"/>des <rs type="place" ref="#peine_burg">hußes Peins</rs> halben zu behandelen,<note type="annotation">Zur Vorgschichte des Vertrages vgl. die Einleitung.</note> unnd
+               <lb facs="#facs_1_tr_2_tl_26" n="N023"/>daruf allerleie handlung geplogen<note type="annotation">vorgenommen.</note> und <w>vorge<pc>-</pc>
+               <lb facs="#facs_1_tr_2_tl_27" n="N024"/>wandth</w> worden, Als Ist letzlich mith aller
+               <lb facs="#facs_1_tr_2_tl_28" n="N025"/>parth genuchafftiger bewilligung<note type="annotation">Bestätigung, Konsens.</note> unnd geborliger<note type="annotation">gebührlicher.</note>
+               <lb facs="#facs_1_tr_2_tl_29" n="N026"/>gehapten rhaide unnd hinderbedencken<note type="annotation">Nachdenkens.</note> folgen-
+           
+            
+            </p>
+                <pb facs="#facs_2" xml:id="img_0002" n="Bl. 1v"/>
+            <p facs="#facs_2_tr_1">
+               
+               <lb facs="#facs_2_tr_1_tl_2" n="N002"/>der abschied<note type="annotation">Beschluss.</note> getroffen<note type="crit_app">Verbessert: <q>troffen</q> für <q>nohmen</q>.</note>, bewilliget unnd <w>eyngeru<pc>-</pc>
+               <lb facs="#facs_2_tr_1_tl_3" n="N003"/>medt</w>:</p> 
+               
+              <p xml:id="artikel_1" resp="JML">
+                    <supplied reason="article_added">1</supplied> Alßo, dat ein erb<ex>arer</ex> Raed<note type="annotation">Rat.</note> der Stad
+               <lb facs="#facs_2_tr_1_tl_4" n="N004"/>
+                    <rs type="place" ref="#hildesheim">Hildshem</rs> vier unnd zwaintzig Mahn<note type="annotation">Mann.</note>, <w>older<pc>-</pc>
+                  <lb facs="#facs_2_tr_1_tl_5" n="N005"/>man</w> der Meinheid<note type="annotation">Vertreter der <q>Gemeinheit</q>, also: Gemeindevertreter der Stadt <rs type="place" ref="#hildesheim">Hildesheim</rs>.</note>, veir<note type="annotation">vier.</note> Ampt und vif<note type="annotation">fünf.</note> Gilde,<note type="annotation">Der Stadtrat bestand aus 24 Personen - dem <q>Sitzenden Rat</q> als eigentlichem Regierungsgremium und dem <q>Nachrat</q>. Ihm zur Seite stand das <q>Collegium der 24</q>, das sich aus Vertrauensleuten der Gilden, Zünfte und der <q>Meinheit</q> zusammensetzte. Vgl. <rs type="bibl" ref="#aschoff_hildesheim">
+                            <surname type="author">Aschoff</surname>, Hildesheim, S. 51</rs>.</note>
+               <lb facs="#facs_2_tr_1_tl_6" n="N006"/>Nachdem den ihnen von wegen ihres erwelten
+               <lb facs="#facs_2_tr_1_tl_8" n="N007"/>unnd bestedigten <rs type="person" ref="#friedrich_hildesheim">hern</rs> von den gesanten ihrer
+               <lb facs="#facs_2_tr_1_tl_9" n="N008"/>creditifft<note type="annotation">Beglaubigungsschreiben.</note> und fulmacht nach endlich zugesagt,
+               <lb facs="#facs_2_tr_1_tl_11" n="N009"/>das ein erb. Raedt unnd de gantz gemeine<note type="annotation">Gemeinde.</note>
+               <lb facs="#facs_2_tr_1_tl_12" n="N010"/>der <rs type="place" ref="#hildesheim">Stad Hildeshem</rs> bei dem Rechten, waren
+               <lb facs="#facs_2_tr_1_tl_13" n="N011"/>christligen Gottzwordt unnd heilige Religion,
+               <lb facs="#facs_2_tr_1_tl_14" n="N012"/>wie sihe die jetziger Zeidt dorch vorlehnunge
+               <lb facs="#facs_2_tr_1_tl_15" n="N013"/>Gottz, des Almechtigen, reichlich unnd lauther<note type="annotation">klar, rein.</note>
+               <lb facs="#facs_2_tr_1_tl_16" n="N014"/>halten, bleiben, darbei erhalten<note type="annotation">bewahren.</note> und darbenefen<note type="annotation">daneben.</note>
+               <lb facs="#facs_2_tr_1_tl_17" n="N015"/>bei Rechtte, gnaden, Privilegien, gewonheiten
+               <lb facs="#facs_2_tr_1_tl_18" n="N016"/>unnd oldem<note type="annotation">altem.</note>, loffligen<note type="annotation">Formelhaft: löblichen.</note> herkomende<note type="annotation">Brauch, Gewohnheit.</note> geschuttzt
+               <lb facs="#facs_2_tr_1_tl_19" n="N017"/>unnd geschirmed werden. Neben dem, das
+               <lb facs="#facs_2_tr_1_tl_20" n="N018"/>die unabgehandelten Artikel auf die <w>gne<pc>-</pc>
+               <lb facs="#facs_2_tr_1_tl_21" n="N019"/>digste</w> unnd gnedige Zusage, van wegen
+               <lb facs="#facs_2_tr_1_tl_23" n="N020"/>
+                    <rs type="person" ref="#christian_iii_daenemark">koe<ex>niglicher</ex> Ma<ex>jestä</ex>t</rs> unnd <rs type="person" ref="#friedrich_hildesheim">f<ex>ürstlichen</ex> g<ex>naden</ex>
+                    </rs> zu <rs type="place" ref="#holstein_herzogtum">Holsten</rs> ihnen <w>be<pc>-</pc>
+               <lb facs="#facs_2_tr_1_tl_25" n="N021"/>schen</w>, auch folgen solle, das daruf gemelter
+               <lb facs="#facs_2_tr_1_tl_26" n="N022"/>Raedt vier vnd zwaintzigk Mahn, Olderman
+               <lb facs="#facs_2_tr_1_tl_27" n="N023"/>der gemeinheid, vier Ampt unnd funft gilde
+               <lb facs="#facs_2_tr_1_tl_28" n="N024"/>unnd der gantzen gemeinen der <rs type="place" ref="#hildesheim">Stad Hildeshem</rs>
+               <lb facs="#facs_2_tr_1_tl_30" n="N025"/>mith wolbedachtem, gehaptem rhaide und eindrechtiger
+               <lb facs="#facs_2_tr_1_tl_34" n="N026"/>bewilligunge, geburlige huldunge und <w>vor<pc>-</pc>
+               <lb facs="#facs_2_tr_1_tl_35" n="N027"/>wanthnussen</w> hochgemeltem ihrem <rs type="person" ref="#friedrich_hildesheim">hern</rs>, wan <rs type="person" ref="#friedrich_hildesheim">s<ex>eine</ex> f<ex>ürstliche</ex> g<ex>naden</ex>
+                    </rs>
+               <lb facs="#facs_2_tr_1_tl_36" n="N028"/>alhir ankomen unnd die erfurderen<note type="annotation">einfordern.</note> wirdt,
+            
+            
+            <pb facs="#facs_3" xml:id="img_0003" n="Bl. 2r"/>
+            
+               <lb facs="#facs_3_tr_1_tl_1" n="N001"/>bewilligt unnd endlich zugesagt, Ist In massen
+               <lb facs="#facs_3_tr_1_tl_3" n="N002"/>
+                    <rs type="person" ref="#friedrich_hildesheim">s<ex>einer</ex> f<ex>ürstlichen</ex> g<ex>naden</ex>
+                    </rs> sulche huldunge auch crafft dusses breiffs
+               <lb facs="#facs_3_tr_1_tl_5" n="N003"/>zugesagt sein soll unnd Isth.</p>
+                 
+             <p xml:id="artikel_2" resp="JML">
+                    <supplied reason="article_added">2</supplied> Und dahn ferner
+               <lb facs="#facs_3_tr_1_tl_7" n="N004"/>die merckliche Unkosth und auffgewanthe
+               <lb facs="#facs_3_tr_1_tl_8" n="N005"/>geltz und ihrer selbst egener burger bloidtz<note type="annotation">Bluts.</note>,
+               <lb facs="#facs_3_tr_1_tl_9" n="N006"/>leibs unnd lebendes spildunge<note type="annotation">Vergeudung.</note> unnd <w>daer<pc>-</pc>
+               <lb facs="#facs_3_tr_1_tl_10" n="N007"/>streckunge</w>
+                    <note type="annotation">Überlassung, Übergabe..</note> des <rs type="place" ref="#peine_burg">huißes Peinhe</rs> halben <w>eingefu<pc>-</pc>
+               <lb facs="#facs_3_tr_1_tl_11" n="N008"/>redt</w> unnd ahngezogen worden, Alß Ist lettzlig
+               <lb facs="#facs_3_tr_1_tl_12" n="N009"/>auch mith aller parthe bewilligung nach laudt
+               <lb facs="#facs_3_tr_1_tl_13" n="N010"/>derowegen uffgerichten Recesßes<note type="annotation">Vergleich.</note> folgende besched<note type="annotation">Bescheid.</note>
+               <lb facs="#facs_3_tr_1_tl_14" n="N011"/>getroffen: Alß das kegen alle ahngemasthe
+               <lb facs="#facs_3_tr_1_tl_15" n="N012"/>sproche<note type="annotation">Klagen.</note> unnd furderunge des <rs type="place" ref="#peine_burg">haußes Peinhe</rs> <w>hal<pc>-</pc> 
+               <lb facs="#facs_3_tr_1_tl_16" n="N013"/>ben</w> Erstlich alle unnd jede ahngetogene <w>reche<pc>-</pc>
+               <lb facs="#facs_3_tr_1_tl_17" n="N014"/>nunge</w>, Schattzunge<note type="annotation">Leistung von Abgaben.</note>, vorwoisthunge der holtunge<note type="annotation">Anwesen eines <q>Holden</q>, also eines unter dem Schutz des Herrn stehenden Untertanen, Dieners.</note>,
+               <lb facs="#facs_3_tr_1_tl_18" n="N015"/>wie solche punct und artikel von dem
+               <lb facs="#facs_3_tr_1_tl_19" n="N016"/>hauße herruren nhamen haben muchtten, unnd
+               <lb facs="#facs_3_tr_1_tl_20" n="N017"/>die Artikel von weyland<note type="annotation">dem verstorbenen.</note> Bischoffen <rs type="person" ref="#tetleben_valentin">Valentin</rs>
+               <lb facs="#facs_3_tr_1_tl_21" n="N018"/>Im Chamergerichten wider die <rs type="place" ref="#hildesheim">Stad Hildessheim</rs>
+               <lb facs="#facs_3_tr_1_tl_22" n="N019"/>In klagen furgebracht worden,<note type="annotation">Der <rs type="person" ref="#tetleben_valentin">Bischof</rs> hatte sich um die Auslösung <rs type="place" ref="#peine_burg">Peines</rs> bemüht und zudem das Bündnisrecht <rs type="place" ref="#hildesheim">Hildesheims</rs> bestritten. Vgl. <rs type="bibl" ref="#gebauer_hildesheim_i">
+                            <surname type="author">Gebauer</surname>, Hildesheim I, S. 316, 319</rs>.</note> gentzlich <w>beige<pc>-</pc>
+               <lb facs="#facs_3_tr_1_tl_23" n="N020"/>legt</w> sein sollen.</p> 
+                
+             <p xml:id="artikel_3" resp="JML">
+                    <supplied reason="article_added">3</supplied> Das gelichen<note type="annotation">Desgleichen</note> erstlich der
+               <lb facs="#facs_3_tr_1_tl_24" n="N021"/>brief<note type="annotation">Urkunde.</note> mith dem Thumcapittel auff <w>vier<pc>-</pc>
+               <lb facs="#facs_3_tr_1_tl_27" n="N022"/>thaußent</w> gulden sollen sampt den Zinßen
+               <lb facs="#facs_3_tr_1_tl_28" n="N023"/>zu vntherhandlunge uf geluckselige unsers
+               <lb facs="#facs_3_tr_1_tl_29" n="N024"/>gnedigen <rs type="person" ref="#friedrich_hildesheim">fursten</rs> und herren ahnkunfft sthein
+               <lb facs="#facs_3_tr_1_tl_30" n="N025"/>bleiben. Neben dem alle jede irrunge und
+               <lb facs="#facs_3_tr_1_tl_31" n="N026"/>gebreche<note type="annotation">Streitigkeit.</note>, ßo zwischen einem erb<ex>aren</ex> Rhaide und
+               <lb facs="#facs_3_tr_1_tl_32" n="N027"/>dem Kloisther <rs type="place" ref="#sankt_michael">S. Michel</rs> geswebet,<note type="annotation">Zwischen dem Kloster und dem Stadtrat war es schon vor der Reformation zu Streitigkeiten wegen der Rechte und Immunitäten des Klosters gekommen. Diese verschärften sich durch die Einführung der Reformation in <rs type="place" ref="#hildesheim">Hildesheim</rs>. Die Klostergüter wurden inventarisiert, die Herausgabe von Siegel, Schlüsseln, Register und Kopialbüchern wurde erzwungen sowie die Basilika zur evangelischen Pfarrkirche erklärt. Vgl. <rs type="bibl" ref="#aschoff_hildesheim_ii">
+                            <surname type="author">Aschoff</surname>, Hildesheim II, S. 322</rs>.</note> sollen
+            
+            
+            <pb facs="#facs_4" xml:id="img_0004" n="Bl. 2v"/>
+            
+               <lb facs="#facs_4_tr_1_tl_1" n="N001"/>auch gentzlich und alle upgehoiffen<note type="annotation">aufgehoben = beendet.</note> unnd
+               <lb facs="#facs_4_tr_1_tl_2" n="N002"/>beigelicht sein, furbehalt des Gottzhaußes,
+               <lb facs="#facs_4_tr_1_tl_3" n="N003"/>welch men nenned den heiligen Geist<note type="annotation">Vmtl. gemeint: <rs type="place" ref="#heilig_kreuz_hildesheim">Heilig Kreuz Kirche</rs>.</note>, das
+               <lb facs="#facs_4_tr_1_tl_4" n="N004"/>ehrmeltem Kloister also restituirt<note type="annotation">zurückgegeben.</note> werden soll.
+               <lb facs="#facs_4_tr_1_tl_5" n="N005"/>Wie es aber mith den kirchen <rs type="place" ref="#sankt_michael">S. Michaelis</rs>
+               <lb facs="#facs_4_tr_1_tl_6" n="N006"/>unnd <rs type="place" ref="#sankt_lamberti_hildesheim">Lamberti</rs>, so ermeltem kloster zustehen,
+               <lb facs="#facs_4_tr_1_tl_8" n="N007"/>gehalten werden soll, solchs Ist zu hochgemeltem
+               <lb facs="#facs_4_tr_1_tl_9" n="N008"/>unserm gnedigen <rs type="person" ref="#friedrich_hildesheim">fursten</rs> und hern gestaldt<note type="annotation">anheim gestellt, überlassen.</note>,
+               <lb facs="#facs_4_tr_1_tl_10" n="N009"/>das <rs type="person" ref="#friedrich_hildesheim">s<ex>eine</ex> f<ex>ürstlichen</ex> g<ex>naden</ex>
+                    </rs> darein die billicheid<note type="annotation">Rechtmäßgkeit, Gerechtigkeit.</note> und was
+               <lb facs="#facs_4_tr_1_tl_12" n="N010"/>Christlich, wie es <rs type="person" ref="#friedrich_hildesheim">s<ex>einer</ex> f<ex>+rstlichen</ex> g<ex>naden</ex>
+                    </rs> darmith gehalten haben
+               <lb facs="#facs_4_tr_1_tl_13" n="N011"/>wolle, beschaffen muge. Gelichsfals Ist auch
+               <lb facs="#facs_4_tr_1_tl_14" n="N012"/>von dem Erwirdigen hern <rs type="person" ref="#woeller_ulrich">Abt</rs> tho <rs type="place" ref="#sankt_godehard">S. Godhardt</rs>
+               <lb facs="#facs_4_tr_1_tl_15" n="N013"/>bewilligt worden, das alle irrunge unnd
+               <lb facs="#facs_4_tr_1_tl_16" n="N014"/>gebreche<note type="annotation">Streitigkeiten</note> zwischen seiner w. und einem erb.
+               <lb facs="#facs_4_tr_1_tl_19" n="N015"/>Rhaide sollen cassird<note type="annotation">erledigt.</note> und auffgehoben sein,<note type="annotation">Der Stadtrat hatte nach Einführung der Reformation die Klostergüter inventariseren lassen, den Gottesdienst verboten, auch waren die Mönche gefangengesetzt, Teile der Klostergebäube zerstört und das Klostergut schließlich verpfändet bzw. verkauft worden. Vgl. <rs type="bibl" ref="#aschoff_hildesheim_ii">
+                            <surname type="author">Aschoff</surname>, Hildesheim II, S. 325</rs>.</note>
+               <lb facs="#facs_4_tr_1_tl_20" n="N016"/>fhurbehalt der Cloak, der Mulen gerechticheid<note type="annotation">Recht zum Betrieb einer Mühle.</note>,
+               <lb facs="#facs_4_tr_1_tl_21" n="N017"/>wasser kunsth<note type="annotation">Wasserleitung.</note>, Juris dominii des wals,
+               <lb facs="#facs_4_tr_1_tl_23" n="N018"/>der abnutzunge des graßes unnd das der
+               <lb facs="#facs_4_tr_1_tl_26" n="N019"/>wall von dem Slaiffhuiße<note type="annotation">Herberge.</note>, so weid ein
+               <lb facs="#facs_4_tr_1_tl_28" n="N020"/>wage dahin furhen kahn, abgeschuttet werden.
+               <lb facs="#facs_4_tr_1_tl_29" n="N021"/>De Religion aber, wie es mith den Stifften
+               <lb facs="#facs_4_tr_1_tl_30" n="N022"/>zu halten, soll auff vorordung ehrgemeltes
+               <lb facs="#facs_4_tr_1_tl_31" n="N023"/>thokunfftigen <rs type="person" ref="#friedrich_hildesheim">Bischoffs</rs> unnd hern sthen
+               <lb facs="#facs_4_tr_1_tl_32" n="N024"/>bleiben. Im gelichen hat auch der herr
+               <lb facs="#facs_4_tr_1_tl_33" n="N025"/>prior zur <rs type="place" ref="#suelte_hildesheim">Sulthen</rs> aller unnd jeder <w>ahn<pc>-</pc>
+               <lb facs="#facs_4_tr_1_tl_34" n="N026"/>spruchs</w>
+                    <note type="annotation">Klagen.</note> unnd furderunge von thetlich <w>nider<pc>-</pc>
+               <lb facs="#facs_4_tr_1_tl_35" n="N027"/>reisßunge</w> des Klosthers, spoliation<note type="annotation">Plünderung.</note> und ander
+            
+            
+            <pb facs="#facs_5" xml:id="img_0005" n="Bl. 3r"/>
+            
+               <lb facs="#facs_5_tr_1_tl_1" n="N001"/>ander sache halben herrurende<note type="annotation">Im Zuge der Reformation mischte sich der Stadtrat in innere Angelegenheiten des Augustinerchorherrnstifts ein. Und aufgrund der Lage des Stifts an den Befestigungsanlagen der <rs type="place" ref="#hildesheim">Stadt</rs> kam es zudem aus sicherheitspolitischen Erwägungen beständig zu Streitigkeiten zwischem dem Magistrat und dem Stift. Im Jahr <date when="1546">1546</date> wurde das Stift dann zerstört und die mittelalterliche Bibliothek ging verloren. Vgl. <rs type="bibl" ref="#aschoff_hildesheim_ii">
+                            <surname type="author">Aschoff</surname>, Hildesheim II, S. 312</rs>.</note> gentzlich unnd
+               <lb facs="#facs_5_tr_1_tl_2" n="N002"/>gaer begeben<note type="annotation">aufgegeben.</note>, wie dahn auch Im geleich der
+               <lb facs="#facs_5_tr_1_tl_3" n="N003"/>Carthußer<note type="annotation">Das Kloster der Karthäuser war <date when="1546">1546</date> abgebrochen worden. Allerdings bemühten sich diese um ihre Rückkehr, so dass nach Abschluss des Vertrages <date when="1553">1553</date> mit einem Wiederaufbau begonnen wurde. Vgl. <rs type="bibl" ref="#aschoff_hildesheim_ii">
+                            <surname type="author">Aschoff</surname>, Hildesheim II, S. 345</rs>.</note> fhur der <rs type="place" ref="#hildesheim">Stad Hildesham</rs> alles nach
+               <lb facs="#facs_5_tr_1_tl_4" n="N004"/>laudt unnd eynholdt<note type="annotation">Inhalt.</note> mith gedachten Stifften <w>uff<pc>-</pc>
+               <lb facs="#facs_5_tr_1_tl_5" n="N005"/>gerichem</w> vortrage;<note type="annotation">Z.B war nach Erlass eines kaiserlichen Mandats <date when="1548">1548</date> ein Aussöhnungsvertrag zwischen dem Stadtrat und dem Kloster <rs type="place" ref="#sankt_michael">St. Michael</rs> geschlossen worden (<date when="1549-01-19">19. Januar 1549</date>). Vgl. <rs type="bibl" ref="#aschoff_hildesheim_ii">
+                            <surname type="author">Aschoff</surname>, Hildesheim II, S. 325</rs>.</note> j[e]doch haben alle und je
+               <lb facs="#facs_5_tr_1_tl_6" n="N006"/>vorgemelten<note type="annotation">vorgenannten.</note> Stiffen unnd Kloister sich cum solenni
+               <lb facs="#facs_5_tr_1_tl_7" n="N007"/>protestatione<note type="annotation">mit feierlicher Erklärung.</note> furbehalten, wie ihnen auch von den
+               <lb facs="#facs_5_tr_1_tl_8" n="N008"/>gesanten ahnstaed<note type="annotation">von den Gesandten sind alle möglichen Verfahren gegen die Klöster und Stifte ausgesetzt worden.</note> unnd von wegen des <w>zu<pc>-</pc>
+               <lb facs="#facs_5_tr_1_tl_10" n="N009"/>kunfftigen</w> <rs type="person" ref="#friedrich_hildesheim">herrn</rs> unnd einem erb. Raedt <w>endth<pc>-</pc>
+               <lb facs="#facs_5_tr_1_tl_11" n="N010"/>lich</w> bewilligt unnd zugesagt Ist, das ein
+               <lb facs="#facs_5_l" n="N011"/>isliger<note type="annotation">jeder.</note>, furbemelter<note type="annotation">vorgenannter.</note> Stifft unnd Klosther
+               <lb facs="#facs_5_tr_1_tl_13" n="N012"/>samptlich unnd in ßunderheidt hinfuro nhu
+               <lb facs="#facs_5_tr_1_tl_14" n="N013"/>bei seinen althen, wolhergebrachten habenden und
+               <lb facs="#facs_5_tr_1_tl_15" n="N014"/>geburenden Rechten unnd gerechticheiden
+               <lb facs="#facs_5_tr_1_tl_16" n="N015"/>unvorhindert reulich<note type="annotation">gütig.</note> pleiben, beschuttzet
+               <lb facs="#facs_5_tr_1_tl_17" n="N016"/>unnd beschirmedt, auch mith nichten daruber
+               <lb facs="#facs_5_tr_1_tl_18" n="N017"/>beswerd oder belestiget werden sollen,
+               <lb facs="#facs_5_tr_1_tl_20" n="N018"/>daruf auch ein erb. Raedt einem Isligen<note type="annotation">jeden.</note>
+               <lb facs="#facs_5_tr_1_tl_21" n="N019"/>Stifft kegen Uberandtwordung der <w>schrifft<pc>-</pc>
+               <lb facs="#facs_5_tr_1_tl_22" n="N020"/>ligen</w>, vorsigelten erlassunge<note type="annotation">Freistellung, amtliches Schriftstück.</note> geburlich <w>Rever<pc>-</pc>
+               <lb facs="#facs_5_tr_1_tl_23" n="N021"/>salbrief</w>, das den also beschein<note type="annotation">dass dies also gehandhabt werden.</note> soll, <w>her<pc>-</pc>
+               <lb facs="#facs_5_tr_1_tl_24" n="N022"/>außer</w> geben sollen.</p> 
+                
+            <p xml:id="artikel_4" resp="JML">
+                    <supplied reason="article_added">4</supplied> Hirmit sollen alle <w>fhur<pc>-</pc>
+               <lb facs="#facs_5_tr_1_tl_25" n="N023"/>bemelten</w> sachen, irrung, widerwerticheiten,
+               <lb facs="#facs_5_tr_1_tl_26" n="N024"/>so sich dieße zeithhero biß ahn dieße
+               <lb facs="#facs_5_tr_1_tl_27" n="N025"/>sthunde zwischen der clerisey und Stifften
+               <lb facs="#facs_5_tr_1_tl_28" n="N026"/>begeben unnd zugetragen, wie die nhamen
+               <lb facs="#facs_5_tr_1_tl_30" n="N027"/>haben mogen, gentzlich auffgehoben, abgeschaffet,
+            
+            
+            <pb facs="#facs_6" xml:id="img_0006" n="Bl. 3v"/>
+            
+            
+               <lb facs="#facs_6_tr_2_tl_1" n="N001"/>getodt unnd abeßin<note type="annotation">getötet und ab sein = null und nichtig sein.</note> unnd pleiben, <w>unwidee<pc>-</pc>
+               <lb facs="#facs_6_tr_2_tl_2" n="N002"/>ruplich</w>.</p> 
+               
+             <p xml:id="artikel_5" resp="JML">
+                    <supplied reason="article_added">5</supplied> Unnd kegen sulche abgehandelthe
+               <lb facs="#facs_6_tr_2_tl_3" n="N003"/>punct wolle ein erb. Raedt vier unnd
+               <lb facs="#facs_6_tr_2_tl_4" n="N004"/>zwentzigk Mahn, Olderman der gemeinheidt,
+               <lb facs="#facs_6_tr_2_tl_5" n="N005"/>vier Ampt unnd vif gilde unnd gantze
+               <lb facs="#facs_6_tr_2_tl_6" n="N006"/>gemeine der <rs type="place" ref="#hildesheim">Stad Hildeshem</rs>, wie auch <w>endth<pc>-</pc>
+               <lb facs="#facs_6_tr_2_tl_7" n="N007"/>lich</w> hirmith bewilligtt unnd zugesagtt Isth,
+               <lb facs="#facs_6_tr_2_tl_9" n="N008"/>das <rs type="place" ref="#peine_burg">hauß Peine</rs>, ahne einige <w>widerendth<pc>-</pc>
+               <lb facs="#facs_6_tr_2_tl_10" n="N009"/>gelthnisse</w>, dem hochgemelten <rs type="person" ref="#friedrich_hildesheim">fursthen</rs> <w>zu<pc>-</pc>
+               <lb facs="#facs_6_tr_2_tl_11" n="N010"/>stellen</w> unnd einrhumen, wan s<ex>ein</ex> f<ex>ürstliche</ex> g<ex>naden</ex> <w>ahnko<pc>-</pc>
+               <lb facs="#facs_6_tr_2_tl_12" n="N011"/>men</w> werden, In massen ein erb<ex>arer</ex> Raedt
+               <lb facs="#facs_6_tr_2_tl_13" n="N012"/>sich solchs hirmit auch vorplichtet halten
+               <lb facs="#facs_6_tr_2_tl_14" n="N013"/>unnd haben will. J[e]doch, das hochgemelter
+               <lb facs="#facs_6_tr_2_tl_15" n="N014"/>
+                    <rs type="person" ref="#friedrich_hildesheim">fursthe</rs> die vorschreibunge, so zwischen
+               <lb facs="#facs_6_tr_2_tl_16" n="N015"/>einem erb<ex>aren</ex> Rhaide der <rs type="place" ref="#hildesheim">Stadt Hildesheme</rs> und
+               <lb facs="#facs_6_tr_2_tl_17" n="N016"/>den von Obarge<note type="annotation">Der Familie von Obarge waren <rs type="place" ref="#peine_amt">Amt</rs> und <rs type="place" ref="#peine_burg">Burg Peine</rs> vor der Stadt <rs type="place" ref="#hildesheim">Hildesheim</rs> verpfändet gewesen und die <rs type="place" ref="#hildesheim">Stadt</rs> schuldete denen von Obarge die entsprechende Summe. Vgl. <rs type="bibl" ref="#aschoff_hildesheim">
+                            <surname type="author">Aschoff</surname>, Hildesheim, S. 73</rs>.</note> der Resth, alß zehentausent
+               <lb facs="#facs_6_tr_2_tl_19" n="N017"/>gulden halben, In massen unnd gestaldt <w>die<pc>-</pc>
+               <lb facs="#facs_6_tr_2_tl_20" n="N018"/>selben</w> lauthet, auf unnd ahn sick<note type="annotation">sich.</note> nhemen
+               <lb facs="#facs_6_tr_2_tl_21" n="N019"/>unnd die <rs type="place" ref="#hildesheim">Stad Hildenshem</rs> der von Obarge
+               <lb facs="#facs_6_tr_2_tl_22" n="N020"/>ansprache<note type="annotation">Ansprüche, Forderungen.</note> halben, so von den Zehentausent
+               <lb facs="#facs_6_tr_2_tl_23" n="N021"/>gulden herruren, gentzlichen vortrede<note type="annotation">vertrete.</note>, <w>be<pc>-</pc>
+               <lb facs="#facs_6_tr_2_tl_24" n="N022"/>nhemen</w>
+                    <note type="annotation">entlaste.</note> unnd schadeloiß halthe, das die
+               <lb facs="#facs_6_tr_2_tl_25" n="N023"/>gesanten ahn hogest unnd hochgedachte <rs type="person" ref="#karl_v">kei<ex>serliche</ex> Ma<ex>jestä</ex>t</rs>
+               <lb facs="#facs_6_tr_2_tl_27" n="N024"/>unnd <rs type="person" ref="#friedrich_holstein">f<ex>ürstlichen</ex> g<ex>naden</ex>
+                    </rs> zu gelangen unnd fhur <w>ein<pc>-</pc>
+               <lb facs="#facs_6_tr_2_tl_30" n="N025"/>ruminge</w> des <rs type="place" ref="#peine_burg">haußes</rs> endliche ercleringe<note type="crit_app">Am Rand nachträglich eingefügt.</note> zu beschaffende
+               <lb facs="#facs_6_tr_2_tl_32" n="N026"/>zugesagt, auch zu der zeid, wan <rs type="person" ref="#friedrich_hildesheim">s<ex>seine</ex> f<ex>ürstlichen</ex> g<ex>naden</ex>
+                    </rs>
+               <lb facs="#facs_6_tr_2_tl_34" n="N027"/>alhir gelucklich ahnlanget, des vorraidtzs des
+            
+            
+            <pb facs="#facs_7" xml:id="img_0007" n="Bl. 4r"/>
+            
+               <lb facs="#facs_7_tr_1_tl_1" n="N001"/>korns, kuie<note type="annotation">Kühe.</note> unnd varenderhaiffe<note type="annotation">Wohl: fahrende Habe, im Sinne von: mobile Güter, Haushaltsgegenstände.</note> halben zimlig
+               <lb facs="#facs_7_tr_1_tl_2" n="N002"/>landßgebruicklich abtrag<note type="annotation">Entschädigung.</note> tuin lassen. J[e]doch, was
+               <lb facs="#facs_7_tr_1_tl_3" n="N003"/>von geschuitze von althers auf dem <rs type="place" ref="#peine_burg">huße</rs> <w>gewe<pc>-</pc>
+               <lb facs="#facs_7_tr_1_tl_4" n="N004"/>sen</w>, von dubbelden haiken<note type="annotation">Doppelhaken = eine Feuerwaffe, Schusswaffe.</note> und andrem, auch
+               <lb facs="#facs_7_tr_1_tl_5" n="N005"/>was sunsth zum <rs type="place" ref="#peine_burg">huiße</rs> gehorich, soll <w>unvor<pc>-</pc>
+               <lb facs="#facs_7_tr_1_tl_6" n="N006"/>rucket</w> dabei pleiben.</p> 
+                
+            <p resp="JML">Des In orkundt
+               <lb facs="#facs_7_tr_1_tl_7" n="N007"/>unnd stheter, vesther<note type="annotation">stets und fest = feststehende, formelhafte Wendung in der Sprache des Rechts, mit der Beutung: dauerhaft gültig. </note> allerzeidtz haltunge haben
+               <lb facs="#facs_7_tr_1_tl_8" n="N008"/>die uffgemelt<note type="annotation">oft genannten.</note> gesanten ihre ahngeborne pitzir<note type="annotation">Siegel.</note>
+               <lb facs="#facs_7_tr_1_tl_10" n="N009"/>unnd ein erb<ex>arer</ex> Raedt gelichsfals der <rs type="place" ref="#hildesheim">Stad</rs>
+               <lb facs="#facs_7_tr_1_tl_11" n="N010"/>Secredt<note type="annotation">Siegel.</note> wissendlich hirunden gedruckt, und
+               <lb facs="#facs_7_tr_1_tl_12" n="N011"/>sein solcher vorschreibunge gelichludes<note type="annotation">gleichlautend.</note> zwe
+               <lb facs="#facs_7_tr_1_tl_13" n="N012"/>gemaket, welcher ein die gesanten, de
+               <lb facs="#facs_7_tr_1_tl_14" n="N013"/>ander ein erb. Raedt ahn sich genhomen.
+               <lb facs="#facs_7_tr_1_tl_15" n="N014"/>Nach Christi geburd <date when="1553-07-21">thausent funffhundert dre und
+               <lb facs="#facs_7_tr_1_tl_16" n="N015"/>funffzig jar, Mitwochen nach Viti<note type="annotation">Der Tag <q>Viti, Modestie et Crescentie</q> bezeichnet den 15. Juni.</note>
+                    </date>.
+            </p>
+         </tei:div>
+      </body>
+      
+   </text>
+</tei:TEI>

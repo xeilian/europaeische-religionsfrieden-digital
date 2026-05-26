@@ -1,0 +1,2826 @@
+<?xml-model href="../../../customization/schema_quellentexte/religionsfrieden-quellentexte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa000008-0308">
+        <teiHeader>      
+                <fileDesc>         
+                        <titleStmt>
+                                <title level="a">Toleranzgesetze Josephs II. (1781-1783)</title>
+                                <title level="s">Europäische Religionsfrieden Digital</title>
+                                 
+                                
+                                <editor role="http://id.loc.gov/vocabulary/relators/edt" ref="https://orcid.org/0000-0002-1696-925X">
+                    <persName>Corinna Ehlers</persName>
+                </editor>
+                                <respStmt>
+                    <resp ref="http://id.loc.gov/vocabulary/relators/mrk">Mitarbeit</resp>
+                    <persName>Kevin Wunsch</persName>
+                    <persName>Silke Kalmer</persName>
+                </respStmt>           
+                        </titleStmt>         
+                        <editionStmt>
+                                <edition>Digitale Edition gemäß <ref target="http://www.tei-c.org/">TEI P5</ref>
+                </edition>
+                                <funder>Akademie der Wissenschaften und der Literatur Mainz</funder>
+                <principal>Unter der Leitung von Irene Dingel und Thomas Stäcker</principal>
+                        </editionStmt>         
+                        <publicationStmt>
+                                <publisher>
+                                        <orgName ref="http://www.isni.org/0000000119314040">Leibniz-Institut für Europäische Geschichte Mainz</orgName>
+                                </publisher>           
+                                <distributor>
+                                        <orgName ref="http://www.isni.org/0000000110101946">Universitäts- und Landesbibliothek Darmstadt</orgName>
+                                        <idno type="ISIL">http://lobid.org/organisation/DE-17</idno>
+                                </distributor>
+                                <date when="2013-10-17" type="issued">2013</date>
+                                <availability>
+                                        <licence target="https://creativecommons.org/licenses/by/4.0/">
+                                                <p xml:lang="en">This file is licensed under the terms of the Creative Commons License CC-BY 4.0 (Attribution 4.0 International)</p>
+                                        </licence>
+                                </availability>
+                        </publicationStmt>        
+                        <sourceDesc>
+                <p>Textgrundlage s. ggf. Einleitung.</p>
+            </sourceDesc>
+                </fileDesc>      
+                <encodingDesc>         
+                        <projectDesc>
+                                <p>
+                    <ref target="https://eured.de">Europäische Religionsfrieden Digital</ref>
+                </p>
+                        </projectDesc>
+                        <classDecl>
+                                <taxonomy xml:id="marcrelator">
+                                        <bibl>
+                        <idno type="URI">http://id.loc.gov/vocabulary/relators/</idno> MARC Code List for Relators </bibl>
+                                </taxonomy>
+                        </classDecl>         
+                </encodingDesc>      
+                <profileDesc>         
+                        <langUsage>
+                                <language ident="deu">Deutsch</language>
+                        </langUsage>         
+                </profileDesc>      
+                <!--<revisionDesc><change/></revisionDesc>-->   
+        </teiHeader>
+    <standOff>
+        <listPerson>
+            <person xml:id="joseph_ii">
+                    <persName ref="http://d-nb.info/gnd/118558404">
+                        <forename>Joseph II.</forename>
+                        <roleName>Kaiser</roleName>
+                    </persName>
+                    <note>Kaiser des <rs type="place" ref="#heiliges_roemisches_reich">Heiligen
+                            Römischen Reichs</rs>.</note>
+                </person>
+            <person xml:id="moesle_johann">
+                    <persName ref="http://d-nb.info/gnd/1037500075">
+                        <forename>Johann Georg</forename>
+                        <nameLink>von</nameLink>
+                        <surname>Moesle</surname>
+                    </persName>
+                </person>
+            <person xml:id="pius_vi">
+                    <persName ref="http://d-nb.info/gnd/118594710">
+                        <forename>Pius VI.</forename>
+                        <roleName>Papst</roleName>
+                    </persName>
+                    <note>Braschi, Giovanni Angelo</note>
+                </person>
+        </listPerson>
+        <listPlace>
+            <place xml:id="heiliges_roemisches_reich">
+                    <placeName ref="http://d-nb.info/gnd/2035457-5">Heiliges Römisches Reich
+                        Deutscher Nation</placeName>
+                    <!-- dnb link geprüft, BM, 18.1.2021 -->
+                </place>
+            <place xml:id="wien">
+                    <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
+                </place>
+            <place xml:id="boehmen_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/63739-7">Böhmen, Königreich</placeName>
+                    <!-- dnb link geprüft, BM, 14.1.2021 -->
+                </place>
+            <place xml:id="ungarn_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/4078541-5">Ungarn, Königreich</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="schlesien_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/24372-3">Ober- und Niederschlesien,
+                        Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="graz">
+                    <placeName ref="http://www.geonames.org/2778067/graz.html">Graz</placeName>
+                </place>
+            <place xml:id="dalmatien">
+                    <placeName>Dalmatien, Region</placeName>
+                </place>
+            <place xml:id="kroatien_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/4073841-3">Kroatien-Slawonien,
+                        Königreich</placeName>
+                    <!-- dnb Link überprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="slawonien">
+                    <placeName ref="http://d-nb.info/gnd/4055289-5">Slawonien</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="pressburg">
+                    <placeName ref="http://www.geonames.org/3060972/bratislava.html">Preßburg
+                        (Bratislava)</placeName>
+                </place>
+            <place xml:id="maehren_markgrafschaft">
+                    <placeName ref="http://d-nb.info/gnd/4074432-2">Mähren,
+                        Markgrafschaft</placeName>
+                    <!-- dnb link geprüft und aktualisiert, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="oesterreich_erzherzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4075601-4">Österreich,
+                        Erzherzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+        </listPlace>
+    </standOff>
+        
+
+
+<!--        <facsimile> 
+               <surface xml:id="nn"><graphic url=""/></surface> <!-\- kein Faksimile vorhanden -\->
+        </facsimile>-->
+<text>
+<body> 
+<div>
+        <head>
+                <lb/>
+                    <pb facs="" type="seite" n="Titel"/>Handbuch
+                <lb/>aller unter der Regierung des Kaisers
+                <lb/>
+                    <rs type="person" ref="#joseph_ii">Joseph des II.</rs> für die K<am>.</am>
+                    <ex>aiserlich</ex> K<am>.</am>
+                    <ex>öniglichen</ex> Erbländer
+                <lb/>ergangenen Verordnungen und Gesetze
+                <lb/>in einer
+                <lb/>Sistematischen Verbindung
+                <lb/>enthält
+                <lb/>die Verordnungen und Gesetze
+                <lb/>vom Jahre
+                <lb/>1780 bis 1784.
+        </head>
+        <head>
+                <lb/>Zweiter Band.
+                <lb/>Mit allergnädigster Freiheit.
+        </head>
+        <head>
+                <lb/>
+                    <rs type="place" ref="#wien">Wien</rs>
+                <lb/>Verlegt bei <rs type="person" ref="#moesle_johann">Joh<am>.</am>
+                        <ex>ann</ex> Georg Moesle</rs>,
+                <lb/>K<am>.</am>
+                    <ex>aiserlich</ex> K<am>.</am>
+                    <ex>öniglich</ex> privil<am>.</am>
+                    <ex>egierter</ex> Buchhandler,
+                <lb/>1785.
+        </head>
+        <p>
+                    <pb facs="" type="seite" n="Titelrückseite"/>
+                </p>
+</div>
+<div>
+        <head>
+                <lb/>
+                    <pb facs="" type="seite" n="1"/>Vierte
+                <lb/>Hauptabtheilung.
+                <lb/>Geistliche Sachen
+                <lb/>und
+                <lb/>Stiftungsangelegenheiten.
+                <lb/>Zweiter Band.
+        </head>
+        <p>
+                [...]<note type="annotation">S. 2-420 enthalten keine Toleranzbestimmungen und sind daher in der vorliegenden Edition nicht aufgenommen.</note>
+        </p>
+</div>
+
+<div>
+<head>
+<lb/>
+                    <pb facs="" type="seite" n="421"/>Fünfter Absatz.
+</head>
+<head>
+<lb/>Toleranz der geduldeten Religionen.
+</head>
+<head>
+<lb/>Toleranz <hi rend="antiqua"> N. I.</hi>
+</head>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Das Religionspatent: aller Unterschied zwischen Katholischen und Protestanten hört auf.</note>Das ganze Religionspatent, wo irgend eines
+<lb/>eingeführt war, soll von nun an aufgehoben, alle <w>da
+<pc>-</pc>
+                        <lb/>rinn</w> anbefohlenen Ausübungen eingestellt und in
+<lb/>keinem Stücke ein Unterschied zwischen Katholiken
+<lb/>und Protestanten mehr gemacht werden. Was die
+<lb/>muthwilligen Aufhetzer oder die im Land <w>herum
+<pc>-</pc>
+                        <lb/>irrenden</w> Verführer betrifft, sind solche nach den
+<lb/>allgemeinen politischen Gesetzen einzuziehen und zu
+<lb/>bestrafen.</p>
+<p>
+<lb/>Hofdekr<am>.</am>
+                    <ex>et</ex> vom 30. Juni 1781.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Wie sich gegen irrgläubige Landesinwohner zu benehmen sei.</note>Solang sich die irrgläubigen Landesinwohner
+<lb/>ruhig und friedlich betragen, ist ihre Bekehrung
+<lb/>lediglich der unendlichen Barmherzigkeit Gottes
+<lb/>und der bescheidenen Mitwirkung der Geistlichkeit
+<lb/>zu überlassen. Wenn sie sich aber unterstünden,
+<lb/>andere von dem katholischen Glauben abwendig zu
+<lb/>machen und zu verführen, so sind sie nach der <w>obi
+<pc>-</pc>
+                        <lb/>gen</w> Vorschrift zu bestrafen. Doch bleibt der <w>Lan
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="" type="seite" n="422"/>desstelle</w> über, diese Strafe härter oder gelinder zu
+<lb/>verhängen.</p>
+<p>
+<lb/>Hofdekret vom 28. August 1781.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Toleranzgesetz.</note>Den augsburgischen und helvetischen <w>Religi
+<pc>-</pc>
+                        <lb/>onsverwandten</w>, dann den nicht unirten Griechen,
+<lb/>wird ein ihrer Religion gemässes Privatexerzizium
+<lb/>allenthalben gestattet, und es soll der katholischen
+<lb/>Religion allein der Vorzug des öffentlichen <w>Reli
+<pc>-</pc>
+                        <lb/>gionsexerziziums</w> verbleiben, den beiden <w>protestan
+<pc>-</pc>
+                        <lb/>tischen</w> Religionen aber, so wie der schon <w>bestehen
+<pc>-</pc>
+                        <lb/>den</w> nicht unirten griechischen, ist überall, wo es
+<lb/>nach der unten bemerkten Anzahl der Menschen
+<lb/>und nach den Fakultäten der Einwohner thunlich
+<lb/>ist und die Akatholischen nicht bereits im Besitze
+<lb/>des öffentlichen Religionsexerziziums<note type="crit_app">Korrigiert aus: Religionsexerziums.</note> stehen, das
+<lb/>Privatexerzizium auszuüben erlaubt. Daher</p>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Vorschrift in Absicht des Bethauses.</note>1) den akatholischen Unterthanen, wo <w>hun
+<pc>-</pc>
+                        <lb/>dert</w> Familien existiren, wenn sie auch nicht in
+<lb/>einem Orte, sondern einige Stunden entfernt <w>woh
+<pc>-</pc>
+                        <lb/>nen</w>, ein eigenes Bethaus, jedoch – wo es nicht
+<lb/>schon anders ist – ohne Glocken, Thürme und
+<lb/>öffentlichen Eingang von der Gasse, nebst einer
+<lb/>Schule, zu erbauen, auch alle Administrirung ihrer
+<lb/>Sakramente und Ausübung des Gottesdienstes, <w>so
+<pc>-</pc>
+                        <lb/>wohl</w> im Orte selbst als auch deren <w>Uiberbrin
+<pc>-</pc>
+                        <lb/>gung</w> zu den Kranken in den dazu gehörigen <w>Filia
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="" type="seite" n="423"/>len</w>, dann die öffentlichen Begräbnisse mit <w>Beglei
+<pc>-</pc>
+                        <lb/>tung</w> ihres Geistlichen, erlaubt wird. Die weiter
+<lb/>entfernten aber können sich in das nächste, jedoch
+<lb/>inner den k<am>.</am>
+                    <ex>aiserlich</ex> k<am>.</am>
+                    <ex>öniglichen</ex> Erbländern befindliche Bethaus
+<lb/>begeben, ihre erbländischen Geistlichen und <w>Glau
+<pc>-</pc>
+                        <lb/>bensverwandten</w> besuchen und ihren Kranken mit
+<lb/>nöthigem Seelen- und Leibestroste beistehen, jedoch
+<lb/>unter schwerester Verantwortung nie verhindern,
+<lb/>daß ein von dem Kranken verlangter katholischer
+<lb/>Geistlicher berufen werde.</p>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: 100 Familien oder 500 Personen können ein Bethaus einrichten.</note>Wenn sich 100 Familien oder nur 500 <w>Perso
+<pc>-</pc>
+                        <lb/>nen</w> zu einer der tolerirten Religionen bekennt
+<lb/>haben, ist ihnen gestattet, ein schon <w>beste
+<pc>-</pc>
+                        <lb/>hendes</w> oder ein neues Bethaus zu ihrem
+<lb/>Gottesdienste einzurichten und einen <w>Seel
+<pc>-</pc>
+                        <lb/>sorger</w> von ihrer Religion auszusuchen.</p>
+<p>
+<lb/>Hofdekret vom 31. Jäner 1782.</p>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Was die Kreisämter dabei wegen der Sicherstellung der Abgaben zu leisten haben.</note>Dann haben die Kreisämter auf die Sicherstellung
+<lb/>und Richtigkeit der Landes- und übrigen <w>Ab
+<pc>-</pc>
+                        <lb/>gaben</w> den sorgfältigsten Bedacht zu nehmen,
+<lb/>damit auch die von den Unterthanen zur <w>Her
+<pc>-</pc>
+                        <lb/>stellung</w> ihrer Bet- und Schulhäuser <w>überneh
+<pc>-</pc>
+                        <lb/>menden</w> Beiträge nicht entweder dem <w>Kon
+<pc>-</pc>
+                        <lb/>tribuzions-</w> oder ihrem guten Nahrungsstande
+<lb/>nachtheilig werden und die landesfürstlichen
+<lb/>oder sonstigen Schuldigkeiten ins Stecken <w>ge
+<pc>-</pc>
+                        <lb/>rathen</w>. Uibrigens wird den Unterthanen <w>ge
+<pc>-</pc>
+                        <lb/>stattet</w>, zur Erbauung ihrer Bet- und <w>Schul
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="" type="seite" n="424"/>häuser</w> und Unterhaltung der Pastoren auser
+<lb/>Lande Kollekten zu machen.</p>
+<p>
+<lb/>Hofdekret vom 6. März 1782.</p>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Was zu thun sei, wenn die Ortschaften [korrigiert aus: Ortschaft ten] die Zahl von 100 [korrigiert aus: 0] Familien oder 500 Personen übersteigen.</note>Und wenn auch die nahe gelegenen Ortschaften
+<lb/>oder Gemeinden die normalmässige Zahl von
+<lb/>100 Familien oder 500 Personen übersteigen,
+<lb/>sollen sie, um durch Erbauung mehrerer <w>Ora
+<pc>-</pc>
+                        <lb/>torien</w> und Aushaltung mehrerer Pastoren
+<lb/>in keinen Uibereilungsschaden zu verfallen,
+<lb/>indessen mit einem den Anfang machen, wo
+<lb/>mit der Zeit, wenn es ihren Kräften <w>ange
+<pc>-</pc>
+                        <lb/>messen</w> gefunden würde, ihnen ohne Anstand
+<lb/>ein zweites, auch drittes Oratorium gestattet
+<lb/>werden wird.</p>
+<p>
+<lb/>Hofdekret vom 13. März 1782.</p>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Alte zerfallene katholische oder protestantische Kirchen können den protestantischen Gemeinden überlassen werden.</note>Wo aber alte zerfallene Kirchen, welche zum <w>ka
+<pc>-</pc>
+                        <lb/>tholischen</w> Gebrauche nie verwendet worden
+<lb/>sind, oder vormals gewesene protestantische
+<lb/>Kirchen sich befinden, derer Steine und <w>Ma
+<pc>-</pc>
+                        <lb/>terialien</w> noch vorhanden sind, so können <w>sel
+<pc>-</pc>
+                        <lb/>be</w> den protestantischen Gemeinden zur <w>Er
+<pc>-</pc>
+                        <lb/>sparung</w> der Kosten überlassen werden, doch
+<lb/>dergestalt, daß sie solche auf die <w>vorgeschrie
+<pc>-</pc>
+                        <lb/>bene</w> Art errichten oder aufbauen und das
+<lb/>Kreisamt von jedem sich ereignenden <w>Uiber
+<pc>-</pc>
+                        <lb/>lassungsfalle</w> die Anzeige an die Landesstelle
+<lb/>zu machen habe.</p>
+<p>
+<lb/>Hofdekret vom 18. März 1782.</p>
+
+<p>
+<lb/>
+                    <pb facs="" type="seite" n="425"/>
+                    <note type="crit_app">Im Druck als Seite 325 bezeichnet.</note> <note type="crit_app">Am äußeren Rand: Bis zur Errichtung der Bethäuser können sie an einem bestimmten Orte ihre Andacht verrichten.</note>Bis zur Errichtung eigener Bethäuser können sie
+<lb/>indessen an Sonntagen an einem bestimmten
+<lb/>Orte, ohne jedesmal einen Erlaubnißzettel
+<lb/>ansuchen zu müssen, ihre Andachtsübungen
+<lb/>verrichten, welches auch von den Hussiten
+<lb/>unter dem Namen Lutheraner zu verstehen ist.</p>
+<p>
+<lb/>Verordnung in <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs> vom 26. April 1782.</p>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Wegen der Schulmeister.</note>2) Können sie ihre eigenen von den <w>Ge
+<pc>-</pc>
+                        <lb/>meinden</w> zu erhaltenden Schulmeister bestellen, über
+<lb/>welche jedoch die Landesschuldirekzion, was die
+<lb/>Lehre, Methode und Ordnung betrifft, die Einsicht
+<lb/>zu nehmen hat.</p>
+<p>
+<lb/>Mehrmal verordnet mittels des Hofdekrets vom 31.
+<lb/>Jäner 1782.</p>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Die Akatholischen sollen indessen die Kinder in die nächste Normalschule schicken.</note>Die Akatholischen aber müssen ihre Kinder <w>in
+<pc>-</pc>
+                        <lb/>dessen</w>, bis sie eigene Seelsorger und <w>Schul
+<pc>-</pc>
+                        <lb/>lehrer</w> haben werden, in die nach der <w>Nor
+<pc>-</pc>
+                        <lb/>malvorschrift</w> eingerichtete nächste Schule <w>schi
+<pc>-</pc>
+                        <lb/>cken</w>.</p>
+<p>
+<lb/>Hofdekret vom 31 Jäner 1782.</p>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Diese Kinder bleiben aus, wenn der katholische Religionsunterricht gegeben wird.</note>Diese akatholischen Kinder können, so oft der <w>Re
+<pc>-</pc>
+                        <lb/>ligionsunterricht</w> gegeben wird, aus der <w>Schu
+<pc>-</pc>
+                        <lb/>le</w> gehen.</p>
+<p>
+<lb/>Hofdekret vom 23. August 1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <pb facs="" type="seite" n="426"/> <note type="crit_app">Am äußeren Rand: Wo katholische Schulmeister sind, ist kein akatholischer nöthig.</note>Und wo schon katholische Schulmeister sind, da ist
+<lb/>die Aufstellung akatholischer Schulmeister nicht
+<lb/>nöthig; hingegen muß in jenen Orten, wo
+<lb/>kein katholischer Schulmann sich befindet und
+<lb/>die Zahl der akatholischen Kinder entweder im
+<lb/>Orte oder in einer solchen Nachbarschaft,
+<lb/>aus welcher die Kinder ganz füglich <w>dahin
+<pc>-</pc>
+                        <lb/>kommen</w> können, so beschaffen ist, daß man
+<lb/>sonst einen Schulmeister zu halten pflegt, für
+<lb/>die Errichtung einer akatholischen Schule <w>ge
+<pc>-</pc>
+                        <lb/>sorgt</w> werden.</p>
+<p>
+<lb/>Hofdekret vom 23. August 1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Welchen die Besuchung der Schulen in <rs type="place" ref="#ungarn_koenigreich">Hungarn</rs> erlaubt sei.</note>Die Besuchung der Schulen, dann der <w>Aufent
+<pc>-</pc>
+                        <lb/>halt</w> und Unterricht der helvetischen <w>Religi
+<pc>-</pc>
+                        <lb/>onsverwandten</w> in <rs type="place" ref="#ungarn_koenigreich">Hungarn</rs> soll nur jenen <w>ge
+<pc>-</pc>
+                        <lb/>stattet</w> werden, welche sich mit einem <w>kreis
+<pc>-</pc>
+                        <lb/>ämtlichen</w> auf das Datum der landesstelligen
+<lb/>Bewilligung beziehenden Passe ausweisen <w>wer
+<pc>-</pc>
+                        <lb/>den</w>.</p>
+<p>
+<lb/>Hofdekret vom 6. Hornung 1783.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Die Akatholischen können Schulmeister halten, müssen aber solche erhalten.</note>Es werden den Akatholischen Schulmeister <w>gestat
+<pc>-</pc>
+                        <lb/>tet</w>
+                    <note type="crit_app">Korrigiert aus: gestatstet.</note>, jedoch müssen sie selbst von ihnen <w>unter
+<pc>-</pc>
+                        <lb/>halten</w> werden und normalmäßig geprüft 
+<lb/>sein.</p>
+<p>
+<lb/>Hofdekret vom 14. November 1783.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <pb facs="" type="seite" n="427"/> <note type="crit_app">Am äußeren Rand: Wie und von wem die Pastoren gewählt werden.</note>3) Dürfen sie, wenn selbe ihre Pastoren <w>do
+<pc>-</pc>
+                        <lb/>tiren</w> und unterhalten, dieselben auswählen; wenn
+<lb/>aber die Obrigkeiten selbe dotiren und unterhalten
+<lb/>wollen, so haben sie das <hi rend="antiqua">ius praesentandi</hi>. Jedoch
+<lb/>soll die Konfirmazion durch die existirenden <w>prote
+<pc>-</pc>
+                        <lb/>stantischen</w> Konsistorien und wo keine sind, durch
+<lb/>die im <rs type="place" ref="#teschen_herzogtum">Teschnischen</rs><!-- zusätzliche Sachanm. --> oder <rs type="place" ref="#ungarn_koenigreich">Hungarn</rs> schon bestehenden 
+<lb/>protestantischen Konsistorien ertheilt werden, so 
+<lb/>lange, bis nicht die Umstände fodern, in den <w>Län
+<pc>-</pc>
+                        <lb/>dern</w> eigene Konsistorien zu errichten.</p>
+<p>
+<lb/>Republizirt in <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs> mittels Verordnung vom 7.
+<lb/>August 1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Alle anzustellende Pastoren müssen Attestate haben [korrigiert aus: hahen].</note>Alle anzustellenden Pastoren sollen entweder von
+<lb/>dem <rs type="place" ref="#teschen_herzogtum">teschnischen</rs> Konsistorium augsburgischer
+<lb/>Konfession, oder von dem Superintendenten in
+<lb/>dem Königreiche <rs type="place" ref="#ungarn_koenigreich">Hungarn</rs> die erfoderlichen
+<lb/>Attestate über ihren Lebenswandel und ihre
+<lb/>Fähigkeiten zur Erhaltung der landesfürstlichen
+<lb/>Konfirmazion beibringen.</p>
+<p>
+<lb/>Hofdekret vom 6. März 1782.</p>
+            </div>
+
+<div>        
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Es können auch fremden Pastoren angenommen werden.</note>Und da dermal von da nicht hinlängliche <w>Pasto
+<pc>-</pc>
+                        <lb/>ren</w> zu bekommen sind, so können auch <w>frem
+<pc>-</pc>
+                        <lb/>de</w> Pastoren aus dem <rs type="place" ref="#heiliges_roemisches_reich">Reiche</rs>, wenn sie mit
+<lb/>den obigen Zeignissen versehen sind, <w>ange
+<pc>-</pc>
+                        <lb/>nommen</w> werden.</p>
+<p>
+<lb/>Hofdekret vom 13. März 1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <pb facs="" type="seite" n="428"/> <note type="crit_app">Am äußeren Rand: Die Absendung der Unterthanen an die Herrenhutergemainde betref<am>.</am>
+                        <ex>fend.</ex>
+                    </note>Allein die Absendung der Unterthanen an die <w>Her
+<pc>-</pc>
+                        <lb/>renhutergemeinde</w> um Lehrer und Anweiser
+<lb/>in ihrer Religion soll auf alle Wege <w>hindange
+<pc>-</pc>
+                        <lb/>halten</w> werden.</p>
+<p>
+<lb/>Verordnung in <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs> vom 16. März 1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Wegen derjenigen Pfarrern nachszusehenden Tax.</note>Da die von Privatpatronen, oder Gemeinden <w>prä
+<pc>-</pc>
+                        <lb/>sentirten</w> katholischen Pfarrer von Bezahlung
+<lb/>einiger Tax befreiet sind, auch solche eigentlich
+<lb/>nur von jenen akatholischen Pfarrern, die
+<lb/>Patronatus regii sind, abgefodert werden
+<lb/>kann, so wird doch denen diese Taxe, weil
+<lb/>sie erstens nur gering dotirt werden können,
+<lb/>dermal nachgesehen.</p>
+<p>
+<lb/>Hofdekret vom 19. Juli 1782.</p>
+            </div>
+
+<div>
+<p>
+        <lb/>
+                    <note type="crit_app">Am äußeren Rand: Indessen sind die Pastoren den Akatholiken durch ein Individuum vom Kreisamte [korrigiert aus: Kreisamee] vorzustellen.</note>Und da die gute Ordnung allerdings erfodert, daß
+<lb/>den Akatholischen ihre Pastoren gehörig <w>vor
+<pc>-</pc>
+                        <lb/>gestellt</w> werden, so sollen indessen, bis ein
+<lb/>eigenes Konsistorium oder wenigstens ein 
+<lb/>Superintendent bestehen werden, die <w>aufzu
+<pc>-</pc>
+                        <lb/>stellenden</w> und von der Landesstelle gehörig
+<lb/>konfirmirten Pastoren durch ein vom dem
+<lb/>Kreisamte hierzu für jeden Fall eigens zu
+<lb/>benennendes Individuum den Akatholiken <w>vor
+<pc>-</pc>
+                        <lb/>gestellt</w> und ihnen überhaupt die <w>gewissen
+<pc>-</pc>
+                        <lb/>hafte</w> Erfüllung ihrer geistlichen <w>Hirtenpflich
+<pc>-</pc>
+                        <lb/>ten</w> nachdrücklich empfohlen werden.</p>
+<p>
+<lb/>Hofdekret vom 28. September 1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <pb facs="" type="seite" n="429"/> <note type="crit_app">Am äußeren Rand: Welche akatholische Prediger zu ihren Glaubensgemeinden zuzulassen sein.</note>Von den akatholischen Predigern aber sind unter
+<lb/>angemessener Strafe und allenfälliger <w>Ab
+<pc>-</pc>
+                        <lb/>setzung</w> keine anderen Ingebohrnen, als die schon 
+<lb/>zu einer der bereits als akatholisch erklärten
+<lb/>Familien gehören und sich mit den <w>gewöhn
+<pc>-</pc>
+                        <lb/>lichen</w> unter Vorwissen der Landesstelle <w>er
+<pc>-</pc>
+                        <lb/>theilten</w> Zeignissen ausweisen können, daß sie
+<lb/>sich deßwegen bei ihrer Ortsobrigkeit gemeldet
+<lb/>haben, zu ihren Glaubensgemeinden und <w>An
+<pc>-</pc>
+                        <lb/>dachtsübungen</w> zuzulassen.</p>
+<p>
+<lb/>Hofdekret vom 21. Hornung 1783.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Kein Pastor soll jemand ohne Meldungszettel zu den Andachtsübungen zulassen.</note>So wurde auch weiter befohlen, daß die Pastoren 
+<lb/>unter Amozionsstrafe niemanden ohne den
+<lb/>gehörigen Meldungszettel zu ihren <w>Andachts
+<pc>-</pc>
+                        <lb/>übungen</w> zulassen sollen.</p>
+<p>
+<lb/>Hofdekret vom 17. November 1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: <hi rend="antiqua">Iura Stolæ</hi> sind dem <hi rend="antiqua">Parochus ordinarius</hi> vorbehalten.</note>4) Die <hi rend="antiqua">Iura Stolæ</hi> verbleiben so, wie in
+<lb/>
+                    <rs type="place" ref="#schlesien_herzogtum">Schlesien</rs> dem <hi rend="antiqua">Parochus Ordinarius</hi> vorbehalten.</p>
+<p>
+<lb/>Mehrmalen verordnet vermittels<note type="crit_app">Korrigiert aus: vermittes.</note> des Hofdekrets vom
+<lb/>31. Jäner 1782.</p>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Die Katholischen Pfarrer haben die Tauf-, Trau und Sterbfälle der Akatholiken einzuverleiben.</note>Und da die katholischen Pfarrer solche von den
+<lb/>Akatholischen ziehen, so sollen auch dieselben
+<lb/>die Tauf-, Trau- und Sterbfälle der <w>Akatho
+<pc>-</pc>
+                        <lb/>liken</w> unter den bisherigen Vorsichten genau
+<lb/>und richtig und in der nämlichen <w>ununter
+<pc>-</pc>
+                        <lb/>brochenen</w> Ordnung wie bisher <w>einverlei
+<pc>-</pc>
+                        <lb/>ben</w>. Uibrigens bieibt den Pastoren <w>unbe
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="" type="seite" n="430"/>nommen</w>, ihre Matrikel besonders zu ihrer
+<lb/>Privatnotiz zu führen.</p>
+<p>
+<lb/>Hofdekret vom 22. Hornung 1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Was zu thun sei, wo die Stola allein den katholischen Pfarrern wegen Führung der Matrikel gebührt.</note>Wo also die Stola allein den katholischen <w>Pfar
+<pc>-</pc>
+                        <lb/>rern</w> wegen Führung der Matrikel gebühret,
+<lb/>sind die Akatholiken den Meßnern nichts mehr
+<lb/>zu geben schuldig, wie auch den <w>Schulmei
+<pc>-</pc>
+                        <lb/>stern</w>, wenn sie ihre Kinder nicht in die <w>ka
+<pc>-</pc>
+                        <lb/>tholischen</w> Schulen schicken, sondern ihre <w>ei
+<pc>-</pc>
+                        <lb/>genen</w> protestantischen Schulen errichtet <w>ha
+<pc>-</pc>
+                        <lb/>ben</w>.</p>
+<p>
+<lb/>Hofdekret vom 13. März 1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Judikatur in Religionssachen der Akatholischen.</note>5) Die Judikatur in Religionssachen der
+<lb/>Akatholischen nach ihren Religionssätzen wird der
+<lb/>politischen Landesstelle mit Zuziehung eines ihrer
+<lb/>Pastoren und Theologen aufgetragen, von welcher
+<lb/>der weitere Rekurs an die politische Hofstelle <w>frei
+<pc>-</pc>
+                        <lb/>steht</w>.</p>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Heirathsreverse wegen Erziehung der Kinder.</note>6) Die Heirathsreverse wegen Erziehung der
+<lb/>Kinder hören von nun an gänzlich auf, und <w>sol
+<pc>-</pc>
+                        <lb/>len</w> bei einem katholischen Vater alle Kinder, <w>so
+<pc>-</pc>
+                        <lb/>wohl</w> männlichen als weiblichen Geschlechts, ohne
+<lb/>Anfrage in der katholischen Religion erzogen <w>wer
+<pc>-</pc>
+                        <lb/>den</w>, bei einem protestantischen Vater und einer
+<lb/>katholischen Mutter hingegen ist dem Geschlechte zu 
+<lb/>folgen.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <pb facs="" type="seite" n="431"/> <note type="crit_app">Am äußeren Rand: Wie in Ansehung jener Kinder vorzugehen sei, welche zu ihren akatholischen Aeltern nicht zurückgehen, sondern bei katholischen Leuten, um der Gefahr des Zwanges zu entgeben, bleiben wollen.</note>In Ansehung jener Kinder, welche zu ihren <w>aka
+<pc>-</pc>
+                        <lb/>tholischen</w> Aeltern nicht zurückgehen, sondern
+<lb/>bei katholischen Leuten, um der Gefahr des
+<lb/>Zwanges zu entgehen, bleiben wollen, <w>kön
+<pc>-</pc>
+                        <lb/>nen</w> überhaupt keine Jahre bestimmt werden,
+<lb/>da die Aufklärung der Umstände, der heitere
+<lb/>Begriff, die vollkommenste Freyheit, keine
+<lb/>gemachten Reizungen, noch weniger <w>vorgegan
+<pc>-</pc>
+                        <lb/>gene</w> Strafe und Unwille auch als entfernte
+<lb/>Ursachen des Berufs in Betrachtung <w>kom
+<pc>-</pc>
+                        <lb/>men</w> müssen. Wenn also alle diese <w>Erfor
+<pc>-</pc>
+                        <lb/>schungen</w>, keine ausgenommen, in <w>Gegen
+<pc>-</pc>
+                        <lb/>wart</w> der eigenen Aeltern, Anverwandten
+<lb/>und Religionsgenossen gründlich vor sich <w>ge
+<pc>-</pc>
+                        <lb/>gangen</w>, bestättiget, und nach einem <w>Ver
+<pc>-</pc>
+                        <lb/>laufe</w> von 6 Monaten wiederholt und <w>erneu
+<pc>-</pc>
+                        <lb/>ert</w> worden sind, so kann ein Kind bei was
+<lb/>immer für Jahren, wenn es sich zur <w>katho
+<pc>-</pc>
+                        <lb/>lischen</w> Religion erklärt, nicht anders als in
+<lb/>selber unterrichtet, an- und aufgenommen
+<lb/>werden, so wie im Gegentheile, wenn nur
+<lb/>eine von diesen Betrachtungen mangelt, ein
+<lb/>Kind, in was immer für Jahren es sich auch
+<lb/>befinde, sobald es nicht sui iuris ist, als
+<lb/>wegen eines nicht aus wahren Ursachen <w>ent
+<pc>-</pc>
+                        <lb/>standenen</w> Berufes seinen Aeltern und <w>Be
+<pc>-</pc>
+                        <lb/>freundten</w> nicht benommen oder vorenthalten
+<lb/>werden kann.</p>
+<p>
+<lb/>Hofdekret vom 28. März 1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <pb facs="" type="seite" n="432"/> <note type="crit_app">Am äußeren Rand: Dieß bezieht sich auch auf die Judenkinder.</note>Diese allerhöchste Entschliessung hat auch Bezug
+<lb/>auf die Judenkinder; denn gleichwie ein <w>aka
+<pc>-</pc>
+                        <lb/>tholisches</w> Kind von seinen Aeltern nicht <w>ge
+<pc>-</pc>
+                        <lb/>nommen</w> und in dem katholischen Glauben
+<lb/>erzogen werden kann, so darf auch kein <w>Ju
+<pc>-</pc>
+                        <lb/>denkind</w> getauft werden, bis man nicht <w>ver
+<pc>-</pc>
+                        <lb/>sichert</w> ist, daß es die hinlängliche <w>Erkennt
+<pc>-</pc>
+                        <lb/>niß</w> und entweder einen übernatürlichen
+<lb/>oder einen aus Uiberzeugung erfolgten <w>An
+<pc>-</pc>
+                        <lb/>trieb</w> zur Taufe habe, wozu weder Furcht
+<lb/>noch Anlockung noch was immer für eine
+<lb/>Leidenschaft die Ursache gegeben haben. Und
+<lb/>dieß ist jedesmal gründlich zu untersuchen,
+<lb/>weil es der Religion an guten Christen, nicht
+<lb/>aber nur an Getauften gelegen ist.</p>
+<p>
+<lb/>Hofdekret vom 31. März 1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Die Akatholiken können zum Häuser- und Güterkaufe, zum Bürger- und Meisterrechte, zu akademischen Würden und Zivilbedienstungen künftig <hi rend="antiqua">dispensando</hi> zugelassen werden.</note>7. Können die Akatholiken zum Häuser-
+<lb/>und Güterankaufe, zum Bürger- und <w>Meister
+<pc>-</pc>
+                        <lb/>rechte</w>, zu akademischen Würden und <w>Zivilbedien
+<pc>-</pc>
+                        <lb/>stungen</w> künftig <hi rend="antiqua">dispensando</hi> zugelassen werden, und
+<lb/>sind zu keiner andern als ihrer Religion <w>angemes
+<pc>-</pc>
+                        <lb/>senen</w> Eidesformel, weder zur Beiwohnung der
+<lb/>Funkzionen der dominanten Religion, wenn sie
+<lb/>nicht selbst wollen, anzuhalten. Auch soll ohne
+<lb/>Rücksicht auf Religion in allen Wahlen und <w>Dienst
+<pc>-</pc>
+                        <lb/>vergebungen</w> – wie es bei dem Militär stets <w>ge
+<pc>-</pc>
+                        <lb/>schieht</w> – allein auf Rechtschaffenheit und <w>Fähig
+<pc>-</pc>
+                        <lb/>keit</w> der Kompetenten der genaue Bedacht <w>genom
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="" type="seite" n="433"/>men</w> werden. Dergleichen <hi rend="antiqua">Dispensationes <w>Possessio
+<pc>-</pc>
+                            <lb/>num</w>
+                    </hi> und zum Bürger- und Meisterrechte sind
+<lb/>bei den unterthänigen Städten durch die <w>Kreisäm
+<pc>-</pc>
+                        <lb/>ter</w>, bei den königlichen und Leibgedingstädten
+<lb/>durch Landeskämmerer oder in deren Ermanglung
+<lb/>durch die Landesstelle ohne alle Erschwerung zu <w>er
+<pc>-</pc>
+                        <lb/>theilen</w>. Die sich ergebenden Abschlagsmotiva der
+<lb/>angesuchten Dispensazion sind jedesmal der <w>Landes
+<pc>-</pc>
+                        <lb/>stelle</w> und von da dem allerhöchsten Orte zur <w>Ein
+<pc>-</pc>
+                        <lb/>holung</w> der allerhöchsten Entschliessung anzuzeigen.
+<lb/>Wo es aber um das <hi rend="antiqua">Ius incolatus</hi> höheren <w>Stan
+<pc>-</pc>
+                        <lb/>des</w> zu thun ist, da ist die Dispensazion nach <w>vor
+<pc>-</pc>
+                        <lb/>läufig</w> vernommener Landesstelle von der k<am>.</am>
+                    <ex>aiserlich</ex> k<am>.</am>
+                    <ex>öniglichen</ex> <w>böh
+<pc>-</pc>
+                        <lb/>mischen</w> Hofkanzlei zu ertheilen.</p>
+<p>
+<lb/>Hofreskript vom 13. und in <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs> Patent vom
+<lb/>30. Weinmonat 1781, in <rs type="place" ref="#graz">Gräz</rs> vom 27.
+<lb/>Weinmonat 1781.
+</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Erläuterung des letzten Gegenstandes.</note>Der letzte Gegenstand ward durch eine spätere
+<lb/>Verordnung dahin erläutert, daß jene <w>Zivil
+<pc>-</pc>
+                        <lb/>beamte</w>, die sich zur akatholischen <w>Glaubens
+<pc>-</pc>
+                        <lb/>lehre</w> erklären, ferner so lange bei ihren <w>Be
+<pc>-</pc>
+                        <lb/>dienstungen</w> <hi rend="antiqua">per viam dispensationis</hi> zu lassen
+<lb/>sind, bis sie sich derselben durch einen übeln
+<lb/>Lebenswandel oder durch ausgeübte <w>Parthei
+<pc>-</pc>
+                        <lb/>lichkeiten</w> und Gehässigkeiten gegen ihre <w>ka
+<pc>-</pc>
+                        <lb/>tholischen</w> Mitbürger unwürdig und verlustig
+<lb/>machen. Dann sind auch die noch in keiner
+<lb/>Zivilbedienstung stehenden Akatholiken zu den
+<lb/>stabilirten Bedienstungen <hi rend="antiqua">per viam <w>dispen
+
+<pc>-</pc>
+                            <lb/>
+                            <pb facs="" type="seite" n="434"/>sationis</w>
+                    </hi> nach der obern höchsten <w>Patentalvor
+<pc>-</pc>
+                        <lb/>schrift</w> zuzulassen. Doch in Rücksicht aller
+<lb/>anderen <hi rend="antiqua">ad nutum amovibilium</hi> oder auf
+<lb/>gewisse Zeit bestimmten Bedienstungen steht
+<lb/>es denen, welche dergleichen Bedienstungen
+<lb/>zu vergeben haben, frei, ob sie die <w>akatholi
+<pc>-</pc>
+                        <lb/>schen</w> Beamten nach verlaufener Zeitfrist <w>bei
+<pc>-</pc>
+                        <lb/>behalten</w> wollen. Die Dispensazion für <w>ei
+<pc>-</pc>
+                        <lb/>nen</w> anzustellenden Akatholiken kann die <w>Obrig
+<pc>-</pc>
+                        <lb/>keit</w> sowohl für den Fall, wenn sie die <w>Be
+<pc>-</pc>
+                        <lb/>dienstung</w> unmittelbar zu vergeben hat, als
+<lb/>auch, wenn die Besetzung durch eine <w>ordent
+<pc>-</pc>
+                        <lb/>liche</w> Wahl der Kandidaten und durch die
+<lb/>obrigkeitliche Bestättigung zu geschehen hat,
+<lb/>gegen vorläufige Anzeige an das Kreisamt
+<lb/>selbst ertheilen, wenn den Kandidaten auser
+<lb/>der Religion sonst kein anderes Hinderniß
+<lb/>im Wege steht; jedoch muß nie von einer
+<lb/>Parität oder gleichen Anzahl das mindeste
+<lb/>bestimmt werden.</p>
+<p>
+<lb/>Patent in Böhmen vom 13. Hornung
+<lb/>1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Das obere Hofreskript wurde auch den Ordinarien mitgetheilt.</note>Das obere allerhöchste Hofreskript wurde auch
+<lb/>den Ordinarien – um es der Welt- und <w>Regulär
+<pc>-</pc>
+                        <lb/>geistlichkeit</w> bekannt zu machen – mit dem <w>Auf
+<pc>-</pc>
+                        <lb/>trage</w> mitgetheilt, die unterstehende Geistlichkeit und
+<lb/>besonders die bestellten Seelsorger zur Erfüllung
+<lb/>ihrer Amtspflichten zu ermahnen und ihnen <w>vor
+<pc>-</pc>
+                        <lb/>züglich</w> wohl einzubinden, daß sie allen Anlaß zu
+<lb/>Zwistigkeiten in Glaubenssachen gänzlich <w>vermei
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="" type="seite" n="435"/>den</w> und nach dem wahren Sinne der christlichen
+<lb/>Toleranz auch gegen Irrende liebvoll und mit aller
+<lb/>Sanftmuth sich benehmen, folglich sich aller <w>unan
+<pc>-</pc>
+                        <lb/>ständigen</w> Ausdrücke oder Lästerungen der <w>Reli
+<pc>-</pc>
+                        <lb/>gionsgegner</w> enthalten, um so mehr aber durch
+<lb/>deutlichen und ersprießlichen Unterricht, durch <w>Uiber
+<pc>-</pc>
+                        <lb/>zeigung</w> und gute Beispiele, wie <seg type="crit_app">es ohnehin</seg>
+                    <note type="crit_app">Korrigiert aus: esoh nehin.</note> die
+<lb/>Pflicht eifriger Seelsorger fodert die anvertrauten
+<lb/>Pfarrgemeinden in der wahren allein seligmachenden
+<lb/>Religion zu stärken oder Irrende zurückzuführen
+<lb/>sich bestreben sollen.</p>
+<p>
+<lb/>Hofdekret vom 14. und 24. Weinmonat 1781,
+<lb/>dann vom 14. Jäner 1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Die Kreisämter haben auf die Toleranzgesetze zu wachen.</note>Uiberhaupt wird den Kreisämtern öfter die
+<lb/>genaue Befolgung der ergangenen <w>Tole
+<pc>-</pc>
+                        <lb/>ranzgesetze</w> und die Erhaltung des <w>Still
+<pc>-</pc>
+                        <lb/>schweigens</w> unter dem Volke in Beziehung
+<lb/>auf die Religionsunterschiede, und damit auf
+<lb/>die allseitige Erhaltung der Ruhe, Sorge zu
+<lb/>tragen anbefohlen.</p>
+<p>
+<lb/>Hofdekret vom 19. März 1782.</p>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Die Obrigkeiten und Aemter haben sich gegen Akatholiken bescheiden zu betragen.</note>Auch wurden alle Obrigkeiten und Aemter zu <w>ei
+<pc>-</pc>
+                        <lb/>nem</w> bescheidenen Betragen gegen Akatholiken
+<lb/>angewiesen, Vermittels des</p>
+<p>
+<lb/>Hofdekret vom 31. Jäner 1782.</p>
+            </div>
+
+<div>
+<head>
+<lb/>
+                    <pb facs="" type="seite" n="436"/>Toleranz für das Königreich <rs type="place" ref="#ungarn_koenigreich">Hungarn</rs>.<note type="crit_app">Am Fuß der Seite: Dieses Toleranzgesetz für <rs type="place" ref="#ungarn_koenigreich">Hungarn</rs> erscheint hier bloß wegen der beiderseitigen Verbindung mit den deutschen Erbländern.</note>
+</head>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Toleranz für das Königreich <rs type="place" ref="#ungarn_koenigreich">Hungarn</rs>.</note>
+                    <rs type="person" ref="#joseph_ii">Se<am>.</am>
+                        <ex>ine</ex> k<am>.</am>
+                        <ex>aiserlich</ex> k<am>.</am>
+                        <ex>önigliche</ex> Majestät</rs>, überzeigt einer Seits von
+<lb/>der Schädlichkeit alles Gewissenszwangs, im <w>Ge
+<pc>-</pc>
+                        <lb/>gentheile</w> aber von dem vielfältigen Nutzen, der aus
+<lb/>einer ächten, der christlichen Liebe angemessenen <w>To
+<pc>-</pc>
+                        <lb/>leranz</w> sowohl der Religion als dem Staate <w>er
+<pc>-</pc>
+                        <lb/>wächst</w>, haben in allen k<am>.</am>
+                    <ex>aiserlich</ex> k<am>.</am>
+                    <ex>öniglichen</ex> Erbländern eine <w>sol
+<pc>-</pc>
+                        <lb/>che</w> durch sichere Maßregeln zu befestigen <w>beschlos
+<pc>-</pc>
+                        <lb/>sen</w>. Und weil diese k<am>.</am>
+                    <ex>aiserlich</ex> k<am>.</am>
+                    <ex>önigliche</ex> Sorgfalt dem <w>Königrei
+<pc>-</pc>
+                        <lb/>che</w> Hungarn und den demselben anhängigen <w>Län
+<pc>-</pc>
+                        <lb/>dern</w> um so mehr zusteht, als daselbst die <w>Nichtka
+<pc>-</pc>
+                        <lb/>tholischen</w> der augsburgischen und schweizerischen
+<lb/>Konfession Zugethanen sowohl als die nicht unirten
+<lb/>griechischen Insassen, jene zwar unter besonderm
+<lb/>Schutze der Landesgesetze, diese aber ihrer k<am>.</am>
+                    <ex>öniglichen</ex> <w>Frei
+<pc>-</pc>
+                        <lb/>heitsbriefe</w> wirklich bestehen, so wollen <rs type="person" ref="#joseph_ii">Se<am>.</am>
+                        <ex>ine</ex> k<am>.</am>
+                        <ex>aiserlich</ex> k<am>.</am>
+                        <ex>önigliche</ex>
+<lb/>Majestät</rs> allergnädigst, daß im übrigen jenen <w>Ge
+<pc>-</pc>
+                        <lb/>setzen</w> und Freiheitsbriefen, welche zum Beßten <w>ge
+<pc>-</pc>
+                        <lb/>dachter</w> nichtkatholischen Religionspartheien <w>ent
+<pc>-</pc>
+                        <lb/>weder</w> in Betreff der öffentlichen Religionsübungen
+<lb/>oder anderer auch ihnen gebührenden bürgerlichen
+<lb/>Rechte und Vorzüge bisher festgesetzt worden sind,
+
+<lb/>
+                    <pb facs="" type="seite" n="437"/>
+                    <note type="crit_app">Im Druck als Seite 309 bezeichnet.</note>und in Ansehung welcher im Folgenden einige <w>al
+<pc>-</pc>
+                        <lb/>lergnädigste</w> k<am>.</am>
+                    <ex>önigliche</ex> Resoluzionen umständlicher angezeigt
+<lb/>werden sollen, unbeschadet, auch in anderen des <w>ge
+<pc>-</pc>
+                        <lb/>dachten</w> <rs type="place" ref="#ungarn_koenigreich">Königreichs</rs> und demselben anhängigen <w>Län
+<pc>-</pc>
+                        <lb/>dern</w>, Bezirken, k<am>.</am>
+                    <ex>öniglichen</ex> Freistädten und Gemeinheiten,
+<lb/>in welchen die Nichtkatholischen durch Gesetze oder
+<lb/>Privilegien von der öffentlichen Religionsübung
+<lb/>und andern bürgerlichen Vorrechten ausgeschlossen
+<lb/>sind, sothane wahre christliche Verträglichkeit oder
+<lb/>Toleranz auf folgende Art und Weise, wie in den
+<lb/>übrigen k<am>.</am>
+                    <ex>öniglichen</ex> Erbländern eingeführt, und festgesetzet
+<lb/>werde:
+</p>
+<p>
+<lb/>1. Allen nichtkatholischen augsburgischen und
+<lb/>schweizerischen Konfessionsverwandten, wie auch
+<lb/>nicht unirten Griechen, gestatten <rs type="person" ref="#joseph_ii">Se<am>.</am>
+                        <ex>ine</ex> k<am>.</am>
+                        <ex>aiserlich</ex> k<am>.</am>
+                        <ex>önigliche</ex> Majestät</rs>
+<lb/>aller Orten, wo denselben kraft der Landesgesetze
+<lb/>oder Freiheitsbriefe und vorgegangener einiger <w>Nor
+<pc>-</pc>
+                        <lb/>malresoluzionen</w> eine öffentliche Religionsübung nicht
+<lb/>gebühret, ein Privatexerzizium, ohne alles <w>Beden
+<pc>-</pc>
+                        <lb/>ken</w>, ob dasselbe an einem solchen Orte jemals
+<lb/>üblich gewesen ist oder nicht.</p>
+<p>
+<lb/>2. Diese Privatreligionsübung aber wollen
+<lb/>
+                    <rs type="person" ref="#joseph_ii">Se<am>.</am>
+                        <ex>ine</ex> k<am>.</am>
+                        <ex>aiserlich</ex> k<am>.</am>
+                        <ex>önigliche</ex> Majestät</rs> nicht in jenem engen Verstande,
+<lb/>wie sie bisher im Königreiche <rs type="place" ref="#ungarn_koenigreich">Hungarn</rs> erkläret
+<lb/>worden ist, genommen, sondern so verstanden
+<lb/>wissen, daß gesagten augsburgischen und <w>schweize
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="" type="seite" n="438"/>rischen</w> Konfessionsverwandten, auch nicht unirten
+<lb/>Griechen, in allen dergleichen mit öffentlicher <w>Reli
+<pc>-</pc>
+                        <lb/>gionsübung</w> nicht versehenen Orten, wo hundert
+<lb/>nichtkatholische Familien sich befinden, und die zu
+<lb/>Erbauung der Bethäuser, Prediger- und <w>Schul
+<pc>-</pc>
+                        <lb/>lehrerwohnungen</w>, dann derselben erfoderlichen <w>Un
+<pc>-</pc>
+                        <lb/>terhalte</w>, hinlänglichen Mittel, ohne daß die <w>Kontri
+<pc>-</pc>
+                        <lb/>buenten</w> durch dergleichen Beisteuern zu sehr <w>beschwe
+<pc>-</pc>
+                        <lb/>ret</w> oder in Ansehung ihrer schuldigen öffentlichen
+<lb/>Abgaben geschwächt werden, erwiesen, sothanen
+<lb/>Nichtkatholischen, sowohl der augsburgischen, als
+<lb/>schweizerischen Konfession Zugethanen wie auch
+<lb/>nicht unirten Griechen, Privatbethäuser, aber nur
+<lb/>auf solche Art und Weise, daß diese mit keinen
+<lb/>Thürmen, Geläute und Eingang von der <w>öffentli
+<pc>-</pc>
+                        <lb/>chen</w> Gasse, wie die öffentlichen Kirchen, versehen
+<lb/>sein mögen, zu erbauen erlaubet, dann auch <w>Pre
+<pc>-</pc>
+                        <lb/>diger</w> und Schullehrer einzuführen, für diese die
+<lb/>nöthigen Gebäude herzustellen, nebst der freien <w>Re
+<pc>-</pc>
+                        <lb/>ligionsübung</w> nicht nur in diesen Privatbethäusern,
+<lb/>sondern auch die Besorgung ihrer Kranken sowohl
+<lb/>in diesen Orten selbst als auch auserhalb <w>unver
+<pc>-</pc>
+                        <lb/>hindert</w> gestattet werden soll.</p>
+<p>
+<lb/>3. Haben <rs type="person" ref="#joseph_ii">Se<am>.</am>
+                        <ex>ine</ex> k<am>.</am>
+                        <ex>aiserlich</ex> k<am>.</am>
+                        <ex>önigliche</ex> Majestät</rs> allergnädigst
+<lb/>verordnet, daß gesagten Nichtkatholischen in allen
+<lb/>Erbländern und k<am>.</am>
+                    <ex>aiserlich</ex> k<am>.</am>
+                    <ex>öniglichen</ex> Provinzen, mithin auch in
+<lb/>diesem Königreiche <rs type="place" ref="#ungarn_koenigreich">Hungarn</rs> und in demselben <w>an
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="" type="seite" n="439"/>hängigen</w> Ländern, auch in jenen Provinzen und
+<lb/>Orten, in welchen dieselben zur Erlangung <w>öffentli
+<pc>-</pc>
+                        <lb/>cher</w> Aemter, akademischer Würden, des <w>Bürger
+<pc>-</pc>
+                        <lb/>rechts</w>, Ansässigwerdung, Meisterrechts, des <w>Be
+<pc>-</pc>
+                        <lb/>sitzes</w> der Güter und bürgerlichen Gründe der
+<lb/>Religion halber kraft der Landesgesetze oder <w>deß
+<pc>-</pc>
+                        <lb/>falls</w> ertheilten Freiheitsbriefe, als namentlich in
+<lb/>den Königreichen <rs type="place" ref="#dalmatien">Dalmazien</rs>, <rs type="place" ref="#kroatien_koenigreich">Kroazien</rs> und <rs type="place" ref="#slawonien">
+                        <w>Sla
+<pc>-</pc>
+                            <lb/>vonien</w>
+                    </rs>, dann in einigen k<am>.</am>
+                    <ex>öniglichen</ex> Freistädten und <w>privi
+<pc>-</pc>
+                        <lb/>legirten</w> Gemeinheiten, bisher unfähig waren, diese
+<lb/>Fähigkeit künftig jederzeit von Falle zu Falle
+<lb/>und ohne alle Schwierigkeiten durch den Weg der
+<lb/>Dispensazion aus k<am>.</am>
+                    <ex>aiserlich</ex> k<am>.</am>
+                    <ex>öniglicher</ex> Gnade und Milde ertheilt
+<lb/>und zugestanden, in den übrigen Komitaten und
+<lb/>Städten aber bei Vergebung der Aemter <w>über
+<pc>-</pc>
+                        <lb/>haupt</w>, mit Hindansetzung aller Rücksicht auf die
+<lb/>Religionsverschiedenheit, einzig und allein auf <w>Ver
+<pc>-</pc>
+                        <lb/>dienste</w>, Fähigkeit und frommen, christlichen <w>Lebens
+<pc>-</pc>
+                        <lb/>wandel</w> Bedacht genommen werden soll.</p>
+<p>
+<lb/>4. Zur Festsetzung einer wahren christlichen
+<lb/>Toleranz erachten <rs type="person" ref="#joseph_ii">Se<am>.</am>
+                        <ex>ine</ex> k<am>.</am>
+                        <ex>aiserlich</ex> k<am>.</am>
+                        <ex>önigliche</ex> Majestät</rs> auch zu <w>gehö
+<pc>-</pc>
+                        <lb/>ren</w>, daß die augsburgischen und schweizerischen
+<lb/>Konfessionsverwandten den Eid bei keiner <w>Gelegen
+<pc>-</pc>
+                        <lb/>heit</w> auf eine andere Art, als welche den <w>Grundsä
+<pc>-</pc>
+                        <lb/>tzen</w> ihrer Religion zukömmt, zu schwören gehalten
+<lb/>sein sollen. Und aus der nämlichen Ursache</p>
+<p>
+<lb/>
+                    <pb facs="" type="seite" n="440"/>5. soll auch kein Nichtkatholischer den <w>gottes
+<pc>-</pc>
+                        <lb/>dienstlichen</w> Handlungen und Zeremonien der <w>Katho
+<pc>-</pc>
+                        <lb/>lischen</w> beizuwohnen angehalten, vielweniger aber
+<lb/>deßwegen gestraft oder durch die Zunftartikel
+<lb/>oder andere Satzungen dießfalls gezwungen <w>wer
+<pc>-</pc>
+                        <lb/>den</w>.</p>
+<p>
+<lb/>6. Durch diese so ausgelegten und erklärten
+<lb/>Privatreligionsübungen und beschränkte christliche
+<lb/>Verträglichkeit jedoch wollen <rs type="person" ref="#joseph_ii">Se<am>.</am>
+                        <ex>ine</ex> k<am>.</am>
+                        <ex>aiserlich</ex> k<am>.</am>
+                        <ex>önigliche</ex> Majestät</rs>,
+<lb/>wie schon in obigen Punkten angeführt worden
+<lb/>ist, den ordentlich ausgefertigten Gesetzen, dann
+<lb/>zur Kraft gediehenen Freiheitsbriefen, so wie
+<lb/>auch den k<am>.</am>
+                    <ex>öniglichen</ex> Normalresoluzionen, welche den der
+<lb/>augsburgischen und schweizerischen Konfession <w>Zu
+<pc>-</pc>
+                        <lb/>gethanen</w> und nicht unirten Griechen die <w>öffent
+<pc>-</pc>
+                        <lb/>liche</w> Religionsübung nebst andern <w>Begünstigun
+<pc>-</pc>
+                        <lb/>gen</w> zustehen, keinen Abbruch thun, hingegen aber
+<lb/>andererseits auch diejenigen Gesetze, und <w>Privile
+<pc>-</pc>
+                        <lb/>gien</w>, die zum Beßten der herrschenden Religion,
+<lb/>besonders in Ansehung der Königreiche <rs type="place" ref="#dalmatien">Dalmazien</rs>,
+<lb/>
+                    <rs type="place" ref="#kroatien_koenigreich">Kroazien</rs>, <rs type="place" ref="#slawonien">Slavonien</rs> und einiger k<am>.</am>
+                    <ex>öniglicher</ex> Freistädte
+<lb/>und Gemeinden wegen Nichtzulassung einer <w>öffent
+<pc>-</pc>
+                        <lb/>lichen</w> Religionsübung festgesetzt sind, unverletzt <w>be
+<pc>-</pc>
+                        <lb/>stehen</w> lassen, sondern erwähntes <w>Privatreligions
+<pc>-</pc>
+                        <lb/>exerzizium</w> und was vorangeführtermassen der <w>wah
+<pc>-</pc>
+                        <lb/>ren</w> christlichen Toleranz anhängig ist, bloß aus k<am>.</am>
+                    <ex>öniglicher</ex>
+<lb/>Gnade und Milde dispensazionsweise in gesagten
+
+<lb/>
+                    <pb facs="" type="seite" n="441"/>Königreichen und Städten, in so weit dergleichen
+<lb/>Gesetze und Privilegien denselben nicht entgegen
+<lb/>sind, allergnädigst verwilligen. Und dieses sind
+<lb/>diejenigen Maßregeln, nach welchen die wahre
+<lb/>christliche Verträglichkeit in gesamten k<am>.</am>
+                    <ex>aiserlich</ex> k<am>.</am>
+                    <ex>öniglichen</ex> <w>Erb
+<pc>-</pc>
+                        <lb/>ländern</w>, folglich auch im Königreiche <rs type="place" ref="#ungarn_koenigreich">Hungarn</rs>
+<lb/>und demselben anhängigen Ländern, ohne Verzug
+<lb/>
+                    <rs type="person" ref="#joseph_ii">Se<am>.</am>
+                        <ex>ine</ex> k<am>.</am>
+                        <ex>aiserlich</ex> k<am>.</am>
+                        <ex>önigliche</ex> Majestät</rs> einzuführen und festzusetzen
+<lb/>allergnädigst befehlen. Nachdem aber einige der
+<lb/>augsburgischen und schweizerischen Konfession <w>Zuge
+<pc>-</pc>
+                        <lb/>thane</w> und nicht unirte griechische Gemeinden in
+<lb/>Folge vorerwähnter allergnädigsten Resoluzion um
+<lb/>Erlaubung dergleichen Privatreligionsübung bei der
+<lb/>k<am>.</am>
+                    <ex>öniglich</ex> hungarischen Statthalterei einkommen werden,
+<lb/>haben <rs type="person" ref="#joseph_ii">Se<am>.</am>
+                        <ex>ine</ex> k<am>.</am>
+                        <ex>aiserlich</ex> k<am>.</am>
+                        <ex>önigliche</ex> Majestät</rs> gesagten k<am>.</am>
+                    <ex>öniglichem</ex> <w>Statthalte
+<pc>-</pc>
+                        <lb/>reirathe</w> weiters jene Befugniß allergnädigst zu <w>er
+<pc>-</pc>
+                        <lb/>theilen</w> geruhet, daß, wenn bei zu verordnender
+<lb/>und mit Beifügung auch der Nichtkatholischen zu
+<lb/>unternehmender genauen Untersuchung es sich <w>äu
+<pc>-</pc>
+                        <lb/>sern</w> wird, daß die eingekommene Gemeinde <w>so
+<pc>-</pc>
+                        <lb/>wohl</w> die hinlängliche Zahl der Familien enthält
+<lb/>als auch mit dem Erfoderlichen zur Führung der
+<lb/>Gebäude und zum Unterhalte der Prediger und <w>Schul
+<pc>-</pc>
+                        <lb/>meister</w>, ohne die Kontribuenten zu sehr zu <w>beschwe
+<pc>-</pc>
+                        <lb/>ren</w>, versehen ist, ohne weiters bei <rs type="person" ref="#joseph_ii">S<am>r.</am>
+                        <ex>einer</ex> Majestät</rs>
+<lb/>deßwegen Vorstellungen zu machen, derselbe eine
+<lb/>dergleichen auf vorangedeutete Art beschränkte
+<lb/>Privatreligionsübung aus k<am>.</am>
+                    <ex>öniglicher</ex> Gnade und Milde
+
+<lb/>
+                    <pb facs="" type="seite" n="442"/>gestatten könne. Uiber obiges nach Maßgab der
+<lb/>wahren christlichen Toleranz Verordnetes haben
+<lb/>
+                    <rs type="person" ref="#joseph_ii">Se<am>.</am>
+                        <ex>ine</ex> k<am>.</am>
+                        <ex>aiserlich</ex> k<am>.</am>
+                        <ex>önigliche</ex> Majestät</rs> zu beschliessen geruhet, noch
+<lb/>insbesondere Folgendes allergnädigst zu <w>bewilli
+<pc>-</pc>
+                        <lb/>gen</w>, als,</p>
+<p>
+<lb/>7. weil die Ehen von verschiedener Religion
+<lb/>nicht anders als gegen ertheilte Reversalien, daß
+<lb/>die beiderlei Geschlechtskinder in der römischen <w>ka
+<pc>-</pc>
+                        <lb/>tholischen</w> Religion erzogen werden sollen, <w>zuge
+<pc>-</pc>
+                        <lb/>lassen</w> worden, haben <rs type="person" ref="#joseph_ii">Se<am>.</am>
+                        <ex>ine</ex> k<am>.</am>
+                        <ex>aiserlich</ex> k<am>.</am>
+                        <ex>önigliche</ex> Majestät</rs> den <w>Ge
+<pc>-</pc>
+                        <lb/>brauch</w> dergleichen Reverse von nun an zwar <w>abzu
+<pc>-</pc>
+                        <lb/>stellen</w>, zugleich aber zur beständigen Richtschnur
+<lb/>festzusetzen geruhet, daß bei Ehen von <w>verschiede
+<pc>-</pc>
+                        <lb/>ner</w> Religion, wo der Vater der katholischen <w>Reli
+<pc>-</pc>
+                        <lb/>gion</w> zugethan ist, alle Kinder männlichen und
+<lb/>weiblichen Geschlechts in der katholischen Religion
+<lb/>erzogen werden sollen, welches als ein besonderer
+<lb/>Vorzug der herrschenden Religion anzusehen ist.
+<lb/>Wenn aber die Mutter katholisch, der Vater aber
+<lb/>nicht katholisch wäre, sollen die Kinder in <w>Anse
+<pc>-</pc>
+                        <lb/>hung</w> der Religion, in welcher sie erzogen werden
+<lb/>sollen, dem Geschlechte der Aeltern folgen.</p>
+<p>
+<lb/>8. Wenn bei einer zwischen beiden der <w>augs
+<pc>-</pc>
+                        <lb/>burgischen</w> und schweizerischen Konfession <w>zugetha
+<pc>-</pc>
+                        <lb/>nen</w> Theilen geschlossenen Ehe Eines oder das <w>An
+<pc>-</pc>
+                        <lb/>dere</w> zur römischen katholischen Religion <w>übergien
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="" type="seite" n="443"/>ge</w> oder nach dem durch den Tod aufgelösten <w>Ehe
+<pc>-</pc>
+                        <lb/>verbindniß</w> der überlebende Theil zur römischen
+<lb/>katholischen Religion sich bekennete, soll die <w>vor
+<pc>-</pc>
+                        <lb/>geschriebene</w> Richtschnur in Ansehung der Kinder,
+<lb/>welche die Unterscheidungsjahre noch nicht erreicht
+<lb/>haben, gleichfalls beobachtet werden, daß nämlich
+<lb/>im Falle, wenn der Vater sich bekehrte, alle <w>Kin
+<pc>-</pc>
+                        <lb/>der</w>, welche die Unterscheidungsjahre nicht erreicht
+<lb/>haben, ohne Unterschied des Geschlechts, der <w>Reli
+<pc>-</pc>
+                        <lb/>gion</w> des Vaters folgen, insofern aber die Mutter
+<lb/>katholisch würde, sollen nur ihre unter den <w>Unter
+<pc>-</pc>
+                        <lb/>scheidungsjahren</w> befindlichen Geschlechtskinder in
+<lb/>der katholischen Religion erzogen werden. <w>Uibri
+<pc>-</pc>
+                        <lb/>gens</w> sollen die Katholischen unter keinem <w>Vorwan
+<pc>-</pc>
+                        <lb/>de</w> die Kinder oder Waisen, welche von <w>nichtkatho
+<pc>-</pc>
+                        <lb/>lischen</w> Aeltern gebohren sind, in ihrer Religion zu
+<lb/>erziehen sich anmassen können.</p>
+<p>
+<lb/>9. Da <rs type="person" ref="#joseph_ii">Se<am>.</am>
+                        <ex>ine</ex> k<am>.</am>
+                        <ex>aiserlich</ex> k<am>.</am>
+                        <ex>önigliche</ex> Majestät</rs> keineswegs wollen,
+<lb/>daß die schweizerischen Religionsverwandten wegen
+<lb/>Administrirung der Taufe durch die Hebammen,
+<lb/>wider ihre Grundsätze gekränket oder bestrafet
+<lb/>werden mögen, so befehlen Dieselben, die <w>Ordi
+<pc>-</pc>
+                        <lb/>narien</w> auf die Vorschrift dieser allerhöchsten <w>Reso
+<pc>-</pc>
+                        <lb/>luzion</w> anzuweisen.</p>
+<p>
+<lb/>
+                    <pb facs="" type="seite" n="444"/>10. Verordnen <rs type="person" ref="#joseph_ii">Se<am>.</am>
+                        <ex>ine</ex> Majestät</rs> überhaupt, daß
+<lb/>die katholischen Priester, wenn sie nicht gerufen
+<lb/>werden, sich den nichtkatholischen Kranken nicht
+<lb/>aufdringen sollen; wenn aber dieselben der Kranke
+<lb/>verlangt, sollen dessen Anverwandte oder der <w>Pre
+<pc>-</pc>
+                        <lb/>diger</w> den Zutritt des katholischen Priesters zu <w>ge
+<pc>-</pc>
+                        <lb/>statten</w> gehalten sein. Ferners soll es den <w>nicht
+<pc>-</pc>
+                        <lb/>katholischen</w> Predigern, die Gefangenen ihrer <w>Reli
+<pc>-</pc>
+                        <lb/>gion</w> nicht nur, wie es bisher verfügt worden ist,
+<lb/>in ihren Gefängnissen zu besuchen, sondern auch
+<lb/>zum Richtplatze zu begleiten, freistehen und
+<lb/>erlaubt sein.</p>
+<p>
+<lb/>11. Gleichwie schon oben <rs type="person" ref="#joseph_ii">Se<am>.</am>
+                        <ex>ine</ex> k<am>.</am>
+                        <ex>aiserlich</ex> k<am>.</am>
+                        <ex>önigliche</ex> Majestät</rs>
+<lb/>allergnädigst verwilliget haben, daß den der <w>augs
+<pc>-</pc>
+                        <lb/>burgischen</w> und schweizerischen Konfession <w>Zugetha
+<pc>-</pc>
+                        <lb/>nen</w> und nicht unirten Griechen aller Orten, wo
+<lb/>keine öffentliche Religionsübung, jedoch eine <w>hin
+<pc>-</pc>
+                        <lb/>längliche</w> Zahl ansässiger Familien, und die <w>erfoder
+<pc>-</pc>
+                        <lb/>lichen</w> Mittel vorhanden sind, eine <w>Privatreligions
+<pc>-</pc>
+                        <lb/>übung</w> zugestanden werden soll, so folgt von selbst,
+<lb/>daß dieselben auch die Schullehrer ihrer Religion <w>ha
+<pc>-</pc>
+                        <lb/>ben</w> können; wenn sie dieselben aber wegen der <w>we
+<pc>-</pc>
+                        <lb/>nigen</w> Zahl der Familien oder wegen Mangel der
+<lb/>zum Unterhalte erfoderlichen Mittel nicht <w>einfüh
+<pc>-</pc>
+                        <lb/>ren</w> können, so wollen <rs type="person" ref="#joseph_ii">Se<am>.</am>
+                        <ex>ine</ex> k<am>.</am>
+                        <ex>aiserlich</ex> k<am>.</am>
+                        <ex>önigliche</ex> Majestät</rs> es <w>ih
+<pc>-</pc>
+                        <lb/>rem</w> freien Willen überlassen, daß sie ihre Kinder
+<lb/>entweder in die katholischen oder auch in die <w>nicht
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="" type="seite" n="445"/>katholischen</w> Schulen, wenn einige von der andern
+<lb/>Religion vorhanden sind, schicken können. <w>Uibri
+<pc>-</pc>
+                        <lb/>gens</w> aber werden alle Kollekten oder <w>Sammlun
+<pc>-</pc>
+                        <lb/>gen</w>, welche entweder durch die nichtkatholischen
+<lb/>Studirenden oder was Ursache halber solche <w>im
+<pc>-</pc>
+                        <lb/>mer</w> unternommen würden, ferner auch auf das
+<lb/>schärfeste verboten. Daher wird hierüber der <w>Ju
+<pc>-</pc>
+                        <lb/>risdikzion</w> alle nöthige Obsicht aufgetragen.</p>
+<p>
+<lb/>12. Gleichwie schon in obigen allgemeinen
+<lb/>Punkten in Betreff der festgesetzten christlichen <w>Tole
+<pc>-</pc>
+                        <lb/>ranz</w> verordnet worden ist, daß alle Gesetze, <w>Pri
+<pc>-</pc>
+                        <lb/>vilegien</w> und k<am>.</am>
+                    <ex>öniglichen</ex> Resoluzionen, welche zum Beßten
+<lb/>der Nichtkatholischen bisher gefertigt worden sind,
+<lb/>bei ihrer Kraft verbleiben sollen, so ist von selbst
+<lb/>zu verstehen, daß selbe in dem ungehinderten <w>Ge
+<pc>-</pc>
+                        <lb/>nusse</w> ihrer Kirchen, in deren Besitze sie dermal
+<lb/>sind, gelassen, auch bei ihren gottesdienstlichen
+<lb/>Handlungen oder Religionsübungen auf keine Art
+<lb/>gehindert werden sollen, sondern denselben auch
+<lb/>hinfür frei stehen werde, wenn allenfalls
+<lb/>durch eine Feuersbrunst oder andern Zufall einige
+<lb/>von solchen Kirchen zu Grunde giengen, an derer
+<lb/>Stelle neue von Holz oder Stein, nach vorher von
+<lb/>der hungarischen Statthalterei erlangter Gestattung,
+<lb/>aufzubauen, wenn nur, wie im obenaufgeführten<note type="crit_app">Korrigiert aus: obenaugeführten.</note> <w>all
+<pc>-</pc>
+                        <lb/>gemeinen</w> Punkte berühret worden ist, das <w>kontri
+<pc>-</pc>
+                        <lb/>buirende</w> Volk durch die zu sothanen Kosten <w>leisten
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="" type="seite" n="446"/>de</w> Beisteuer nicht beschweret oder zu den ihm <w>ob
+<pc>-</pc>
+                        <lb/>liegenden</w> Abgaben nicht geschwächt wird. Nicht
+<lb/>minder</p>
+<p>
+<lb/>13. haben <rs type="person" ref="#joseph_ii">Se<am>.</am>
+                        <ex>ine</ex> k<am>.</am>
+                        <ex>aiserlich</ex> k<am>.</am>
+                        <ex>önigliche</ex> Majestät</rs> allergnädigst
+<lb/>verwilliget, daß die Filialkirchen der Evangelischen,
+<lb/>wo einige dermal wirklich vorhanden sind, <w>den
+<pc>-</pc>
+                        <lb/>selben</w> verbleiben und keineswegs abgenommen
+<lb/>werden sollen. Daher befehlen <rs type="person" ref="#joseph_ii">Se<am>ine</am> k<am>.</am>
+                        <ex>aiserlich</ex> k<am>.</am>
+                        <ex>önigliche</ex> Majestät</rs>,
+<lb/>daß auch diejenigen Filialkirchen, welche jüngstens <w>deß
+<pc>-</pc>
+                        <lb/>wegen</w>, daß die Prediger dieselben besucht, mit
+<lb/>Verbote beleget, ja wo dießfalls auch <w>Fiskalpro
+<pc>-</pc>
+                        <lb/>zesse</w> anhängig gemacht worden sind und bisher
+<lb/>noch fortgesetzet werden, gesagten der <w>augsbur
+<pc>-</pc>
+                        <lb/>gischen</w> und schweizerischen Konfession Zugethanen
+<lb/>zurückgegeben, die Exkursion der Prediger dahin
+<lb/>gestattet, dann die noch anhängigen Fiskalprozesse
+<lb/>kassirt werden sollen.</p>
+<p>
+<lb/>14. Die in den Residenzen der Magnaten
+<lb/>und Edelleute befindlichen Bethäuser zu besuchen
+<lb/>und in denselben dem Gottesdienste auf die Art,
+<lb/>wie oben von dem Privatreligionsexerzizium <w>erklä
+<pc>-</pc>
+                        <lb/>ret</w> worden ist, obzuliegen, soll den Einwohnern
+<lb/>augsburgischer und schweizerischer Konfession des
+<lb/>nämlichen Orts, und auch den benachbarten, <w>frei
+<pc>-</pc>
+                        <lb/>stehen</w>.</p>
+
+<p>
+<lb/>
+                    <pb facs="" type="seite" n="447"/>15. Weil bisher die römischen katholischen
+<lb/>Bischöfe bei Gelegenheit der kanonischen <w>Visitazio
+<pc>-</pc>
+                        <lb/>nen</w> auch die der augsburgischen und <w>schweizeri
+<pc>-</pc>
+                        <lb/>schen</w> Konfession zugethanen Prediger, in Ansehung
+<lb/>der Administrirung der Taufe, zu visitiren und
+<lb/>zu examiniren gewohnt waren, so sprechen <rs type="person" ref="#joseph_ii">Se<am>.</am>
+                        <ex>ine</ex> k<am>.</am>
+                        <ex>aiserlich</ex> k<am>.</am>
+                        <ex>önigliche</ex>
+<lb/>Majestät</rs> gedachte Bischöfe von dieser Visitazion
+<lb/>los und erlauben zugleich allergnädigst, daß den
+<lb/>Superintendenten die Prediger ihrer Religion zu
+<lb/>visitiren, jedoch nur auf solche Art gestattet sein
+<lb/>soll, daß dergleichen Visitazionen ohne alle <w>Be
+<pc>-</pc>
+                        <lb/>schwerung</w> der Kontribuenten, also ohne von ihnen
+<lb/>etwas für die Unkosten abzufodern, unternommen
+<lb/>werden sollen.</p>
+<p>
+<lb/>Daher ist ihnen anzudeuten, daß diejenigen sich
+<lb/>die schwerste Strafe zuziehen werden, welche bei
+<lb/>dergleichen Gelegenheit von den Kontribuenten <w>et
+<pc>-</pc>
+                        <lb/>was</w> abzufodern oder auch nur anzunehmen sich <w>er
+<pc>-</pc>
+                        <lb/>dreisten</w> werden.</p>
+<p>
+<lb/>Ferners, wenn gedachte Superintendenten und
+<lb/>Prediger der augsburgischen und schweizerischen
+<lb/>Konfession eine Versammlung oder eine Sinode
+<lb/>zu halten für gut befänden, so gestatten <rs type="person" ref="#joseph_ii">Se<am>.</am>
+                        <ex>ine</ex> k<am>.</am>
+                        <ex>aiserlich</ex> k<am>.</am>
+                        <ex>önigliche</ex>
+<lb/>Majestät</rs> in Gleichförmigkeit des 31. Artikels
+<lb/>1715 ein solches zwar, doch so, daß dieselben <w>zu
+<pc>-</pc>
+                        <lb/>vor</w> die Ursachen und alle abzuhandelnden <w>Gegen
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="" type="seite" n="448"/>stände</w> anzuzeigen gehalten sein sollen, worauf, nach
+<lb/>Befund der Sache, eine Sinode in Gegenwart
+<lb/>zweener von <rs type="person" ref="#joseph_ii">S<am>r.</am>
+                        <ex>einer</ex> k<am>.</am>
+                        <ex>aiserlich</ex> k<am>.</am>
+                        <ex>öniglichen</ex> Majestät</rs> zu ernennenden
+<lb/>Kommissarien, nämlich eines der katholischen und
+<lb/>eines der nichtkatholischen Religion Zugethanen,
+<lb/>gehalten werden kann. Uibrigens</p>
+<p>
+<lb/>16. Uiberhaupt soll es im ganzen Königreiche
+<lb/>ein unabänderliches Gesetz sein, daß keiner wegen
+<lb/>der Religion, es sei denn, er handelte wider die
+<lb/>bürgerlichen Gesetze und die allergnädigsten <w>Be
+<pc>-</pc>
+                        <lb/>fehle</w> oder er begienge ein die öffentliche Ruhe <w>stö
+<pc>-</pc>
+                        <lb/>rendes</w> Verbrechen, an Geld oder an Leibe <w>ge
+<pc>-</pc>
+                        <lb/>straft</w> werden kann. Daher befehlen auch <rs type="person" ref="#joseph_ii">Se<am>.</am>
+                        <ex>ine</ex> k<am>.</am>
+                        <ex>aiserlich</ex> k<am>.</am>
+                        <ex>önigliche</ex>
+<lb/>Majestät</rs> allergnädigst, mittels der öffentlichen <w>Ge
+<pc>-</pc>
+                        <lb/>richtsbarkeit</w> zu veranstalten, daß die Katholischen
+<lb/>sich von allen Schmähungen und beleidigenden
+<lb/>Vorwürfen gegen die Nichtkatholischen sorgfältig
+<lb/>enthalten, hingegen aber auch diese alle spöttischen
+<lb/>Ausdrücke, besonders in ihren Dikasterien und
+<lb/>Bittschriften, zu vermeiden beflissen sein sollen, <w>wel
+<pc>-</pc>
+                        <lb/>ches</w>, daß es auch die Grundherren bei ihren <w>Un
+<pc>-</pc>
+                        <lb/>terthanen</w> verordnen sollen, denselben ebenfalls
+<lb/>aufzutragen allergnädigst anbefohlen wird.</p>
+<p>
+<lb/>Und dieses ist es eigentlich, was über <w>dasje
+<pc>-</pc>
+                        <lb/>nige</w>, so in allen k<am>.</am>
+                    <ex>aiserlich</ex> k<am>.</am>
+                    <ex>öniglichen</ex> Erbländern zur <w>einzuführen
+<pc>-</pc>
+                        <lb/>den</w> und zu gründenden ächten christlichen <w>Verträg
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="" type="seite" n="449"/>lichkeit</w> auf vorgesagte Weise festgesetzt worden ist,
+<lb/>im Königreiche <rs type="place" ref="#ungarn_koenigreich">Hungarn</rs> insbesondere künftig zu
+<lb/>beobachten, <rs type="person" ref="#joseph_ii">Se<am>.</am>
+                        <ex>ine</ex>. k<am>.</am>
+                        <ex>aiserlich</ex> k<am>.</am>
+                        <ex>önigliche</ex> Majestät</rs> allergnädigst <w>ver
+<pc>-</pc>
+                        <lb/>williget</w> und zugleich allgemein einzuprägen <w>anbe
+<pc>-</pc>
+                        <lb/>fohlen</w> haben, daß im übrigen alle Gesetze und in
+<lb/>diesem Königreiche im Religionswesen ergangene
+<lb/>Normalresoluzionen allerhöchst Dero glorwürdigster
+<lb/>Vorfahren, insoweit dieselben durch <w>vorangeführ
+<pc>-</pc>
+                        <lb/>te</w> besondere königliche Resoluzionen nicht <w>verän
+<pc>-</pc>
+                        <lb/>dert</w> oder dispensirt worden sind, auch in Zukunft
+<lb/>von denjenigen, welchen es obliegen wird, genau
+<lb/>beobachtet und auf die Vollziehung des <w>Vorange
+<pc>-</pc>
+                        <lb/>zeigten</w> von allen Landesgerichtsbarkeiten allwegen
+<lb/>Obsicht getragen werden soll.</p>
+<p>
+<lb/>Publikazionsdatum in <rs type="place" ref="#pressburg">Preßburg</rs> vom 21. Christmonat
+<lb/>1781.</p>
+            </div>
+
+<div>
+<head>
+<lb/>Unruhen irrgläubiger Unterthanen. <hi rend="antiqua">N<am>.</am>
+                        <ex>ummer</ex> II.</hi>
+</head>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Wie sich bei einer erregten Unruhe der irrgläubigen Unterthanen zu benehmen sei.</note>Sobald sich eine von irrgläubigen Unterthanen
+<lb/>erregte Unruhe äusert, ist den Akatholischen zu <w>er
+<pc>-</pc>
+                        <lb/>klären</w>, daß sie sich genau nach dem erlassenen <w>To
+<pc>-</pc>
+                        <lb/>leranzpatente</w> zu verhalten haben, ihnen zu sagen,
+<lb/>es sei ihnen keineswegs darinn gestattet, einander
+<lb/>im Orte selbst, noch weniger aber in andern <w>Oer
+<pc>-</pc>
+                        <lb/>tern</w>, aufzusuchen, sondern ein jeder, der sich zu
+<lb/>einer Religion bekennen wollte, habe sich bei <w>sei
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="" type="seite" n="450"/>nem</w> Amte oder Magistrate oder Kreisamte <w>schrift
+<pc>-</pc>
+                        <lb/>lich</w> ohne Beisein des Pfarrers zu melden; das
+<lb/>Amt aber oder der Magistrat, welche dem sich
+<lb/>Meldenden einen Zettel über die geschehene <w>Anmel
+<pc>-</pc>
+                        <lb/>dung</w> zu geben haben, sollen jede Woche solche dem
+<lb/>k<am>.</am>
+                    <ex>öniglichen</ex> Kreisamte anzeigen, welches sodann, wenn es
+<lb/>die im Patente vorgeschriebene Zahl der Familien
+<lb/>finden würde, solches an die Landesstelle mit dem
+<lb/>Gutachten, ob ein Bethaus und ein Geistlicher
+<lb/>ihrer Religion ihnen zu gestatten sei, <w>einzuberich
+<pc>-</pc>
+                        <lb/>ten</w> hat.</p>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Wegen der Anmeldung der Akatholiken bei dem Amte.</note>Später ward verordnet, daß, da viele aus <w>Irrwah
+<pc>-</pc>
+                        <lb/>ne</w> sich zur akatholischen Religion erklären, die <w>er
+<pc>-</pc>
+                        <lb/>ste</w> Anmeldung bei dem Amte weder für das <w>Ver
+<pc>-</pc>
+                        <lb/>gangene</w> noch für das Künftige als eine feierliche
+<lb/>Erklärung gelten soll, sondern, wenn sich mehrere
+<lb/>nach den eingelaufenen Amtsberichten als <w>Akatho
+<pc>-</pc>
+                        <lb/>liken</w> gemeldet haben, sind solche zum Amte oder
+<lb/>Magistrate neuerdings einzuberufen, da einzeln
+<lb/>sowohl Männer als Weiber in Beisein des hiezu
+<lb/>von dem Ordinarius abgeschickten geistlichen <w>Kom
+<pc>-</pc>
+                        <lb/>missärs</w> über ihre Bekenntnisse zu einer der <w>tole
+<pc>-</pc>
+                        <lb/>rirten</w> Religionen ohne die mindeste Zudringlichkeit
+<lb/>oder Zwang zu befragen, ihre Erklärungen mit <w>we
+<pc>-</pc>
+                        <lb/>nigen</w> Worten zu protokolliren, solche ihnen <w>vor
+<pc>-</pc>
+                        <lb/>zulesen</w> und von selben mit Beirückung des <w>Na
+<pc>-</pc>
+                        <lb/>mens</w> oder Handzeichens unterfertigen zu lassen.</p>
+<p>
+<lb/>Verordnung in <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs> vom 9. Hornung 1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <pb facs="" type="seite" n="451"/> <note type="crit_app">Am äußeren Rand: Wer dazu als Kommissär zu gebrauchen sei.</note>Jedoch darf kein Vikarius in seinem eigenen Vikariat
+<lb/>und kein Seelsorger in seinem eigenen <w>Kirchspren
+<pc>-</pc>
+                        <lb/>gel</w> als Kommissär gebraucht werden.</p>
+<p>
+<lb/>Verordnung in <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs> vom 14. Hornung 1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Wie die Erklärungen von den Akatholischen aufzunehmen sein.</note>Und alle von den Akatholiken gegebene einzelne <w>Er
+<pc>-</pc>
+                        <lb/>klärungen</w> sind von dem Wirthschaftsamte oder <w>Ma
+<pc>-</pc>
+                        <lb/>gistrate</w> selbst und nur in Beisein des geistlichen
+<lb/>Kommissärs <hi rend="antiqua">ad Protocollum</hi> aufzunehmen und
+<lb/>auch von selbem den sich erklärenden Unterthanen
+<lb/>vorzulesen; mithin ist der Geistliche nicht befugt,
+<lb/>solche für sich allein vorzumerken; indessen bleibt
+<lb/>aber den geistlichen Kommissären unbenommen, auch
+<lb/>ihrer Seits über dieses Geschäft Protokolle und
+<lb/>Konsignazionen aufzunehmen und solche an den
+<lb/>Ordinarius einzusenden. Uibrigens haben sich die
+<lb/>Wirthschaftsämter, Magistrate und geistlichen
+<lb/>Kommissarien des Ausdruckes <hi rend="antiqua">Crucula</hi> oder <w>Kreuz
+<pc>-</pc>
+                        <lb/>lein</w>, welche die des Schreibens unkündigen <w>Un
+<pc>-</pc>
+                        <lb/>terthanen</w> ihren Erklärungen beizurücken haben, zur
+<lb/>Vermeidung aller Anstössigkeit bei dem einfältigen
+<lb/>Volke nicht zu bedienen, sondern sich bloß an die
+<lb/>Normalvorschrift zu halten und den des <w>Schrei
+<pc>-</pc>
+                        <lb/>bens</w> nicht kundigen Unterthanen zu bedeuten, daß
+<lb/>sie ihren Erklärungen ihr Handzeichen beirücken
+<lb/>sollen.</p>
+<p>
+<lb/>Hofdekret vom 7. März 1782.</p>
+<p>
+<lb/>
+                    <pb facs="" type="seite" n="452"/> <note type="crit_app">Am äußeren Rand: Die Prüfungen in diesem Falle sind kurz vorzunehmen.</note>Die Prüfungen müssen auch kurz und bündig <w>vor
+<pc>-</pc>
+                        <lb/>genommen</w> und nicht mit der Prüfung <w>ei
+<pc>-</pc>
+                        <lb/>niger</w> 4 oder 5 Personen der ganze Tag <w>zu
+<pc>-</pc>
+                        <lb/>gebracht</w> werden. </p>
+<p>
+<lb/>Hofdekret vom 18. März 1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Wo sich die meisten Umstände ergeben, soll ein Kreisbeamter erscheinen.</note>Wo sich aber die meisten Umstände ergeben, soll
+<lb/>bei der Vernehmung derselben ein <w>Kreisbe
+<pc>-</pc>
+                        <lb/>amter</w> erscheinen und soll von der einzelnen
+<lb/>Ausfragung und der Unterschrift eines jeden
+<lb/>Unterthans als von wesentlichen Dingen nicht
+<lb/>abgegangen werden.</p>
+<p>
+<lb/>Hofdekret vom 21. März und 9. April 1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Es darf keine andere Religionserklärung angenommen werden als der drei tolerirten.</note>Und da keine Glaubenslehre im Staate geduldet
+<lb/>werden kann, die nicht die Sittlichkeit ihrer
+<lb/>Religionsverwandten zum Grundsatze hat, so
+<lb/>darf bei jener feierlichen Erklärung keine <w>an
+<pc>-</pc>
+                        <lb/>dere</w> Religionsbekenntniß angenommen <w>wer
+<pc>-</pc>
+                        <lb/>den</w> als zu einer der drei tolerirten. Jenen
+<lb/>aber, die sich zu keiner dieser drei tolerirten
+<lb/>Religionen bekennen wollen, wird kein <w>eige
+<pc>-</pc>
+                        <lb/>ner</w> Gottesdienst unter Strafe der öffentlichen
+<lb/>Ruhestörung gestattet, sondern sie sollen als
+<lb/>Katholiken betrachtet und mit Ausschluß der
+<lb/>heiligen Beicht und Kommunion zur <w>Beob
+<pc>-</pc>
+                        <lb/>achtung</w> der katholischen Religionsdisziplin <w>an
+<pc>-</pc>
+                        <lb/>gehalten</w> werden.</p>
+<p>
+<lb/>Hofdekret vom 25. und 31. Jäner 1782, mehrmal
+<lb/>in <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs> republizirt unterm 8. April 1782.</p>
+
+<p>
+<lb/>
+                    <pb facs="" type="seite" n="453"/> <note type="crit_app">Am äußeren Rand: Doch darf niemand zu dieser Religionserklärung durch Militärassistenz verhalten werden.</note>Auch dürfen die Leute zur Stellung und <w>Abge
+<pc>-</pc>
+                        <lb/>bung</w> ihrer Religionserklärung durch <w>Militär
+<pc>-</pc>
+                        <lb/>assistenz</w> nicht verhalten werden, weil diese
+<lb/>Erklärungen frei und ungezwungen geschehen
+<lb/>müssen, und jene, die sich nicht stellen oder
+<lb/>sich nach der bestehenden Vorschrift nicht <w>er
+<pc>-</pc>
+                        <lb/>klären</w> oder sich nicht unterfertigen wollen,
+<lb/>sind, solang sie dieses nicht thun, für <w>katho
+<pc>-</pc>
+                        <lb/>lisch</w> zu achten und zu halten.</p>
+<p>
+<lb/>Hofdekret vom 17. April 1782.</p>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Die Geistlichen haben sich mit den Akatholischen wegen der Bekehrung nicht einzulassen.</note>Die Geistlichkeit hat sich in keine zur Bekehrung
+<lb/>führende Veranlassungen oder Reden mit den
+<lb/>Akatholischen einzulassen, weil dieses auf
+<lb/>andere Zeiten zu verschieben und jetzt nur
+<lb/>darum zu thun ist, ihre Zahl zu wissen.</p>
+<p>
+<lb/>Hofdekret vom 15. April 1782.</p>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Die Zeitfrist zu diesen Erklärungen ist der 1. Jäner 1783.</note>Der 1. Jäner 1783 wird als eine Zeitfrist zur
+<lb/>unbeschränkten Annahme der ehemaligen <w>Er
+<pc>-</pc>
+                        <lb/>klärungen</w> der Akatholischen festgesetzt.</p>
+<p>
+<lb/>Hofdekret vom 15. Christmonat 1782.</p>
+<p>
+<lb/>
+                    <hi rend="antiqua">NB.</hi> Was mit jenen zu veranlassen sei, die sich
+<lb/>nach dieser Zeitfrist melden, sieh weiter <w>un
+<pc>-</pc>
+                        <lb/>ten</w>.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <pb facs="" type="seite" n="454"/> <note type="crit_app">Am äußeren Rand: Akatholische dürfen niemand von den Katholischen zu ihrer Religion zwingen.</note>2. Dürfen die Akatholischen sich nicht <w>unter
+<pc>-</pc>
+                        <lb/>fangen</w>, ihre katholischen Mitbürger, Eheweiber
+<lb/>oder Männer, Kinder oder Gesinde zu ihrer <w>Reli
+<pc>-</pc>
+                        <lb/>gion</w> durch Drohung oder Verachtung zu zwingen,
+<lb/>viel weniger aber</p>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Haben sich von Schmähungen und Thätigkeiten gegen den Gottesdienst und dessen äuserliche Gebräuche zu enthalten.</note>3. Schmähungen oder Thätigkeiten auszuüben,
+<lb/>den Gottesdienst einer andern Religion zu <w>verach
+<pc>-</pc>
+                        <lb/>ten</w>, zu verschmähen oder sich gar an Kirchen,
+<lb/>Bildern, Statuen oder andern zur Religion <w>ge
+<pc>-</pc>
+                        <lb/>hörigen</w> äuserlichen Sachen zu vergreifen, denn sonst
+<lb/>sollen sie ohne Nachsicht nicht wegen des Glaubens,
+<lb/>sondern als Störer der öffentlichen Ruhe mit <w>al
+<pc>-</pc>
+                        <lb/>ler</w> Schärfe gestraft werden.</p>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: In Wirthshäusern und andern Zusammenkünften haben sie sich von Religionsgesprächen zu enthalten.</note>4. Sollen sie sich in Wirthshäusern und bei <w>al
+<pc>-</pc>
+                        <lb/>len</w> Zusammenkünften von allen Religionsgesprächen,
+<lb/>noch mehr aber von aller Schmähung oder Verachtung
+<lb/>um so gewisser enthalten, als im widrigen Falle
+<lb/>sowohl sie als die Wirthe und Grundobrigkeiten,
+<lb/>die es zulassen, deßhalben unnachsichtlich bestraft
+<lb/>werden würden. Hingegen sollen auch</p>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Wie sich die katholische Unterthanen gegen ihre Mitbrüder zu verhalten haben.</note>5. die katholischen Unterthanen ihren irrenden
+<lb/>Brüdern alle Liebe bezeigen und sich ebenfalls von
+<lb/>allen Streitigkeiten des Glaubens unter <w>unnach
+<pc>-</pc>
+                        <lb/>sichtlicher</w> Bestrafung enthalten. Uibrigens ist kein
+<lb/>Haß gegen Irrgläubige und sonst ruhige <w>Unter
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="" type="seite" n="455"/>thanen</w> zu hegen, selbe in ihren Andachtsübungen,
+<lb/>wenn sie sich sonst ruhig betragen, keineswegs zu
+<lb/>stören, und bei vorkommenden Strafen wegen <w>Thä
+<pc>-</pc>
+                        <lb/>thigkeiten</w>, Schmähungen u<am>.</am>
+                    <ex>nd</ex> d<am>.</am>
+                    <ex>er</ex> g<am>.</am>
+                    <ex>leichen</ex> ihnen wohl <w>be
+<pc>-</pc>
+                        <lb/>greiflich</w> zu machen, daß solche nicht wegen ihres
+<lb/>Glaubens, oder ihrer Religion verhängt worden
+<lb/>sind. Die Geistlichkeit hat sich von allen <w>Kontro
+<pc>-</pc>
+                        <lb/>versien</w> und Schmähungen auf der Kanzel, bei der
+<lb/>christlichen Lehre und im Umgange unter sonstiger
+<lb/>unausbleiblicher Ahndung zu enthalten, und nur
+<lb/>die Lehre Jesu Christi, die Religion, und die <w>Sit
+<pc>-</pc>
+                        <lb/>tenlehre</w> gründlich, ohne Sticheleien auf <w>Glaubens
+<pc>-</pc>
+                        <lb/>gegner</w> und, ohne Gelehrsamkeit oder theologische
+<lb/>Zwistigkeiten dem Volke, das solches nicht <w>begrei
+<pc>-</pc>
+                        <lb/>fen</w> kann, auszukramen, zu erklären und <w>einzu
+<pc>-</pc>
+                        <lb/>prägen</w>.</p>
+<p>
+<lb/>Hofdekret vom 2. Jäner 1782, publizirt in <rs type="place" ref="#boehmen_koenigreich">
+                        <w>Böh
+<pc>-</pc>
+                            <lb/>men</w>
+                    </rs> vom 9. und in <rs type="place" ref="#wien">Wien</rs> vom 16. Jäner
+<lb/>1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Die Akatholischen sollen sich durch kein widriges Betragen gegen die katholische Religion intolerant machen.</note>Durch einen Nachtrag ward weiter verordnet, daß
+<lb/>die Akatholiken durch kein widriges <w>Betra
+<pc>-</pc>
+                        <lb/>gen</w> gegen die katholische Religion und <w>Glau
+<pc>-</pc>
+                        <lb/>bensgenossen</w> sich intolerant machen, folglich
+<lb/>alles Herumschwärmen, Bothenausschicken,
+<lb/>Religionsstreite, Glaubensanwerbungen und <w>al
+<pc>-</pc>
+                        <lb/>le</w> geheime oder Zusammenkünfte von <w>gan
+<pc>-</pc>
+                        <lb/>zen</w> Gemeinden unterlassen sollen, weil die
+<lb/>Uiberreder zum Abfalle von der katholischen <w>Re
+<pc>-</pc>
+                        <lb/>ligion</w>, wenn sie darinn uberwiesen würden,
+
+<lb/>
+                    <pb facs="" type="seite" n="456"/>als Störer der öffentlichen Ruhe von der
+<lb/>Landesstelle bestraft werden würden. Sollten
+<lb/>aber gar verdächtige Ausländer betreten <w>wer
+<pc>-</pc>
+                        <lb/>den</w>, so sind solche Emissarien an die <w>Lan
+<pc>-</pc>
+                        <lb/>desstelle</w> abzuliefern. Wenn endlich Unruhen
+<lb/>oder Tumulte über Religionsmaterien <w>ent
+<pc>-</pc>
+                        <lb/>stünden</w>, so soll keine Religionsparthei <w>Ge
+<pc>-</pc>
+                        <lb/>walt</w> mit Gewalt abtreiben, sondern dem <w>Un
+<pc>-</pc>
+                        <lb/>gestümme</w> des Gegentheils nachgeben und die
+<lb/>Sache der richterlichen Beurtheilung überlassen,
+<lb/>nach welcher die wider die Akatholiken
+<lb/>oder ihre von der Landesstelle konfirmirten
+<lb/>Pastoren oder ihren tolerirten Gottesdienst
+<lb/>sich vergehenden Katholiken als Störer der
+<lb/>allgemeinen Ruhe zu bestrafen, um so
+<lb/>mehr aber die Akatholiken, welche die <w>domi
+<pc>-</pc>
+                        <lb/>nante</w> Religion auf was immer für Art
+<lb/>angreifen, nach der Strenge der Gesetze zur
+<lb/>Erhaltung der öffentlichen Ruhe zu behandeln
+<lb/>sind. Uiberhaupt haben die Kreisämter über
+<lb/>die Erhaltung der Ruhe und über den <w>Fort
+<pc>-</pc>
+                        <lb/>gang</w> in dem Einfluße, den die Toleranz auf
+<lb/>den politischen Zustand wirkt, ihre <w>Wachsam
+<pc>-</pc>
+                        <lb/>keit</w> zu verwenden, und bei vorkommenden
+<lb/>Zweifeln für die Ausführung der <w>Toleranz
+<pc>-</pc>
+                        <lb/>gesetze</w> und anderer einzelnen Umstände sich
+<lb/>an die Landesstelle zu wenden.</p>
+<p>
+<lb/>Hofdekret vom 31. Jäner 1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <pb facs="" type="seite" n="457"/> <note type="crit_app">Am äußeren Rand: Wie sich gegen jene akatholische Unthanen<!-- korr -->, welche sich gegen katholische Grundsätze mit Schmähungen vergangen, zu benehmen sei.</note>Hingegen sollen jene akatholischen Unterhanen, <w>wel
+<pc>-</pc>
+                        <lb/>che</w> sich gegen die katholischen Grundsätze mit
+<lb/>Schmähungen öffentlich vergangen haben, <w>künf
+<pc>-</pc>
+                        <lb/>tig</w>, wenn nicht besonders beschwerende <w>Um
+<pc>-</pc>
+                        <lb/>stände</w> wider selbe hevorkommen, nach <w>auf
+<pc>-</pc>
+                        <lb/>gehobenem</w> Konstitutum sogleich wieder nach
+<lb/>Hause zu ihren Wirtschaften entlassen und
+<lb/>nach eingelangter kreisämtlicher oder <w>Guber
+<pc>-</pc>
+                        <lb/>nialerkenntniß</w> erst wieder zum Amte <w>gefo
+<pc>-</pc>
+                        <lb/>dert</w> und die verhängte Strafe an und von
+<lb/>ihnen vollzogen werden.</p>
+<p>
+<lb/>Verordnung in <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs> vom 8. März 1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Selbe sind nicht zur Kriminalinquisizion zu übergeben.</note>Doch sind sie keineswegs zur Kriminalinquisizion
+<lb/>zu übergeben, sondern, wie schon gesagt <w>wor
+<pc>-</pc>
+                        <lb/>den</w> ist, bei Wirthschaftsämtern oder im <w>nö
+<pc>-</pc>
+                        <lb/>thigen</w> Falle beim Kreisamte mit freiem Fuße
+<lb/>zu konstituiren, nach aufgenommenem <w>Kon
+<pc>-</pc>
+                        <lb/>stitutum</w> zu ihren Wirthschaften zu entlassen
+<lb/>und die Konstitute jedesmal an die <w>Landes
+<pc>-</pc>
+                        <lb/>stelle</w> einzusenden.</p>
+<p>
+<lb/>Hofdekret vom 30. März und Verordnung vom
+<lb/>24. April 1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Uiberhaubt sind die dießfälligen Strittigkeiten von den Kreisämtern als Polizeisache zu untersuchen.</note>Uiberhaupt sollen die Religionsuneinigkeiten und
+<lb/>Streite zwischen den katholischen und <w>akatho
+<pc>-</pc>
+                        <lb/>lischen</w> Unterthanen von den Kreisämtern als
+<lb/>eine Polizeisache untersuchet und nicht eher,
+<lb/>als bis ein Kriminalverbrechen hervorkömmt,
+<lb/>an die Halsgerichte übertragen werden.</p>
+<p>
+<lb/>Hofdekret vom 26. April 1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <pb facs="" type="seite" n="458"/> <note type="crit_app">Am äußeren Rand: Wie Unterthanen, so ihrem Gesinde in Absicht der Religion irrige Begriffe beibringen, anzusehen sein.</note>Dann ward auch jedermann bekannt gemacht,
+<lb/>daß der Wunsch <rs type="person" ref="#joseph_ii">S<am>r.</am>
+                        <ex>einer</ex> Majestät</rs> immer dahin <w>ge
+<pc>-</pc>
+                        <lb/>richtet</w> sei, damit ihre Unterthanen der allein <w>selig
+<pc>-</pc>
+                        <lb/>machenden</w> katholischen Religion, deren <w>Beförde
+<pc>-</pc>
+                        <lb/>rung</w> <rs type="person" ref="#joseph_ii">S<am>r.</am>
+                        <ex>einer</ex> Majestät</rs> so sehr am Herzen liegt, aus
+<lb/>freiwilliger Uiberzeugung anhängen und auf <w>die
+<pc>-</pc>
+                        <lb/>sem</w> sichersten Wege ihr Heil wirken möchten. <w>Da
+<pc>-</pc>
+                        <lb/>her</w> werden sich diejenigen, die sich unterfangen, <w>ih
+<pc>-</pc>
+                        <lb/>re</w> Hausgenossen, ihr Gesinde oder ihre <w>Untertha
+<pc>-</pc>
+                        <lb/>nen</w> – es sei durch widrige Ausdeutung der <w>To
+<pc>-</pc>
+                        <lb/>leranzgeneralien</w>, falsche Vorspieglungen, oder gar
+<lb/>etwa durch Drohungen und Thathandlungen –
+<lb/>zur Vorwahl einer oder der andern Religion zu
+<lb/>verleiten oder auch nur mit dem wahren Sinne
+<lb/>der verwilligten Toleranz nicht übereinkommende
+<lb/>irrige Begriffe andern beizubringen, unvermeidlich
+<lb/>die allerhöchste Ungnade zuziehen, auch nach den
+<lb/>Umständen unnachsichtlich auf das schärfeste bestraft
+<lb/>werden.</p>
+<p>
+<lb/>Hofentschliessung vom 26. April, Patent in <rs type="place" ref="#boehmen_koenigreich">
+                        <w>Böh
+<pc>-</pc>
+                            <lb/>men</w>
+                    </rs> vom 21. April, in <rs type="place" ref="#maehren_markgrafschaft">Mähren</rs> vom 7 Mai
+<lb/>1782.</p>
+            </div>
+
+<div>
+<head>
+<lb/>
+                    <pb facs="" type="seite" n="459"/>Die sich nach der Zeitfrist anmeldenden
+<lb/>Akatholiken <hi rend="antiqua">N<am>.</am>
+                        <ex>ummer</ex> IV.</hi>
+                    <note type="annotation">Eine Überschrift mit der Nummer <q>III.</q> findet sich in dem Dokument nicht.</note>
+                </head>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Wie mit den Akatholiken zu verfahren sei, die sich erst nach der Zeitfrist melden.</note>Mit jenen Akatholiken, die sich nach der <w>Zeit
+<pc>-</pc>
+                        <lb/>frist</w>, das ist, nach dem 1. Jäner 1783, <w>anmel
+<pc>-</pc>
+                        <lb/>den</w>, sind keine Konstituta vorzunehmen, sondern
+<lb/>sie sind geradeweg abzuweisen, und sind bloß ihre
+<lb/>Namen wegen weiterer von der Landesstelle aus
+<lb/>zu veranlassender Vorkehrung dem Kreisamte <w>an
+<pc>-</pc>
+                        <lb/>zuzeigen</w>.</p>
+<p>
+<lb/>Verordnung in <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs> vom 5. und 8. März 1783.</p>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Alle sich Anmeldenden sind zu einem sechsmonatlichen Unterrichte in dem katholischen Glauben anzuhalten.</note>Alle seit dem 1. Jäner sich Anmeldenden <w>ein
+<pc>-</pc>
+                        <lb/>zelnen</w> Personen und Familien sind zu einem <w>sechs
+<pc>-</pc>
+                        <lb/>monatlichen</w> Unterrichte in dem katholischen allein
+<lb/>seligmachenden Glauben bei dem nächst gelegenen
+<lb/>geistlichen Hause, es sei Kloster oder Pfarre, <w>an
+<pc>-</pc>
+                        <lb/>zuhalten</w>, und ihr Unterhalt<note type="crit_app">Korrigiert aus: Unterthalt.</note> soll zur Hälfte von
+<lb/>ihrem eigenen Vermögen und zur andern Hälfte
+<lb/>von den Einkünften ihres katholischen Seelenhirten,
+<lb/>der durch die schlechte Belehrung daran wirklich
+<lb/>Schuld ist, genommen werden. Ferner ist nur <w>da
+<pc>-</pc>
+                        <lb/>mal</w>, wenn ganze Gemeinden oder mehrere <w>Fami
+<pc>-</pc>
+                        <lb/>lien</w> an einem Orte abfallen, ein eifriger und <w>mäs
+<pc>-</pc>
+                        <lb/>siger</w> Prediger von dem Bischofe dahin zu schicken.
+<lb/>Jedoch soll kein unschuldiger Seelsorger, der an der
+<lb/>schlechten Belehrung keine Schuld hat, zur <w>Abrei
+<pc>-</pc>
+                        <lb/>chung</w> eines Beitrages gehalten, noch bei der <w>Ge
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="" type="seite" n="460"/>meinde</w> publizirt werden, daß ihr Pfarrer aus
+<lb/>Strafe diese Unkosten zahlen müsse. Wenn aber
+<lb/>ganze Gemeinden sich erst itzt als akatholisch <w>mel
+<pc>-</pc>
+                        <lb/>den</w> sollten, so kann der Pfarrer, der die <w>Verfüh
+<pc>-</pc>
+                        <lb/>rung</w> ohne Anzeige hat so weit kommen lassen und
+<lb/>die Herzen seiner ihm anvertrauten Heerde so <w>we
+<pc>-</pc>
+                        <lb/>nig</w> gekannt hat, nicht von aller Schuld <w>losgespro
+<pc>-</pc>
+                        <lb/>chen</w> werden.</p>
+<p>
+<lb/>Hofdekret vom 23. April 1783.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Weitere dießfällige Vorschriften.</note>a) Es ist keinem, der nicht als wirklich <w>ange
+<pc>-</pc>
+                        <lb/>meldeter</w> Akatholik mit dem erfoderlichen, <w>ver
+<pc>-</pc>
+                        <lb/>läßlichen</w> und legalen Zeigenschaftszettel von
+<lb/>seiner Obrigkeit versehen ist, der Zutritt zu
+<lb/>den tolerirten akatholischen Lehren oder <w>An
+<pc>-</pc>
+                        <lb/>dachtsübungen</w> bei seiner und desjenigen <w>Pa
+<pc>-</pc>
+                        <lb/>stors</w> Strafe, der ihn dazu liesse, zu <w>ge
+<pc>-</pc>
+                        <lb/>statten</w>.</p>
+<p>
+<lb/>b) Den Obrigkeiten ist aber selbst verboten, einen
+<lb/>solchen Zeigenschaftszettel jenen zu ertheilen,
+<lb/>die sich nach der Zeitfrist vom 1. Jäner <w>mel
+<pc>-</pc>
+                        <lb/>den</w> oder gemeldet haben, wenn sie nicht den
+<lb/>vorgeschriebenen sechswochentlichen Unterricht
+<lb/>empfangen haben.</p>
+<p>
+<lb/>
+                    <pb facs="" type="seite" n="461"/>c) Sollen die später gemeldeten – um <w>wenig
+<pc>-</pc>
+                        <lb/>stens</w> der landesfürstlichen und väterlichen
+<lb/>Sorgfalt <rs type="person" ref="#joseph_ii">S<am>r.</am>
+                        <ex>einer</ex> Majestät</rs> ein Genügen zu <w>lei
+<pc>-</pc>
+                        <lb/>sten</w> – sich den vorläufigen, ihnen vielleicht
+<lb/>zum Theile noch mangelnden Belehrungen,
+<lb/>Glaubensgegenständen und der Moral <w>gehor
+<pc>-</pc>
+                        <lb/>sam</w> und willig unterziehen.</p>
+<p>
+<lb/>d) Jene, welche wider Vermuthen sich dem <w>an
+<pc>-</pc>
+                        <lb/>geordneten</w> sechswochentlichen Unterrichte in
+<lb/>der katholischen Religion einzeln oder <w>gemein
+<pc>-</pc>
+                        <lb/>schaftlich</w> – je nachdem es angeordnet <w>wer
+<pc>-</pc>
+                        <lb/>den</w> wird – widersetzen, solchen gar nicht
+<lb/>anhören oder mit Geschrei oder Ungestümme
+<lb/>hindern würden, sollen als Uibertreter der <w>al
+<pc>-</pc>
+                        <lb/>lerhöchsten</w> landesfürstlichen Anordnungen und
+<lb/>als ungehorsame Unterthanen scharf <w>gezüchti
+<pc>-</pc>
+                        <lb/>get</w> werden. Denn da es hier nicht um einen
+<lb/>oberflächigen, sondern um den wirklichen <w>Un
+<pc>-</pc>
+                        <lb/>terricht</w> dieser Irrenden zu thun ist, so muß
+<lb/>auch, wo mehrere Familien sich zugleich <w>mel
+<pc>-</pc>
+                        <lb/>den</w>, dem Befunde der hiezu beorderten, der
+<lb/>Sache wohlgewachsenen Geistlichen und <w>Welt
+<pc>-</pc>
+                        <lb/>lichen</w> überlassen bleiben, diesen Unterricht <w>ge
+<pc>-</pc>
+                        <lb/>meinschaftlich</w> oder einzeln zu ertheilen.</p>
+<p>
+<lb/>e) Wenn sich diese Neuerklärten auch nach dieser
+<lb/>nochmaligen Kundmachung des allerhöchsten <w>Be 
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="" type="seite" n="462"/>fehls</w> nicht nach dem gemeinschaftlichen <w>Unter
+<pc>-</pc>
+                        <lb/>richte</w> gutwillig fügten, so sind sie durch das
+<lb/>Kreisamt und mittels ihrer Obrigkeit zur <w>Ver
+<pc>-</pc>
+                        <lb/>meidung</w> unangenehmer Auftritte einzeln zu
+<lb/>ihrem Pfarrer oder zu den abgeordneten
+<lb/>Seelsorgern u<am>.</am>
+                    <ex>nd</ex> s<am>.</am>
+                    <ex>o</ex> w<am>.</am>
+                    <ex>eiter</ex> zu dem vorgeschriebenen
+<lb/>sechswochentlichen Unterrichte zu stellen, zu
+<lb/>dem sie, um den Abfall von der dominanten
+<lb/>zu der bloß tolerirten Religion wenigstens zu
+<lb/>erschweren, unnachsichtlich verhalten werden.</p>
+<p>
+<lb/>Weiter ist überhaupt auch von den k<am>.</am>
+                    <ex>öniglichen</ex> <w>Kreisäm
+<pc>-</pc>
+                        <lb/>tern</w> zur genauen Beobachtung zu nehmen,
+<lb/>nicht minder den Obrigkeiten, Beamten und
+<lb/>vorzüglich den Geistlichen ernstlich <w>einzuschär
+<pc>-</pc>
+                        <lb/>fen</w>, daß sie sich bei der Einberufung, <w>nach
+<pc>-</pc>
+                        <lb/>maliger</w> Verkündigung des allerhöchsten Befehls
+<lb/>und Ermahnung zu dem Religionsunterrichte
+<lb/>selbst aller möglichen Sanftmuth und <w>Gelin
+<pc>-</pc>
+                        <lb/>digkeit</w> bedienen, alles rauhe Anfahren, alle
+<lb/>Drohungen und Schmähungen auf das <w>sorg
+<pc>-</pc>
+                        <lb/>fältigste</w> vermeiden und das Wort Gottes
+<lb/>mit Würde und Gelassenheit vortragen, <w>da
+<pc>-</pc>
+                        <lb/>mit</w> die Irrenden überzeugt werden mögen,
+<lb/>daß nicht zeitliche Absichten, Eigennutz der
+<lb/>Priesterschaft und Religionshaß, sondern <w>vä
+<pc>-</pc>
+                        <lb/>terliche</w> Sorgfalt und Liebe, ihr Seelenheil
+<lb/>zu wirken, diesen Unterricht – zu dessen <w>Er
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="" type="seite" n="463"/>leichterung</w> gute Bücher nach Erfoderniß <w>wer
+<pc>-</pc>
+                        <lb/>den</w> angeschaffet, und in den Gegenden, wo
+<lb/>die  meisten Irrlehren sich äusern, vertheilt
+<lb/>werden – veranlassen. Denn, obschon <rs type="person" ref="#joseph_ii">Se<am>.</am>
+                        <ex>eine</ex>
+<lb/>Majestät</rs> jenen, die bereits einer andern <w>Re
+<pc>-</pc>
+                        <lb/>ligion</w> zugethan und etwa schon in solcher
+<lb/>gebohren sind, die Ausübung nach den <w>kund
+<pc>-</pc>
+                        <lb/>gemachten</w> Toleranzgesetzen gestatten, so <w>wol
+<pc>-</pc>
+                        <lb/>len</w> sie doch keineswegs geschehen lassen, daß
+<lb/>katholisch gebohrne und erzogene Unterthanen
+<lb/>nach freier Willkür, oft aus Mangel des <w>Un
+<pc>-</pc>
+                        <lb/>terrichtes</w>, aus Leichtsinn, aus Verführung
+<lb/>unruhiger, fanatischer Leute, oder durch <w>Vor
+<pc>-</pc>
+                        <lb/>spieglung</w> zeitlicher Vortheile, als daß sie <w>kei
+<pc>-</pc>
+                        <lb/>ne</w> Stola, keinen Zehend dem  Pfarrer mehr
+<lb/>abreichen dürfen u<am>.</am>
+                    <ex>nd</ex> d<am>.</am>
+                    <ex>er</ex> gl<am>.</am>
+                    <ex>eichen</ex>, ihre angebohrne
+<lb/>wahre Religion, so oft es ihnen beliebt, <w>ver
+<pc>-</pc>
+                        <lb/>lassen</w>, und eine andere annehmen.</p>
+<p>
+<lb/>Und da übrigens aus diesen öftern späteren <w>Mel
+<pc>-</pc>
+                        <lb/>dungen</w> nicht ohne Grund vermuthet werden
+<lb/>muß, daß es viele sogenannte Ministelli und
+<lb/>andere Fanatiker im Lande geben müsse, welche
+<lb/>die leichtgläubigen und schlecht unterrichteten
+<lb/>Bauern zu verführen und zu ihren <w>Glaubens
+<pc>-</pc>
+                        <lb/>versammlungen</w> zu verleiten suchen, diesem <w>Ui
+<pc>-</pc>
+                        <lb/>bel</w> aber allerdings Einhalt gethan werden
+<lb/>muß, so wird derjenige, der immer mit <w>Grun
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="" type="seite" n="464"/>de</w> einer solchen Verführung und <w>Proseliten
+<pc>-</pc>
+                        <lb/>macherei</w> überführt werden kann, scharf <w>ge
+<pc>-</pc>
+                        <lb/>straft</w>, und aus dem Lande abgeschaffet <w>wer
+<pc>-</pc>
+                        <lb/>den</w>.</p>
+<p>
+<lb/>Hofdekret vom 30 April 1783.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Unterthanen, die nicht mit ihrer Religionsänderung hervortreten, sind nicht darüber zu fragen.</note>Diejenigen, die nicht selbst mit ihrer <w>Religionsän
+<pc>-</pc>
+                        <lb/>derung</w> hervortreten, sollen nicht darüber <w>be
+<pc>-</pc>
+                        <lb/>fragt</w> und zur Erklärung aufgefodert <w>wer
+<pc>-</pc>
+                        <lb/>den</w>.</p>
+<p>
+<lb/>Hofdekret vom 19. Mai 1783.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Kein <rs type="place" ref="#ungarn_koenigreich">hungarischer</rs> von dem Glauben abfallender Unterthan ist bei den <rs type="place" ref="#maehren_markgrafschaft">mährisch</rs> und <rs type="place" ref="#schlesien_herzogtum">schlesischen</rs> Gemeinden anzunehmen.</note>In <rs type="place" ref="#maehren_markgrafschaft">Mähren</rs> wurde dann auch verordnet, daß
+<lb/>kein <rs type="place" ref="#ungarn_koenigreich">hungarischer</rs> von dem katholischen <w>Glau
+<pc>-</pc>
+                        <lb/>ben</w> abfallen wollender Unterthan bei den <rs type="place" ref="#maehren_markgrafschaft">
+                        <w>mäh
+<pc>-</pc>
+                            <lb/>rischen</w>
+                    </rs> und <rs type="place" ref="#schlesien_herzogtum">schlesischen</rs> akatholischen <w>Gemein
+<pc>-</pc>
+                        <lb/>den</w> angenommen und zu ihren <w>Religionsübun
+<pc>-</pc>
+                        <lb/>gen</w> gelassen werden soll, der nicht mit einem
+<lb/>hinlänglichen geistlichen Zeignisse, daß er den
+<lb/>vorgeschriebenen sechswochentlichen Unterricht
+<lb/>in der katholischen Religion bekommen habe,
+<lb/>versehen sei.</p>
+<p>
+<lb/>Hofentschliessung vom 30. Mai 1783.
+</p>
+            </div>
+
+<div>
+<head>
+<lb/>
+                    <pb facs="" type="seite" n="465"/>Deisten, Israeliten. <hi rend="antiqua">N<am>.</am>
+                        <ex>ummer</ex> V.</hi>
+                </head>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Was mit den angemeldeten Deisten und Israeliten zu thun sei.</note>Wegen der Deisten, Israeliten und anderer
+<lb/>Sekten soll nie eine Untersuchung veranlasset oder
+<lb/>Leute, gegen die man Zweifel hat, <w>zusammengeru
+<pc>-</pc>
+                        <lb/>fen</w> oder befragt werden. Und es wird jeder, der
+<lb/>dawider handeln wird, ohne Unterschied seines
+<lb/>Dienstes entlassen werden. Ferner, wenn sich ein
+<lb/>Mann, ein Weib oder wer immer bei einem Ober-
+<lb/>oder Kreisamte als Deist, Israelit oder als <w>soge
+<pc>-</pc>
+                        <lb/>nannter</w> Lampelbruder meldet, sollen ihm ohne <w>wei
+<pc>-</pc>
+                        <lb/>tere</w> Anfrage 24 Prügel oder Karbatschstreiche auf
+<lb/>den Hintern gegeben und er damit nach Hause <w>ge
+<pc>-</pc>
+                        <lb/>schickt</w> werden. Dieses soll so oft wiederholt <w>wer
+<pc>-</pc>
+                        <lb/>den</w>, als er neuerdings kömmt, sich zu melden,
+<lb/>nicht weil er ein Deist ist, sondern weil er sagt,
+<lb/>das zu sein, was er nicht weis, was es ist. <w>In
+<pc>-</pc>
+                        <lb/>gleichen</w> ist auch jener, der einen Deisten in der
+<lb/>Gemeinde nennt oder angiebt, von dem Ober- oder
+<lb/>Kreisamte mit 10 Stockstreichen zu belegen.</p>
+<p>
+<lb/>Hofdekret vom 10. Juli 1783.</p>
+            </div>
+
+<div>
+<head>
+<lb/>
+                    <pb facs="" type="seite" n="466"/>Betragen bei dem Gottesdienste. <hi rend="antiqua">N<am>.</am>
+                        <ex>ummer</ex> VI.</hi>
+                </head>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Betragen der geduldeten Religionsverwandten gegen die herrschende Religion.</note>Die geduldeten Religionsverwandten haben bei
+<lb/>Prozessionen, Versehung der Kranken, oder wo <w>ih
+<pc>-</pc>
+                        <lb/>nen</w> sonst das Hochwürdigste zu Gesichte kömmt,
+<lb/>entweder mit abgedecktem Haupte ruhig <w>vorüberzu
+<pc>-</pc>
+                        <lb/>gehen</w> oder in einer bescheidenen Stellung dessen
+<lb/>Vorübertragung abzuwarten oder sich zu <w>entfer
+<pc>-</pc>
+                        <lb/>nen</w>; sonst werden sie wie Uibertreter der höchsten
+<lb/>Toleranzgesetze und wie Störer der öffentlichen
+<lb/>Ruhe bestraft, auch nach den Umständen mit <w>Lei
+<pc>-</pc>
+                        <lb/>besstrafen</w> belegt werden. Ferner haben die <w>pro
+<pc>-</pc>
+                        <lb/>testantischen</w> Prediger ihren Gemeinden die Billigkeit
+<lb/>dieser Verfügung und ihre Schuldigkeit dergestalt
+<lb/>begreiflich zu machen, daß sie für die herrschende
+<lb/>Religion und deren Gebräuche alle Ehrfurcht <w>be
+<pc>-</pc>
+                        <lb/>zeigen</w>, die verliehene Gewissensfreiheit durch <w>wi
+<pc>-</pc>
+                        <lb/>drige</w> Handlungen nicht mißbrauchen und ihre <w>ka
+<pc>-</pc>
+                        <lb/>tholische</w> Mitunterthanen nicht mit Fleisse reizen und
+<lb/>aufbringen und dadurch nicht selbst zu <w>unange
+<pc>-</pc>
+                        <lb/>nehmen</w> Folgen Anlaß geben sollen.</p>
+<p>
+<lb/>Hofdekret vom 9. September 1783 und 20. <w>Christ
+<pc>-</pc>
+                        <lb/>monat</w> 1783.</p>
+            </div>
+
+<div>
+<head>
+<lb/>
+                    <pb facs="" type="seite" n="467"/>Besuchung der Kranken. <hi rend="antiqua">N<am>.</am>
+                        <ex>ummer</ex> VII.</hi>
+                </head>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Was die katholischen Seelsorger zu thun haben, wenn ein abgefallener Katholik erkranket.</note>Da einem zur katholischen Kirche <w>zurückzutre
+<pc>-</pc>
+                        <lb/>ten</w> wünschenden Kranken die Unterredung mit einem
+<lb/>katholischen Geistlichen von den Akatholiken leicht
+<lb/>erschweret werden dürfte, so sollen die katholischen
+<lb/>Seelsorger von selbst, ohne daß sie erst verlangt
+<lb/>worden sind, dergleichen Kranke einmal besuchen,
+<lb/>ihnen ihren Beistand anbieten und in <w>Verlangungs
+<pc>-</pc>
+                        <lb/>falle</w> sie mit allen Mitteln versehen. Jedoch sollen
+<lb/>sie in solchen Fällen mit aller Bescheidenheit und
+<lb/>Sanftmuth zu Werke gehen, sich aller <w>Zudringlich
+<pc>-</pc>
+                        <lb/>keit</w> enthalten und wenn der Kranke ihres <w>Beistan
+<pc>-</pc>
+                        <lb/>des</w> sich nicht gebrauchen wollte, ohne weiteres
+<lb/>entfernen. Sollte aber eine Klage über die <w>Unter
+<pc>-</pc>
+                        <lb/>lassung</w> dieses geistlichen Beistandes, Anbietens
+<lb/>oder über die Unbescheidenheit dieser Handlung <w>vor
+<pc>-</pc>
+                        <lb/>kommen</w>, so haben die Kreisämter die Fälle <w>anzu
+<pc>-</pc>
+                        <lb/>zeigen</w>, so wie die Jurisdikzionsämter selbst dafür
+<lb/>verantwortlich zu machen sind, wenn sie etwa <w>be
+<pc>-</pc>
+                        <lb/>merkten</w> und nicht anzeigten, daß die katholischen
+<lb/>Seelsorger etwa durch ihre saumselige <w>Amtsverwal
+<pc>-</pc>
+                        <lb/>tung</w> oder durch einen ärgerlichen Lebenswandel
+<lb/>den Akatholischen zur Verachtung der heiligen <w>ka
+<pc>-</pc>
+                        <lb/>tholischen</w> Kirche Anlaß geben.</p>
+<p>
+<lb/>Hofdekret vom 31. Jäner und Verordnung in <rs type="place" ref="#boehmen_koenigreich">
+                        <w>Böh
+<pc>-</pc>
+                            <lb/>men</w>
+                    </rs> vom 9. Hornung 1782.</p>
+<p>
+<lb/>
+                    <pb facs="" type="seite" n="468"/> <note type="crit_app">Am äußeren Rand: Ein Akatholischer, der noch in der Prüfungszeit ist, darf von keinem akatholischen Geistlichen besucht werden, wenn er auf dem Sterbebette liegt.</note>Eine nach der Zeitfrist sich akatholisch <w>gemel
+<pc>-</pc>
+                        <lb/>dete</w>, zur vorschriftmässigen Instrukzion abgegebene,
+<lb/>während dieser Zeit aber auf das Sterbebett <w>gera
+<pc>-</pc>
+                        <lb/>thene</w> Person kann weder in <hi rend="antiqua">articulo mortis</hi> noch
+<lb/>wegen anderer Ursachen in dieser Prüfungszeit für
+<lb/>wirklich akatholisch angesehen werden. Folglich ist
+<lb/>derselben, bis die festgesetzte Instrukzion nicht <w>vor
+<pc>-</pc>
+                        <lb/>bei</w> ist, die Besuchung eines Dieners von der <w>aka
+<pc>-</pc>
+                        <lb/>tholischen</w> Religion unter keinerlei Vorwande zu <w>ge
+<pc>-</pc>
+                        <lb/>statten</w>, weil damal die Hoffnung noch übrig ist,
+<lb/>solche bei der allein seligmachenden Religion zu <w>er
+<pc>-</pc>
+                        <lb/>halten</w>.</p>
+<p>
+<lb/>Hofdekret vom 3. Juli 1783.</p>
+            </div>
+
+<div>
+<head>
+<lb/>Taufe, Trauung, Begräbnisse. <hi rend="antiqua">N<am>.</am>
+                        <ex>ummer</ex> VIII.</hi>
+                </head>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Taufe, Trauung und Begräbnisse der Akatholischen betreffend.</note>Bei akatholischen Unterthanen sollen die Taufe,
+<lb/>Trauung und Begräbnisse nur von solchen <w>Perso
+<pc>-</pc>
+                        <lb/>nen</w>, die von dem Staate und Lande ihre <w>Juris
+<pc>-</pc>
+                        <lb/>dikzion</w> und Gewalt haben, verrichtet werden.</p>
+<p>
+<lb/>Hofdekret<note type="crit_app">Korrigiert aus: Hodekret.</note> vom 13. Jäner 1782.</p>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Katholische Pfarrer haben allein die Matrikelbücher zu führen.</note>Und die Katholischen Pfarrer haben allein die
+<lb/>Matrikelbücher zu führen.</p>
+<p>
+<lb/>Hofentschliessung vom 22. Hornung 1782. </p>
+
+<p>
+<lb/>
+                    <pb facs="" type="seite" n="469"/> <note type="crit_app">Am äußeren Rand: Was über die Führung der Matrikeln in <rs type="place" ref="#maehren_markgrafschaft">Mähren</rs> verordnet worden sei.</note>In <rs type="place" ref="#maehren_markgrafschaft">Mähren</rs> ward aber verordnet, daß zur
+<lb/>Richtigstellung der katholischen Kirchenmatrikeln <w>so
+<pc>-</pc>
+                        <lb/>wohl</w> den dermal schon bestehenden als künftig
+<lb/>noch anzustellenden akatholischen Pastoren <w>nachdrück
+<pc>-</pc>
+                        <lb/>lich</w> eingeschärfet werden soll, bei Ausgange eines
+<lb/>jeden Monates ein umständliches Verzeichniß der
+<lb/>durch dieses Monat getauften, getrauten und <w>ver
+<pc>-</pc>
+                        <lb/>storbenen</w> Personen mittels des geschwornen <w>Ort
+<pc>-</pc>
+                        <lb/>richters</w> an den katholischen Pfarrer abgeben zu
+<lb/>lassen, wobei jedoch der akatholische Unterthan <w>ge
+<pc>-</pc>
+                        <lb/>halten</w> sein soll, die Taufe, Trauung und <w>Begräb
+<pc>-</pc>
+                        <lb/>niß</w> vorläufig dem katholischen Pfarrer anzumelden
+<lb/>und die <hi rend="antiqua">Iura Stolae</hi> zu berichtigen.</p>
+<p>
+<lb/>Hofdekret vom 9. August 1782.</p>
+<p>
+<lb/>
+                    <hi rend="antiqua">NB.</hi> Was weiter in Ehedispensfällen zu thun sei, sieh
+<lb/>in eben dieser Hauptabtheilung im 3. Absatze.</p>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Den in <rs type="place" ref="#schlesien_herzogtum">Schlesien</rs> eingeführten Ritus bei den akatholischen Tauf-, Trau- und Begräbnißfällen betreffend.</note>Der in Schlesien eingeführte <hi rend="antiqua">Ritus</hi> bei den
+<lb/>akatholischen Tauf- Trau- und Begräbnißfällen
+<lb/>wird so vorgeschrieben: Wo ein akatholischer <w>Pre
+<pc>-</pc>
+                        <lb/>diger</w> in einem Orte der katholischen Pfarrei <w>vor
+<pc>-</pc>
+                        <lb/>handen</w> ist, da taufet, trauet und begräbt der <w>aka
+<pc>-</pc>
+                        <lb/>tholische</w> Prediger und verrichtet die ersten zween
+<lb/>
+                    <hi rend="antiqua">Ritus</hi> in der Kirche oder im Bethause seiner <w>Reli
+<pc>-</pc>
+                        <lb/>gionsverwandten</w>. Zu der Zeit, als die <w>katholi
+<pc>-</pc>
+                        <lb/>schen</w> Pfarrer noch das <hi rend="antiqua">Ius Parochiale</hi> über die
+<lb/>Akatholischen haben, darf kein <hi rend="antiqua">Actus Ministerialis</hi>
+
+<lb/>
+                    <pb facs="" type="seite" n="470"/>eher vorgenommen werden, als der, welcher einen
+<lb/>
+                    <hi rend="antiqua">Actus</hi> fodert, sich schriftlich über die Bezahlung der
+<lb/>
+                    <hi rend="antiqua">Iurium Stolæ</hi> an den katholischen Pfarrer ausweist.
+<lb/>Die Begräbnisse geschehen auf dem Kirchhofe der
+<lb/>Gemeinde; Katholiken und Protestanten werden
+<lb/>ohne Anstand auf eben dem Kirchhofe begraben.
+<lb/>Der protestantische Prediger begleitet die Leiche der
+<lb/>Protestanten unter dem Geläute der zur <w>katholi
+<pc>-</pc>
+                        <lb/>schen</w> Kirche gehörigen Glocken; dafür aber bezahlt
+<lb/>der Protestant das gewöhnliche <hi rend="antiqua">ad Cassam</hi> der <w>ka
+<pc>-</pc>
+                        <lb/>tholischen</w> Kirche; der Prediger parentirt, und der
+<lb/>akatholische Schulmeister singt auf dem Kirchhofe.
+<lb/>Aber in die katholische Kirche zu gehen und daselbst
+<lb/>Funkzionen zu üben, dazu hat der akatholische <w>Pre
+<pc>-</pc>
+                        <lb/>diger</w> kein Recht. An jenen Orten, wo kein <w>aka
+<pc>-</pc>
+                        <lb/>tholischer</w> Prediger, folglich auch keine akatholische
+<lb/>Kirche oder Bethaus, ist, lassen die Protestanten,
+<lb/>wenn sie sich nicht etwa zu Benachbarten halten
+<lb/>und dazu legaliter geschlagen sind, bei dem <w>katho
+<pc>-</pc>
+                        <lb/>lischen</w> Pfarrer taufen, trauen und begraben. Bei
+<lb/>den ersten beiden Ministerialhandlungen bedient sich
+<lb/>der katholische Pfarrer des gewöhnlichen <hi rend="antiqua">Ritualis
+<lb/>dioecesani.</hi> Bei Begräbnissen geht der katholische
+<lb/>Pfarrer, wenn er dazu ersucht wird, an Orten,
+<lb/>die weder eigene Prediger haben noch zu einem <w>ge
+<pc>-</pc>
+                        <lb/>schlagen</w> sind, mit der protestantischen Leiche; er
+<lb/>sorgt nur, daß kein Lied während des Konduktes
+<lb/>gesungen werde, wo etwa wider das Fegfeuer oder
+
+<lb/>
+                    <pb facs="" type="seite" n="471"/>sonst etwas den Katholiken anstössiges vorkömmt. 
+<lb/>Er segnet aber da das Grab nicht ein und hält
+<lb/>auch keine Kollekte. Wird aber der katholische <w>Pfar
+<pc>-</pc>
+                        <lb/>rer</w> nicht dazu ersucht, so ist nach Bezahlung der
+<lb/>Stollgebühren den akatholischen Schulmeistern <w>er
+<pc>-</pc>
+                        <lb/>laubt</w>, zu Grabe zu singen. Was endlich den Ritus
+<lb/>bei den Ministerialfunkzionen betrifft, nach <w>wel
+<pc>-</pc>
+                        <lb/>chem</w> sich die Protestanten in <rs type="place" ref="#schlesien_herzogtum">Schlesien</rs> achten, so
+<lb/>ist es eben derselbe, der in der sächsischen <w>Kirchen
+<pc>-</pc>
+                        <lb/>agenda</w> vorgeschrieben ist.</p>
+<p>
+<lb/>Hofdekret vom 16. März 1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Akatholiken sollen keine Ministerialhandlungen selbst verrichten.</note>Uiberhaupt aber sollen die Akatholiken unter <w>schär
+<pc>-</pc>
+                        <lb/>fester</w> Strafe keine Ministerialhandlungen selbst
+<lb/>verrichten, sondern sich jederzeit bei den <w>Seel
+<pc>-</pc>
+                        <lb/>sorgern</w> des Ortes in Betreff der Tauf- und
+<lb/>Begräbnisse anmelden, als welche bereits in <w>An
+<pc>-</pc>
+                        <lb/>sehung</w> des Ritus verständiget <seg type="crit_app">worden sind</seg>
+                    <note type="crit_app">Korrigiert aus: wordensind.</note>.</p>
+<p>
+<lb/>Verordnung in <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs> vom 20. Mai 1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Akatholiken haben auf katholischen Kirchhöfen sich alles Gesanges zu enthalten.</note>Die Akatholiken mögen zwar auf ihren <w>beson
+<pc>-</pc>
+                        <lb/>dern</w> Kirchhöfen bei Einsegnung ihrer Leichen <w>sin
+<pc>-</pc>
+                        <lb/>gen</w>, auch eine Leichenrede halten, doch ist ihnen
+<lb/>dieses keineswegs auf den katholischen Kirchhöfen
+<lb/>zu gestatten.</p>
+<p>
+<lb/>Hofdekret vom 8. Jäner 1783.</p>
+
+<p>
+<lb/>
+                    <pb facs="" type="seite" n="472"/> <note type="crit_app">Am äußeren Rand: In Absicht der gemeinschaftlichen Beerdigung ist das Volk von der Geistlichkeit zu belehren.</note>Von der Geistlichkeit soll das Volk in der <w>Re
+<pc>-</pc>
+                        <lb/>ligion</w> besser unterrichtet, ihm die Folgsamkeit <w>ge
+<pc>-</pc>
+                        <lb/>gen</w> die landesfürstlichen Befehle nachdrücklich <w>ein
+<pc>-</pc>
+                        <lb/>geprägt</w>, dann der Sinn über die gemeinschaftliche
+<lb/>Beerdigung wohl begreiflich gemacht und den <w>an
+<pc>-</pc>
+                        <lb/>vertrauten</w> Pfarrkindern Liebe und Freundschaft <w>ge
+<pc>-</pc>
+                        <lb/>gen</w> ihre in Religionssachen anders denkende <w>Mit
+<pc>-</pc>
+                        <lb/>brüder</w> auf das Beßte und um so mehr <w>eingebun
+<pc>-</pc>
+                        <lb/>den</w> werden, als im widrigen Falle, wenn sich noch
+<lb/>einmal Beerdigungswidersetzlichkeiten und Aufläufe
+<lb/>ergeben, die Seelsorger über die Folgen der <w>dar
+<pc>-</pc>
+                        <lb/>aus</w> entstehenden Unordnungen zur Verantwortung
+<lb/>werden gezogen werden. Daher dann auch die <w>Pa
+<pc>-</pc>
+                        <lb/>storen</w> zu ihrer obliegenden Beobachtung anzuweisen
+<lb/>sind.</p>
+<p>
+<lb/>Hofdekret vom 30. Juni 1783.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Alles Singen auf den katholischen Freudhöfen wird untersagt.</note>Alles öffentliche Gepränge und Singen <w>akatholi
+<pc>-</pc>
+                        <lb/>scher</w> Lieder auf den katholischen Freidhöfen soll
+<lb/>bei Beerdigung der Akatholischen unterbleiben.</p>
+<p>
+<lb/>Hofdekret vom 13 Juli 1783.</p>
+            </div>
+
+<div>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Bei gemeinschaftlichen Kirchhöfen ist die Erlaubniß, zu begraben, von dem Pastor bei dem Pfarrer anzusuchen.</note>Und so lang die Begräbnisse der Akatholischen auf
+<lb/>den katholischen Kirchhöfen gemeinschaftlich <w>ge
+<pc>-</pc>
+                        <lb/>schehen</w>, hat die Erhebung der Erlaubnißzettel
+<lb/>zur Begrabung eines Akatholiken durch den <w>Pa
+<pc>-</pc>
+                        <lb/>stor</w> bei den Pfarrern zu geschehen und ist die
+
+<lb/>
+                    <pb facs="" type="seite" n="473"/>Entrichtung des Zehends und andere Abgaben
+<lb/>an die katholischen Seelsorger unabänderlich.</p>
+<p>
+<lb/>Verordnung in <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs> vom 9. September 1783.</p>
+<p>
+        <lb/>
+                    <note type="crit_app">Am äußeren Rand: Wie die [korrigiert aus: Wiedie] Errichtung der Freudhöfe den Akatholischen gestattet wird [korrigiert aus: gestattetwird].</note>Doch wird ihnen die Errichtung der Freudhöfe auf
+<lb/>jenen Orten, wo sie Bethäuser haben, gegen
+<lb/>dem gestattet, daß sie solche selbst umzäunen.
+<lb/>Hofdekret vom 17. November 1783.</p>
+<p>
+<lb/>Und es kann also die gemeinschaftliche Beerdigung
+<lb/>der Katholiken und Akatholiken nur dort statt
+<lb/>haben, wo gar keine akatholischen <w>Beerdigungs
+<pc>-</pc>
+                        <lb/>plätze</w> vorhanden sind.</p>
+<p>
+<lb/>Hofdekret vom 31. Christmonat 1783.</p>
+            </div>
+
+<div>
+<head>
+<lb/>Kundmachung der Gesetze. <hi rend="antiqua">N<am>.</am>
+                        <ex>ummer</ex> IX.</hi>
+                </head>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Den Pastoren sollen die sie angehenden Gesetze kund gemacht werden.</note>Es sollen den gehörig konfirmirten Pastoren
+<lb/>die vom Hofe oder den Landesstellen ergehenden
+<lb/>Verordnungen, in so weit solche dieselben betreffen,
+<lb/>jedesmal durch die Wirthschaftsämter kundgemacht
+<lb/>und hinausgegeben werden.</p>
+<p>
+<lb/>Hofdekret vom 13. März 1782.</p>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Wie solche kundzumachen sein.</note>Diese kundzumachenden und die Pastoren <w>betreffen
+<pc>-</pc>
+                        <lb/>den</w> Verordnungen müssen ihnen nur in der <w>böh
+<pc>-</pc>
+                        <lb/>mischen</w> Sprache übersetzt ertheilt werden.</p>
+<p>
+<lb/>Hofdekret vom 17. November 1783.</p>
+            </div>
+
+<div>
+<head>
+<lb/>
+                    <pb facs="" type="seite" n="474"/>Emigranten wegen der Religion. <hi rend="antiqua">N<am>.</am>
+                        <ex>ummer</ex> X.</hi>
+                </head>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Was in Rücksicht der wegen der Religion emigrirten und bei der Tolerirung zurückgetretenen Unterthanen zu thun sei.</note>Jenen Unterthanen, welche der Religion <w>hal
+<pc>-</pc>
+                        <lb/>ber</w> ausgewandert sind und sich etwa itzt bei <w>To
+<pc>-</pc>
+                        <lb/>lerirung</w> der Protestanten wieder in ihr Vaterland
+<lb/>zurückbegeben, sollen keine Hindernisse in Weg <w>ge
+<pc>-</pc>
+                        <lb/>legt</w>, sondern dergleichen Transmigranten ohne
+<lb/>weiters an- und aufgenommen werden.</p>
+<p>
+<lb/>Hofdekret in <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs> vom 15. Weinmonat 1781,
+<lb/>publizirt in <rs type="place" ref="#oesterreich_erzherzogtum">Oesterreich</rs> vom 2. Jäner 1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>Auch jenen Unterthanen, welche bloß der Religion
+<lb/>halber aus den k<am>.</am>
+                    <ex>aiserlich</ex> k<am>.</am>
+                    <ex>öniglichen</ex> Erbländern emigrirt sind
+<lb/>und binnen Jahr und Tag freiwillig zurück <w>keh
+<pc>-</pc>
+                        <lb/>ren</w> werden, wird die Nachsicht der dadurch <w>ver
+<pc>-</pc>
+                        <lb/>dienten</w> Strafe zugesichert und sie sollen eben
+<lb/>nach der obigen Art behandelt werden.</p>
+<p>
+<lb/>Hofdekret vom 4. Christmonat 1781 und publizirt
+<lb/>in <rs type="place" ref="#oesterreich_erzherzogtum">Oesterreich</rs> unterm 2. Jäner 1782.</p>
+            </div>
+
+<div>
+<p>
+<lb/>Jedoch sollen diesen wieder zurückkehrenden <w>Unter
+<pc>-</pc>
+                        <lb/>terthanen</w> ihre wirklich katholisch erzogenen <w>Kin
+<pc>-</pc>
+                        <lb/>der</w> wegen der Verführungsgefahr nicht <w>zurück
+<pc>-</pc>
+                        <lb/>gestellet</w>, sondern die deßwegen bestehenden <w>Vor
+<pc>-</pc>
+                        <lb/>sichten</w> beobachtet, jedoch immer von dergleichen
+<lb/>sich ereignenden Vorfaͦllen der Bericht erstattet
+<lb/>werden, damit hierinn alle Mässigung und
+<lb/>Sorgfalt von<note type="crit_app">Korrigiert aus: voe.</note> allen Behörden angeordnet werde.</p>
+<p>
+<lb/>Hofdekret vom 14. Juli 1783.</p>
+            </div>
+
+<div>
+<head>
+<lb/>
+                    <pb facs="" type="seite" n="475"/>Anrede des <rs type="person" ref="#pius_vi">Pabstes</rs>. <hi rend="antiqua">N<am>.</am>
+                        <ex>ummer</ex> XI.</hi>
+                </head>
+<p>
+<lb/>
+                    <note type="crit_app">Am äußeren Rand: Anrede des <rs type="person" ref="#pius_vi">Pabstes</rs> bei seiner Anwesenheit in [korrigiert aus: Anwesenheitin] <rs type="place" ref="#wien">Wien</rs> und gehaltenen Konsistorium.</note>
+                    <rs type="person" ref="#joseph_ii">Se<am>.</am>
+                        <ex>ine</ex> Majestät</rs> haben die von <rs type="person" ref="#pius_vi">S<am>r.</am>
+                        <ex>einer</ex> päbstlichen
+<lb/>Heiligkeit</rs> bei Gelegenheit des bei Austheilung der
+<lb/>Kardinalshüte gehaltenen Konsistoriums gemachte
+<lb/>Anrede zu jedermanns Wissenschaft auszutheilen
+<lb/>befohlen. Sie lautet also:</p>
+<p>
+<lb/>
+                    <q>Bevor Wir die Handlung dieses Konsistoriums
+<lb/>schliessen, wollen Wir das, was allen <w>be
+<pc>-</pc>
+                            <lb/>kannt</w> sein soll, hier nicht mit Stillschweigen
+<lb/>übergehen; denn es war uns so angenehm,
+<lb/>so erfreulich, die kaiserliche Majestät, die
+<lb/>Wir jederzeit hochgeschätzt haben, gegenwärtig
+<lb/>anzusehen und dem <rs type="person" ref="#joseph_ii">Kaiser</rs> selbst Unsere <w>be
+<pc>-</pc>
+                            <lb/>sondere</w> Liebe zu bezeigen. Wir haben Ihn
+<lb/>vermög Unsers Amtes öfters gesprochen und
+<lb/>waren gezwungen, sowohl Seine unbegränzte
+<lb/>Leutseligkeit, vermög welcher Er Uns in <w>Sei
+<pc>-</pc>
+                            <lb/>ner</w> kaiserlichen Wohnung mit allen <w>Ehrenbe
+<pc>-</pc>
+                            <lb/>zeigungen</w> aufgenommen und täglich auf die
+<lb/>herrlichste Art bewirthet, als Seine besondere
+<lb/>Gottesfurcht, Seine auserordentlichen <w>Geistes
+<pc>-</pc>
+                            <lb/>gaben</w> und seinen unbeschreiblichen Fleiß in
+<lb/>Geschäften zu bewundern. Eben so groß war
+<lb/>der Trost, der Unser väterliches Herz <w>auf
+<pc>-</pc>
+                            <lb/>richtete</w>, als Wir gefunden, daß sich die
+<lb/>Frömmigkeit und Religion nicht nur in <w>die
+<pc>-</pc>
+                            <lb/>ser</w> glänzenden <rs type="place" ref="#wien">Hauptstadt</rs>, sondern bei allen
+<lb/>den Völkern der kaiserlichen Staaten, die
+<lb/>Uns auf Unserer Anherreise entgegen kamen,
+
+<lb/>
+                        <pb facs="" n="476"/>unverletzt und ungekränkt erhalten. Daher
+<lb/>werden Wir niemals aufhören, dieselbe <w>so
+<pc>-</pc>
+                            <lb/>wohl</w> anzurühmen als durch Unser <w>inständi
+<pc>-</pc>
+                            <lb/>ges</w> Gebet zu unterstüzen. Ja, Wir bitten
+<lb/>den allmächtigen Gott auf das dringendste,
+<lb/>daß er, der keinen verläßt, welcher zu ihm
+<lb/>zu kommen trachtet, sie in ihrem heiligen
+<lb/>Vorhaben bestättige und mit dem <w>fruchtba
+<pc>-</pc>
+                            <lb/>ren</w> Thau seines heiligen Segens <w>über
+<pc>-</pc>
+                            <lb/>schütte</w>.</q>
+                    <note type="crit_app">Das gesamte Zitat ist im Druck durch Anführungszeichen am linken Rand gekennzeichnet.</note>
+</p>
+</div>
+                
+                
+</body>
+        <back/>
+</text>
+</TEI>

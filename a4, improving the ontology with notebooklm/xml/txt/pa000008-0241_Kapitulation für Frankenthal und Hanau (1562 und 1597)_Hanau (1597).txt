@@ -1,0 +1,811 @@
+<?xml-model href="../../../customization/schema_quellentexte/religionsfrieden-quellentexte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pa000008-0241">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            
+            <title level="a">Hanauer Kapitulation(<date when="1597-06-01">1. Juni 1597</date>) - HStAM Slg 9, 12166 </title>
+            <title level="s">Europäische Religionsfrieden Digital</title>
+            <!-- Titel eintragen -->
+            <tei:editor role="http://id.loc.gov/vocabulary/relators/edt">
+                    <persName ref="https://orcid.org/0000-0002-5429-6367">Christopher Voigt-Goy</persName>
+                </tei:editor>
+            <!-- Name eingeben und bei ref evtl. orchid, ansonsten rauslöschen -->
+            <respStmt>
+               <resp ref="http://id.loc.gov/vocabulary/relators/mrk">Mitarbeit</resp>
+               <persName>Kevin Wunsch</persName>
+               <persName>Kevin Kuck</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Digitale Edition gemäß <ref target="http://www.tei-c.org/">TEI
+                  P5</ref>
+                </edition>
+            <funder>Akademie der Wissenschaften und der Literatur Mainz</funder>
+            <principal>Unter der Leitung von Irene Dingel und Thomas Stäcker</principal>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>
+               <orgName ref="http://www.isni.org/0000000119314040">Leibniz-Institut für Europäische
+                  Geschichte Mainz</orgName>
+            </publisher>
+            <distributor>
+               <orgName ref="http://www.isni.org/0000000110101946">Universitäts- und
+                  Landesbibliothek Darmstadt</orgName>
+               <idno type="ISIL">http://lobid.org/organisation/DE-17</idno>
+            </distributor>
+            <date when="2023" type="issued"/>
+            <!-- Datum (Jahr) eintragen, bei @when Datum in der Form JJJJ-MM-TT -->
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p xml:lang="en">This file is licensed under the terms of the Creative Commons
+                     License CC-BY 4.0 (Attribution 4.0 International)</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Textgrundlage s. Einleitung.</p>
+         </sourceDesc>
+         <!-- am besten eine msDesc einfügen! -->
+         <!-- ACHTUNG bei Einleitungen: <sourceDesc><p>Born digital.</p></sourceDesc> -->
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>
+                    <ref target="https://eured.de">Europäische Religionsfrieden Digital</ref>
+                </p>
+         </projectDesc>
+         <classDecl>
+            <taxonomy xml:id="marcrelator">
+               <bibl>
+                        <idno type="URI">http://id.loc.gov/vocabulary/relators/</idno> MARC Code List
+                  for Relators </bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident=""/>
+            <!-- Sprache des Dokuments eintragen, bei ident Kürzel der Sprache -->
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2760" lry="4038" xml:id="facs_1">
+         <!--<graphic url="0001_hstam_slg_9_nr_12166_0002.jpg" width="2760px" height="4038px"/>-->
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=GHEGKQVWDDMFOUPCDVCFAZBI" width="2760px" height="4038px"/>
+         <zone points="370,1053 2205,1053 2205,2440 370,2440" rendition="TextRegion" xml:id="facs_1_TextRegion_1721143928546_521">
+            <zone points="376,1112 2142,1112 2142,1409 376,1409" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+            <zone points="627,1193 2145,1193 2145,1268 627,1268" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+            <zone points="622,1244 2145,1244 2145,1316 622,1316" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+            <zone points="627,1285 2157,1285 2157,1355 627,1355" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+            <zone points="622,1338 2157,1338 2157,1414 622,1414" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+            <zone points="367,1384 2149,1384 2149,1467 367,1467" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+            <zone points="367,1440 2147,1440 2147,1542 367,1542" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+            <zone points="369,1516 2147,1516 2147,1586 369,1586" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+            <zone points="362,1554 2149,1554 2149,1635 362,1635" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+            <zone points="369,1601 2152,1601 2152,1686 369,1686" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+            <zone points="367,1652 2152,1652 2152,1741 367,1741" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+            <zone points="362,1703 2162,1703 2162,1775 362,1775" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+            <zone points="376,1754 2149,1754 2149,1836 376,1836" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
+            <zone points="376,1800 2162,1800 2162,1880 376,1880" rendition="Line" xml:id="facs_1_tr_1_tl_18"/>
+            <zone points="372,1848 2152,1848 2152,1933 372,1933" rendition="Line" xml:id="facs_1_tr_1_tl_19"/>
+            <zone points="369,1897 2159,1897 2159,1984 369,1984" rendition="Line" xml:id="facs_1_tr_1_tl_20"/>
+            <zone points="372,1945 2159,1945 2159,2030 372,2030" rendition="Line" xml:id="facs_1_tr_1_tl_21"/>
+            <zone points="376,2013 2154,2013 2154,2077 376,2077" rendition="Line" xml:id="facs_1_tr_1_tl_22"/>
+            <zone points="372,2052 2162,2052 2162,2130 372,2130" rendition="Line" xml:id="facs_1_tr_1_tl_23"/>
+            <zone points="376,2094 2152,2094 2152,2183 376,2183" rendition="Line" xml:id="facs_1_tr_1_tl_24"/>
+            <zone points="384,2142 2157,2142 2157,2225 384,2225" rendition="Line" xml:id="facs_1_tr_1_tl_25"/>
+            <zone points="381,2200 2166,2200 2166,2268 381,2268" rendition="Line" xml:id="facs_1_tr_1_tl_26"/>
+            <zone points="376,2239 2162,2239 2162,2329 376,2329" rendition="Line" xml:id="facs_1_tr_1_tl_27"/>
+            <zone points="381,2302 2154,2302 2154,2414 381,2414" rendition="Line" xml:id="facs_1_tr_1_tl_28"/>
+            <zone points="376,2356 1044,2356 1044,2455 376,2455" rendition="Line" xml:id="facs_1_tr_1_tl_29"/>
+         </zone>
+         <zone points="372,2393 2207,2393 2207,3337 372,3337" rendition="TextRegion" xml:id="facs_1_TextRegion_1721143967677_552">
+            <zone points="469,2392 2157,2392 2157,2489 469,2489" rendition="Line" xml:id="facs_1_tr_1_tl_30"/>
+            <zone points="384,2451 2154,2451 2154,2536 384,2536" rendition="Line" xml:id="facs_1_tr_1_tl_31"/>
+            <zone points="381,2499 2159,2499 2159,2589 381,2589" rendition="Line" xml:id="facs_1_tr_1_tl_32"/>
+            <zone points="384,2550 2159,2550 2159,2633 384,2633" rendition="Line" xml:id="facs_1_tr_1_tl_33"/>
+            <zone points="381,2599 2157,2599 2157,2684 381,2684" rendition="Line" xml:id="facs_1_tr_1_tl_34"/>
+            <zone points="374,2650 2157,2650 2157,2740 374,2740" rendition="Line" xml:id="facs_1_tr_1_tl_35"/>
+            <zone points="381,2703 2154,2703 2154,2788 381,2788" rendition="Line" xml:id="facs_1_tr_1_tl_36"/>
+            <zone points="386,2754 2162,2754 2162,2834 386,2834" rendition="Line" xml:id="facs_1_tr_1_tl_37"/>
+            <zone points="386,2800 2162,2800 2162,2883 386,2883" rendition="Line" xml:id="facs_1_tr_1_tl_38"/>
+            <zone points="384,2856 2162,2856 2162,2939 384,2939" rendition="Line" xml:id="facs_1_tr_1_tl_39"/>
+            <zone points="384,2893 2162,2893 2162,2978 384,2978" rendition="Line" xml:id="facs_1_tr_1_tl_40"/>
+            <zone points="386,2946 2169,2946 2169,3029 386,3029" rendition="Line" xml:id="facs_1_tr_1_tl_41"/>
+            <zone points="386,2995 2157,2995 2157,3075 386,3075" rendition="Line" xml:id="facs_1_tr_1_tl_42"/>
+            <zone points="384,3048 2159,3048 2159,3126 384,3126" rendition="Line" xml:id="facs_1_tr_1_tl_43"/>
+            <zone points="384,3092 2164,3092 2164,3182 384,3182" rendition="Line" xml:id="facs_1_tr_1_tl_44"/>
+            <zone points="389,3140 2162,3140 2162,3225 389,3225" rendition="Line" xml:id="facs_1_tr_1_tl_45"/>
+            <zone points="389,3199 2162,3199 2162,3298 389,3298" rendition="Line" xml:id="facs_1_tr_1_tl_46"/>
+            <zone points="389,3247 1625,3247 1625,3332 389,3332" rendition="Line" xml:id="facs_1_tr_1_tl_47"/>
+         </zone>
+         <zone points="374,3306 2208,3306 2208,3549 374,3549" rendition="TextRegion" xml:id="facs_1_TextRegion_1721143967676_551">
+            <zone points="478,3272 2174,3272 2174,3388 478,3388" rendition="Line" xml:id="facs_1_tr_1_tl_48"/>
+            <zone points="381,3349 2169,3349 2169,3439 381,3439" rendition="Line" xml:id="facs_1_tr_1_tl_49"/>
+            <zone points="381,3400 2169,3400 2169,3488 381,3488" rendition="Line" xml:id="facs_1_tr_1_tl_50"/>
+            <zone points="379,3449 2164,3449 2164,3573 379,3573" rendition="Line" xml:id="facs_1_tr_1_tl_51"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2718" lry="4010" xml:id="facs_2">
+         <!--<graphic url="0002_hstam_slg_9_nr_12166_0003.jpg" width="2718px" height="4010px"/>-->
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=AHCMEMXXEAAECTGPOTJORUHI" width="2718px" height="4010px"/>
+         <zone points="599,320 2395,320 2395,715 599,715" rendition="TextRegion" xml:id="facs_2_TextRegion_1721144038297_578">
+            <zone points="594,263 2383,263 2383,370 594,370" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
+            <zone points="598,348 2372,348 2372,424 598,424" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
+            <zone points="605,397 2376,397 2376,482 605,482" rendition="Line" xml:id="facs_2_tr_1_tl_3"/>
+            <zone points="605,444 2387,444 2387,522 605,522" rendition="Line" xml:id="facs_2_tr_1_tl_4"/>
+            <zone points="596,493 2381,493 2381,573 596,573" rendition="Line" xml:id="facs_2_tr_1_tl_5"/>
+            <zone points="598,540 2376,540 2376,618 598,618" rendition="Line" xml:id="facs_2_tr_1_tl_6"/>
+            <zone points="598,596 2381,596 2381,669 598,669" rendition="Line" xml:id="facs_2_tr_1_tl_7"/>
+            <zone points="605,640 2142,640 2142,732 605,732" rendition="Line" xml:id="facs_2_tr_1_tl_8"/>
+         </zone>
+         <zone points="599,715 2395,715 2395,1222 599,1222" rendition="TextRegion" xml:id="facs_2_TextRegion_1721144049361_583">
+            <zone points="698,692 2376,692 2376,781 698,781" rendition="Line" xml:id="facs_2_tr_1_tl_9"/>
+            <zone points="594,754 2367,754 2367,819 594,819" rendition="Line" xml:id="facs_2_tr_1_tl_10"/>
+            <zone points="605,803 2367,803 2367,881 605,881" rendition="Line" xml:id="facs_2_tr_1_tl_11"/>
+            <zone points="605,861 2379,861 2379,928 605,928" rendition="Line" xml:id="facs_2_tr_1_tl_12"/>
+            <zone points="596,901 2363,901 2363,973 596,973" rendition="Line" xml:id="facs_2_tr_1_tl_13"/>
+            <zone points="598,955 2374,955 2374,1033 598,1033" rendition="Line" xml:id="facs_2_tr_1_tl_14"/>
+            <zone points="589,1002 2374,1002 2374,1073 589,1073" rendition="Line" xml:id="facs_2_tr_1_tl_15"/>
+            <zone points="596,1051 2372,1051 2372,1125 596,1125" rendition="Line" xml:id="facs_2_tr_1_tl_16"/>
+            <zone points="598,1098 2372,1098 2372,1189 598,1189" rendition="Line" xml:id="facs_2_tr_1_tl_17"/>
+            <zone points="594,1171 2073,1171 2073,1250 594,1250" rendition="Line" xml:id="facs_2_tr_1_tl_18"/>
+         </zone>
+         <zone points="599,1222 2395,1222 2395,1930 599,1930" rendition="TextRegion" xml:id="facs_2_TextRegion_1721144061574_588">
+            <zone points="689,1183 2379,1183 2379,1279 689,1279" rendition="Line" xml:id="facs_2_tr_1_tl_19"/>
+            <zone points="596,1254 2372,1254 2372,1341 596,1341" rendition="Line" xml:id="facs_2_tr_1_tl_20"/>
+            <zone points="605,1312 2372,1312 2372,1390 605,1390" rendition="Line" xml:id="facs_2_tr_1_tl_21"/>
+            <zone points="589,1368 2370,1368 2370,1448 589,1448" rendition="Line" xml:id="facs_2_tr_1_tl_22"/>
+            <zone points="589,1410 2367,1410 2367,1486 589,1486" rendition="Line" xml:id="facs_2_tr_1_tl_23"/>
+            <zone points="598,1461 2372,1461 2372,1531 598,1531" rendition="Line" xml:id="facs_2_tr_1_tl_24"/>
+            <zone points="589,1511 2372,1511 2372,1589 589,1589" rendition="Line" xml:id="facs_2_tr_1_tl_25"/>
+            <zone points="589,1557 2367,1557 2367,1633 589,1633" rendition="Line" xml:id="facs_2_tr_1_tl_26"/>
+            <zone points="594,1609 2370,1609 2370,1680 594,1680" rendition="Line" xml:id="facs_2_tr_1_tl_27"/>
+            <zone points="589,1673 2374,1673 2374,1740 589,1740" rendition="Line" xml:id="facs_2_tr_1_tl_28"/>
+            <zone points="594,1707 2367,1707 2367,1776 594,1776" rendition="Line" xml:id="facs_2_tr_1_tl_29"/>
+            <zone points="589,1749 2365,1749 2365,1832 589,1832" rendition="Line" xml:id="facs_2_tr_1_tl_30"/>
+            <zone points="589,1805 2363,1805 2363,1910 589,1910" rendition="Line" xml:id="facs_2_tr_1_tl_31"/>
+            <zone points="596,1868 1176,1868 1176,1948 596,1948" rendition="Line" xml:id="facs_2_tr_1_tl_32"/>
+         </zone>
+         <zone points="599,1930 2395,1930 2395,2284 599,2284" rendition="TextRegion" xml:id="facs_2_TextRegion_1721144076763_595">
+            <zone points="694,1919 2367,1919 2367,1995 694,1995" rendition="Line" xml:id="facs_2_tr_1_tl_33"/>
+            <zone points="587,1961 2361,1961 2361,2053 587,2053" rendition="Line" xml:id="facs_2_tr_1_tl_34"/>
+            <zone points="594,2015 2367,2015 2367,2093 594,2093" rendition="Line" xml:id="facs_2_tr_1_tl_35"/>
+            <zone points="594,2068 2379,2068 2379,2131 594,2131" rendition="Line" xml:id="facs_2_tr_1_tl_36"/>
+            <zone points="589,2113 2367,2113 2367,2196 589,2196" rendition="Line" xml:id="facs_2_tr_1_tl_37"/>
+            <zone points="598,2164 2372,2164 2372,2260 598,2260" rendition="Line" xml:id="facs_2_tr_1_tl_38"/>
+            <zone points="596,2233 1868,2233 1868,2303 596,2303" rendition="Line" xml:id="facs_2_tr_1_tl_39"/>
+         </zone>
+         <zone points="599,2284 2395,2284 2395,2598 599,2598" rendition="TextRegion" xml:id="facs_2_TextRegion_1721144084415_600">
+            <zone points="698,2267 2372,2267 2372,2347 698,2347" rendition="Line" xml:id="facs_2_tr_1_tl_40"/>
+            <zone points="587,2347 2374,2347 2374,2394 587,2394" rendition="Line" xml:id="facs_2_tr_1_tl_41"/>
+            <zone points="596,2379 2367,2379 2367,2454 596,2454" rendition="Line" xml:id="facs_2_tr_1_tl_42"/>
+            <zone points="594,2428 2367,2428 2367,2501 594,2501" rendition="Line" xml:id="facs_2_tr_1_tl_43"/>
+            <zone points="596,2477 2374,2477 2374,2553 596,2553" rendition="Line" xml:id="facs_2_tr_1_tl_44"/>
+            <zone points="594,2532 1223,2532 1223,2611 594,2611" rendition="Line" xml:id="facs_2_tr_1_tl_45"/>
+         </zone>
+         <zone points="599,2598 2395,2598 2395,2756 599,2756" rendition="TextRegion" xml:id="facs_2_TextRegion_1721144094359_605">
+            <zone points="687,2564 2367,2564 2367,2651 687,2651" rendition="Line" xml:id="facs_2_tr_1_tl_46"/>
+            <zone points="589,2642 2372,2642 2372,2709 589,2709" rendition="Line" xml:id="facs_2_tr_1_tl_47"/>
+            <zone points="596,2689 2352,2689 2352,2769 596,2769" rendition="Line" xml:id="facs_2_tr_1_tl_48"/>
+         </zone>
+         <zone points="599,2756 2395,2756 2395,3220 599,3220" rendition="TextRegion" xml:id="facs_2_TextRegion_1721144102514_610">
+            <zone points="703,2740 2374,2740 2374,2825 703,2825" rendition="Line" xml:id="facs_2_tr_1_tl_49"/>
+            <zone points="602,2802 2390,2802 2390,2872 602,2872" rendition="Line" xml:id="facs_2_tr_1_tl_50"/>
+            <zone points="607,2858 2379,2858 2379,2918 607,2918" rendition="Line" xml:id="facs_2_tr_1_tl_51"/>
+            <zone points="596,2903 2374,2903 2374,2965 596,2965" rendition="Line" xml:id="facs_2_tr_1_tl_52"/>
+            <zone points="602,2956 2374,2956 2374,3019 602,3019" rendition="Line" xml:id="facs_2_tr_1_tl_53"/>
+            <zone points="596,3001 2381,3001 2381,3075 596,3075" rendition="Line" xml:id="facs_2_tr_1_tl_54"/>
+            <zone points="598,3050 2381,3050 2381,3115 598,3115" rendition="Line" xml:id="facs_2_tr_1_tl_55"/>
+            <zone points="611,3101 2385,3101 2385,3193 611,3193" rendition="Line" xml:id="facs_2_tr_1_tl_56"/>
+            <zone points="600,3162 1107,3162 1107,3240 600,3240" rendition="Line" xml:id="facs_2_tr_1_tl_57"/>
+         </zone>
+         <zone points="599,3220 2395,3220 2395,3537 599,3537" rendition="TextRegion" xml:id="facs_2_TextRegion_1721144238947_615">
+            <zone points="692,3197 2379,3197 2379,3284 692,3284" rendition="Line" xml:id="facs_2_tr_1_tl_58"/>
+            <zone points="605,3262 2379,3262 2379,3331 605,3331" rendition="Line" xml:id="facs_2_tr_1_tl_59"/>
+            <zone points="602,3311 2379,3311 2379,3376 602,3376" rendition="Line" xml:id="facs_2_tr_1_tl_60"/>
+            <zone points="602,3362 2376,3362 2376,3425 602,3425" rendition="Line" xml:id="facs_2_tr_1_tl_61"/>
+            <zone points="611,3409 2383,3409 2383,3514 611,3514" rendition="Line" xml:id="facs_2_tr_1_tl_62"/>
+            <zone points="605,3470 1718,3470 1718,3554 605,3554" rendition="Line" xml:id="facs_2_tr_1_tl_63"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2730" lry="4038" xml:id="facs_3">
+         <!--<graphic url="0003_hstam_slg_9_nr_12166_0004.jpg" width="2730px" height="4038px"/>-->
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=BNTFTJYFQGSKLZYGKVNWFRUV" width="2730px" height="4038px"/>
+         <zone points="280,291 2081,291 2081,446 280,446" rendition="TextRegion" xml:id="facs_3_TextRegion_1721144573415_776">
+            <zone points="358,231 2036,231 2036,367 358,367" rendition="Line" xml:id="facs_3_tr_1_tl_1"/>
+            <zone points="267,320 2042,320 2042,393 267,393" rendition="Line" xml:id="facs_3_tr_1_tl_2"/>
+            <zone points="267,382 1549,382 1549,444 267,444" rendition="Line" xml:id="facs_3_tr_1_tl_3"/>
+         </zone>
+         <zone points="280,446 2081,446 2081,616 280,616" rendition="TextRegion" xml:id="facs_3_TextRegion_1721144583091_781">
+            <zone points="358,422 2042,422 2042,502 358,502" rendition="Line" xml:id="facs_3_tr_1_tl_4"/>
+            <zone points="271,489 2036,489 2036,565 271,565" rendition="Line" xml:id="facs_3_tr_1_tl_5"/>
+            <zone points="278,540 2038,540 2038,616 278,616" rendition="Line" xml:id="facs_3_tr_1_tl_6"/>
+         </zone>
+         <zone points="280,616 2081,616 2081,1383 280,1383" rendition="TextRegion" xml:id="facs_3_TextRegion_1721144592612_786">
+            <zone points="369,593 2049,593 2049,689 369,689" rendition="Line" xml:id="facs_3_tr_1_tl_7"/>
+            <zone points="278,669 2042,669 2042,745 278,745" rendition="Line" xml:id="facs_3_tr_1_tl_8"/>
+            <zone points="273,718 2045,718 2045,798 273,798" rendition="Line" xml:id="facs_3_tr_1_tl_9"/>
+            <zone points="278,767 2045,767 2045,833 278,833" rendition="Line" xml:id="facs_3_tr_1_tl_10"/>
+            <zone points="278,818 2049,818 2049,889 278,889" rendition="Line" xml:id="facs_3_tr_1_tl_11"/>
+            <zone points="273,862 2042,862 2042,927 273,927" rendition="Line" xml:id="facs_3_tr_1_tl_12"/>
+            <zone points="273,913 2049,913 2049,978 273,978" rendition="Line" xml:id="facs_3_tr_1_tl_13"/>
+            <zone points="280,967 2049,967 2049,1038 280,1038" rendition="Line" xml:id="facs_3_tr_1_tl_14"/>
+            <zone points="287,1011 2051,1011 2051,1082 287,1082" rendition="Line" xml:id="facs_3_tr_1_tl_15"/>
+            <zone points="280,1067 2045,1067 2045,1140 280,1140" rendition="Line" xml:id="facs_3_tr_1_tl_16"/>
+            <zone points="282,1111 2051,1111 2051,1182 282,1182" rendition="Line" xml:id="facs_3_tr_1_tl_17"/>
+            <zone points="278,1162 2051,1162 2051,1227 278,1227" rendition="Line" xml:id="facs_3_tr_1_tl_18"/>
+            <zone points="280,1213 2051,1213 2051,1285 280,1285" rendition="Line" xml:id="facs_3_tr_1_tl_19"/>
+            <zone points="287,1262 2058,1262 2058,1362 287,1362" rendition="Line" xml:id="facs_3_tr_1_tl_20"/>
+            <zone points="280,1327 645,1327 645,1394 280,1394" rendition="Line" xml:id="facs_3_tr_1_tl_21"/>
+         </zone>
+         <zone points="280,1383 2081,1383 2081,1642 280,1642" rendition="TextRegion" xml:id="facs_3_TextRegion_1721144609898_791">
+            <zone points="376,1362 2060,1362 2060,1440 376,1440" rendition="Line" xml:id="facs_3_tr_1_tl_22"/>
+            <zone points="287,1422 2051,1422 2051,1496 287,1496" rendition="Line" xml:id="facs_3_tr_1_tl_23"/>
+            <zone points="282,1469 2049,1469 2049,1556 282,1556" rendition="Line" xml:id="facs_3_tr_1_tl_24"/>
+            <zone points="289,1518 2049,1518 2049,1591 289,1591" rendition="Line" xml:id="facs_3_tr_1_tl_25"/>
+            <zone points="287,1587 1982,1587 1982,1654 287,1654" rendition="Line" xml:id="facs_3_tr_1_tl_26"/>
+         </zone>
+         <zone points="280,1642 2081,1642 2081,1958 280,1958" rendition="TextRegion" xml:id="facs_3_TextRegion_1721144622096_796">
+            <zone points="382,1614 2058,1614 2058,1705 382,1705" rendition="Line" xml:id="facs_3_tr_1_tl_27"/>
+            <zone points="289,1687 2060,1687 2060,1765 289,1765" rendition="Line" xml:id="facs_3_tr_1_tl_28"/>
+            <zone points="280,1736 2062,1736 2062,1805 280,1805" rendition="Line" xml:id="facs_3_tr_1_tl_29"/>
+            <zone points="287,1789 2062,1789 2062,1849 287,1849" rendition="Line" xml:id="facs_3_tr_1_tl_30"/>
+            <zone points="291,1840 2060,1840 2060,1916 291,1916" rendition="Line" xml:id="facs_3_tr_1_tl_31"/>
+            <zone points="289,1891 1200,1891 1200,1958 289,1958" rendition="Line" xml:id="facs_3_tr_1_tl_32"/>
+         </zone>
+         <zone points="280,1958 2081,1958 2081,2466 280,2466" rendition="TextRegion" xml:id="facs_3_TextRegion_1721144631906_801">
+            <zone points="391,1925 2060,1925 2060,2025 391,2025" rendition="Line" xml:id="facs_3_tr_1_tl_33"/>
+            <zone points="291,2011 2062,2011 2062,2069 291,2069" rendition="Line" xml:id="facs_3_tr_1_tl_34"/>
+            <zone points="298,2045 2054,2045 2054,2131 298,2131" rendition="Line" xml:id="facs_3_tr_1_tl_35"/>
+            <zone points="291,2096 2060,2096 2060,2169 291,2169" rendition="Line" xml:id="facs_3_tr_1_tl_36"/>
+            <zone points="291,2142 2056,2142 2056,2222 291,2222" rendition="Line" xml:id="facs_3_tr_1_tl_37"/>
+            <zone points="296,2196 2060,2196 2060,2269 296,2269" rendition="Line" xml:id="facs_3_tr_1_tl_38"/>
+            <zone points="296,2245 2067,2245 2067,2318 296,2318" rendition="Line" xml:id="facs_3_tr_1_tl_39"/>
+            <zone points="293,2294 2060,2294 2060,2369 293,2369" rendition="Line" xml:id="facs_3_tr_1_tl_40"/>
+            <zone points="296,2338 2062,2338 2062,2423 296,2423" rendition="Line" xml:id="facs_3_tr_1_tl_41"/>
+            <zone points="296,2398 1496,2398 1496,2480 296,2480" rendition="Line" xml:id="facs_3_tr_1_tl_42"/>
+         </zone>
+         <zone points="280,2466 2081,2466 2081,2879 280,2879" rendition="TextRegion" xml:id="facs_3_TextRegion_1721144643069_806">
+            <zone points="387,2431 2069,2431 2069,2525 387,2525" rendition="Line" xml:id="facs_3_tr_1_tl_43"/>
+            <zone points="289,2498 2060,2498 2060,2589 289,2589" rendition="Line" xml:id="facs_3_tr_1_tl_44"/>
+            <zone points="296,2549 2060,2549 2060,2627 296,2627" rendition="Line" xml:id="facs_3_tr_1_tl_45"/>
+            <zone points="298,2611 2065,2611 2065,2678 298,2678" rendition="Line" xml:id="facs_3_tr_1_tl_46"/>
+            <zone points="300,2651 2065,2651 2065,2727 300,2727" rendition="Line" xml:id="facs_3_tr_1_tl_47"/>
+            <zone points="300,2698 2067,2698 2067,2776 300,2776" rendition="Line" xml:id="facs_3_tr_1_tl_48"/>
+            <zone points="291,2765 2069,2765 2069,2871 291,2871" rendition="Line" xml:id="facs_3_tr_1_tl_49"/>
+            <zone points="289,2823 618,2823 618,2903 289,2903" rendition="Line" xml:id="facs_3_line_1721144905326_934"/>
+         </zone>
+         <zone points="280,2879 2081,2879 2081,3034 280,3034" rendition="TextRegion" xml:id="facs_3_TextRegion_1721144658259_811">
+            <zone points="382,2840 2062,2840 2062,2940 382,2940" rendition="Line" xml:id="facs_3_tr_1_tl_51"/>
+            <zone points="298,2909 2071,2909 2071,3018 298,3018" rendition="Line" xml:id="facs_3_tr_1_tl_52"/>
+            <zone points="304,2965 1876,2965 1876,3058 304,3058" rendition="Line" xml:id="facs_3_tr_1_tl_53"/>
+         </zone>
+         <zone points="280,3034 2081,3034 2081,3254 280,3254" rendition="TextRegion" xml:id="facs_3_TextRegion_1721144680502_816">
+            <zone points="398,3027 2071,3027 2071,3107 398,3107" rendition="Line" xml:id="facs_3_tr_1_tl_54"/>
+            <zone points="298,3071 2071,3071 2071,3163 298,3163" rendition="Line" xml:id="facs_3_tr_1_tl_55"/>
+            <zone points="298,3129 2069,3129 2069,3205 298,3205" rendition="Line" xml:id="facs_3_tr_1_tl_56"/>
+            <zone points="298,3192 1198,3192 1198,3269 298,3269" rendition="Line" xml:id="facs_3_tr_1_tl_57"/>
+         </zone>
+         <zone points="280,3254 2081,3254 2081,3533 280,3533" rendition="TextRegion" xml:id="facs_3_TextRegion_1721144718254_824">
+            <zone points="393,3209 2071,3209 2071,3332 393,3332" rendition="Line" xml:id="facs_3_tr_1_tl_58"/>
+            <zone points="298,3292 2067,3292 2067,3374 298,3374" rendition="Line" xml:id="facs_3_tr_1_tl_59"/>
+            <zone points="309,3336 2069,3336 2069,3427 309,3427" rendition="Line" xml:id="facs_3_tr_1_tl_60"/>
+            <zone points="296,3387 2069,3387 2069,3476 296,3476" rendition="Line" xml:id="facs_3_tr_1_tl_61"/>
+            <zone points="300,3436 2069,3436 2069,3560 300,3560" rendition="Line" xml:id="facs_3_tr_1_tl_62"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2730" lry="4036" xml:id="facs_4">
+         <!--<graphic url="0004_hstam_slg_9_nr_12166_0005.jpg" width="2730px" height="4036px"/>-->
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=OZJXLTJMLRYOLKFRERHODOFR" width="2730px" height="4036px"/>
+         <zone points="656,310 2453,310 2453,460 656,460" rendition="TextRegion" xml:id="facs_4_TextRegion_1721145047893_1046">
+            <zone points="661,247 2450,247 2450,352 661,352" rendition="Line" xml:id="facs_4_tr_1_tl_1"/>
+            <zone points="668,347 2448,347 2448,436 668,436" rendition="Line" xml:id="facs_4_tr_1_tl_2"/>
+            <zone points="670,394 1618,394 1618,454 670,454" rendition="Line" xml:id="facs_4_tr_1_tl_3"/>
+         </zone>
+         <zone points="656,460 2453,460 2453,623 656,623" rendition="TextRegion" xml:id="facs_4_TextRegion_1721145056199_1051">
+            <zone points="752,441 2436,441 2436,518 752,518" rendition="Line" xml:id="facs_4_tr_1_tl_4"/>
+            <zone points="672,498 2441,498 2441,601 672,601" rendition="Line" xml:id="facs_4_tr_1_tl_5"/>
+            <zone points="661,558 1210,558 1210,639 661,639" rendition="Line" xml:id="facs_4_tr_1_tl_6"/>
+         </zone>
+         <zone points="656,623 2453,623 2453,1032 656,1032" rendition="TextRegion" xml:id="facs_4_TextRegion_1721145064136_1056">
+            <zone points="754,612 2441,612 2441,685 754,685" rendition="Line" xml:id="facs_4_tr_1_tl_7"/>
+            <zone points="661,643 2432,643 2432,728 661,728" rendition="Line" xml:id="facs_4_tr_1_tl_8"/>
+            <zone points="668,723 2434,723 2434,779 668,779" rendition="Line" xml:id="facs_4_tr_1_tl_9"/>
+            <zone points="661,761 2439,761 2439,841 661,841" rendition="Line" xml:id="facs_4_tr_1_tl_10"/>
+            <zone points="661,812 2423,812 2423,879 661,879" rendition="Line" xml:id="facs_4_tr_1_tl_11"/>
+            <zone points="659,877 2432,877 2432,950 659,950" rendition="Line" xml:id="facs_4_tr_1_tl_12"/>
+            <zone points="661,917 2423,917 2423,992 661,992" rendition="Line" xml:id="facs_4_tr_1_tl_13"/>
+            <zone points="665,966 930,966 930,1048 665,1048" rendition="Line" xml:id="facs_4_tr_1_tl_14"/>
+         </zone>
+         <zone points="656,1032 2453,1032 2453,1589 656,1589" rendition="TextRegion" xml:id="facs_4_TextRegion_1721145071555_1061">
+            <zone points="752,1019 2436,1019 2436,1084 752,1084" rendition="Line" xml:id="facs_4_tr_1_tl_15"/>
+            <zone points="656,1086 2430,1086 2430,1146 656,1146" rendition="Line" xml:id="facs_4_tr_1_tl_16"/>
+            <zone points="659,1137 2421,1137 2421,1186 659,1186" rendition="Line" xml:id="facs_4_tr_1_tl_17"/>
+            <zone points="656,1186 2430,1186 2430,1242 656,1242" rendition="Line" xml:id="facs_4_tr_1_tl_18"/>
+            <zone points="661,1230 2430,1230 2430,1295 661,1295" rendition="Line" xml:id="facs_4_tr_1_tl_19"/>
+            <zone points="659,1284 2425,1284 2425,1339 659,1339" rendition="Line" xml:id="facs_4_tr_1_tl_20"/>
+            <zone points="652,1333 2430,1333 2430,1388 652,1388" rendition="Line" xml:id="facs_4_tr_1_tl_21"/>
+            <zone points="656,1380 2430,1380 2430,1435 656,1435" rendition="Line" xml:id="facs_4_tr_1_tl_22"/>
+            <zone points="656,1424 2427,1424 2427,1482 656,1482" rendition="Line" xml:id="facs_4_tr_1_tl_23"/>
+            <zone points="659,1480 2427,1480 2427,1549 659,1549" rendition="Line" xml:id="facs_4_tr_1_tl_24"/>
+            <zone points="656,1526 1517,1526 1517,1609 656,1609" rendition="Line" xml:id="facs_4_tr_1_tl_25"/>
+         </zone>
+         <zone points="656,1589 2453,1589 2453,2204 656,2204" rendition="TextRegion" xml:id="facs_4_TextRegion_1721145081198_1066">
+            <zone points="743,1555 2423,1555 2423,1655 743,1655" rendition="Line" xml:id="facs_4_tr_1_tl_26"/>
+            <zone points="650,1633 2427,1633 2427,1715 650,1715" rendition="Line" xml:id="facs_4_tr_1_tl_27"/>
+            <zone points="656,1693 2430,1693 2430,1764 656,1764" rendition="Line" xml:id="facs_4_tr_1_tl_28"/>
+            <zone points="652,1753 2421,1753 2421,1820 652,1820" rendition="Line" xml:id="facs_4_tr_1_tl_29"/>
+            <zone points="650,1802 2421,1802 2421,1862 650,1862" rendition="Line" xml:id="facs_4_tr_1_tl_30"/>
+            <zone points="647,1853 2425,1853 2425,1914 647,1914" rendition="Line" xml:id="facs_4_tr_1_tl_31"/>
+            <zone points="647,1905 2425,1905 2425,1969 647,1969" rendition="Line" xml:id="facs_4_tr_1_tl_32"/>
+            <zone points="650,1956 2430,1956 2430,2020 650,2020" rendition="Line" xml:id="facs_4_tr_1_tl_33"/>
+            <zone points="643,2007 2427,2007 2427,2060 643,2060" rendition="Line" xml:id="facs_4_tr_1_tl_34"/>
+            <zone points="647,2047 2425,2047 2425,2120 647,2120" rendition="Line" xml:id="facs_4_tr_1_tl_35"/>
+            <zone points="643,2103 2416,2103 2416,2180 643,2180" rendition="Line" xml:id="facs_4_tr_1_tl_36"/>
+         </zone>
+         <zone points="1092,2204 2453,2204 2453,2507 1092,2507" rendition="TextRegion" xml:id="facs_4_TextRegion_1721145197092_1089">
+            <zone points="1106,2258 2034,2258 2034,2427 1106,2427" rendition="Line" xml:id="facs_4_tr_1_tl_37"/>
+         </zone>
+         <zone points="1113,2507 2449,2507 2449,3131 1113,3131" rendition="TextRegion" xml:id="facs_4_TextRegion_1721145117411_1075">
+            <zone points="1448,2617 1807,2617 1807,2728 1448,2728" rendition="Line" xml:id="facs_4_tr_1_tl_38"/>
+            <zone points="1457,2694 1713,2694 1713,2781 1457,2781" rendition="Line" xml:id="facs_4_tr_1_tl_40"/>
+            <zone points="1455,2752 1796,2752 1796,2839 1455,2839" rendition="Line" xml:id="facs_4_tr_1_tl_42"/>
+            <zone points="1451,2817 1791,2817 1791,2884 1451,2884" rendition="Line" xml:id="facs_4_tr_1_tl_44"/>
+            <zone points="1451,2872 1760,2872 1760,2946 1451,2946" rendition="Line" xml:id="facs_4_tr_1_tl_46"/>
+            <zone points="1444,2928 1756,2928 1756,3026 1444,3026" rendition="Line" xml:id="facs_4_tr_1_tl_48"/>
+            <zone points="1900,2619 2321,2619 2321,2739 1900,2739" rendition="Line" xml:id="facs_4_tr_1_tl_39"/>
+            <zone points="1896,2694 2178,2694 2178,2783 1896,2783" rendition="Line" xml:id="facs_4_tr_1_tl_41"/>
+            <zone points="1907,2761 2245,2761 2245,2841 1907,2841" rendition="Line" xml:id="facs_4_tr_1_tl_43"/>
+            <zone points="1896,2824 2241,2824 2241,2897 1896,2897" rendition="Line" xml:id="facs_4_tr_1_tl_45"/>
+            <zone points="1896,2875 2294,2875 2294,2957 1896,2957" rendition="Line" xml:id="facs_4_tr_1_tl_47"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <p facs="#facs_1_TextRegion_1721143928546_521">
+                    <pb facs="#facs_1" xml:id="img_0001" n="Ar"/>
+               <lb facs="#facs_1_tr_1_tl_4" n="N001"/>Zu wissen, als etliche verjagte und verfolgte Christen aus den <rs type="place" ref="#niederlande">
+                        <w>Nieder<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_5" n="N002"/>Landen</w>
+                    </rs> und <rs type="place" ref="#frankreich_koenigreich">Frankreich</rs>, so sich nun eine gute Zeithero zu <rs type="place" ref="#frankfurt_main">Franckfurt am Mayn</rs>
+               <lb facs="#facs_1_tr_1_tl_6" n="N003"/>verhalten<note type="annotation">aufgehalten.</note>, aber weil ihnen ihre Kirchen und Christliche Zusammenkunfften und
+               <lb facs="#facs_1_tr_1_tl_7" n="N004"/>Schulen daselbst nicht länger haben wöllen gegönnet und verstattet werden: <w>Son<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_9" n="N005"/>dern</w> nunmehr allerdings<note type="annotation">vollständig.</note> abgeschafft und verbotten seyn, der Orts aus Mangel
+               <lb facs="#facs_1_tr_1_tl_10" n="N006"/>
+                    <seg type="crit_app">des öffentlichen Exercitii ihrer Religion</seg>
+                    <note type="crit_app">
+                        <rs type="bibl" ref="#bott_gruendung_1">
+                            <surname type="author">Bott</surname>, Gründung 1, S. 432</rs>: ihrer religion und derselben offentlichen exercitii.</note> nicht länger bleiben mögen; Derhalben dann bey dem
+               <lb facs="#facs_1_tr_1_tl_11" n="N007"/>Wohlgebohrnen Grafen und Herrn, Herrn <rs type="person" ref="#philipp_ludwig_ii_hanau">Philipp Ludwigen</rs>, Grafen zu <rs type="place" ref="#hanau-muenzenberg_grafschaft">
+                        <w>Ha<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_12" n="N008"/>nau</w>
+                    </rs> und <rs type="place" ref="#rieneck_grafschaft">Rhineck</rs>, Herrn zu <rs type="place" ref="#muenzenberg_herrschaft">Müntzenberg</rs>, etc. Unserm gnädigen Herrn; dieweil <rs type="person" ref="#philipp_ludwig_ii_hanau">Ihro Gn<am>.</am>
+                        <ex>aden</ex>
+                    </rs> Dero
+               <lb facs="#facs_1_tr_1_tl_13" n="N009"/>Kirchen und Schulen in derselben Grafen und Herrschafften vermöge GOttes Worts und der
+               <lb facs="#facs_1_tr_1_tl_14" n="N010"/>Prophetischen und Apostolischen Schrifften Alten und Neuen Testaments reformiret, und was
+               <lb facs="#facs_1_tr_1_tl_15" n="N011"/>noch darinn aus dem Pabsthum und sonsten für Aberglaubische Mißbräuche so wohl in der Lehr
+               <lb facs="#facs_1_tr_1_tl_16" n="N012"/>als auch den Ceremonien biß dahero seynd überentzig<note type="annotation">übrig.</note> verblieben, vollends abgeschafft, und dargegen
+               <lb facs="#facs_1_tr_1_tl_17" n="N013"/>den reinen wahren Gottesdienst eingeführt und angestellt, in Unterthänigkeit haben gebetten und
+               <lb facs="#facs_1_tr_1_tl_18" n="N014"/>angesucht, Sie gleich andern Frembden, so allbereit allhie in<note type="crit_app">
+                        <rs type="bibl" ref="#bott_gruendung_1">
+                            <surname type="author">Bott</surname>, Gründung 1, S. 432</rs>: zu.</note> <rs type="place" ref="#hanau_stadt">Hanau</rs> wohneten oder noch hiernächst
+               <lb facs="#facs_1_tr_1_tl_19" n="N015"/>sich anhero begeben möchten, in <rs type="person" ref="#philipp_ludwig_ii_hanau">Ihrer Gn<am>.</am>
+                        <ex>aden</ex>
+                    </rs> Schutz und Schirm uff- und anzunehmen, und nicht
+               <lb facs="#facs_1_tr_1_tl_20" n="N016"/>allein ihnen zu verstatten und zu zulassen, so wohl in- als ausserhalb der Stadt <rs type="place" ref="#hanau_stadt">Hanau</rs> wie auch
+               <lb facs="#facs_1_tr_1_tl_21" n="N017"/>sonsten in dieser <rs type="place" ref="#hanau-muenzenberg_grafschaft">Grafschafft</rs> sich Häußlich nieder zu thun;<note type="annotation">Vgl. die <ref type="einleitung" target="0239#neu-hanau_gruendung">Einleitung</ref>.</note> Sondern auch Dero offentlichen <w>Be<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_22" n="N018"/>kanntnuß</w> unserer wahren Christlichen Religion sambt derselben reinen Ceremonien zu gebrauchen:
+               <lb facs="#facs_1_tr_1_tl_23" n="N019"/>Daß <seg type="crit_app">den nach</seg>
+                    <note type="crit_app">
+                        <rs type="bibl" ref="#bott_gruendung_1">
+                            <surname type="author">Bott</surname>, Gründung 1, S. 432</rs>: demnach.</note> <rs type="person" ref="#philipp_ludwig_ii_hanau">Ihro Gn<am>.</am>
+                        <ex>aden</ex>
+                    </rs> aus Christlichem Mitleiden, und daß ein jeder Christ auch vermöge <w>GOt<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_24" n="N020"/>tes</w> Worts und Befehls schuldig ist, sich seiner bedrangten Mit-Christen mit allem treuen Fleiß,
+               <lb facs="#facs_1_tr_1_tl_25" n="N021"/>Ernst und Eiffer anzunehmen und ihnen die Hand zu biethen, sowol vor sich als auch Dero
+               <lb facs="#facs_1_tr_1_tl_26" n="N022"/>freundlichen lieben Bruder, Graffe <rs type="person" ref="#albrecht_hanau">Albrechten zu Hanau</rs>, etc., gnädiglich bewilliget, obbemeldte
+               <lb facs="#facs_1_tr_1_tl_27" n="N023"/>Frembden uff ihr bittliches Ansuchen in Dero <rs type="place" ref="#hanau-muenzenberg_grafschaft">Graff- und Herrschafften</rs> und sonderlich allhie zu
+               <lb facs="#facs_1_tr_1_tl_28" n="N024"/>
+                    <rs type="place" ref="#hanau_stadt">Hanau</rs> vor Unterthanen uff- und anzunehmen, und sich daruff folgender Capitulation mit ihnen
+               <lb facs="#facs_1_tr_1_tl_29" n="N025"/>verglichen und vereinbahret haben.
+            </p>
+            <p facs="#facs_1_TextRegion_1721143967677_552" xml:id="art_1">
+               <lb facs="#facs_1_tr_1_tl_30" n="N001"/>
+                    <supplied reason="article_added">1</supplied> Nemlich, und weil obbemeldte Supplicanten sich zuförderst von wegen der Reformirten
+               <lb facs="#facs_1_tr_1_tl_31" n="N002"/>Religion, darzu sie sich biß dahero bekannt und gehalten, und dieselbige nunmehr in dieser <rs type="place" ref="#hanau-muenzenberg_grafschaft">
+                        <w>Graff<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_32" n="N003"/>schafft</w>
+                    </rs> offentlich gelehret und exercirt wird, hieher begeben, daß ihnen dieselbige hiemit und in Krafft
+               <lb facs="#facs_1_tr_1_tl_33" n="N004"/>dieses auch mit der Administration der heiligen Sacramenten, und Einsegnung der Eheleuten, in
+               <lb facs="#facs_1_tr_1_tl_34" n="N005"/>ihren angebohrnen Mutter-Sprachen, wie auch sonsten ihre Christliche Liturgiam, Disciplin und
+               <lb facs="#facs_1_tr_1_tl_35" n="N006"/>Kirchen-Ordnung<note type="crit_app">
+                        <rs type="bibl" ref="#bott_gruendung_1">
+                            <surname type="author">Bott</surname>, Gründung 1, S. 432</rs> folgt: etc.</note>, (in allermassen dieselbige <seg type="crit_app">dieser Zeit</seg>
+                    <note type="crit_app">Fehlt <rs type="bibl" ref="#bott_gruendung_1">
+                            <surname type="author">Bott</surname>, Gründung 1, S. 432</rs>.</note> bey den Reformirten Kirchen in <rs type="place" ref="#frankreich_koenigreich">Franckreich</rs>
+               <note type="annotation">Gemeint ist die <q>Discipline Ecclésiastique</q> von <date when="1559">1559</date>: vgl. <rs type="bibl" ref="#opitz_discipline">
+                            <surname type="editor">Opitz / Fornerod</surname>, Discipline ecclésiastique</rs>.</note>
+               <lb facs="#facs_1_tr_1_tl_36" n="N007"/>und <rs type="place" ref="#niederlande_vereinigte">Niederlanden</rs>
+                    <note type="annotation">Gemeint sind die <q>Middelburger Artikel</q> von <date when="1581">1581</date>; vgl. <rs type="bibl" ref="#rutgers_acta">
+                            <surname type="editor">Rutgers</surname>, Acta, S. 339-401</rs>.</note>, auch in der <rs type="place" ref="#pfalz_kurfuerstentum">Churfürstlichen Pfaltz</rs>
+                    <note type="annotation">Gemeint ist die <q>Kurpfälzische Kirchenordnung</q> von <date when="1563">1563</date>; vgl.  <rs type="bibl" ref="#eko_14">
+                            <surname type="author">EKO 14</surname>, S. 333-408</rs>.</note>, und zu <rs type="place" ref="#genf">Genff</rs>
+                    <note type="annotation">Gemeint sind die <q>Ordonnances ecclésiastiques</q> von <date when="1561">1561</date>; vgl. <rs type="bibl" ref="#opitz_ordonnances">
+                            <surname type="editor">Opitz</surname>, Ordonnances ecclésiastiques</rs>.</note> gebräuchlich gehalten werden)
+               <lb facs="#facs_1_tr_1_tl_37" n="N008"/>frey und offentlich zu exerciren und zu gebrauchen soll zugelassen und erlaubt seyn, und wie es mit
+               <lb facs="#facs_1_tr_1_tl_38" n="N009"/>der Religion und reinen Ceremonien allbereitz in der Frantzösischen Kirchen allhie ist angeordnet und
+               <lb facs="#facs_1_tr_1_tl_39" n="N010"/>gehalten wird,<note type="annotation">Der wallonische Prediger <rs type="person" ref="#carron_jacques">Jacques Carron</rs>, der mit <rs type="person" ref="#philipp_ludwig_ii_hanau">Philipp Ludwig II</rs>. verhandelte, hat in Neu-Hanau die französische <q>Discipline ecclésiastique</q> von <date when="1559">1559</date> einführen wollen; vgl. <rs type="bibl" ref="#bott_gruendung_1">
+                            <surname type="author">Bott</surname>, Gründung 1, S. 369</rs>.</note> also auch künfftiglich in der Flämmischen Kirchen mag angeordnet und gehalten
+               <lb facs="#facs_1_tr_1_tl_40" n="N011"/>werden, und hierbeneben die Außländischen<note type="crit_app">
+                        <rs type="bibl" ref="#bott_gruendung_1">
+                            <surname type="author">Bott</surname>, Gründung 1, S. 433</rs>: außlendische.</note> Kirchendiener nicht allein mit den Teutschen und <w>Inn<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_41" n="N012"/>heimischen</w> gute und vertrauliche Correspondentz und Freundschafft halten, sondern sich auch mit
+               <lb facs="#facs_1_tr_1_tl_42" n="N013"/>denselben, so viel müglich, in den äusserlichen Ceremonien und sonsten in der Kirchen einer <w>Confor<pc>-</pc>
+                  <lb facs="#facs_1_tr_1_tl_43" n="N014"/>mität</w> vergleichen, auch deren Synodis atque Conventibus, tam Classicis quam universalibus,<note type="annotation">Gemeint sind die regionalen und überregionalen Zusammenkünfte der Pfarrer bzw. des kirchenleitenden Personals, die im Reformiertentum kirchenordnende und -gerichtliche Funktionen übernehmen.</note> wann<note type="crit_app">
+                        <rs type="bibl" ref="#bott_gruendung_1">
+                            <surname type="author">Bott</surname>, Gründung 1, S. 433</rs>: wen.</note>
+               <lb facs="#facs_1_tr_1_tl_44" n="N015"/>dieselbige gehalten und sie darzu erfordert werden, beywohnen, und alles was zu Befürderung deß
+               <lb facs="#facs_1_tr_1_tl_45" n="N016"/>allgemeinen Kirchen-Baues umb<note type="crit_app">
+                        <rs type="bibl" ref="#bott_gruendung_1">
+                            <surname type="author">Bott</surname>, Gründung 1, S. 433</rs>: und.</note> der Menschen zeitlicher und ewiger Wohlfarth immer dienlich
+               <lb facs="#facs_1_tr_1_tl_46" n="N017"/>seyn und gereichen mag, bestes Fleisses bedencken<note type="crit_app">
+                        <rs type="bibl" ref="#bott_gruendung_1">
+                            <surname type="author">Bott</surname>, Gründung 1, S. 433</rs> folgt: und ins werk richten und anstellen helfen.</note>, doch daß ihnen darneben auch ihre besondere
+               <lb facs="#facs_1_tr_1_tl_47" n="N018"/>Conventus darbey zu halten unbenommen sey, sondern frey stehe.
+            </p>
+            <p facs="#facs_1_TextRegion_1721143967676_551" xml:id="art_2">
+               <lb facs="#facs_1_tr_1_tl_48" n="N001"/>
+                    <supplied reason="article_added">2</supplied> Und nachdem, fürs Ander, sowohl die Frantzosen und Wallonen als auch die <w>Niederlän<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_49" n="N002"/>der</w> ihre besondere Kirchen und Ministeria in ihren Sprachen haben werden, soll ihnen auch hiermit
+               <lb facs="#facs_1_tr_1_tl_50" n="N003"/>erlaubt und zugelassen seyn, ihre Kirchen- und Schuldiener vor sich zu erwählen und beruffen;
+               <lb facs="#facs_1_tr_1_tl_51" n="N004"/>allein, daß sie diejenige Personen, so also von ihnen zum Ministerio der Kirchen und Schulen erwählet
+            <pb facs="#facs_2" xml:id="img_0002" n="Av"/>
+               <lb facs="#facs_2_tr_1_tl_1" n="N001"/>und beruffen worden seyn, jederzeit wohlermeldtem <rs type="person" ref="#philipp_ludwig_ii_hanau">unserm gnädigen Herrn</rs> als der Obrigkeit,
+               <lb facs="#facs_2_tr_1_tl_2" n="N002"/>oder <rs type="person" ref="#philipp_ludwig_ii_hanau">seiner Gn<am>.</am>
+                        <ex>aden</ex>
+                    </rs> Erben und Nachkommen, <seg type="crit_app">so lang sie dieser wahren Christlichen Religion zugethan</seg>
+                    <note type="crit_app">Fehlt <rs type="bibl" ref="#bott_gruendung_1">
+                            <surname type="author">Bott</surname>, Gründung 1, S. 433</rs>.</note>,
+               <lb facs="#facs_2_tr_1_tl_3" n="N003"/>praesentiren und vorstellen, dieselbige, nach dem sie in Examine darzu genugsamb qualificirt und
+               <lb facs="#facs_2_tr_1_tl_4" n="N004"/>geschickt befunden werden, auch sonsten keine rechtmäßige oder erhebliche und wichtige Bedencken
+               <lb facs="#facs_2_tr_1_tl_5" n="N005"/>und Ursachen vorhanden, darum sie nicht uff- oder anzunehmen seyn solten<note type="crit_app">
+                        <rs type="bibl" ref="#bott_gruendung_1">
+                            <surname type="author">Bott</surname>, Gründung 1, S. 433</rs> folgt: in ihren embtern zu confimiren und zu bestettigen.</note>, wie sie auch <w>derentwe<pc>-</pc>
+                  <lb facs="#facs_2_tr_1_tl_6" n="N006"/>gen</w> in gebührliche Pflicht und Gelübd zu nehmen, doch daß <seg type="crit_app">sie solche</seg>
+                    <note type="crit_app">
+                        <rs type="bibl" ref="#bott_gruendung_1">
+                            <surname type="author">Bott</surname>, Gründung 1, S. 433</rs>: solliche.</note> ihre beyderseits Kirchen-
+               <lb facs="#facs_2_tr_1_tl_7" n="N007"/>und Schuldiener wie auch andere, deren Diensten sie sich in<note type="crit_app">
+                        <rs type="bibl" ref="#bott_gruendung_1">
+                            <surname type="author">Bott</surname>, Gründung 1, S. 433</rs>: zu.</note> ihren Versammlungen gebrauchen,
+               <lb facs="#facs_2_tr_1_tl_8" n="N008"/>selbsten und von dem Ihrigen besolden und ihnen nothwendigen Unterhalt geben.
+            </p>
+            <p facs="#facs_2_TextRegion_1721144049361_583" xml:id="art_3">
+               <lb facs="#facs_2_tr_1_tl_9" n="N001"/>
+                    <supplied reason="article_added">3</supplied> Damit auch, zum Dritten, so viel möglich verhütet und vorkommen werde, daß nicht
+               <lb facs="#facs_2_tr_1_tl_10" n="N002"/>Rotten und Secten in der Frantzösischen und Flämmischen Kirchen einreissen, oder dieselbige <w>son<pc>-</pc>
+               <lb facs="#facs_2_tr_1_tl_11" n="N003"/>sten</w> mit ärgerlichen und ohnruhigen oder auch wohl uffrührischen und deß gemeinen Friedens
+               <lb facs="#facs_2_tr_1_tl_12" n="N004"/>feindseligen Leuten deformirt, verunruhet, und beschwehret werden, soll kein Frembder, er sey auch
+               <lb facs="#facs_2_tr_1_tl_13" n="N005"/>was Nation er wolle, weder allhier in der <rs type="place" ref="#hanau_stadt">Stadt</rs>, noch auch sonsten uff dem Lande sich Häußlichen
+               <lb facs="#facs_2_tr_1_tl_14" n="N006"/>nieder zu thun, uffgenommen, oder ihnen daselbsten zu wohnen zugelassen oder verstattet werden,
+               <lb facs="#facs_2_tr_1_tl_15" n="N007"/>er habe dann seiner Religion, Leben, Thun und Wandels von andern Reformirten Kirchen oder
+               <lb facs="#facs_2_tr_1_tl_16" n="N008"/>sonsten ehrlichen und glaubhafftigen Leuten gute Zeugnuß, Kundschafften, und Urkunden  <w>vorzu<pc>-</pc>
+              <lb facs="#facs_2_tr_1_tl_17" n="N009"/>legen</w> und beyzubringen, und daß sie sich unter anderm in Specie verobligiren und verpflichten,
+               <lb facs="#facs_2_tr_1_tl_18" n="N010"/>der Kirchen-Disciplin allhier zu unterwerffen und derselben gemäß zu verhalten.
+            </p>
+            <p facs="#facs_2_TextRegion_1721144061574_588" xml:id="art_4">
+               <lb facs="#facs_2_tr_1_tl_19" n="N001"/>
+                    <supplied reason="article_added">4</supplied> Zum Vierdten, daß ein jeder Frembder, wann er sich allhier oder sonsten in dieser <rs type="place" ref="#hanau-muenzenberg_grafschaft">
+                        <w>Graff<pc>-</pc>
+               <lb facs="#facs_2_tr_1_tl_20" n="N002"/>schafft</w>
+                    </rs> will nieder thun, gleich andern Unterthanen wohlermeldtem <rs type="person" ref="#philipp_ludwig_ii_hanau">unserm gnädigen Herrn</rs> und
+               <lb facs="#facs_2_tr_1_tl_21" n="N003"/>
+                    <rs type="person" ref="#philipp_ludwig_ii_hanau">S<am>.</am>
+                        <ex>einer</ex> Gn<am>.</am>
+                        <ex>aden</ex>
+                    </rs> Erben gebührliche Huldigung und Pflicht thue, <rs type="person" ref="#philipp_ludwig_ii_hanau">Ihren Gn<am>.</am>
+                        <ex>aden</ex>
+                    </rs> getreu, hold, gehorsamb und
+               <lb facs="#facs_2_tr_1_tl_22" n="N004"/>gewärtig zu seyn und sich derselben und Ihren Räthen, Ambtleuten und Befehlshabern, <w>recht<pc>-</pc>
+                  <lb facs="#facs_2_tr_1_tl_23" n="N005"/>mäßigen</w> Gebotten, Verbotten, Decretis oder Bescheiden, Satzungen<note type="crit_app">
+                        <rs type="bibl" ref="#bott_gruendung_1">
+                            <surname type="author">Bott</surname>, Gründung 1, S. 434</rs> folgt: und.</note>, Ordnungen <seg type="crit_app">und Gebräuchen</seg>
+                    <note type="crit_app">Fehlt <rs type="bibl" ref="#bott_gruendung_1">
+                            <surname type="author">Bott</surname>, Gründung 1, S. 434</rs>.</note>,
+               <lb facs="#facs_2_tr_1_tl_24" n="N006"/>
+                    <seg type="crit_app">so dieser Capitulation nicht zuwider</seg>
+                    <note type="crit_app">
+                        <rs type="bibl" ref="#bott_gruendung_1">
+                            <surname type="author">Bott</surname>, Gründung 1, S. 434</rs>: soviel sie deren in dießer capitulation nicht gefreyet sein.</note>, der Gebuhr zu unterwerffen, und all dasjenige zu thun und zu
+               <lb facs="#facs_2_tr_1_tl_25" n="N007"/>leisten, was getreue Unterthanen, auch vermög Göttliches Worts und Befehls, ihrer Christlichen
+               <lb facs="#facs_2_tr_1_tl_26" n="N008"/>Obrigkeit zu erzeigen schuldig und pflichtig seyn, doch daß einem jeden Frembden, so sich anhero
+               <lb facs="#facs_2_tr_1_tl_27" n="N009"/>begeben wird, frey stehe, allhie Bürger zu werden oder seiner Gelegenheit nach allein ein Beysaß<note type="annotation">Bürger mit eingeschränkten Bürgerrechten.</note>
+               <lb facs="#facs_2_tr_1_tl_28" n="N010"/>zu seyn, aber nichts daweniger gleich andern Bürgern seinen Eyd und Pflicht leiste, und alle <w>Bür<pc>-</pc>
+               <lb facs="#facs_2_tr_1_tl_29" n="N011"/>gerliche</w> Beschwehrungen mittragen und bezahlen helffe, wie sich auch sonsten in allen Sachen,
+               <lb facs="#facs_2_tr_1_tl_30" n="N012"/>den andern Bürgern gleich, und diesem Contract gemäß verhalte, und dargegen auch hinwieder
+               <lb facs="#facs_2_tr_1_tl_31" n="N013"/>der Bürgerlichen- und Stadt-Privilegien <seg type="crit_app">ausserhalb<note type="annotation">mit Ausnahme.</note> der Beholtzung<note type="annotation">Recht der Nutzung des Waldes zum Shclagen von Holz.</note>, Mastung<note type="annotation">Recht zur Fütterung der Tiere im Wald.</note> und Weydgangs<note type="annotation">Weidenutzungsrechte.</note>
+                    </seg>
+                    <note type="crit_app">Fehlt <rs type="bibl" ref="#bott_gruendung_1">
+                            <surname type="author">Bott</surname>, Gründung 1, S. 434</rs>.</note>
+               <lb facs="#facs_2_tr_1_tl_32" n="N014"/>geniesse und theilhafftig werde.
+            </p>
+            <p facs="#facs_2_TextRegion_1721144076763_595" xml:id="art_5">
+               <lb facs="#facs_2_tr_1_tl_33" n="N001"/>
+                    <supplied reason="article_added">5</supplied> Zum Fünfften, hat wohlgedachter unser <rs type="person" ref="#philipp_ludwig_ii_hanau">gnädiger Herr</rs> gnädiglich bewilliget und zugesagt,
+               <lb facs="#facs_2_tr_1_tl_34" n="N002"/>die Frembden<note type="crit_app">Korrigiert nach <rs type="bibl" ref="#bott_gruendung_1">
+                            <surname type="author">Bott</surname>, Gründung 1, S. 434</rs> aus: Frembde.</note> sambt ihrem Haab und Gütern, in gleichmäßigen Schutz und Schirm, auch Geleyd,
+               <lb facs="#facs_2_tr_1_tl_35" n="N003"/>gleich andern Ihren Unterthanen zu nehmen, wie sich auch sonsten ihrer in allen billigen Dingen,
+               <lb facs="#facs_2_tr_1_tl_36" n="N004"/>wie einer Christlichen Obrigkeit ohnedas obliegt und wohl anstehet, getreulich anzunehmen, und
+               <lb facs="#facs_2_tr_1_tl_37" n="N005"/>in ihren vorfallenden Sachen weniger nicht, als auch andern ihren Unterthanen, gnädiglich die
+               <lb facs="#facs_2_tr_1_tl_38" n="N006"/>Hand zu biethen, auch bey Gleich und Recht, so viel müglich, hand zu haben, und darüber mit
+               <lb facs="#facs_2_tr_1_tl_39" n="N007"/>unbilligen und widerrechtlichen Arresten nicht beschwehren zu lassen.
+            </p>
+         </div>
+         <div type="irrelevant">
+            <p facs="#facs_2_TextRegion_1721144084415_600" xml:id="art_6">
+               <lb facs="#facs_2_tr_1_tl_40" n="N001"/>
+                    <supplied reason="article_added">6</supplied> Zum Sechsten, ist zu Handhabung der Herrschafft Hanau, Wildbahn, Fisch- und 
+               Krebs=<lb facs="#facs_2_tr_1_tl_41" n="N002"/>Bächen und Wässer, ausdrücklich abgeredt und ihren Gn<am>.</am>
+                    <ex>aden</ex> vorbehalten worden, daß sich die 
+               <w>Fremb<pc>-</pc>
+                        <lb facs="#facs_2_tr_1_tl_42" n="N003"/>den</w> weniger nicht, als auch die Inheimischen Unterthanen alles Hätzens, Jagens, Wildschiessens
+               <lb facs="#facs_2_tr_1_tl_43" n="N004"/>und Waydwercks in ihrer Gn<am>.</am>
+                    <ex>aden</ex> Wälden, Büschen und sonsten, wie auch des Fischens und 
+               <w>Kräb<pc>-</pc>
+                        <lb facs="#facs_2_tr_1_tl_44" n="N005"/>sens</w> in Dero Fisch- und Krebs-Wässern, Weyern und Bächen, gäntzlich und zumahl bey 
+               <w>un<pc>-</pc>
+                        <lb facs="#facs_2_tr_1_tl_45" n="N006"/>gnädiger</w> Straff enthalten sollen.
+            </p>
+            <p facs="#facs_2_TextRegion_1721144094359_605" xml:id="art_7">
+               <lb facs="#facs_2_tr_1_tl_46" n="N001"/>
+                    <supplied reason="article_added">7</supplied> Zum Siebenden, ist auch bewilligt worden, daß diejenige so unter den Frembden tüglich und
+               <lb facs="#facs_2_tr_1_tl_47" n="N002"/>gnugsam qualificirt befunden werden, nach Gelegenheit in den Stadt-Rath zu Hanau und 
+               <w>gemei<pc>-</pc>
+                        <lb facs="#facs_2_tr_1_tl_48" n="N003"/>ner</w> Bürgerschafft und der Stadt Nutzen mit vorstehen zu helffen gezogen und beruffen werden.
+            </p>
+            <p facs="#facs_2_TextRegion_1721144102514_610" xml:id="art_8">
+               <lb facs="#facs_2_tr_1_tl_49" n="N001"/>
+                    <supplied reason="article_added">8</supplied> Item und zum Achten, daß sowol den Beysässen, als auch andern Bürgern, 
+               <w>Kauffleu<pc>-</pc>
+                        <lb facs="#facs_2_tr_1_tl_50" n="N002"/>ten</w>, Krämern und Handwerckern, solle frey und bevor stehen, allerhand ehrliche und dem gemeinen
+               <lb facs="#facs_2_tr_1_tl_51" n="N003"/>Nutzen unschädliche Handthierungen und Nahrung zu treiben, und mit allerley doch aufrichtigen
+               <lb facs="#facs_2_tr_1_tl_52" n="N004"/>Waaren, als allenthalben im heiligen Reich gebräuchlich und zugelassen ist, zu parthieren, wie auch
+               <lb facs="#facs_2_tr_1_tl_53" n="N005"/>sowol mit Pfennigwerck, und bey der Ehlen auszuschneiden, als auch mit großen Summen und
+               <lb facs="#facs_2_tr_1_tl_54" n="N006"/>Ballen in ihren Häusern, und offenen Laden zu handlen und zu verkauffen. Item Wein und
+               <lb facs="#facs_2_tr_1_tl_55" n="N007"/>Bier auszuschencken und zu verzapffen, doch daß sie darvon das gewöhnliche Wein- und 
+               Bier=<lb facs="#facs_2_tr_1_tl_56" n="N008"/>Ungeld entrichten, auch sonsten Recht und gleichmäßige Ehlen, Maaß, Gewicht, Zeichen und
+               <lb facs="#facs_2_tr_1_tl_57" n="N009"/>Siegel darbey gebrauchen.
+            </p>
+            <p facs="#facs_2_TextRegion_1721144238947_615" xml:id="art_9">
+               <lb facs="#facs_2_tr_1_tl_58" n="N001"/>
+                    <supplied reason="article_added">9</supplied> Zum Neundten, so viel die Niederlage der Waaren belangt, hat man sich verglichen 
+               <w>die<pc>-</pc>
+                        <lb facs="#facs_2_tr_1_tl_59" n="N002"/>selbige</w> in vier unterschiedene Sorten, vermög einer Rollen, so darüber uffgerichtet werden solle,
+               <lb facs="#facs_2_tr_1_tl_60" n="N003"/>abzutheilen, und soll von einem jeden Ballen, Faß, Kisten, Korb und dergleichen, der höchsten
+               <lb facs="#facs_2_tr_1_tl_61" n="N004"/>Sorten erlegt werden, drey Batzen, von der zweyten zween Batzen, von der dritten ein Batzen,
+               <lb facs="#facs_2_tr_1_tl_62" n="N005"/>und vom geringsten ein halber Batz. Doch soll hierneben gebräuchlicher Zoll, auch Weg-, Krahn-,
+               <lb facs="#facs_2_tr_1_tl_63" n="N006"/>Canaal- oder Schleusen-Geld nochmahls vorbehalten seyn.
+            </p>
+            <p facs="#facs_3_TextRegion_1721144573415_776" xml:id="art_10">
+                    <pb facs="#facs_3" xml:id="img_0003" n="Aiir"/>
+               <lb facs="#facs_3_tr_1_tl_1" n="N001"/>
+                    <supplied reason="article_added">10</supplied> Zum Zehenden, soll von einem jeden Fuder Wein, so einer hinder sich, und in seinen Keller
+               <lb facs="#facs_3_tr_1_tl_2" n="N002"/>leget, zween Floren zur Niederlage; von dem Wein aber, so ausgeschenckt und verzapfft wird,
+               <lb facs="#facs_3_tr_1_tl_3" n="N003"/>das gewöhnliche Ungeld gleich andern Unterthanen gegeben werden.
+            </p>
+            <p facs="#facs_3_TextRegion_1721144583091_781" xml:id="art_11">
+               <lb facs="#facs_3_tr_1_tl_4" n="N001"/>
+                    <supplied reason="article_added">11</supplied> Zum Eilfften, ist bewilliget, daß die Frembden, damit sie der gemeinen Stadt Frohnen 
+               <w>geübri<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_5" n="N002"/>get</w> seyn mögen, Jährliches ein jeder zween Floren gebe, dafür solche Frohnen mögen bestellet 
+               <w>wer<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_6" n="N003"/>den</w>, doch daß die in der Neuen Stadt ihre Pforten und Stadt darneben selbsten bewachen sollen.
+            </p>
+            <p facs="#facs_3_TextRegion_1721144592612_786" xml:id="art_12">
+               <lb facs="#facs_3_tr_1_tl_7" n="N001"/>
+                    <supplied reason="article_added">12</supplied> Zum Zwölfften, ist abgeredet und bewilliget worden, dieweil die Reichshülffen, oder 
+               <w>Tür<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_8" n="N002"/>cken</w>-Schatzungen, zu Trost und Wohlfahrt der gemeinen Christenheit, hohes und niederen 
+               <w>Stan<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_9" n="N003"/>des</w>, und zu Widerstand des übermächtigen Feindes des Türcken, und Abwendung seines 
+               <w>tyran<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_10" n="N004"/>nischen</w> Gewalts, der Römischen Kayserl. Majest. unserm allergenädigsten Herrn, je bißweilen,
+               <lb facs="#facs_3_tr_1_tl_11" n="N005"/>von Chur, Fürsten und Ständen des Reichs bewilliget werden, und dargegen vermöge der
+               <lb facs="#facs_3_tr_1_tl_12" n="N006"/>Reichs-Abschieden einer jeden Obrigkeit frey und zugelassen ist, ihre Unterthanen, sie seyen Exempt,
+               <lb facs="#facs_3_tr_1_tl_13" n="N007"/>oder nicht Exempt, gefreyet oder nicht gefreyet, niemand ausgenommen, mit solcher Steuer zu
+               <lb facs="#facs_3_tr_1_tl_14" n="N008"/>belegen, dergleichen Türckenschatzung dann auch noch Ihrer Majest. auf jüngstgehaltenem 
+               <w>Reichs<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_15" n="N009"/>tage</w> zu Regenspurg 1594. Wie auch seithero noch weiters auf etlichen Crayßtägen ist 
+               <w>eingewil<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_16" n="N010"/>liget</w> worden, daß obbemeldte Frembde, so sich in dieser Grafschafft allbereit haben niedergethan,
+               <lb facs="#facs_3_tr_1_tl_17" n="N011"/>oder noch hiernechst begeben werden, ihr Gebühr daran, nach Anzahl der Zeit, gleich andern 
+               <w>Un<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_18" n="N012"/>terthanen</w> erlegen und bezahlen: Welche aber ihr Vermögen nicht offenbahren wollen, das Jahr
+               <lb facs="#facs_3_tr_1_tl_19" n="N013"/>über in Zeitwährender dieser oder ander Schatzung und Reichs-Contribution fünff und zwantzig
+               <lb facs="#facs_3_tr_1_tl_20" n="N014"/>Gulden, oder aber anstatt eines ordinari in- und außerhalb Schatzung funfzehen Gulden 
+               <w>jährli<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_21" n="N015"/>ches</w> erlegen sollen.
+            </p>
+            <p facs="#facs_3_TextRegion_1721144609898_791" xml:id="art_13">
+               <lb facs="#facs_3_tr_1_tl_22" n="N001"/>
+                    <supplied reason="article_added">13</supplied> Zum dreyzehenden, so soll auch männiglichen erlaubt seyn sein Hauß zu seines Gewerbs
+               <lb facs="#facs_3_tr_1_tl_23" n="N002"/>Nothdurfft zu bauen, auch Färb- und Brauhäuser. Item Backöffen, darinnen so wol zu der
+               <lb facs="#facs_3_tr_1_tl_24" n="N003"/>gemeinen Becker, als auch eines jeden Bürgers und Inwohners, besondern Nutz und Gebrauch
+               <lb facs="#facs_3_tr_1_tl_25" n="N004"/>anzurichten, doch daß solches ohne Feuers-Gefahr, bösem Geruch und Unreinigkeit, oder Ubelstand
+               <lb facs="#facs_3_tr_1_tl_26" n="N005"/>der Stadt, sondern mit gebührlicher Vorsehung, und Vermög der Bauordnung geschehen.
+            </p>
+            <p facs="#facs_3_TextRegion_1721144622096_796" xml:id="art_14">
+               <lb facs="#facs_3_tr_1_tl_27" n="N001"/>
+                    <supplied reason="article_added">14</supplied> Zum Vierzehenden, ist auch obbemeldten Frembden bewilliget worden, zu jederzeit, wann
+               <lb facs="#facs_3_tr_1_tl_28" n="N002"/>es ihnen gefält, das Ihrige wiederumb zu verkauffen, und ihrer Gelegenheit nach, an andern 
+               <w>Or<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_29" n="N003"/>then</w>, ohne Erlegung und Entrichtung einiger Nachsteuer, zu ziehen, und sich zu begeben, darunter
+               <lb facs="#facs_3_tr_1_tl_30" n="N004"/>doch die Häuser in der Alten Stadt Hanau, daruff die Herrschafft solche Nachsteuer hat 
+               <w>her<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_31" n="N005"/>bracht</w>, nicht sollen begriffen oder verstanden werden, aber die, so von neuem von ihnen erbauet
+               <lb facs="#facs_3_tr_1_tl_32" n="N006"/>werden, mögen obgedachter Privilegien geniessen.
+            </p>
+            <p facs="#facs_3_TextRegion_1721144631906_801" xml:id="art_15">
+               <lb facs="#facs_3_tr_1_tl_33" n="N001"/>
+                    <supplied reason="article_added">15</supplied> Zum Funffzehenden, sollen sie auch nicht schuldig seyn gleich andern und inheimischen
+               <lb facs="#facs_3_tr_1_tl_34" n="N002"/>Bürgern zum Feuer auf dem Land, ausserhalb der Stadt, zu lauffen, und dasselbe mit löschen zu
+               <lb facs="#facs_3_tr_1_tl_35" n="N003"/>helffen: Weil sich aber Ihre Gn<am>.</am>
+                    <ex>aden</ex> mit Dero Vettern den benachbarten Wetterauischen Grafen,
+               <lb facs="#facs_3_tr_1_tl_36" n="N004"/>einer gemeinen Lands-Rettung verglichen, welche auf den Nothfall, sowohl den Frembden, als
+               <lb facs="#facs_3_tr_1_tl_37" n="N005"/>auch den Inheimischen, in dieser Grafschafft zu gutem kommt, und Ihro Gn<am>.</am>
+                    <ex>aden</ex> unter den andern
+               <lb facs="#facs_3_tr_1_tl_38" n="N006"/>ihren Unterthanen derentwegen allbereit den einen Ausschuß gemacht, und denselben auf die
+               <lb facs="#facs_3_tr_1_tl_39" n="N007"/>Wehren gesetzt haben, ist abgeredet und bewilliget worden, daß sich die Frembden eben sowol als
+               <lb facs="#facs_3_tr_1_tl_40" n="N008"/>die Inheimischen zu solchem Ausschuß gebrauchen, auf die Wehr setzen, und auf den Nothfall
+               <lb facs="#facs_3_tr_1_tl_41" n="N009"/>mit sollen verschicken lassen, doch daß hierin keiner gefahrt werde, sondern wer nicht gern mit
+               <lb facs="#facs_3_tr_1_tl_42" n="N010"/>auszeucht, einen andern qualificirten an seine statt schicken möge.
+            </p>
+            <p facs="#facs_3_TextRegion_1721144643069_806" xml:id="art_16">
+               <lb facs="#facs_3_tr_1_tl_43" n="N001"/>
+                    <supplied reason="article_added">16</supplied> So soll auch zum Sechzehenden, die Anordnung und Versehung geschehen, daß 
+               <w>Wo<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_44" n="N002"/>chentlich</w> zwey offentliche Marcktage, auf welchen, so viel müglich, alle nothdürfftige Victualien
+               <lb facs="#facs_3_tr_1_tl_45" n="N003"/>mögen gebracht und zu feilem Kauff gegeben, angestellet und gehalten werden, wie sich dann auch
+               <lb facs="#facs_3_tr_1_tl_46" n="N004"/>die Frembden, sowol als die Inheimischen, der zweyen Messen oder Jahrmärckten, damit diese
+               <lb facs="#facs_3_tr_1_tl_47" n="N005"/>Herrschafft von undencklichen Jahren von der Kayserl. Majest. ist privilegirt worden, 
+               <w>gebrau<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_48" n="N006"/>chen</w> mögen. Item, daß ein oder zwey ordinari Schiff, so täglich, oder zum wenigsten zwey- oder
+               <lb facs="#facs_3_tr_1_tl_49" n="N007"/>dreymal in der Wochen, uff- und abnacher Franckfurt fahren, angestelt, und gegen die Gebühr
+               <lb facs="#facs_3_line_1721144905326_934" n="N008"/>gehalten werden.
+            </p>
+            <p facs="#facs_3_TextRegion_1721144658259_811" xml:id="art_17">
+               <lb facs="#facs_3_tr_1_tl_51" n="N001"/>
+                    <supplied reason="article_added">17</supplied> Wie ingleichen auch zum Siebenzehenden, der Canaal aus dem Mayn in die Stadt
+               <lb facs="#facs_3_tr_1_tl_52" n="N002"/>sambt dem Krahn, damit man die Wahren möge ausheben und einladen, mit ehester Gelegenheit
+               <lb facs="#facs_3_tr_1_tl_53" n="N003"/>sollen verfertiget werden, doch daß dagegen ein gewöhnlich Krahngeld bezahlt werde.
+            </p>
+            <p facs="#facs_3_TextRegion_1721144680502_816" xml:id="art_18">
+               <lb facs="#facs_3_tr_1_tl_54" n="N001"/>
+                    <supplied reason="article_added">18</supplied> Ebenmäßiger Gestalt, seynd Ihro Gn<am>.</am>
+                    <ex>aden</ex> auch nochmahln und zum Achtzehenden, deß
+               <lb facs="#facs_3_tr_1_tl_55" n="N002"/>gnädigen Erbietens, den abgeredten Graben und Wall, mit seiner nothwendiger und sicherer
+               <lb facs="#facs_3_tr_1_tl_56" n="N003"/>Befriedigung in die Neu-Stadt, wie auch dieselbige mit nothwendigen Pforten und 
+               <w>aufziehen<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_57" n="N004"/>den</w> Brücken versehen und verfertigen zu lassen.
+            </p>
+            <p facs="#facs_3_TextRegion_1721144718254_824" xml:id="art_19">
+               <lb facs="#facs_3_tr_1_tl_58" n="N001"/>
+                    <supplied reason="article_added">19</supplied> Zum Neunzehenden, bleibt es mit den erkaufften Plätzen, da die Neue Stadt soll gebauet
+               <lb facs="#facs_3_tr_1_tl_59" n="N002"/>werden, und allbereit ausgetheilet seyn, bey dem vorigen Tax, darüber dann auch denjenigen, so
+               <lb facs="#facs_3_tr_1_tl_60" n="N003"/>sie genommen, gegen Erlegung deß darauf gesetzten Kauffgeldes, nach Gelegenheit, gebührliche
+               <lb facs="#facs_3_tr_1_tl_61" n="N004"/>Währ- und Kauff-Brieff sollen gegeben und zugestellet werden, so viel aber die Gärten, so
+               <lb facs="#facs_3_tr_1_tl_62" n="N005"/>darbey liegen, anbelangt, mag ein jeder, der dahin bauen will, mit den jetzigen Besitzern und
+            <pb facs="#facs_4" xml:id="img_0004" n="Aiiv"/>
+               <lb facs="#facs_4_tr_1_tl_1" n="N001"/>Eigenthumbs-Herrn derselben, umb dieselbe uffs beste und genaueste, als er kan, handlen: Darinn
+               <lb facs="#facs_4_tr_1_tl_2" n="N002"/>dann Ihro Gn<am>.</am>
+                    <ex>aden</ex> ihnen alle gnädige Beförderung zu erzeigen, auch wo nöthig den Kauff selbsten
+               <lb facs="#facs_4_tr_1_tl_3" n="N003"/>mit machen zu helffen, geneigt und urbietig seynd.
+            </p>
+            <p facs="#facs_4_TextRegion_1721145056199_1051" xml:id="art_20">
+               <lb facs="#facs_4_tr_1_tl_4" n="N001"/>
+                    <supplied reason="article_added">20</supplied> Zum Zwantzigsten, ist auch bewilliget worden, daß ein jeder für seinem Hauß die halbe
+               <lb facs="#facs_4_tr_1_tl_5" n="N002"/>Gassen, auf seinen Kosten, und darnach die Obrigkeit den Marck, und das Pflaster umb den
+               <lb facs="#facs_4_tr_1_tl_6" n="N003"/>Krahn wollen machen lassen.
+            </p>
+            <p facs="#facs_4_TextRegion_1721145064136_1056" xml:id="art_21">
+               <lb facs="#facs_4_tr_1_tl_7" n="N001"/>
+                    <supplied reason="article_added">21</supplied> Zum Ein und Zwantzigsten, ist wohlermeldtem unserm gnädigen Herrn nicht zuwider,
+               <lb facs="#facs_4_tr_1_tl_8" n="N002"/>daß hiernechst, und wann geliebts GOtt, die Neue Stadt in ein Uffnehmen kommt, mit Ihrer
+               <lb facs="#facs_4_tr_1_tl_9" n="N003"/>Gn<am>.</am>
+                    <ex>aden</ex> Autorität ein Consulatus Mercatorum angerichtet und verordnet werde, dafür die Sachen, so
+               <lb facs="#facs_4_tr_1_tl_10" n="N004"/>die Handlung und Kauffmannschafften unter den Frembden angehn, ohne einige Weitläufftigkeit
+               <lb facs="#facs_4_tr_1_tl_11" n="N005"/>oder rechtliche Appellation nach Gelegenheit, und wie man sich dessen alsdann vergleichen wird,
+               <lb facs="#facs_4_tr_1_tl_12" n="N006"/>angenommen, gehört und erörtert werden doch unabbrüchlich Ihrer Gn<am>.</am>
+                    <ex>aden</ex> in allen, sowol Civil
+               <lb facs="#facs_4_tr_1_tl_13" n="N007"/>und Criminal, als auch andern Sachen, Dero wohlherbrachte Jurisdiction, Hoch-, Obrig- und
+               <lb facs="#facs_4_tr_1_tl_14" n="N008"/>Gerechtigkeit.
+            </p>
+            <p facs="#facs_4_TextRegion_1721145071555_1061" xml:id="art_22">
+               <lb facs="#facs_4_tr_1_tl_15" n="N001"/>
+                    <supplied reason="article_added">22</supplied> Zum Zwey und Zwantzigsten, ist auch uff obbemeldter Frembden fleißiges und 
+               <w>Christli<pc>-</pc>
+                        <lb facs="#facs_4_tr_1_tl_16" n="N002"/>ches</w> Anhalten bewilliget worden, daß wann GOtt der HErr sie mit der Pestilentz würde 
+               <w>heimsu<pc>-</pc>
+                        <lb facs="#facs_4_tr_1_tl_17" n="N003"/>chen</w>, ihnen nicht aus der Stadt soll gebotten werden, sondern sie in ihren Behausungen bleiben,
+               <lb facs="#facs_4_tr_1_tl_18" n="N004"/>auch in- und außerhalb der Stadt, nach Gelegenheit ihrer Geschäfften ziehen und verreisen 
+               <w>mö<pc>-</pc>
+                        <lb facs="#facs_4_tr_1_tl_19" n="N005"/>gen</w>, wie auch solches in andern Handels-Städten, als zu Straßburg, Hamburg, Franckfurt,
+               <lb facs="#facs_4_tr_1_tl_20" n="N006"/>auch in der Pfaltz, und an andern Orthen mehr gebräuchlich ist, und also gehalten wird, doch
+               <lb facs="#facs_4_tr_1_tl_21" n="N007"/>daß sie gleichwohl andere und unbefleckte Häuser ohne Noth meyden, wie auch der Gesunden, so
+               <lb facs="#facs_4_tr_1_tl_22" n="N008"/>viel müglich, verschonen, und dieselbige der Christlichen Liebe zuwider, damit nicht ebenmäßiger
+               <lb facs="#facs_4_tr_1_tl_23" n="N009"/>Gestalt, und gefährlicher Weiß beflecken oder anstecken, und mit der Zeit, wie in den 
+               <w>Niederlan<pc>-</pc>
+                        <lb facs="#facs_4_tr_1_tl_24" n="N010"/>den</w> gebräuchlich, Pesten-Häuser verordnet, darinn in solcher Noth die Armen gethan, und 
+               <w>der<pc>-</pc>
+                        <lb facs="#facs_4_tr_1_tl_25" n="N011"/>selben</w> mögen gepfleget und gewartet werden.
+            </p>
+         </div>
+         <div>
+            <p facs="#facs_4_TextRegion_1721145081198_1066">
+               <lb facs="#facs_4_tr_1_tl_26" n="N001"/>Zu Urkundt, und umb gleichen Behalts und künfftiger Nachrichtung willen, seynd
+               <lb facs="#facs_4_tr_1_tl_27" n="N002"/>dieser Abreden und Vergleichungen zwene, gleiches Lauts- und Innhalts-Schrifften, so wir
+               <lb facs="#facs_4_tr_1_tl_28" n="N003"/>
+                    <rs type="person" ref="#philipp_ludwig_ii_hanau">Philips Ludwig</rs>, Grafe zu <rs type="place" ref="#hanau-muenzenberg_grafschaft">Hanau</rs> etc. obbemelt, sowol vor Uns, als auch den <w>Wohlge<pc>-</pc>
+               <lb facs="#facs_4_tr_1_tl_29" n="N004"/>bohrnen</w> unsern freundlichen lieben Bruder, Grafe <rs type="person" ref="#albrecht_hanau">Albrecht zu Hanau</rs> etc. und Unser <w>bey<pc>-</pc>
+               <lb facs="#facs_4_tr_1_tl_30" n="N005"/>derseits</w> Nachkommen und Erben, und <seg type="crit_app">sie nachfolgende mit gnugsamer Vollmacht von der <w>gan<pc>-</pc>
+                  <lb facs="#facs_4_tr_1_tl_31" n="N006"/>tzen</w> Gemeynd Deputirte, vor sich selbsten, und ihre</seg>
+                    <note type="crit_app" xml:id="handschrift_hanau_unterzeichner">
+                        <rs type="bibl" ref="#bott_gruendung_1">
+                            <surname type="author">Bott</surname>, Gründung 1, S. 437</rs>: wir, <rs type="person" ref="#malepart_nicolaus">Nicolaus Malepart</rs>, <rs type="person" ref="#kindt_peter">Peter Kindt</rs>, <rs type="person" ref="#blecourt_luis">Luys Blécourt</rs>, <rs type="person" ref="#soreau_daniel">Daniel Soreau</rs> etc. vor unß undt unßer.</note> Mit-Consorten, mit eigenen Händen haben
+               <lb facs="#facs_4_tr_1_tl_32" n="N007"/>verzeichnet<note type="crit_app">
+                        <rs type="bibl" ref="#bott_gruendung_1">
+                            <surname type="author">Bott</surname>, Gründung 1, S. 437</rs>: unterzeichnet.</note>, und mit unserm zu End aufgedruckten Secret-Siegel<note type="annotation">Kleines, zur Beurkundung verwendetes Siegel.</note>, und ihren<note type="crit_app">Fehlt <rs type="bibl" ref="#bott_gruendung_1">
+                            <surname type="author">Bott</surname>, Gründung 1, S. 437</rs>.</note> gewöhnlichen <w>Pitt<pc>-</pc>
+               <lb facs="#facs_4_tr_1_tl_33" n="N008"/>schafften</w>
+                    <note type="annotation">Zur Beuurkundung verwendete kleine Stempel.</note> bekräfftiget, über alle obbesagende Puncten verfertiget und aufgericht, deren eine bey der
+               <lb facs="#facs_4_tr_1_tl_34" n="N009"/>
+                    <rs type="place" ref="#hanau-muenzenberg_grafschaft">Hanauischen</rs> Cantzeley behalten, und die ander obbemeldten Frembden ist zugestellet und <w>behän<pc>-</pc>
+               <lb facs="#facs_4_tr_1_tl_35" n="N010"/>digt</w> worden. So geschehen zu <rs type="place" ref="#hanau_stadt">Hanau</rs> den <date when="1597-06-01">1. Junii im Jahr nach Christi unsers lieben HErrn
+               <lb facs="#facs_4_tr_1_tl_36" n="N011"/>und Einigen Erlösers und Seeligmachers Geburt, Tausend Fünff Hundert Neuntzig und Sieben</date>.
+            </p>
+         </div>
+         <div>
+            <p facs="#facs_4_TextRegion_1721145197092_1089">
+               <lb facs="#facs_4_tr_1_tl_37" n="N001"/>
+                    <seg type="crit_app">
+                        <rs type="person" ref="#philipp_ludwig_ii_hanau">P. L. Graf zu Hanau</rs>.</seg>
+                    <note type="crit_app">Fehlt <rs type="bibl" ref="#bott_gruendung_1">
+                            <surname type="author">Bott</surname>, Gründung 1, S. 438</rs>.</note>
+            </p>
+            <p facs="#facs_4_TextRegion_1721145117411_1075">
+               <lb facs="#facs_4_tr_1_tl_38" n="N001"/>
+                    <seg type="crit_app">
+                        <rs type="person" ref="#heldenier_nicolaus">Nicolaus Heldenier</rs>.
+               <lb facs="#facs_4_tr_1_tl_40" n="N002"/>
+                        <rs type="person" ref="#kindt_peter">Peter t'kindt</rs>.
+               <lb facs="#facs_4_tr_1_tl_42" n="N003"/>
+                        <rs type="person" ref="#chombart_paulus">Paulus Chombart</rs>.
+               <lb facs="#facs_4_tr_1_tl_44" n="N004"/>
+                        <rs type="person" ref="#schelkens_hector">Hector Schelkens</rs>.
+               <lb facs="#facs_4_tr_1_tl_46" n="N005"/>
+                        <rs type="person" ref="#varlut_francois">Francois Varlut</rs>.
+               <lb facs="#facs_4_tr_1_tl_48" n="N006"/>
+                        <rs type="person" ref="#hase_daniel">Daniel de Hase</rs>.
+               <lb facs="#facs_4_tr_1_tl_39" n="N007"/>
+                        <rs type="person" ref="#behaigne_michiel">Michiel de Behaigne</rs>.
+               <lb facs="#facs_4_tr_1_tl_41" n="N008"/>
+                        <rs type="person" ref="#latre_esaie">Esaie de Latre</rs>.
+               <lb facs="#facs_4_tr_1_tl_43" n="N009"/>
+                        <rs type="person" ref="#faucque_gerhard">Gerhard Faucque</rs>.
+               <lb facs="#facs_4_tr_1_tl_45" n="N010"/>
+                        <rs type="person" ref="#mostart_salomon">Salomon Mostart</rs>.
+                  <lb facs="#facs_4_tr_1_tl_47" n="N011"/>
+                        <rs type="person" ref="#noefville_daniel">Daniel de Noefville</rs>.</seg>
+                    <note type="crit_app">Fehlt <rs type="bibl" ref="#bott_gruendung_1">
+                            <surname type="author">Bott</surname>, Gründung 1, S. 438</rs>. Vgl. dazu die <ref type="einleitung" target="0239#hanau_unterschriften">Einleitung</ref>.</note>
+            </p>
+         </div>
+      </body>
+   </text>
+</tei:TEI>

@@ -1,0 +1,34 @@
+<span class="lineNumber">1</span>Nos <button class="entity #friedrich_iii_schleswig_holstein_gottorf person" data-ref="friedrich_iii_schleswig_holstein_gottorf" data-type="person" id="d2e198">Fridericus</button> Dei gratia, Haeres <button class="entity #norwegen_koenigreich place" data-ref="norwegen_koenigreich" data-type="place" id="d2e201">Norwegiae</button>, Dux <br/>
+<span class="lineNumber">2</span><button class="entity #schleswig_herzogtum place" data-ref="schleswig_herzogtum" data-type="place" id="d2e205">Shleswici</button>, <button class="entity #holstein_herzogtum place" data-ref="holstein_herzogtum" data-type="place" id="d2e209">Holsatiae</button>, <button class="entity #stormarn_herzogtum place" data-ref="stormarn_herzogtum" data-type="place" id="d2e212">Stormariae</button> et <button class="entity #dithmarschen_herzogtum place" data-ref="dithmarschen_herzogtum" data-type="place" id="d2e215">Ditmarsiae</button>, Comes <br/>
+<span class="lineNumber">3</span>in <button class="entity #oldenburg_grafschaft place" data-ref="oldenburg_grafschaft" data-type="place" id="d2e220">Oldenburg</button> et <button class="entity #delmenhorst_grafschaft place" data-ref="delmenhorst_grafschaft" data-type="place" id="d2e223">Delmenhorst</button>, omnibus praesentes <br/>
+<span class="lineNumber">4</span>inspecturis et lecturis salutem, Notum univer-<br/>
+<span class="lineNumber">5</span>sis facimus, quod postquam novam nostram civita-<br/>
+<span class="lineNumber">6</span>tem <button class="entity #friedrichstadt place" data-ref="friedrichstadt" data-type="place" id="d2e243">Fredericopolim</button>, vulgo Frederichstadt, ad flumen <br/>
+<span class="lineNumber">7</span>Eydoram extruere coepimus, eandem conati sumus <br/>
+<span class="lineNumber">8</span>modis omnibus amplificare novisque datis privilegiis <br/>
+<span class="lineNumber">9</span>negotiatoribus et mercatoribus, ob communem utilitatem <br/>
+<span class="lineNumber">10</span>implere, prasertim cum aptissima sit commerciis exer-<br/>
+<span class="lineNumber">11</span>cendis per omnes totius Europae regiones et regna. <br/>
+<span class="lineNumber">12</span>Quia vero commercia novae nostrae civitatis maxime <br/>
+<span class="lineNumber">13</span>dependent a <button class="entity #spanien_koenigreich place" data-ref="spanien_koenigreich" data-type="place" id="d2e266">regnis Hispaniarum</button> et <button class="entity #spanische_niederlande place" data-ref="spanische_niederlande" data-type="place" id="d2e270">ditionibus Belgi-</button><br/>
+<span class="lineNumber">14</span><button class="entity #spanische_niederlande place" data-ref="spanische_niederlande" data-type="place" id="d2e270">cis</button>, hinc est quod per prasentes facultaten damus <br/>
+<span class="lineNumber">15</span>ut quicunque ex dictis regnis ac provinciis ad nostram <br/>
+<span class="lineNumber">16</span>illam civitatem se receperint, negociorum causa tuto <br/>
+<span class="lineNumber">17</span>ibi ac libere habitare possint, atque inde recedere <br/>
+<span class="lineNumber">18</span>cum omnibus bonis suis ac familia, quando id iis <br/>
+<span class="lineNumber">19</span>visum fuerit e re sua esse, damusque omnibus et qui-<br/>
+<span class="lineNumber">20</span>buscumque Catholicis facultatem exercendi religionem <br/>
+<span class="lineNumber">21</span>catholicam in dicta <button class="entity #friedrichstadt place" data-ref="friedrichstadt" data-type="place" id="d2e299">Fredericopoli</button> et per omnes <br/>
+<span class="lineNumber">22</span>ditiones nostras libere conversandi, districte inhi-<br/>
+<span class="lineNumber">23</span>bentes omnibus Praetoribus Praefectis, ac quibus cumque <br/>
+<span class="lineNumber">24</span>ministris nostris ne Catholicos religionis causa <br/>
+<span class="lineNumber">25</span>ullo modo directe aut indirecte persequantur, aut <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-40v"> [Blatt: 40<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">26</span>molestia afficiant, sed pacifice negociis suis vacare <br/>
+<span class="lineNumber">27</span>patiantur. Idem quod de Catholicis dictum est <br/>
+<span class="lineNumber">28</span>intelligimus de ipsorum Praedicatoribus et <br/>
+<span class="lineNumber">29</span>sacerdotibus, qui de scitu et consensu magistri <br/>
+<span class="lineNumber">30</span><button class="entity #jansen_nicolaus person" data-ref="jansen_nicolaus" data-type="person" id="d2e328">Nicolai Jansen</button> vel eius vicem gerentis ad <br/>
+<span class="lineNumber">31</span>nostras ditiones venerint. Quo omnes et singu-<br/>
+<span class="lineNumber">32</span>los in nostro esse patrocinio et tutela declara-<br/>
+<span class="lineNumber">33</span>mus. Datum in arce nostra <button class="entity #gottorf_schloss place" data-ref="gottorf_schloss" data-type="place" id="d2e347">Gottorpia</button> 24 <br/>
+<span class="lineNumber">34</span>Februarii A<span class="ex">[nn]</span>o 1625.

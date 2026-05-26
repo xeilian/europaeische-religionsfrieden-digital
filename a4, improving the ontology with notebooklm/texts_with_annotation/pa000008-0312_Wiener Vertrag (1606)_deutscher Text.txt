@@ -1,0 +1,708 @@
+<span class="lineNumber">1</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000001.tif.original.jpg" id="p-A1r"> [Blatt: A1<span class="rectoVerso">r</span> ] </button>Abdruck <br/>
+<span class="lineNumber">2</span>Der <span class="antiqua">Reconciliation</span> un[d] <br/>
+<span class="lineNumber">3</span>Vergleichung mit den Hungerischen <br/>
+<span class="lineNumber">4</span>Stenden, geschehen zu <button class="entity #wien place" data-ref="wien" data-type="place" id="d2e946">Wien</button> in <button class="entity #oesterreich_erzherzogtum place" data-ref="oesterreich_erzherzogtum" data-type="place" id="d2e949">Osterreich</button>, <br/>
+<span class="lineNumber">5</span>den 23 Junii, Anno 1606. aus <br/>
+<span class="lineNumber">6</span>Lateinischer sprach, ins Deut-<br/>
+<span class="lineNumber">7</span>sche gebracht.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">8</span> <br/>
+<span class="lineNumber">9</span> <br/>
+<span class="lineNumber">10</span><span class="antiqua">Cum Gratia Superiorum.</span> <br/>
+<span class="lineNumber">11</span>Gedruckt in der Alten Stadt <button class="entity #prag place" data-ref="prag" data-type="place" id="d2e983">Prag</button>, <br/>
+<span class="lineNumber">12</span>durch <button class="entity #jacobi_johann_othmar person" data-ref="jacobi_johann_othmar" data-type="person" id="d2e989">Johan Othmar Jacobi</button>. <br/>
+<span class="lineNumber">13</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000002.tif.original.jpg" id="p-A1v"> [Blatt: A1<span class="rectoVerso">v</span> ] </button>[Leer]
+<span class="lineNumber">14</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000003.tif.original.jpg" id="p-A2r"> [Blatt: A2<span class="rectoVerso">r</span> ] </button><span class="initiale">W</span>IR <button class="entity #matthias_oesterreich person" data-ref="matthias_oesterreich" data-type="person" id="d2e1003">Matthias</button> <br/>
+<span class="lineNumber">15</span>von Gottes Gnaden Ertzhertzog zu <br/>
+<span class="lineNumber">16</span><button class="entity #oesterreich_erzherzogtum place" data-ref="oesterreich_erzherzogtum" data-type="place" id="d2e1012">Osterreich</button>, Hertzog zu <button class="entity #burgund_herzogtum place" data-ref="burgund_herzogtum" data-type="place" id="d2e1015">Burgu[n]d</button>, <button class="entity #steiermark_herzogtum place" data-ref="steiermark_herzogtum" data-type="place" id="d2e1018">Steyer</button>, <button class="entity #kaernten_herzogtum place" data-ref="kaernten_herzogtum" data-type="place" id="d2e1021">Kärndte[n]</button>, <br/>
+<span class="lineNumber">17</span><button class="entity #krain_herzogtum place" data-ref="krain_herzogtum" data-type="place" id="d2e1026">Krain</button> und <button class="entity #wuerttemberg_herzogtum place" data-ref="wuerttemberg_herzogtum" data-type="place" id="d2e1030">Wirtenbergk</button>, Graff zu <button class="entity #habsburg_grafschaft place" data-ref="habsburg_grafschaft" data-type="place" id="d2e1033">Habspurgk</button> <br/>
+<span class="lineNumber">18</span>und <button class="entity #tirol_grafschaft place" data-ref="tirol_grafschaft" data-type="place" id="d2e1039">Tyroll</button>, etc[etera].
+<span class="lineNumber">19</span>Fügen hiemit zugedencken, Lauts und Inhalts <br/>
+<span class="lineNumber">20</span>dieser Schrifft, und thun kundt Jedermenniglich, <br/>
+<span class="lineNumber">21</span>denen solches zu wissen von nöten, Demnach die <br/>
+<span class="lineNumber">22</span><button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e1055">Röm[ische] Keyserliche</button> auch zu <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e1059">Hungern</button> und <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1062">Böhaimb</button> <br/>
+<span class="lineNumber">23</span><button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e1067">Königliche Mayestat</button>, unser vielgeliebter Herr <br/>
+<span class="lineNumber">24</span>Bruder, auff unser sonderbare <span class="antiqua">Intercession</span> <br/>
+<span class="lineNumber">25</span>und vorbiett gnedigst gewilliget, und zu hinlegung <br/>
+<span class="lineNumber">26</span>und stillung der in dem <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e1083">Königreich Hungern</button> ent-<br/>
+<span class="lineNumber">27</span>standenen unruhe un[d] empörung, uns vollkommene <br/>
+<span class="lineNumber">28</span>macht und gewalt ubergeben, inmassen dann auch <br/>
+<span class="lineNumber">29</span>dazumal, vermittelst <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e1100">Ihr Key[serlichen] und Kön[iglichen] Maj[estät]</button> ge-<br/>
+<span class="lineNumber">30</span>heimben, und andern Räthen und <span class="antiqua">Commissarien, <br/><span class="lineNumber">31</span>tractat</span> un[d] handlung hierüber gepflogen, auch end-<br/>
+<span class="lineNumber">31</span>tractat
+<span class="lineNumber">32</span>lichen zum beschluß gebracht, von beyder teylen Co[m]-<br/>
+<span class="lineNumber">33</span>missarien unterschrieben, und mit auffgedruckten <br/>
+<span class="lineNumber">34</span>iren Insiegeln bestercket und bekrefftiget worden.
+<span class="lineNumber">35</span>Alldieweil aber auff des Hoch und wolgebornen <br/>
+<span class="lineNumber">36</span>Herrn <button class="entity #bocskai_stephan person" data-ref="bocskai_stephan" data-type="person" id="d2e1143">Steffan Botzkay</button> von <button class="entity #kismarja place" data-ref="kismarja" data-type="place" id="d2e1147">Kißmaria</button> seiten, <br/>
+<span class="lineNumber">37</span>und seiner <span class="antiqua">Adhaerenten</span> von <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e1157">Hungern</button>, noch etliche <br/>
+<span class="lineNumber">38</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000004.tif.original.jpg" id="p-A2v"> [Blatt: A2<span class="rectoVerso">v</span> ] </button>Irrung und <span class="antiqua">Difficulteten</span> hinderblieben, und dan <br/>
+<span class="lineNumber">39</span>der Wolgeborne Herr <button class="entity #illeshazy_istvan person" data-ref="illeshazy_istvan" data-type="person" id="d2e1171">Stephanus Illiashasi</button> von <br/>
+<span class="lineNumber">40</span><button class="entity #eliasovce place" data-ref="eliasovce" data-type="place" id="d2e1178">Illieshaza</button>, Graff zu <button class="entity #liptau_komitat place" data-ref="liptau_komitat" data-type="place" id="d2e1181">Liptow</button> und <button class="entity #trentschin_komitat place" data-ref="trentschin_komitat" data-type="place" id="d2e1185">Trinschin</button>, sampt <br/>
+<span class="lineNumber">41</span>andern seinen zugeordenten Adel, als <button class="entity #vizkelety_tamas person" data-ref="vizkelety_tamas" data-type="person" id="d2e1192">Thoma Witz-</button><br/>
+<span class="lineNumber">42</span><button class="entity #vizkelety_tamas person" data-ref="vizkelety_tamas" data-type="person" id="d2e1192">kelety</button> von <button class="entity #cierny_brod place" data-ref="cierny_brod" data-type="place" id="d2e1201">Witzkelet</button>, <button class="entity #ostrozic_andras person" data-ref="ostrozic_andras" data-type="person" id="d2e1204">Andrea Ostrossit</button> von <button class="entity #giletinci place" data-ref="giletinci" data-type="place" id="d2e1208">Gilet-</button><br/>
+<span class="lineNumber">43</span><button class="entity #giletinci place" data-ref="giletinci" data-type="place" id="d2e1208">nitz</button> und <button class="entity #apponyi_pal person" data-ref="apponyi_pal" data-type="person" id="d2e1216">Paulo Apponi</button> von Nad <button class="entity #oponice place" data-ref="oponice" data-type="place" id="d2e1219">Appon</button>, in gnug-<br/>
+<span class="lineNumber">44</span>samer und volkommener macht und gewalt, bey uns <br/>
+<span class="lineNumber">45</span>zu <button class="entity #wien place" data-ref="wien" data-type="place" id="d2e1233">Wien</button> alhier angelanget.
+<span class="lineNumber">46</span>Das wir derwegen, aus obbemelter uns aufge-<br/>
+<span class="lineNumber">47</span>tragenen gewalts volkommenheit, zu nutz und wol-<br/>
+<span class="lineNumber">48</span>fart der Christenheit<span class="orig">,</span> und gemeinen friedens<span class="orig">,</span> undt <br/>
+<span class="lineNumber">49</span>zu erhaltung dieses <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e1263">König Reichs</button>, damit es nicht <br/>
+<span class="lineNumber">50</span>durch innerliche zwitracht un[d] uneinigkeit möchte in <br/>
+<span class="lineNumber">51</span>verderb geraten, und man der mal eins mit so viel <br/>
+<span class="lineNumber">52</span>und mancherley Blutvergiessen in der Christenheit <br/>
+<span class="lineNumber">53</span>verschonet sein, die benachbarten Künigreich und <br/>
+<span class="lineNumber">54</span>Landschafften auch von den stetwerenden einfallen <br/>
+<span class="lineNumber">55</span>erlediget<span class="orig">,</span> und mit der Kron <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e1288">Hungern</button> wiederumb <br/>
+<span class="lineNumber">56</span>zur ruh und krefften kommen, gnedigst geruhet<span class="orig">,</span> und <br/>
+<span class="lineNumber">57</span>unser einwilligung hierüber gegeben, das solche ir-<br/>
+<span class="lineNumber">58</span>rung und <span class="antiqua">difficulteten</span>, so von d[er] ersten handlung <br/>
+<span class="lineNumber">59</span>noch hinderstellig verbliebe[n], ander weit vor die hand <br/>
+<span class="lineNumber">60</span>genommen, <span class="antiqua">tractiret</span><span class="orig">,</span> gehandelt<span class="orig">,</span> und zu grun-<br/>
+<span class="lineNumber">61</span>de hingeleget und verglichen werden möchten: In-<br/>
+<span class="lineNumber">62</span>massen dan dieselben durch hernach benandte, die <br/>
+<span class="lineNumber">63</span>Hoch und wolgeborne und Edle Herren, <button class="entity #trautson_paul_sixt person" data-ref="trautson_paul_sixt" data-type="person" id="d2e1341">Paul </button><br/>
+<span class="lineNumber">64</span><button class="entity #trautson_paul_sixt person" data-ref="trautson_paul_sixt" data-type="person" id="d2e1341">Sixt Trautson</button>, Graffen zu <button class="entity #falkenstein_grafschaft place" data-ref="falkenstein_grafschaft" data-type="place" id="d2e1347">Falckenstein</button>, Freyherrn <br/>
+<span class="lineNumber">65</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000005.tif.original.jpg" id="p-A3r"> [Blatt: A3<span class="rectoVerso">r</span> ] </button>zu <button class="entity #sprechenstein place" data-ref="sprechenstein" data-type="place" id="d2e1354">Sprechen</button> und <button class="entity #schroffenstein_ruine place" data-ref="schroffenstein_ruine" data-type="place" id="d2e1357">Schroffenstein</button>, Herrn zu <button class="entity #kaja_ruine place" data-ref="kaja_ruine" data-type="place" id="d2e1361">Kaya</button> <br/>
+<span class="lineNumber">66</span>und <button class="entity #laa_taya place" data-ref="laa_taya" data-type="place" id="d2e1367">Laa</button>, Erbmarschalln der Graffschafft <button class="entity #tirol_grafschaft place" data-ref="tirol_grafschaft" data-type="place" id="d2e1370">Tyrol</button>; <button class="entity #liechtenstein_karl_von person" data-ref="liechtenstein_karl_von" data-type="person" id="d2e1373">Ca-</button><br/>
+<span class="lineNumber">67</span><button class="entity #liechtenstein_karl_von person" data-ref="liechtenstein_karl_von" data-type="person" id="d2e1373">roln von Lichtenstein</button> zu <button class="entity #nikolsburg place" data-ref="nikolsburg" data-type="place" id="d2e1383">Niclasburg</button>, <button class="entity #cerna_hora place" data-ref="cerna_hora" data-type="place" id="d2e1386">Czernahor</button> <br/>
+<span class="lineNumber">68</span>und <button class="entity #boskovice place" data-ref="boskovice" data-type="place" id="d2e1392">Biskopitz</button>, des Marggrafthumbs <button class="entity #maehren_markgrafschaft place" data-ref="maehren_markgrafschaft" data-type="place" id="d2e1395">Mähren</button> <br/>
+<span class="lineNumber">69</span><span class="antiqua">General</span> Capitän; <button class="entity #molart_ernst_von person" data-ref="molart_ernst_von" data-type="person" id="d2e1404">Ernst von Molart</button>, Freyherrn <br/>
+<span class="lineNumber">70</span>zu <button class="entity #reinegg place" data-ref="reinegg" data-type="place" id="d2e1410">Reineck</button> und <button class="entity #drosendorf place" data-ref="drosendorf" data-type="place" id="d2e1413">Drossendorff</button>, Stadthalter der <br/>
+<span class="lineNumber">71</span>Regiru[n]g <button class="entity #oesterreich_unter_der_enns_erzherzogtum place" data-ref="oesterreich_unter_der_enns_erzherzogtum" data-type="place" id="d2e1420">Nieder Oster Reichischen teyls</button><span class="orig">:</span><span class="reg">;</span> <button class="entity #breiner_siegfried_christoph person" data-ref="breiner_siegfried_christoph" data-type="person" id="d2e1425">Siegfried </button><br/>
+<span class="lineNumber">72</span><button class="entity #breiner_siegfried_christoph person" data-ref="breiner_siegfried_christoph" data-type="person" id="d2e1425">Christoff Preiner</button>, Freyherr zu <button class="entity #kleinstuebing place" data-ref="kleinstuebing" data-type="place" id="d2e1431">Stübing</button>, <button class="entity #fladnitz place" data-ref="fladnitz" data-type="place" id="d2e1434">Fladnitz</button> <br/>
+<span class="lineNumber">73</span>und <button class="entity #rabenstein place" data-ref="rabenstein" data-type="place" id="d2e1441">Tobenstein</button>, <button class="entity #oesterreich_unter_der_enns_erzherzogtum place" data-ref="oesterreich_unter_der_enns_erzherzogtum" data-type="place" id="d2e1444">Nieder Osterreichischen</button> Cam-<br/>
+<span class="lineNumber">74</span>mer Presidenten; <button class="entity #erdoedy_tamas person" data-ref="erdoedy_tamas" data-type="person" id="d2e1454">Thomam Erde-</button><br/>
+<span class="lineNumber">75</span><button class="entity #erdoedy_tamas person" data-ref="erdoedy_tamas" data-type="person" id="d2e1454">di</button> von <button class="entity #eberau place" data-ref="eberau" data-type="place" id="d2e1463">Madierauckereck</button>, Erbgraffen <button class="entity #moslavina place" data-ref="moslavina" data-type="place" id="d2e1467">Montis </button><br/>
+<span class="lineNumber">76</span><button class="entity #moslavina place" data-ref="moslavina" data-type="place" id="d2e1467">Claudii</button>, in der Graffschafft <button class="entity #varasdin_komitat place" data-ref="varasdin_komitat" data-type="place" id="d2e1475">Warazdien</button>, Graffen <br/>
+<span class="lineNumber">77</span>zu Traucznitz<a class="fnNumber" href="#F_1" id="A_1">1</a>: <button class="entity #thurzo_gyoergy person" data-ref="thurzo_gyoergy" data-type="person" id="d2e1487">Georg Thurzo</button> von <button class="entity #betlanovce place" data-ref="betlanovce" data-type="place" id="d2e1491">Bethlem Falva</button>, <br/>
+<span class="lineNumber">78</span>Frey und Erb Graffen von <button class="entity #arva place" data-ref="arva" data-type="place" id="d2e1499">Arva</button>, und Ober Graffe[n] <br/>
+<span class="lineNumber">79</span>des Truchsessen Ampts in der Graffschafft <button class="entity #arva place" data-ref="arva" data-type="place" id="d2e1506">Arve</button>: <br/>
+<span class="lineNumber">80</span><button class="entity #forgacs_zsigmond person" data-ref="forgacs_zsigmond" data-type="person" id="d2e1511">Sigismundum Forgatz</button> von <button class="entity #jelenec place" data-ref="jelenec" data-type="place" id="d2e1515">Ghymes</button>, Grafen zu <br/>
+<span class="lineNumber">81</span><button class="entity #neograd_komitat place" data-ref="neograd_komitat" data-type="place" id="d2e1522">Nogradie</button> , Hochmeistern des Künigliche[n] Erbschenck <br/>
+<span class="lineNumber">82</span>Ampts in <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e1530">Hungern</button>, und <button class="entity #kremberg_ulrich_von person" data-ref="kremberg_ulrich_von" data-type="person" id="d2e1533">Ulrich von Krenberg</button> <br/>
+<span class="lineNumber">83</span>in <button class="entity #neuwaldegg place" data-ref="neuwaldegg" data-type="place" id="d2e1540">Nayvolyk</button> , <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e1545">I[hrer] Key[serlichen] und Kün[iglichen] Maj[estät]</button> geheimbe <br/>
+<span class="lineNumber">84</span>und andere Räthe, so zu diesen Sachen gezogen und <br/>
+<span class="lineNumber">85</span>gebraucht, nachfolgender gestalt, von beyden they-<br/>
+<span class="lineNumber">86</span>len <span class="antiqua">accordirt</span> und verglichen worden.
+<span class="lineNumber">87</span>Auff den ersten Artickel.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">88</span>Was nun die <span class="antiqua">Religions</span> händel anlanget, Ist <br/>
+<span class="lineNumber">89</span>unvorhindert der hie vorigen, nach gelegenheit der <br/>
+<span class="lineNumber">90</span>zeit offentlichen ausgangenen <span class="antiqua">Constitutionen</span>, noch <br/>
+<span class="lineNumber">91</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000006.tif.original.jpg" id="p-A3v"> [Blatt: A3<span class="rectoVerso">v</span> ] </button>auch des letzten <span class="antiqua">Articuls</span> im 1604. Jare, sinte-<br/>
+<span class="lineNumber">92</span>mal derselbe ausserhalb des Rakusch, oder gemeinen <br/>
+<span class="lineNumber">93</span>Reichs versamlung, und also ohne der Reichs In-<br/>
+<span class="lineNumber">94</span>woner gemeinen <span class="antiqua">assens</span> und bewilligung hinzuge-<br/>
+<span class="lineNumber">95</span>setzt, und derwegen auch wiederumb aufzuheben, <br/>
+<span class="lineNumber">96</span><span class="antiqua">deliberirt</span> und beschlossen, das nach Inhalt <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e1629">I[hrer] </button><br/>
+<span class="lineNumber">97</span><button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e1629">Key[serlichen] und Kön[iglichen] Maj[estät]</button> vorigen <span class="antiqua">resolution</span>, darauff <br/>
+<span class="lineNumber">98</span>sich auch die Reichs Inhaber in ihrer <span class="antiqua">Replica</span> <span class="antiqua">re-<br/><span class="lineNumber">99</span>feriren</span> und ziehen thun, Als das sie alle und jede <br/>
+<span class="lineNumber">99</span>feriren
+<span class="lineNumber">100</span>Orden und Stende<span class="orig">,</span> des <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e1659">Hungerischen Kreises</button>, <br/>
+<span class="lineNumber">101</span>so wol die Obern, Herren und Adel Standes, als <br/>
+<span class="lineNumber">102</span>auch die Stedte<span class="orig">,</span> und andere <span class="antiqua">Privilegirte</span> Orter, <br/>
+<span class="lineNumber">103</span>ohn alle mittel zur Cron <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e1677">Hungern</button> gehörig, inglei-<br/>
+<span class="lineNumber">104</span>chen auf den Gräntzen des <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e1687">König Reichs</button> die Hun-<br/>
+<span class="lineNumber">105</span>gerischen Kriegsleute, in irer <span class="antiqua">Religion</span> und <span class="antiqua">Con-<br/><span class="lineNumber">106</span>fession</span> mit nichten und an keinem Ort nicht zu <span class="antiqua">tur-<br/><span class="lineNumber">107</span>biren</span>, noch von andern <span class="antiqua">turbiret</span> od[er] gehindert zu <br/>
+<span class="lineNumber">106</span>fession
+<span class="lineNumber">107</span>biren
+<span class="lineNumber">108</span>werde[n], gestatten wollen: Sondern sol einem jedem<a class="fnNumber" href="#F_a" id="A_a">a</a> <br/>
+<span class="lineNumber">109</span>unter vorbenandten orden un[d] Stenden freye ubung <br/>
+<span class="lineNumber">110</span>und <span class="antiqua">exercitium</span> seiner <span class="antiqua">Religion</span> vergundt und <br/>
+<span class="lineNumber">111</span>zugelassen seyn: <br/>
+<span class="lineNumber">112</span>Jedoch ohne einig <span class="antiqua">Praeiudiciu[m]</span> der Catholische[n] Rö-<br/>
+<span class="lineNumber">113</span>mischen <span class="antiqua">Religion</span>, das auch die Clerisey, Kirchen <br/>
+<span class="lineNumber">114</span>und Gottes heuser der Römischen Catholischen un-<br/>
+<span class="lineNumber">115</span>berürt und frey gelassen, und das jenige, so ihnen <br/>
+<span class="lineNumber">116</span>diese unruhige zeit uber eingenommen<span class="orig">,</span> und entzo-<br/>
+<span class="lineNumber">117</span>gen worden, wiederumb eingereumet und zugestelt <br/>
+<span class="lineNumber">118</span>werden möchte.
+<span class="lineNumber">119</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000007.tif.original.jpg" id="p-A4r"> [Blatt: A4<span class="rectoVerso">r</span> ] </button>Auff den Andern.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">120</span>Dieses Artickels halben bleibet es bey deß hiebe-<br/>
+<span class="lineNumber">121</span>vorigen <span class="antiqua">Tractats</span>, und handlungs beschluß, das <br/>
+<span class="lineNumber">122</span>nemlich zugleich mit den Hungern unnd Türcken, <br/>
+<span class="lineNumber">123</span>fried und vergleichung getroffen werden möchte.
+<span class="lineNumber">124</span>Auff den Dritten.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">125</span>Auff ehester<span class="reg">,</span> nechstbevorstehender Diaet oder <br/>
+<span class="lineNumber">126</span>Reichs-versamlung, sol ein Woywoda <span class="antiqua">elegirt</span> un[d] <br/>
+<span class="lineNumber">127</span>gekoren werden, nach seiner <span class="antiqua">dignitet</span> und würden, <br/>
+<span class="lineNumber">128</span>wie vor alters gebreuchlich gewesen. Dieweil aber <br/>
+<span class="lineNumber">129</span><button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e1844">I[hre] Key[serliche] und Kün[igliche] Maj[estät]</button> wegen vielfeltiger, teglich <br/>
+<span class="lineNumber">130</span>vorfallender Reichs geschefften in der Christenheit <br/>
+<span class="lineNumber">131</span>ihre <span class="antiqua">residentz</span> in <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e1857">Hungern</button> oder andern benach-<br/>
+<span class="lineNumber">132</span>barten Orten nicht haben können, und damit die <br/>
+<span class="lineNumber">133</span>Reichs Inwoner nicht von nöten, einer jedern sa-<br/>
+<span class="lineNumber">134</span>chen halben sich nach <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e1878">I[hrer] Maj[estät]</button> weit entlegenen Re-<br/>
+<span class="lineNumber">135</span>sidentz oder Hoffhaltungs stelle zubegeben, und der-<br/>
+<span class="lineNumber">136</span>wegen schwere unkosten zu treiben, da dan <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e1895">I[hre] May[estät]</button> <br/>
+<span class="lineNumber">137</span>die Hungerischen Räthe nicht alzeit bey der handt <br/>
+<span class="lineNumber">138</span>haben können: Ist derwegen bedacht und dahin ge-<br/>
+<span class="lineNumber">139</span>schlossen worde[n], d[as] <button class="entity #matthias_oesterreich person" data-ref="matthias_oesterreich" data-type="person" id="d2e1912">I[hre] Durchlauchtigkeit</button> volkom-<br/>
+<span class="lineNumber">140</span>mene macht und gewalt haben möge, Inmassen <br/>
+<span class="lineNumber">141</span>dan ihr derselbe unlengst, durch die <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e1926">Key[serliche] Mai[estät]</button> allen-<br/>
+<span class="lineNumber">142</span>thalben volkomlich ubergeben un[d] auffgetragen wor-<br/>
+<span class="lineNumber">143</span>den, in sachen und geschefften des <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e1943">König Reichs </button><br/>
+<span class="lineNumber">144</span><button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e1943">Hungern</button>, und allem dem jenigen, was zu erhaltu[n]g <br/>
+<span class="lineNumber">145</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000008.tif.original.jpg" id="p-A4v"> [Blatt: A4<span class="rectoVerso">v</span> ] </button>und auffnemen des <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e1954">Künig Reichs</button>, und desselben <br/>
+<span class="lineNumber">146</span>Inwohner ruh, nutz und wolfart von nöten, durch <br/>
+<span class="lineNumber">147</span>einen Waywoden und Hungerische Räthe, anders <br/>
+<span class="lineNumber">148</span>nicht, als wan <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e1967">I[hre] Key[serliche] und Kün[igliche] Maj[estät]</button> selbst Per-<br/>
+<span class="lineNumber">149</span>sonlich zugegen, alles zu <span class="antiqua">proponiren</span>, verhören, <br/>
+<span class="lineNumber">150</span><span class="antiqua">tractiren</span> und handeln, <span class="antiqua">Disponiren</span>, richten und <br/>
+<span class="lineNumber">151</span>entscheyden zulassen. <br/>
+<span class="lineNumber">152</span>Der Itzt noch anwesende aber sol in seiner vorige[n] <br/>
+<span class="lineNumber">153</span>stelle mit seiner Personlichen gegenwart verbleiben: <br/>
+<span class="lineNumber">154</span>doch der gestalt, das der hinfüro nach des <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e2004">Künig </button><br/>
+<span class="lineNumber">155</span><button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e2004">reichs</button> <span class="antiqua">Statuten eligirt</span> un[d] bestetiget werde[n] müge.
+<span class="lineNumber">156</span>Auf den Vierdten.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">157</span>Des <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e2025">Königreichs</button> Inwoner <span class="antiqua">Suppliciren</span> noch <br/>
+<span class="lineNumber">158</span>fort bey <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e2034">I[hrer] Mai[estät]</button>, das dieselbe, so bald die itzigen <br/>
+<span class="lineNumber">159</span>leuffte ein wenig wieder zur ruh gebracht, die Cron <br/>
+<span class="lineNumber">160</span>wiederumb gen <button class="entity #pressburg place" data-ref="pressburg" data-type="place" id="d2e2044">Preßburg</button> in <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e2047">Hungern</button>, wie bey <br/>
+<span class="lineNumber">161</span>andern Königreichen herkommen und gebreuchlich, <br/>
+<span class="lineNumber">162</span>bringen und hinderlegen wolten.
+<span class="lineNumber">163</span>Auf den Fünften.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">164</span>Den Schatzmeister belangende, bleibet es mit <br/>
+<span class="lineNumber">165</span>diesem Artickel gleichsfalls, wie in der vorigen <span class="antiqua">tra-<br/><span class="lineNumber">166</span>ctation</span> geschlossen, das dieser Schatzmeister, er <br/>
+<span class="lineNumber">166</span>ctation
+<span class="lineNumber">167</span>werde nun Einnemer der Königlichen einkommen, <br/>
+<span class="lineNumber">168</span>oder vorgesetzter, oder mit anderm name[n] genen[n]et, <br/>
+<span class="lineNumber">169</span>mit sampt den andern seine[n] zugeordenten sich durch-<br/>
+<span class="lineNumber">170</span>aus in nichtes, so die Reichs Regirung betreffen <br/>
+<span class="lineNumber">171</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000009.tif.original.jpg" id="p-B1r"> [Blatt: B1<span class="rectoVerso">r</span> ] </button>thut, einlassen sol, sondern allein mit den Reichs <br/>
+<span class="lineNumber">172</span>einkommen zu thun haben. <br/>
+<span class="lineNumber">173</span>Inmassen dan auch beschlossen worden, das hin-<br/>
+<span class="lineNumber">174</span>füro, je un[d] alzeit, geborne Hungern hierzu erwehlet, <br/>
+<span class="lineNumber">175</span>auch zu den gemeinen Reichs <span class="antiqua">Contributionen</span>, <br/>
+<span class="lineNumber">176</span>die Inwohner desselben<span class="orig">,</span> nach alten gebrauch<span class="orig">,</span> ihre so[n]-<br/>
+<span class="lineNumber">177</span>derbare Einnemer und Pfennig-Meister, so inen <br/>
+<span class="lineNumber">178</span>belieben und gefellig, <span class="antiqua">eligiren</span> un[d] haben mügen.
+<span class="lineNumber">179</span>Was die beyden Bischoffe, den zu <button class="entity #erlau place" data-ref="erlau" data-type="place" id="d2e2147">Erlaw</button><span class="orig">,</span> und <br/>
+<span class="lineNumber">180</span>den zu <button class="entity #oradea place" data-ref="oradea" data-type="place" id="d2e2158">Waradin</button><span class="reg">,</span> anreichen thut, sollen sich diesel-<br/>
+<span class="lineNumber">181</span>ben mittler dessen von den Reichsgeschefften<span class="orig">,</span> gentz-<br/>
+<span class="lineNumber">182</span>lichen enthalten, biß das ihre sachen zu Recht ent-<br/>
+<span class="lineNumber">183</span>schieden, oder gebürlichen hingelegt und verglichen.
+<span class="lineNumber">184</span>Auf den Sechsten.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">185</span>Mit diesem Artickel bleibet es auch bey dem vori-<br/>
+<span class="lineNumber">186</span>gen beschluß, das nemlich <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e2206">I[hrer] Key[serlichen] und Kön[iglichen] Maj[estät]</button> <br/>
+<span class="lineNumber">187</span><span class="antiqua">autoritet</span> und gewalt nichts entzogen werde, Es <br/>
+<span class="lineNumber">188</span>stehet zu <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e2218">I[hrer] Mai[estät]</button> gefallen, was sie vor Bischoffe <span class="antiqua">eli-<br/><span class="lineNumber">189</span>giren</span> und wehlen wollen<span class="orig">:</span><span class="reg">;</span> jedoch das kein andere <br/>
+<span class="lineNumber">189</span>giren
+<span class="lineNumber">190</span>hierinnen zu recht gezogen, dan Bischoffliche Per-<br/>
+<span class="lineNumber">191</span>sonen, oder die, so Bischoffliche Recht und Gütter <br/>
+<span class="lineNumber">192</span>in besitz haben, das auch <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e2246">I[hre] Maj[estät]</button> gnedigst darauff <br/>
+<span class="lineNumber">193</span>bedacht sein werden, das<span class="reg">,</span> wie hiebevorn allzeit, al-<br/>
+<span class="lineNumber">194</span>so auch hinfüro die vor andern in acht genommen, <br/>
+<span class="lineNumber">195</span>so von Edlem Stamme und herkom[m]en hierzu taug-<br/>
+<span class="lineNumber">196</span>lich. Was aber in sonderheit von den Bischoffen, so <br/>
+<span class="lineNumber">197</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000010.tif.original.jpg" id="p-B1v"> [Blatt: B1<span class="rectoVerso">v</span> ] </button>Graff und Herrschafften unter sich haben, vermel-<br/>
+<span class="lineNumber">198</span>det wird, und ob dergleichen Geistliche Personen, <br/>
+<span class="lineNumber">199</span>auch Weltliche <span class="antiqua">digniteten</span> und Herrschafften in-<br/>
+<span class="lineNumber">200</span>haben und besitzen mögen, darauff werden sich die <br/>
+<span class="lineNumber">201</span><button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e2300">Kün[igliche] Maj[estät]</button> und Reichsstende in kunfftiger Diaet <br/>
+<span class="lineNumber">202</span>oder Reichsversamlung entschlissen, jedoch sol es <br/>
+<span class="lineNumber">203</span>mit den <span class="antiqua">Praeposituren</span> und Apteyen in seinem vori-<br/>
+<span class="lineNumber">204</span>gen stand und <span class="antiqua">fundation</span> verbleiben. <br/>
+<span class="lineNumber">205</span>Und dieweil in de[m] Anhang dieses Artickels auch <br/>
+<span class="lineNumber">206</span>der Stedte <button class="entity #modra place" data-ref="modra" data-type="place" id="d2e2330">Modor</button>, <button class="entity #svaety_jur place" data-ref="svaety_jur" data-type="place" id="d2e2334">S[ankt] Georgi</button> und <button class="entity #pezinok place" data-ref="pezinok" data-type="place" id="d2e2338">Bozin</button> meldu[n]g <br/>
+<span class="lineNumber">207</span>geschicht, Ob nemlich dieselben unter den<a class="fnNumber" href="#F_b" id="A_b">b</a> <span class="antiqua">Praelaten</span>, <br/>
+<span class="lineNumber">208</span>Herren, Edelen, Orden und Stenden dieses <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e2354">König-</button><br/>
+<span class="lineNumber">209</span><button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e2354">reichs</button> mit sitzen<span class="orig">,</span> und ihre <span class="antiqua">vota</span> und stimmen geben <br/>
+<span class="lineNumber">210</span>mögen<span class="orig">,</span><span class="reg">.</span> Diese ihre gantze sach wirdt zu ferner be-<br/>
+<span class="lineNumber">211</span>rathschlagung und <span class="antiqua">resolution</span> <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e2384">I[hrer] Maj[estät]</button> dan auch <br/>
+<span class="lineNumber">212</span>der Orden und Stende dieses <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e2391">Künigreichs</button>, biß auf <br/>
+<span class="lineNumber">213</span>den nechsten Rakusch oder Reichstag verschoben, <br/>
+<span class="lineNumber">214</span>von Güttern aber werden <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e2400">I[hre] Key[serliche] und Kön[igliche] Maj[estät]</button> <br/>
+<span class="lineNumber">215</span>den <span class="antiqua">Com[m]uniteten</span> oder Gemeinden, vermöge der <br/>
+<span class="lineNumber">216</span>Weiland Keyser <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e2413">Ferdinandi</button> etc[etera] Hochmildseligster <br/>
+<span class="lineNumber">217</span>gedechnus <span class="antiqua">Anno</span> 1542. offentlich ausgangenen <br/>
+<span class="lineNumber">218</span><span class="antiqua">Statuten</span>, nichts <span class="antiqua">conferiren</span>.
+<span class="lineNumber">219</span>Auf den Siebenden.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">220</span>Dieser Artickel wird gleichsfals nach des vori-<br/>
+<span class="lineNumber">221</span>gen <span class="antiqua">Tractats</span> beschluß<a class="fnNumber" href="#F_c" id="A_c">c</a> <span class="antiqua">confirmiret</span> und bestetiget, <br/>
+<span class="lineNumber">222</span>das die Geistlichen Sitze auch sollen bleiben, jedoch<span class="reg">,</span>
+<span class="lineNumber">223</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000011.tif.original.jpg" id="p-B2r"> [Blatt: B2<span class="rectoVerso">r</span> ] </button>da bey denselben etliche mißbreuche eingerissen, <br/>
+<span class="lineNumber">224</span>kön[n]en dieselben auf der nechsten <span class="antiqua">diaet</span> oder versam-<br/>
+<span class="lineNumber">225</span>lung <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e2483">I[hrer] Maj[estät]</button> und den Reichs Stenden <span class="antiqua">proponirt, <br/><span class="lineNumber">226</span>limitirt</span> und geendert werden.
+<span class="lineNumber">226</span>limitirt
+<span class="lineNumber">227</span>Auf den Achten.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">228</span>Die Hungern seindt nicht zu frieden, das die Je-<br/>
+<span class="lineNumber">229</span>suiter einig<span class="reg">,</span> bestendig oder besitzlich Recht im <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e2514">König-</button><br/>
+<span class="lineNumber">230</span><button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e2514">reich Hungern</button> haben und besitzen mögen, jedoch so <br/>
+<span class="lineNumber">231</span>viel die Clausuln der <span class="antiqua">Donatialien</span> anlanget, lasse[n] <br/>
+<span class="lineNumber">232</span>es <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e2533">I[hre] Maj[estät]</button> bey den Küniglichen Rechten bewende[n], <br/>
+<span class="lineNumber">233</span>das solche <span class="antiqua">Donationes</span> un[d] ubergabe nach de[s] <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e2543">Reichs</button> <br/>
+<span class="lineNumber">234</span><span class="antiqua">Decreten</span> wie vor alters gebreuchlich, geschehen <br/>
+<span class="lineNumber">235</span>mögen.
+<span class="lineNumber">236</span>Auf den Neundten und Zehenden.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">237</span>Die <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e2565">Röm[ische] Key[serliche] und Kün[igliche] Maj[estät]</button> wollen hinfüro <br/>
+<span class="lineNumber">238</span>die Cron <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e2571">Hungern</button> sampt ihren zugehörigen Künig-<br/>
+<span class="lineNumber">239</span>reichen, <button class="entity #slawonien place" data-ref="slawonien" data-type="place" id="d2e2582">Sclavonien</button>, <button class="entity #kroatien_koenigreich place" data-ref="kroatien_koenigreich" data-type="place" id="d2e2585">Crabaten</button> und <button class="entity #dalmatien place" data-ref="dalmatien" data-type="place" id="d2e2588">Dalmatien</button> <br/>
+<span class="lineNumber">240</span>mit gebornen Hungern<span class="orig">,</span> und ihnen unterworffenen <br/>
+<span class="lineNumber">241</span>und zugehörigen <span class="antiqua">Nationen</span> besetzen, deßgleichen <br/>
+<span class="lineNumber">242</span>wollen sie alle obere und niedere Reichs Empter, <br/>
+<span class="lineNumber">243</span>so wol auch die außländischen<span class="orig">,</span> und Gränitz Empter <br/>
+<span class="lineNumber">244</span>nach dem Hungerischen Rath und gutbedencken, <br/>
+<span class="lineNumber">245</span>den Hungern und ihren zugethanen hierzu taugli-<br/>
+<span class="lineNumber">246</span>chen <span class="antiqua">Nationen</span>, ohne einig unterscheidt der <span class="antiqua">Religio[n], <br/><span class="lineNumber">247</span>conferiren</span> und ein reumen, jedoch, da es <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e2637">I[hre] Maj[estät]</button> <br/>
+<span class="lineNumber">247</span>conferiren
+<span class="lineNumber">248</span>also vor gut ansehen, mögen sie die beyder seits an-<br/>
+<span class="lineNumber">249</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000012.tif.original.jpg" id="p-B2v"> [Blatt: B2<span class="rectoVerso">v</span> ] </button>grentzenden Empter gegen der <button class="entity #donau_river place" data-ref="donau_river" data-type="place" id="d2e2651">Donau</button>, ihres gefal-<br/>
+<span class="lineNumber">250</span>lens, auch mit rath anderer benachbarten und wol <br/>
+<span class="lineNumber">251</span>verdienten <span class="antiqua">Provincien</span> bestellen.
+<span class="lineNumber">252</span>Auf den Eilfften.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">253</span>Dieses Artickels halben<span class="reg">,</span> von dem <span class="antiqua">Palatino</span> oder <br/>
+<span class="lineNumber">254</span>Woywoden, ist droben im dritten Artickel verord-<br/>
+<span class="lineNumber">255</span>nung geschehen, jedoch mit diesem hinzugesetzten an-<br/>
+<span class="lineNumber">256</span>hang, das die klagende Partheye[n], ire <span class="antiqua">iniurien</span><span class="orig">,</span> nach <br/>
+<span class="lineNumber">257</span>ordnung der Rechte <span class="antiqua">prosequiren</span>, un[d] keiner, er sey <br/>
+<span class="lineNumber">258</span>dan ordentlicher weiß <span class="antiqua">citiret</span><span class="orig">,</span> und mit Recht uber-<br/>
+<span class="lineNumber">259</span>wiesen, gestrafft werde[n] sol. Und damit dieses auch <br/>
+<span class="lineNumber">260</span>nicht ubergangen werde, so sollen auch die Reichs <br/>
+<span class="lineNumber">261</span><span class="antiqua">decreta</span>, so bey dieser itzigen unruhe, durch mancher-<br/>
+<span class="lineNumber">262</span>ley erfolgte Reichs <span class="antiqua">Constitution</span>, den alten <span class="antiqua">Statu-<br/><span class="lineNumber">263</span>ten</span> und ordnung in viel wege <span class="antiqua">contrari</span> und zu wie-<br/>
+<span class="lineNumber">263</span>ten
+<span class="lineNumber">264</span>der sein, in nechstkunfftiger <span class="antiqua">Diaet</span> oder Reichs ver-<br/>
+<span class="lineNumber">265</span>samlung<span class="orig">,</span> nach den alten <span class="antiqua">Constitutionen</span> des 1550., <br/>
+<span class="lineNumber">266</span>1553. und 1563. e[t]c[et]r[a] Jares<span class="orig">,</span> geendert und ver-<br/>
+<span class="lineNumber">267</span>bessert werden.
+<span class="lineNumber">268</span>Auf den Zwölfften.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">269</span>1. Herrn <button class="entity #illeshazy_istvan person" data-ref="illeshazy_istvan" data-type="person" id="d2e2803">Steffan Illiashasi</button> und <button class="entity #palffy_kata person" data-ref="palffy_kata" data-type="person" id="d2e2806">seines Weibs</button> <br/>
+<span class="lineNumber">270</span>sachen sollen verglichen, und sie gebürlichen <span class="antiqua">co[n]ten-<br/><span class="lineNumber">271</span>tirt</span> werden. <br/>
+<span class="lineNumber">271</span>tirt
+<span class="lineNumber">272</span>2. Der Dobonischen Erben hendel seind durch <br/>
+<span class="lineNumber">273</span><button class="entity #perenyi_zsofia person" data-ref="perenyi_zsofia" data-type="person" id="d2e2826"><span class="antiqua">Sophiam</span> Prigney</button>, als der vornembsten Erbin, <br/>
+<span class="lineNumber">274</span>mit <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e2835">I[hrer] Maj[estät]</button> <span class="antiqua">concordiret</span>. <br/>
+<span class="lineNumber">275</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000013.tif.original.jpg" id="p-B3r"> [Blatt: B3<span class="rectoVerso">r</span> ] </button>3. <button class="entity #homonnai_drugeth_gyoergy person" data-ref="homonnai_drugeth_gyoergy" data-type="person" id="d2e2846">Georg Homonay</button> ist vermüg der offentlichen <br/>
+<span class="lineNumber">276</span><span class="antiqua">Constitution condemnirt</span> worden: Das nun die <br/>
+<span class="lineNumber">277</span>Cammer ein unzeitige urteils <span class="antiqua">execution</span> ergehen <br/>
+<span class="lineNumber">278</span>lassen, solches ist <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e2864">I[hrer] Maj[estät]</button> nicht zu zumessen<span class="orig">:</span><span class="reg">.</span> Nichts <br/>
+<span class="lineNumber">279</span>desto weniger sollen hinfüro alle und jede <span class="antiqua">Sententz</span> <br/>
+<span class="lineNumber">280</span>und Urteil gebürlicher masse[n], nach inhalt der Reichs <br/>
+<span class="lineNumber">281</span><span class="antiqua">Decreten</span>, zur <span class="antiqua">execution</span> gebracht werden. <br/>
+<span class="lineNumber">282</span>4. Die Heuser <button class="entity #zvolen place" data-ref="zvolen" data-type="place" id="d2e2892">Zeilam</button> und <button class="entity #dobra_niva place" data-ref="dobra_niva" data-type="place" id="d2e2895">Diebrau</button>, sollen ver-<br/>
+<span class="lineNumber">283</span>mög der abteylung <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e2906">I[hrer] Key[serlichen] Maj[estät]</button> <button class="entity #dersffy_ferenc person" data-ref="dersffy_ferenc" data-type="person" id="d2e2909"><span class="antiqua">Francisco</span> Ders-</button><br/>
+<span class="lineNumber">284</span><button class="entity #dersffy_ferenc person" data-ref="dersffy_ferenc" data-type="person" id="d2e2909">fy</button>, dann auch <button class="entity #dersffy_miklos place" data-ref="dersffy_miklos" data-type="place" id="d2e2921">Nicklas Dersfy</button> <button class="entity #perenyi_borbala place" data-ref="perenyi_borbala" data-type="place" id="d2e2925">Hausfrauen</button> und <br/>
+<span class="lineNumber">285</span>Erben wieder eingeraumbt, oder aber d[er] meiste wert <br/>
+<span class="lineNumber">286</span>darvor <span class="antiqua">deponiret</span> und hinderleget werden. <br/>
+<span class="lineNumber">287</span>5. Der <span class="antiqua">General</span> Oberste <button class="entity #belgioioso_giovanni person" data-ref="belgioioso_giovanni" data-type="person" id="d2e2946"><span class="antiqua">Belgioiosa</span></button> hat von <br/>
+<span class="lineNumber">288</span><button class="entity #banffy_denes person" data-ref="banffy_denes" data-type="person" id="d2e2953"><span class="antiqua">Dionysio Banfy</span></button> 14000. Taler empfangen, mit <br/>
+<span class="lineNumber">289</span>diesen wollen sich <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e2964">I[hre] Maj[estät]</button> entweder mit Güttern, <br/>
+<span class="lineNumber">290</span>oder barem Gelde abfinden. <br/>
+<span class="lineNumber">291</span>6. Die Paleschianischen Gütter, sintemal die <br/>
+<span class="lineNumber">292</span><span class="antiqua">Successorn</span> und Erben, dieselben freywillig mit gel-<br/>
+<span class="lineNumber">293</span>de von <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e2986">I[hrer] May[estät]</button> erkaufft, bedürffen keiner <span class="antiqua">rectifi-<br/><span class="lineNumber">294</span>cation: Volenti enim non fit iniuria</span>. <br/>
+<span class="lineNumber">294</span>cation: Volenti enim non fit iniuria
+<span class="lineNumber">295</span>7. Die besitz der Gütter <button class="entity #resica place" data-ref="resica" data-type="place" id="d2e3002">Pechia</button> und <button class="entity #bohunice place" data-ref="bohunice" data-type="place" id="d2e3006">Bohonitz</button>, <br/>
+<span class="lineNumber">296</span>sowol auch die Deregnianischen Gütter sollen in <br/>
+<span class="lineNumber">297</span>nechstkunfftiger <span class="antiqua">Diaet</span>, von den <span class="antiqua">ordinari</span> Reichs <br/>
+<span class="lineNumber">298</span>Richtern, <span class="antiqua">Iure extraordinario revidirt</span> werden. <br/>
+<span class="lineNumber">299</span>8. Die Gütter <button class="entity #belin place" data-ref="belin" data-type="place" id="d2e3034">Pelleny</button>, <button class="entity #melek place" data-ref="melek" data-type="place" id="d2e3037">Melleck</button> und <button class="entity #cab place" data-ref="cab" data-type="place" id="d2e3040">Kapy</button> solle[n] <br/>
+<span class="lineNumber">300</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000014.tif.original.jpg" id="p-B3v"> [Blatt: B3<span class="rectoVerso">v</span> ] </button>gleichfals auf der nechsten <span class="antiqua">Diaet</span>, durch die ordent-<br/>
+<span class="lineNumber">301</span>lichen Richter, mit Recht, jedoch <span class="antiqua">extraordinarie <br/><span class="lineNumber">302</span>revidirt</span> werden. <br/>
+<span class="lineNumber">302</span>revidirt
+<span class="lineNumber">303</span>9. Die Gütter <button class="entity #nagykallo place" data-ref="nagykallo" data-type="place" id="d2e3067">Kalo</button>, haben <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e3072">I[hre] Maj[estät]</button> hiebevor <br/>
+<span class="lineNumber">304</span>ihren angehörigen Erben widerumb <span class="antiqua">cediret</span> und <br/>
+<span class="lineNumber">305</span>ubergeben. <br/>
+<span class="lineNumber">306</span>10. <button class="entity #magochy_ferenc person" data-ref="magochy_ferenc" data-type="person" id="d2e3088">Franciscum Makochii</button> und <button class="entity #homonnai_drugeth_balint person" data-ref="homonnai_drugeth_balint" data-type="person" id="d2e3091">Valentinum Ho-</button><br/>
+<span class="lineNumber">307</span><button class="entity #homonnai_drugeth_balint person" data-ref="homonnai_drugeth_balint" data-type="person" id="d2e3091">monay</button>, wollen <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e3100">I[hrer] Maj[estät]</button> von Rechtlicher Ansprach <br/>
+<span class="lineNumber">308</span>wegen der Vhestung <button class="entity #regec place" data-ref="regec" data-type="place" id="d2e3107">Regetz</button>, los und ledig zehlen, <br/>
+<span class="lineNumber">309</span>sintemal sie beyde sich auch sonsten mit <button class="entity #alagy_ferenc person" data-ref="alagy_ferenc" data-type="person" id="d2e3113">Francisco </button><br/>
+<span class="lineNumber">310</span><button class="entity #alagy_ferenc person" data-ref="alagy_ferenc" data-type="person" id="d2e3113">Alagky</button>, als dem Manlichen Erben verglichen. <br/>
+<span class="lineNumber">311</span>11. Was die Stadt <button class="entity #kosice place" data-ref="kosice" data-type="place" id="d2e3122">Kaschau</button> von den Königen <br/>
+<span class="lineNumber">312</span>in <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e3129">Hungern</button> vor alters hero vor Gütter uberkom-<br/>
+<span class="lineNumber">313</span>men, die sollen sie nach altem gebrauch, frey und un-<br/>
+<span class="lineNumber">314</span>gehindert in[n]en haben und besitzen. <br/>
+<span class="lineNumber">315</span>12. Die Celeidianischen Güter sollen auff kunf-<br/>
+<span class="lineNumber">316</span>tiger <span class="antiqua">Diaet</span> durch die <span class="antiqua">ordinari iudices</span>, mit Recht <br/>
+<span class="lineNumber">317</span><span class="antiqua">revedirt</span> werden. <br/>
+<span class="lineNumber">318</span>13. <button class="entity #nadasdy_tamas person" data-ref="nadasdy_tamas" data-type="person" id="d2e3174">Thomam Nadazdii</button>, wollen <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e3177">I[hre] Key[serliche] und Kön[igliche] </button><br/>
+<span class="lineNumber">319</span><button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e3177">Maj[estät]</button> weder wegen seiner Heyrat, noch auch seiner <br/>
+<span class="lineNumber">320</span>Gütter, mit Recht nicht hindern. <br/>
+<span class="lineNumber">321</span>14. Deßgleichen sol auch <button class="entity #rakoczi_zsigmond person" data-ref="rakoczi_zsigmond" data-type="person" id="d2e3190">Sigismundo Ragoczky</button> <br/>
+<span class="lineNumber">322</span>sowol auch dem Balaßischen Stam[m], von <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e3196">I[hrer] Maj[estät]</button> <br/>
+<span class="lineNumber">323</span>kein eintrag geschehen. <br/>
+<span class="lineNumber">324</span>15. <button class="entity #banffy_gaspar person" data-ref="banffy_gaspar" data-type="person" id="d2e3206">Caspar Bamfy</button> <button class="entity # person" data-ref="" data-type="person" id="d2e3209">Wittfrau</button>, so von <button class="entity #banffy_kristof person" data-ref="banffy_kristof" data-type="person" id="d2e3213">Christoff</button> <br/>
+<span class="lineNumber">325</span>und <button class="entity #banffy_gyoergy person" data-ref="banffy_gyoergy" data-type="person" id="d2e3220">Georg Bamfy</button>, alles deß ihren entsatzt, sol wie-<br/>
+<span class="lineNumber">326</span>derumb in <span class="antiqua">integrum restituirt</span> werden. <br/>
+<span class="lineNumber">327</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000015.tif.original.jpg" id="p-B4r"> [Blatt: B4<span class="rectoVerso">r</span> ] </button>16. Gleicher massen sol auch <button class="entity #balassa_zsigmond person" data-ref="balassa_zsigmond" data-type="person" id="d2e3237">Sigismu[n]dus Bal-</button><br/>
+<span class="lineNumber">328</span><button class="entity #balassa_zsigmond person" data-ref="balassa_zsigmond" data-type="person" id="d2e3237">lassa</button>, der wieder all natürlich Recht und billigkeit <br/>
+<span class="lineNumber">329</span><button class="entity # person" data-ref="" data-type="person" id="d2e3250">seiner Mutter leiblich Schwester</button><span class="orig">,</span> und seinen leib-<br/>
+<span class="lineNumber">330</span>lichen <button class="entity # person" data-ref="" data-type="person" id="d2e3261">Bruder</button> gefenglichen eingezogen, und aller <br/>
+<span class="lineNumber">331</span>ihrer Gütter, beweglich und unbeweglich, berau-<br/>
+<span class="lineNumber">332</span>bet, inen dieselben also bald wiederumb einreumen<span class="orig">,</span><span class="reg">.</span> <br/>
+<span class="lineNumber">333</span>In verbleibung dessen<span class="orig">,</span> soll er durch die <span class="antiqua">spolierten</span> <br/>
+<span class="lineNumber">334</span>Clegere<span class="orig">,</span> auf nechstkunfftigen Rakusch<span class="orig">,</span> <span class="antiqua">citiret</span> wer-<br/>
+<span class="lineNumber">335</span>den, die <span class="antiqua">ordinari</span> Reichs Richter diese Sachen <span class="antiqua">ex-<br/><span class="lineNumber">336</span>traordinarie assumiren, revidiren</span><span class="orig">,</span> und nach den <br/>
+<span class="lineNumber">336</span>traordinarie assumiren, revidiren
+<span class="lineNumber">337</span>Reichs <span class="antiqua">Decreten</span> und abschieden entscheiden.
+<span class="lineNumber">338</span>Auff den Dreyzehenden.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">339</span>Weil fast unmüglichen, solche und dergleichen <br/>
+<span class="lineNumber">340</span>verwendte und <span class="antiqua">spolierte</span>, bewegliche Gütter bey die-<br/>
+<span class="lineNumber">341</span>sen unruhigen zeiten wiederumb einzubekommen, <br/>
+<span class="lineNumber">342</span>So sol der schaden und verlust, so von allen theilen <br/>
+<span class="lineNumber">343</span>erfolget, dem gemeinen Landfrieden zum besten, <br/>
+<span class="lineNumber">344</span>hiemit in vergessenheit gestalt werden.
+<span class="lineNumber">345</span>Auff den Vierzehenden.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">346</span>Die <span class="antiqua">Donationes</span>, so durch Herrn <button class="entity #bocskai_stephan person" data-ref="bocskai_stephan" data-type="person" id="d2e3373">Botzkay</button> ge-<br/>
+<span class="lineNumber">347</span>schehen, weil derselben<a class="fnNumber" href="#F_d" id="A_d">d</a> etliche auß ungleiche[n] bericht<span class="orig">,</span> <br/>
+<span class="lineNumber">348</span>mit scheinbarlichen schaden un[d] nachteyl des Reichs, <br/>
+<span class="lineNumber">349</span>etliche aber auff andere weis <span class="antiqua">emaniret</span> un[d] erfolget, <br/>
+<span class="lineNumber">350</span>Als wil derwegen die notturfft erfordern, umb des <br/>
+<span class="lineNumber">351</span>gemeinen nutz willen, und zu erhaltu[n]g fried und ruh, <br/>
+<span class="lineNumber">352</span>und guter Freindschafft im Königreich <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e3408">Hungern</button>, <br/>
+<span class="lineNumber">353</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000016.tif.original.jpg" id="p-B4v"> [Blatt: B4<span class="rectoVerso">v</span> ] </button>das die Reichs Inwohner mit gemeinem einhellige[m] <br/>
+<span class="lineNumber">354</span>Rath solche Donationes auf nechstkunfftiger <span class="antiqua">Diaet <br/><span class="lineNumber">355</span>revidiren</span> und erwegen, und welche befunden, d[as] <br/>
+<span class="lineNumber">355</span>revidiren
+<span class="lineNumber">356</span>sie bestehen möchten, das dieselben in ihrem <span class="antiqua">vigore</span> <br/>
+<span class="lineNumber">357</span>und <span class="antiqua">esse</span> verbleiben. <br/>
+<span class="lineNumber">358</span>Die verschreibung aber<span class="orig">,</span> und die jenigen Gütter, <br/>
+<span class="lineNumber">359</span>so entweder durch Herrn <button class="entity #bocskai_stephan person" data-ref="bocskai_stephan" data-type="person" id="d2e3446">Botzkay</button>, oder <button class="entity #illeshazy_istvan person" data-ref="illeshazy_istvan" data-type="person" id="d2e3450">Steffan </button><br/>
+<span class="lineNumber">360</span><button class="entity #illeshazy_istvan person" data-ref="illeshazy_istvan" data-type="person" id="d2e3450">Illiashasi</button> verunterpfendet, sollen so lang in ihrem <br/>
+<span class="lineNumber">361</span><span class="antiqua">vigor</span> und wirden verbleiben, biß das die Reichs <br/>
+<span class="lineNumber">362</span>Inwohner dieselben in offentlicher <span class="antiqua">Diaet</span> berath-<br/>
+<span class="lineNumber">363</span>schlagen, von itziger zeit aber an zu rechnen, sollen <br/>
+<span class="lineNumber">364</span>keine verschreibung mehr, es sey durch was schein <br/>
+<span class="lineNumber">365</span>oder <span class="antiqua">titules</span> im[m]ermehr wolle, zugelassen werden. <br/>
+<span class="lineNumber">366</span>Die <span class="antiqua">Nobilitationes</span>, so durch Herrn <button class="entity #bocskai_stephan person" data-ref="bocskai_stephan" data-type="person" id="d2e3493">Botzkay</button> <br/>
+<span class="lineNumber">367</span>geschehe[n], sollen gleichsfals in ihrem <span class="antiqua">esse</span> verbleiben, <br/>
+<span class="lineNumber">368</span>doch der gestalt, das in offentlicher <span class="antiqua">Diaet</span> schrifftliche <br/>
+<span class="lineNumber">369</span>urkunden hieruber vorgelegt, damit man von diesem <br/>
+<span class="lineNumber">370</span>ihrem Adel wissenschafft haben möge, und dißfals <br/>
+<span class="lineNumber">371</span>nichts wieder die Reichs Ordnung gehandelt werde.
+<span class="lineNumber">372</span>Dieweil auch auf dem nechst zu <button class="entity #kosice place" data-ref="kosice " data-type="place" id="d2e3524">Caschau</button> gehal-<br/>
+<span class="lineNumber">373</span>tenem <span class="antiqua">Convent</span><span class="orig">,</span> von den Reichs Inwohnern, Herrn <br/>
+<span class="lineNumber">374</span><button class="entity #bocskai_stephan person" data-ref="bocskai_stephan" data-type="person" id="d2e3541">Botzkay</button> anhangs, geschlossen worden, das die jeni-<br/>
+<span class="lineNumber">375</span>gen, so zwischen der zeit<span class="orig">,</span> un[d] nechst folgenden Jacobi<a class="fnNumber" href="#F_2" id="A_2">2</a><span class="orig">,</span> <br/>
+<span class="lineNumber">376</span>sich ihme und seinen <span class="antiqua">Adhaerenten</span> nicht <span class="antiqua">adiungi-<br/><span class="lineNumber">377</span>ren</span> wurden, aller ihrer Gütter<span class="orig">,</span> und besitzlichen <br/>
+<span class="lineNumber">377</span>ren
+<span class="lineNumber">378</span>Rechtens<span class="orig">,</span> verlustig seyn sollen<span class="orig">:</span><span class="reg">.</span> So ist hinwieder ge-<br/>
+<span class="lineNumber">379</span>schlossen, das diese <span class="antiqua">Constitution</span> hinfüro geschwi-<br/>
+<span class="lineNumber">380</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000017.tif.original.jpg" id="p-C1r"> [Blatt: C1<span class="rectoVerso">r</span> ] </button>gen<span class="orig">,</span> und allenthalben von unkrefften sein sol.
+<span class="lineNumber">381</span>Auf den Funfzehenden<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">382</span>Dieser Artickel wirdt gleichsfals nach des vori-<br/>
+<span class="lineNumber">383</span>gen Tracktats <span class="antiqua">conclusion confirmiret</span> und ge-<br/>
+<span class="lineNumber">384</span>richtet, Nemlich<span class="orig">,</span> daß die Hungern mit einwilligung <br/>
+<span class="lineNumber">385</span><button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e3635">I[hrer] Maj[estät]</button> die Gütter und Heuser, so den Außlendische[n] <br/>
+<span class="lineNumber">386</span>verschrieben, mit wiederlegung ihres geldes<span class="orig">,</span> wie-<br/>
+<span class="lineNumber">387</span>der zu sich lösen mögen. <br/>
+<span class="lineNumber">388</span>Die <span class="antiqua">Privilegia</span> aber der Freystedte, sollen in de[m] <br/>
+<span class="lineNumber">389</span>gebrauch, inmassen sie biß anhero gewesen, bleiben <br/>
+<span class="lineNumber">390</span>und erhalten werden, und sich derselben hinfüro, so <br/>
+<span class="lineNumber">391</span>wol Hungern und Deutsche<span class="orig">,</span> als auch Behemische <br/>
+<span class="lineNumber">392</span>Inwohner gebrauchen, geniessen und erfreuen: Die <br/>
+<span class="lineNumber">393</span>Clagen un[d] beschwerung aber wieder dieselben sollen <br/>
+<span class="lineNumber">394</span>in nechstkunfftiger offentlicher <span class="antiqua">Diaet</span> und Versamlu[n]g <br/>
+<span class="lineNumber">395</span>verhöret<span class="orig">,</span> und durch die Reichs Inwohner oder <span class="antiqua">or-<br/><span class="lineNumber">396</span>dinari Iudices</span> entscheiden werden.
+<span class="lineNumber">396</span>dinari Iudices
+<span class="lineNumber">397</span>Was die Person Herrn <button class="entity #bocskai_stephan person" data-ref="bocskai_stephan" data-type="person" id="d2e3704">Botzkay</button> <br/>
+<span class="lineNumber">398</span>und seine <span class="antiqua">contentation</span> und befrie-<br/>
+<span class="lineNumber">399</span>dung anlanget.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">400</span>Zu <button class="entity #siebenbuergen_fuerstentum place" data-ref="siebenbuergen_fuerstentum" data-type="place" id="d2e3726">Siebenbürgen</button> mit sampt der Landschafft <br/>
+<span class="lineNumber">401</span>in <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e3732">Hungern</button>, so Herr <button class="entity #bathory_sigismund person" data-ref="bathory_sigismund" data-type="person" id="d2e3735">Sigismundus Bathory</button> in[n]en <br/>
+<span class="lineNumber">402</span>gehabt, wird im auch hiemit das Schloß <button class="entity #tokaj place" data-ref="tokaj" data-type="place" id="d2e3743">Tockay</button>, <br/>
+<span class="lineNumber">403</span>mit allen seinen zubehörungen, inmassen es itzo be-<br/>
+<span class="lineNumber">404</span>funden, beneben den beyden gantzen Graffschafften<a class="fnNumber" href="#F_e" id="A_e">e</a> <br/>
+<span class="lineNumber">405</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000018.tif.original.jpg" id="p-C1v"> [Blatt: C1<span class="rectoVerso">v</span> ] </button><button class="entity #ugocsa place" data-ref="ugocsa" data-type="place" id="d2e3763">Ugotz</button> und <button class="entity #bereg place" data-ref="bereg" data-type="place" id="d2e3768">Berch</button> , so wol inner und ausserhalb der <br/>
+<span class="lineNumber">406</span><button class="entity #theiss place" data-ref="theiss" data-type="place" id="d2e3776">Theyß</button> gelegen, gleichsfals mit seinen uhralten gre[n]-<br/>
+<span class="lineNumber">407</span>tzen und zugehörungen, so wol auch die Vestung <br/>
+<span class="lineNumber">408</span><button class="entity #satu_mare place" data-ref="satu_mare" data-type="place" id="d2e3789">Zackmar</button> ubergeben und eingereumet.
+<span class="lineNumber">409</span>Die beyden Stedte aber, <button class="entity #cherestur place" data-ref="cherestur" data-type="place" id="d2e3797">Karetzwar</button> und <button class="entity #tarcal place" data-ref="tarcal" data-type="place" id="d2e3801">Taztzal</button>, <br/>
+<span class="lineNumber">410</span>weil dieselben <button class="entity #rakoczi_zsigmond person" data-ref="rakoczi_zsigmond" data-type="person" id="d2e3807">Sigismundo Ragotzi</button> und <button class="entity #thoekoely_sebestyen person" data-ref="thoekoely_sebestyen" data-type="person" id="d2e3812">Sebastia-</button><br/>
+<span class="lineNumber">411</span><button class="entity #thoekoely_sebestyen person" data-ref="thoekoely_sebestyen" data-type="person" id="d2e3812">no Tekoli</button> vor <span class="antiqua">hypotheciret</span> und vorunterpfendet, <br/>
+<span class="lineNumber">412</span>Seind <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e3827">I[hre] Key[serliche] und Kün[igliche] Maj[estät]</button> zufrieden, das die <br/>
+<span class="lineNumber">413</span>selben von Herrn <button class="entity #bocskai_stephan person" data-ref="bocskai_stephan" data-type="person" id="d2e3834">Botzkay</button> wiederumb eingelöset, <br/>
+<span class="lineNumber">414</span>und zu der Vhestung <button class="entity #tokaj place" data-ref="tokaj" data-type="place" id="d2e3840">Tockay</button> nach altem gebrauch <br/>
+<span class="lineNumber">415</span>geschlagen und in[n]en behalten werden. <br/>
+<span class="lineNumber">416</span>Die Erlauischen Zehenden aber uber der <button class="entity #theiss place" data-ref="theiss" data-type="place" id="d2e3850">Theiß</button>, <br/>
+<span class="lineNumber">417</span>so wol alle andere uber der <button class="entity #theiss place" data-ref="theiss" data-type="place" id="d2e3856">Theiß</button>, sollen dem Herrn <br/>
+<span class="lineNumber">418</span><button class="entity #bocskai_stephan person" data-ref="bocskai_stephan" data-type="person" id="d2e3862">Botzkay</button> bleiben: die aber disseit der <button class="entity #theiss place" data-ref="theiss" data-type="place" id="d2e3865">Theiß</button> sollen in <br/>
+<span class="lineNumber">419</span><button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e3870">I[hrer] Key[serlichen] und Kön[iglichen] Maj[estät]</button> Cam[m]er und Rechnung <br/>
+<span class="lineNumber">420</span>eingebracht werden. <br/>
+<span class="lineNumber">421</span>Und werden also diese Herrschafft Gütter dem <br/>
+<span class="lineNumber">422</span>Herrn <button class="entity #bocskai_stephan person" data-ref="bocskai_stephan" data-type="person" id="d2e3883">Botzkay</button> nach Erblichem Rechten innen zu <br/>
+<span class="lineNumber">423</span>haben, zu geniessen und zugebrauchen ubergeben: <br/>
+<span class="lineNumber">424</span>Da aber von seinen Erben aus Manlicher <span class="antiqua">linien</span> <br/>
+<span class="lineNumber">425</span>aus seinen lenden und rechtem Ehebett erzeuget<span class="orig">,</span> nie-<br/>
+<span class="lineNumber">426</span>mandt ubrig noch vorhanden, auf den einigen fall <br/>
+<span class="lineNumber">427</span>sol all das jenige, so im hiemit ubergeben, dem or-<br/>
+<span class="lineNumber">428</span>dentlichen König und <span class="antiqua">per consequens</span> der <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e3922">Cron </button><br/>
+<span class="lineNumber">429</span><button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e3922">Hungern</button><span class="orig">,</span> wiederumb heymfallen, also und der ge-<br/>
+<span class="lineNumber">430</span>stalt, das keiner seiner Bluts freunde oder verwa[n]d-<br/>
+<span class="lineNumber">431</span>ten, noch auch derselben Erben und Erbnemen einig <br/>
+<span class="lineNumber">432</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000019.tif.original.jpg" id="p-C2r"> [Blatt: C2<span class="rectoVerso">r</span> ] </button>Recht oder <span class="antiqua">Iurisdiction</span>, weder zu dem Fürsten-<br/>
+<span class="lineNumber">433</span>thumb, noch auch den andern, ime<span class="reg">,</span> <button class="entity #bocskai_stephan person" data-ref="bocskai_stephan" data-type="person" id="d2e3961">Botzkay</button><span class="reg">,</span> hiemit <br/>
+<span class="lineNumber">434</span>eingereumbten Graff und Herrschafften, nim[m]er und <br/>
+<span class="lineNumber">435</span>zu ewigen zeiten nicht zu <span class="antiqua">praetendiren</span> oder vorzu-<br/>
+<span class="lineNumber">436</span>wenden haben müge.
+<span class="lineNumber">437</span>Da er aber würde eine Tochter verlassen, sol die <br/>
+<span class="lineNumber">438</span>Tochter <span class="antiqua">Iure quartalitio</span>, zum vierdten teyl, nach <br/>
+<span class="lineNumber">439</span>des Reichs <span class="antiqua">constitution</span> zu frieden sein, oder sich <br/>
+<span class="lineNumber">440</span>an dem benugen lassen, wie sich <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4003">I[hre] Maj[estät]</button> mit dem <br/>
+<span class="lineNumber">441</span>Herrn <button class="entity #bocskai_stephan place" data-ref="bocskai_stephan" data-type="place" id="d2e4009">Botzkay</button> hieruber vergleichen werden.
+<span class="lineNumber">442</span>Die Stadt <button class="entity # place" data-ref="" data-type="place" id="d2e4018">Lizka</button>, weil die nach alter <span class="antiqua">fundation</span> <br/>
+<span class="lineNumber">443</span>zu der <span class="antiqua">Praepositur</span> in <button class="entity #zips place" data-ref="zips" data-type="place" id="d2e4032">Zips</button> gehörig, wird zwar dem <br/>
+<span class="lineNumber">444</span>Herrn <button class="entity #bocskai_stephan person" data-ref="bocskai_stephan" data-type="person" id="d2e4040">Botzkay</button><span class="orig">,</span> so lang auch eingereumet, biß das <br/>
+<span class="lineNumber">445</span>sich <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4048">I[hre] Maj[estät]</button> mit ime in andere wege vergleichen <br/>
+<span class="lineNumber">446</span>und abfinden. <br/>
+<span class="lineNumber">447</span>Das <span class="antiqua">gubernament</span> zu <button class="entity #kosice place" data-ref="kosice" data-type="place" id="d2e4061">Caschau</button> und anderer <br/>
+<span class="lineNumber">448</span>örter in <button class="entity #oberungarn place" data-ref="oberungarn" data-type="place" id="d2e4067">Oberhungern</button> sol den Hungern zum besten <br/>
+<span class="lineNumber">449</span>geschehen, wie in dem <span class="antiqua">general</span> Artickel beschlossen.
+<span class="lineNumber">450</span>Von des <span class="antiqua">Capituls</span> zu <button class="entity #erlau place" data-ref="erlau" data-type="place" id="d2e4087">Erlau</button> <span class="antiqua">intertention</span> wer-<br/>
+<span class="lineNumber">451</span>den <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4100">I[hre] Key[serliche] und Kön[igliche] Maj[estät]</button> und die Reichs Inwo-<br/>
+<span class="lineNumber">452</span>ner auf nechstkunfftiger <span class="antiqua">Diaet</span> auff einen sichern und <br/>
+<span class="lineNumber">453</span>bequeme[n] ort vordacht sein, wo ferne es zu <button class="entity #kosice place" data-ref="kosice" data-type="place" id="d2e4117">Caschau</button> <br/>
+<span class="lineNumber">454</span>nicht wird seyn kön[n]en. Wegen des tituls<span class="orig">,</span> wird im <br/>
+<span class="lineNumber">455</span>gleicher gestalt der gegeben und zugelassen, den <button class="entity #bathory_sigismund person" data-ref="bathory_sigismund" data-type="person" id="d2e4129">Si-</button><br/>
+<span class="lineNumber">456</span><button class="entity #bathory_sigismund person" data-ref="bathory_sigismund" data-type="person" id="d2e4129">gismundus Bathori</button> gehabt und gefurt, das er sich <br/>
+<span class="lineNumber">457</span>nemlich einen Fürsten deß Reichs<span class="orig">,</span> und in <button class="entity #siebenbuergen_fuerstentum place" data-ref="siebenbuergen_fuerstentum" data-type="place" id="d2e4144">Sieben-</button><br/>
+<span class="lineNumber">458</span><button class="entity #siebenbuergen_fuerstentum place" data-ref="siebenbuergen_fuerstentum" data-type="place" id="d2e4144">bürgen</button><span class="orig">,</span> und der Zeckler Graffen, so wol auch eine[n] <br/>
+<span class="lineNumber">459</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000020.tif.original.jpg" id="p-C2v"> [Blatt: C2<span class="rectoVerso">v</span> ] </button>Herrn der eingereumbten Landschafft in <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e4160">Hungern</button> <br/>
+<span class="lineNumber">460</span>nennen und schreiben müge. Desgleichen auch das <br/>
+<span class="lineNumber">461</span>Siebenbürgische Wappen füren, inmassen es <button class="entity #bathory_sigismund person" data-ref="bathory_sigismund" data-type="person" id="d2e4170"><span class="antiqua">Si-<br/><span class="lineNumber">462</span>gismundus Bathori</span></button> gehabt, ausser seine angestam-<br/>
+<span class="lineNumber">462</span>gismundus Bathori
+<span class="lineNumber">463</span>pte und andere angefelte Wappen. <br/>
+<span class="lineNumber">464</span>So bald nun dieses alles von Herrn <button class="entity #bocskai_stephan person" data-ref="bocskai_stephan" data-type="person" id="d2e4191">Botzkay</button> un[d] <br/>
+<span class="lineNumber">465</span>seinen <span class="antiqua">Adhaerenten</span> gebürlichen <span class="antiqua">ratificiret</span>, sol die <br/>
+<span class="lineNumber">466</span><span class="antiqua">introduction</span> und einführung in die Landschafft ime <br/>
+<span class="lineNumber">467</span>von <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4212">I[hrer] Maj[estät]</button> ubergeben<span class="orig">,</span> und dero hierzu <span class="antiqua">deputir-<br/><span class="lineNumber">468</span>ten</span> Commissarien geschehen, da dan auch zugleich <br/>
+<span class="lineNumber">468</span>ten
+<span class="lineNumber">469</span>der Siebenburger Eyd und pflicht, so sie in <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4229">I[hrer] Maj[estät]</button> <br/>
+<span class="lineNumber">470</span>in der huldigung geleistet und gethan, erfolgen sol.
+<span class="lineNumber">471</span>Es verwilligt sich auch und verspricht hiemit ge-<br/>
+<span class="lineNumber">472</span>nandter <button class="entity #bocskai_stephan person" data-ref="bocskai_stephan" data-type="person" id="d2e4247">Botzkay</button>, er darauff verdacht sein wolle, <br/>
+<span class="lineNumber">473</span>damit sie, <a class="fnNumber" href="#F_f" id="A_f">f</a>der Fürst in der <button class="entity #walachei_fuerstentum place" data-ref="walachei_fuerstentum" data-type="place" id="d2e4255">Walachey</button> und Inwoner <br/>
+<span class="lineNumber">474</span>derselben<span class="reg">,</span><a class="fnNumber" href="#F_f">f</a> wiederumb auff den alten un[d] rechten wegk <br/>
+<span class="lineNumber">475</span>gebracht werden mügen. <br/>
+<span class="lineNumber">476</span>Inmassen er dan auch seine Gesandten und Bot-<br/>
+<span class="lineNumber">477</span>schafften, von den jenigen Graff und Herrschafften, <br/>
+<span class="lineNumber">478</span>so zu <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e4282">Hungern</button> gehörig, auf die <span class="antiqua">general Diaeten</span> od[er] <br/>
+<span class="lineNumber">479</span>Reichs versamlung, so in <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e4292">Hungern</button> gehalten werde[n], <br/>
+<span class="lineNumber">480</span>jederzeit schicken und abfertigen sol. <br/>
+<span class="lineNumber">481</span>Hieruber ist auch beschlossen, das die von Herren <br/>
+<span class="lineNumber">482</span>und Adelstandes beyderseyts, so wol <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4305">I[hre] Maj[estät]</button> als <br/>
+<span class="lineNumber">483</span>auch Herrn <button class="entity #bocskai_stephan person" data-ref="bocskai_stephan" data-type="person" id="d2e4311">Botzkay</button> theyls, alle ihre Gütter und <br/>
+<span class="lineNumber">484</span>besitzlich Recht, es sey Inner oder ausserhalb der <br/>
+<span class="lineNumber">485</span><button class="entity #theiss place" data-ref="theiss" data-type="place" id="d2e4320">Theyß</button>, frey und ungehindert besitzen mügen, <br/>
+<span class="lineNumber">486</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000021.tif.original.jpg" id="p-C3r"> [Blatt: C3<span class="rectoVerso">r</span> ] </button>die andern aber ihren vorigen Herrn un[d] <span class="antiqua">Possessorn <br/><span class="lineNumber">487</span>restituiren</span> und wider einantworten sollen.
+<span class="lineNumber">487</span>restituiren
+<span class="lineNumber">488</span>Gleicher gestalt sol auch die Stadt <button class="entity #skalica place" data-ref="skalica" data-type="place" id="d2e4338">Zakoletz</button>, so <br/>
+<span class="lineNumber">489</span>wol die andern Vhestungen, <button class="entity #sastin place" data-ref="sastin" data-type="place" id="d2e4344">Sossim</button>, <button class="entity #holic place" data-ref="holic" data-type="place" id="d2e4348">Holitz</button>, <button class="entity #podbranc place" data-ref="podbranc" data-type="place" id="d2e4353">Be-</button><br/>
+<span class="lineNumber">490</span><button class="entity #podbranc place" data-ref="podbranc" data-type="place" id="d2e4353">rentz</button>, und alles anders zu <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e4362">Hungern</button> gehörig, ihren <br/>
+<span class="lineNumber">491</span>vorigen <span class="antiqua">Possessorn</span> wieder zugestalt werden, Auch <br/>
+<span class="lineNumber">492</span>einem jedern frey stehen, sein Recht vor den ordent-<br/>
+<span class="lineNumber">493</span>lichen Herrn der Graffschafften, und Adels Rich-<br/>
+<span class="lineNumber">494</span>tern zu <span class="antiqua">prosequiren</span> und außzufüren, desgleichen <br/>
+<span class="lineNumber">495</span>auch in den <span class="antiqua">Octaven</span>.
+<span class="lineNumber">496</span>Da auch etliche Ubeltheter von <span class="antiqua">Officialen</span> oder <br/>
+<span class="lineNumber">497</span><span class="antiqua">Factorn</span> <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4413">I[hrer] May[estät]</button> oder etlicher Reichs Inwohner<span class="orig">,</span> <br/>
+<span class="lineNumber">498</span>wegen ihres begangenen schadens und mißhand-<br/>
+<span class="lineNumber">499</span>lung<span class="orig">,</span> in <button class="entity #siebenbuergen_fuerstentum place" data-ref="siebenbuergen_fuerstentum" data-type="place" id="d2e4430">Siebenburgen</button><span class="orig">,</span> oder desselben zugehörigen <br/>
+<span class="lineNumber">500</span>Orter fliehen würden, Sollen als dan dieselben, so <br/>
+<span class="lineNumber">501</span>wol auff <span class="antiqua">requisition</span> und erforderung <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4444">I[hrer] Maj[estät]</button> als <br/>
+<span class="lineNumber">502</span>aller andern Reichs Inwohner Anklag des orts <br/>
+<span class="lineNumber">503</span>also baldt vor Recht gestalt, und<a class="fnNumber" href="#F_g" id="A_g">g</a> wegen ihres be-<br/>
+<span class="lineNumber">504</span>gangenen schadens und Mißhandlung, nach laut <br/>
+<span class="lineNumber">505</span>der Reichs <span class="antiqua">Decreten</span> gestrafft werden, wie es dan <br/>
+<span class="lineNumber">506</span><button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4473">I[hrer] Majest[ät]</button> teyls gleichsfalles auch also gehalten <br/>
+<span class="lineNumber">507</span>werden sol.
+<span class="lineNumber">508</span>Gleicher gestalt ist auch beschlosse[n], das so bald nach <br/>
+<span class="lineNumber">509</span>beschluß un[d] <span class="antiqua">Co[n]firmatio[n]</span> dieser Fridshandlu[n]g, alles <br/>
+<span class="lineNumber">510</span>zur <span class="antiqua">execution</span> gerichtet, und alle oberzelte Heuser<span class="orig">.</span><span class="reg">,</span> <br/>
+<span class="lineNumber">511</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000022.tif.original.jpg" id="p-C3v"> [Blatt: C3<span class="rectoVerso">v</span> ] </button>Vhestung, Stedte, Flecken, Dörffer<span class="orig">,</span> und alle ande-<br/>
+<span class="lineNumber">512</span>re Herrschafften, ausgenommen derer, so nach laut <br/>
+<span class="lineNumber">513</span>gegenwertiger vergleichung<span class="orig">,</span> Herrn <button class="entity #bocskai_stephan person" data-ref="bocskai_stephan" data-type="person" id="d2e4519">Botzkay</button> ein-<br/>
+<span class="lineNumber">514</span>gereumet, in <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4529">I[hrer] Maj[estät]</button>, der Reichs Inwohner und <br/>
+<span class="lineNumber">515</span>ihrer vorigen Herren und <span class="antiqua">Possessoren</span> handen wie-<br/>
+<span class="lineNumber">516</span>derumb <span class="antiqua">cediret</span> und eingeantwortet werden: jedoch <br/>
+<span class="lineNumber">517</span>ausserhalb der <span class="antiqua">Donationen</span> und vor unterpfendten <br/>
+<span class="lineNumber">518</span>Gütter, darvon in dem 14. Artickel verordnung <br/>
+<span class="lineNumber">519</span>geschehen.
+<span class="lineNumber">520</span>Was aber <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4567">I[hrer] M[ajestät]</button> getreue Unterthanen, <button class="entity #kornis_balthasar person" data-ref="kornis_balthasar" data-type="person" id="d2e4570">Bal-</button><br/>
+<span class="lineNumber">521</span><button class="entity #kornis_balthasar person" data-ref="kornis_balthasar" data-type="person" id="d2e4570">thaser Kolnis</button>, <button class="entity #sennyey_pongrac person" data-ref="sennyey_pongrac" data-type="person" id="d2e4580"><span class="antiqua">Pancratium</span> Somicii</button> und alle an-<br/>
+<span class="lineNumber">522</span>dere Siebenbürger anlanget, so wegen <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4594">I[hrer] Key[serlichen] un[d] </button><br/>
+<span class="lineNumber">523</span><button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4594">Kön[iglichen] May[estät]</button> geleisten treu und pflicht, umb alle ihre <br/>
+<span class="lineNumber">524</span>Gütter in <button class="entity #siebenbuergen_fuerstentum place" data-ref="siebenbuergen_fuerstentum" data-type="place" id="d2e4603">Siebenbürgen</button> kommen<a class="fnNumber" href="#F_h" id="A_h">h</a>, weil dieselben <br/>
+<span class="lineNumber">525</span>durch solche ihre treu bey jedermen[n]iglichen mehr ru-<br/>
+<span class="lineNumber">526</span>hms, als straff wirdig, des Herrn <button class="entity #bocskai_stephan person" data-ref="bocskai_stephan" data-type="person" id="d2e4620">Botzkay</button> anha[n]g <br/>
+<span class="lineNumber">527</span>auch all deß irigen wiederumb <span class="antiqua">restituiret</span>, und das <br/>
+<span class="lineNumber">528</span>vorgangene alles in vergessenheit gestelt wird, So <br/>
+<span class="lineNumber">529</span>beruhen <button class="entity #matthias_oesterreich person" data-ref="matthias_oesterreich" data-type="person" id="d2e4636">I[hre] Durchl[aucht]</button> nochmals hierauff gnedigst, un[d] <br/>
+<span class="lineNumber">530</span>wollen, das auch diesen <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4642">I[hrer] Maj[estät]</button> getreuen Unter-<br/>
+<span class="lineNumber">531</span>thanen dergleichen Recht wiederfahren, ihnen ihre <br/>
+<span class="lineNumber">532</span>Gütter wiederumb eingeraumet, und sie dieselben <br/>
+<span class="lineNumber">533</span>entweder durch sich oder andere besitzen, oder aber <br/>
+<span class="lineNumber">534</span>andern umb gleichmeßigen werth ver <span class="antiqua">alieniren</span> un[d] <br/>
+<span class="lineNumber">535</span>verkauffen mügen.
+<span class="lineNumber">536</span>Uber das, so saget mehrgemelter Herr <button class="entity #bocskai_stephan person" data-ref="bocskai_stephan" data-type="person" id="d2e4674">Botzkay</button>, <br/>
+<span class="lineNumber">537</span>das er die Cron, so ime von dem <button class="entity #pascha_lala_mehmed person" data-ref="pascha_lala_mehmed" data-type="person" id="d2e4680">Vezier Bascha</button> zu <br/>
+<span class="lineNumber">538</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000023.tif.original.jpg" id="p-C4r"> [Blatt: C4<span class="rectoVerso">r</span> ] </button>geschickt, zu abbruch d[er] Kön[iglichen] Maj[estät] deß Königreichs <br/>
+<span class="lineNumber">539</span><button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e4691">Hungern</button>, und desselben uhralten Kron, nicht <br/>
+<span class="lineNumber">540</span>angenommen. <br/>
+<span class="lineNumber">541</span>Endlichen, so ist auch beschlossen, das <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4701">I[hre] Key[serliche] un[d] </button><br/>
+<span class="lineNumber">542</span><button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4701">Kün[igliche] Maj[estät]</button> die schulden, so dero <span class="antiqua">Com[m]issarien</span> zu <br/>
+<span class="lineNumber">543</span>nothwendiger behulff <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4713">I[hrer] Maj[estät]</button> bey den Siebenbür-<br/>
+<span class="lineNumber">544</span>gern gemacht, wollen lassen abtragen, oder aber <br/>
+<span class="lineNumber">545</span>ihnen an ihren Renten wegen des dreissigsten <span class="antiqua">suc-<br/><span class="lineNumber">546</span>cessive</span>, vo[n] eine[m] Termin zu de[m] andern abgehe[n] lassen.
+<span class="lineNumber">546</span>cessive
+<span class="lineNumber">547</span>Und demnach nun diese speen und Irrung allen-<br/>
+<span class="lineNumber">548</span>thalben also abgeha[n]delt un[d] verglichen, ermangelt es <br/>
+<span class="lineNumber">549</span>noch an dene, d[as] alle die jenige[n], so de[m] Herrn <button class="entity #bocskai_stephan person" data-ref="bocskai_stephan" data-type="person" id="d2e4751">Botzkay</button> <br/>
+<span class="lineNumber">550</span>anhe[n]gig gewese[n], d[er] treu un[d] pflicht, so sie im geleistet, <br/>
+<span class="lineNumber">551</span>loß gezehlet, und wiederumb in <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4761">I[hrer] Key[serlichen] und Kön[iglichen] </button><br/>
+<span class="lineNumber">552</span><button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4761">Maj[estät]</button>, als ires ordentlichen Herrn und Königs huld <br/>
+<span class="lineNumber">553</span>und pflicht gebracht und auffgenom[m]en werden, Sie <br/>
+<span class="lineNumber">554</span>auch und ihre Nachkommen von nun an und hinfüro <br/>
+<span class="lineNumber">555</span>nim[m]er und zu keiner zeit von<button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4777"> I[hrer] Maj[estät]</button> und dero <span class="antiqua">Suc-<br/><span class="lineNumber">556</span>cessorn</span> der ordentlichen Königen in <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e4788">Hungern</button> ge-<br/>
+<span class="lineNumber">556</span>cessorn
+<span class="lineNumber">557</span>huldeten pflicht, <span class="antiqua">Salvis iuribus &amp; libertatibus <br/><span class="lineNumber">558</span>Regni permanentibus</span>, wiederumb abfallen.
+<span class="lineNumber">558</span>Regni permanentibus
+<span class="lineNumber">559</span>Und damit solches desto füglicher geschehen, und <br/>
+<span class="lineNumber">560</span>in steten krefften bleiben, auch die Hungern, so dem <br/>
+<span class="lineNumber">561</span>Herrn <button class="entity #bocskai_stephan person" data-ref="bocskai_stephan" data-type="person" id="d2e4815">Botzkay</button> anhengig, umb so viel desto mehr <br/>
+<span class="lineNumber">562</span>hieruber gesichert und ruhig sein mügen, haben <button class="entity #matthias_oesterreich person" data-ref="matthias_oesterreich" data-type="person" id="d2e4822">wir</button> <br/>
+<span class="lineNumber">563</span>aus volkommenheit der uns vor der <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4828">Key[serlichen] und Kön[iglichen] </button><br/>
+<span class="lineNumber">564</span><button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4828">Maj[estät]</button> auffgetragenen machts und gewalt, hiemit <br/>
+<span class="lineNumber">565</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000024.tif.original.jpg" id="p-C4v"> [Blatt: C4<span class="rectoVerso">v</span> ] </button>gnedigst geruhet und gewilliget, das bey allen und <br/>
+<span class="lineNumber">566</span>jeden, so mit <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4842">I[hrer] Maj[estät]</button> also hinwider <span class="antiqua">reconciliiret</span> <br/>
+<span class="lineNumber">567</span>und versönet, all das jenige, so von dem 15. Tag <span class="antiqua">Oc-<br/><span class="lineNumber">568</span>tobris</span> an An[n]o 1604. biß anhero von beyden they-<br/>
+<span class="lineNumber">568</span>tobris
+<span class="lineNumber">569</span>len geschehen und ergangen, gentzlich hiemit auffge-<br/>
+<span class="lineNumber">570</span>hoben und vergessen sein sol, dergestalt und also, d[as] <br/>
+<span class="lineNumber">571</span>aller mord, raub, nam un[d] plunderung der Vhestu[n]g, <br/>
+<span class="lineNumber">572</span>einnemung der Stedte, Flecke, Heuser und Dörffer, <br/>
+<span class="lineNumber">573</span>und in summa allerhandt gewalt thetigkeit, so die-<br/>
+<span class="lineNumber">574</span>se zeit uber geubet und gebraucht worden, keinem, er <br/>
+<span class="lineNumber">575</span>sey was Standes, wirdens oder wesens er wolle, <br/>
+<span class="lineNumber">576</span>außgenommen der oben außgesatzten, sol zu gerech-<br/>
+<span class="lineNumber">577</span>net, sondern gantz und gar verzihen und hingeleget <br/>
+<span class="lineNumber">578</span>sein, Auch nimmermehr und zu keiner zeit weder <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4908">I[hre] </button><br/>
+<span class="lineNumber">579</span><button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e4908">Key[serliche] und Kön[igliche] Maj[estät]</button> noch auch derselben <span class="antiqua">Succes-<br/><span class="lineNumber">580</span>sorn</span> und ordentliche Nachfolger im <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e4922">Königreich</button>, od[er] <br/>
+<span class="lineNumber">580</span>sorn
+<span class="lineNumber">581</span>die beschedigten Reichs Inwoner unter einigem an-<br/>
+<span class="lineNumber">582</span>gemasten oder geferbten schein unter einander heim-<br/>
+<span class="lineNumber">583</span>lich oder offentlich, in oder ausserhalb Rechtens, <br/>
+<span class="lineNumber">584</span>vor sich selbst oder durch andere derwege[n] gehindert, <br/>
+<span class="lineNumber">585</span>oder einiger massen <span class="antiqua">aggraviret</span> oder beschweret <br/>
+<span class="lineNumber">586</span>werden möchten.
+<span class="lineNumber">587</span>Das auch alle und jede uber solcher irer verhand-<br/>
+<span class="lineNumber">588</span>lung, so obberurte zeit uber geschehe[n], von aller Clag <br/>
+<span class="lineNumber">589</span>und anspruch, in oder ausserhalb Rechtens, gentzlich <br/>
+<span class="lineNumber">590</span>gefreyet und <span class="antiqua">absolviret</span> sein sollen, noch einiger or-<br/>
+<span class="lineNumber">591</span>dentlicher Richter uber sie zu urteilen oder Recht zu <br/>
+<span class="lineNumber">592</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000025.tif.original.jpg" id="p-D1r"> [Blatt: D1<span class="rectoVerso">r</span> ] </button>sprechen sich unterstehen<span class="orig">,</span> oder anmassen sol, auf wa-<br/>
+<span class="lineNumber">593</span>serley weiß oder mas das immer sein oder geschehen <br/>
+<span class="lineNumber">594</span>möchte, Ausgenommen <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e5002">I[hre] Key[serliche] Maj[estät]</button> oder anderer <br/>
+<span class="lineNumber">595</span>Herren und Adels Diener, so zur Rechnung vero-<br/>
+<span class="lineNumber">596</span>bligiret und verbunden, diese sollen hierdurch nicht <br/>
+<span class="lineNumber">597</span>gemeinet, sondern zu ihrer Rechnung in alle wege <br/>
+<span class="lineNumber">598</span>verbunden sein: Da man auch würde in erfarung <br/>
+<span class="lineNumber">599</span>kom[m]en, das dergleichen <span class="antiqua">proventus</span> oder einkom[m]en, <br/>
+<span class="lineNumber">600</span>so wol <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e5031">I[hrer] Maj[estät]</button> als der andern Reichs Inwoner <br/>
+<span class="lineNumber">601</span>mit gewerter handt oder mit gewalt durch sie von <br/>
+<span class="lineNumber">602</span>abhanden gebracht, auff den fall sollen sie zu wieder <br/>
+<span class="lineNumber">603</span>einbringung solcher einkommen <span class="antiqua">astringirt</span> und <br/>
+<span class="lineNumber">604</span>verpflichtet sein.
+<span class="lineNumber">605</span>Da auch etliche aus obbenandte[n] Hungern Herrn <br/>
+<span class="lineNumber">606</span><button class="entity #bocskai_stephan person" data-ref="bocskai_stephan" data-type="person" id="d2e5058">Botzkay</button> anhangs irgend einig Hauß, Vhestung <br/>
+<span class="lineNumber">607</span>oder <span class="antiqua">Munition</span> freywillig oder gezwungen in die <br/>
+<span class="lineNumber">608</span>hende der Hungern uberlieffert, oder mit hülff der <br/>
+<span class="lineNumber">609</span>Türcken und Tatern, <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e5074">I[hrer] Key[serlichen] und Kön[iglichen] Majest[ät]</button> <br/>
+<span class="lineNumber">610</span>oder auch den Hungern und benachbarten Landt-<br/>
+<span class="lineNumber">611</span>schafften einigen schaden zugefüget, deßgleichen vo[n] <br/>
+<span class="lineNumber">612</span>den freyen Stedten, Bergkwercken, Flecken, Dör-<br/>
+<span class="lineNumber">613</span>ffern, Güttern, Taxen, Zinsen und einkommen, wie <br/>
+<span class="lineNumber">614</span>das im[m]er nahmen haben und genen[n]et werden müge, <br/>
+<span class="lineNumber">615</span>etwas einbekommen und vor sich gebraucht hetten, <br/>
+<span class="lineNumber">616</span>Die sollen gleichsfals den andern hiemit gentzlich <br/>
+<span class="lineNumber">617</span><span class="antiqua">absolvirt</span> und loß gesprochen sein, jedoch mit der <br/>
+<span class="lineNumber">618</span>maß, das sie sich hinfüro von dergleichen beginnen <br/>
+<span class="lineNumber">619</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000026.tif.original.jpg" id="p-D1v"> [Blatt: D1<span class="rectoVerso">v</span> ] </button>gentzlichen enthalten, und damit demselben umb so <br/>
+<span class="lineNumber">620</span>viel desto mehr wircklichen nachgesatzt: So ist letz-<br/>
+<span class="lineNumber">621</span>lichen auch dahin geschlossen, das alle die Hungern, <br/>
+<span class="lineNumber">622</span>so dem Herrn <button class="entity #bocskai_stephan person" data-ref="bocskai_stephan" data-type="person" id="d2e5134">Botzkay</button> anhengig gewesen, nun mehr <br/>
+<span class="lineNumber">623</span>nach beschluß und <span class="antiqua">confirmation</span> der vorhergehen <br/>
+<span class="lineNumber">624</span>den Punckt und Artickel, dem Jurament und pflicht, <br/>
+<span class="lineNumber">625</span>darmit sie ime verbunden gewesen, zum förderlich-<br/>
+<span class="lineNumber">626</span>sten wircklichen <span class="antiqua">renunciiren</span><span class="orig">,</span> und von derselben er-<br/>
+<span class="lineNumber">627</span>lediget werden möchten, das auch er, <button class="entity #bocskai_stephan person" data-ref="bocskai_stephan" data-type="person" id="d2e5169">Botzkay</button>, nim-<br/>
+<span class="lineNumber">628</span>mer un[d] zu keiner zeit sie ime wiederumb verbindlich <br/>
+<span class="lineNumber">629</span>mache, ja auch vor sich selbst sie solcher ime geleisten <br/>
+<span class="lineNumber">630</span>Pflicht loß und ledig zehle.
+<span class="lineNumber">631</span>Das auch dieses alles so viel mehr <span class="antiqua">roboriret</span> <br/>
+<span class="lineNumber">632</span>und seine kreffte erreichen müge, und aller <span class="antiqua">scrupul</span> <br/>
+<span class="lineNumber">633</span>und mißvertraue[n] aus den hertzen deß <button class="entity #bocskai_stephan person" data-ref="bocskai_stephan" data-type="person" id="d2e5205">Herrn Botz-</button><br/>
+<span class="lineNumber">634</span><button class="entity #bocskai_stephan person" data-ref="bocskai_stephan" data-type="person" id="d2e5205">kay</button> <span class="antiqua">Adhaerenten</span> gerissen, Auch dieser <span class="antiqua">Tractat</span> un[d] <br/>
+<span class="lineNumber">635</span>Friedshandlung desto krefftiger und bestendiger sein <br/>
+<span class="lineNumber">636</span>müge, So werden <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e5227">I[hre] Key[serliche] und Kön[igliche] Maj[estät]</button> durch <br/>
+<span class="lineNumber">637</span>einen sonderlichen hieruber auffgerichten und auß-<br/>
+<span class="lineNumber">638</span>gehenden Machtbrieff kräfftig hierein verwilligen, <br/>
+<span class="lineNumber">639</span>und beneben derselben auch dz <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e5243">Königreich Beheim</button>, <br/>
+<span class="lineNumber">640</span>Ertzhertzogthumb <button class="entity #oesterreich_erzherzogtum place" data-ref="oesterreich_erzherzogtum" data-type="place" id="d2e5250">Osterreich</button>, Marggraffthumb <br/>
+<span class="lineNumber">641</span><button class="entity #maehren_markgrafschaft place" data-ref="maehren_markgrafschaft" data-type="place" id="d2e5255">Mähren</button> und Hertzogthumb <button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e5258">Schlesien</button>, Auch I[hrer] <br/>
+<span class="lineNumber">642</span>Durchl[aucht] Ertzhertzog <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e5265">Ferdinandus</button> mit sampt dem <br/>
+<span class="lineNumber">643</span>Hertzogthumb <button class="entity #steiermark_herzogtum place" data-ref="steiermark_herzogtum" data-type="place" id="d2e5272">Steyer</button> sich mit verpflichten, Das <br/>
+<span class="lineNumber">644</span>nemlich <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e5279">I[hre] Key[serliche] und Kön[igliche] Maj[estät]</button> diese <span class="antiqua">Reconcilia-<br/><span class="lineNumber">645</span>tion</span> und vergleichung mit den Hungern stet, fest und <br/>
+<span class="lineNumber">645</span>tion
+<span class="lineNumber">646</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000027.tif.original.jpg" id="p-D2r"> [Blatt: D2<span class="rectoVerso">r</span> ] </button>unvorbruchlich in allen ihren Puncten und Arti-<br/>
+<span class="lineNumber">647</span>ckeln halten, ingleichen auch die benachbarte Kö-<br/>
+<span class="lineNumber">648</span>nigreich und Landschafften nichtes, so dem Nach-<br/>
+<span class="lineNumber">649</span>barlichen Rechten schedlich sein möchte, dawieder <br/>
+<span class="lineNumber">650</span><span class="antiqua">attentiren</span> wollen, Wie dan auch hinwieder die <br/>
+<span class="lineNumber">651</span>Reichs Inwohner, so wol auch die hierzu gehörigen <br/>
+<span class="lineNumber">652</span><span class="antiqua">Provincien</span> und Graffschafften <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e5330">I[hrer] Key[serlichen] und Kön[iglichen] </button><br/>
+<span class="lineNumber">653</span><button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e5330">Maj[estät]</button> und deren ordentlichen <span class="antiqua">Successorn</span> den Kö-<br/>
+<span class="lineNumber">654</span>nigen in <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e5346">Hungern</button> zu stetwerender treu, Pflicht un[d] <br/>
+<span class="lineNumber">655</span><span class="antiqua">observantz</span> sich durch offentliche Reichs <span class="antiqua">Consti-<br/><span class="lineNumber">656</span>tution</span> ver<span class="antiqua">obligiren</span> und verbinden sollen, das sie, <br/>
+<span class="lineNumber">656</span>tution
+<span class="lineNumber">657</span>jedoch unbeschadet des Reichs Recht und gerechtig-<br/>
+<span class="lineNumber">658</span>keit, und nach verbleibung desselben Freyheit, nim[m]er <br/>
+<span class="lineNumber">659</span>und zu ewigen zeiten sich keines abfals, <span class="antiqua">rebellion</span>, <br/>
+<span class="lineNumber">660</span>auffstandes, betrübung des gemeinen friedes, ein-<br/>
+<span class="lineNumber">661</span>nemung und verhergung der benachbarten Landt-<br/>
+<span class="lineNumber">662</span>schafft, in und außwertiger <span class="antiqua">conspiration</span>, der Tür-<br/>
+<span class="lineNumber">663</span>cken, Tatern<span class="orig">,</span> oder anderer Feinde einfürung in das <br/>
+<span class="lineNumber">664</span>Königreich <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e5416">Hungern</button> und anstossenden <span class="antiqua">Provincien</span>, <br/>
+<span class="lineNumber">665</span>noch sonderbare <span class="antiqua">conventiculen</span> und zusammen-<br/>
+<span class="lineNumber">666</span>kunfften wider <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e5436">I[hre] Key[serliche] und Kön[igliche] Maj[estät]</button> nicht un-<br/>
+<span class="lineNumber">667</span>terstehen, noch durch einigen angemaste[n] schein unter <br/>
+<span class="lineNumber">668</span>fahen sollen: Sondern das viel mehr die Hungern <br/>
+<span class="lineNumber">669</span>und benachbarten Lender, vermöge der alten <span class="antiqua">com-<br/><span class="lineNumber">670</span>pactaten</span> und verbündtnus gute Nachbarschafft <br/>
+<span class="lineNumber">670</span>pactaten
+<span class="lineNumber">671</span>und vertrauliche <span class="antiqua">correspontentz</span> unter einander <br/>
+<span class="lineNumber">672</span>halten, und hin und wieder <span class="antiqua">commercien</span> mit <br/>
+<span class="lineNumber">673</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000028.tif.original.jpg" id="p-D2v"> [Blatt: D2<span class="rectoVerso">v</span> ] </button>den Christen einem jedern frey gelassen werden mü-<br/>
+<span class="lineNumber">674</span>gen, Inmasse[n] dann auch hinwieder die Hungern den <br/>
+<span class="lineNumber">675</span>benachbarten Landtschaffte[n] von haltu[n]g guter nach-<br/>
+<span class="lineNumber">676</span>barschafft, un[d] alles, so hierzu von nöten, einer jeden <br/>
+<span class="lineNumber">677</span>ihre so[n]derbare verbrieffu[n]g hieruber zustelle[n] werde[n].
+<span class="lineNumber">678</span>Und auff den fall der friede mit den Türcken auff-<br/>
+<span class="lineNumber">679</span>richtiger weiß nicht köndte geschlossen werden, sie <br/>
+<span class="lineNumber">680</span>auff ihren vorigen <span class="antiqua">conditionen</span> noch mals beruhen <br/>
+<span class="lineNumber">681</span>und solche ding <span class="antiqua">proponiren</span> möchten, welche der <br/>
+<span class="lineNumber">682</span>Cron <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e5527">Hungern</button> und benachbarten Landschafften<a class="fnNumber" href="#F_i" id="A_i">i</a> nach-<br/>
+<span class="lineNumber">683</span>teylig und gefahr bringen möchten, das sie als dan <br/>
+<span class="lineNumber">684</span>mit gesambter macht un[d] freydigem, willigem gemüt, <br/>
+<span class="lineNumber">685</span>sampt der <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e5547">Key[serlichen]und Kün[iglichen] Maj[estät]</button> Kriegsvolck wieder <br/>
+<span class="lineNumber">686</span>in, als den Erbfeindt Christliches nahmens und deß <br/>
+<span class="lineNumber">687</span>Vaterlandes, ohne einige <span class="antiqua">tergiversation</span> un[d] auß-<br/>
+<span class="lineNumber">688</span>flucht, zu bezeugu[n]g irer unterthenige[n] treu, verfahre[n].
+<span class="lineNumber">689</span>Und da dasselbe also nicht erfolgen würde, sollen <br/>
+<span class="lineNumber">690</span>die jenigen, so hierwider handeln würde[n], hierdurch <br/>
+<span class="lineNumber">691</span>in ewige schmach und vorwurff ihrer begangenen <br/>
+<span class="lineNumber">692</span>untreu gefallen sein.
+<span class="lineNumber">693</span>Gehandelt un[d] beschlosse[n] seind diese dinge<span class="orig">,</span> zu <button class="entity #wien place" data-ref="wien" data-type="place" id="d2e5588">Wien</button> <br/>
+<span class="lineNumber">694</span>in <button class="entity #oesterreich_erzherzogtum place" data-ref="oesterreich_erzherzogtum" data-type="place" id="d2e5594">Osterreich</button>, de[n] 23 Monats tag Junii, An[n]o 1606.
+<span class="lineNumber">695</span><button class="entity #matthias_oesterreich person" data-ref="matthias_oesterreich" data-type="person" id="d2e5602">MATTHIAS</button>. <br/>
+<span class="lineNumber">696</span><button class="entity #trautson_paul_sixt person" data-ref="trautson_paul_sixt" data-type="person" id="d2e5607">Paul Sixt Trautson</button> etc[etera]. <br/>
+<span class="lineNumber">697</span><button class="entity #molart_ernst_von person" data-ref="molart_ernst_von" data-type="person" id="d2e5612">Ernst von Molart</button>. <br/>
+<span class="lineNumber">698</span><button class="entity #erdoedy_tamas person" data-ref="erdoedy_tamas" data-type="person" id="d2e5618">Thomas Erdedi</button>, Erbgraff <br/>
+<span class="lineNumber">699</span>zu <button class="entity #moslavina place" data-ref="moslavina" data-type="place" id="d2e5624"><span class="antiqua">Monte Claudii</span></button>. <br/>
+<span class="lineNumber">700</span><button class="entity #forgacs_zsigmond person" data-ref="forgacs_zsigmond" data-type="person" id="d2e5630">Sigsmund Forgatzsch von <button class="entity #jelenec place" data-ref="jelenec" data-type="place" id="d2e5632">Ghymes</button></button>. <br/>
+<span class="lineNumber">701</span><button class="entity #breiner_siegfried_christoph person" data-ref="breiner_siegfried_christoph" data-type="person" id="d2e5640">Siegfried Christoff Preiner</button> etc[etera]. <br/>
+<span class="lineNumber">702</span><button class="entity #liechtenstein_karl_von person" data-ref="liechtenstein_karl_von" data-type="person" id="d2e5645">Carol von Liechtenstein</button>, etc[etera]. <br/>
+<span class="lineNumber">703</span><button class="entity #thurzo_gyoergy person" data-ref="thurzo_gyoergy" data-type="person" id="d2e5650">Georg Turzo</button>, Erbgraf vo[n] <button class="entity #arva_komitat place" data-ref="arva_komitat" data-type="place" id="d2e5654">Arva</button>. <br/>
+<span class="lineNumber">704</span><button class="entity #kremberg_ulrich_von person" data-ref="kremberg_ulrich_von" data-type="person" id="d2e5661">Ulrich von Kremberg</button>. <br/>
+<span class="lineNumber">705</span><button class="entity #illeshazy_istvan person" data-ref="illeshazy_istvan" data-type="person" id="d2e5666">Steffan Illiashazy</button>. <br/>
+<span class="lineNumber">706</span><button class="entity #vizkelety_tamas person" data-ref="vizkelety_tamas" data-type="person" id="d2e5672">Thomas Witzkelethy</button>. <br/>
+<span class="lineNumber">707</span><button class="entity #ostrozic_andras person" data-ref="ostrozic_andras" data-type="person" id="d2e5677">Andreas Ostrossith</button>. <br/>
+<span class="lineNumber">708</span><button class="entity #apponyi_pal person" data-ref="apponyi_pal" data-type="person" id="d2e5682">Paulus Apponi</button>.

@@ -1,0 +1,67 @@
+<span class="lineNumber">1</span>Wir <button class="entity #friedrich_iii_schleswig_holstein_gottorf person" data-ref="friedrich_iii_schleswig_holstein_gottorf" data-type="person" id="d2e198">Friederiech</button> von Gottes gnaden, Erbe zu <button class="entity #norwegen_koenigreich place" data-ref="norwegen_koenigreich" data-type="place" id="d2e201">Norwegen</button>, Hertzog zu <button class="entity #schleswig_herzogtum place" data-ref="schleswig_herzogtum" data-type="place" id="d2e204">Schleswig</button>, <button class="entity #holstein_herzogtum place" data-ref="holstein_herzogtum" data-type="place" id="d2e207">Holstein</button>, <button class="entity #stormarn_herzogtum place" data-ref="stormarn_herzogtum" data-type="place" id="d2e211">Stormarn</button> und der <br/>
+<span class="lineNumber">2</span><button class="entity #dithmarschen_herzogtum place" data-ref="dithmarschen_herzogtum" data-type="place" id="d2e215">Ditmarschen</button>, Graff zu <button class="entity #oldenburg_grafschaft place" data-ref="oldenburg_grafschaft" data-type="place" id="d2e218">Oldenburg</button> unnd <button class="entity #delmenhorst_grafschaft place" data-ref="delmenhorst_grafschaft" data-type="place" id="d2e221">Delmenhorst</button> etc. Urkunden unnd bekennen hiemit fur Jedermennig-<br/>
+<span class="lineNumber">3</span>lichen offentlich: Nachdem unns der Mennonisten etzliche undertheniglich berichten laßen, was <br/>
+<span class="lineNumber">4</span>gestaldt Sie geneigt sich anhero zubegeben, unnd in Unser <button class="entity #friedrichstadt place" data-ref="friedrichstadt" data-type="place" id="d2e234">Friederichstadt</button> heußlich niederzulaßen, auch <br/>
+<span class="lineNumber">5</span>daselbst in aller stille ohne einige ärgernus zuverhalten, dafern Sie in unnsern Schutz uff unnd ange-<br/>
+<span class="lineNumber">6</span>nohmmen, unnd aller unnsern zur <button class="entity #friedrichstadt place" data-ref="friedrichstadt" data-type="place" id="d2e246">Friederichstadt</button> wohnenden unnd geseßenen Burgern competirenden<a class="fnNumber" href="#F_1" id="A_1">1</a> <br/>
+<span class="lineNumber">7</span>freyheiten unnd privilegien in kauffen, verkauffen, unnd andern die Nahrung concernirenden<a class="fnNumber" href="#F_2" id="A_2">2</a> Punkten <br/>
+<span class="lineNumber">8</span>genießhafft werden könten. Daß <button class="entity #friedrich_iii_schleswig_holstein_gottorf person" data-ref="friedrich_iii_schleswig_holstein_gottorf" data-type="person" id="d2e260">Wir</button> dennoch gnediglich gewilligt, auch Fürstlich <br/>
+<span class="lineNumber">9</span>vorsprochen haben: Willigen unnd vorsprechen auch hiemit unnd krafft dieses nochmals, <br/>
+<span class="lineNumber">10</span>das gerührte unnd alle andere Mennonisten sich ungehindert sicher unnd kühnlich<a class="fnNumber" href="#F_3" id="A_3">3</a> in unsere <button class="entity #friedrichstadt place" data-ref="friedrichstadt" data-type="place" id="d2e271">Friederich-</button><br/>
+<span class="lineNumber">11</span><button class="entity #friedrichstadt place" data-ref="friedrichstadt" data-type="place" id="d2e271">stadt</button> zu wohnen geben, Ihre hanndtier- unnd nahrung daselbst bestes fleißes suchen, unnd fort-<br/>
+<span class="lineNumber">12</span>sezen, unnd<a class="fnNumber" href="#F_a" id="A_a">a</a> alle unnd Jeder unnsern andern zu <button class="entity #friedrichstadt place" data-ref="friedrichstadt" data-type="place" id="d2e289">Friederichstadt</button> geseßenen Bürgern und Ein-<br/>
+<span class="lineNumber">13</span>wohnern gegebenen Privilegien genießhafft sein, auch dabey vor menniglichen<a class="fnNumber" href="#F_4" id="A_4">4</a> fürstlich maintenirt<a class="fnNumber" href="#F_5" id="A_5">5</a>, <br/>
+<span class="lineNumber">14</span>geschutzet unnd gehandthabet werden. Jedoch sie, die Mennonisten, sich hinwiederumb Ihren erbieten <br/>
+<span class="lineNumber">15</span>nach still unnd eingezogen zuhalten, unnd niemandt in Religions sachen wedder heimblich noch offent-<br/>
+<span class="lineNumber">16</span>lich einige ergernus zugeben, schuldig sein sollen.
+<span class="lineNumber">17</span><a class="fnNumber" href="#F_c" id="A_c">c</a>Undt nach dehm die Mennonisten ins gemein <br/>
+<span class="lineNumber">18</span>ihnen darüber ein gewißen machen, daß sie Eide <br/>
+<span class="lineNumber">19</span>leisten, officia publica verwalten, oder wehr undt <br/>
+<span class="lineNumber">20</span>waffen gebrauchen sollen, da wollen wir ihnen <br/>
+<span class="lineNumber">21</span>allen undt sembtlich, also nicht allein denen, <br/>
+<span class="lineNumber">22</span>welche in unserer <button class="entity #friedrichstadt place" data-ref="friedrichstadt" data-type="place" id="d2e334">Friederichstadt</button> sich begeben werden, <br/>
+<span class="lineNumber">23</span>sondern auch den anderen, so in unsserem Lande <br/>
+<span class="lineNumber">24</span><button class="entity #eiderstedt place" data-ref="eiderstedt" data-type="place" id="d2e340">Eiderstedt</button> bereits sich häußlich nieder gesetzet, mit acker- <br/>
+<span class="lineNumber">25</span>bau undt viehe zucht umbgehen, oder sonsten <br/>
+<span class="lineNumber">26</span>ihr Domicilium<a class="fnNumber marginright" href="#F_6" id="A_6">6 </a> von dannen in <button class="entity #friedrichstadt place" data-ref="friedrichstadt" data-type="place" id="d2e353">Friederichstadt</button> <br/>
+<span class="lineNumber">27</span>nicht füglich transferiren können, dieße Gnade <br/>
+<span class="lineNumber">28</span>inmaßen darum bey unß gleichfals unterthän- <br/>
+<span class="lineNumber">29</span>nige ansuchung beschehen, bezeiget haben, daß <br/>
+<span class="lineNumber">30</span>sie zur Aydesleistung nicht gezwungen, <br/>
+<span class="lineNumber">31</span>noch auch mit einigem munere publico<a class="fnNumber marginright" href="#F_7" id="A_7">7 </a>, oder <br/>
+<span class="lineNumber">32</span>gemeinen Ambt belegt, weniger zur <br/>
+<span class="lineNumber">33</span>Wacht undt Defension, die mit wehr undt <br/>
+<span class="lineNumber">34</span>waffen geschieht, auffgebotten oder genöthiget, <br/>
+<span class="lineNumber">35</span>sondern wan von anderen, deren religion <br/>
+<span class="lineNumber">36</span>die aidtschwüre nicht zuwieder, purgationis<a class="fnNumber marginright" href="#F_b" id="A_b">b </a>, <br/>
+<span class="lineNumber">37</span>judicialia, malitiae, calumniae, oder appella- <br/>
+<span class="lineNumber">38</span>tionis juramenta geleistet werden müßen,<a class="fnNumber marginright" href="#F_8" id="A_8">8 </a> <br/>
+<span class="lineNumber">39</span>sie mit ihrem aufrechten ja undt nein ge- <br/>
+<span class="lineNumber">40</span>gehöret, undt darüber nicht beschweret werden <br/>
+<span class="lineNumber">41</span>sollen, doch das welche hernacher befunden <br/>
+<span class="lineNumber">42</span>würden, daß ihr ja und nein unrichtig, die <br/>
+<span class="lineNumber">43</span>straffe so auff die Meineyder gesetzet, auß- <br/>
+<span class="lineNumber">44</span>stehen, undt von ihnen die jenigen, die ver- <br/>
+<span class="lineNumber">45</span>meinen, daß sie mit gueten gewißen <br/>
+<span class="lineNumber">46</span>schweren, in officio publico sein, undt sich wehr <br/>
+<span class="lineNumber">47</span>undt waffen gebrauchen können, nicht verspot- <br/>
+<span class="lineNumber">48</span>tet werden. Unndt daß für die Mennonisten <br/>
+<span class="lineNumber">49</span>sonsten jeden ohrts, nachgesetzter<a class="fnNumber marginright" href="#F_9" id="A_9">9 </a> Obrigkeit, <br/>
+<span class="lineNumber">50</span>gegen die Erlaßung der wacht unndt des <br/>
+<span class="lineNumber">51</span>gebrauchs wehr und waffen zur Defension <br/>
+<span class="lineNumber">52</span>eine zimbliche darlage<a class="fnNumber marginright" href="#F_10" id="A_10">10 </a>, so zum gemeinen <br/>
+<span class="lineNumber">53</span>besten anzuwenden, entrichten, unndt <br/>
+<span class="lineNumber">54</span>welche auff dem Lande wohnen, in der <br/>
+<span class="lineNumber">55</span><button class="entity #friedrichstadt place" data-ref="friedrichstadt" data-type="place" id="d2e463">Friederichstadt</button> allein ihren Gottesdienst haben, <br/>
+<span class="lineNumber">56</span>sonsten aber an anderen ohrten auffm Lande we- <br/>
+<span class="lineNumber">57</span>der heimblich noch offentlich des exercitium religionis <br/>
+<span class="lineNumber">58</span>halber zusammen kommen, <br/>
+<span class="lineNumber">59</span>und sich also der winkelpredigen<a class="fnNumber marginright" href="#F_11" id="A_11">11 </a>, undt privat <br/>
+<span class="lineNumber">60</span>Conventiculorum<a class="fnNumber marginright" href="#F_12" id="A_12">12 </a> allerdings äußern unndt ent- <br/>
+<span class="lineNumber">61</span>halten.<a class="fnNumber" href="#F_c">c</a>
+<span class="lineNumber">62</span>Und damit sie<a class="fnNumber" href="#F_d" id="A_d">d</a> solcher unser Fürstl<span class="ex">[ichen]</span> <br/>
+<span class="lineNumber">63</span>bewilligung so viel da mehr vorsichert sein mochten, Alß haben <button class="entity #friedrich_iii_schleswig_holstein_gottorf person" data-ref="friedrich_iii_schleswig_holstein_gottorf" data-type="person" id="d2e508">Wir</button> daruff diesen Schein <br/>
+<span class="lineNumber">64</span>mit unnserm hanndt zeichen unnd Fürstlichen Cammer Secret<a class="fnNumber" href="#F_13" id="A_13">13</a>, bevestiget unnd betrucken, und den-<br/>
+<span class="lineNumber">65</span>selben unnsern Statthalter zur <button class="entity #friedrichstadt place" data-ref="friedrichstadt" data-type="place" id="d2e524">Friederichstadt</button> zur vorwahrung gnediglich zustellen laßen, <br/>
+<span class="lineNumber">66</span>So geschehen auff unserm <button class="entity #gottorf_schloss place" data-ref="gottorf_schloss" data-type="place" id="d2e529">Schloße Gottorff</button> am 13. Februarii Anno 1623.
+<span class="lineNumber">67</span><button class="entity #friedrich_iii_schleswig_holstein_gottorf person" data-ref="friedrich_iii_schleswig_holstein_gottorf" data-type="person" id="d2e540">Friedrich</button>

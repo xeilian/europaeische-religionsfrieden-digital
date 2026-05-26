@@ -1,0 +1,365 @@
+<span class="lineNumber">1</span>Wir, <button class="entity #witmer_hinrich person" data-ref="witmer_hinrich" data-type="person" id="d2e1138">Hinricus Withmer</button>, decanus, <button class="entity #keye_johannes person" data-ref="keye_johannes" data-type="person" id="d2e1141">Johannes Keye</button>, senior, und gantze capittell der domkirchen <br/>
+<span class="lineNumber">2</span>zu <button class="entity # place" data-ref="" data-type="place" id="d2e1147">Hamburg</button>, an einem, unnd burgermeistere unnd raedt der statt <br/>
+<span class="lineNumber">3</span><button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e1151">Hamburg</button> anderß theilß, bekennen in diesem briefe fur unns und unsere nach-<br/>
+<span class="lineNumber">4</span>khommen an gemeltem capittell unnd <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e1159">statt</button>, unnd fernehr<a class="fnNumber" href="#F_1" id="A_1">1</a> fur alle die, so von unser beider <br/>
+<span class="lineNumber">5</span>seits wegen in nachfolgender handlung unnd vertrage begriffen seyn, jegen<a class="fnNumber" href="#F_2" id="A_2">2</a> idermennig-<br/>
+<span class="lineNumber">6</span>lichen<a class="fnNumber" href="#F_3" id="A_3">3</a>, daß wir Gott dem Allmechtigen zu lob unnd ehren, unnß unnd unsern nachkhom-<br/>
+<span class="lineNumber">7</span>men am capittell unnd rahedt unnd sunst allen unnd jeglichen gaystlichen unnd weltlichen <br/>
+<span class="lineNumber">8</span>stants<a class="fnNumber" href="#F_4" id="A_4">4</a> eingesessener cleresey<a class="fnNumber" href="#F_5" id="A_5">5</a> unnd burgerschafftt der statt <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e1196">Hamburg</button>, zu wollstand<a class="fnNumber" href="#F_6" id="A_6">6</a> <br/>
+<span class="lineNumber">9</span>aller spenn<a class="fnNumber" href="#F_7" id="A_7">7</a> unnd irrunge<a class="fnNumber" href="#F_8" id="A_8">8</a>, darumb wir, die vom capittell, gegen benante hern bur-<br/>
+<span class="lineNumber">10</span>germeistere unnd raedt, auch kirchengeschworne, burgere unnd gantze gemeinde vorge-<br/>
+<span class="lineNumber">11</span>nanter statt vor etzlichen jahren am keyserlichen cammergerichtt in rechtfertigung <br/>
+<span class="lineNumber">12</span>erwachssen<a class="fnNumber" href="#F_9" id="A_9">9</a> unnd biß auff diese zeitt gestanden,<a class="fnNumber" href="#F_10" id="A_10">10</a> auff vorgehabten zeittigen rahtt,<a class="fnNumber" href="#F_11" id="A_11">11</a> <br/>
+<span class="lineNumber">13</span>tractation<a class="fnNumber" href="#F_12" id="A_12">12</a> unnd bedencken<a class="fnNumber" href="#F_13" id="A_13">13</a>, mith unserm guten freyen willen, ohne einiche bodrancknuß<a class="fnNumber" href="#F_14" id="A_14">14</a>, forch-<br/>
+<span class="lineNumber">14</span>te oder gefehrliche induction<a class="fnNumber" href="#F_15" id="A_15">15</a>, seind vorglichen<a class="fnNumber" href="#F_16" id="A_16">16</a> unnd entlich vertragen<a class="fnNumber" href="#F_17" id="A_17">17</a>,
+<span class="lineNumber">15</span>daß wir, domdechant unnd capittell neben unnd mitt unserm thumbprobst, wollen eynen <br/>
+<span class="lineNumber">16</span>Erbaren Raedtt der statt <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e1274">Hamburg</button>, ihre burgere, unnderthanen unnd semptliche ge-<br/>
+<span class="lineNumber">17</span>meinde vermuge des religion friedenß bey der <button aria-label="opens information about an entity" class="entity event" data-ref="#ca_invariata">Auspurgischen Confession</button> Religion, <br/>
+<span class="lineNumber">18</span>glauben, bestellung der ministerien<a class="fnNumber" href="#F_18" id="A_18">18</a>, auch kirchen gebreuchen, ordnungen unnd cere-<br/>
+<span class="lineNumber">19</span>monien, so der Erbar Raedt in ihrer statt unnd gebiete auffgerichtet hatt, friedlich <br/>
+<span class="lineNumber">20</span>unnd geruebiglich<a class="fnNumber" href="#F_19" id="A_19">19</a> pleiben laissen, unnd nicht practizieren<a class="fnNumber" href="#F_20" id="A_20">20</a>, sie davon zu tringen<a class="fnNumber" href="#F_21" id="A_21">21</a> <br/>
+<span class="lineNumber">21</span>oder bewegen, noch durch mandata oder jeniger anderer gestaltt<a class="fnNumber" href="#F_22" id="A_22">22</a> beschweren<a class="fnNumber" href="#F_23" id="A_23">23</a> oder ver-<br/>
+<span class="lineNumber">22</span>achten.
+<span class="lineNumber">23</span>diction dawider, biß zu entlicher vergleichunge der religion, nicht exerciren<a class="fnNumber" href="#F_24" id="A_24">24</a>, ge-<br/>
+<span class="lineNumber">24</span>brauchen oder uben, sonder soll alsolliche<a class="fnNumber" href="#F_25" id="A_25">25</a> jurisdiction biß zu entlicher<a class="fnNumber" href="#F_26" id="A_26">26</a> christlicher <br/>
+<span class="lineNumber">25</span>vorgleichung der religion ruhen, eingestellt unnd suspendirtt seyn unnd pleiben.
+<span class="lineNumber">26</span>Idoch wollen wyr, burgermeister unnd rahtt, den dohmprobst, dechant unnd ca-<br/>
+<span class="lineNumber">27</span>pittell nichtt hindern oder beeindrechtigen, ihre jurisdiction in criminalibus causis, <br/>
+<span class="lineNumber">28</span>wie von alterßhero gewohnlich unnd sie dessen exercitium, brauch unnd ubung gehabtt, <br/>
+<span class="lineNumber">29</span>uber die personen ihres thumbcapittels, vicarien, cemmerer, staff dreger<a class="fnNumber" href="#F_27" id="A_27">27</a>, vogtt, <br/>
+<span class="lineNumber">30</span>custere<a class="fnNumber" href="#F_28" id="A_28">28</a> unnd kirchenknechtt<a class="fnNumber" href="#F_29" id="A_29">29</a> zugebrauchen, sonder wollen sie dabey friedsam lassen, <br/>
+<span class="lineNumber">31</span>mitt dem bescheide, so fernhe in obberurten malefitz unnd criminall sachen<a class="fnNumber" href="#F_30" id="A_30">30</a> die <br/>
+<span class="lineNumber">32</span>thetter in unnserer jurisdiction angetroffen, oder ratione domicilii<a class="fnNumber" href="#F_31" id="A_31">31</a> oder delicti<a class="fnNumber" href="#F_32" id="A_32">32</a> <br/>
+<span class="lineNumber">33</span>gefallen, haben wir unnß den angriff vůehrbehalten, die thätter bey dem wyrdtt <br/>
+<span class="lineNumber">34</span>auff dem Winser baume<a class="fnNumber" href="#F_33" id="A_33">33</a> eyn zu ziehen. Jdoch wollen wir alsolliche mißthätter <br/>
+<span class="lineNumber">35</span>inwendig vyer unnd zwentzich stunden dem domprobste, dechante vnnd capittell, ihrem <br/>
+<span class="lineNumber">36</span>cemmerern oder einichem derselbigen dienere auff ihre erste anforderunge folgen <br/>
+<span class="lineNumber">37</span>lassen<a class="fnNumber" href="#F_34" id="A_34">34</a>, wie sonsten in mehr orteren gebreuchlich, illesos<a class="fnNumber" href="#F_35" id="A_35">35</a> unnd unvorletzet in deß <br/>
+<span class="lineNumber">38</span>capittels vorwahre<a class="fnNumber" href="#F_36" id="A_36">36</a> zu überantwortten, folgends dieselben thetter nach gestalt der <br/>
+<span class="lineNumber">39</span>mißhandlong der gebuhr nach zu straffen.
+<span class="lineNumber">40</span>thumbprobst, dechant unnd capittell nichtt hinderen oder beeindrechtigen, uber unnd <br/>
+<span class="lineNumber">41</span>zwischen obgedochten gaystlichen personen, auch ihren dieneren und wesentlichen <br/>
+<span class="lineNumber">42</span>haußgesinde, in civilibus causis unnd burgerlichen sachen die jurißdiction, wie sie <br/>
+<span class="lineNumber">43</span>deren von alterßhero in ubung gewesen, zu gebrauchen, doch mitt der beschei-<br/>
+<span class="lineNumber">44</span>denheitt<a class="fnNumber" href="#F_37" id="A_37">37</a>, daß wyr, domcapittell obgemeltt, auff den fall, da jemandtß von burgern <br/>
+<span class="lineNumber">45</span>oder inwohnern unnd verwanten der statt <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e1457">Hamburg</button> oder sonnst anderen fremb-<br/>
+<span class="lineNumber">46</span>den personen einen oder mehr unnsers mittelß<a class="fnNumber" href="#F_38" id="A_38">38</a>, thumbhern, andere gaystliche, <br/>
+<span class="lineNumber">47</span>unsere oder ihre dienere unnd haußgesinde, mitt rechte anlangen<a class="fnNumber" href="#F_39" id="A_39">39</a> wurde, daß deme <br/>
+<span class="lineNumber">48</span>oder denen auff ihre ansuchunge geburlich unvorzuglich rechtt durch unns soll mitt <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=ETUBOJCYZIGGKHYWSAONWJVD&amp;fileType=view" id="p-1v"> [Blatt: 1<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">49</span>geteilet<a class="fnNumber" href="#F_a" id="A_a">a</a> werden, dermassen, daß die sache innerhalb sechß wochen soll anhengig gemachtt <br/>
+<span class="lineNumber">50</span>unnd zum lengsten inwendich<a class="fnNumber" href="#F_40" id="A_40">40</a> jahres fristt nach gelegenhaitt darnach darinne erkhantt, <br/>
+<span class="lineNumber">51</span>und kheinem teile ursach gegeben werden, von weygerung oder verzognen rechtens<a class="fnNumber" href="#F_41" id="A_41">41</a> <br/>
+<span class="lineNumber">52</span>sich zu beclagen.
+<span class="lineNumber">53</span>gleichermaissen in vorhelffunge rechtenns halten, so fernhe jemants von dem dom-<br/>
+<span class="lineNumber">54</span>capittell unnd clerisey oder ihren dieneren unnd wesentlichen haußgesinde, jenige bur-<br/>
+<span class="lineNumber">55</span>gere, inwohnere unnd verwanten, so unnserm gerichts zwang underworffen, mitt rechte <br/>
+<span class="lineNumber">56</span>anlangen wurde, daß inwendich sechs wochen die sache soll anhengig gemachtt unnd nach <br/>
+<span class="lineNumber">57</span>gelegenhaitt innerhalb jahres frist darinnen erkhandt werden, waß sich zu rechte <br/>
+<span class="lineNumber">58</span>eignen unnd gebuhren will.
+<span class="lineNumber">59</span>diction exempt unnd außgezogen<a class="fnNumber" href="#F_43" id="A_43">43</a> sein der Doctor Theologiae oder Superintendens, Secundarius <br/>
+<span class="lineNumber">60</span>Lector, die pastoren, cappellanen, unnd dienere der vyer pfarkirchen<a class="fnNumber" href="#F_44" id="A_44">44</a>, item zu Sanct <br/>
+<span class="lineNumber">61</span>Jurgen<a class="fnNumber" href="#F_45" id="A_45">45</a>, dem Heilligen Geiste<a class="fnNumber" href="#F_46" id="A_46">46</a>, S. Johann<a class="fnNumber" href="#F_47" id="A_47">47</a>, Marien Magdalenen<a class="fnNumber" href="#F_48" id="A_48">48</a>, kostere<a class="fnNumber" href="#F_49" id="A_49">49</a>, schullmeistere, <br/>
+<span class="lineNumber">62</span>schulgesellen<a class="fnNumber" href="#F_50" id="A_50">50</a>, auch alle andere personen unnd kirchen dienere, ausserhalb <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e1578">Hamburgk</button> <br/>
+<span class="lineNumber">63</span>in des raths jurisdiction gesessen, unnd gemeiniglich wollen wyr die synodalische, <br/>
+<span class="lineNumber">64</span>officialische oder einiche andere gaystliche jurisdiction, wie die nahmen hetten, <br/>
+<span class="lineNumber">65</span>nicht gebrauchen, ausserhalb dem, ßo in obengesetzten articuln vermeldet, son-<br/>
+<span class="lineNumber">66</span>der soll in allen anderen fellen, in maissen obstehet, alsolliche jurisdiction, <br/>
+<span class="lineNumber">67</span>vermuge des <button aria-label="opens information about an entity" class="entity event" data-ref="#augsburger_religionsfrieden">religion friedenß</button>, biß zu entlicher christleicher vorgleichunge der streitigen <br/>
+<span class="lineNumber">68</span>religion ruhen eingestellt unnd suspendirtt sein unnd pleiben.
+<span class="lineNumber">69</span>burgermeistere unnd rahdt, wollen die eilff thumbhöfe<a class="fnNumber" href="#F_51" id="A_51">51</a> bay ihrer von alterß her <br/>
+<span class="lineNumber">70</span>gebrachten freyheitt, so fernhe von thumb hern, in wellicher behueff<a class="fnNumber" href="#F_52" id="A_52">52</a> die höfe ge[-]<br/>
+<span class="lineNumber">71</span>bauwet, ader andern gaystlichen personen, so dem thumb probst, dechant oder ca-<br/>
+<span class="lineNumber">72</span>pittell verwant sein, bewohnet werden, pleiben lassen. Dagegen wollen wyr dem <br/>
+<span class="lineNumber">73</span>capittell in gemein unnd unserß capittels personen insonderheitt in <br/>
+<span class="lineNumber">74</span>alsollichen höfen kheine mißthetter oder jemants, ßo deß rahtß jurisdiction ratione <br/>
+<span class="lineNumber">75</span>delicti vel domicilii<a class="fnNumber" href="#F_53" id="A_53">53</a> underworffen, wider deß rahts willen nicht underschlauffen<a class="fnNumber" href="#F_54" id="A_54">54</a>, unnd <br/>
+<span class="lineNumber">76</span>einem Erb<span class="ex">[aren]</span> Rahtt auff ihre anforderunge dieselbigen unweigerlich folgen lassen <br/>
+<span class="lineNumber">77</span>unnd nichtt vorenthalten. Wurde auch ein oder mehr berurter thumbhöfe von <br/>
+<span class="lineNumber">78</span>welttlichen personen bewohnett (welliche doch, so dieselbigen einem Ehrb<span class="ex">[aren]</span> Rahte auß <br/>
+<span class="lineNumber">79</span>billichen<a class="fnNumber" href="#F_55" id="A_55">55</a> ursachen unleittlich<a class="fnNumber" href="#F_56" id="A_56">56</a>, von unnß in gemein oder von den capitular personen <br/>
+<span class="lineNumber">80</span>nichtt sollen underhalten werden), alsdan sollen alsolliche inwohner der gebuehr <br/>
+<span class="lineNumber">81</span>nach<a class="fnNumber" href="#F_57" id="A_57">57</a> unnd vermuge alter concordien<a class="fnNumber" href="#F_58" id="A_58">58</a> wie andere burgere steuren<a class="fnNumber" href="#F_59" id="A_59">59</a>.
+<span class="lineNumber">82</span>Wyr, burgermeistere unnd rahet, wollen in beneficialibus<a class="fnNumber" href="#F_60" id="A_60">60</a> dem domprobste, thumb[-]<br/>
+<span class="lineNumber">83</span>dechant vnnd capittell, wie gewontlich, die investitur unnd institution<a class="fnNumber" href="#F_61" id="A_61">61</a>, so dem capittell <br/>
+<span class="lineNumber">84</span>von alterß hero geburet hatt, nichtt vorhindern, doch mitt dem bescheide<a class="fnNumber" href="#F_62" id="A_62">62</a>, dieweile wyr <br/>
+<span class="lineNumber">85</span>oder ein andere sonderbahre personen zu ettlichen lehnen daß jus patronatus<a class="fnNumber" href="#F_63" id="A_63">63</a> haben, <br/>
+<span class="lineNumber">86</span>so soll unns oder andern patronen in ihrer gerechtigkaitt nichts benohmen sein. Der <br/>
+<span class="lineNumber">87</span>gestaltt, wanner wyr ader andere, so daerzu berechtigtt, alse patroni dem thumbprobst, <br/>
+<span class="lineNumber">88</span>dechant unnd capittell zu alsollichen lehnen eine taugentliche<a class="fnNumber" href="#F_64" id="A_64">64</a> personen praesentiren <br/>
+<span class="lineNumber">89</span>wurden, soll der thumb probst, dechant unnd capittell uff conscientz<a class="fnNumber" href="#F_65" id="A_65">65</a> der patronen <br/>
+<span class="lineNumber">90</span>oder presentanten, ohne fernher inquisition<a class="fnNumber" href="#F_66" id="A_66">66</a>, die presentirte personen, gegen erstattung <br/>
+<span class="lineNumber">91</span>gewonlichß statuten gelts unnd eidts, wellicher eidtt alleine auff getreuwe ver-<br/>
+<span class="lineNumber">92</span>waltunge der guter ihrer beneficien unnd dieselbige gefehrlicher unnd ungebuehrlicher <br/>
+<span class="lineNumber">93</span>weise von den beneficien nichtt zu alieniren soll gerichtet seyn, ohne allen weittern <br/>
+<span class="lineNumber">94</span>zusatz in den vyer pfarkirchen, auch im thumb, in den vicarien unnd com-<br/>
+<span class="lineNumber">95</span>menden, zu wellichen wyr oder andere laicj das ius patronatus haben, schuldig <br/>
+<span class="lineNumber">96</span>sein, dieselbige zu investiren unnd institueren, doch soll niemandtt investiertt <br/>
+<span class="lineNumber">97</span>werden, er sey denn ein scholar<a class="fnNumber" href="#F_67" id="A_67">67</a> oder in universiteten gestanden unnd das er seyn <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=KQVFSUXCQAZLHHIUUDHXYMMG&amp;fileType=view" id="p-2r"> [Blatt: 2<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">98</span>studieren nicht ubergeben habe<a class="fnNumber" href="#F_68" id="A_68">68</a>, unnd da er sich zu welttlichen emptern begeben wurde, <br/>
+<span class="lineNumber">99</span>so sollen solliche beneficia ipso iure<a class="fnNumber" href="#F_69" id="A_69">69</a> vaciren<a class="fnNumber" href="#F_70" id="A_70">70</a>, unnd andere vorgeschriebner maissen <br/>
+<span class="lineNumber">100</span>taugentliche personen, durch die patronen præsentirt unnd die investituer, gegen er-<br/>
+<span class="lineNumber">101</span>stattunge, (wie obengesetzet) gegeben werden, unnd zu vorhutunge aller gefehrlicheitt<a class="fnNumber" href="#F_71" id="A_71">71</a> <br/>
+<span class="lineNumber">102</span>unnd weiterunge<a class="fnNumber" href="#F_72" id="A_72">72</a>, so offtt sich angeregter fall begeben wurde, soll dasselbige dem patronen <br/>
+<span class="lineNumber">103</span>durch die hern deß capittels denuncijrt<a class="fnNumber" href="#F_73" id="A_73">73</a> unnd angekhundigtt, unnd inwendich dreyer monatt <br/>
+<span class="lineNumber">104</span>darnach, von zeit der denunctiation unnd a tempore scientiae<a class="fnNumber" href="#F_74" id="A_74">74</a> an zu rechnen, ßoferne <br/>
+<span class="lineNumber">105</span>der patron binnen landeß, oder in sechs monatten, so ferhne der patron ausserhalb <br/>
+<span class="lineNumber">106</span>landeß, durch den patronen eyn andre persone, wie vorgemeldett, den collatoribus<a class="fnNumber" href="#F_75" id="A_75">75</a> <br/>
+<span class="lineNumber">107</span>præsentirt werden. Wo aber die patron in gesetzter frist, nach empfangner <br/>
+<span class="lineNumber">108</span>denunctiation, darin seumich wurde, soll pro illa vice<a class="fnNumber" href="#F_76" id="A_76">76</a> die provision derselbigen an <br/>
+<span class="lineNumber">109</span>thumbprobst, dechantt unnd capittell gefallen seyn.
+<span class="lineNumber">110</span>aller collation<a class="fnNumber" href="#F_77" id="A_77">77</a> der gaystlichen lehne, welliche in deß capittels monatt<a class="fnNumber" href="#F_78" id="A_78">78</a> erleddigtt unnd <br/>
+<span class="lineNumber">111</span>vacieret, oder so dem thumbprobste, dechant oder capittell ohne alle mittell zu conferi-<br/>
+<span class="lineNumber">112</span>ren gebuhren, hinfernehr enthalten. Daerjegen wollen wyr, dohmcapittell, <br/>
+<span class="lineNumber">113</span>auffrichtich damitt handlen.
+<span class="lineNumber">114</span>periert<a class="fnNumber" href="#F_79" id="A_79">79</a> ader durch andere wege derselbigen guitter<a class="fnNumber" href="#F_80" id="A_80">80</a> corpora unnd andere jahrliche hebunge <br/>
+<span class="lineNumber">115</span>enthwendet oder underschlagen sein, von noten ist, daß eine visitation von uns, dem <br/>
+<span class="lineNumber">116</span>domcapitell, furgenohmmen unnd Ein Erb<span class="ex">[arer]</span> Rahet auff ditz mahll etzliche personen da-<br/>
+<span class="lineNumber">117</span>bey zuvorordnen von unnß angelanget<a class="fnNumber" href="#F_81" id="A_81">81</a> unnd gebetten werde, wollen wyr dasselbige <br/>
+<span class="lineNumber">118</span>furdersaem unnd zu erster gelegenheitt wurcklich an unnd fur die handt nehmen, <br/>
+<span class="lineNumber">119</span>unnd sollen die visitatores gruntlich aller patronattschafftt, unnd waß von den bene-<br/>
+<span class="lineNumber">120</span>ficien verrucktt, auch der experierten<a class="fnNumber" href="#F_82" id="A_82">82</a> lehne gelegenheitt sich fleissig und eigentlich <br/>
+<span class="lineNumber">121</span>erkhunden, doch soll die beyforderunge welttlicher personen bey diese visitation <br/>
+<span class="lineNumber">122</span>unnß in unserm jure visitandi, folgendß fur unns alleine zu thuende, unschedlich seynn, <br/>
+<span class="lineNumber">123</span>unnd nach volnnfurter visitation sollen die visitanten daruon unnß bestendige <br/>
+<span class="lineNumber">124</span>relation<a class="fnNumber" href="#F_83" id="A_83">83</a> thuen, auch soll einem Erb<span class="ex">[aren]</span> Rahde, worin die mangell befunden, grunt-<br/>
+<span class="lineNumber">125</span>lich angezeigtt werden.
+<span class="lineNumber">126</span>wyr, domcapittell, zwischen unns unnd den patronen jegliche unnd friedsame handlung <br/>
+<span class="lineNumber">127</span>unnd mittell leiden, aber dasunst befinden, daß etwas von den beneficien ungebur-<br/>
+<span class="lineNumber">128</span>lichermaiß alienirt, occupirt oder entzogen, wollen wir in gleichnuß auch wier, <br/>
+<span class="lineNumber">129</span>burgermeister unnd raht, jeder die vnsere ernstlich nach eusserstem vermugen dohin halten, <br/>
+<span class="lineNumber">130</span>dasselbige bey unnd an die beneficia, daruon eß entwendett, wederumb zu bringen, <br/>
+<span class="lineNumber">131</span>alß auch ein Erb<span class="ex">[arer]</span> Rahtt oder die burgermeistere etzliche beneficia fur dieser zeitt <br/>
+<span class="lineNumber">132</span>conferirt unnd vorlehnet haben, daran doch wir, domcapittell, ihnen deß iuris <br/>
+<span class="lineNumber">133</span>conferendi nichtt gestendich, auch andere personen dieselbigen erlangtt, haben <br/>
+<span class="lineNumber">134</span>wir dennoch umb mehrer ruhe unnd friedenß willen nachgegeben, daß die itzigen <br/>
+<span class="lineNumber">135</span>belehneten des rahtts auff billiche contentation<a class="fnNumber" href="#F_85" id="A_85">85</a> der impetranten<a class="fnNumber" href="#F_86" id="A_86">86</a> nach erkhanttnuß<a class="fnNumber" href="#F_87" id="A_87">87</a> <br/>
+<span class="lineNumber">136</span>unnd messigung<a class="fnNumber" href="#F_88" id="A_88">88</a> der negsten visitatoren, sofernhe sie sunst daruber sich nichtt khonten <br/>
+<span class="lineNumber">137</span>vorgleichen, dabey sollen gelassen werden. Idoch wollen wier hiemitt an[-]<br/>
+<span class="lineNumber">138</span>geregten impetranten die persecution<a class="fnNumber" href="#F_89" id="A_89">89</a> ihrer rechten auff den fall, da sie mitt <br/>
+<span class="lineNumber">139</span>diesem mittell nitt friedich<a class="fnNumber" href="#F_90" id="A_90">90</a>, furbehalten haben.
+<span class="lineNumber">140</span>meister unnd rahtt, hinfüro dergleichen collation im thumb unnß enthalten, aber <br/>
+<span class="lineNumber">141</span>mitt denne lecturen im thumb unnd underhaltunge der lecturen soll eß <br/>
+<span class="lineNumber">142</span>bey itziger verordunge gelassen werden, doch daß nach abgange deß itzigen Docto-<br/>
+<span class="lineNumber">143</span>ris Theologiae <button class="entity #eitzen_paul_von person" data-ref="eitzen_paul_von" data-type="person" id="d2e2014">Pauli ab Eitzen</button> unnd deß Sublectorn M<span class="ex">[agistri]</span> <button class="entity #degener_joachim person" data-ref="degener_joachim" data-type="person" id="d2e2021">Joachimi Degenerß</button>, die <br/>
+<span class="lineNumber">144</span>negest folgende Doctor Theologiae unnd Sublector unnd ihre successores<a class="fnNumber" href="#F_91" id="A_91">91</a> hinfurder <br/>
+<span class="lineNumber">145</span>von dem structurario<a class="fnNumber" href="#F_92" id="A_92">92</a> unnd elttisten burgermeister die praesentation, aber von <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=WWPJMWGOOQIMAYDGPAAUPIPE&amp;fileType=view" id="p-2v"> [Blatt: 2<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">146</span>unnß dem thumbcapittell die collation unnd possession empfangen unnd annstatt des eidts <br/>
+<span class="lineNumber">147</span>mith ihrem handtgelubde<a class="fnNumber" href="#F_93" id="A_93">93</a> sich verpflichten, in massen hie oben von andern beneficiaten, <br/>
+<span class="lineNumber">148</span>so vom Erb<span class="ex">[aren]</span> Rahde oder andern patronis presentirt werden, gesetzet, auch gewohn-<br/>
+<span class="lineNumber">149</span>liche statuten betzalen.
+<span class="lineNumber">150</span>den kirchen pleiben unnd den gemeinen vicarien, so daerzu berechtigett, ohne verhinde-<br/>
+<span class="lineNumber">151</span>rung unnd impaß<a class="fnNumber" href="#F_95" id="A_95">95</a> außgeteilet unnd zugestellett, auch in prophanos usus unnd weltliche <br/>
+<span class="lineNumber">152</span>ungeburliche gebrauche kheines wegeß angewandtt werden.
+<span class="lineNumber">153</span>rung der religion in der statt <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e2093">Hamburg</button> eine summa geldts alle jahr auß den me-<br/>
+<span class="lineNumber">154</span>morien zu underhaltunge der schulen, als einem noittwendigen, nutzbarn<a class="fnNumber" href="#F_96" id="A_96">96</a> unnd christ-<br/>
+<span class="lineNumber">155</span>lichem amptt<a class="fnNumber" href="#F_97" id="A_97">97</a>, verordnet unnd bestellet, so haben wyr Domcapittell zu erbawong<a class="fnNumber" href="#F_98" id="A_98">98</a> <br/>
+<span class="lineNumber">156</span>gemeinen wollstandß unnd alles guten, erbahrlichen wesens, nachgegeben unnd bewilligtt, <br/>
+<span class="lineNumber">157</span>daß hinfuro sollen die monitorn<a class="fnNumber" href="#F_99" id="A_99">99</a> in den vyer pfarkirchen den vorstendern der schulen <br/>
+<span class="lineNumber">158</span>sechß hundert Marck Lubisch<a class="fnNumber" href="#F_100" id="A_100">100</a>, zu underhaltunge der schulen unnd besoldunge der schull-<br/>
+<span class="lineNumber">159</span>meistern, auß obberurten memorien zu uberantwortten unnd behendigen schuldig seyn, <br/>
+<span class="lineNumber">160</span>unnd mith dem ubrigen der memorien, ßo eyn grosses unnd mergklicheß, soll es ge-<br/>
+<span class="lineNumber">161</span>halten werden, wie obstehet.
+<span class="lineNumber">162</span>liche der geystlichen lehne, silberen unnd golden clenodia<a class="fnNumber" href="#F_101" id="A_101">101</a>, kirchen unnd altar zirath<a class="fnNumber" href="#F_102" id="A_102">102</a>, siegell <br/>
+<span class="lineNumber">163</span>unnd briefe<a class="fnNumber" href="#F_103" id="A_103">103</a>, so bey dem Erb<span class="ex">[aren]</span> Rahde oder den burgern verhanden, uff der thumbkirchen <br/>
+<span class="lineNumber">164</span>treße<a class="fnNumber" href="#F_104" id="A_104">104</a> in zeiten der ersten visitation lieberen<a class="fnNumber" href="#F_105" id="A_105">105</a> zu laissen gesonnen, unnd wyr, bur-<br/>
+<span class="lineNumber">165</span>germeistere unnd rahtt, es darfur halten, daß bey unns sollicher stuck nichtt enthalten, <br/>
+<span class="lineNumber">166</span>da eß dennoch uber unsere wissenschafftt<a class="fnNumber" href="#F_106" id="A_106">106</a> doselbst oder bey unnsern burgern befunden <br/>
+<span class="lineNumber">167</span>mochte werden, in dem wollen wir aller unverweißlichen gebuehr<a class="fnNumber" href="#F_107" id="A_107">107</a> unnd dermassen <br/>
+<span class="lineNumber">168</span>unns ertzeigen, daß den gaistlichen beneficien wider rechtt unnd fuge<a class="fnNumber" href="#F_108" id="A_108">108</a> nichts soll furent-<br/>
+<span class="lineNumber">169</span>halten werden.
+<span class="lineNumber">170</span>dorffern alle hebunge an khorn<a class="fnNumber" href="#F_109" id="A_109">109</a> unnd gelde, dem domcapittell restituiren, unnd die <br/>
+<span class="lineNumber">171</span>leuthe anhalten, die retardata<a class="fnNumber" href="#F_110" id="A_110">110</a> zu betzalen an enden unnd orten, da dem domcapittel <br/>
+<span class="lineNumber">172</span>unnd clerisey sollichß gebuhret.
+<span class="lineNumber">173</span>ter Hervesthude<a class="fnNumber" href="#F_111" id="A_111">111</a>, itzo binnen <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e2250">Hamburg</button>, seine alte gerechtigkeitt, also eynen Hamburger <br/>
+<span class="lineNumber">174</span>gulden jahrlichß, folgen<a class="fnNumber" href="#F_112" id="A_112">112</a> lassen, unnd sollen einem vicarien zu einer vicarien <br/>
+<span class="lineNumber">175</span>Beatae Mariae albae im thumb von demselbigen closter zwo Marck vier schilling jehrlich <br/>
+<span class="lineNumber">176</span>gegeben werden. Wir wollen auch alle jehrliche hebunge von deß klosters <br/>
+<span class="lineNumber">177</span>dorffern restituirn unnd die retardata betzalen lassen. Dagegen wollen wir, <br/>
+<span class="lineNumber">178</span>domcapittell, unnsern gerichts leuthen zu Sasell ernstlich befehlen, dem Kloster <br/>
+<span class="lineNumber">179</span>Hervesthude daß ihrige, so sie inen schuldig, zu entrichten.
+<span class="lineNumber">180</span>meister unnd raht, wollen auch daß khorn samptt einen wispell<a class="fnNumber" href="#F_113" id="A_113">113</a> weten moltes<a class="fnNumber" href="#F_114" id="A_114">114</a> auß <br/>
+<span class="lineNumber">181</span>der muhlen unnd dem Heilligen geiste sonder arrest dem domcapittell folgen<a class="fnNumber" href="#F_115" id="A_115">115</a> laissen. <br/>
+<span class="lineNumber">182</span>Darauß umb deß arrestes willen einem Erb<span class="ex">[aren]</span> Rahde ein wispell vor zeitten durch freuntt-<br/>
+<span class="lineNumber">183</span>schafftt nachgegeben worden, welliche betzalunge jeder Zeitt gescheen soll unnd gebuert <br/>
+<span class="lineNumber">184</span>zwischen Martini<a class="fnNumber" href="#F_116" id="A_116">116</a> unnd Nativitatis Christi<a class="fnNumber" href="#F_117" id="A_117">117</a>. Dagegen wollen wir, domcapittell, <br/>
+<span class="lineNumber">185</span>dem doctori theologiae unnd superintenden in der thumbkirchen, nach bezalunge <br/>
+<span class="lineNumber">186</span>der statuten, seine geburende hebunge auch folgen lassen.
+<span class="lineNumber">187</span>germeister unnd rahtt, wollen auch der thumbkirchen, dem capittell, thesaurarien<a class="fnNumber" href="#F_118" id="A_118">118</a>, <br/>
+<span class="lineNumber">188</span>kemmerern unnd andern deß capittelß officianten, vicarien unnd commendisten <br/>
+<span class="lineNumber">189</span>ihre gewonttliche jehrliche grunthure<a class="fnNumber" href="#F_119" id="A_119">119</a>, creutz pfenning<a class="fnNumber" href="#F_120" id="A_120">120</a> unnd andere gefelle, binnen unnd <br/>
+<span class="lineNumber">190</span>fur der statt <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e2346">Hamburg</button> allenthalben widerumb folgen unnd die retardata betzalen <br/>
+<span class="lineNumber">191</span>lassen an enden unnd orten, da sie dessen befuegtt zu sein, gebuerlich bescheinen <br/>
+<span class="lineNumber">192</span>werden.
+<span class="lineNumber">193</span>burgere auff der thumbkirchen unnd capittels oder ihrer verwanten hofe oder <br/>
+<span class="lineNumber">194</span>grunde in oder ausserhalb <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e2362">Hamburg</button>, ohne ihren willen, ethweß gebauwett hetten, daer-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=KXPASYMWKZMLMIEAPJKLTWVP&amp;fileType=view" id="p-3r"> [Blatt: 3<span class="rectoVerso">r</span> ] </button><br/>
+<span class="lineNumber">195</span>fur sollen die guethern von unns oder unnsern burgern, von wellichen daß gebau ge-<br/>
+<span class="lineNumber">196</span>scheen, befriedigtt werden in allem, darin sie befugtt, bey erster ihrer anforderunge, oder <br/>
+<span class="lineNumber">197</span>wir unnd unsere burgere wollen sollich gebau abbrechen. Unnd nachdem ethweß von <br/>
+<span class="lineNumber">198</span>deß capittels grunden in der statt vestunghe getzogen, sollichs soll ohne widerstattunge dabey ge-<br/>
+<span class="lineNumber">199</span>laessen werden; sonst wollen wir auch daß Domcapittell, den platz bey dem dohme unnd <br/>
+<span class="lineNumber">200</span>schulldore in itzigem stande lassen unnd khein part daerauff bauwen oder andern zu <br/>
+<span class="lineNumber">201</span>bauen verstatten. Sonnst soll von wegen der Sieben Höfen zu Hamma<a class="fnNumber" href="#F_121" id="A_121">121</a>, bey negster Visita-<br/>
+<span class="lineNumber">202</span>tion in jegenwartt der dryer vicarien, so sich der jurisdiction deß orts annehmen, guetliche <br/>
+<span class="lineNumber">203</span>handlonge fuergenommen werden.
+<span class="lineNumber">204</span>von der gantzen clereseyen unnd deß Domcapittels verwandten gaystlichen stands unnd <br/>
+<span class="lineNumber">205</span>kirchen dienern obgemeltt, in massen sie von alterßhero darfur gefreyett, khein wachtt-<br/>
+<span class="lineNumber">206</span>geldtt<a class="fnNumber" href="#F_122" id="A_122">122</a>, stattknechte geldtt<a class="fnNumber" href="#F_123" id="A_123">123</a>, hennkergeldtt<a class="fnNumber" href="#F_124" id="A_124">124</a>, schott<a class="fnNumber" href="#F_125" id="A_125">125</a> unnd andere deß gleichen nichtt schatzen. <br/>
+<span class="lineNumber">207</span>Sie sollen auch nichtt bey tage oder nachtt in den graben zu gehen, auch zu wachen gedrungen, <br/>
+<span class="lineNumber">208</span>sonder bey aller freyheitt gelassen werden. Also wollen wir auch auß den <br/>
+<span class="lineNumber">209</span>freyen wohnungen under der decheneien unnd so andern domhern hofen annectirtt <br/>
+<span class="lineNumber">210</span>unnd inverleibtt unnd sonst auff der thumbkirchen unnd andern freyen grundtt unnd <br/>
+<span class="lineNumber">211</span>boddem gelegen, daruon in den alten versiegelten concordien angerurtt, kein schott, <br/>
+<span class="lineNumber">212</span>schatz oder andere burger pflichtt furdern lassen, so ferhne dieselbige von gaistlichen unnd <br/>
+<span class="lineNumber">213</span>kirchendienern werden bewohnett, sondern unns deß enthalten, unnd berurte heuser frey <br/>
+<span class="lineNumber">214</span>laessen. Aber welttliche sollen steuren, alß obengesetzett. Wir wollen auch der cleri-<br/>
+<span class="lineNumber">215</span>sey gutter mitt einichen arrestt<a class="fnNumber" href="#F_126" id="A_126">126</a>, ausserhalb ordentlichen rechten, auch mitt inventirunge<a class="fnNumber" href="#F_127" id="A_127">127</a> <br/>
+<span class="lineNumber">216</span>nichtt beschweren.
+<span class="lineNumber">217</span>ser kemmerer hiebevor in seiner behausunge ohne accyse<a class="fnNumber" href="#F_128" id="A_128">128</a> weyn unnd byer geschencktt<a class="fnNumber" href="#F_129" id="A_129">129</a>, <br/>
+<span class="lineNumber">218</span>daß sollichß hinfuro vorpleiben<a class="fnNumber" href="#F_130" id="A_130">130</a>, aber sonnst genantem kemmerer sein ellerholtz<a class="fnNumber" href="#F_131" id="A_131">131</a> samptt <br/>
+<span class="lineNumber">219</span>wischen<a class="fnNumber" href="#F_132" id="A_132">132</a> am Billwerder<a class="fnNumber" href="#F_133" id="A_133">133</a> gelegen, auch der kampe<a class="fnNumber" href="#F_134" id="A_134">134</a> fur dem ellerholtze, so viehle von demselbigen <br/>
+<span class="lineNumber">220</span>noch vorhanden, wellichß auff erkundunge bey der negsten visitation steett, gefolget soll <br/>
+<span class="lineNumber">221</span>werden.
+<span class="lineNumber">222</span>einer wische<a class="fnNumber" href="#F_135" id="A_135">135</a> fur dem Damdore<a class="fnNumber" href="#F_136" id="A_136">136</a> unnd einer fur dem Schardohre<a class="fnNumber" href="#F_137" id="A_137">137</a>, item von wegen deß Nording-<br/>
+<span class="lineNumber">223</span>buttelß<a class="fnNumber" href="#F_138" id="A_138">138</a> soll auff der außfurung unnser beiderseitz rechten beruhen, zu guettlicher handlonge bey <br/>
+<span class="lineNumber">224</span>der negsten visitation, oder zu rechttlichem außtrage per viam compromissi<a class="fnNumber" href="#F_139" id="A_139">139</a>, soferne gutt-<br/>
+<span class="lineNumber">225</span>licher enttscheidt alßdan<a class="fnNumber" href="#F_140" id="A_140">140</a> nichtt zu erlangen.
+<span class="lineNumber">226</span>wollen dem domcapittell copeyen aller siegell briefe<a class="fnNumber" href="#F_141" id="A_141">141</a> unnd jurium<a class="fnNumber" href="#F_142" id="A_142">142</a> der doctorien im <br/>
+<span class="lineNumber">227</span>dohme zugehorich, welliche <button class="entity #moller_wilhelm person" data-ref="moller_wilhelm" data-type="person" id="d2e2573">Doctor Moller</button> unns fur etzlichen jahrn auff unnsere kammerey <br/>
+<span class="lineNumber">228</span>geliebertt<a class="fnNumber" href="#F_143" id="A_143">143</a>, in unserm besondern versiegelten reversall<a class="fnNumber" href="#F_144" id="A_144">144</a> zustellen, in wellichem, daß <br/>
+<span class="lineNumber">229</span>solliche briefe bey unnß zu getreuen handen in deposito<a class="fnNumber" href="#F_145" id="A_145">145</a> sein, soll bekhantt werden.
+<span class="lineNumber">230</span>Wir wollen auch befurdern, daß dem domdechanten, capittell, provisorn unnd gantzer cleri-<br/>
+<span class="lineNumber">231</span>seien auß den ewigen testamenten<a class="fnNumber" href="#F_146" id="A_146">146</a>, ihres inhalts, alß nempttlich <button class="entity #stoer_segebande person" data-ref="stoer_segebande" data-type="person" id="d2e2607">Segebandeß Stör</button>, <br/>
+<span class="lineNumber">232</span><button class="entity #langwedel_joachim person" data-ref="langwedel_joachim" data-type="person" id="d2e2612">Langwedelß</button><a class="fnNumber" href="#F_147" id="A_147">147</a>, <button class="entity #bantschow_hinrich person" data-ref="bantschow_hinrich" data-type="person" id="d2e2620">Bantzschouwen</button><a class="fnNumber" href="#F_148" id="A_148">148</a> unnd anderen dergleichen testamenten, jedertzeitt, waß darin-<br/>
+<span class="lineNumber">233</span>ne verordnett, muge gehalten unnd gefolgtt werden.
+<span class="lineNumber">234</span>wollen befurdern, daß zwisschen unns unnd dem domcapittell guettliche handlonge furge-<br/>
+<span class="lineNumber">235</span>nohmmen unnd billiche vergleichunge getroffen werde von wegen deß Papenwerderß<a class="fnNumber" href="#F_149" id="A_149">149</a>, <br/>
+<span class="lineNumber">236</span>Westenhoffstede unnd den waldttmarcken zwischen <button class="entity #hamburg_fuhlsbuettel place" data-ref="hamburg_fuhlsbuettel" data-type="place" id="d2e2654">Vulßbuttell</button> unnd <button class="entity #hamburg_eppendorf place" data-ref="hamburg_eppendorf" data-type="place" id="d2e2658">Eppendorpff</button>, und <br/>
+<span class="lineNumber">237</span>einer grossen wisch<a class="fnNumber" href="#F_150" id="A_150">150</a>, dabey gelegen.
+<span class="lineNumber">238</span>daruber auffgerichteden vertrags gehalten unnd auff die jugent und burger kinder mitt <br/>
+<span class="lineNumber">239</span>ernstlicher zuchtigonge gesehen unnd ihnen gewehret werden, die unnsere am thumb <br/>
+<span class="lineNumber">240</span>unnd den angehorigen gebeuen auß zu werffen oder zubrechen unnd sunst deß ordts zu <br/>
+<span class="lineNumber">241</span>fluchen, schwern<a class="fnNumber" href="#F_152" id="A_152">152</a> oder andern muitwillen unnd unzuchtt<a class="fnNumber" href="#F_153" id="A_153">153</a> zu treiben, dagegen wier <br/>
+<span class="lineNumber">242</span>beider seits die geburnuß beschaffen wollen.
+<span class="lineNumber">243</span>befunden wurde, daß zu der ungebuehr<a class="fnNumber" href="#F_154" id="A_154">154</a> etwas entwendett von der fundation<a class="fnNumber" href="#F_155" id="A_155">155</a>, juribus unnd <br/>
+<span class="lineNumber">244</span>andern angehorungen Marien zeitten<a class="fnNumber" href="#F_156" id="A_156">156</a>, wollen wir, burgermeistere unnd raht, auff <br/>
+<span class="lineNumber">245</span>anforderunge des thumbcapittels darumb, auch jegen hern <button class="entity #moller_joachim person" data-ref="moller_joachim" data-type="person" id="d2e2717">Joachim Mollerß</button>, ethwan<a class="fnNumber" href="#F_157" id="A_157">157</a> raht-<br/>
+<span class="lineNumber">246</span>mans zu <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e2731">Hamburg</button>, Heinrichen Ryscher unnd der Alten Soltowischen Erben, so die zu rechte vom dom-<br/>
+<span class="lineNumber">247</span>capittell umb ungebuhrliche verwendunge geisttlicher gutter beschuldigtt werden, ordentlich unnd <br/>
+<span class="lineNumber">248</span>gebuhrlich rechtt ergehn laessen.
+<span class="lineNumber">249</span>unnd der Behren<a class="fnNumber" href="#F_159" id="A_159">159</a>, so fernhe bekundigtt kan werden, daß wir beiderseits darumb unnß hie <br/>
+<span class="lineNumber">250</span>bevorr vorgleichett, soll es dabey gelassen werden.
+<span class="lineNumber">251</span><button class="entity #langwedel_joachim person" data-ref="langwedel_joachim" data-type="person" id="d2e2770">Langwedelß</button> zeligen testament<a class="fnNumber" href="#F_160" id="A_160">160</a>, mitt ihren einvorwarten<a class="fnNumber" href="#F_161" id="A_161">161</a> clenodien, sziegeln unnd brie-<br/>
+<span class="lineNumber">252</span>fen, auß des eltisten burgermeisters hauß in ihre alte gebürliche stette, alß dem <br/>
+<span class="lineNumber">253</span>doctori theologiae widerumb gelibertt<a class="fnNumber" href="#F_162" id="A_162">162</a> ist, in gleichnuß so bescheinett wurde, daß zwischen <br/>
+<span class="lineNumber">254</span>unns, den burgermeistern unnd rahtt, unnd den testamentarien<a class="fnNumber" href="#F_163" id="A_163">163</a> vorgemeltts testaments <br/>
+<span class="lineNumber">255</span>transigirt<a class="fnNumber" href="#F_164" id="A_164">164</a> von wegen sechtzigk Lubischer Marck jahrlichen hebunge, wollen wir, domcapittell, <br/>
+<span class="lineNumber">256</span>es dabey laessen.
+<span class="lineNumber">257</span>unter die thumbkirchen gelegtt, dasselbig soll hinweg gebrachtt, aber victrill<a class="fnNumber" href="#F_166" id="A_166">166</a>, salpetter <br/>
+<span class="lineNumber">258</span>und schwefell<a class="fnNumber" href="#F_167" id="A_167">167</a> mag daselbstt gelaessen werden, dergestaltt, wen es dem capittel nichtt <br/>
+<span class="lineNumber">259</span>lenger leidtlich<a class="fnNumber" href="#F_168" id="A_168">168</a>, wollen wir dieselbigen stuck auch hinwech schaffen, unnd sonnst dem domca-<br/>
+<span class="lineNumber">260</span>pittell wider Werner Rolevingk<a class="fnNumber" href="#F_169" id="A_169">169</a>, da er durch freuntliche abhandlonge sie nichtt wirdett clag-<br/>
+<span class="lineNumber">261</span>loeß machen, geburlich rechtt mitt theilen, unnd gemeltem domcapittell jahrlichß sechs <br/>
+<span class="lineNumber">262</span>unnd dreyssig Marck Lubisch ungefehrlich aus dem zollen auff Lucie<a class="fnNumber" href="#F_170" id="A_170">170</a> bedagtt, so fernhe die <br/>
+<span class="lineNumber">263</span>Grafen von Schowenborch<a class="fnNumber" href="#F_171" id="A_171">171</a> daran kheine verhinderung thuen, mitt den retardaten<a class="fnNumber" href="#F_172" id="A_172">172</a> betzalen, <br/>
+<span class="lineNumber">264</span>auch sie unnd ihre rithmeistere<a class="fnNumber" href="#F_173" id="A_173">173</a> bey ihrem alten gebrauch in zuchtigung ihrer lantsten<a class="fnNumber" href="#F_174" id="A_174">174</a> unnd <br/>
+<span class="lineNumber">265</span>leuthe lassen, und so viehle mueglich unnd thuinlich, wollen wir dem thumbcapittell, <br/>
+<span class="lineNumber">266</span>auff ihre ansuchen, beraten unnd hilfflich erscheinen, damitt ihre domhern hofe durch ge-<br/>
+<span class="lineNumber">267</span>waltt, wider ihren willen, von niemants mugen innegehalten unnd bewohnett werdenn.
+<span class="lineNumber">268</span>Unndt im fall, da sunst mehr irrige stuck zwischen unnß, domcapittel unnd raht, furhanden, wel-<br/>
+<span class="lineNumber">269</span>liche in dieser concordien außdrucklich nichtt vorglichen, dieselbigen sollen von obgedachten visita-<br/>
+<span class="lineNumber">270</span>torn fur de handtt genommen unnd, so muglich, bey der ersten visitation entscheiden werden. <br/>
+<span class="lineNumber">271</span>Also auch, dahinfurder zu erkundigen, oder bey kunfftiger Visitation sich ereugende, daß etwaß in <br/>
+<span class="lineNumber">272</span>dieser concordien unbegriffen, daran von rechts unnd billigkeitt wegen dem domcapittell die resti-<br/>
+<span class="lineNumber">273</span>tution geburett, sollichß ist ihnen zu specificiren unnd darauff bey unnß, dem rahde, restitutionem <br/>
+<span class="lineNumber">274</span>zu erlangende, die ihnen auch geburlich widerfahren soll, furbehalten. Alle kosten, scheden, zerun-<br/>
+<span class="lineNumber">275</span>ge, bottenlohn, unnd waß sonst wir, domcapittell, an einem, unnd wir, burgermeister unnd <br/>
+<span class="lineNumber">276</span>rahtt mitt unsern consorten<a class="fnNumber" href="#F_175" id="A_175">175</a>, anderß theilß, auff diese sache unnd von wegen derselbigen in oder <br/>
+<span class="lineNumber">277</span>ausserhalb gerichts auffgewendet, wie dasselbige nahmen haben mochte, sollich alleß unnd jedeß haben <br/>
+<span class="lineNumber">278</span>wir auß freiem willen jegen einander compensirtt<a class="fnNumber" href="#F_176" id="A_176">176</a>, zu dem auch wyr, domcapittell, unser in-<br/>
+<span class="lineNumber">279</span>teresse unnd anteill an den condemnatis<a class="fnNumber" href="#F_177" id="A_177">177</a> dem Erb<span class="ex">[aren]</span> Rahde unnd gemeiner statt <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e2967">Hamburg</button> nachgegeben<a class="fnNumber" href="#F_178" id="A_178">178</a>.
+<span class="lineNumber">280</span>Dagegen haben wir, burgermeistere unnd rahtt guitthertziglich angesehen die jegenwertigen <br/>
+<span class="lineNumber">281</span>baufelligkeitt der domkirchen zu <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e2982">Hamburg</button> unnd den unvermugen, darein daß domcapittell <br/>
+<span class="lineNumber">282</span>durch allerhandtt widerigen zustandtt gerathen, unnd ihnen funff tausent Marck Lubisch<a class="fnNumber" href="#F_179" id="A_179">179</a> <br/>
+<span class="lineNumber">283</span>inwendich<a class="fnNumber" href="#F_180" id="A_180">180</a> zehen jahren zu betzalen glaublich versprochen unnd verschrieben, inhalts <br/>
+<span class="lineNumber">284</span>eyner besondern obligation, so wir ihnen daruber gegeben.
+<span class="lineNumber">285</span>unserer ein theill von dem andern wider diese concordia beschweret zu sein vermeinen <br/>
+<span class="lineNumber">286</span>würde unnd wir under unnß darumb nicht khenten freuntlich verglichen werden, haben <br/>
+<span class="lineNumber">287</span>wir freywilliglich unns hiemitt volgender gestaltt in ein ewig werend compromiß begeben: <br/>
+<span class="lineNumber">288</span>Das bey dem Ehrw<span class="ex">[ürdigen]</span> Thumcapittell zu <button class="entity #bremen_erzstift place" data-ref="bremen_erzstift" data-type="place" id="d2e3016">Bremen</button>, wellich wir, domcapittell zu <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e3019">Hamburg</button>, <br/>
+<span class="lineNumber">289</span>unnd dem Erb<span class="ex">[aren]</span> Rathe der statt <button class="entity #lueneburg_stadt place" data-ref="lueneburg_stadt" data-type="place" id="d2e3028">Luneburg</button>, welliche wir, der rahtt zu <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e3031">Hamburg</button>, darzu erbetten <br/>
+<span class="lineNumber">290</span>unnd hiemitt<a class="fnNumber" href="#F_b" id="A_b">b</a> bonennet haben, der clagende theill seine nottorfft anzeigen sollen, unnd ob dieselbe <br/>
+<span class="lineNumber">291</span>vormittelß guittlicher handlong durch ihre vollmechtige<a class="fnNumber" href="#F_181" id="A_181">181</a> oder commissarien den irsallen<a class="fnNumber" href="#F_182" id="A_182">182</a> <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=CSKNCJQLEIWZGLLKAACQPWJP&amp;fileType=view" id="p-4r"> [Blatt: 4<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">292</span>nichtt abhelffen konten, daß alßdan dieselben, durch schleunigen schrifftlichen process, bei-<br/>
+<span class="lineNumber">293</span>der theill nottorfftt zu rechte annehmen, unnd unns inwendig jahres fristt, von zeitt ange-<br/>
+<span class="lineNumber">294</span>stalter gerichttlicher clage anzurechnen, durch ihr laudum<a class="fnNumber" href="#F_183" id="A_183">183</a>, machtspruch unnd willkohrlich<a class="fnNumber" href="#F_184" id="A_184">184</a> <br/>
+<span class="lineNumber">295</span>erkenthnuß<a class="fnNumber" href="#F_185" id="A_185">185</a> entscheiden sollen. Dabey es auch ohne alle appellation<a class="fnNumber" href="#F_186" id="A_186">186</a>, reduction<a class="fnNumber" href="#F_187" id="A_187">187</a> oder eini-<br/>
+<span class="lineNumber">296</span>ge ausfluchtt, wie die schein unnd nahmen haben mochte, soll gelassen unnd dem laudo und <br/>
+<span class="lineNumber">297</span>machtspruch von unß beider seits gehorsambtt werden, bey peen<a class="fnNumber" href="#F_188" id="A_188">188</a> zweier tausent gulden, <br/>
+<span class="lineNumber">298</span>idern gulden zu vier unnd zwantzich schillingen Lubisch zu rechnen. Eß soll auch daer-<br/>
+<span class="lineNumber">299</span>auff der gewinnende theill wider den ungehorsamen am keyserlichen cammergerichtt exe-<br/>
+<span class="lineNumber">300</span>cution auff daß laudum oder urtheill, in geleichnuß auch auff die berurte geldtt peen, <br/>
+<span class="lineNumber">301</span>nichtt weiniger zu bitten unnd wurcklich zu prosequiren haben, alß ob sollich laudum <br/>
+<span class="lineNumber">302</span>oder urtheill an wollgemeltem cammergerichtt wehre außgesprochen.
+<span class="lineNumber">303</span>die gerurte scheideß herrn<a class="fnNumber" href="#F_189" id="A_189">189</a> durch ihre verordenten, in guthe oder durch ihre rechtliche außspruch, <br/>
+<span class="lineNumber">304</span>unns jegeneinander inwendig eineß jahreß fristt, in maessen furgesetztt, nichtt entscheiden <br/>
+<span class="lineNumber">305</span>wurden, alßdan soll dem clagenden theill hiemitt vuerbehalten sein, seine clage am keyser-<br/>
+<span class="lineNumber">306</span>lichen cammergerichtt oder regiment, so von wegen der Key<span class="ex">[serliche]</span>n May<span class="ex">[estä]</span>tt<span class="ex">[e]</span>n unnd deß heiligen <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e3150">Reichß</button> <br/>
+<span class="lineNumber">307</span>in teutschen landen zu jedertzeitt sein wirdet, anhengig zu machen unnd außzufuhren. <br/>
+<span class="lineNumber">308</span>Dagegen auch der beclagte theill fori declinatoriam<a class="fnNumber" href="#F_190" id="A_190">190</a> oder andre gleichmessige behelff, nicht inn-<br/>
+<span class="lineNumber">309</span>wenden soll.
+<span class="lineNumber">310</span>thumbprobst, dechantt unnd capittell unns lassen befolhen sein, die schutzen unnd schirmen, auch nie-<br/>
+<span class="lineNumber">311</span>mants, daruber wir zu gebieten oder vorbieten haben, wissentlich verstatten, sie zu verachtten oder <br/>
+<span class="lineNumber">312</span>die personen zuvorkleineren<a class="fnNumber" href="#F_191" id="A_191">191</a>, schmehen, iniuryrn<a class="fnNumber" href="#F_192" id="A_192">192</a> oder bespotten, sondern da wir dessen gnug-<br/>
+<span class="lineNumber">313</span>sam berichtett, der gebuhr nach straffen. Dagegen wollen auch wir, domdechant unnd <br/>
+<span class="lineNumber">314</span>capittell neben unnd mitt unserm thumbprobst, aller bescheidenheitt unns wissen zu gebrauchen <br/>
+<span class="lineNumber">315</span>unnd nichts, wie obsteett, verursachen.
+<span class="lineNumber">316</span>in dieser sache sich haben laessen gebrauchen, sollen derhalben von kheinem theile benei-<br/>
+<span class="lineNumber">317</span>dett oder gehassett, dargegen auch nichts heimlich oder offentlich practizierett oder fur-<br/>
+<span class="lineNumber">318</span>genommen werden, sonder wyr, domcapittell unnd rahtt vorgemeltt, auch unsere nach-<br/>
+<span class="lineNumber">319</span>khommen an dem capittell unnd statt <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e3230">Hamburg</button>, unnd unser beiderseitz mithbeschriebne, sollen <br/>
+<span class="lineNumber">320</span>unnd wollen alles, wie obstehtt, samptt unnd besonder mitt alle seinen inhaltungen, clausulen <br/>
+<span class="lineNumber">321</span>unnd articuln wahr, stehtt, fest unnd erbahrlich haltten unnd dieser concordien auffrich-<br/>
+<span class="lineNumber">322</span>tig unnd unverweißlich nachleben, dawider wissentlich nummer thuen, in wasserley <br/>
+<span class="lineNumber">323</span>schein unnd nahmen daß auch geschehen mochte, unnd verzeihen<a class="fnNumber" href="#F_193" id="A_193">193</a> unns, fuehr unns unnd unsere <br/>
+<span class="lineNumber">324</span>mitt benante an beiden theilen, hiemitt aller privilegien, freiheiten unnd gnade, die jeder theile <br/>
+<span class="lineNumber">325</span>gegeben seind oder hinfuro hiewider gegeben und erworben werden mochten, unnd sunst alleß <br/>
+<span class="lineNumber">326</span>deß, damitt wir unnd jedes theill insonderheitt wider diesen vertrag sich beschirmen oder be-<br/>
+<span class="lineNumber">327</span>helffen khonte oder mochte.
+<span class="lineNumber">328</span>et causae absque ulla protestatione et reservatione<a class="fnNumber" href="#F_195" id="A_195">195</a>, so von obengesettzter stuck wegen, am keyser-<br/>
+<span class="lineNumber">329</span>lichen cammergericht biß auff diese zeitt anhengig gewesen, in aller besten unnd bestendigsten <br/>
+<span class="lineNumber">330</span>form rechtenß, lautt eins besondern daruber auffgerichteden instrumentts, haben auch zu <br/>
+<span class="lineNumber">331</span>mehrer befestigung dem Erbarn Rahde die erlangte executorialn<a class="fnNumber" href="#F_196" id="A_196">196</a> ubergeben.
+<span class="lineNumber">332</span>auch wir, burgermeister unnd rahtt, cassirn und heben auff hiemitt in bester form <br/>
+<span class="lineNumber">333</span>rechtenß das jenige, so ethwan durch unsere unnd gemeine statt <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e3301">Hamburg</button> verordnung <br/>
+<span class="lineNumber">334</span>oder receß<a class="fnNumber" href="#F_197" id="A_197">197</a> mochte eingeführett sein, so weith unnd fernhe dasselbige dieser concordien zuwider <br/>
+<span class="lineNumber">335</span>verstanden unnd außgelegtt khonte werden, argelistt und gefehrde von dem allem gentz-<br/>
+<span class="lineNumber">336</span>lich außgeschlossen.
+<span class="lineNumber">337</span>mitt unnser beider partt wissen unnd guten willen verglichen unnd vertragen unnd in <br/>
+<span class="lineNumber">338</span>diese schrifftliche concordia verfassett sein, so haben wir, domdechant, senior unnd capittell <br/>
+<span class="lineNumber">339</span>der domkirchen, unnd wir, burgermeister unnd rahtt der statt <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e3331">Hamburg</button>, fur unnß <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=SHNPNJXZOADJDNQBDEZETMMS&amp;fileType=view" id="p-4v"> [Blatt: 4<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">340</span>unnd unser beiderseits nachkhommen unnd mithbenante an gemeltem capittell unnd statt, un-<br/>
+<span class="lineNumber">341</span>serer kirchen unnd statt sziegell wissentlichen heissen hangen an diesen brieff, deren zwey <br/>
+<span class="lineNumber">342</span>eynes inhaltts gemachtt unnd iderm theill einer daervon zu gestellett ist. Wir haben <br/>
+<span class="lineNumber">343</span>auch die Ehrwirdige, Ernttvheste, Hochgelarte, Erbahre unnd Weyse Hern Domprobsten, <br/>
+<span class="lineNumber">344</span>Domdechantt, Seniorn unnd Capittell deß Ertzstifftts <button class="entity #bremen_erzstift place" data-ref="bremen_erzstift" data-type="place" id="d2e3355">Bremen</button> unnd Burgermeistere <br/>
+<span class="lineNumber">345</span>unnd Raht der statt <button class="entity #lueneburg_stadt place" data-ref="lueneburg_stadt" data-type="place" id="d2e3360">Lunenburg</button> freuntlich vermochtt, mitt ihreß capittelß unnd statt <br/>
+<span class="lineNumber">346</span>siegell, umb mehrer wissenschafftt willen, diesen brieff neben unns zu befestigen, <br/>
+<span class="lineNumber">347</span>unnd bekhennen wir, domcapittell zu <button class="entity #bremen_erzstift place" data-ref="bremen_erzstift" data-type="place" id="d2e3367">Bremen</button> unnd rahtt zu <button class="entity #lueneburg_stadt place" data-ref="lueneburg_stadt" data-type="place" id="d2e3371">Lunenburg</button>, daß wir <br/>
+<span class="lineNumber">348</span>auff obengesetzter partheien freuntlich gesinnen unsers capittels unnd statt sziegell, <br/>
+<span class="lineNumber">349</span>mehrer wissenschafftt halben, idoch unns unnd unsern nachkhommen ohne schaden, <br/>
+<span class="lineNumber">350</span>neben deß capittelß unnd rahdeß zu <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e3380">Hamburg</button> sziegeln haben befohlen zu hangen an <br/>
+<span class="lineNumber">351</span>diesen brieff. Wellicher gegeben unnd geschrieben ist binnen<a class="fnNumber" href="#F_198" id="A_198">198</a> <button class="entity #bremen place" data-ref="bremen" data-type="place" id="d2e3389">Bremen</button> auff dem <br/>
+<span class="lineNumber">352</span>thumbcapittel hause nach unnserß hern unnd selichmacherß geburtt tausent funff <br/>
+<span class="lineNumber">353</span>hundertt eyn unnd sexich den zweyten tagk May. Vnderhandlerß hern, die <br/>
+<span class="lineNumber">354</span>Erwurdige Ernueste hochgelarte vnnd Erbare Eren <button class="entity #varendorp_ludolph person" data-ref="varendorp_ludolph" data-type="person" id="d2e3401">Ludolff von Varendorpp</button>, <br/>
+<span class="lineNumber">355</span>thumbprobstt, et <button class="entity #hyncke_joachim person" data-ref="hyncke_joachim" data-type="person" id="d2e3407">Joachim Hinke</button>, der rechten doctor unnd thumbdechant, vnnd <button class="entity #hude_segebade person" data-ref="hude_segebade" data-type="person" id="d2e3410">Segebade </button><br/>
+<span class="lineNumber">356</span><button class="entity #hude_segebade person" data-ref="hude_segebade" data-type="person" id="d2e3410">von der Hude</button>, probst zu S. Anscharij zu <button class="entity #bremen place" data-ref="bremen" data-type="place" id="d2e3415">Bremen</button>. Von wegen deß humbcapittelß <br/>
+<span class="lineNumber">357</span>zu <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e3420">Hamburg</button> vorhandelerß die auch Erwurdige Ernueste unnd Erbahre <button class="entity #witmer_hinrich person" data-ref="witmer_hinrich" data-type="person" id="d2e3424">Hinricus </button><br/>
+<span class="lineNumber">358</span><button class="entity #witmer_hinrich person" data-ref="witmer_hinrich" data-type="person" id="d2e3424">Witthmar</button>, dechant, <button class="entity #schlueter_johann person" data-ref="schlueter_johann" data-type="person" id="d2e3429">Johann Schluter</button>, structurarius, <button class="entity #eckleff_johannes person" data-ref="eckleff_johannes" data-type="person" id="d2e3432">Johannes Eickleff</button>, cantor, <br/>
+<span class="lineNumber">359</span><button class="entity #barkey_antonius person" data-ref="barkey_antonius" data-type="person" id="d2e3436">Anthonius Borkey</button>, <button class="entity #wersabe_boldewin person" data-ref="wersabe_boldewin" data-type="person" id="d2e3439">Boldewyn von Werßbe</button> unnd <button class="entity #justus_bartholomaeus person" data-ref="justus_bartholomaeus" data-type="person" id="d2e3443">Bartholomeus Justus</button>, secreta-<br/>
+<span class="lineNumber">360</span>rius. Von wegen eynes Erbarn Raedts zu <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e3453">Hamburgk</button> vorordnete unnd abge-<br/>
+<span class="lineNumber">361</span>sante, die Achtbare Weise hochgelarte unnd Erbare hern <button class="entity #hackemann_albert person" data-ref="hackemann_albert" data-type="person" id="d2e3463">Albertt Hackemann</button>, <button class="entity #niebur_laurens person" data-ref="niebur_laurens" data-type="person" id="d2e3466">Lau-</button><br/>
+<span class="lineNumber">362</span><button class="entity #niebur_laurens person" data-ref="niebur_laurens" data-type="person" id="d2e3466">renß Nyebuer</button>, beide burgermeistere, <button class="entity #moller_wilhelm person" data-ref="moller_wilhelm" data-type="person" id="d2e3476">Wilhelm Moller</button>, doctor unnd syndicus, <br/>
+<span class="lineNumber">363</span><button class="entity #wetken_hermann person" data-ref="wetken_hermann" data-type="person" id="d2e3480">Herman Wettke</button> unndt <button class="entity #vogler_nicolas person" data-ref="vogler_nicolas" data-type="person" id="d2e3483">Nicolaeß Vogler</button>, der rechten licentiaten, beide raedtmanne zu <br/>
+<span class="lineNumber">364</span><button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e3487">Hamburgk</button>, <button class="entity #rheder_hinrich person" data-ref="rheder_hinrich" data-type="person" id="d2e3490">Hinrich Reederß</button> unnd <button class="entity #beckmann_lucas person" data-ref="beckmann_lucas" data-type="person" id="d2e3494">Lucas Bekemann</button>, heillige leichamß schworen<a class="fnNumber" href="#F_199" id="A_199">199</a> <br/>
+<span class="lineNumber">365</span>zu S. Niclaen unnd S. Peter auß der gemeynn.

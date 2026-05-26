@@ -1,0 +1,197 @@
+<?xml-model href="../../../customization/schema_quellentexte/religionsfrieden-quellentexte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pa000008-0238">
+   <teiHeader>      
+      <fileDesc>         
+         <titleStmt>
+            
+            <title level="a">Privileg für die katholische Religionsausübung (<date when="1625-02-24">24. Februar 1625</date>) - LASH Abt. 7 Nr. 5532 (Original mit Siegel)</title>
+            <title level="s">Europäische Religionsfrieden Digital</title>
+            <principal ref="http://d-nb.info/gnd/111186870">Irene Dingel</principal> 
+            <editor role="http://id.loc.gov/vocabulary/relators/edt" ref="http://orcid.org/0000-0002-1509-6960">Thomas Stäcker</editor>
+            <editor role="http://id.loc.gov/vocabulary/relators/edt" ref="https://orcid.org/0000-0002-5429-6367">
+                    <persName>Christopher Voigt-Goy</persName>
+                </editor> 
+            <editor role="http://id.loc.gov/vocabulary/relators/mrk">Kevin Wunsch</editor>           
+            <editor role="http://id.loc.gov/vocabulary/relators/mrk">Kevin Kuck</editor>           
+         </titleStmt>         
+         <editionStmt>
+            <edition>Digitale Edition gemäß <ref target="http://www.tei-c.org/">TEI P5</ref>
+                </edition>
+            <funder>Akademie der Wissenschaften und der Literatur</funder>
+         </editionStmt>         
+         <publicationStmt>
+            <publisher>
+               <orgName ref="http://www.isni.org/0000000119314040">Akademie der Wissenschaften und Literatur Mainz</orgName>
+            </publisher>           
+            <distributor>
+               <orgName ref="http://www.isni.org/0000000110101946">Universitäts- und Landesbibliothek Darmstadt</orgName>
+               <idno type="ISIL">http://lobid.org/organisation/DE-17</idno>
+            </distributor>
+            <date when="2024" type="issued">2024</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p xml:lang="en">This file is licensed under the terms of the Creative Commons License CC-BY 4.0 (Attribution 4.0 International)</p>
+               </licence>
+            </availability>
+         </publicationStmt>        
+         <sourceDesc><!-- bitte ausfüllen; nicht zutreffende Elemente bitte rauslöschen -->
+            <msDesc>
+               <msIdentifier>
+                  <settlement/>                               
+                  <repository/>
+                  <collection/>
+                  <idno>Signatur</idno>
+                  <idno type="urn"/>
+                  <idno type="vd16"/>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title/>
+                     <respStmt>
+                        <resp/>
+                        <persName/>
+                     </respStmt>
+                     <biblStruct><!-- gilt nur für Drucke; rausnehmen, wenn es sich um ein Manuskript handelt! -->
+                        <monogr xml:id="vorlage">
+                           <imprint>
+                              <pubPlace>Gottorf</pubPlace>
+                              <publisher>
+                                 <persName/>
+                              </publisher>
+                              <date>1625</date>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                  </msItem>
+               </msContents>
+               <history><!-- bei Manuskript, falls Datum und/oder Ort bekannt sind; andernfalls rauslöschen! -->
+                  <origin>
+                     <date/>
+                     <placeName/>
+                  </origin>
+               </history>
+            </msDesc>    
+         </sourceDesc>
+      </fileDesc>      
+      <encodingDesc>         
+         <projectDesc>
+            <p>
+               <ref target="http://www.eured.de">Europäische Religionsfrieden Digital</ref>
+            </p>
+         </projectDesc>
+         <classDecl>
+            <taxonomy xml:id="marcrelator">
+               <bibl>
+                        <idno type="URI">http://id.loc.gov/vocabulary/relators/</idno> MARC Code List for Relators </bibl>
+            </taxonomy>
+         </classDecl>         
+      </encodingDesc>      
+      <profileDesc>         
+         <langUsage>
+            <language ident="deut">Deutsch</language><!-- Sprache hinzufügen -->
+         </langUsage>         
+      </profileDesc>      
+      <revisionDesc>
+         <change xml:id="ch01" when="2018-01-18">
+                <p>Die Edition ist 2018 von der Herzog August Bibliothek Wolfenbüttel an die Universitäts- und Landesbibliothek Darmstadt umgezogen.</p>
+            </change>
+      </revisionDesc>   
+   </teiHeader>
+  <!-- <facsimile>
+      <surface ulx="0" uly="0" lrx="2461" lry="3920" xml:id="facs_1">
+         <!-\-<graphic url="0001_0005_Primaer.jpg" width="2461px" height="3920px"/>-\->
+         <graphic url="https://files.transkribus.eu/Get?id=PQYDUWNAAVWLOGMOICWKIRUW&amp;fileType=view" width="2461px" height="3920px"/>
+         <zone points="501,354 2307,354 2307,2813 501,2813" rendition="TextRegion" xml:id="facs_1_TextRegion_1719403117139_1028">
+            <zone points="490,345 2206,345 2206,507 490,507" rendition="Line" xml:id="facs_1_line_1719403124916_1035"/>
+            <zone points="698,445 2185,445 2185,593 698,593" rendition="Line" xml:id="facs_1_tr_3_tl_2"/>
+            <zone points="725,541 2146,541 2146,676 725,676" rendition="Line" xml:id="facs_1_tr_3_tl_3"/>
+            <zone points="725,633 2134,633 2134,770 725,770" rendition="Line" xml:id="facs_1_tr_3_tl_4"/>
+            <zone points="693,723 2183,723 2183,888 693,888" rendition="Line" xml:id="facs_1_tr_3_tl_5"/>
+            <zone points="717,798 2221,798 2221,967 717,967" rendition="Line" xml:id="facs_1_tr_3_tl_6"/>
+            <zone points="717,890 2172,890 2172,1085 717,1085" rendition="Line" xml:id="facs_1_tr_3_tl_7"/>
+            <zone points="717,952 2268,952 2268,1173 717,1173" rendition="Line" xml:id="facs_1_tr_3_tl_8"/>
+            <zone points="710,1072 2277,1072 2277,1271 710,1271" rendition="Line" xml:id="facs_1_tr_3_tl_9"/>
+            <zone points="704,1201 2305,1201 2305,1352 704,1352" rendition="Line" xml:id="facs_1_tr_3_tl_10"/>
+            <zone points="700,1284 2243,1284 2243,1485 700,1485" rendition="Line" xml:id="facs_1_tr_3_tl_11"/>
+            <zone points="702,1363 2262,1363 2262,1528 702,1528" rendition="Line" xml:id="facs_1_tr_3_tl_12"/>
+            <zone points="706,1462 2273,1462 2273,1650 706,1650" rendition="Line" xml:id="facs_1_tr_3_tl_13"/>
+            <zone points="706,1552 2215,1552 2215,1725 706,1725" rendition="Line" xml:id="facs_1_tr_3_tl_14"/>
+            <zone points="706,1658 2298,1658 2298,1866 706,1866" rendition="Line" xml:id="facs_1_tr_3_tl_15"/>
+            <zone points="706,1753 2273,1753 2273,1917 706,1917" rendition="Line" xml:id="facs_1_tr_3_tl_16"/>
+            <zone points="704,1845 2217,1845 2217,2027 704,2027" rendition="Line" xml:id="facs_1_tr_3_tl_17"/>
+            <zone points="700,1939 2181,1939 2181,2112 700,2112" rendition="Line" xml:id="facs_1_tr_3_tl_18"/>
+            <zone points="683,2044 2230,2044 2230,2213 683,2213" rendition="Line" xml:id="facs_1_tr_3_tl_19"/>
+            <zone points="681,2140 2236,2140 2236,2318 681,2318" rendition="Line" xml:id="facs_1_tr_3_tl_20"/>
+            <zone points="681,2247 2170,2247 2170,2416 681,2416" rendition="Line" xml:id="facs_1_tr_3_tl_21"/>
+            <zone points="670,2348 2196,2348 2196,2532 670,2532" rendition="Line" xml:id="facs_1_tr_3_tl_22"/>
+            <zone points="681,2459 2260,2459 2260,2615 681,2615" rendition="Line" xml:id="facs_1_tr_3_tl_23"/>
+            <zone points="676,2568 2164,2568 2164,2720 676,2720" rendition="Line" xml:id="facs_1_tr_3_tl_24"/>
+            <zone points="666,2671 2168,2671 2168,2844 666,2844" rendition="Line" xml:id="facs_1_tr_3_tl_25"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2461" lry="3920" xml:id="facs_2">
+         <!-\- <graphic url="0002_0006_Primaer.jpg" width="2461px" height="3920px"/>-\->
+         <graphic url="https://files.transkribus.eu/Get?id=BLZNMDVFUQQTNGCUJINWRZYX&amp;fileType=view" width="2461px" height="3920px"/>
+         <zone points="850,446 2361,446 2361,1265 850,1265" rendition="TextRegion" xml:id="facs_2_tr_1">
+            <zone points="855,414 2356,414 2356,573 855,573" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
+            <zone points="865,513 2277,513 2277,640 865,640" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
+            <zone points="855,604 2249,604 2249,711 855,711" rendition="Line" xml:id="facs_2_tr_1_tl_3"/>
+            <zone points="846,698 2260,698 2260,823 846,823" rendition="Line" xml:id="facs_2_tr_1_tl_4"/>
+            <zone points="842,792 2232,792 2232,917 842,917" rendition="Line" xml:id="facs_2_tr_1_tl_5"/>
+            <zone points="844,872 2281,872 2281,1007 844,1007" rendition="Line" xml:id="facs_2_tr_1_tl_6"/>
+            <zone points="840,949 2259,949 2259,1089 840,1089" rendition="Line" xml:id="facs_2_tr_1_tl_7"/>
+            <zone points="844,1037 2272,1037 2272,1222 844,1222" rendition="Line" xml:id="facs_2_line_1719403157236_1083"/>
+            <zone points="846,1164 1216,1164 1216,1276 846,1276" rendition="Line" xml:id="facs_2_tr_1_tl_11"/>
+         </zone>
+      </surface>
+   </facsimile>-->
+   <text>
+      <body>
+         <div>
+            <p facs="#facs_1_TextRegion_1719403117139_1028">
+                    <pb facs="#facs_1" xml:id="img_0001" n="40r"/>
+               <lb facs="#facs_1_line_1719403124916_1035" n="N001"/>Nos <rs type="person" ref="#friedrich_iii_schleswig_holstein_gottorf">Fridericus</rs> Dei gratia, Haeres <rs type="place" ref="#norwegen_koenigreich">Norwegiae</rs>, Dux
+               <lb facs="#facs_1_tr_3_tl_2" n="N002"/>
+                    <rs type="place" ref="#schleswig_herzogtum">Shleswici</rs>, <rs type="place" ref="#holstein_herzogtum">Holsatiae</rs>, <rs type="place" ref="#stormarn_herzogtum">Stormariae</rs> et <rs type="place" ref="#dithmarschen_herzogtum">Ditmarsiae</rs>, Comes
+               <lb facs="#facs_1_tr_3_tl_3" n="N003"/>in <rs type="place" ref="#oldenburg_grafschaft">Oldenburg</rs> et <rs type="place" ref="#delmenhorst_grafschaft">Delmenhorst</rs>, omnibus praesentes 
+               <lb facs="#facs_1_tr_3_tl_4" n="N004"/>inspecturis et lecturis salutem, Notum <w>univer<pc>-</pc>
+                <lb facs="#facs_1_tr_3_tl_5" n="N005"/>sis</w> facimus, quod postquam novam nostram <w>civita<pc>-</pc>
+               <lb facs="#facs_1_tr_3_tl_6" n="N006"/>tem</w> <rs type="place" ref="#friedrichstadt">Fredericopolim</rs>, vulgo Frederichstadt, ad flumen
+               <lb facs="#facs_1_tr_3_tl_7" n="N007"/>Eydoram extruere coepimus, eandem conati sumus
+               <lb facs="#facs_1_tr_3_tl_8" n="N008"/>modis omnibus amplificare novisque datis privilegiis
+               <lb facs="#facs_1_tr_3_tl_9" n="N009"/>negotiatoribus et mercatoribus, ob communem utilitatem
+               <lb facs="#facs_1_tr_3_tl_10" n="N010"/>implere, prasertim cum aptissima sit commerciis <w>exer<pc>-</pc>
+               <lb facs="#facs_1_tr_3_tl_11" n="N011"/>cendis</w> per omnes totius Europae regiones et regna.
+               <lb facs="#facs_1_tr_3_tl_12" n="N012"/>Quia vero commercia novae nostrae civitatis maxime
+               <lb facs="#facs_1_tr_3_tl_13" n="N013"/>dependent a <rs type="place" ref="#spanien_koenigreich">regnis Hispaniarum</rs> et <rs type="place" ref="#spanische_niederlande">ditionibus <w>Belgi<pc>-</pc>
+               <lb facs="#facs_1_tr_3_tl_14" n="N014"/>cis</w>
+                    </rs>, hinc est quod per prasentes facultaten damus
+               <lb facs="#facs_1_tr_3_tl_15" n="N015"/>ut quicunque ex dictis regnis ac provinciis ad nostram
+               <lb facs="#facs_1_tr_3_tl_16" n="N016"/>illam civitatem se receperint, negociorum causa tuto
+               <lb facs="#facs_1_tr_3_tl_17" n="N017"/>ibi ac libere habitare possint, atque inde recedere
+               <lb facs="#facs_1_tr_3_tl_18" n="N018"/>cum omnibus bonis suis ac familia, quando id iis
+               <lb facs="#facs_1_tr_3_tl_19" n="N019"/>visum fuerit e re sua esse, damusque omnibus et <w>qui<pc>-</pc>
+               <lb facs="#facs_1_tr_3_tl_20" n="N020"/>buscumq</w>ue Catholicis facultatem exercendi religionem
+               <lb facs="#facs_1_tr_3_tl_21" n="N021"/>catholicam in dicta <rs type="place" ref="#friedrichstadt">Fredericopoli</rs> et per omnes
+               <lb facs="#facs_1_tr_3_tl_22" n="N022"/>ditiones nostras libere conversandi, districte <w>inhi<pc>-</pc>
+               <lb facs="#facs_1_tr_3_tl_23" n="N023"/>bentes</w> omnibus Praetoribus Praefectis, ac quibus cumque
+               <lb facs="#facs_1_tr_3_tl_24" n="N024"/>ministris nostris ne Catholicos religionis causa
+               <lb facs="#facs_1_tr_3_tl_25" n="N025"/>ullo modo directe aut indirecte persequantur, aut
+            
+               <pb facs="#facs_2" xml:id="img_0002" n="40v"/>
+            
+               <lb facs="#facs_2_tr_1_tl_1" n="N001"/>molestia afficiant, sed pacifice negociis suis vacare
+               <lb facs="#facs_2_tr_1_tl_2" n="N002"/>patiantur. Idem quod de Catholicis dictum est
+               <lb facs="#facs_2_tr_1_tl_3" n="N003"/>intelligimus de ipsorum Praedicatoribus et
+               <lb facs="#facs_2_tr_1_tl_4" n="N004"/>sacerdotibus, qui de scitu et consensu magistri
+               <lb facs="#facs_2_tr_1_tl_5" n="N005"/>
+                    <rs type="person" ref="#jansen_nicolaus">Nicolai Jansen</rs> vel eius vicem gerentis ad
+               <lb facs="#facs_2_tr_1_tl_6" n="N006"/>nostras ditiones venerint. Quo omnes et <w>singu<pc>-</pc>
+               <lb facs="#facs_2_tr_1_tl_7" n="N007"/>los</w> in nostro esse patrocinio et tutela <w>declara<pc>-</pc>
+               <lb facs="#facs_2_line_1719403157236_1083" n="N008"/>mus</w>. Datum in arce nostra <rs type="place" ref="#gottorf_schloss">Gottorpia</rs> <date when="1625-02-24">24
+               <lb facs="#facs_2_tr_1_tl_11" n="N009"/>Februarii A<ex>nn</ex>o 1625</date>.
+            </p>
+         </div>
+      </body>
+   </text>
+</tei:TEI>

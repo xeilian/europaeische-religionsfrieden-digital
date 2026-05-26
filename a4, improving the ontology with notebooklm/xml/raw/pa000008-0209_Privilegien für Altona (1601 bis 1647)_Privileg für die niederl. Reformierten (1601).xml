@@ -1,0 +1,198 @@
+<?xml-model href="../../../customization/schema_quellentexte/religionsfrieden-quellentexte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pa000008-0209">
+   <teiHeader>      
+      <fileDesc>         
+         <titleStmt>
+            
+            <title level="a">Privileg für die niederländischen Reformierten (<date when="1601-10-27">27. Oktober 1601</date>) - StA HH, 521-4 I A 2</title>
+            <title level="s">Europäische Religionsfrieden Digital</title>
+            <principal ref="http://d-nb.info/gnd/111186870">Irene Dingel</principal> 
+            <editor role="http://id.loc.gov/vocabulary/relators/edt" ref="http://orcid.org/0000-0002-1509-6960">Thomas Stäcker</editor>
+            <editor role="http://id.loc.gov/vocabulary/relators/edt" ref="https://orcid.org/0000-0002-5429-6367">
+                    <persName>Christopher Voigt-Goy</persName>
+                </editor> 
+            <editor role="http://id.loc.gov/vocabulary/relators/mrk">Kevin Wunsch</editor>           
+            <editor role="http://id.loc.gov/vocabulary/relators/mrk">Kevin Kuck</editor>           
+         </titleStmt>         
+         <editionStmt>
+            <edition>Digitale Edition gemäß <ref target="http://www.tei-c.org/">TEI P5</ref>
+                </edition>
+            <funder>Akademie der Wissenschaften und der Literatur</funder>
+         </editionStmt>         
+         <publicationStmt>
+            <publisher>
+               <orgName ref="http://www.isni.org/0000000119314040">Akademie der Wissenschaften und Literatur Mainz</orgName>
+            </publisher>           
+            <distributor>
+               <orgName ref="http://www.isni.org/0000000110101946">Universitäts- und Landesbibliothek Darmstadt</orgName>
+               <idno type="ISIL">http://lobid.org/organisation/DE-17</idno>
+            </distributor>
+            <date when="2021-12-16" type="issued">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p xml:lang="en">This file is licensed under the terms of the Creative Commons License CC-BY 4.0 (Attribution 4.0 International)</p>
+               </licence>
+            </availability>
+         </publicationStmt>        
+         <sourceDesc><!-- bitte ausfüllen; nicht zutreffende Elemente bitte rauslöschen -->
+            <msDesc>
+               <msIdentifier>
+                  <settlement/>                               
+                  <repository/>
+                  <collection/>
+                  <idno>Signatur</idno>
+                  <idno type="urn"/>
+                  <idno type="vd16"/>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title/>
+                     <respStmt>
+                        <resp/>
+                        <persName/>
+                     </respStmt>
+                     <biblStruct><!-- gilt nur für Drucke; rausnehmen, wenn es sich um ein Manuskript handelt! -->
+                        <monogr xml:id="vorlage">
+                           <imprint>
+                              <pubPlace ref="http://www.geonames.org/2874225/mainz.html">Mainz</pubPlace>
+                              <publisher>
+                                 <persName/>
+                              </publisher>
+                              <date>1529</date>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                  </msItem>
+               </msContents>
+               <history><!-- bei Manuskript, falls Datum und/oder Ort bekannt sind; andernfalls rauslöschen! -->
+                  <origin>
+                     <date/>
+                     <placeName/>
+                  </origin>
+               </history>
+            </msDesc>    
+         </sourceDesc>
+      </fileDesc>      
+      <encodingDesc>         
+         <projectDesc>
+            <p>
+               <ref target="http://www.eured.de">Europäische Religionsfrieden Digital</ref>
+            </p>
+         </projectDesc>
+         <classDecl>
+            <taxonomy xml:id="marcrelator">
+               <bibl>
+                        <idno type="URI">http://id.loc.gov/vocabulary/relators/</idno> MARC Code List for Relators </bibl>
+            </taxonomy>
+         </classDecl>         
+      </encodingDesc>      
+      <profileDesc>         
+         <langUsage>
+            <language ident="deut">Deutsch</language><!-- Sprache hinzufügen -->
+         </langUsage>         
+      </profileDesc>      
+      <revisionDesc>
+         <change xml:id="ch01" when="2018-01-18">
+                <p>Die Edition ist 2018 von der Herzog August Bibliothek Wolfenbüttel an die Universitäts- und Landesbibliothek Darmstadt umgezogen.</p>
+            </change>
+      </revisionDesc>   
+   </teiHeader>
+   <facsimile>
+      <surface lrx="2589" lry="4071" ulx="0" uly="0" xml:id="facs_1">
+         <!--<graphic height="4071px" url="61182400.tif" width="2589px"/>-->
+         <graphic height="4071px" url="https://files.transkribus.eu/Get?id=LMXLKIQQUTHQQUYRIFRELYIA&amp;fileType=view" width="2589px"/>
+         <zone points="719,209 2524,213 2524,2595 719,2591" rendition="TextRegion" xml:id="facs_1_TextRegion_1699268146324_45">
+            <zone points="856,439 1801,441 1880,499 2048,431 2184,502 2261,450 2398,444 2396,327 2048,309 1803,400 1509,342 1401,404 974,286 854,371" rendition="Line" xml:id="facs_1_tr_2_tl_1"/>
+            <zone points="829,549 1401,508 1569,518 1641,572 1803,520 2120,574 2317,535 2477,562 2472,439 2433,425 2259,450 2197,502 2035,431 1882,497 1795,439 827,441" rendition="Line" xml:id="facs_1_tr_2_tl_2"/>
+            <zone points="821,609 1074,582 1401,632 1617,599 1697,642 1896,603 2276,659 2452,616 2452,551 2099,582 2046,539 1807,516 1664,574 1571,520 1399,510 1254,568 1142,508 1071,560 819,553" rendition="Line" xml:id="facs_1_tr_2_tl_3"/>
+            <zone points="806,711 987,669 1179,671 1239,717 1302,676 1722,682 1975,721 2025,692 2143,750 2454,705 2433,618 2068,616 1981,655 1801,601 1691,651 1643,605 1401,632 1308,593 864,584 804,628" rendition="Line" xml:id="facs_1_tr_2_tl_4"/>
+            <zone points="819,742 1024,804 1351,744 1612,821 1751,771 2019,769 2245,829 2412,748 2296,715 2099,748 2021,690 1977,727 1903,688 1370,674 1241,717 1179,671 817,705" rendition="Line" xml:id="facs_1_tr_2_tl_5"/>
+            <zone points="821,841 1165,844 1233,902 1382,835 1451,868 1909,852 1977,899 2114,856 2242,908 2338,866 2338,792 2021,819 1851,769 1718,829 1463,746 1034,804 819,779" rendition="Line" xml:id="facs_1_tr_2_tl_6"/>
+            <zone points="802,916 984,949 1177,906 2087,960 2460,933 2441,833 2242,908 2116,858 1979,904 1911,852 1546,887 800,837" rendition="Line" xml:id="facs_1_tr_2_tl_7"/>
+            <zone points="814,997 1061,987 1177,1028 1227,991 1335,1051 1478,1013 1689,1067 1774,1007 2292,1016 2431,1061 2406,937 812,920" rendition="Line" xml:id="facs_1_tr_2_tl_8"/>
+            <zone points="814,1078 2410,1119 2408,1051 2292,1016 2126,1055 2004,1018 1861,1049 1784,1007 1337,1053 1229,993 1179,1026 812,997" rendition="Line" xml:id="facs_1_tr_2_tl_9"/>
+            <zone points="806,1146 931,1190 1268,1154 1486,1219 1588,1161 2298,1208 2427,1190 2427,1138 2294,1088 2182,1119 1853,1076 804,1082" rendition="Line" xml:id="facs_1_tr_2_tl_10"/>
+            <zone points="812,1237 1302,1227 1403,1268 1639,1237 1772,1287 1871,1256 2039,1293 2226,1254 2439,1310 2406,1183 2261,1217 1791,1165 1598,1219 1326,1202 1223,1152 1094,1190 810,1171" rendition="Line" xml:id="facs_1_tr_2_tl_11"/>
+            <zone points="796,1312 1382,1318 1457,1360 1614,1333 1737,1384 1822,1326 1963,1378 2162,1341 2402,1403 2421,1277 2311,1322 2137,1250 1940,1295 1637,1237 1451,1235 1391,1289 1299,1227 794,1246" rendition="Line" xml:id="facs_1_tr_2_tl_12"/>
+            <zone points="808,1384 1130,1445 1258,1397 1389,1434 1461,1401 1577,1459 1641,1413 1929,1449 2000,1416 2124,1478 2174,1440 2220,1474 2394,1447 2392,1393 2269,1349 2172,1387 2058,1339 1967,1378 1822,1324 1735,1384 1617,1333 806,1320" rendition="Line" xml:id="facs_1_tr_2_tl_13"/>
+            <zone points="808,1494 1042,1469 1185,1534 1279,1474 1420,1507 1583,1480 1753,1540 1923,1492 2184,1496 2427,1550 2425,1449 2017,1474 1685,1405 1577,1459 1455,1401 1389,1434 1256,1397 1127,1455 806,1387" rendition="Line" xml:id="facs_1_tr_2_tl_14"/>
+            <zone points="823,1579 1422,1559 1596,1621 1648,1577 1834,1579 2446,1635 2454,1540 2137,1494 1753,1540 1594,1480 1542,1513 1343,1476 1113,1538 1040,1471 821,1490" rendition="Line" xml:id="facs_1_tr_2_tl_15"/>
+            <zone points="798,1666 984,1641 1326,1660 1436,1712 1602,1675 1780,1706 1830,1668 2406,1714 2433,1610 2054,1590 1992,1633 1834,1579 1596,1625 1420,1556 796,1590" rendition="Line" xml:id="facs_1_tr_2_tl_16"/>
+            <zone points="821,1741 1737,1755 2464,1824 2458,1693 2006,1670 1946,1706 1871,1670 1453,1714 1322,1658 817,1656" rendition="Line" xml:id="facs_1_tr_2_tl_17"/>
+            <zone points="804,1867 939,1818 989,1851 1071,1818 1136,1874 1382,1824 1836,1896 1911,1853 2120,1896 2242,1863 2468,1929 2466,1826 2313,1786 2099,1822 1675,1755 1546,1793 1471,1747 798,1724" rendition="Line" xml:id="facs_1_tr_2_tl_18"/>
+            <zone points="808,1950 1217,1913 1310,1969 1424,1925 1505,1969 1604,1925 2211,1956 2323,2010 2427,1996 2425,1925 2203,1871 1917,1859 1834,1896 1565,1830 1380,1826 1196,1894 941,1816 804,1867" rendition="Line" xml:id="facs_1_tr_2_tl_19"/>
+            <zone points="821,1928 1142,1920 1231,1970 1391,1926 2152,1957 2274,2026 2438,1972 2436,1912 1619,1843 1327,1891 1246,1839 1078,1829 819,1874" rendition="Line" xml:id="facs_1_tr_2_tl_20"/>
+            <zone points="802,2116 856,2085 1256,2137 1511,2104 1592,2151 1677,2106 1954,2135 2122,2213 2201,2151 2452,2153 2450,2081 2356,2054 2251,2106 2135,2037 1550,2048 1374,2006 1212,2048 1125,2000 1036,2033 798,1998" rendition="Line" xml:id="facs_1_tr_2_tl_21"/>
+            <zone points="802,2189 1293,2234 1442,2201 1534,2253 1596,2211 1782,2271 2300,2234 2448,2280 2443,2174 2329,2137 2118,2211 1963,2137 1590,2151 1511,2104 1258,2137 1146,2091 1057,2126 856,2085 800,2126" rendition="Line" xml:id="facs_1_tr_2_tl_22"/>
+            <zone points="781,2274 1003,2276 1076,2327 1237,2280 1387,2365 1482,2288 1842,2363 1907,2313 2396,2350 2410,2274 2079,2230 1892,2278 1683,2242 1592,2282 1436,2205 1302,2236 1024,2184 779,2222" rendition="Line" xml:id="facs_1_tr_2_tl_23"/>
+            <zone points="796,2396 885,2425 968,2371 1488,2377 1685,2390 1770,2452 1942,2417 2029,2466 2274,2410 2332,2460 2404,2441 2400,2342 2300,2329 2216,2369 1898,2315 1845,2363 1480,2288 1395,2363 1181,2280 1024,2359 794,2342" rendition="Line" xml:id="facs_1_tr_2_tl_24"/>
+            <zone points="775,2472 970,2514 1225,2475 1612,2545 1898,2495 2014,2539 2238,2522 2236,2443 1768,2450 1486,2375 968,2373 881,2425 773,2398" rendition="Line" xml:id="facs_1_tr_2_tl_25"/>
+         </zone>
+         <zone points="1861,3263 2467,3276 2476,3970 1870,3957" rendition="TextRegion" xml:id="facs_1_region_1703266388508_969">
+            <zone points="1882,3610 1940,3608 2012,3658 2128,3656 2172,3614 2226,3608 2336,3672 2441,3650 2441,3536 2251,3550 2143,3500 2087,3527 1971,3484 1882,3490" rendition="Line" xml:id="facs_1_line_1703266439613_978"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <p facs="#facs_1_TextRegion_1699268146324_45">
+                    <pb facs="#facs_1" xml:id="img_0001" n="1"/>
+               <lb facs="#facs_1_tr_2_tl_1" n="N001"/>Der wolgebornner Graff unndt Herr, Herr <rs type="person" ref="#ernst_schaumburg_holstein">Ernnst</rs> Grave
+               <lb facs="#facs_1_tr_2_tl_2" n="N002"/>zue <rs type="place" ref="#holstein_grafschaft">Hollstein</rs>, <rs type="place" ref="#schaumburg_grafschaft">Schaumburgk</rs>, unndt <rs type="place" ref="#sternberg_grafschaft">Sternnbergk</rs>, Herr zue <rs type="place" ref="#gehmen_herrschaft">
+                        <w>Geh<pc>-</pc>
+               <lb facs="#facs_1_tr_2_tl_3" n="N003"/>men</w>
+                    </rs>, sagt den <rs type="place" ref="#niederlande_vereinigte">Niderlendischen</rs> Abgesannden <rs type="person" ref="#staes_petrus">Doctori Petro Staes</rs>,
+               <lb facs="#facs_1_tr_2_tl_4" n="N004"/>
+                    <rs type="person" ref="#bene_wilhelm">Wilhelm Bene</rs>, <rs type="person" ref="#fontein_jacob">Jacob Fontein</rs> unndt <rs type="person" ref="#werdt_gerdt">Gerdt die Werdt</rs> hiemit
+               <lb facs="#facs_1_tr_2_tl_5" n="N005"/>in gnaden zu, wenn S<am>.</am>
+                    <ex>eine</ex> G<am>.</am>
+                    <ex>naden</ex> eine wichtige sache den abgesanndten
+               <lb facs="#facs_1_tr_2_tl_6" n="N006"/>namkundig gemachtt unndt bewist hat richtig gemacht,
+               <lb facs="#facs_1_tr_2_tl_7" n="N007"/>das sich I<am>.</am>
+                    <ex>hre</ex> G<am>.</am>
+                    <ex>naden</ex> mit besonndern fleiße will anngelegen sein laßen,
+               <lb facs="#facs_1_tr_2_tl_8" n="N008"/>gleichwol schwerlich innerhalb den nechstenn neun oder zehen <w>Mo<pc>-</pc>
+               <lb facs="#facs_1_tr_2_tl_9" n="N009"/>naten</w> wirdt verrichten konnen, das I<am>.</am>
+                    <ex>hre</ex> G<am>.</am>
+                    <ex>naden</ex> alsdann ermeldten<note type="annotation">genannten.</note>
+               <lb facs="#facs_1_tr_2_tl_10" n="N010"/>Abgesanndten unndt iren consorten<note type="annotation">Gefährten, Genossen.</note> das exercitium reformata
+               <lb facs="#facs_1_tr_2_tl_11" n="N011"/>religionis<note type="annotation">die Ausübung der reformierten Religion.</note> zu <rs type="place" ref="#altona">Altenahe</rs> auff maße unndt fleiße wie es zwischen
+               <lb facs="#facs_1_tr_2_tl_12" n="N012"/>S<am>.</am>
+                    <ex>einer</ex> G<am>.</am>
+                    <ex>naden</ex> unndt Ihnen, den Abgesandtenn, den <date when="1601-10-23">drei unndt zwanzigsten
+                  <lb facs="#facs_1_tr_2_tl_13" n="N013"/>dieses Monats octobris</date> abgeredt,<note type="annotation">Vgl. den <ref type="quelle" target="0218#">Text vom 28. Oktober 1601</ref> und die <ref type="einleitung" target="0216#verhandlungen_reformierte">Einleitung</ref>.</note> unndt ferrer in I<am>.</am>
+                    <ex>hrer</ex> G<am>.</am>
+                    <ex>naden</ex> <w>an<pc>-</pc>
+               <lb facs="#facs_1_tr_2_tl_14" n="N014"/>kunfft</w> in I<am>.</am>
+                    <ex>hrer</ex> G<am>.</am>
+                    <ex>naden</ex> <rs type="place" ref="#holstein_grafschaft">Graveschafft Hollstein</rs> in kunfftigen <w>frue<pc>-</pc>
+               <lb facs="#facs_1_tr_2_tl_15" n="N015"/>linng</w> (den abgeredten Puncten unnachteilich) so viel die onera
+               <lb facs="#facs_1_tr_2_tl_16" n="N016"/>subditorum<note type="annotation">Abgaben der Untertanen.</note> unndt anndere politica<note type="annotation">öffentliche Angelegenheiten.</note> ahnlannget, vergleicht
+               <lb facs="#facs_1_tr_2_tl_17" n="N017"/>werdten soll, gnedig concediret, unndt nachgibtt, doch soll
+               <lb facs="#facs_1_tr_2_tl_18" n="N018"/>dießes zwischen I<am>.</am>
+                    <ex>hrer</ex> G<am>.</am>
+                    <ex>naden</ex> unndt Ihnen in mittlerweil in eußerster
+               <lb facs="#facs_1_tr_2_tl_19" n="N019"/>geheimb bewuster Uhrsachen halber gehaltten werdten,
+               <lb facs="#facs_1_tr_2_tl_20" n="N020"/>das die Abgesanndten fur sich unndt Ire Consorten bey ehren
+               <lb facs="#facs_1_tr_2_tl_21" n="N021"/>unndt treuen zugesagtt.</p>
+                <p resp="CVG">Des zue Uhrkunndtt I<am>.</am>
+                    <ex>hre</ex> G<am>.</am>
+                    <ex>naden</ex>
+               <lb facs="#facs_1_tr_2_tl_22" n="N022"/>dieses mitt eigener hanndt underschrieben, unndt mitt I<am>.</am>
+                    <ex>hrer</ex> G<am>.</am>
+                    <ex>naden</ex>
+               <lb facs="#facs_1_tr_2_tl_23" n="N023"/>secret<note type="annotation">Kleines Siegel.</note> versiegeltt hatt. Actum auff Ih<am>.</am>
+                    <ex>rer</ex> G<am>.</am>
+                    <ex>naden</ex>
+               <lb facs="#facs_1_tr_2_tl_24" n="N024"/>Hauß <rs type="place" ref="#stadthagen">Statthagen</rs> denn <date when="1601-10-27">sieben unndt zwantzigsten tagh
+               <lb facs="#facs_1_tr_2_tl_25" n="N025"/>octobris Anno Sechtzehennhundertt unndt eins</date>.
+            </p>
+            <p facs="#facs_1_region_1703266388508_969">
+               <lb facs="#facs_1_line_1703266439613_978" n="N001"/>
+                    <rs type="person" ref="#ernst_schaumburg_holstein">Ernst</rs>
+            </p>
+         </div>
+      </body>
+   </text>
+</tei:TEI>

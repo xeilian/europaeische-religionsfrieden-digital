@@ -1,0 +1,239 @@
+<span class="lineNumber">1</span>Reformations <br/>
+<span class="lineNumber">2</span>PATENT, <br/>
+<span class="lineNumber">3</span>So in dem Löblichem Kö-<br/>
+<span class="lineNumber">4</span>nigreich <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e828">Böhaimb</button> wegen deß Herrn- unnd <br/>
+<span class="lineNumber">5</span>Ritter-Standts Personen außgan-<br/>
+<span class="lineNumber">6</span>gangen unnd publiciert <br/>
+<span class="lineNumber">7</span>worden. <br/>
+<span class="lineNumber">8</span>Gedruckt zu <button class="entity #wien place" data-ref="wien" data-type="place" id="d2e845">Wienn</button> in <button class="entity #oesterreich_erzherzogtum place" data-ref="oesterreich_erzherzogtum" data-type="place" id="d2e848">Oesterreich</button> <br/>
+<span class="lineNumber">9</span>bey <button class="entity #gelbhaar_gregor person" data-ref="gelbhaar_gregor" data-type="person" id="d2e854">Gregor Gelbhaar</button>.
+<span class="lineNumber">10</span>Wir <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e866">Ferdinand </button><br/>
+<span class="lineNumber">11</span><button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e866">der Ander</button>, von Gottes Ge-<br/>
+<span class="lineNumber">12</span>naden Erwöhlter Römischer <br/>
+<span class="lineNumber">13</span>Kayser, zu allen Zeiten Mehrer <br/>
+<span class="lineNumber">14</span>deß Reichs, in <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e883">Germanien</button>, zu <br/>
+<span class="lineNumber">15</span><button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e887">Hungarn</button>, <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e890">Böhaimb</button>, <button class="entity #dalmatien place" data-ref="dalmatien" data-type="place" id="d2e893">Dalmatien</button>, <button class="entity #kroatien_koenigreich place" data-ref="kroatien_koenigreich" data-type="place" id="d2e896">Croatien und Scla-</button><br/>
+<span class="lineNumber">16</span><button class="entity #kroatien_koenigreich place" data-ref="kroatien_koenigreich" data-type="place" id="d2e896">vonien</button> etc. König, Ertzhertzog zu <button class="entity #oesterreich_erzherzogtum place" data-ref="oesterreich_erzherzogtum" data-type="place" id="d2e906">Österreich</button>, Marggraff <br/>
+<span class="lineNumber">17</span>zu <button class="entity #maehren_markgrafschaft place" data-ref="maehren_markgrafschaft" data-type="place" id="d2e911">Mährern</button>, Hertzog zu <button class="entity #luxemburg_herzogtum place" data-ref="luxemburg_herzogtum" data-type="place" id="d2e914">Lutzemburg</button> und in <button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e917">Schlesien</button> <br/>
+<span class="lineNumber">18</span>und Marggraff zu <button class="entity #lausitz place" data-ref="lausitz" data-type="place" id="d2e923">Laußitz</button> etc. Entbietten N. allen und <br/>
+<span class="lineNumber">19</span>jeden Unsern Undterthanen und Inwohnern auß allen <br/>
+<span class="lineNumber">20</span>Vier Ständten Unsers Erb-Königreichs<a class="fnNumber" href="#F_1" id="A_1">1</a> <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e933">Böhaimb</button> Un-<br/>
+<span class="lineNumber">21</span>ser Kayser- und Königkliche Gnad und alles Guets. Lie-<br/>
+<span class="lineNumber">22</span>be getreue, es ist Welt- und Landtkündig<a class="fnNumber" href="#F_2" id="A_2">2</a>, daß Unser <br/>
+<span class="lineNumber">23</span>Erb-Königreich <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e956">Böhaimb</button> niemahln und zu keinen eintzi-<br/>
+<span class="lineNumber">24</span>gen andern Zeiten in besserm Wolstandt und auffneh-<br/>
+<span class="lineNumber">25</span>men<a class="fnNumber" href="#F_3" id="A_3">3</a> gewesen als zu weiland<a class="fnNumber" href="#F_4" id="A_4">4</a> Unsers Hochgeehrten Vor-<br/>
+<span class="lineNumber">26</span>fahrers<a class="fnNumber" href="#F_5" id="A_5">5</a> Kayser <button class="entity #karl_iv person" data-ref="karl_iv" data-type="person" id="d2e988">Carls deß Vierdten</button>, Christmildist- und <br/>
+<span class="lineNumber">27</span>Löblicher Gedächtnuß, Leb- und Regierungszeiten, und <br/>
+<span class="lineNumber">28</span>dasselbe vornemblich darumben, daß <button class="entity #karl_iv person" data-ref="karl_iv" data-type="person" id="d2e996">Er</button> auß sonderlicher <br/>
+<span class="lineNumber">29</span>Vätterlicher Vorsorg und Liebe, so <button class="entity #karl_iv person" data-ref="karl_iv" data-type="person" id="d2e1001">Er</button> gegen Euern Vor-<br/>
+<span class="lineNumber">30</span>Eltern und liebem <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1010">Vatterlandt</button> gehabt, gantz vernünfftig <br/>
+<span class="lineNumber">31</span>und wol vorgesehen, daß der Unterschiedt und Ungleich- <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?fileType=view&amp;id=TNXGFREPKNSFFHQDBKJZKBYJ" id="p-A 2v"> [Blatt: A 2<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">32</span>heit in der Religion in einem Königreich und Landt kei-<br/>
+<span class="lineNumber">33</span>nen rechten, beständigen Fried oder wahren, auffrichtigen <br/>
+<span class="lineNumber">34</span>Gehorsamb und Vertreuligkeit, so wol gegen der Obrig-<br/>
+<span class="lineNumber">35</span>keit als auch zwischen den Undterthanen selbst, auff-<br/>
+<span class="lineNumber">36</span>richten oder erhalten könte. Dannenhero <button class="entity #karl_iv person" data-ref="karl_iv" data-type="person" id="d2e1049">Er</button> dann auch <br/>
+<span class="lineNumber">37</span>in gedachtem Königreich <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1055">Böhaimb</button> gewisse Gesätz und <br/>
+<span class="lineNumber">38</span>Ordnungen gemacht und darauff allen seinen so wol <br/>
+<span class="lineNumber">39</span>Geistlichen als Weltlichen Officirern und Räthen ge-<br/>
+<span class="lineNumber">40</span>messen<a class="fnNumber" href="#F_6" id="A_6">6</a> mitgegeben<a class="fnNumber" href="#F_7" id="A_7">7</a> und anbefohlen, in alle Weg und <br/>
+<span class="lineNumber">41</span>vor allen dingen ein wachendes Aug zuhaben und höch-<br/>
+<span class="lineNumber">42</span>stes Fleisses zuverhütten, damit ausser der Heiligen Ca-<br/>
+<span class="lineNumber">43</span>tholischen Apostolischen und alleinseeligmachenden Christ-<br/>
+<span class="lineNumber">44</span>lichen Römischen Religion (dann von der Zeit an, als das <br/>
+<span class="lineNumber">45</span><button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1099">Königreich</button> vom Haidenthumb zum Christlichen Glauben <br/>
+<span class="lineNumber">46</span>gebracht worden, in solchem biß auff weiland König <br/>
+<span class="lineNumber">47</span><button class="entity #wenzel person" data-ref="wenzel" data-type="person" id="d2e1106">Wenceßlaum, diß Nambens den Vierdten</button>, nur allein der <br/>
+<span class="lineNumber">48</span>Römische Catholische Glaub gewesen) keine andere ver-<br/>
+<span class="lineNumber">49</span>führerische, Ketzerische, verdambliche Jrthümber, Rotten<a class="fnNumber" href="#F_8" id="A_8">8</a>, <br/>
+<span class="lineNumber">50</span>und Secten<a class="fnNumber" href="#F_9" id="A_9">9</a> in das Königreich eingeführet und verstat-<br/>
+<span class="lineNumber">51</span>tet<a class="fnNumber" href="#F_10" id="A_10">10</a> würden. Da entgegen dann auch gnugsamb bekandt <br/>
+<span class="lineNumber">52</span>und am Tag, daß, als nach vorgedacht Kayser <button class="entity #karl_iv person" data-ref="karl_iv" data-type="person" id="d2e1138">Carls</button> See-<br/>
+<span class="lineNumber">53</span>ligen Absterben bey sein, deß Königs <button class="entity #wenzel person" data-ref="wenzel" data-type="person" id="d2e1149">Wenceslai</button>, Regie-<br/>
+<span class="lineNumber">54</span>rungszeiten, vielleicht auß all zu sicherer Fahrlässigkeit, <br/>
+<span class="lineNumber">55</span>allerley Irthümber und Ketzereyen in Unser Erb-König-<br/>
+<span class="lineNumber">56</span>reich <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1168">Böhaimb</button> eingeschlichen, darauff alßbaldt allerhandt <br/>
+<span class="lineNumber">57</span>Zerrüttungen, Zwyspalt und factionen<a class="fnNumber" href="#F_11" id="A_11">11</a> unter den Undter- <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?fileType=view&amp;id=UQMULQDNQGDCZTAAHXXESLSJ" id="p-A 3r"> [Blatt: A 3<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">58</span>thanen selbst wie nicht weniger hochschädlicher Auffstandt <br/>
+<span class="lineNumber">59</span>und Rebellion wider die Obrigkeit sich angefangen und <br/>
+<span class="lineNumber">60</span>entstandten, So fast bey allen nachfolgenden Königen <br/>
+<span class="lineNumber">61</span>gewehret<a class="fnNumber" href="#F_12" id="A_12">12</a>, sonderlich aber sich bey weiland Kaysers <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e1197">Ru-</button><br/>
+<span class="lineNumber">62</span><button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e1197">dolffi</button> und <button class="entity #matthias_oesterreich person" data-ref="matthias_oesterreich" data-type="person" id="d2e1206">Matthiae</button> Christmildister Gedächtnuß etc. Re-<br/>
+<span class="lineNumber">63</span>gierung wider erneuert und zu Unsern Zeiten gäntz-<br/>
+<span class="lineNumber">64</span>lich und dermassen uberhandt genommen, daß auch Un-<br/>
+<span class="lineNumber">65</span>sere Undterthanen in gedachtem Königreich <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1230">Böhaimb</button> <br/>
+<span class="lineNumber">66</span>Uns, Unsere Erben, Nachkombende Könige und das <br/>
+<span class="lineNumber">67</span>gantze Hauß Österreich umb das <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1238">Königreich</button> sambt den <br/>
+<span class="lineNumber">68</span>Incorporirten Landen wider die gulden Bull<a class="fnNumber" href="#F_13" id="A_13">13</a> wolgemel-<br/>
+<span class="lineNumber">69</span>tes Kayser <button class="entity #karl_iv person" data-ref="karl_iv" data-type="person" id="d2e1262">Carls deß Vierdten</button> und also gantz umb die <br/>
+<span class="lineNumber">70</span>Erbgerechtigkeit<a class="fnNumber" href="#F_14" id="A_14">14</a> zubringen sich undterstehen dürffen. Da-<br/>
+<span class="lineNumber">71</span>mit nun gedachtes Unser Erb-Königreich <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1278">Böhaimb</button> wider-<br/>
+<span class="lineNumber">72</span>umb zu dem Wolstandt gelangen möge, Darinnen es bey <br/>
+<span class="lineNumber">73</span>Zeiten wolgedachtes Unsers Vorfahrers weiland Kay-<br/>
+<span class="lineNumber">74</span>ser <button class="entity #karl_iv person" data-ref="karl_iv" data-type="person" id="d2e1298">Carls deß Vierdten</button> gewesen, So haben <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e1301">Wir</button> Uns von <br/>
+<span class="lineNumber">75</span>der Zeit an, als Uns Gott der Allmächtige durch seinen <br/>
+<span class="lineNumber">76</span>Göttlichen Segen die Siegreiche Victori vor <button class="entity #prag place" data-ref="prag" data-type="place" id="d2e1308">Prag</button> wi-<br/>
+<span class="lineNumber">77</span>der Unsere Rebellen, Feind und Widerwertige verliehen,<a class="fnNumber" href="#F_15" id="A_15">15</a> <br/>
+<span class="lineNumber">78</span>nichts höhers noch mehrers angelegen seyn lassen, als <br/>
+<span class="lineNumber">79</span>dem Lob- und Ruhmwürdigen Exempel wolgemeltes Kay-<br/>
+<span class="lineNumber">80</span>ser <button class="entity #karl_iv person" data-ref="karl_iv" data-type="person" id="d2e1336">Carls deß Vierdten</button> (welcher zu seiner Zeit vor ein Vat-<br/>
+<span class="lineNumber">81</span>ter deß Vatterlandts gehalten worden, auch solches im <br/>
+<span class="lineNumber">82</span>Werck erwiesen) mit Beschütz- und Handthabung der Hei-<br/>
+<span class="lineNumber">83</span>ligen allein Seeligmachenden Catholischen Religion, <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?fileType=view&amp;id=LEJSLRLCBQRTIOCUACPAYJFF" id="p-A 3v"> [Blatt: A 3<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">84</span>würcklich nachzufolgen, Und wie nun derselbe keine Ke-<br/>
+<span class="lineNumber">85</span>tzereyen oder Jrthümber in gemeltes Unser Erb-König-<br/>
+<span class="lineNumber">86</span>reich <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1379">Böhaimb</button> wissentlich einführen lassen, oder doch, da <br/>
+<span class="lineNumber">87</span>solches heimblicher weiß beschehen, alle und jede der Ca-<br/>
+<span class="lineNumber">88</span>tholischen Religion widerwertige Secten und Jrthümber <br/>
+<span class="lineNumber">89</span>mit gantz Rühmlichem Eyffer abzuschaffen und ernstlich <br/>
+<span class="lineNumber">90</span>zustraffen verordnet. Also und dieweiln <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e1396">Wir</button> mit höch-<br/>
+<span class="lineNumber">91</span>stem Mißfallen vernehmen müssen, daß bey denen in Un- <br/>
+<span class="lineNumber">92</span>serm Erb-Königreich <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1411">Böhaimb</button> noch verbleibenden Unca-<br/>
+<span class="lineNumber">93</span>tholischen Inwohnern das gefährliche, Uns und allen <br/>
+<span class="lineNumber">94</span>Unsern gehorsamben und getreuen Undterthanen zu <br/>
+<span class="lineNumber">95</span>grossem Nachtheil und Schaden gereichende practiciren<a class="fnNumber" href="#F_16" id="A_16">16</a> <br/>
+<span class="lineNumber">96</span>kein End nehmen wil, So seyndt <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e1431">Wir</button> dannenhero, so <br/>
+<span class="lineNumber">97</span>wol tragenden Königlichen Ambts und Schuldigkeit<a class="fnNumber" href="#F_17" id="A_17">17</a> hal-<br/>
+<span class="lineNumber">98</span>ber als auch umb Unserer Undterthanen Heyl und See-<br/>
+<span class="lineNumber">99</span>len Seeligkeit willen (welcher wegen <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e1453">Wir</button> dermahl eins <br/>
+<span class="lineNumber">100</span>Gott dem Allmächtigen Rechenschafft geben werden müs-<br/>
+<span class="lineNumber">101</span>sen), dann auch zu Stifft- und Fortpflantzung eines bestän-<br/>
+<span class="lineNumber">102</span>digen Friedens, Lieb und Einigkeit zwischen gemelten Un-<br/>
+<span class="lineNumber">103</span>sern getreuen und lieben Undterthanen, wie nicht weniger <br/>
+<span class="lineNumber">104</span>zu sicherer Erhaltung Unser und Unserer Erben, Nach-<br/>
+<span class="lineNumber">105</span>kommender Könige, an mehrgemeltem Königreich <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1490">Bö-</button><br/>
+<span class="lineNumber">106</span><button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1490">haimb</button> habender Erbgerechtigkeit, gezwungen worden, <br/>
+<span class="lineNumber">107</span>solche Anstell- und Verordnung zu machen, damit gedachte <br/>
+<span class="lineNumber">108</span>Unsere Uncatholische und in schädlichen Ketzereyen ver-<br/>
+<span class="lineNumber">109</span>harrende Undterthanen die nach wolgedachtes Kayser <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?fileType=view&amp;id=PGSJDWXLDHKTGFMSKNCXZCSP" id="p-A 4r"> [Blatt: A 4<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">110</span><button class="entity #karl_iv person" data-ref="karl_iv" data-type="person" id="d2e1517">Carls deß Vierdten</button> Ableiben eingerissene Irthümber und <br/>
+<span class="lineNumber">111</span>Secten verlassen und sich hinwiderumb zu der Heiligen <br/>
+<span class="lineNumber">112</span>allein seeligmachenden Catholischen Apostolischen Römi- <br/>
+<span class="lineNumber">113</span>schen Kirchen und Religion wenden möchten, Sintemahln <br/>
+<span class="lineNumber">114</span><button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e1530">Wir</button> nun dannenhero, wie gemeldet, dann auch Gewis- <br/>
+<span class="lineNumber">115</span>sens halber hinfüro Niemandes, so wol auß den Höhern <br/>
+<span class="lineNumber">116</span>als Niedrigen Ständen, von Mann- und Weibs-Perso-<br/>
+<span class="lineNumber">117</span>nen, in angeregtem Unserm Erb-Königreich <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1547">Böhaimb</button> <br/>
+<span class="lineNumber">118</span>bey den ergriffenen Ketzerischen Irthümbern und Secten <br/>
+<span class="lineNumber">119</span>verbleiben lassen können, sondern vielmehr vor recht und <br/>
+<span class="lineNumber">120</span>billich, auch Göttlichem Willen und Gesätzen gemäß zu <br/>
+<span class="lineNumber">121</span>seyn befinden, daß sich alle und jede Unsere gehorsambe und <br/>
+<span class="lineNumber">122</span>getreue Undterthanen mit Uns in der uhralten Römi- <br/>
+<span class="lineNumber">123</span>schen Catholischen Religion, darinnen Unsere und Ihre <br/>
+<span class="lineNumber">124</span>Vorältern recht und wol gelebet und, vermittels Göttli-<br/>
+<span class="lineNumber">125</span>cher Barmhertzigkeit, seeliglich von dieser Welt abgeschie-<br/>
+<span class="lineNumber">126</span>den, einhelliglich vergleichen. Als haben <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e1581">Wir</button> noch vor <br/>
+<span class="lineNumber">127</span>dieser Zeit zu An- und Fortstellung eines hochnothwen-<br/>
+<span class="lineNumber">128</span>digen heilsamen und Gott wolgefälligen Reformation-<br/>
+<span class="lineNumber">129</span>wercks gewisse Commissarien verordnet und denselben <br/>
+<span class="lineNumber">130</span>in Käyserlich- und Königlichen Gnaden anbefohlen, sich <br/>
+<span class="lineNumber">131</span>so wol vor sich selbsten, als auch durch andere Ihre subde-<br/>
+<span class="lineNumber">132</span>legirte Instructores, eüsseristen Fleisses dahin zu bemühen, <br/>
+<span class="lineNumber">133</span>damit offtbesagte Unsere getreue und gehorsambe Undter-<br/>
+<span class="lineNumber">134</span>thanen in dem Catholischen Glauben gründtlich und <br/>
+<span class="lineNumber">135</span>wol informiret, von den ergriffenen Ketzerischen Irthüm- <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?fileType=view&amp;id=DYZONJMUHIORTNBPWMLWTOYG" id="p-A 4v"> [Blatt: A 4<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">136</span>bern ab- und widerumb auff den rechten Weg zur allein <br/>
+<span class="lineNumber">137</span>Seeligmachenden Religion, und also zum Gehorsamb der <br/>
+<span class="lineNumber">138</span>Heiligen Römischen Apostolischen Catholischen Kirchen <br/>
+<span class="lineNumber">139</span>gelaittet und gebracht werden möchten. Diesemnach nun, <br/>
+<span class="lineNumber">140</span>und weil <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e1643">Wir</button> bey gemelten Unsern verordneten Commis- <br/>
+<span class="lineNumber">141</span>sarien unter andern auch vornemblich diese Verfügung <br/>
+<span class="lineNumber">142</span>gethan, daß Sie die auß dem Herrn- und Ritter-Standt <br/>
+<span class="lineNumber">143</span>(auff welche dieses Unser gnedigistes Patent absonderlich <br/>
+<span class="lineNumber">144</span>gerichtet ist), nach Publication desselben anzuraiten,<a class="fnNumber" href="#F_18" id="A_18">18</a> in-<br/>
+<span class="lineNumber">145</span>nerhalb sechs Monaten, so <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e1668">Wir</button> Ihnen zu einem gnug- <br/>
+<span class="lineNumber">146</span>samb geraumen Termin angesetzt, vor sich erfodern und <br/>
+<span class="lineNumber">147</span>Sie selbsten oder durch andere darzu verordnete Perso-<br/>
+<span class="lineNumber">148</span>nen in mehr wolgemeltem Römischen Catholischen Glau-<br/>
+<span class="lineNumber">149</span>ben gründtlich informiren, auch nach Verfliessung solches <br/>
+<span class="lineNumber">150</span>Termins, wie sich einer und der ander zu bezeigung deß <br/>
+<span class="lineNumber">151</span>schuldigen Gehorsambs gegen Gott dem Allmächtigen <br/>
+<span class="lineNumber">152</span>und der Heiligen Catholischen Kirchen, auch Unsers zu <br/>
+<span class="lineNumber">153</span>Ihrer selbst eigenen Seelen Seeligkeit gereichenden Vät-<br/>
+<span class="lineNumber">154</span>terlichen gnedigsten Befelchs, angelassen und erwiesen ha-<br/>
+<span class="lineNumber">155</span>ben würdet, gewisse und gründtliche Relation<a class="fnNumber" href="#F_19" id="A_19">19</a> thun sollen. <br/>
+<span class="lineNumber">156</span>Hierumben so haben <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e1720">Wir</button> gnedigist vor gut angesehen, alle <br/>
+<span class="lineNumber">157</span>und jede Unsere gehorsambe und getreue Unterthanen <br/>
+<span class="lineNumber">158</span>deß Hern- und Ritterstandts hiermit gnedigst und Vät-<br/>
+<span class="lineNumber">159</span>terlich zuermahnen (dann was Unsere Königliche und <br/>
+<span class="lineNumber">160</span><button class="entity #eleonora_kaiserin person" data-ref="eleonora_kaiserin" data-type="person" id="d2e1736">Unserer geliebten Gemahlin, der Römischen Kayserin</button>, Leib-<br/>
+<span class="lineNumber">161</span>gedings-Stätte, so wol die Unterthanen in Unsern aigen- <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?fileType=view&amp;id=BBGFSZDPUASSHQBWRQZXLUCL" id="p-B 1r"> [Blatt: B 1<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">162</span>thumblichen Herrschafften, wie nicht weniger aller ande-<br/>
+<span class="lineNumber">163</span>rer Inwohner deß Königreichs Undterthanen belangt, <br/>
+<span class="lineNumber">164</span>wie nem[b]lich dieselben zum Catholischen Glauben gebracht <br/>
+<span class="lineNumber">165</span>werden sollen, da lassen <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e1769">Wir</button> es bey Unserer vorhin er-<br/>
+<span class="lineNumber">166</span>gangnen Resolution allerdings bewenden), daß ein jed-<br/>
+<span class="lineNumber">167</span>weder die von gemelten Unsern Commissarien oder Ih-<br/>
+<span class="lineNumber">168</span>ren subdelegirten lnstructorn treuhertzig gemeinte In-<br/>
+<span class="lineNumber">169</span>formation mit eyfferiger Begier und Hertzen gutwillig <br/>
+<span class="lineNumber">170</span>annehme, auch sich selbst zu solchem seinem Heyl, Nutz, <br/>
+<span class="lineNumber">171</span>und Frommen bequeme und im allein Seeligmachenden <br/>
+<span class="lineNumber">172</span>Heiligen Catholischen Glauben mit Uns und der allge-<br/>
+<span class="lineNumber">173</span>meinen Christlichen Apostolischen Römischen Kirchen ver-<br/>
+<span class="lineNumber">174</span>gleiche. Dann im widrigen, und da sich Jemandt in solch <br/>
+<span class="lineNumber">175</span>angesetztem benendtem Termin der sechs Monaten mit <br/>
+<span class="lineNumber">176</span>Uns in dem Heiligen Catholischen Glauben nicht ver-<br/>
+<span class="lineNumber">177</span>gleichen würde, seyndt <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e1833">Wir</button> gäntzlich entschlossen, Wollen <br/>
+<span class="lineNumber">178</span>Uns auch hiermit und in Krafft dieses Unsers Kayser-<br/>
+<span class="lineNumber">179</span>lich- und Königlichen Patents endtlich erkläret haben, daß <br/>
+<span class="lineNumber">180</span>nach verlauffenem obgesetztem sechs Monatlichem Termin <br/>
+<span class="lineNumber">181</span>keinem eintzigen in viel bemeltem Unserm Erb-König-<br/>
+<span class="lineNumber">182</span>reich <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1857">Böhaimb</button> länger zuwohnen und seine Gütter Per-<br/>
+<span class="lineNumber">183</span>sönlich zubesitzen nicht verstattet und zugelassen, sondern <br/>
+<span class="lineNumber">184</span>dieselben alßdann vielgemeltes Unser Königreich <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1869">Böhaimb</button> <br/>
+<span class="lineNumber">185</span>zuraumen, Ihre habende Gütter aber Ihren Befreund-<br/>
+<span class="lineNumber">186</span>ten oder andern Catholischen Inwohnern zuverkauffen <br/>
+<span class="lineNumber">187</span>schuldig und verbunden seyn sollen. Zu welchem End dann <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?fileType=view&amp;id=MKQJGSHLZONNUBPBEPMRQAGV" id="p-B 1v"> [Blatt: B 1<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">188</span>und Verkauffung der Gütter <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e1893">Wir</button> denselben auch einen <br/>
+<span class="lineNumber">189</span>andern Termin von sechs Monaten lang angesetzt und ge-<br/>
+<span class="lineNumber">190</span>geben haben wollen. Damit aber niemandt vermeinen <br/>
+<span class="lineNumber">191</span>möchte, als wann hierdurch Gelt oder Gut und nicht <br/>
+<span class="lineNumber">192</span>Gottes deß Allmächtigen Ehr und Lob allein, dann auch <br/>
+<span class="lineNumber">193</span>gedachter Unserer Undterthanen Seelen Seeligkeit gesucht <br/>
+<span class="lineNumber">194</span>werde, So wollen <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e1914">Wir</button> Uns hiermit und in Krafft dieses <br/>
+<span class="lineNumber">195</span>in Kayserlich- und Königlichen Gnaden gegen Männiglich<a class="fnNumber" href="#F_20" id="A_20">20</a> <br/>
+<span class="lineNumber">196</span>weiter erklärt haben, daß, woferrn sich einer oder der an-<br/>
+<span class="lineNumber">197</span>der diesem Unserm gnedigsten und endtlichen Willen (des-<br/>
+<span class="lineNumber">198</span>sen <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e1939">Wir</button> Uns zwar keines Wegs versehen) nicht gehor-<br/>
+<span class="lineNumber">199</span>samblich bequemen würde, dem oder denselben die Emi-<br/>
+<span class="lineNumber">200</span>gration und Abzug ohne Abforderung eintziger Nachsteuer <br/>
+<span class="lineNumber">201</span>bevor und frey stehen solle. Gestallt <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e1958">Wir</button> dann auch hier-<br/>
+<span class="lineNumber">202</span>mit zugelassen haben wollen, daß ein jedweder zu Bestell- <br/>
+<span class="lineNumber">203</span>und Versilberung seiner Gütter, wie nicht weniger Ein-<br/>
+<span class="lineNumber">204</span>mahnung seiner im Königreich habenden Schulden (dar-<br/>
+<span class="lineNumber">205</span>zu Ihnen dann schleünigist und auffs ehist möglich Rech⸗<br/>
+<span class="lineNumber">206</span>tens verholffen werden solle) jemandts auß seinen Be-<br/>
+<span class="lineNumber">207</span>freundten oder auch andere Catholische Personen zuvoll-<br/>
+<span class="lineNumber">208</span>mächtigen und zuhinterlassen befugt seyn solle. All die-<br/>
+<span class="lineNumber">209</span>weil <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e2014">Wir</button> aber nichts liebers sehen noch wünschen wol-<br/>
+<span class="lineNumber">210</span>ten, als daß diejenige alte und gutte Geschlechter, deren <br/>
+<span class="lineNumber">211</span>Vor-Eltern sich in Unserm Erb-Königreich <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e2026">Böhaimb</button> so <br/>
+<span class="lineNumber">212</span>lange Zeit, ehe und zuvor die Irthümber und unterschiedt-<br/>
+<span class="lineNumber">213</span>liche Secten in das <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e2039">Königreich</button> eingerissen, in Einigkeit der <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?fileType=view&amp;id=UOEQNEATYXKQJNBOCESALGHQ" id="p-B 2r"> [Blatt: B 2<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">214</span>Catholischen Religion, wol und in guttem Auffnehmen <br/>
+<span class="lineNumber">215</span>befunden, auch hinfüro in gleichmässiger Einigkeit der <br/>
+<span class="lineNumber">216</span>Religion im <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e2055">Königreich</button> erhalten werden und verbleiben <br/>
+<span class="lineNumber">217</span>möchten, Als thun <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e2060">Wir</button> alle und jede Unsere gehor-<br/>
+<span class="lineNumber">218</span>sambe Undterthanen gantz Vätterlich und gnedigist ver-<br/>
+<span class="lineNumber">219</span>mahnen, es wolle dißfals ein jedweder seine selbst eigene <br/>
+<span class="lineNumber">220</span>Wolfarth bedencken, in sein Gewissen gehen und wol be-<br/>
+<span class="lineNumber">221</span>hertzigen, damit Er nicht auß gerechter Straff und Ver-<br/>
+<span class="lineNumber">222</span>hängnuß Gottes deß Allmächtigen neben dem Zeitlichen <br/>
+<span class="lineNumber">223</span>auch das Ewige, welches <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e2097">Wir</button> Niemanden gern vergön-<br/>
+<span class="lineNumber">224</span>nen wolten, liederlicher weiß verliere, Sondern diesel-<br/>
+<span class="lineNumber">225</span>ben vielmehr Ihre Irthümber und Ketzerey (durch welche <br/>
+<span class="lineNumber">226</span>Sie und Ihre Vorfahrer verführet und das ansehen-<br/>
+<span class="lineNumber">227</span>liche <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e2123">Königreich</button> und liebes Vatterlandt in das eusseriste <br/>
+<span class="lineNumber">228</span>Verderben gesetzt) verlassen und zu dem alten Heiligen <br/>
+<span class="lineNumber">229</span>Catholischen Glauben wider kehren, auch mit Uns in <br/>
+<span class="lineNumber">230</span>der Religion sich zuvergleichen Ihnen angelegen seyn las-<br/>
+<span class="lineNumber">231</span>sen. Und es wird an dem allem vollbracht Unser gne-<br/>
+<span class="lineNumber">232</span>digster, auch endtlicher, unwandelbahrer Will und Mey-<br/>
+<span class="lineNumber">233</span>nung. Geben in Unser Stadt <button class="entity #wien place" data-ref="wien" data-type="place" id="d2e2155">Wienn</button> am Sambstag <br/>
+<span class="lineNumber">234</span>der Gedächtnuß deß Heiligen Ignatij,<a class="fnNumber" href="#F_21" id="A_21">21</a> im Sechzehenhun-<br/>
+<span class="lineNumber">235</span>dert Sieben und Zwaintzigsten, Unserer Reiche deß <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e2179">Rö-</button><br/>
+<span class="lineNumber">236</span><button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e2179">mischen</button> im Achten, deß <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e2187">Hungarischen</button> im Zehenden und <br/>
+<span class="lineNumber">237</span>deß <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e2192">Böhaimbischen</button> im Ailfften Jahr.
+<span class="lineNumber">238</span>Ad Mandatum Sacrae Caesareae <br/>
+<span class="lineNumber">239</span>Majestatis proprium.

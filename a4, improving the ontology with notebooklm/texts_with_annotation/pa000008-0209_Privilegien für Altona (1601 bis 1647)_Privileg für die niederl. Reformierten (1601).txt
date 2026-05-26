@@ -1,0 +1,26 @@
+<span class="lineNumber">1</span>Der wolgebornner Graff unndt Herr, Herr <button class="entity #ernst_schaumburg_holstein person" data-ref="ernst_schaumburg_holstein" data-type="person" id="d2e269">Ernnst</button> Grave <br/>
+<span class="lineNumber">2</span>zue <button class="entity #holstein_grafschaft place" data-ref="holstein_grafschaft" data-type="place" id="d2e274">Hollstein</button>, <button class="entity #schaumburg_grafschaft place" data-ref="schaumburg_grafschaft" data-type="place" id="d2e277">Schaumburgk</button>, unndt <button class="entity #sternberg_grafschaft place" data-ref="sternberg_grafschaft" data-type="place" id="d2e281">Sternnbergk</button>, Herr zue <button class="entity #gehmen_herrschaft place" data-ref="gehmen_herrschaft" data-type="place" id="d2e284">Geh-</button><br/>
+<span class="lineNumber">3</span><button class="entity #gehmen_herrschaft place" data-ref="gehmen_herrschaft" data-type="place" id="d2e284">men</button>, sagt den <button class="entity #niederlande_vereinigte place" data-ref="niederlande_vereinigte" data-type="place" id="d2e292">Niderlendischen</button> Abgesannden <button class="entity #staes_petrus person" data-ref="staes_petrus" data-type="person" id="d2e295">Doctori Petro Staes</button>, <br/>
+<span class="lineNumber">4</span><button class="entity #bene_wilhelm person" data-ref="bene_wilhelm" data-type="person" id="d2e299">Wilhelm Bene</button>, <button class="entity #fontein_jacob person" data-ref="fontein_jacob" data-type="person" id="d2e303">Jacob Fontein</button> unndt <button class="entity #werdt_gerdt person" data-ref="werdt_gerdt" data-type="person" id="d2e306">Gerdt die Werdt</button> hiemit <br/>
+<span class="lineNumber">5</span>in gnaden zu, wenn S<span class="ex">[eine]</span> G<span class="ex">[naden]</span> eine wichtige sache den abgesanndten <br/>
+<span class="lineNumber">6</span>namkundig gemachtt unndt bewist hat richtig gemacht, <br/>
+<span class="lineNumber">7</span>das sich I<span class="ex">[hre]</span> G<span class="ex">[naden]</span> mit besonndern fleiße will anngelegen sein laßen, <br/>
+<span class="lineNumber">8</span>gleichwol schwerlich innerhalb den nechstenn neun oder zehen Mo-<br/>
+<span class="lineNumber">9</span>naten wirdt verrichten konnen, das I<span class="ex">[hre]</span> G<span class="ex">[naden]</span> alsdann ermeldten<a class="fnNumber" href="#F_1" id="A_1">1</a> <br/>
+<span class="lineNumber">10</span>Abgesanndten unndt iren consorten<a class="fnNumber" href="#F_2" id="A_2">2</a> das exercitium reformata <br/>
+<span class="lineNumber">11</span>religionis<a class="fnNumber" href="#F_3" id="A_3">3</a> zu <button class="entity #altona place" data-ref="altona" data-type="place" id="d2e358">Altenahe</button> auff maße unndt fleiße wie es zwischen <br/>
+<span class="lineNumber">12</span>S<span class="ex">[einer]</span> G<span class="ex">[naden]</span> unndt Ihnen, den Abgesandtenn, den drei unndt zwanzigsten <br/>
+<span class="lineNumber">13</span>dieses Monats octobris abgeredt,<a class="fnNumber" href="#F_4" id="A_4">4</a> unndt ferrer in I<span class="ex">[hrer]</span> G<span class="ex">[naden]</span> an-<br/>
+<span class="lineNumber">14</span>kunfft in I<span class="ex">[hrer]</span> G<span class="ex">[naden]</span> <button class="entity #holstein_grafschaft place" data-ref="holstein_grafschaft" data-type="place" id="d2e405">Graveschafft Hollstein</button> in kunfftigen frue-<br/>
+<span class="lineNumber">15</span>linng (den abgeredten Puncten unnachteilich) so viel die onera <br/>
+<span class="lineNumber">16</span>subditorum<a class="fnNumber" href="#F_5" id="A_5">5</a> unndt anndere politica<a class="fnNumber" href="#F_6" id="A_6">6</a> ahnlannget, vergleicht <br/>
+<span class="lineNumber">17</span>werdten soll, gnedig concediret, unndt nachgibtt, doch soll <br/>
+<span class="lineNumber">18</span>dießes zwischen I<span class="ex">[hrer]</span> G<span class="ex">[naden]</span> unndt Ihnen in mittlerweil in eußerster <br/>
+<span class="lineNumber">19</span>geheimb bewuster Uhrsachen halber gehaltten werdten, <br/>
+<span class="lineNumber">20</span>das die Abgesanndten fur sich unndt Ire Consorten bey ehren <br/>
+<span class="lineNumber">21</span>unndt treuen zugesagtt.
+<span class="lineNumber">22</span>dieses mitt eigener hanndt underschrieben, unndt mitt I<span class="ex">[hrer]</span> G<span class="ex">[naden]</span> <br/>
+<span class="lineNumber">23</span>secret<a class="fnNumber" href="#F_7" id="A_7">7</a> versiegeltt hatt. Actum auff Ih<span class="ex">[rer]</span> G<span class="ex">[naden]</span> <br/>
+<span class="lineNumber">24</span>Hauß <button class="entity #stadthagen place" data-ref="stadthagen" data-type="place" id="d2e472">Statthagen</button> denn sieben unndt zwantzigsten tagh <br/>
+<span class="lineNumber">25</span>octobris Anno Sechtzehennhundertt unndt eins.
+<span class="lineNumber">26</span><button class="entity #ernst_schaumburg_holstein person" data-ref="ernst_schaumburg_holstein" data-type="person" id="d2e484">Ernst</button>

@@ -1,0 +1,766 @@
+<?xml-model href="../../../customization/schema_quellentexte/religionsfrieden-quellentexte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pa000008-0229">
+   <teiHeader>      
+      <fileDesc>         
+         <titleStmt>
+            <title level="a">Vertrag von Augsburg (<date when="1548-08-02">2. August 1548</date>) - BayHStA Augsburg, Reichsstadt Augsburg, Urkunden 677</title>
+            <title level="s">Europäische Religionsfrieden Digital</title>
+            <principal ref="http://d-nb.info/gnd/111186870">Irene Dingel</principal> 
+            <editor role="http://id.loc.gov/vocabulary/relators/edt" ref="http://orcid.org/0000-0002-1509-6960">Thomas Stäcker</editor>
+            <editor role="http://id.loc.gov/vocabulary/relators/edt">
+                    <persName>Jan Martin Lies</persName>
+                </editor> 
+            <editor role="http://id.loc.gov/vocabulary/relators/mrk">Kevin Wunsch</editor>           
+            <editor role="http://id.loc.gov/vocabulary/relators/mrk">Kevin Kuck</editor>           
+         </titleStmt>         
+         <editionStmt>
+            <edition>Digitale Edition gemäß <ref target="http://www.tei-c.org/">TEI P5</ref>
+                </edition>
+            <funder>Akademie der Wissenschaften und der Literatur</funder>
+         </editionStmt>         
+         <publicationStmt>
+            <publisher>
+               <orgName ref="http://www.isni.org/0000000119314040">Akademie der Wissenschaften und Literatur Mainz</orgName>
+            </publisher>           
+            <distributor>
+               <orgName ref="http://www.isni.org/0000000110101946">Universitäts- und Landesbibliothek Darmstadt</orgName>
+               <idno type="ISIL">http://lobid.org/organisation/DE-17</idno>
+            </distributor>
+            <date when="2021-12-16" type="issued">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p xml:lang="en">This file is licensed under the terms of the Creative Commons License CC-BY 4.0 (Attribution 4.0 International)</p>
+               </licence>
+            </availability>
+         </publicationStmt>        
+         <sourceDesc><!-- bitte ausfüllen; nicht zutreffende Elemente bitte rauslöschen -->
+            <msDesc>
+               <msIdentifier>
+                  <settlement/>                               
+                  <repository/>
+                  <collection/>
+                  <idno>Signatur</idno>
+                  <idno type="urn"/>
+                  <idno type="vd16"/>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title/>
+                     <respStmt>
+                        <resp/>
+                        <persName/>
+                     </respStmt>
+                     <biblStruct><!-- gilt nur für Drucke; rausnehmen, wenn es sich um ein Manuskript handelt! -->
+                        <monogr xml:id="vorlage">
+                           <imprint>
+                              <pubPlace ref="http://www.geonames.org/2874225/mainz.html">Mainz</pubPlace>
+                              <publisher>
+                                 <persName/>
+                              </publisher>
+                              <date>1529</date>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                  </msItem>
+               </msContents>
+               <history><!-- bei Manuskript, falls Datum und/oder Ort bekannt sind; andernfalls rauslöschen! -->
+                  <origin>
+                     <date/>
+                     <placeName/>
+                  </origin>
+               </history>
+            </msDesc>    
+         </sourceDesc>
+      </fileDesc>      
+      <encodingDesc>         
+         <projectDesc>
+            <p>
+               <ref target="http://www.eured.de">Europäische Religionsfrieden Digital</ref>
+            </p>
+         </projectDesc>
+         <classDecl>
+            <taxonomy xml:id="marcrelator">
+               <bibl>
+                        <idno type="URI">http://id.loc.gov/vocabulary/relators/</idno> MARC Code List for Relators </bibl>
+            </taxonomy>
+         </classDecl>         
+      </encodingDesc>      
+      <profileDesc>         
+         <langUsage>
+            <language ident="deut">Deutsch</language><!-- Sprache hinzufügen -->
+         </langUsage>         
+      </profileDesc>      
+      <revisionDesc>
+         <change xml:id="ch01" when="2018-01-18">
+                <p>Die Edition ist 2018 von der Herzog August Bibliothek Wolfenbüttel an die Universitäts- und Landesbibliothek Darmstadt umgezogen.</p>
+            </change>
+      </revisionDesc>   
+   </teiHeader>
+   <!--<facsimile>
+      <surface lrx="2216" lry="2754" ulx="0" uly="0" xml:id="facs_1">
+         <!-\-<graphic height="2754px" url="69061665.jpg" width="2216px"/>-\->
+         <graphic height="2754px" url="https://files.transkribus.eu/Get?id=XPGPWEOHEQYWMIDLOQXXFUMH&amp;fileType=view" width="2216px"/>
+         <zone points="37,0 37,1703 1817,1702 1817,0" rendition="TextRegion" xml:id="facs_1_tr_2">
+            <zone points="32,0 1773,23 1773,74 1573,55 1311,162 1237,110 1114,107 1056,152 827,103 714,129 575,32 317,126 242,45 32,6" rendition="Line" xml:id="facs_1_tr_2_tl_2"/>
+            <zone points="275,304 1751,313 1751,252 1689,242 275,271" rendition="Line" xml:id="facs_1_tr_2_tl_3"/>
+            <zone points="258,381 1702,346 1667,291 258,304" rendition="Line" xml:id="facs_1_tr_2_tl_4"/>
+            <zone points="268,417 1728,381 1728,339 1457,336 268,378" rendition="Line" xml:id="facs_1_tr_2_tl_5"/>
+            <zone points="268,468 1741,439 1744,381 271,420" rendition="Line" xml:id="facs_1_tr_2_tl_6"/>
+            <zone points="278,520 1747,488 1747,439 1686,426 281,468" rendition="Line" xml:id="facs_1_tr_2_tl_7"/>
+            <zone points="275,559 1696,526 1696,488 1621,472 278,520" rendition="Line" xml:id="facs_1_tr_2_tl_8"/>
+            <zone points="281,617 1605,588 1735,568 1738,526 281,559" rendition="Line" xml:id="facs_1_tr_2_tl_9"/>
+            <zone points="253,656 1678,633 1678,581 1626,568 257,627" rendition="Line" xml:id="facs_1_tr_2_tl_10"/>
+            <zone points="278,711 1725,672 1725,627 1560,620 281,665" rendition="Line" xml:id="facs_1_tr_2_tl_11"/>
+            <zone points="284,749 1741,724 1744,669 284,714" rendition="Line" xml:id="facs_1_tr_2_tl_12"/>
+            <zone points="278,814 1683,775 1757,762 1760,707 281,753" rendition="Line" xml:id="facs_1_tr_2_tl_13"/>
+            <zone points="284,859 1741,824 1731,759 287,808" rendition="Line" xml:id="facs_1_tr_2_tl_14"/>
+            <zone points="278,901 1602,875 1744,859 1747,814 278,866" rendition="Line" xml:id="facs_1_tr_2_tl_15"/>
+            <zone points="271,940 1318,930 1757,904 1760,859 271,908" rendition="Line" xml:id="facs_1_tr_2_tl_16"/>
+            <zone points="284,1011 1770,953 1754,898 287,950" rendition="Line" xml:id="facs_1_tr_2_tl_17"/>
+            <zone points="281,1053 1783,1011 1783,953 1670,950 284,1011" rendition="Line" xml:id="facs_1_tr_2_tl_18"/>
+            <zone points="284,1098 1754,1050 1699,1001 287,1050" rendition="Line" xml:id="facs_1_tr_2_tl_19"/>
+            <zone points="281,1147 1537,1118 1731,1105 1735,1056 281,1095" rendition="Line" xml:id="facs_1_tr_2_tl_20"/>
+            <zone points="275,1182 1773,1153 1741,1095 275,1140" rendition="Line" xml:id="facs_1_tr_2_tl_21"/>
+            <zone points="281,1234 1757,1208 1715,1150 284,1189" rendition="Line" xml:id="facs_1_tr_2_tl_22"/>
+            <zone points="268,1286 1725,1250 1725,1202 1667,1198 271,1227" rendition="Line" xml:id="facs_1_tr_2_tl_23"/>
+            <zone points="281,1331 1767,1298 1770,1247 281,1282" rendition="Line" xml:id="facs_1_tr_2_tl_24"/>
+            <zone points="281,1363 1751,1353 1754,1295 281,1331" rendition="Line" xml:id="facs_1_tr_2_tl_25"/>
+            <zone points="281,1415 1715,1382 1715,1337 1615,1334 281,1360" rendition="Line" xml:id="facs_1_tr_2_tl_26"/>
+            <zone points="284,1463 1735,1437 1735,1389 1683,1379 284,1418" rendition="Line" xml:id="facs_1_tr_2_tl_27"/>
+            <zone points="291,1505 1735,1492 1735,1441 1592,1424 291,1463" rendition="Line" xml:id="facs_1_tr_2_tl_28"/>
+            <zone points="287,1550 1693,1541 1693,1489 1547,1476 287,1499" rendition="Line" xml:id="facs_1_tr_2_tl_29"/>
+            <zone points="281,1589 1715,1586 1715,1534 1654,1531 281,1557" rendition="Line" xml:id="facs_1_tr_2_tl_30"/>
+            <zone points="284,1641 1718,1634 1683,1579 284,1589" rendition="Line" xml:id="facs_1_tr_2_tl_31"/>
+            <zone points="275,1696 1712,1676 1712,1641 1576,1625 275,1651" rendition="Line" xml:id="facs_1_tr_2_tl_32"/>
+            <zone points="284,1731 1767,1735 1747,1654 1647,1689 284,1696" rendition="Line" xml:id="facs_1_tr_2_tl_33"/>
+            <zone points="287,1793 1722,1786 1722,1731 1563,1718 287,1735" rendition="Line" xml:id="facs_1_tr_2_tl_34"/>
+            <zone points="284,1841 1735,1835 1735,1783 1612,1776 284,1793" rendition="Line" xml:id="facs_1_tr_2_tl_35"/>
+            <zone points="284,1880 1735,1893 1735,1848 1657,1825 284,1838" rendition="Line" xml:id="facs_1_tr_2_tl_36"/>
+            <zone points="284,1938 1705,1932 1705,1893 1634,1883 284,1880" rendition="Line" xml:id="facs_1_tr_2_tl_37"/>
+            <zone points="284,1990 1712,1990 1712,1928 284,1938" rendition="Line" xml:id="facs_1_tr_2_tl_38"/>
+            <zone points="281,2051 1673,2048 1673,1983 1628,1977 281,1986" rendition="Line" xml:id="facs_1_tr_2_tl_40"/>
+         </zone>
+      </surface>
+      <surface lrx="2188" lry="2700" ulx="0" uly="0" xml:id="facs_2">
+         <!-\-<graphic height="2700px" url="69061628.jpg" width="2188px"/>-\->
+         <graphic height="2700px" url="https://files.transkribus.eu/Get?id=RVXFRCKSTTPUJQVSWHHWHPDM&amp;fileType=view" width="2188px"/>
+         <zone points="32,221 32,2017 1905,1986 1905,190" rendition="TextRegion" xml:id="facs_2_tr_1">
+            <zone points="434,228 1852,231 1852,171 1630,136 1503,188 1399,139 1147,130 968,168 919,133 595,133 434,179" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
+            <zone points="436,277 1870,275 1870,234 1783,225 439,237" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
+            <zone points="448,353 1861,321 1821,275 448,298" rendition="Line" xml:id="facs_2_tr_1_tl_3"/>
+            <zone points="442,402 1861,373 1861,324 442,358" rendition="Line" xml:id="facs_2_tr_1_tl_4"/>
+            <zone points="439,442 1850,419 1850,373 1526,364 442,402" rendition="Line" xml:id="facs_2_tr_1_tl_5"/>
+            <zone points="442,506 1855,494 1890,399 1774,439 442,439" rendition="Line" xml:id="facs_2_tr_1_tl_6"/>
+            <zone points="448,538 1847,514 1847,465 448,500" rendition="Line" xml:id="facs_2_tr_1_tl_7"/>
+            <zone points="422,595 1731,584 1852,566 1855,506 425,526" rendition="Line" xml:id="facs_2_tr_1_tl_8"/>
+            <zone points="439,656 1873,621 1873,566 442,590" rendition="Line" xml:id="facs_2_tr_1_tl_9"/>
+            <zone points="439,694 1812,670 1896,708 1896,610 439,662" rendition="Line" xml:id="facs_2_tr_1_tl_10"/>
+            <zone points="439,757 1656,751 1852,728 1855,685 439,696" rendition="Line" xml:id="facs_2_tr_1_tl_11"/>
+            <zone points="434,806 1717,803 1876,783 1878,731 436,740" rendition="Line" xml:id="facs_2_tr_1_tl_12"/>
+            <zone points="445,873 1887,838 1844,780 445,818" rendition="Line" xml:id="facs_2_tr_1_tl_13"/>
+            <zone points="478,898 1885,901 1868,831 478,869" rendition="Line" xml:id="facs_2_tr_1_tl_14"/>
+            <zone points="428,959 1884,954 1887,884 431,896" rendition="Line" xml:id="facs_2_tr_1_tl_15"/>
+            <zone points="439,1026 1855,1003 1835,936 442,971" rendition="Line" xml:id="facs_2_tr_1_tl_16"/>
+            <zone points="448,1087 1876,1040 1815,985 448,1017" rendition="Line" xml:id="facs_2_tr_1_tl_17"/>
+            <zone points="445,1127 1902,1110 1858,1038 445,1087" rendition="Line" xml:id="facs_2_tr_1_tl_18"/>
+            <zone points="445,1170 1668,1150 1850,1199 1829,1101 448,1127" rendition="Line" xml:id="facs_2_tr_1_tl_19"/>
+            <zone points="445,1248 1613,1243 1613,1176 1561,1153 445,1194" rendition="Line" xml:id="facs_2_tr_1_tl_20"/>
+            <zone points="43,1491 324,1376 540,1344 1748,1350 1858,1335 1861,1286 844,1251 699,1295 497,1246 49,1353" rendition="Line" xml:id="facs_2_tr_1_tl_21"/>
+            <zone points="428,1413 1769,1399 1876,1387 1878,1341 428,1370" rendition="Line" xml:id="facs_2_tr_1_tl_22"/>
+            <zone points="439,1485 1890,1425 1864,1379 442,1410" rendition="Line" xml:id="facs_2_tr_1_tl_23"/>
+            <zone points="442,1517 1384,1474 1760,1500 1858,1474 1861,1428 442,1483" rendition="Line" xml:id="facs_2_tr_1_tl_24"/>
+            <zone points="442,1572 1393,1535 1870,1566 1870,1485 1659,1477 442,1520" rendition="Line" xml:id="facs_2_tr_1_tl_25"/>
+            <zone points="439,1639 639,1639 769,1595 1396,1607 1422,1535 439,1575" rendition="Line" xml:id="facs_2_tr_1_tl_26"/>
+            <zone points="329,1858 578,1751 1815,1746 1884,1737 1890,1679 1624,1642 1312,1688 1130,1636 907,1714 653,1708 355,1592" rendition="Line" xml:id="facs_2_tr_1_tl_27"/>
+            <zone points="454,1824 1867,1795 1867,1722 454,1760" rendition="Line" xml:id="facs_2_tr_1_tl_28"/>
+            <zone points="448,1890 1878,1838 1878,1795 1809,1780 451,1824" rendition="Line" xml:id="facs_2_tr_1_tl_29"/>
+            <zone points="442,1931 1824,1907 1844,1835 442,1890" rendition="Line" xml:id="facs_2_tr_1_tl_30"/>
+            <zone points="460,2003 945,1985 1234,2029 1312,1991 1350,2026 1821,2040 1858,2029 1861,1893 460,1928" rendition="Line" xml:id="facs_2_tr_1_tl_31"/>
+         </zone>
+      </surface>
+      <surface lrx="2216" lry="2735" ulx="0" uly="0" xml:id="facs_3">
+         <!-\-<graphic height="2735px" url="69061687.jpg" width="2216px"/>-\->
+         <graphic height="2735px" url="https://files.transkribus.eu/Get?id=DRFIAQEVZSYGDIHTHYDENMQB&amp;fileType=view" width="2216px"/>
+         <zone points="45,198 45,2059 1788,2047 1788,186" rendition="TextRegion" xml:id="facs_3_tr_1">
+            <zone points="256,232 1238,219 1444,264 1715,245 1713,169 1499,132 1325,177 1080,140 888,177 253,148" rendition="Line" xml:id="facs_3_tr_1_tl_1"/>
+            <zone points="266,319 382,282 490,303 646,277 780,279 885,327 996,314 980,224 269,232" rendition="Line" xml:id="facs_3_tr_1_tl_2"/>
+            <zone points="137,567 345,419 1779,445 1784,377 1549,327 1209,364 988,319 490,379 153,311" rendition="Line" xml:id="facs_3_tr_1_tl_3"/>
+            <zone points="269,501 1707,477 1707,424 269,432" rendition="Line" xml:id="facs_3_tr_1_tl_4"/>
+            <zone points="266,543 1744,556 1742,477 264,503" rendition="Line" xml:id="facs_3_tr_1_tl_5"/>
+            <zone points="264,590 1697,598 1676,538 264,545" rendition="Line" xml:id="facs_3_tr_1_tl_6"/>
+            <zone points="264,656 1686,648 1713,590 266,590" rendition="Line" xml:id="facs_3_tr_1_tl_7"/>
+            <zone points="264,698 1736,693 1673,632 264,656" rendition="Line" xml:id="facs_3_tr_1_tl_8"/>
+            <zone points="258,746 1697,764 1697,693 1644,685 258,704" rendition="Line" xml:id="facs_3_tr_1_tl_9"/>
+            <zone points="264,822 403,835 474,798 1007,806 1007,756 935,738 266,756" rendition="Line" xml:id="facs_3_tr_1_tl_10"/>
+            <zone points="174,1054 377,943 1655,935 1697,838 1281,891 1009,854 548,899 472,859 192,856" rendition="Line" xml:id="facs_3_tr_1_tl_11"/>
+            <zone points="295,1009 1692,978 1665,925 295,951" rendition="Line" xml:id="facs_3_tr_1_tl_12"/>
+            <zone points="274,1065 1752,1033 1752,972 1702,962 277,1007" rendition="Line" xml:id="facs_3_tr_1_tl_13"/>
+            <zone points="264,1115 1726,1088 1726,1030 1615,1017 266,1049" rendition="Line" xml:id="facs_3_tr_1_tl_14"/>
+            <zone points="264,1170 1460,1141 1460,1101 1394,1083 264,1115" rendition="Line" xml:id="facs_3_tr_1_tl_15"/>
+            <zone points="140,1315 408,1267 1736,1254 1721,1170 1613,1204 1022,1157 798,1215 145,1207" rendition="Line" xml:id="facs_3_tr_1_tl_16"/>
+            <zone points="258,1325 1681,1299 1657,1246 261,1286" rendition="Line" xml:id="facs_3_tr_1_tl_17"/>
+            <zone points="253,1381 1665,1352 1702,1291 253,1323" rendition="Line" xml:id="facs_3_tr_1_tl_18"/>
+            <zone points="237,1431 1715,1399 1715,1336 237,1370" rendition="Line" xml:id="facs_3_tr_1_tl_19"/>
+            <zone points="258,1476 1705,1455 1705,1399 258,1426" rendition="Line" xml:id="facs_3_tr_1_tl_20"/>
+            <zone points="253,1512 1713,1507 1713,1447 1581,1441 253,1476" rendition="Line" xml:id="facs_3_tr_1_tl_21"/>
+            <zone points="253,1576 1692,1557 1694,1494 253,1536" rendition="Line" xml:id="facs_3_tr_1_tl_23"/>
+            <zone points="253,1636 1689,1621 1692,1557 1597,1544 256,1581" rendition="Line" xml:id="facs_3_tr_1_tl_24"/>
+            <zone points="256,1686 1718,1678 1718,1615 1615,1594 256,1634" rendition="Line" xml:id="facs_3_tr_1_tl_25"/>
+            <zone points="256,1726 1723,1731 1723,1678 1536,1660 256,1678" rendition="Line" xml:id="facs_3_tr_1_tl_26"/>
+            <zone points="253,1779 1742,1794 1742,1721 1673,1710 253,1726" rendition="Line" xml:id="facs_3_tr_1_tl_27"/>
+            <zone points="253,1831 306,1826 345,1858 967,1842 967,1789 901,1765 253,1779" rendition="Line" xml:id="facs_3_tr_1_tl_28"/>
+            <zone points="155,1953 1694,1958 1694,1881 1597,1866 719,1850 358,1889 155,1855" rendition="Line" xml:id="facs_3_tr_1_tl_29"/>
+            <zone points="250,1992 1689,1979 1652,1931 250,1937" rendition="Line" xml:id="facs_3_tr_1_tl_30"/>
+            <zone points="235,2050 495,2071 561,2034 698,2079 762,2039 899,2076 1007,2037 1138,2076 1671,2037 1729,2071 1710,1968 1391,2011 938,1979 235,2008" rendition="Line" xml:id="facs_3_tr_1_tl_31"/>
+         </zone>
+      </surface>
+      <surface lrx="2188" lry="2700" ulx="0" uly="0" xml:id="facs_4">
+         <!-\-<graphic height="2700px" url="69061629.jpg" width="2188px"/>-\->
+         <graphic height="2700px" url="https://files.transkribus.eu/Get?id=LWWWKECRXMJDRFVXHRWQTPIE&amp;fileType=view" width="2188px"/>
+         <zone points="33,0 60,2242 1956,2194 1929,0" rendition="TextRegion" xml:id="facs_4_tr_1">
+            <zone points="455,219 1887,216 1887,134 1850,122 1665,173 983,162 847,119 725,168 455,122" rendition="Line" xml:id="facs_4_tr_1_tl_1"/>
+            <zone points="457,278 1867,267 1867,216 1659,207 457,216" rendition="Line" xml:id="facs_4_tr_1_tl_2"/>
+            <zone points="455,330 1867,304 1926,338 1952,239 1469,284 455,278" rendition="Line" xml:id="facs_4_tr_1_tl_3"/>
+            <zone points="452,372 1870,372 1870,321 1799,307 452,321" rendition="Line" xml:id="facs_4_tr_1_tl_4"/>
+            <zone points="460,435 1804,435 1895,401 1895,361 460,372" rendition="Line" xml:id="facs_4_tr_1_tl_5"/>
+            <zone points="460,483 1963,466 1921,398 1801,435 460,438" rendition="Line" xml:id="facs_4_tr_1_tl_6"/>
+            <zone points="457,526 1935,520 1898,460 457,489" rendition="Line" xml:id="facs_4_tr_1_tl_7"/>
+            <zone points="455,600 1929,580 1887,514 455,528" rendition="Line" xml:id="facs_4_tr_1_tl_8"/>
+            <zone points="457,628 1918,642 1892,571 457,597" rendition="Line" xml:id="facs_4_tr_1_tl_9"/>
+            <zone points="446,690 1912,682 1912,645 1824,631 1313,622 446,659" rendition="Line" xml:id="facs_4_tr_1_tl_10"/>
+            <zone points="455,744 1892,750 1861,679 455,693" rendition="Line" xml:id="facs_4_tr_1_tl_11"/>
+            <zone points="452,790 1878,793 1878,747 1759,733 452,747" rendition="Line" xml:id="facs_4_tr_1_tl_12"/>
+            <zone points="449,878 722,841 790,878 1031,838 1307,875 1852,858 1835,790 449,796" rendition="Line" xml:id="facs_4_tr_1_tl_13"/>
+            <zone points="37,963 170,1003 310,960 418,994 938,952 1889,972 1889,915 1799,872 1341,867 1250,906 1111,867 975,909 421,858 162,929 37,895" rendition="Line" xml:id="facs_4_tr_1_tl_14"/>
+            <zone points="452,1011 1642,1017 1861,1000 1864,958 452,980" rendition="Line" xml:id="facs_4_tr_1_tl_15"/>
+            <zone points="446,1065 1921,1057 1921,983 1585,1020 446,1011" rendition="Line" xml:id="facs_4_tr_1_tl_16"/>
+            <zone points="449,1128 1884,1119 1906,1051 449,1080" rendition="Line" xml:id="facs_4_tr_1_tl_17"/>
+            <zone points="452,1162 1904,1154 1852,1102 452,1128" rendition="Line" xml:id="facs_4_tr_1_tl_18"/>
+            <zone points="446,1233 1693,1222 1872,1202 1875,1156 449,1168" rendition="Line" xml:id="facs_4_tr_1_tl_19"/>
+            <zone points="440,1264 1864,1247 1864,1205 1810,1199 440,1239" rendition="Line" xml:id="facs_4_tr_1_tl_20"/>
+            <zone points="446,1333 1878,1307 1841,1247 446,1267" rendition="Line" xml:id="facs_4_tr_1_tl_21"/>
+            <zone points="438,1387 1887,1358 1889,1304 438,1338" rendition="Line" xml:id="facs_4_tr_1_tl_22"/>
+            <zone points="440,1418 1918,1409 1918,1352 1571,1341 443,1387" rendition="Line" xml:id="facs_4_tr_1_tl_23"/>
+            <zone points="440,1477 1889,1472 1889,1412 1773,1395 440,1426" rendition="Line" xml:id="facs_4_tr_1_tl_24"/>
+            <zone points="446,1537 1830,1509 1858,1452 446,1477" rendition="Line" xml:id="facs_4_tr_1_tl_25"/>
+            <zone points="426,1605 1875,1568 1875,1492 429,1531" rendition="Line" xml:id="facs_4_tr_1_tl_26"/>
+            <zone points="457,1656 1847,1625 1850,1548 457,1594" rendition="Line" xml:id="facs_4_tr_1_tl_27"/>
+            <zone points="446,1682 1736,1656 1943,1696 1943,1611 1904,1597 446,1659" rendition="Line" xml:id="facs_4_tr_1_tl_28"/>
+            <zone points="457,1756 1747,1733 1861,1722 1864,1662 457,1685" rendition="Line" xml:id="facs_4_tr_1_tl_29"/>
+            <zone points="455,1793 1852,1779 1835,1716 455,1756" rendition="Line" xml:id="facs_4_tr_1_tl_30"/>
+            <zone points="455,1867 1111,1835 1875,1864 1875,1793 1801,1773 455,1790" rendition="Line" xml:id="facs_4_tr_1_tl_31"/>
+            <zone points="449,1912 1412,1915 1395,1838 449,1870" rendition="Line" xml:id="facs_4_tr_1_tl_32"/>
+            <zone points="253,2057 418,2120 546,2063 940,2071 1117,2020 1870,2066 1864,1906 1787,1952 1605,1909 264,1912" rendition="Line" xml:id="facs_4_tr_1_tl_33"/>
+         </zone>
+      </surface>
+      <surface lrx="2216" lry="2735" ulx="0" uly="0" xml:id="facs_5">
+         <!-\-<graphic height="2735px" url="69061666.jpg" width="2216px"/>-\->
+         <graphic height="2735px" url="https://files.transkribus.eu/Get?id=KYHOGVBSDIBRSOQBNBOGQSWO&amp;fileType=view" width="2216px"/>
+         <zone points="125,227 125,2070 1767,2054 1767,211" rendition="TextRegion" xml:id="facs_5_tr_1">
+            <zone points="262,259 1717,259 1719,180 1679,166 1515,196 1082,150 935,207 649,153 572,191 264,185" rendition="Line" xml:id="facs_5_tr_1_tl_1"/>
+            <zone points="270,330 1698,292 1608,245 270,267" rendition="Line" xml:id="facs_5_tr_1_tl_2"/>
+            <zone points="283,376 1739,360 1739,289 283,316" rendition="Line" xml:id="facs_5_tr_1_tl_3"/>
+            <zone points="264,433 1687,401 1760,436 1728,357 264,376" rendition="Line" xml:id="facs_5_tr_1_tl_4"/>
+            <zone points="262,485 1482,482 1703,458 1706,401 262,433" rendition="Line" xml:id="facs_5_tr_1_tl_5"/>
+            <zone points="256,548 1711,529 1714,461 256,482" rendition="Line" xml:id="facs_5_tr_1_tl_6"/>
+            <zone points="256,605 1700,561 1700,520 1616,510 256,548" rendition="Line" xml:id="facs_5_tr_1_tl_7"/>
+            <zone points="262,659 1725,627 1725,564 1681,561 262,594" rendition="Line" xml:id="facs_5_tr_1_tl_8"/>
+            <zone points="262,684 1706,673 1673,616 262,654" rendition="Line" xml:id="facs_5_tr_1_tl_9"/>
+            <zone points="259,763 1739,733 1739,651 1578,695 262,681" rendition="Line" xml:id="facs_5_tr_1_tl_10"/>
+            <zone points="264,804 1564,771 1719,818 1719,738 1643,719 264,760" rendition="Line" xml:id="facs_5_tr_1_tl_11"/>
+            <zone points="259,867 613,847 670,883 918,842 1240,880 1341,834 1551,872 1531,777 259,815" rendition="Line" xml:id="facs_5_tr_1_tl_12"/>
+            <zone points="74,1052 207,1085 360,959 1684,943 1660,845 1172,899 796,845 556,913 84,842" rendition="Line" xml:id="facs_5_tr_1_tl_13"/>
+            <zone points="278,1025 1706,1008 1709,924 1335,967 278,959" rendition="Line" xml:id="facs_5_tr_1_tl_14"/>
+            <zone points="267,1079 1703,1063 1739,989 267,1036" rendition="Line" xml:id="facs_5_tr_1_tl_15"/>
+            <zone points="256,1131 1728,1112 1728,1063 1635,1038 259,1082" rendition="Line" xml:id="facs_5_tr_1_tl_16"/>
+            <zone points="253,1174 1749,1155 1752,1109 1679,1095 256,1128" rendition="Line" xml:id="facs_5_tr_1_tl_17"/>
+            <zone points="253,1237 1739,1218 1739,1161 1687,1144 256,1185" rendition="Line" xml:id="facs_5_tr_1_tl_18"/>
+            <zone points="248,1294 1698,1267 1698,1199 251,1237" rendition="Line" xml:id="facs_5_tr_1_tl_19"/>
+            <zone points="256,1357 717,1330 790,1371 1117,1349 1207,1384 1390,1330 1390,1283 1278,1259 259,1300" rendition="Line" xml:id="facs_5_tr_1_tl_20"/>
+            <zone points="112,1477 488,1428 1679,1425 1679,1365 1466,1313 1202,1390 1115,1349 755,1379 324,1338 218,1387 112,1352" rendition="Line" xml:id="facs_5_tr_1_tl_21"/>
+            <zone points="262,1485 1719,1501 1719,1442 1583,1420 262,1458" rendition="Line" xml:id="facs_5_tr_1_tl_22"/>
+            <zone points="253,1540 1668,1540 1670,1480 1602,1474 256,1485" rendition="Line" xml:id="facs_5_tr_1_tl_23"/>
+            <zone points="256,1610 1703,1600 1703,1534 1548,1526 256,1540" rendition="Line" xml:id="facs_5_tr_1_tl_24"/>
+            <zone points="262,1679 335,1657 422,1687 496,1665 564,1684 654,1640 706,1654 771,1640 771,1583 719,1602 689,1580 659,1597 624,1578 561,1613 496,1586 474,1602 420,1591 379,1616 346,1591 264,1610" rendition="Line" xml:id="facs_5_tr_1_tl_25"/>
+            <zone points="114,1758 1700,1744 1665,1657 1602,1695 1357,1660 1207,1711 965,1651 771,1711 640,1654 452,1717 302,1657 114,1709" rendition="Line" xml:id="facs_5_tr_1_tl_26"/>
+            <zone points="253,1804 1698,1812 1698,1744 253,1774" rendition="Line" xml:id="facs_5_tr_1_tl_27"/>
+            <zone points="248,1891 1695,1853 1692,1804 1515,1793 1251,1831 600,1798 248,1828" rendition="Line" xml:id="facs_5_tr_1_tl_28"/>
+            <zone points="248,1940 1679,1918 1679,1853 1561,1845 251,1891" rendition="Line" xml:id="facs_5_tr_1_tl_29"/>
+            <zone points="229,1997 1670,1965 1610,1908 229,1943" rendition="Line" xml:id="facs_5_tr_1_tl_30"/>
+            <zone points="234,2063 1123,2066 1213,2030 1273,2068 1684,2076 1665,1962 234,1995" rendition="Line" xml:id="facs_5_tr_1_tl_31"/>
+         </zone>
+      </surface>
+      <surface lrx="2204" lry="2725" ulx="0" uly="0" xml:id="facs_6">
+         <!-\-<graphic height="2725px" url="69061667.jpg" width="2204px"/>-\->
+         <graphic height="2725px" url="https://files.transkribus.eu/Get?id=VAHPBLQTQXBGDJLKFYOPVCLZ&amp;fileType=view" width="2204px"/>
+         <zone points="118,187 113,2191 2013,2145 2018,141" rendition="TextRegion" xml:id="facs_6_tr_1">
+            <zone points="518,241 1950,288 1969,222 1745,159 1561,211 1115,142 1008,178 515,162" rendition="Line" xml:id="facs_6_tr_1_tl_1"/>
+            <zone points="518,304 1928,320 1906,260 518,244" rendition="Line" xml:id="facs_6_tr_1_tl_2"/>
+            <zone points="518,345 1947,372 1947,315 518,296" rendition="Line" xml:id="facs_6_tr_1_tl_3"/>
+            <zone points="518,411 1961,433 1961,372 1898,364 518,345" rendition="Line" xml:id="facs_6_tr_1_tl_4"/>
+            <zone points="515,471 1931,471 1882,416 515,411" rendition="Line" xml:id="facs_6_tr_1_tl_5"/>
+            <zone points="512,526 1928,531 1912,468 512,463" rendition="Line" xml:id="facs_6_tr_1_tl_6"/>
+            <zone points="512,586 1947,594 1947,534 1901,523 512,534" rendition="Line" xml:id="facs_6_tr_1_tl_7"/>
+            <zone points="518,624 1934,633 1934,592 1791,572 518,581" rendition="Line" xml:id="facs_6_tr_1_tl_8"/>
+            <zone points="515,674 1862,704 1950,690 1947,624 512,627" rendition="Line" xml:id="facs_6_tr_1_tl_9"/>
+            <zone points="512,734 1731,770 1920,756 1917,687 509,682" rendition="Line" xml:id="facs_6_tr_1_tl_10"/>
+            <zone points="501,811 1936,824 1997,811 1994,707 1676,770 498,737" rendition="Line" xml:id="facs_6_tr_1_tl_11"/>
+            <zone points="515,865 1966,871 1966,811 1769,833 1635,797 515,813" rendition="Line" xml:id="facs_6_tr_1_tl_12"/>
+            <zone points="509,917 1972,937 1969,871 1906,860 507,857" rendition="Line" xml:id="facs_6_tr_1_tl_13"/>
+            <zone points="518,997 605,961 1925,986 1925,934 1799,915 518,923" rendition="Line" xml:id="facs_6_tr_1_tl_14"/>
+            <zone points="509,1041 1972,1060 1939,964 1892,1008 1087,959 509,989" rendition="Line" xml:id="facs_6_tr_1_tl_15"/>
+            <zone points="515,1093 1942,1123 1964,1063 781,1016 512,1054" rendition="Line" xml:id="facs_6_tr_1_tl_16"/>
+            <zone points="512,1145 1495,1172 1495,1087 512,1090" rendition="Line" xml:id="facs_6_tr_1_tl_17"/>
+            <zone points="85,1235 367,1221 518,1276 1977,1257 1977,1169 1925,1161 1569,1205 1317,1150 928,1150 737,1216 567,1153 85,1161" rendition="Line" xml:id="facs_6_tr_1_tl_18"/>
+            <zone points="509,1315 1961,1315 1934,1252 509,1276" rendition="Line" xml:id="facs_6_tr_1_tl_19"/>
+            <zone points="498,1383 1052,1347 1975,1375 1975,1315 1920,1304 498,1312" rendition="Line" xml:id="facs_6_tr_1_tl_20"/>
+            <zone points="498,1419 1928,1421 1912,1361 498,1380" rendition="Line" xml:id="facs_6_tr_1_tl_21"/>
+            <zone points="501,1482 1917,1471 1917,1416 1840,1408 501,1419" rendition="Line" xml:id="facs_6_tr_1_tl_22"/>
+            <zone points="496,1547 1912,1523 1912,1465 1827,1462 496,1482" rendition="Line" xml:id="facs_6_tr_1_tl_23"/>
+            <zone points="498,1594 1947,1588 1928,1504 1873,1536 1367,1509 498,1547" rendition="Line" xml:id="facs_6_tr_1_tl_24"/>
+            <zone points="498,1657 1934,1643 1934,1580 1884,1569 1816,1602 1293,1564 498,1594" rendition="Line" xml:id="facs_6_tr_1_tl_25"/>
+            <zone points="498,1704 1975,1693 1975,1635 1901,1627 498,1657" rendition="Line" xml:id="facs_6_tr_1_tl_26"/>
+            <zone points="504,1761 1969,1761 1901,1693 504,1709" rendition="Line" xml:id="facs_6_tr_1_tl_27"/>
+            <zone points="501,1827 1936,1838 1936,1775 1824,1758 501,1758" rendition="Line" xml:id="facs_6_tr_1_tl_28"/>
+            <zone points="501,1892 1895,1898 1895,1835 1632,1808 501,1827" rendition="Line" xml:id="facs_6_tr_1_tl_29"/>
+            <zone points="507,1964 583,1936 613,1953 833,1934 926,1966 980,1931 1071,1942 1071,1868 507,1895" rendition="Line" xml:id="facs_6_tr_1_tl_30"/>
+            <zone points="340,2087 512,2133 808,2040 1120,2120 1479,2032 1920,2090 1912,1912 1808,1958 1142,1901 1063,1961 348,1917" rendition="Line" xml:id="facs_6_tr_1_tl_31"/>
+         </zone>
+      </surface>
+      <surface lrx="2216" lry="2725" ulx="0" uly="0" xml:id="facs_7">
+         <!-\-<graphic height="2725px" url="69061668.jpg" width="2216px"/>-\->
+         <graphic height="2725px" url="https://files.transkribus.eu/Get?id=URARHCBJTTZAZWNFREIRGHIE&amp;fileType=view" width="2216px"/>
+         <zone points="61,208 61,2023 1760,2021 1760,206" rendition="TextRegion" xml:id="facs_7_tr_1">
+            <zone points="245,271 1708,247 1708,200 1601,162 1063,212 956,158 788,186 663,139 350,218 245,200" rendition="Line" xml:id="facs_7_tr_1_tl_1"/>
+            <zone points="243,325 1663,313 1716,309 1718,261 243,271" rendition="Line" xml:id="facs_7_tr_1_tl_2"/>
+            <zone points="236,378 291,368 356,388 388,370 437,392 483,380 507,402 536,400 570,368 675,382 677,323 643,313 584,327 524,311 471,331 402,315 374,336 321,317 239,327" rendition="Line" xml:id="facs_7_tr_1_tl_3"/>
+            <zone points="44,463 168,461 232,513 1666,465 1666,408 1506,390 1449,424 780,408 410,447 267,372 44,388" rendition="Line" xml:id="facs_7_tr_1_tl_4"/>
+            <zone points="239,536 1672,528 1674,475 1579,457 241,495" rendition="Line" xml:id="facs_7_tr_1_tl_5"/>
+            <zone points="247,600 1688,584 1690,521 1597,511 249,540" rendition="Line" xml:id="facs_7_tr_1_tl_6"/>
+            <zone points="245,673 1490,655 1714,635 1716,572 247,600" rendition="Line" xml:id="facs_7_tr_1_tl_7"/>
+            <zone points="236,724 1738,685 1738,639 1680,627 239,667" rendition="Line" xml:id="facs_7_tr_1_tl_9"/>
+            <zone points="239,772 1744,740 1744,683 241,734" rendition="Line" xml:id="facs_7_tr_1_tl_10"/>
+            <zone points="241,855 790,802 1736,819 1750,756 243,774" rendition="Line" xml:id="facs_7_tr_1_tl_11"/>
+            <zone points="253,897 1688,855 1690,800 1637,792 255,847" rendition="Line" xml:id="facs_7_tr_1_tl_13"/>
+            <zone points="247,948 1657,908 1635,847 249,899" rendition="Line" xml:id="facs_7_tr_1_tl_14"/>
+            <zone points="232,1013 1694,980 1694,926 1589,906 1354,944 234,940" rendition="Line" xml:id="facs_7_tr_1_tl_15"/>
+            <zone points="236,1067 1712,1037 1714,982 1637,970 239,1013" rendition="Line" xml:id="facs_7_tr_1_tl_16"/>
+            <zone points="245,1132 1269,1083 1657,1108 1682,1039 245,1083" rendition="Line" xml:id="facs_7_tr_1_tl_17"/>
+            <zone points="247,1203 426,1164 1597,1158 1682,1148 1684,1102 249,1130" rendition="Line" xml:id="facs_7_tr_1_tl_18"/>
+            <zone points="249,1233 1754,1188 1724,1128 249,1203" rendition="Line" xml:id="facs_7_tr_1_tl_19"/>
+            <zone points="255,1288 1752,1263 1738,1182 1589,1219 257,1235" rendition="Line" xml:id="facs_7_tr_1_tl_20"/>
+            <zone points="255,1348 1694,1324 1710,1253 255,1290" rendition="Line" xml:id="facs_7_tr_1_tl_21"/>
+            <zone points="228,1413 847,1364 1633,1389 1718,1362 1720,1318 228,1346" rendition="Line" xml:id="facs_7_tr_1_tl_22"/>
+            <zone points="251,1453 1657,1431 1700,1427 1702,1364 251,1409" rendition="Line" xml:id="facs_7_tr_1_tl_23"/>
+            <zone points="251,1502 784,1508 970,1465 1696,1488 1696,1425 1524,1419 251,1459" rendition="Line" xml:id="facs_7_tr_1_tl_25"/>
+            <zone points="251,1556 1706,1540 1706,1490 1562,1467 1407,1504 970,1469 782,1508 251,1502" rendition="Line" xml:id="facs_7_tr_1_tl_26"/>
+            <zone points="251,1617 1562,1615 1676,1599 1678,1538 251,1558" rendition="Line" xml:id="facs_7_tr_1_tl_27"/>
+            <zone points="255,1684 1708,1649 1708,1595 1621,1589 255,1619" rendition="Line" xml:id="facs_7_tr_1_tl_28"/>
+            <zone points="251,1728 1694,1718 1678,1645 253,1682" rendition="Line" xml:id="facs_7_tr_1_tl_29"/>
+            <zone points="251,1795 1674,1771 1645,1712 251,1728" rendition="Line" xml:id="facs_7_tr_1_tl_30"/>
+            <zone points="251,1853 1538,1847 1674,1823 1676,1773 311,1815 251,1781" rendition="Line" xml:id="facs_7_tr_1_tl_31"/>
+            <zone points="255,1918 1714,1888 1716,1823 255,1856" rendition="Line" xml:id="facs_7_tr_1_tl_32"/>
+            <zone points="259,1975 1728,1944 1728,1894 1621,1876 261,1920" rendition="Line" xml:id="facs_7_tr_1_tl_33"/>
+            <zone points="245,2035 1698,2031 1698,1953 1635,1942 245,1967" rendition="Line" xml:id="facs_7_tr_1_tl_34"/>
+         </zone>
+      </surface>
+      <surface lrx="2204" lry="2725" ulx="0" uly="0" xml:id="facs_8">
+         <!-\-<graphic height="2725px" url="69061671.jpg" width="2204px"/>-\->
+         <graphic height="2725px" url="https://files.transkribus.eu/Get?id=MXZCAHWQKYECXEALNEUPYNNK&amp;fileType=view" width="2204px"/>
+         <zone points="188,171 176,2725 2193,2722 2204,149" rendition="TextRegion" xml:id="facs_8_tr_1">
+            <zone points="497,250 1943,242 1943,166 1484,192 1397,155 1060,201 1023,169 581,192 497,151" rendition="Line" xml:id="facs_8_tr_1_tl_1"/>
+            <zone points="499,307 1825,313 1972,302 1971,264 497,250" rendition="Line" xml:id="facs_8_tr_1_tl_2"/>
+            <zone points="503,352 1954,374 1954,313 1894,294 503,309" rendition="Line" xml:id="facs_8_tr_1_tl_3"/>
+            <zone points="499,408 1885,400 1885,365 1799,352 499,352" rendition="Line" xml:id="facs_8_tr_1_tl_4"/>
+            <zone points="494,460 1950,481 1948,393 1762,430 1425,395 494,421" rendition="Line" xml:id="facs_8_tr_1_tl_5"/>
+            <zone points="503,510 1926,518 1926,477 1812,456 503,460" rendition="Line" xml:id="facs_8_tr_1_tl_6"/>
+            <zone points="479,576 1933,576 1920,514 479,503" rendition="Line" xml:id="facs_8_tr_1_tl_7"/>
+            <zone points="490,628 1907,644 1905,579 1864,568 490,568" rendition="Line" xml:id="facs_8_tr_1_tl_8"/>
+            <zone points="490,687 1987,695 1987,620 490,635" rendition="Line" xml:id="facs_8_tr_1_tl_9"/>
+            <zone points="484,734 1913,745 1890,682 484,689" rendition="Line" xml:id="facs_8_tr_1_tl_10"/>
+            <zone points="484,792 1822,821 1920,805 1920,765 482,743" rendition="Line" xml:id="facs_8_tr_1_tl_11"/>
+            <zone points="492,851 1823,879 1920,862 1918,810 490,803" rendition="Line" xml:id="facs_8_tr_1_tl_12"/>
+            <zone points="490,907 1404,896 1866,937 1935,931 1935,874 488,860" rendition="Line" xml:id="facs_8_tr_1_tl_13"/>
+            <zone points="497,976 928,944 1935,978 1935,933 1697,905 497,909" rendition="Line" xml:id="facs_8_tr_1_tl_14"/>
+            <zone points="507,1011 1902,1021 1902,967 507,957" rendition="Line" xml:id="facs_8_tr_1_tl_15"/>
+            <zone points="501,1065 1909,1077 1835,1021 1497,1009 1429,1050 1216,1004 501,1011" rendition="Line" xml:id="facs_8_line_1714049499425_586"/>
+            <zone points="494,1136 1907,1125 1907,1071 494,1067" rendition="Line" xml:id="facs_8_tr_1_tl_18"/>
+            <zone points="497,1170 1982,1183 1982,1129 1781,1121 497,1138" rendition="Line" xml:id="facs_8_tr_1_tl_19"/>
+            <zone points="490,1244 1946,1235 1946,1188 1874,1177 490,1173" rendition="Line" xml:id="facs_8_tr_1_tl_20"/>
+            <zone points="490,1294 665,1280 795,1307 905,1272 944,1291 1047,1287 1049,1226 1023,1216 965,1239 875,1212 713,1242 676,1226 492,1235" rendition="Line" xml:id="facs_8_tr_1_tl_21"/>
+            <zone points="933,1516 1088,1518 1155,1553 1402,1524 1497,1458 1790,1483 1795,1412 1687,1432 1525,1384 1458,1421 1376,1386 1077,1468 941,1421" rendition="Line" xml:id="facs_8_line_1714049538681_607"/>
+            <zone points="1626,1833 1760,1822 1803,1788 1972,1784 2026,1807 2073,1788 2168,1814 2172,1702 1952,1764 1868,1702 1749,1714 1723,1697 1630,1723" rendition="Line" xml:id="facs_8_tr_1_tl_22"/>
+            <zone points="1758,1848 1853,1870 1879,1851 1959,1855 2008,1889 2043,1872 2080,1879 2110,1857 2177,1870 2177,1812 2133,1803 2051,1814 2010,1792 1974,1805 1933,1788 1844,1807 1797,1792 1758,1814" rendition="Line" xml:id="facs_8_tr_1_tl_23"/>
+            <zone points="210,1980 451,2060 536,2049 618,1989 946,2008 1011,1989 1023,1861 594,1864 440,1903 294,1812 225,1808" rendition="Line" xml:id="facs_8_tr_1_tl_24"/>
+            <zone points="1473,2429 1594,2386 1663,2425 1758,2371 1985,2457 2159,2401 2151,2296 2021,2306 1984,2339 1857,2334 1823,2300 1719,2336 1661,2295 1477,2350" rendition="Line" xml:id="facs_8_tr_1_tl_25"/>
+            <zone points="341,2712 1568,2697 1559,2624 1442,2667 963,2608 792,2675 650,2602 464,2660 343,2641" rendition="Line" xml:id="facs_8_line_1714049652284_644"/>
+         </zone>
+      </surface>
+   </facsimile>-->
+   <text>
+      <body>
+         <div>
+            <p facs="#facs_1_tr_2">
+                    <pb facs="#facs_1" xml:id="img_0001" n="Bl. 1r"/>
+               <lb facs="#facs_1_tr_2_tl_2" n="N001"/>Wir, <rs type="person" ref="#karl_v">Karl der Funfft</rs>, von Gots gnaden <w>Ro<pc>-</pc>
+               <lb facs="#facs_1_tr_2_tl_3" n="N002"/>mischer</w> kaiser, zu allen zeiten Merer<note type="annotation">Vergrößerer; Der, der vermehrt. Seit <rs type="person" ref="#ludwig_iv">Ludwig IV.</rs> (dem Bayern) Teil der Herrschertitulatur der römisch-deutschen Kaiser, als Übersetzung des lateinischen <q>augustus</q>.</note> des <rs type="place" ref="#heiliges_roemisches_reich">Reichs</rs>, konig in Germanien, zu <rs type="place" ref="#kastilien_koenigreich">Castillien</rs>
+               <lb facs="#facs_1_tr_2_tl_4" n="N003"/>
+                    <rs type="place" ref="#aragon_koenigreich">Arragon</rs>, <rs type="place" ref="#leon_koenigreich">Leon</rs>, baider <rs type="place" ref="#sizilien_koenigreich">Sicillien</rs>, <rs type="place" ref="#jerusalem_koenigreich">Jherusalem</rs>, <rs type="place" ref="#ungarn_koenigreich">Hungern</rs>, <rs type="place" ref="#dalmatien">Dalmatien</rs>, <rs type="place" ref="#kroatien_koenigreich">Croatien</rs>, <rs type="place" ref="#navarra_koenigreich">
+                        <w>Na<pc>-</pc>
+                  <lb facs="#facs_1_tr_2_tl_5" n="N004"/>varra</w>
+                    </rs>, <rs type="place" ref="#granada_koenigreich">Granaten</rs>, <rs type="place" ref="#toledo_koenigreich">Toleten</rs>, <rs type="place" ref="#valenzia_koenigreich">Valentz</rs>, <rs type="place" ref="#galicien_koenigreich">Gallicien</rs>, <rs type="place" ref="#mallorca_koenigreich">Mayorica</rs>, <rs type="place" ref="#sevilla_koenigreich">Hispalis</rs>, <rs type="place" ref="#sardinien_koenigreich">Sardinien</rs>, <rs type="place" ref="#cordoba_koenigreich">
+                        <w>Cor<pc>-</pc>
+                     <lb facs="#facs_1_tr_2_tl_6" n="N005"/>duba</w>
+                    </rs>, <rs type="place" ref="#korsika_koenigreich">Corsica</rs>, <rs type="place" ref="#murcia_koenigreich">Murcien</rs>, <rs type="place" ref="#jaen_koenigreich">Giennis</rs>, <rs type="place" ref="#algarve_koenigreich">Algarbien</rs>, <rs type="place" ref="#algerien_koenigreich">Algezieren</rs>, <rs type="place" ref="#gibraltar">Gibraltar</rs>, der <rs type="place" ref="#kanarische_inseln">
+                        <w>Canarisch<pc>-</pc>
+                        <lb facs="#facs_1_tr_2_tl_7" n="N006"/>en</w>
+                    </rs> und <rs type="place" ref="#karibik">Indianischen Insulen</rs> und der <rs type="place" ref="#suedamerika">Terre Firme</rs> des Oceanischen Mores etc., <w>Ertz<pc>-</pc>
+               <lb facs="#facs_1_tr_2_tl_8" n="N007"/>hertzog</w> zu <rs type="place" ref="#oesterreich_erzherzogtum">Osterreich</rs>, Hertzog zu <rs type="place" ref="#burgund_herzogtum">Burgundi</rs>, zu <rs type="place" ref="#lothringen_herzogtum">Lottrigk</rs>, zu <rs type="place" ref="#brabant_herzogtum">Brabant</rs>, zu
+               <lb facs="#facs_1_tr_2_tl_9" n="N008"/>
+                    <rs type="place" ref="#steiermark_herzogtum">Steyr</rs>, zu <rs type="place" ref="#kaernten_herzogtum">Kerndten</rs>, zu <rs type="place" ref="#krain_herzogtum">Crain</rs>, zu <rs type="place" ref="#limburg_herzogtum">Limpurg</rs>, zu <rs type="place" ref="#luxemburg_herzogtum">Lutzemburg</rs>, zu <rs type="place" ref="#geldern_herzogtum">Geldern</rs>, zu <rs type="place" ref="#kalabrien">
+                        <w>Cala<pc>-</pc>
+                  <lb facs="#facs_1_tr_2_tl_10" n="N009"/>brien</w>
+                    </rs>, zu <rs type="place" ref="#athen_herzogtum">Athen</rs>, zu <rs type="place" ref="#neopatria_herzogtum">Neopatrien</rs> und zu <rs type="place" ref="#wuerttemberg_herzogtum">Wirtemberg</rs> etc., Grave zu <rs type="place" ref="#habsburg_grafschaft">Habspurg</rs>, zu
+               <lb facs="#facs_1_tr_2_tl_11" n="N010"/>
+                    <rs type="place" ref="#flandern_grafschaft">Flandern</rs>, zu <rs type="place" ref="#tirol_grafschaft">Tirol</rs>, zu <rs type="place" ref="#goerz_grafschaft">Gortz</rs>, zu <rs type="place" ref="#bar">Barcinon</rs>, zu <rs type="place" ref="#artois_grafschaft">Arthois</rs>, zu <rs type="place" ref="#burgund_provinz">Burgundi</rs>, Pfalzgrave
+               <lb facs="#facs_1_tr_2_tl_12" n="N011"/>zu <rs type="place" ref="#hennegau_grafschaft">Henigau</rs>, zu <rs type="place" ref="#holland_provinz">Hollandt</rs>, zu <rs type="place" ref="#seeland_grafschaft">Seelandt</rs>, zu <rs type="place" ref="#pfirt_grafschaft">Pfierdt</rs>, zu <rs type="place" ref="#kiburg_grafschaft">Kiburg</rs>, zu <rs type="place" ref="#namur_grafschaft">Namur</rs>, zu <rs type="place" ref="#roussillon_grafschaft">
+                        <w>Rossi<pc>-</pc>
+                  <lb facs="#facs_1_tr_2_tl_13" n="N012"/>lion</w>
+                    </rs>, zu <rs type="place" ref="#cerdanya_grafschaft">Ceritania</rs> und zu <rs type="place" ref="#zutphen_quartier">Zutpfen</rs>, Landtgrave in <rs type="place" ref="#elsass">Elsaß</rs>, Marggrave zu <rs type="place" ref="#burgau_markgrafschaft">Burgau</rs>,
+               <lb facs="#facs_1_tr_2_tl_14" n="N013"/>zu <rs type="place" ref="#oristano_markgrafschaft">Oristani</rs>, zu <rs type="place" ref="#goceano_markgrafschaft">Gociani</rs> und des <rs type="place" ref="#heiliges_roemisches_reich">hailigen Romischen Reichs</rs> Furst zu <rs type="place" ref="#schwaben_reichskreis">Schwaben</rs>, zu
+               <lb facs="#facs_1_tr_2_tl_15" n="N014"/>
+                    <rs type="place" ref="#katalonien">Cathalonia</rs>, <rs type="place" ref="#asturien">Asturia</rs> etc., Herr in <rs type="place" ref="#friesland_provinz">Frießlandt</rs>, auf der <rs type="place" ref="#windische_mark">windischen Marck</rs>, zu <rs type="place" ref="#portenau">
+                        <w>Porten<pc>-</pc>
+                  <lb facs="#facs_1_tr_2_tl_16" n="N015"/>au</w>
+                    </rs>, zu <rs type="place" ref="#biskaya">Biscaya</rs>, zu <rs type="place" ref="#la_mouillerie_herrschaft">Molin</rs>, zu <rs type="place" ref="#salins_herrschaft">Salins</rs>, zu <rs type="place" ref="#tripolis">Tripoli</rs> und zu <rs type="place" ref="#mechelen_herrschaft">Mecheln</rs> etc., <w>Be<pc>-</pc>
+               <lb facs="#facs_1_tr_2_tl_17" n="N016"/>kennen</w> offenlich mit disem brief<note type="annotation">Urkunde.</note> und thuen kundt meniglichen<note type="annotation">jedermann.</note>: Als sich <w>verschi<pc>-</pc>
+               <lb facs="#facs_1_tr_2_tl_18" n="N017"/>ner</w>
+                    <note type="annotation">vergangener.</note> zeit etwas Speen<note type="annotation">Uneinigkeiten, Zwistigkeiten.</note> und irrungen der Religion und anderer sachen halben <w>zwisch<pc>-</pc>
+               <lb facs="#facs_1_tr_2_tl_19" n="N018"/>en</w> weilendt<note type="annotation">vormals.</note> dem Erwirdigen unserm Fursten und Rath und den Ersamen unsern
+               <lb facs="#facs_1_tr_2_tl_20" n="N019"/>lieben, andechtigen<note type="annotation">Andächtiger = Ehrentitel für Geistliche.</note> und des Reichs getrewen, <rs type="person" ref="#christoph_augsburg">Christoffen</rs>, Bischove, seinem Thumb
+               <lb facs="#facs_1_tr_2_tl_21" n="N020"/>Capittel und gemainer<note type="annotation">allgemeiner.</note> Clerisey<note type="annotation">Geistlichkeit, Priesterschaft.</note> unserer und des <rs type="place" ref="#heiliges_roemisches_reich">Reichs</rs> Stat <rs type="place" ref="#augsburg">Augspurg</rs> an ainem
+               <lb facs="#facs_1_tr_2_tl_22" n="N021"/>und N. Burgermaister und Rathgeben des klainern und grossern Raths<note type="annotation">Zu diesen beiden Ratsgremien vgl. <rs type="bibl" ref="#goeßner_kirchenhoheit">
+                            <surname type="author">Gößner</surname>, Kirchenhoheit, S. 25f</rs>.</note> gemelter<note type="annotation">genannter.</note>
+               <lb facs="#facs_1_tr_2_tl_23" n="N022"/>
+                    <rs type="place" ref="#augsburg">Statt</rs> anderstails erhalten<note type="annotation">bestanden</note>, derhalben sich gedachte<note type="annotation">genannte.</note> Clerisey ain lannge zeit der
+               <lb facs="#facs_1_tr_2_tl_24" n="N023"/>Stat <rs type="place" ref="#augsburg">Augspurg</rs> aus unvermeidenlicher notturfft<note type="annotation">Erfordernis, Notwendigkeit.</note> geeussert<note type="annotation">die <rs type="place" ref="#augsburg">Stadt</rs> verlassen haben.</note>,<note type="annotation">Vgl. die <ref type="einleitung" target="0228#veraenderung">Einleitung</ref>.</note> darzwischen <w>aller<pc>-</pc>
+               <lb facs="#facs_1_tr_2_tl_25" n="N024"/>hanndt</w> weittere furnemen ervolgt, von unnotten, dieselbigen alle nach der leng
+               <lb facs="#facs_1_tr_2_tl_26" n="N025"/>zu erzelen: Das wir demnach aus dem gnedigisten genaigten willen, so wir
+               <lb facs="#facs_1_tr_2_tl_27" n="N026"/>zu dem hochwirdigen in Gotvatter, herrn <rs type="person" ref="#otto_augsburg">Othen</rs>, der hailigen Romischen kirchen,
+               <lb facs="#facs_1_tr_2_tl_28" n="N027"/>des Tittels sancte Balbinae priester, Cardinal und yetzigen Bischove zu <rs type="place" ref="#augsburg_hochstift">Augspurg</rs>,
+               <lb facs="#facs_1_tr_2_tl_29" n="N028"/>unserm lieben Freundt, Fursten und presidenten unsers hofraths, gleich <rs type="person" ref="#otto_augsburg">seiner
+                  <lb facs="#facs_1_tr_2_tl_30" n="N029"/>Lieb</rs> vorfarn, deren Thumb Capittel und gemainer Clerisey und Gaistlichait,
+               <lb facs="#facs_1_tr_2_tl_31" n="N030"/>Desgleichen auch vorgedachtem klainern und grossern Rath und gemainer Stat
+               <lb facs="#facs_1_tr_2_tl_32" n="N031"/>
+                    <rs type="place" ref="#augsburg">Augspurg</rs> tragen, unsere Commissarien, nemblichen die Edlen und Ersamen,
+               <lb facs="#facs_1_tr_2_tl_33" n="N032"/>unsere und des <rs type="place" ref="#heiliges_roemisches_reich">Reichs</rs> lieben getreuen, <rs type="person" ref="#granvelle_nicolas">Niclausen von Perrenot</rs>, herrn zu <w>Granuell<pc>-</pc>
+               <lb facs="#facs_1_tr_2_tl_34" n="N033"/>en</w>, unsern Obersten gehaimen Rath, und <rs type="person" ref="#has_heinrich">Hainrichen Hasen</rs> von <rs type="place" ref="#laufen">Lauffen</rs>, unnsern
+               <lb facs="#facs_1_tr_2_tl_35" n="N034"/>hofrath, zu guetlicher verhore und underhandlung solcher Irer Spenn geordnet,
+               <lb facs="#facs_1_tr_2_tl_36" n="N035"/>welche auch die partheyen fur sich beschaiden<note type="annotation">vor ihnen zu erscheinen beordert</note>, nach der lennge gehort und <w>dem<pc>-</pc>
+               <lb facs="#facs_1_tr_2_tl_37" n="N036"/>nach</w> dieselbigen mit Irem guetem wissen, willen und gehell<note type="annotation">Zustimmung.</note> In der guete <w>ver<pc>-</pc>
+               <lb facs="#facs_1_tr_2_tl_38" n="N037"/>glichen</w> und vertragen haben, wie hernachvolgt:</p>
+               
+            <p xml:id="artikel_1" resp="JML">
+                    <supplied reason="article_added">1</supplied> Nemblichen und zum
+               <lb facs="#facs_1_tr_2_tl_40" n="N038"/>Ersten, das hochgemelter <rs type="person" ref="#otto_augsburg">Cardinal</rs> und Bischove zu <rs type="place" ref="#augsburg_hochstift">Angspurg</rs> <rs type="person" ref="#otto_augsburg">seiner lieb</rs>
+            
+            <pb facs="#facs_2" xml:id="img_0002" n="Bl. 1v"/>
+          
+           
+               <lb facs="#facs_2_tr_1_tl_1" n="N001"/>Thumb und andere Capittel und Stiffte, auch kirchen und Closter, so <rs type="person" ref="#otto_augsburg">seiner
+                  <lb facs="#facs_2_tr_1_tl_2" n="N002"/>lieb</rs> gehorig, zu <rs type="place" ref="#augsburg">Angspurg</rs> gelegen und mit der Clerisey hinaus gezogen seind,<note type="annotation">Vgl. Anm. XXX.</note>
+               <lb facs="#facs_2_tr_1_tl_3" n="N003"/>sampt deren personen, Sy seyen in zeit des außziehens<note type="annotation">Wegzugs.</note> der Clerisey bey solchen
+               <lb facs="#facs_2_tr_1_tl_4" n="N004"/>kirchen oder Clostern gewesen oder nit, widerumb darin allermassen<note type="annotation">in jeder Hinsicht.</note>, wie
+               <lb facs="#facs_2_tr_1_tl_5" n="N005"/>Sy vor verenderung und furgenommer neuerung der Religion<note type="annotation">Vgl. die <ref type="einleitung" target="0228#veraenderung">Einleitung</ref>.</note> gewesen,
+               <lb facs="#facs_2_tr_1_tl_6" n="N006"/>mit allen derselbigen Stifften, kirchen, Predigheusern, Schulen, Clostern, <w>Claus<pc>-</pc>
+               <lb facs="#facs_2_tr_1_tl_7" n="N007"/>en</w> und Capelln, Guetern, Heusern, hoven, Garten, zinnsen, Gulten<note type="annotation">Abgaben.</note>, Rennten,
+               <lb facs="#facs_2_tr_1_tl_8" n="N008"/>Rechten, gerechtigkaiten und einkomen frey eintzuziehen, darinnen sambt
+               <lb facs="#facs_2_tr_1_tl_9" n="N009"/>Irem gesind sicher und Frey zu wonen, zu hausen, zu pleiben, Ire ampter In
+               <lb facs="#facs_2_tr_1_tl_10" n="N010"/>Messen, predigen, Ceremonien, gepreuchen und allen andern gaistlichen und
+               <lb facs="#facs_2_tr_1_tl_11" n="N011"/>weltlichen sachen, wie Sy die in obgemelter zeit herpracht, sambt allen Iren
+               <lb facs="#facs_2_tr_1_tl_12" n="N012"/>Freyhaiten, gerechtigkeiten, Immuniteten, vertragen<note type="annotation">Verträgen.</note> und Inen von <w>Rechts<pc>-</pc>
+               <lb facs="#facs_2_tr_1_tl_13" n="N013"/>wegen</w> geburenden Iurißdictionen und andern sachen, nit allain <w>unverhin<pc>-</pc>
+               <lb facs="#facs_2_tr_1_tl_14" n="N014"/>dert</w> meniglichs haben, geprauchen, halten und niessen<note type="annotation">nutzen.</note>, sonder Sy auch ain
+               <lb facs="#facs_2_tr_1_tl_15" n="N015"/>Rath zu <rs type="place" ref="#augsburg">Augspurg</rs> dabey guetlichen Schutzen, Schirmen und handthaben<note type="annotation">verteidigen.</note>, auch
+               <lb facs="#facs_2_tr_1_tl_16" n="N016"/>dawider mit worten oder wercken nit handeln oder yemandts andern zu
+               <lb facs="#facs_2_tr_1_tl_17" n="N017"/>thuen gestatten soll, In gar kain weise oder wege. Doch sollen die urthailen In
+               <lb facs="#facs_2_tr_1_tl_18" n="N018"/>Eesachen, die zeit erganngen,<note type="annotation">Seit Erlass der reformatorischen Ordnungen vom <date when="1537-08-14">14. August 1537</date>. Vgl. dazu die <ref type="einleitung" target="0228#veraenderung">Einleitung</ref>.</note> nit darumb, das Sy deßhalben approbiert, sonder
+               <lb facs="#facs_2_tr_1_tl_19" n="N019"/>allain weitter unrichtigkeit zu verhueten, Es weren dann gar enormes
+               <lb facs="#facs_2_tr_1_tl_20" n="N020"/>excesus geduldet, nit widerfochten, sonder dabey gelassen werden.</p>
+               
+            <p xml:id="artikel_2" resp="JML">
+                    <lb facs="#facs_2_tr_1_tl_21" n="N021"/>
+                    <supplied reason="article_added">2</supplied> Zum andern soll auch niemandts nichts von den kirchen, Capitulen, <w>Cor<pc>-</pc>
+               <lb facs="#facs_2_tr_1_tl_22" n="N022"/>poribus</w> oder presentien<note type="annotation">kirchliches Sondervermögen.</note> gevolgt werden<note type="annotation">überlassen, ausbezahlt werden.</note>, dann den Jhenigen, die solches, wie
+               <lb facs="#facs_2_tr_1_tl_23" n="N023"/>herkomen und Ire statua vermogen, verdienen, Es were dann deßwegen <w>sond<pc>-</pc>
+               <lb facs="#facs_2_tr_1_tl_24" n="N024"/>ere</w> vertrag zwischen den Partheyen mit deren gueten wissen, willen und gehell<note type="annotation">Zustimmung.</note>
+               <lb facs="#facs_2_tr_1_tl_25" n="N025"/>rechtmessiglichen aufgericht und bethadingt<note type="annotation">ausgehandelt, beschlossen.</note>, die sollen in Iren wirden unnd
+               <lb facs="#facs_2_tr_1_tl_26" n="N026"/>Crefften pleiben und hiedurch nit aufgehaben sein.</p>
+            
+            <p xml:id="artikel_3" resp="JML">
+                    <lb facs="#facs_2_tr_1_tl_27" n="N027"/>
+                    <supplied reason="article_added">3</supplied> Zum dritten, so sollen auch hochermelter Bischove, das Thumb Capittel, <w>and<pc>-</pc>
+               <lb facs="#facs_2_tr_1_tl_28" n="N028"/>ere</w> Stifft, Clerisey und ordens personen, wie vorlaut<note type="annotation">wie vorher gesagt.</note>, guet fueg<note type="annotation">Befugnis.</note> und macht
+               <lb facs="#facs_2_tr_1_tl_29" n="N029"/>haben, ob die von <rs type="place" ref="#augsburg">Augspurg</rs> oder die Iren etwas in die obgedachten kirchen oder
+               <lb facs="#facs_2_tr_1_tl_30" n="N030"/>Closter nach enderung der Religion gepauen<note type="annotation">gebaut.</note> oder gemacht hetten, dasselbig
+               <lb facs="#facs_2_tr_1_tl_31" n="N031"/>fur sich selbs und ausserhalb<note type="annotation">ohne Zustimmung.</note> deren von <rs type="place" ref="#augsburg">Augspurg</rs> zum tail oder ganntz ab-
+            
+            
+            <pb facs="#facs_3" xml:id="img_0003" n="Bl. 2r"/>
+            
+           
+               <lb facs="#facs_3_tr_1_tl_1" n="N001"/>zuprechen, hinweg zu thuen oder pleiben zu lassen nach Irem willen unnd
+               <lb facs="#facs_3_tr_1_tl_2" n="N002"/>gefallen, unverhindert menigelichs.</p>
+            
+            
+            <p xml:id="artikel_4" resp="JML">
+                    <lb facs="#facs_3_tr_1_tl_3" n="N003"/>
+                    <supplied reason="article_added">4</supplied> Zum vierdten, damit ain gleichait In den Clostern und Clausen, als leutten di <w>beyain<pc>-</pc>
+               <lb facs="#facs_3_tr_1_tl_4" n="N004"/>ander</w> wonen muessen, gehalten werde, so sollen alle personen in denselbigen <w>Clost<pc>-</pc>
+               <lb facs="#facs_3_tr_1_tl_5" n="N005"/>ern</w> oder Clausen sich der alten Religion, In deren Sy in solche Closter komen, <w>vergleich<pc>-</pc>
+               <lb facs="#facs_3_tr_1_tl_6" n="N006"/>en</w>, gemes halten und kaine darwider in solchen Clostern gestattet, sonder, so Sy sich
+               <lb facs="#facs_3_tr_1_tl_7" n="N007"/>hievor von Iren Reguln und der alten Religion abgesondert und ye auf irem <w>Furne<pc>-</pc>
+               <lb facs="#facs_3_tr_1_tl_8" n="N008"/>men</w> beharrn wolten, darmit nit ain ganntze zerruttung daraus ervolge, yetz-
+               <lb facs="#facs_3_tr_1_tl_9" n="N009"/>und heraussen gelassen, aber Inen von dem Gotshauß oder Closter nit mer, dan
+               <lb facs="#facs_3_tr_1_tl_10" n="N010"/>sovil Sy darein bracht, gevolgt<note type="annotation">ausbezahlt.</note> werden.</p>
+               
+            <p xml:id="artikel_5_1" resp="JML">
+                    <lb facs="#facs_3_tr_1_tl_11" n="N011"/>
+                    <supplied reason="article_added">5.1</supplied> Zum Funfften, so sollen auch die gaistlichen bey Iren ordinarien<note type="annotation">Vorgesetzten, Richtern.</note>, aber Ir <w>Ge<pc>-</pc>
+               <lb facs="#facs_3_tr_1_tl_12" n="N012"/>sind</w>, was dasselbig in der Gaistlichen hofen begeet<note type="annotation">Hier im Sinne: Unrecht, Straftat begeht.</note>, vor derselbigen Gaistlichen
+               <lb facs="#facs_3_tr_1_tl_13" n="N013"/>verordneten Richter, was Sy aber auf der gassen ober des Reichs Strassen freveln,
+               <lb facs="#facs_3_tr_1_tl_14" n="N014"/>vor ainer Oberkeit der Stat <rs type="place" ref="#augsburg">Augspurg</rs>, wie solches vor der verenderung der <w>Religi<pc>-</pc>
+               <lb facs="#facs_3_tr_1_tl_15" n="N015"/>on</w> herkomen, gelassen<note type="annotation">Hier: verhandelt.</note> und kain tail darwider beschwerdt werden.
+               <lb facs="#facs_3_tr_1_tl_16" n="N016"/>Dagegen und herwiderumb, so sollen auch unser lieber Freundt und Furst, der <w>Car<pc>-</pc>
+               <lb facs="#facs_3_tr_1_tl_17" n="N017"/>dinal</w> und <rs type="person" ref="#otto_augsburg">Bischof</rs> zu <rs type="place" ref="#augsburg_hochstift">Augspurg</rs>, desselbigen Thumb Capittel, Clerisey, <w>Priester<pc>-</pc>
+               <lb facs="#facs_3_tr_1_tl_18" n="N018"/>schafft</w> und ordensleute, Mans und Frawen personen, den Rath unserer und des
+               <lb facs="#facs_3_tr_1_tl_19" n="N019"/>Reichs Stat <rs type="place" ref="#augsburg">Augspurg</rs>, dieselbig Stat und deren burger bey Iren Freyhaiten, <w>Rech<pc>-</pc>
+               <lb facs="#facs_3_tr_1_tl_20" n="N020"/>ten</w>, gerechtigkeiten, wie die vor der verenderung der Religion obbemelt <w>gewes<pc>-</pc>
+               <lb facs="#facs_3_tr_1_tl_21" n="N021"/>en</w>, auch pleiben lassen, sich priesterlich und freundtlich gegen meniglich <w>hal<pc>-</pc>
+               <lb facs="#facs_3_tr_1_tl_23" n="N022"/>ten</w> und nyemandt, weder mit worten oder wercken, belaidigen. So
+               <lb facs="#facs_3_tr_1_tl_24" n="N023"/>aber ainer das ubertrette und nit hielte, durch unsern Frundt und Fursten,
+               <lb facs="#facs_3_tr_1_tl_25" n="N024"/>den Cardinal und <rs type="person" ref="#otto_augsburg">Bischove</rs>, oder sonst sein ordenliche gaistliche Oberkait, der <w>ge<pc>-</pc>
+               <lb facs="#facs_3_tr_1_tl_26" n="N025"/>bur</w> darumb gestrafft werden. Eben dergleichen sollen auch die von Augspurg
+               <lb facs="#facs_3_tr_1_tl_27" n="N026"/>mit den Irigen, so obbemelten <rs type="person" ref="#otto_augsburg">Bischove</rs>, seiner lieb Thumb Capittel und deren <w>Gaist<pc>-</pc>
+               <lb facs="#facs_3_tr_1_tl_28" n="N027"/>lichen</w> oder die Iren belaidigten, halten.</p>
+               
+            <p xml:id="artikel_5_2" resp="JML">
+                    <lb facs="#facs_3_tr_1_tl_29" n="N028"/>
+                    <supplied reason="article_added">5.2</supplied> Ferrer und zum andern, als gemelte des Raths der Stat <rs type="place" ref="#augsburg">Augspurg</rs> sich beclagt,
+               <lb facs="#facs_3_tr_1_tl_30" n="N029"/>wiewol vor diser zeit etwan etliche weltliche personen durch Ir <w>verwurck<pc>-</pc>
+               <lb facs="#facs_3_tr_1_tl_31" n="N030"/>ung</w>
+                    <note type="annotation">Vergehen.</note> gedachter Stat <rs type="place" ref="#augsburg">Augspurg</rs> mit Recht verwisen, so haben doch etliche Gaistliche
+           
+            
+            <pb facs="#facs_4" xml:id="img_0004" n="Bl. 2v"/>
+            
+               <lb facs="#facs_4_tr_1_tl_1" n="N001"/>dieselben darnach nichts destminder und ungeachtet erganngens Rechtens
+               <lb facs="#facs_4_tr_1_tl_2" n="N002"/>in Iren hofen und heusern In gemelter Stat <rs type="place" ref="#augsburg">Augspurg</rs>, ainem Rath zu <w>ver<pc>-</pc>
+               <lb facs="#facs_4_tr_1_tl_3" n="N003"/>clainerung</w>
+                    <note type="annotation">Herabsetzung, Geringschätzung.</note>, enthalten<note type="annotation">unterhalten, versorgt.</note>, mit pit, solches zu furkomen<note type="annotation">zu beenden, abzustellen.</note>, und aber die des Thumb
+               <lb facs="#facs_4_tr_1_tl_4" n="N004"/>Stiffts und Clerisey sich solches furbringens nit gnuegsam verwundern
+               <lb facs="#facs_4_tr_1_tl_5" n="N005"/>mogen, dann solchs nit allain nit geschehen, sonder auch von Inen nye <w>ge<pc>-</pc>
+               <lb facs="#facs_4_tr_1_tl_6" n="N006"/>clagt</w> oder deßhalb etwas angezogen<note type="annotation">beschuldigt.</note> worden. Ist bethadingt<note type="annotation">beschlossen.</note>, das unser Freundt
+               <lb facs="#facs_4_tr_1_tl_7" n="N007"/>und Furst, der Cardinal und <rs type="person" ref="#otto_augsburg">Bischove</rs>, die von dem Thumb Capittel oder <w>and<pc>-</pc>
+               <lb facs="#facs_4_tr_1_tl_8" n="N008"/>ere</w> personen der Clerisey, die weren, wer Sy wolten, kainen verpandten<note type="annotation">Verbannten.</note> oder
+               <lb facs="#facs_4_tr_1_tl_9" n="N009"/>verwisnen Menschen one unser oder ains Raths der Stat <rs type="place" ref="#augsburg">Augspurg</rs> <w>wiss<pc>-</pc>
+               <lb facs="#facs_4_tr_1_tl_10" n="N010"/>en</w> und willen In Iren heusern oder hofen zu <rs type="place" ref="#augsburg">Augspurg</rs> nit enthalten, <w>sond<pc>-</pc>
+               <lb facs="#facs_4_tr_1_tl_11" n="N011"/>er</w>, so das geschehe, soll der enthalter, so es der <rs type="person" ref="#otto_augsburg">Bischof</rs> thete, derselbig durch uns, so es aber
+               <lb facs="#facs_4_tr_1_tl_12" n="N012"/>ain Thumbherr oder ander Gaistliche person thete, derselbig durch seinen
+               <lb facs="#facs_4_tr_1_tl_13" n="N013"/>Ordinarium gestrafft und darwider kain gevarde<note type="annotation">Betrug, Hinterlist.</note> gebraucht werden.</p>
+               
+            <p xml:id="artikel_5_3" resp="JML">
+                    <lb facs="#facs_4_tr_1_tl_14" n="N014"/>
+                    <supplied reason="article_added">5.3</supplied> Desgleichen und zum dritten, so haben sich auch die des Raths zu <rs type="place" ref="#augsburg">Augspurg</rs>
+               <lb facs="#facs_4_tr_1_tl_15" n="N015"/>beclagt, welcher massen zu zeitten Ire, der stat <rs type="place" ref="#augsburg">Augspurg</rs>, offne feindt unnd
+               <lb facs="#facs_4_tr_1_tl_16" n="N016"/>zum wenigsten<note type="crit_app">Im Original: wenigisten.</note> derselben kundtschaffter und helffer sich in der Thumbherrn
+               <lb facs="#facs_4_tr_1_tl_17" n="N017"/>und anderer Gaistlichen hofen oder heusern gefarlicher weise enthalten, acht
+               <lb facs="#facs_4_tr_1_tl_18" n="N018"/>auf Ire Burger oder derselben Guetter, wann Sy aus der <rs type="place" ref="#augsburg">Stat</rs> gefuert werden,
+               <lb facs="#facs_4_tr_1_tl_19" n="N019"/>nemen, darnach Sy und das Ire helffen berauben und hinwegfuern, mit
+               <lb facs="#facs_4_tr_1_tl_20" n="N020"/>underthenigister Bit, bey ainem Thumb Capittel und gemainer Clerisey
+               <lb facs="#facs_4_tr_1_tl_21" n="N021"/>zu verschaffen<note type="annotation">dafür zu sorgen, dass</note>, yederzeit, was Sy fur Gässt haben, ainem Burgermaister
+               <lb facs="#facs_4_tr_1_tl_22" n="N022"/>anzuzaigen, welchs aber abermals ein Clerisey kains wegs gestanden<note type="annotation">zugestanden, eingeräumt hat.</note>,
+               <lb facs="#facs_4_tr_1_tl_23" n="N023"/>mit erbietung<note type="annotation">dem Zugeständnis</note>, wa dieselbigen befunden, das Sy darumb der gepur<note type="annotation">nach Recht und Gesetz.</note> gestrafft
+               <lb facs="#facs_4_tr_1_tl_24" n="N024"/>werden sollen, das aber Sy jederzeit solten Ire Gasst antzaigen, were bey dem
+               <lb facs="#facs_4_tr_1_tl_25" n="N025"/>wenigsten<note type="crit_app">Im Original: wenigisten.</note> Burger nit herkomen<note type="annotation">üblich.</note>, auch Iren freyhaiten zuwider, mit 
+               <lb facs="#facs_4_tr_1_tl_26" n="N026"/>pit, Sy wider die pillichait<note type="annotation">Gewohnheitsrecht.</note> nit zu beschweren<note type="annotation">ungerecht zu behandeln.</note>. Also ist bethadingt, wo sich
+               <lb facs="#facs_4_tr_1_tl_27" n="N027"/>solches zutruege, das der enthalter<note type="annotation">Unterstützer.</note>, so solche enthaltung<note type="annotation">Unterstützung.</note> wissenlich <w>the<pc>-</pc>
+               <lb facs="#facs_4_tr_1_tl_28" n="N028"/>te</w>, durch seinen Richter der gebur Ernstlich und unnachleßlich darumb <w>ge<pc>-</pc>
+               <lb facs="#facs_4_tr_1_tl_29" n="N029"/>straft</w>. Desgleichen sollen Sy in der Stat <rs type="place" ref="#augsburg">Augspurg</rs> aines Bischofs, seines Thumb
+               <lb facs="#facs_4_tr_1_tl_30" n="N030"/>Capittuls und deren Clerisey offne feindt, derselbigen kundtschaffter oder
+               <lb facs="#facs_4_tr_1_tl_31" n="N031"/>kunfftige abtrinnige auch nit enthalten, sonder, so Sy darin begriffen,
+               <lb facs="#facs_4_tr_1_tl_32" n="N032"/>gegen Inen, wie sich geburt, gehandelt werden solle.</p>
+            
+            <p xml:id="artikel_5_4" resp="JML">
+                    <lb facs="#facs_4_tr_1_tl_33" n="N033"/>
+                    <supplied reason="article_added">5.4</supplied> Und wiewol unser Freundt der Cardinal und <rs type="person" ref="#otto_augsburg">Bischof</rs>, <rs type="person" ref="#otto_augsburg">seiner Lieb</rs> Thumb
+            
+            
+            <pb facs="#facs_5" xml:id="img_0005" n="Bl. 3r"/>
+            
+            
+               <lb facs="#facs_5_tr_1_tl_1" n="N001"/>Capittel und Clerisey der Stat <rs type="place" ref="#augsburg">Augspurg</rs> vermaint<note type="annotation">annimmt, dafür hält.</note>, Es solte ain Rath die <w>abge<pc>-</pc>
+               <lb facs="#facs_5_tr_1_tl_2" n="N002"/>prochnen</w> altar, Grabstain und anders, so In den kirchen hin und wider <w>zer<pc>-</pc>
+               <lb facs="#facs_5_tr_1_tl_3" n="N003"/>schlagen</w> und zerrissen worden, auf seinen, des Rats Cossten wider aufzurichten
+               <lb facs="#facs_5_tr_1_tl_4" n="N004"/>und zu machen schuldig sein, so haben wir doch durch obgemelte unsere <w>Comis<pc>-</pc>
+               <lb facs="#facs_5_tr_1_tl_5" n="N005"/>sarien</w> mit gemeltem unserm Freundt und Fursten, dem Cardinal unnd
+               <lb facs="#facs_5_tr_1_tl_6" n="N006"/>
+                    <rs type="person" ref="#otto_augsburg">Bischove</rs>, sambt seinem Thumb Capittel und Clerisey sovil handlen lassen,
+               <lb facs="#facs_5_tr_1_tl_7" n="N007"/>das <rs type="person" ref="#otto_augsburg">sein Lieb</rs> und Sy die wider aufrichtung derselbigen altar, Grabstain
+               <lb facs="#facs_5_tr_1_tl_8" n="N008"/>und anders In den kirchen und Clostern, so in dem vertrag vor dem <w>hochgebor<pc>-</pc>
+                  <lb facs="#facs_5_tr_1_tl_9" n="N009"/>nen</w> unserm lieben Schwager, <rs type="person" ref="#wilhelm_iv_bayern">hertzog Wilhalmen von Bayern</rs>, aufgericht,<note type="annotation">Vgl. die <ref type="einleitung" target="0228#verhandlung_bayern">Einleitung</ref>.</note>
+               <lb facs="#facs_5_tr_1_tl_10" n="N010"/>Specificiert, uns zu gefallen und ainem Rath zu gnedigem und <w>freundtlich<pc>-</pc>
+               <lb facs="#facs_5_tr_1_tl_11" n="N011"/>em</w> willen, auf Iren selbs Cossten one zuthuen deren von <rs type="place" ref="#augsburg">Augspurg</rs>, nach Irer
+               <lb facs="#facs_5_tr_1_tl_12" n="N012"/>notturfft<note type="annotation">Erfordernissen.</note> und gelegenhait, wider aufrichten und pauen mogen.</p>
+               
+            <p xml:id="artikel_5_5" resp="JML">
+                    <lb facs="#facs_5_tr_1_tl_13" n="N013"/>
+                    <supplied reason="article_added">5.5</supplied> Zum Funfften, wiewol von unserm Freundt dem Cardinal und <rs type="person" ref="#otto_augsburg">Bischove
+               <lb facs="#facs_5_tr_1_tl_14" n="N014"/>zu Augspurg</rs> furpracht, das alle kirchen, die haben namen, wie Sy <w>wel<pc>-</pc>
+               <lb facs="#facs_5_tr_1_tl_15" n="N015"/>len</w>, und <rs type="person" ref="#otto_augsburg">seiner Lieb</rs> Gaistlichen superioritet und Iurisdiction gelegen, auch
+               <lb facs="#facs_5_tr_1_tl_16" n="N016"/>die<note type="annotation">Kirchen.</note> der pfarren, predicaturn und Schulen <rs type="person" ref="#otto_augsburg">seiner Lieb</rs> und deren
+               <lb facs="#facs_5_tr_1_tl_17" n="N017"/>Tumb Cappittel und Clerisey zustenndig und deßhalben <rs type="person" ref="#otto_augsburg">seiner Lieb</rs> und Inen
+               <lb facs="#facs_5_tr_1_tl_18" n="N018"/>dieselbigen zutzustellen und Sy daran nit weitter zu verhindern, auch das
+               <lb facs="#facs_5_tr_1_tl_19" n="N019"/>Sy den Frey oder kirchhof zu <rs type="place" ref="#sankt_moritz_augsburg">Sanct Mauritzen</rs> und anders der endts, <w>In<pc>-</pc>
+               <lb facs="#facs_5_tr_1_tl_20" n="N020"/>massen</w> das hievor gewesen, wider auffrichten gebetten.
+               <lb facs="#facs_5_tr_1_tl_21" n="N021"/>Gleicherweise auch angezaigt worden, das die versehung<note type="annotation">Verwaltung.</note> aller anderer
+               <lb facs="#facs_5_tr_1_tl_22" n="N022"/>kirchen und Closter zu <rs type="place" ref="#augsburg">Augspurg</rs> <rs type="person" ref="#otto_augsburg">seiner Lieb</rs> als dem Ordinarien<note type="annotation">Vorsteher, Richter.</note> <w>zusten<pc>-</pc>
+               <lb facs="#facs_5_tr_1_tl_23" n="N023"/>dig</w>, mit Bitt, die von <rs type="place" ref="#augsburg">Augspurg</rs> antzuhalten, dieselbigen auch gentzlich
+               <lb facs="#facs_5_tr_1_tl_24" n="N024"/>zu restaurirn und zu Restituirn und <rs type="person" ref="#otto_augsburg">sein Lieb</rs> an ferrner versehung <w>der<pc>-</pc>
+               <lb facs="#facs_5_tr_1_tl_25" n="N025"/>selben</w> mit zu verhindern.</p>
+            
+  <p resp="JML">
+                    <lb facs="#facs_5_tr_1_tl_26" n="N026"/>Dagegen aber die verordenten aines Raths furpracht, das Sy zu <w>anstell<pc>-</pc>
+               <lb facs="#facs_5_tr_1_tl_27" n="N027"/>ung</w>
+                    <note type="annotation">Einrichtung.</note> des <rs type="event" ref="#augsburger_interim">Interims</rs>, Inen von uns gnediglichen zugelassen und von Inen
+               <lb facs="#facs_5_tr_1_tl_28" n="N028"/>undertheniglichen angenomen, auch kirchen haben muessen, So weren
+               <lb facs="#facs_5_tr_1_tl_29" n="N029"/>auch nit alle Closter kirchen, Predig heuser oder Schulen ainem Bischof,
+               <lb facs="#facs_5_tr_1_tl_30" n="N030"/>Sonder zum tail Inen, denen von <rs type="place" ref="#augsburg">Augspurg</rs>, zugehorig, zum tail unnder
+               <lb facs="#facs_5_tr_1_tl_31" n="N031"/>Irer pflegerey, so hetten auch die personen etlicher derselben Closter vast alle
+            
+            
+            <pb facs="#facs_6" xml:id="img_0006" n="Bl. 3v"/>
+            
+            
+               <lb facs="#facs_6_tr_1_tl_1" n="N001"/>deren gefell<note type="annotation">Abgaben, Einnahmen.</note> zuvor verschwendt gehabt, dieselbigen zu unpau komen unnd
+               <lb facs="#facs_6_tr_1_tl_2" n="N002"/>zum tail gar od<note type="annotation">öd, verlassen.</note> steen, die ubrigen Inen ubergeben lassen. Do Sy die kirchen
+               <lb facs="#facs_6_tr_1_tl_3" n="N003"/>wider aufgericht, zinnß abgelost, die leibgedinig<note type="annotation">Leibrente.</note> bezalt, alles nit one groß
+               <lb facs="#facs_6_tr_1_tl_4" n="N004"/>darlegung des Iren, und volgendts die Gutter und heuser derselbigen In <w>Got<pc>-</pc>
+               <lb facs="#facs_6_tr_1_tl_5" n="N005"/>liche</w> almusen, als in underhaltung der armen und auferziehung der
+               <lb facs="#facs_6_tr_1_tl_6" n="N006"/>Jugent gewendt, die andern weren noch in Irem wesen, So were ain Rath
+               <lb facs="#facs_6_tr_1_tl_7" n="N007"/>der uberigen vorderung der gepeu und abprechens halben In- und <w>ausser<pc>-</pc>
+               <lb facs="#facs_6_tr_1_tl_8" n="N008"/>halb</w> der kirchen mit ainem Bischof, dessen Capittel und Clerisey schon <w>ver<pc>-</pc>
+               <lb facs="#facs_6_tr_1_tl_9" n="N009"/>tragen</w>, also das Sy verhofften, wir wurden desselbigen zufriden sein und
+               <lb facs="#facs_6_tr_1_tl_10" n="N010"/>es dabey gnedigist pleiben lassen, welches aber der <rs type="person" ref="#otto_augsburg">Bischof</rs>, Capittel unnd
+               <lb facs="#facs_6_tr_1_tl_11" n="N011"/>Clerisey nit gestanden<note type="annotation">zugestanden, zugestimmt.</note>. Also haben baide tail aus sonderm<note type="annotation">besonderem.</note> <w>underthenigist<pc>-</pc>
+               <lb facs="#facs_6_tr_1_tl_12" n="N012"/>en</w> vertrauen, so Sy zu uns tragen, solche nechst obgeschribne Puncten und
+               <lb facs="#facs_6_tr_1_tl_13" n="N013"/>was darin begriffen zu unserer weittern erclärung und determination<note type="annotation">Erwägung.</note>
+               <lb facs="#facs_6_tr_1_tl_14" n="N014"/>freundtlich und undertheniglich gestelt. Also, was wir derohalben auf
+               <lb facs="#facs_6_tr_1_tl_15" n="N015"/>gnuegsame verhor und erkundigung aller gelegenhait und nach gestalt
+               <lb facs="#facs_6_tr_1_tl_16" n="N016"/>der sachen weitter ordnen, das es dabey gentzlich gelassen und demselbigen
+               <lb facs="#facs_6_tr_1_tl_17" n="N017"/>getrewlichen gelebt und nachkomen werden soll.</p>
+            
+    <p resp="JML">
+                    <lb facs="#facs_6_tr_1_tl_18" n="N018"/>Unnd damit baide tail vertragen, auch aller unwill, ob sich der in ainiche
+               <lb facs="#facs_6_tr_1_tl_19" n="N019"/>wege zwischen den partheyen oder deren ainiche mit wortten oder wercken
+               <lb facs="#facs_6_tr_1_tl_20" n="N020"/>begeben het, wie oder zwischen was personen das geschehen were, niemandts
+               <lb facs="#facs_6_tr_1_tl_21" n="N021"/>ausgenomen, tod, ab<note type="annotation">abgeschafft, aufgehoben</note>, gericht<note type="annotation">versöhnt.</note> und geschlicht sein und pleiben und kain tail
+               <lb facs="#facs_6_tr_1_tl_22" n="N022"/>an den andern deßwegen kain weittere ansprach<note type="annotation">KLage.</note> noch forderung <w>nym<pc>-</pc>
+               <lb facs="#facs_6_tr_1_tl_23" n="N023"/>mermehr</w> haben, in kainen wege, auch ainander weder mit wortten
+               <lb facs="#facs_6_tr_1_tl_24" n="N024"/>noch wercken weitter belaidigen, sonder welcher etwas Spruch<note type="annotation">Klage.</note> oder <w>forder<pc>-</pc>
+               <lb facs="#facs_6_tr_1_tl_25" n="N025"/>ung</w> an den andern zu haben vermaint, dasselbig mit Recht an ortten, da
+               <lb facs="#facs_6_tr_1_tl_26" n="N026"/>es sich geburt, suechen und es dabey pleiben lassen soll. Und ob sich ainicher
+               <lb facs="#facs_6_tr_1_tl_27" n="N027"/>Missverstandt dises vertrags halb zwischen bemelten partheyen zutruge,
+               <lb facs="#facs_6_tr_1_tl_28" n="N028"/>So haben wir uns Leutterung<note type="annotation">Erläuterung, Auslegung.</note> derselbigen nach verhor baider partheyen
+               <lb facs="#facs_6_tr_1_tl_29" n="N029"/>yederzeit zu thun, dabey auch die tail pleiben sollen, vorbehalten, alles
+               <lb facs="#facs_6_tr_1_tl_30" n="N030"/>getreulich und ungefarlich.
+               <lb facs="#facs_6_tr_1_tl_31" n="N031"/>Welche abrede also alle tail zu dank und gfallen angenomen unnd
+            
+            
+            <pb facs="#facs_7" xml:id="img_0007" n="Bl. 4r"/>
+            
+            
+               <lb facs="#facs_7_tr_1_tl_1" n="N001"/>deren nachzekomen bey Iren Furstlichen wirden, Eern und aiden, sovil <w>In<pc>-</pc>
+               <lb facs="#facs_7_tr_1_tl_2" n="N002"/>en</w> von Rechtswegen zu thun gepurt, zugesagt und versprochen, alles <w>getreu<pc>-</pc>
+               <lb facs="#facs_7_tr_1_tl_3" n="N003"/>lich</w> und ungefarlich.</p>
+            
+            <p resp="JML">
+                    <lb facs="#facs_7_tr_1_tl_4" n="N004"/>Und dieweil diser vertrag aus unser, <rs type="person" ref="#karl_v">Kaiser Karls</rs>, sondern Bevelh, wissen
+               <lb facs="#facs_7_tr_1_tl_5" n="N005"/>und willen abgeredt, aufgericht und gemacht und dan auch baide tail in
+               <lb facs="#facs_7_tr_1_tl_6" n="N006"/>unserm, als Romischen Kaisers und Oberisten vogts der Christenlichen kirchen<note type="annotation">Der Kaiser als oberster Schutzherr der Kirche.</note>
+               <lb facs="#facs_7_tr_1_tl_7" n="N007"/>Schutz und Schirmb seind, So setzen, ordnen und mainen wir von
+               <lb facs="#facs_7_tr_1_tl_9" n="N008"/>Romischer Kaiserlicher macht, das derselbig vertrag in allen seinen Puncten,
+               <lb facs="#facs_7_tr_1_tl_10" n="N009"/>Clauseln, artickeln, maynungen und Begreiffungen steet, vest<note type="annotation">Rechtsformel: steet und vest = dauerhaft.</note> und <w>unver<pc>-</pc>
+               <lb facs="#facs_7_tr_1_tl_11" n="N010"/>pruchlich</w> gehalten und volntzogen und von jemandts dawider nicht furgenomen
+               <lb facs="#facs_7_tr_1_tl_13" n="N011"/>oder gehandelt werden solle. Und gepieten darauf
+               <lb facs="#facs_7_tr_1_tl_14" n="N012"/>obgedachtem unserm Freundt und Fursten, herrn <rs type="person" ref="#otto_augsburg">Othen</rs>, Cardinal unnd
+               <lb facs="#facs_7_tr_1_tl_15" n="N013"/>Bischof zu <rs type="place" ref="#augsburg_hochstift">Augspurg</rs>, <rs type="person" ref="#otto_augsburg">seiner Lieb</rs> Thumb Capittel und gemainer Clerisey,
+               <lb facs="#facs_7_tr_1_tl_16" n="N014"/>auch Burgermaister und Rath der Stat <rs type="place" ref="#augsburg">Augspurg</rs>, Ernstlich und <w>vestig<pc>-</pc>
+               <lb facs="#facs_7_tr_1_tl_17" n="N015"/>lich</w>
+                    <note type="annotation">Rechtsformel, die das Gebieten des <rs type="person" ref="#karl_v">Kaisers</rs> hier bestärkt: ernstlich und vestiglich = mit aller Autorität.</note> mit disem brief und wellen, das Sy disen obbestimpten vertrag seins
+               <lb facs="#facs_7_tr_1_tl_18" n="N016"/>Inhalts, wie der Ir yeden beruert, steet, vest und unverpruchenlich halten,
+               <lb facs="#facs_7_tr_1_tl_19" n="N017"/>volnziehen, demselben nach komen und geleben und dawider nit thuen, <w>hand<pc>-</pc>
+               <lb facs="#facs_7_tr_1_tl_20" n="N018"/>len</w> noch furnemen, auch yemandts zu thuen nit bevelhen noch gestatten,
+               <lb facs="#facs_7_tr_1_tl_21" n="N019"/>in kainerlay weise, als lieb ainem yeden sey unser schwere ungnad unnd
+               <lb facs="#facs_7_tr_1_tl_22" n="N020"/>Straff, so die, welche hiewider fravenlich<note type="annotation">frevelhaft.</note> theten, und furnemblich, so die <w>son<pc>-</pc>
+               <lb facs="#facs_7_tr_1_tl_23" n="N021"/>dere</w>
+                    <note type="annotation">herausgehobene.</note> personen weren, unnachleßlich zu gewarten<note type="annotation">erwarten.</note> haben sollen, zu <w>vermei<pc>-</pc>
+               <lb facs="#facs_7_tr_1_tl_25" n="N022"/>den</w>, das maynen wir Ernstlich.</p>
+            
+            <p resp="JML">Und wir, <rs type="person" ref="#otto_augsburg">Otho</rs>, von
+               <lb facs="#facs_7_tr_1_tl_26" n="N023"/>Gots gnaden Cardinal und Bischof zu <rs type="place" ref="#augsburg_hochstift">Augspurg</rs>, <rs type="person" ref="#marquard_stain">Marquart vom Stain</rs>,
+               <lb facs="#facs_7_tr_1_tl_27" n="N024"/>Thumbprobst, und <rs type="person" ref="#philipp_rechberg">Philips von Rechberg</rs>, Thumbdechant, fur uns selbs
+               <lb facs="#facs_7_tr_1_tl_28" n="N025"/>und in namen unsers Thumb Capittels und gemainer Clerisey, unnd
+               <lb facs="#facs_7_tr_1_tl_29" n="N026"/>wir N. Burgermaister und Ratgebende des klainern und grossern Raths
+               <lb facs="#facs_7_tr_1_tl_30" n="N027"/>der Stat <rs type="place" ref="#augsburg">Augspurg</rs> Bekennen hiemit offenlich, das diser vertrag mit
+               <lb facs="#facs_7_tr_1_tl_31" n="N028"/>unser aller seitz<note type="annotation">allerseit.</note> guetem willen, wissen und gehel abgeredt, aufgericht
+               <lb facs="#facs_7_tr_1_tl_32" n="N029"/>und geschehen ist. Gereden<note type="annotation">Geloben.</note> und versprechen auch fur uns und unsere <w>nachko<pc>-</pc>
+               <lb facs="#facs_7_tr_1_tl_33" n="N030"/>men</w> bey unsern Furstlichen wirden, Eern, aiden, auch andern der <rs type="person" ref="#karl_">kaiserlichen
+                  <lb facs="#facs_7_tr_1_tl_34" n="N031"/>Maiestat</rs>, unsers allergnedigisten hern, Inverleibten Peenen, dehnselben ver-
+            
+            
+            <pb facs="#facs_8" xml:id="img_0008" n="Bl. 4v"/>
+            
+            
+               <lb facs="#facs_8_tr_1_tl_1" n="N001"/>trag, sovil der unser yeden belanngt, In allen puncten, Clausulen und <w>Inhalt<pc>-</pc>
+               <lb facs="#facs_8_tr_1_tl_2" n="N002"/>ungen</w> steet und unverpruchlich zu halten, demselben gentzlich nach zu komen
+               <lb facs="#facs_8_tr_1_tl_3" n="N003"/>und zu geleben, darwider nymermehr zu thuen noch schaffen<note type="annotation">vorhaben, planen.</note> oder gestatten <w>ge<pc>-</pc>
+               <lb facs="#facs_8_tr_1_tl_4" n="N004"/>thon</w> werden, in kainen wege, mit verzeihung und Begebung allerseits
+               <lb facs="#facs_8_tr_1_tl_5" n="N005"/>aller und yeder freyhaiten, Rechten und gerechtigkeiten, so wir hierwider <w>hab<pc>-</pc>
+               <lb facs="#facs_8_tr_1_tl_6" n="N006"/>en</w> oder kunfftiglich uberkomen, wie die namen haben und wir uns dero von
+               <lb facs="#facs_8_tr_1_tl_7" n="N007"/>Rechtswegen verzeihen mechten, nichtzit<note type="annotation">Verstärkung noch <q>nichts</q>, im Sinne von: nichtsnicht, überhaupt und gar nichts.</note> ausgenomen, dann wir uns sambt
+               <lb facs="#facs_8_tr_1_tl_8" n="N008"/>und sonders derselbigen hiemit, sambt dem Rechten gemainer verzeihung
+               <lb facs="#facs_8_tr_1_tl_9" n="N009"/>one vorgeende sonderung widersprechendt, wissentlich auch getrewlichen und
+               <lb facs="#facs_8_tr_1_tl_10" n="N010"/>ungefarlichen verzeihen und begeben.</p> 
+               
+               <p resp="JML">Des zu urkundt und merer sicherhait haben wir,
+               <lb facs="#facs_8_tr_1_tl_11" n="N011"/>
+                    <rs type="person" ref="#karl_v">Kaiser Karl</rs>, unser kaiserlich und wir, <rs type="person" ref="#otto_augsburg">Otto</rs>, unser Bischoflich, wir, <rs type="person" ref="#marqurad_stain">Marquart
+                  <lb facs="#facs_8_tr_1_tl_12" n="N012"/>vom Stain</rs>, Thumb probst, und <rs type="person" ref="#philipp_rechberg">Philips von Rechberg</rs>, Thumbdechant, unsers
+               <lb facs="#facs_8_tr_1_tl_13" n="N013"/>Thumb Capittels, und wir, Burgermaister und Rath der Stat <rs type="place" ref="#augsburg">Augspurg</rs>, <w>ge<pc>-</pc>
+               <lb facs="#facs_8_tr_1_tl_14" n="N014"/>mainer</w> Stat <rs type="place" ref="#augsburg">Augspurg</rs> Insigel in namen unser und aller unserer <w>mitver<pc>-</pc>
+               <lb facs="#facs_8_tr_1_tl_15" n="N015"/>wandten</w> an disen Brief, dero drey gleichs lauts verferttigt und yedem tail
+               <lb facs="#facs_8_line_1714049499425_586" n="N016"/>ainer zugestelt ist, anhangen lassen.</p>
+            
+            <p resp="JML">Geben in unser und des
+               <lb facs="#facs_8_tr_1_tl_18" n="N017"/>Reichs Stat <rs type="place" ref="#augsburg">Augspurg</rs> am <date when="1548-08-02">andern tag des monats Augusti, nach Christi,
+               <lb facs="#facs_8_tr_1_tl_19" n="N018"/>unsers lieben hern, gepurde Funfftzehenhundert und im <w>achtundviertzigist<pc>-</pc>
+               <lb facs="#facs_8_tr_1_tl_20" n="N019"/>en</w>, unsers Kaiserthumbs im achtundzwaintzigisten und unserer Reiche im
+               <lb facs="#facs_8_tr_1_tl_21" n="N020"/>dreyunddreissigisten Jaren</date>.</p>
+            
+            <p resp="JML">
+               <lb facs="#facs_8_line_1714049538681_607" n="N021"/>
+                    <rs type="person" ref="#karl_v">Carolus</rs>
+               <lb facs="#facs_8_tr_1_tl_22" n="N022"/>Ad mandatum Caes. et <w>Ca<pc>-</pc>
+               <lb facs="#facs_8_tr_1_tl_23" n="N023"/>tholicae</w> M.tis proprium.
+               <lb facs="#facs_8_tr_1_tl_24" n="N024"/>
+                    <rs type="person" ref="#granvelle_nicolas">Perrenot</rs>.
+               <lb facs="#facs_8_tr_1_tl_25" n="N025"/>
+                    <rs type="person" ref="#obernburger_johannes">Obernburger</rs>.
+               
+            </p>
+         </div>
+      </body>
+      
+   </text>
+</tei:TEI>

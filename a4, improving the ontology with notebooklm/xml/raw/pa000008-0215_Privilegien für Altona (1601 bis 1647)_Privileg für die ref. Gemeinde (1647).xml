@@ -1,0 +1,243 @@
+<?xml-model href="../../../customization/schema_quellentexte/religionsfrieden-quellentexte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pa000008-0215">
+   <teiHeader>      
+      <fileDesc>         
+         <titleStmt>
+            
+            <title level="a">Privileg für die reformierte Gemeinde (<date when="1647-09-27">27. September 1647</date>) - StA HH, 521-4 I A 9</title>
+            <title level="s">Europäische Religionsfrieden Digital</title>
+            <principal ref="http://d-nb.info/gnd/111186870">Irene Dingel</principal> 
+            <editor role="http://id.loc.gov/vocabulary/relators/edt" ref="http://orcid.org/0000-0002-1509-6960">Thomas Stäcker</editor>
+            <editor role="http://id.loc.gov/vocabulary/relators/edt" ref="https://orcid.org/0000-0002-5429-6367">
+                    <persName>Christopher Voigt-Goy</persName>
+                </editor> 
+            <editor role="http://id.loc.gov/vocabulary/relators/mrk">Kevin Wunsch</editor>           
+            <editor role="http://id.loc.gov/vocabulary/relators/mrk">Kevin Kuck</editor>           
+         </titleStmt>         
+         <editionStmt>
+            <edition>Digitale Edition gemäß <ref target="http://www.tei-c.org/">TEI P5</ref>
+                </edition>
+            <funder>Akademie der Wissenschaften und der Literatur</funder>
+         </editionStmt>         
+         <publicationStmt>
+            <publisher>
+               <orgName ref="http://www.isni.org/0000000119314040">Akademie der Wissenschaften und Literatur Mainz</orgName>
+            </publisher>           
+            <distributor>
+               <orgName ref="http://www.isni.org/0000000110101946">Universitäts- und Landesbibliothek Darmstadt</orgName>
+               <idno type="ISIL">http://lobid.org/organisation/DE-17</idno>
+            </distributor>
+            <date when="2021-12-16" type="issued">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p xml:lang="en">This file is licensed under the terms of the Creative Commons License CC-BY 4.0 (Attribution 4.0 International)</p>
+               </licence>
+            </availability>
+         </publicationStmt>        
+         <sourceDesc><!-- bitte ausfüllen; nicht zutreffende Elemente bitte rauslöschen -->
+            <msDesc>
+               <msIdentifier>
+                  <settlement/>                               
+                  <repository/>
+                  <collection/>
+                  <idno>Signatur</idno>
+                  <idno type="urn"/>
+                  <idno type="vd16"/>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title/>
+                     <respStmt>
+                        <resp/>
+                        <persName/>
+                     </respStmt>
+                     <biblStruct><!-- gilt nur für Drucke; rausnehmen, wenn es sich um ein Manuskript handelt! -->
+                        <monogr xml:id="vorlage">
+                           <imprint>
+                              <pubPlace/>
+                              <publisher>
+                                 <persName/>
+                              </publisher>
+                              <date/>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                  </msItem>
+               </msContents>
+               <history><!-- bei Manuskript, falls Datum und/oder Ort bekannt sind; andernfalls rauslöschen! -->
+                  <origin>
+                     <date/>
+                     <placeName/>
+                  </origin>
+               </history>
+            </msDesc>    
+         </sourceDesc>
+      </fileDesc>      
+      <encodingDesc>         
+         <projectDesc>
+            <p>
+               <ref target="http://www.eured.de">Europäische Religionsfrieden Digital</ref>
+            </p>
+         </projectDesc>
+         <classDecl>
+            <taxonomy xml:id="marcrelator">
+               <bibl>
+                        <idno type="URI">http://id.loc.gov/vocabulary/relators/</idno> MARC Code List for Relators </bibl>
+            </taxonomy>
+         </classDecl>         
+      </encodingDesc>      
+      <profileDesc>         
+         <langUsage>
+            <language ident="deut">Deutsch</language><!-- Sprache hinzufügen -->
+         </langUsage>         
+      </profileDesc>      
+      <revisionDesc>
+         <change xml:id="ch01" when="2018-01-18">
+                <p>Die Edition ist 2018 von der Herzog August Bibliothek Wolfenbüttel an die Universitäts- und Landesbibliothek Darmstadt umgezogen.</p>
+            </change>
+      </revisionDesc>   
+   </teiHeader>
+   <facsimile>
+      <surface lrx="4896" lry="4237" ulx="0" uly="0" xml:id="facs_1">
+         <!--<graphic height="4237px" url="61185902.tif" width="4896px"/>-->
+         <graphic height="4237px" url="https://files.transkribus.eu/Get?id=UKJWDWPDUWUXKKFHXYAIXMDL&amp;fileType=view" width="4896px"/>
+         <zone points="582,336 582,4027 4837,4027 4837,336" rendition="TextRegion" xml:id="facs_1_tr_1">
+            <zone points="606,590 699,606 860,539 1015,601 1212,585 1295,627 1471,564 1554,606 2082,611 2185,575 3169,627 3289,570 3465,632 3661,570 3780,637 3874,585 4050,627 4272,580 4335,621 4702,637 4702,487 4619,461 4568,497 4469,461 4386,533 4184,461 3889,492 3812,461 3703,508 3490,471 3366,518 3263,466 3180,502 2765,471 2703,508 2662,466 1403,471 1372,502 1046,471 1005,513 606,476" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+            <zone points="621,663 1372,668 1476,715 1528,668 1823,704 2072,668 2491,709 2584,678 4682,699 4682,616 4340,621 4272,580 4050,627 3874,590 3780,642 3661,570 3459,632 3320,570 3107,632 2191,575 2082,611 1476,570 1419,611 1212,575 1093,611 875,549 798,596 621,590" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+            <zone points="621,782 689,787 746,730 958,772 1077,725 1699,772 2408,735 3511,792 3594,756 3718,792 3786,761 4671,787 4671,694 4594,684 3630,715 3294,678 3092,709 621,668" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+            <zone points="611,834 917,787 989,834 2372,792 2439,834 4568,813 4671,860 4671,777 4614,761 611,725" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+            <zone points="585,886 1647,860 1958,896 2336,854 2538,896 2636,860 3024,896 4438,870 4619,911 4619,829 4335,808 3112,834 2367,787 2113,823 917,787 585,818" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+            <zone points="596,932 2009,927 2082,968 2346,917 2481,953 2558,917 2833,927 2869,963 3832,917 4666,943 4666,860 596,886" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+            <zone points="591,1015 2139,979 2207,1031 2388,979 2932,1020 3486,979 4004,1010 4102,974 4346,1025 4682,1020 4682,922 591,937" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+            <zone points="590,1093 937,1041 1217,1077 1776,1036 2398,1072 2434,1041 4278,1056 4278,979 4117,968 3371,1010 2227,979 590,1010" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+            <zone points="627,1181 1574,1113 1958,1145 2859,1119 3154,1170 3232,1108 4050,1134 4143,1098 4723,1150 4728,1015 3071,1072 2450,1036 2403,1072 2346,1036 627,1062" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+            <zone points="611,1217 756,1248 1082,1191 1165,1227 1393,1176 1838,1207 2175,1165 3257,1227 3480,1170 3760,1207 3801,1170 3848,1201 4065,1160 4200,1207 4257,1165 4661,1191 4661,1129 4495,1108 3408,1134 3123,1098 3066,1139 1585,1108 611,1181" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+            <zone points="596,1290 854,1264 911,1300 1010,1258 1290,1300 1398,1258 1947,1274 1999,1238 2418,1274 2802,1243 2942,1290 3014,1243 3268,1248 3304,1284 3656,1243 3775,1279 4371,1222 4697,1269 4702,1191 4526,1160 3848,1201 3325,1165 3200,1207 2501,1165 2398,1201 2180,1165 2077,1207 2030,1170 1844,1201 1730,1170 601,1217" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+            <zone points="611,1341 1129,1321 1227,1367 1388,1315 2170,1352 2289,1310 2553,1346 2610,1310 3071,1305 3532,1346 3584,1310 4625,1300 4625,1248 4542,1222 3563,1269 3304,1238 2418,1274 2330,1238 611,1290" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+            <zone points="616,1424 1450,1429 1548,1383 1771,1409 1813,1378 2175,1383 2222,1429 2512,1378 2579,1409 2926,1372 3019,1414 3361,1378 3470,1419 3739,1367 4060,1367 4102,1409 4272,1362 4438,1409 4661,1393 4661,1284 4366,1326 4029,1295 3884,1331 2501,1305 2398,1346 2299,1310 2222,1346 1978,1315 616,1341" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
+            <zone points="605,1474 905,1463 1071,1510 1144,1463 1309,1463 1491,1510 1630,1448 1729,1494 1827,1448 1915,1484 2174,1443 2231,1484 2625,1443 2677,1479 3086,1443 4701,1458 4701,1375 4458,1365 605,1427" rendition="Line" xml:id="facs_1_tr_1_tl_18"/>
+            <zone points="585,1564 798,1580 854,1533 994,1528 1176,1569 1554,1533 1725,1564 1926,1517 1978,1559 2149,1507 2470,1538 2791,1497 3252,1528 3755,1481 3993,1491 4039,1533 4174,1491 4247,1528 4355,1486 4676,1507 4676,1455 4619,1429 1921,1476 1636,1445 1082,1491 585,1460" rendition="Line" xml:id="facs_1_tr_1_tl_19"/>
+            <zone points="575,1616 1207,1652 1300,1611 1409,1657 1673,1595 1849,1636 2118,1595 2196,1636 2455,1585 2569,1631 2719,1574 2947,1621 3123,1574 3309,1605 3392,1574 3428,1611 3496,1569 3635,1605 3900,1564 3998,1600 4133,1559 4335,1595 4739,1574 4707,1466 4262,1523 4050,1481 3770,1517 3563,1486 3289,1528 2791,1497 2475,1538 2144,1512 1994,1554 1947,1507 1735,1564 1548,1533 1176,1569 1072,1528 575,1564" rendition="Line" xml:id="facs_1_tr_1_tl_20"/>
+            <zone points="602,1679 1151,1721 1192,1684 1255,1715 1337,1679 1379,1721 1617,1684 1679,1726 1731,1679 1840,1710 2083,1658 2176,1705 2575,1653 2855,1689 2922,1643 3186,1695 3590,1689 3678,1643 3911,1674 3953,1632 4170,1669 4362,1627 4429,1669 4528,1627 4704,1648 4709,1576 3927,1560 3652,1601 3523,1565 3450,1607 3414,1565 3326,1601 3150,1570 3088,1612 2798,1576 2746,1612 2425,1591 2327,1627 1736,1591 1431,1643 602,1622" rendition="Line" xml:id="facs_1_tr_1_tl_21"/>
+            <zone points="580,1797 647,1766 1046,1797 1103,1761 1321,1792 1440,1750 1533,1792 1771,1745 1849,1781 1937,1740 2310,1781 2512,1740 2936,1766 3092,1704 3620,1756 3765,1704 4091,1756 4174,1709 4682,1740 4682,1626 4267,1673 2853,1647 2154,1704 2056,1657 1833,1709 1440,1683 1393,1719 1315,1683 1233,1719 580,1683" rendition="Line" xml:id="facs_1_tr_1_tl_22"/>
+            <zone points="580,1849 1258,1875 1305,1833 1497,1833 1652,1870 1828,1818 1947,1854 1999,1818 2082,1849 2548,1797 2595,1844 2724,1797 2879,1833 2973,1787 3061,1828 3123,1781 3268,1776 3724,1818 3786,1781 4252,1781 4495,1833 4682,1792 4676,1740 4511,1704 4366,1740 3087,1704 2864,1761 2745,1719 2641,1766 1921,1740 1838,1781 1776,1745 1139,1792 1025,1750 974,1792 580,1797" rendition="Line" xml:id="facs_1_tr_1_tl_23"/>
+            <zone points="606,1942 746,1906 1025,1947 1088,1906 1269,1952 1336,1901 1409,1942 1538,1895 1616,1942 1709,1890 1937,1921 2056,1880 2356,1932 2532,1916 2584,1870 2631,1906 2791,1870 3014,1906 3190,1844 3677,1849 3765,1890 4645,1870 4645,1807 4526,1787 4008,1776 3837,1813 3806,1776 3744,1807 3268,1776 2859,1823 2362,1802 2263,1844 2004,1813 1958,1849 1756,1818 1673,1854 1227,1828 761,1870 673,1828 606,1859" rendition="Line" xml:id="facs_1_tr_1_tl_24"/>
+            <zone points="580,1983 917,2020 994,1983 1077,2020 1134,1978 1279,2020 2077,1963 2367,2004 2538,1963 2667,1999 2822,1942 2978,1994 3061,1942 3314,1916 3532,1958 3677,1911 3837,1963 3905,1921 3993,1968 4293,1911 4599,1952 4692,1921 4697,1864 3211,1849 2957,1901 1756,1890 1616,1942 1554,1890 1139,1942 1088,1901 865,1942 580,1901" rendition="Line" xml:id="facs_1_tr_1_tl_25"/>
+            <zone points="601,2061 766,2092 943,2051 1041,2092 1435,2061 1554,2097 1704,2056 2035,2082 2346,2040 2398,2072 2600,2025 2672,2066 2771,2020 2828,2061 2916,2015 2993,2072 3107,2015 3200,2056 3335,2009 3739,2035 3900,1989 4718,2015 4718,1942 4459,1916 3853,1952 3682,1911 3501,1963 3263,1921 2983,1983 2838,1942 2615,1978 2563,1942 2382,1994 2175,1963 1781,1973 1730,2009 606,1983" rendition="Line" xml:id="facs_1_tr_1_tl_26"/>
+            <zone points="585,2149 1129,2123 1258,2160 1600,2113 1652,2165 1906,2134 1958,2165 2082,2108 2149,2149 2486,2139 2522,2103 2776,2144 2957,2097 3263,2128 3371,2066 3542,2118 3910,2066 4190,2123 4252,2077 4293,2118 4474,2066 4666,2082 4666,2009 4231,1994 4117,2030 3894,1994 3775,2030 3330,2009 3149,2051 3107,2015 2983,2056 2910,2020 2828,2056 2760,2020 2227,2072 590,2056" rendition="Line" xml:id="facs_1_tr_1_tl_27"/>
+            <zone points="596,2201 2486,2222 2527,2180 2677,2217 3133,2160 3185,2201 3366,2149 3827,2185 4190,2154 4314,2196 4407,2149 4557,2154 4697,2196 4697,2092 4474,2061 4417,2113 3894,2072 3418,2108 3371,2066 3283,2113 2797,2134 2522,2097 2486,2134 1926,2113 1813,2154 1279,2108 1207,2144 746,2118 596,2154" rendition="Line" xml:id="facs_1_tr_1_tl_28"/>
+            <zone points="596,2273 777,2299 875,2253 1051,2258 1310,2305 1523,2253 1564,2294 1730,2263 1818,2305 1994,2258 2170,2299 2517,2253 2672,2294 2734,2253 3092,2279 3149,2237 3242,2268 3392,2227 3516,2268 3656,2217 4345,2263 4433,2232 4573,2279 4666,2237 4666,2185 4552,2154 4231,2185 4070,2149 3972,2185 3361,2149 3216,2191 3123,2160 2077,2222 1507,2217 1471,2180 1367,2222 917,2175 596,2196" rendition="Line" xml:id="facs_1_tr_1_tl_29"/>
+            <zone points="596,2341 865,2367 963,2325 1155,2356 1491,2325 1787,2367 1937,2325 2082,2356 2289,2320 2330,2356 2398,2315 2444,2356 2595,2320 2797,2356 3195,2305 3589,2330 3672,2294 4645,2330 4619,2248 4003,2222 3957,2253 3661,2211 3485,2258 2289,2253 2175,2289 1523,2258 1093,2294 875,2253 715,2294 596,2258" rendition="Line" xml:id="facs_1_tr_1_tl_30"/>
+            <zone points="596,2403 2015,2434 2517,2393 2636,2429 2677,2387 3159,2413 3247,2372 3672,2393 3718,2362 4200,2367 4257,2403 4412,2356 4635,2398 4635,2325 4480,2294 2652,2351 1932,2330 1901,2362 1186,2356 974,2315 865,2362 596,2346" rendition="Line" xml:id="facs_1_tr_1_tl_31"/>
+            <zone points="590,2486 2481,2496 2931,2481 2993,2444 3102,2481 3221,2439 3490,2475 4407,2424 4702,2486 4702,2346 4630,2393 3724,2362 2320,2424 590,2403" rendition="Line" xml:id="facs_1_tr_1_tl_32"/>
+            <zone points="580,2532 1082,2563 1201,2532 1248,2569 1574,2532 1616,2569 1983,2527 2652,2558 2745,2522 2895,2558 3252,2501 3387,2543 3573,2501 3848,2501 3894,2538 3993,2501 4029,2532 4184,2501 4221,2538 4371,2501 4449,2543 4630,2512 4630,2455 4407,2424 2993,2444 2708,2486 580,2481" rendition="Line" xml:id="facs_1_tr_1_tl_33"/>
+            <zone points="596,2626 1113,2631 1165,2595 1264,2636 1512,2589 2382,2626 2424,2589 2957,2631 3190,2574 3667,2610 3775,2574 4340,2569 4412,2605 4609,2569 4578,2496 3382,2532 3247,2501 2791,2548 596,2543" rendition="Line" xml:id="facs_1_tr_1_tl_34"/>
+            <zone points="580,2683 1207,2657 1326,2703 1574,2657 1973,2693 2341,2652 2765,2688 3180,2641 3677,2667 3770,2631 3827,2672 4164,2631 4547,2677 4635,2646 4635,2579 4594,2569 4542,2600 3801,2569 585,2626" rendition="Line" xml:id="facs_1_tr_1_tl_35"/>
+            <zone points="624,2774 1354,2743 1483,2785 1571,2733 1784,2769 2094,2728 2736,2754 3291,2707 3456,2743 3617,2717 3658,2754 3788,2717 3881,2759 3938,2717 4042,2769 4352,2774 4487,2717 4673,2723 4673,2650 4192,2640 629,2697" rendition="Line" xml:id="facs_1_tr_1_tl_36"/>
+            <zone points="606,2807 968,2838 1020,2802 1600,2786 2196,2843 2294,2786 2475,2781 2558,2838 2771,2797 2983,2833 3055,2776 3283,2765 3729,2807 3775,2719 606,2755" rendition="Line" xml:id="facs_1_tr_1_tl_37"/>
+            <zone points="487,2910 1543,2864 1630,2850 3091,2840 3221,2848 3361,2879 3490,2843 4630,2864 4630,2707 2558,2789 1776,2786 948,2822 829,2791 684,2828 487,2750" rendition="Line" xml:id="facs_1_line_1703253514850_448"/>
+            <zone points="616,2925 4713,2917 4669,2854 624,2866" rendition="Line" xml:id="facs_1_line_1709815573750_148"/>
+            <zone points="590,3009 1978,2998 2320,2947 2636,2978 2760,2942 2797,2978 2921,2936 2998,2973 3138,2942 3610,2973 3656,2936 3734,2973 3925,2926 4614,2952 4614,2879 2072,2895 1471,2936 1419,2905 1367,2942 590,2916" rendition="Line" xml:id="facs_1_tr_1_tl_51"/>
+            <zone points="590,3076 1098,3045 1678,3081 1968,3019 2382,3061 2543,3009 2947,3045 3118,2998 3848,3024 4552,2978 4635,3014 4687,2993 4692,2921 3744,2962 3724,2931 3263,2967 2315,2947 1507,3009 590,2988" rendition="Line" xml:id="facs_1_tr_1_tl_52"/>
+            <zone points="601,3128 1383,3144 1926,3092 2056,3128 2242,3081 2781,3076 2942,3112 3480,3061 3936,3102 4029,3050 4133,3097 4221,3050 4640,3055 4640,3009 4542,2978 3853,3024 3459,2993 3211,3035 3123,2993 2931,3040 1968,3019 1414,3076 601,3055" rendition="Line" xml:id="facs_1_tr_1_tl_53"/>
+            <zone points="585,3200 4651,3128 4651,3081 4537,3045 4236,3045 3765,3092 3573,3055 3351,3092 2993,3066 585,3138" rendition="Line" xml:id="facs_1_tr_1_tl_54"/>
+            <zone points="359,3267 2192,3246 2223,3215 2311,3246 2363,3205 2431,3241 2798,3205 3202,3231 3249,3194 3394,3241 3461,3189 3979,3220 4445,3184 4445,3148 4290,3111 4010,3143 3761,3106 3689,3148 3290,3127 3145,3163 2177,3137 1659,3194 359,3194" rendition="Line" xml:id="facs_1_tr_1_tl_55"/>
+            <zone points="590,3304 979,3340 1201,3304 1357,3345 1507,3299 1683,3335 1756,3289 1994,3330 2082,3283 2123,3325 2931,3268 3532,3294 3651,3257 3951,3325 4298,3257 4412,3299 4671,3263 4671,3175 3470,3195 3345,3232 2574,3206 1585,3263 596,3257" rendition="Line" xml:id="facs_1_tr_1_tl_56"/>
+            <zone points="590,3366 1331,3397 1849,3392 1906,3351 2217,3356 2253,3392 2600,3345 2760,3382 3216,3340 3289,3387 3335,3345 3496,3371 3542,3325 3651,3356 3651,3252 3211,3299 2936,3268 1429,3325 590,3299" rendition="Line" xml:id="facs_1_tr_1_tl_57"/>
+            <zone points="585,3428 1502,3459 2061,3418 2367,3465 2652,3418 2905,3454 3107,3408 3278,3459 3651,3402 3786,3439 4008,3408 4055,3444 4314,3387 4635,3413 4635,3299 4350,3273 4267,3335 3915,3309 3806,3345 3744,3304 3635,3356 3537,3325 3501,3361 3128,3340 2776,3382 2600,3345 2439,3387 585,3366" rendition="Line" xml:id="facs_1_tr_1_tl_58"/>
+            <zone points="590,3496 870,3527 1124,3485 1290,3532 2056,3485 2517,3532 2833,3485 3314,3527 3465,3480 4262,3511 4651,3470 4651,3397 4500,3392 3941,3434 3651,3402 3309,3449 3107,3408 2574,3449 590,3434" rendition="Line" xml:id="facs_1_tr_1_tl_59"/>
+            <zone points="580,3558 3164,3594 3635,3532 4024,3584 4257,3542 4293,3579 4490,3542 4666,3573 4635,3475 4568,3506 4526,3475 3465,3480 3325,3516 2776,3480 2734,3522 580,3485" rendition="Line" xml:id="facs_1_tr_1_tl_60"/>
+            <zone points="580,3630 886,3604 1217,3656 1621,3620 1973,3656 2066,3620 2123,3656 2481,3661 3553,3610 4029,3615 4086,3661 4666,3630 4666,3568 4562,3542 3972,3573 3615,3537 3169,3589 580,3558" rendition="Line" xml:id="facs_1_tr_1_tl_61"/>
+            <zone points="580,3749 1911,3749 2009,3708 2517,3744 2688,3703 2973,3739 3371,3698 3651,3734 3931,3718 3931,3625 2553,3625 2481,3661 1020,3594 575,3630" rendition="Line" xml:id="facs_1_tr_1_tl_62"/>
+            <zone points="2683,4039 2817,3993 3014,4034 3232,4003 3299,3982 3304,3853 3159,3832 3066,3755 2828,3760 2771,3708 2745,3724 2693,3703" rendition="Line" xml:id="facs_1_tr_1_tl_63"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+            <p facs="#facs_1_tr_1">
+               <pb facs="#facs_1" xml:id="img_0001" n="13"/>
+               <lb facs="#facs_1_tr_1_tl_3" n="N001"/>Wihr <rs type="person" ref="#friedrich_iii_daenemark">Friederich</rs> von Godtes gnaden Erwehlter zue Ertz- unnd <w>Bischof<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_4" n="N002"/>en</w> dero stiffter <rs type="place" ref="#bremen_erzstift">Brehmen</rs> unnd <rs type="place" ref="#verden_hochstift">Vehrden</rs>, Coadjutor zue <rs type="place" ref="#halberstadt_hochstift">Halberstadt</rs>, Erbe zue <rs type="place" ref="#norwegen_koenigreich">Norwegen</rs>,
+               <lb facs="#facs_1_tr_1_tl_5" n="N003"/>Herzog zue <rs type="place" ref="#schleswig_herzogtum">Schleßwig</rs>, <rs type="place" ref="#holstein_herzogtum">Hollstein</rs>, <rs type="place" ref="#stormarn_herzogtum">Stormarn</rs> unnd der <rs type="place" ref="#dithmarschen_herzogtum">Ditmarschen</rs>, Grafe zu <rs type="place" ref="#oldenburg_grafschaft">Oldenburg</rs> unnd <rs type="place" ref="#delmenhorst_grafschaft">Dellmenhorst</rs> etc.,
+               <lb facs="#facs_1_tr_1_tl_7" n="N004"/>thuen kundt hiemit, das bei Uns die abgeornete Gevollmächtigte der reformirten Gemeine zue <rs type="place" ref="#altona">Altenahe</rs> unterthänigste und <w>instän<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_9" n="N005"/>dige</w> Ansuchung gethan, die von dero Königl<am>.</am>
+                    <ex>ichen</ex> M<am>t.</am>
+                    <ex>ajestät</ex> zue <rs type="place" ref="#daenemark_koenigreich">Dennemarck</rs>, <rs type="place" ref="#norwegen_koenigreich">Norwegen</rs> etc., Unserm gnedigen viellgeliebten Herrn Vattern, unterm dato <rs type="place" ref="#gluecksburg">Glücksburg</rs>
+               <lb facs="#facs_1_tr_1_tl_10" n="N006"/>am <date when="1641-05-29">29. Maii des entwichenen 1641. Jahrs</date>, so dan ferner am <date when="1645-12-02">2. Decembr<am>.</am>
+                        <ex>is</ex> A<am>o.</am>
+                        <ex>nno</ex> 1645.</date> ihnen ertheilte Königl<am>.</am>
+                    <ex>ichen</ex> Concession<note type="annotation">Zugeständnis.</note> unnd Confirmation<note type="annotation">Bestätigung.</note>, ihres <w>biß<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_11" n="N007"/>hero</w> daselbst gehabten freyen Exercitii religionis, nachdeme uns nuhmer die Herschafft <rs type="place" ref="#pinneberg_herrschaft">Pinnenberg</rs> erb unnd eigenthümblich abgetreten und <w>ein<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_12" n="N008"/>gereumet</w>,<note type="annotation">Vgl. die <ref type="einleitung" target="0216#herrschaftswechsel">Einleitung</ref>.</note> in gnaden zuebestettigen, unnd Sie dabei zue schützen. Es lauten aber dieselbe ihres wörtlichen Inhalts wie hernach folgete:
+            </p>
+            <p>
+               <lb facs="#facs_1_tr_1_tl_13" n="N009"/>Wihr <rs type="person" ref="#christian_iv">Christian der Vierdte</rs> von Gottes gnaden zue <rs type="place" ref="#daenemark_koenigreich">Dennemarck</rs>, <rs type="place" ref="#norwegen_koenigreich">Norwegen</rs>, der Wenden und Gothen König, Hertzog zu <rs type="place" ref="#schleswig_herzogtum">
+                        <w>Schles<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_14" n="N010"/>wig</w>
+                    </rs>, <rs type="place" ref="#holstein_herzogtum">Hollstein</rs>, <rs type="place" ref="#stormarn_herzogtum">Stormarn</rs> unnd der <rs type="place" ref="#dithmarschen_herzogtum">Ditmarschen</rs>, Grafe zue <rs type="place" ref="#oldenburg_grafschaft">Oldenburg</rs> unnd <rs type="place" ref="#delmenhorst_grafschaft">Dellmenhorst</rs> etc. Thuen kunt hiemit gegen männiglich für uns und
+               <lb facs="#facs_1_tr_1_tl_15" n="N011"/>Unsere Nachkommen: Nachdem bei Uns, nach von Gott geschickter änderung an der Regierung<note type="annotation">Vgl. die <ref type="einleitung" target="0216#herrschaftswechsel">Einleitung</ref>.</note>, die Reformirte Evangelische <w>Ge<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_16" n="N012"/>meinte</w> zue <rs type="place" ref="#altona">Altenahe</rs>, umb Continuation auch respective Confirmation, ihres bis dahero ruhiglich gebrauchten freyen Exercitii
+               <lb facs="#facs_1_tr_1_tl_17" n="N013"/>sambt dabei von vorigen Grafen von <rs type="place" ref="#schaumburg_grafschaft">Schauenburg</rs> genoßener freyheit unnd Privilegien unterthän<am>:</am>
+                    <ex>igst</ex> unnd demütigst angehalten und <w>ge<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_18" n="N014"/>beten</w>, so dan zue einer wilkürlichen recognition<note type="annotation">Anerkennung.</note> sich guetwillig offeriret unnd angobetten, das wir dahero solchem ihrem gesuch gnädigst
+               <lb facs="#facs_1_tr_1_tl_19" n="N015"/>geruhet unnd statt gethan. Thuen auch solches hiemit unnd in krafft dieses derogestalt unnd also: Das gedachte gemeinte unndt
+               <lb facs="#facs_1_tr_1_tl_20" n="N016"/>deroselben Gliedmaßen, nicht allein wie bishero beschehenn, ihre freye unbehinderte Versamblung unnd Conventus<note type="annotation">Zusammenkünfte.</note> zue ihrem Gottesdienst
+               <lb facs="#facs_1_tr_1_tl_21" n="N017"/>an unnd in denen dazue geordneten Plätzen unnd Kirchen hinfüro daselbsten ferner continuiren unnd pflegen, besondern auch zue <w>Unter<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_22" n="N018"/>richtung</w> ihrer Jugent unnd vortpflantzung der Gemeinte eine öffentliche Schule halten, nicht do weniger macht haben die Gebeuwte <w>heu<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_23" n="N019"/>te</w> oder morgen ohne jemants Einspruch auff ihren Kosten zue vergrößern, zue erweitern unnd von Neuwen auffzuebauwen. <w>Inglei<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_24" n="N020"/>chen</w> wan einige geringe gebrechen<note type="annotation">Verstöße bzw. Streitigkeiten.</note>, als etwan von ihrem Gottesdienst, Kirchen Disciplin, oder andern schlechten Sachen herrürent, sich
+               <lb facs="#facs_1_tr_1_tl_25" n="N021"/>ereigenen, selbige durch ihr eigen von reformirten niedergesetzetes Consistorium<note type="annotation">Die gemeindeleitende Versammlung der Ältesten (Presbyter).</note> für sich decidiren unnd erörtern mögen. Wan aber die Sachen
+               <lb facs="#facs_1_tr_1_tl_26" n="N022"/>wichtig unnd von ihnen nicht konnen geschlichtet werden oder auch sonsten vom Jure Episcopali<note type="annotation">Gemeint ist die bischöfliche Leitungsgewalt, die in protestantischen Territorien  durch den Landesherren beansprucht wurde.</note> dependiren, sollen dieselbe an uns sofort devolvirt<note type="annotation">übergeben.</note>
+               <lb facs="#facs_1_tr_1_tl_27" n="N023"/>unnd gebracht sein unnd werden. Hingegen wollen wir obgedachte gantze Gemeinte, insonderheit die daselbst wohnende Prediger (welche
+               <lb facs="#facs_1_tr_1_tl_28" n="N024"/>dan eines erbarn unberüchtigten, unnd friedsamen Lebens sich befleißigen, alles unnötigen debatirens unnd scheltens auff der Cantzell
+               <lb facs="#facs_1_tr_1_tl_29" n="N025"/>enthalten unnd nur dahin sehen sollen, wie sie ohne anderer ärgernus ihr angetrauwete Gemeine bauwen unnd dem lieben Godt in der stille dienen
+               <lb facs="#facs_1_tr_1_tl_30" n="N026"/>können), so dan alle andere Kirchen- unnd Schuldienere sambt allen den ihrigen in Unsern Königl<am>.</am>
+                    <ex>ichen</ex> specialen vorspruch nehmen, Sie an der <w>Verrich<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_31" n="N027"/>tung</w> ihres Gottesdienstes von niemanden turbiren<note type="annotation">stören.</note> noch betrüben laßen, besondern sie sambt unnd sonders wieder männigliches<note type="annotation">gegen jede.</note> gewalt und Eintrag
+               <lb facs="#facs_1_tr_1_tl_32" n="N028"/>kräfftiglich manuteniren<note type="annotation">schützen.</note>, handthaben unnd vertreten, die Kirchen gebeuwte, wie auch der Prediger-, Kirchen- unnd Schuelldiener heuser unnd wohnungen
+               <lb facs="#facs_1_tr_1_tl_33" n="N029"/>von aller Einquartierung<note type="annotation">Gemeint ist die zwangsverordnete Unterbringung militärischen Personals.</note> beschweerden oder Ungeldern<note type="annotation">zusätzliche Abgaben.</note>, wie die nahmen haben mögen, gentzlich befreyen, unnd damit nicht belegen laßen, in Summa: Sie
+               <lb facs="#facs_1_tr_1_tl_34" n="N030"/>gleich andern unsern Kirchen unnd Schuldienern auch Unterthanen Jederzeit gebürlich schützen unnd beschirmen, Gestalt Unsere Beambte, so jetzo zum <rs type="place" ref="#pinneberg_herrschaft">
+                        <w>Pi<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_35" n="N031"/>nenberg</w>
+                    </rs> oder des orts sein, oder künfftig sein werden, hierüber bis an uns allerdings festiglich halten, unnd niemanden das geringste dawieder sich gelüsten
+               <lb facs="#facs_1_tr_1_tl_36" n="N032"/>zulaßen gestatten, besondern die Verbrechere ernstlich Straffen, unnd es an ihnen animadvertiren<note type="annotation">die Strafe vollziehen.</note> sollen, sonder gefärde. Urkuntlich Unter Unserm
+               <lb facs="#facs_1_tr_1_tl_37" n="N033"/>Königl<am>.</am>
+                    <ex>ichen</ex> Handtzeichen unnd Secret<note type="annotation">kleines Siegel.</note>. Geben auff Unserm Hause <rs type="place" ref="#gluecksburg">Glücksburg</rs> am <date when="1641-05-29">29. May A<am>o.</am>
+                        <ex>nno</ex> 1641</date>. <rs type="person" ref="#christian_iv">Christian</rs>. <!--L.S.-->
+            </p>
+            <p>
+               <lb facs="#facs_1_line_1703253514850_448" n="N034"/>Wihr <rs type="person" ref="#christian_iv">Christian der Vierdte</rs> von Gottes gnaden zue <rs type="place" ref="#daenemark_koenigreich">Dennemarck</rs>, <rs type="place" ref="#norwegen_koenigreich">Norwegen</rs>, der Wenden unnd Gothen König, Hertzog zue <rs type="place" ref="#schleswig_herzogtum">Schleswig</rs>, <rs type="place" ref="#holstein_herzogtum">Holstein</rs>,
+               <lb facs="#facs_1_tr_1_tl_51" n="N035"/>
+                    <rs type="place" ref="#stormarn_herzogtum">Stormarn</rs> unnd der <rs type="place" ref="#dithmarschen_herzogtum">Ditmarschen</rs>, Grafe zue <rs type="place" ref="#oldenburg_grafschaft">Oldenburg</rs> und <rs type="place" ref="#delmenhorst_grafschaft">Dellmenhorst</rs> etc. Thun kunt hiemit gegen männiglich, nachdem bei Jüngsten Krieges unter <w>an<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_51" n="N036"/>dern</w> auch der Reformirten Kirch zue <rs type="place" ref="#altona">Altenah</rs> ruiniret unnd in die Asche gelegett<note type="annotation" xml:id="brand">Während des dänisch-schwedischen Kriegs (<q>Torstenssonkrieg</q>) von <date from="1643" to="1645">1643 bis 1645</date> war Altona kurzzeitig von schwedischen Truppen besetzt worden. Als Ursache für die Zerstörung der Kirche wird allerdings Brandstiftung durch ein Gemeindeglied vermutet, vg. <rs type="bibl" ref="#mavius_gemeinde">
+                            <surname type="author">Mavius</surname>, Die evangelisch-reformierte Gemeinde, S. 100</rs>.</note>, Sie selbige aber nuhmer, doch gleicher gestalt in Unserer Jurisdiction
+               <lb facs="#facs_1_tr_1_tl_52" n="N037"/>wieder auffgebauwet unnd gesetzet, das wir also auff unterthänigstes anhalten des Ersamen unsers Factorn<note type="annotation">Buchhalter.</note> unnd lieben getreuwen <rs type="person" ref="#berrens_albert_balzer">Albert Balzer <w>Beh<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_53" n="N038"/>rents</w>
+                    </rs> alle unnd Jede Unsere ihnen auff alsothane Kirche unnd Versamblung hiebevor gegebene unnd ertheilte Privilegia, gleich weren sie anderweit von
+               <lb facs="#facs_1_tr_1_tl_54" n="N039"/>wort zue wort alhie wiederholet unnd einverleibet, ihnen ferner hiemit jetzt confirmiren, bekräfftigen unnd bestettigen wollen, thuen auch solches hiemit unnd
+               <lb facs="#facs_1_tr_1_tl_55" n="N040"/>in Crafft dieses, wie es am bestendigsten immer geschehen kan oder mag, unnd wollen, das Sie dabei von Unsern jetzigen unnd künfftigen Beambten zum <rs type="place" ref="#pinneberg_herrschaft">
+                        <w>Pin<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_56" n="N041"/>nenberg</w>
+                    </rs> Jederzeit bis an uns Cräfftiglich sollen geschützet gehandthabet unnd Vertreten werden, sonder alle geferde. Urküntlich Unter Unserm Königl<am>.</am>
+                    <ex>ichen</ex> <w>Handt<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_57" n="N042"/>Zeichen</w> unnd Secret. Geben auff Unserm Hause zur <rs type="place" ref="#flensburg">Flensburg</rs> den <date when="1645-12-02">2. Decembris A<am>o.</am>
+                        <ex>nno</ex> 1645</date>. <rs type="person" ref="#christian_iv">Christian</rs>. <!--L.S.-->
+            </p>
+            <p>
+               <lb facs="#facs_1_tr_1_tl_58" n="N043"/>Wan uns nun obinserirte Privilegia in originali zum Vorschein gebracht, unnd wir es bei sothaner obberürter reformirten Gemeine zur <rs type="place" ref="#altona">Altenah</rs>
+               <lb facs="#facs_1_tr_1_tl_59" n="N044"/>ertheilter Königl<am>.</am>
+                    <ex>icher</ex> Concession unnd confirmation in gnaden bewenden laßen, Als confirmiren unnd bestettigen wir dieselbe ihres Inhalts hiemit
+               <lb facs="#facs_1_tr_1_tl_60" n="N045"/>unnd Crafft dieses, wollen auch die Impetranten<note type="annotation">Bittenden.</note> dabei schützen unnd handhaben. Befehlen demnach Unsern jetzigen unnd künfftigen <rs type="place" ref="#pinneberg_herrschaft">Pinnenbergischen</rs> drosten<note type="annotation">Den Landesherren vertretende Beamte.</note>,
+               <lb facs="#facs_1_tr_1_tl_61" n="N046"/>Beambten unnd Bedienten, das sie bis die an hierüber feste halten, unnd dawieder nichts verhängen noch verstatten. Urküntlich Unserer eigenhandigen <w>Subscri<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_62" n="N047"/>ption</w>
+                    <note type="annotation">Unterschrift.</note> unnd angehängeten Cammersecrets<note type="annotation">Siegel.</note>. Geben auff dem Königl<am>.</am>
+                    <ex>ichen</ex> Hause <rs type="place" ref="#flensburg">Flensburg</rs> den <date when="1647-09-27">27. Septembris Anno 1647</date>.
+               <lb facs="#facs_1_tr_1_tl_63" n="N048"/>
+                    <rs type="person" ref="#friedrich_iii_daenemark">Friedrich</rs>
+            </p>
+         </div>
+      </body>
+   </text>
+</tei:TEI>

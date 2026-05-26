@@ -1,0 +1,292 @@
+<span class="lineNumber">1</span><a class="fnNumber" href="#F_a" id="A_a">a</a>Wir, die hernachbenanten <button class="entity #burkhard_franz person" data-ref="burkhard_franz" data-type="person" id="d2e187">Franciscus Burckhart</button>, beyder <br/>
+<span class="lineNumber">2</span>rechten doctor und der geistlichen ordinarius zu <br/>
+<span class="lineNumber">3</span><button class="entity #ingolstadt place" data-ref="ingolstadt" data-type="place" id="d2e194">Ingolstat</button>, <button class="entity #bibra_wolfgang person" data-ref="bibra_wolfgang" data-type="person" id="d2e197">Wolffgang von Bibra</button>, comethur zu <br/>
+<span class="lineNumber">4</span><button class="entity #mergentheim place" data-ref="mergentheim" data-type="place" id="d2e201">Mergetheim</button> und <button class="entity #wuerzburg place" data-ref="wuerzburg" data-type="place" id="d2e204">Wirtzburg</button> deutschordenns, <br/>
+<span class="lineNumber">5</span>unnd <button class="entity #fessner_niklas person" data-ref="fessner_niklas" data-type="person" id="d2e210">Niclas Feßner</button>, burgermeister zu <button class="entity #noerdlingen place" data-ref="noerdlingen" data-type="place" id="d2e213">Nordlin-</button><br/>
+<span class="lineNumber">6</span><button class="entity #noerdlingen place" data-ref="noerdlingen" data-type="place" id="d2e213">gen</button>, bekhennen offentlich und thun kunth aller <br/>
+<span class="lineNumber">7</span>meniglich<a class="fnNumber" href="#F_1" id="A_1">1</a>: Nachdem die irrungen<a class="fnNumber" href="#F_2" id="A_2">2</a> und gebrechen<a class="fnNumber" href="#F_3" id="A_3">3</a> <br/>
+<span class="lineNumber">8</span>zwischen dem hochwirdigsten durchleuchtigen <br/>
+<span class="lineNumber">9</span>hochgebornen fursten und herren, herrn <br/>
+<span class="lineNumber">10</span><button class="entity #albrecht_mainz person" data-ref="albrecht_mainz" data-type="person" id="d2e238">Albrechten</button>, der heilligen Romischen kirchen <br/>
+<span class="lineNumber">11</span>titels sancti Petri ad vincula prister cardinale, <br/>
+<span class="lineNumber">12</span>des heilligen stuls zu <button class="entity #mainz_erzdioezese place" data-ref="mainz_erzdioezese" data-type="place" id="d2e246">Meintz</button> und stiffts <button class="entity #magdeburg_erzstift place" data-ref="magdeburg_erzstift" data-type="place" id="d2e249">Mag-</button><br/>
+<span class="lineNumber">13</span><button class="entity #magdeburg_erzstift place" data-ref="magdeburg_erzstift" data-type="place" id="d2e249">denburg</button> ertzbischoffen, churfursten, des <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e257">heilligen </button><br/>
+<span class="lineNumber">14</span><button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e257">Romischen Reichs</button> durch <button class="entity #germanien place" data-ref="germanien" data-type="place" id="d2e262">Germanien</button> ertzcantz-<br/>
+<span class="lineNumber">15</span>lern<a class="fnNumber" href="#F_4" id="A_4">4</a> und primaten,<a class="fnNumber" href="#F_5" id="A_5">5</a> administratorn<a class="fnNumber" href="#F_6" id="A_6">6</a> zu <button class="entity #halberstadt_hochstift place" data-ref="halberstadt_hochstift" data-type="place" id="d2e281">Halber-</button><br/>
+<span class="lineNumber">16</span><button class="entity #halberstadt_hochstift place" data-ref="halberstadt_hochstift" data-type="place" id="d2e281">stat</button>, marggraven zu <button class="entity #brandenburg_markgrafschaft place" data-ref="brandenburg_markgrafschaft" data-type="place" id="d2e289">Branndenburg</button>, zu <button class="entity #pommern_stettin_herzogtum place" data-ref="pommern_stettin_herzogtum" data-type="place" id="d2e292">Stettin</button>, <br/>
+<span class="lineNumber">17</span><button class="entity #pommern_herzogtum place" data-ref="pommern_herzogtum" data-type="place" id="d2e297">Pommern</button>, der Cassuben<a class="fnNumber" href="#F_7" id="A_7">7</a> und Wenden<a class="fnNumber" href="#F_8" id="A_8">8</a> hertzogen, <br/>
+<span class="lineNumber">18</span>Burggraven zu <button class="entity #nuernberg_burggrafschaft place" data-ref="nuernberg_burggrafschaft" data-type="place" id="d2e308">Nurmberg</button> und fursten zu <button class="entity #ruegen_fuerstentum place" data-ref="ruegen_fuerstentum" data-type="place" id="d2e311">Rugen</button>, <br/>
+<span class="lineNumber">19</span>unnserm gnedigsten herren, und seiner chur-<br/>
+<span class="lineNumber">20</span>furstlichen gnaden ertzstifft <button class="entity #mainz_kurfuerstentum place" data-ref="mainz_kurfuerstentum" data-type="place" id="d2e324">Meintz</button> eins-<a class="fnNumber" href="#F_9" id="A_9">9</a> <br/>
+<span class="lineNumber">21</span>und den ersamen, fursichtigen<a class="fnNumber" href="#F_10" id="A_10">10</a> und weißen<a class="fnNumber" href="#F_11" id="A_11">11</a> <br/>
+<span class="lineNumber">22</span>ratßmeistern, rathe und gemein der statt <br/>
+<span class="lineNumber">23</span><button class="entity #erfurt place" data-ref="erfurt" data-type="place" id="d2e342">Ertfurt</button> andersteils, schwebende<a class="fnNumber" href="#F_12" id="A_12">12</a>, uff dem bunds-<br/>
+<span class="lineNumber">24</span>tag zu <button class="entity #augsburg place" data-ref="augsburg" data-type="place" id="d2e356">Augspurg</button>, uff Martini<a class="fnNumber" href="#F_13" id="A_13">13</a> im achtunnd <br/>
+<span class="lineNumber">25</span>zweintzigsten jare gehalten, von beydentheilen <br/>
+<span class="lineNumber">26</span>schrifftlich und mundtlich vor gemeiner ver-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-1v"> [Blatt: 1<span class="rectoVerso">v</span> ] </button><br/>
+<span class="lineNumber">27</span>samlung des loblichen bunds zu <button class="entity #schwaben_reichskreis place" data-ref="schwaben_reichskreis" data-type="place" id="d2e378">Schwaben</button> <br/>
+<span class="lineNumber">28</span>gnungsamlich furtragen, verhort und aber <br/>
+<span class="lineNumber">29</span>uß mangel volkomens gewalts<a class="fnNumber" href="#F_14" id="A_14">14</a> und abfer-<br/>
+<span class="lineNumber">30</span>tigung<a class="fnNumber" href="#F_15" id="A_15">15</a> gemelter<a class="fnNumber" href="#F_16" id="A_16">16</a> von <button class="entity #erfurt place" data-ref="erfurt" data-type="place" id="d2e401">Ertfurt</button> gesandten damals <br/>
+<span class="lineNumber">31</span>von den verordneten derselben versamlung <br/>
+<span class="lineNumber">32</span>gutlich nit mogen bygelegt und vertragen<a class="fnNumber" href="#F_17" id="A_17">17</a> <br/>
+<span class="lineNumber">33</span>werden, sunder mit beydertheile zulasßen <br/>
+<span class="lineNumber">34</span>unnd bewilligen, uff ferner vertagung gein<a class="fnNumber" href="#F_18" id="A_18">18</a> <br/>
+<span class="lineNumber">35</span><button class="entity #fulda place" data-ref="fulda" data-type="place" id="d2e421">Fuldau</button>, <button class="entity #schweinfurt place" data-ref="schweinfurt" data-type="place" id="d2e424">Schweinfurt</button> oder <button class="entity #hammelburg place" data-ref="hammelburg" data-type="place" id="d2e427">Hamelburg</button> gestelt, <br/>
+<span class="lineNumber">36</span>da beidetheile mit volkomem entlichem<a class="fnNumber" href="#F_19" id="A_19">19</a> <br/>
+<span class="lineNumber">37</span>gewalt erscheinen, von gemeiner bunds-<br/>
+<span class="lineNumber">38</span>stende wegen zu demselben statlich verordnet,<a class="fnNumber" href="#F_20" id="A_20">20</a> <br/>
+<span class="lineNumber">39</span>geschickt, und zuvorderst der Restitucion<a class="fnNumber" href="#F_21" id="A_21">21</a> <br/>
+<span class="lineNumber">40</span>halben uff obberurt<a class="fnNumber" href="#F_22" id="A_22">22</a> zu <button class="entity #augsburg place" data-ref="augsburg" data-type="place" id="d2e459">Augspurg</button> furgewent<a class="fnNumber" href="#F_23" id="A_23">23</a> <br/>
+<span class="lineNumber">41</span>und geubt handlung, die gutligkheit von den <br/>
+<span class="lineNumber">42</span>bunds verordneten fur handt genomen, und <br/>
+<span class="lineNumber">43</span>die parthyen dero uff zimlich<a class="fnNumber" href="#F_24" id="A_24">24</a> mittel unnd <br/>
+<span class="lineNumber">44</span>wege zuvereinigen flyß<a class="fnNumber" href="#F_25" id="A_25">25</a> gebraucht, unnd so <br/>
+<span class="lineNumber">45</span>also der restitucion halben vergleichung <br/>
+<span class="lineNumber">46</span>geschehen, alßdan von allen andern gebrechen<a class="fnNumber" href="#F_26" id="A_26">26</a> <br/>
+<span class="lineNumber">47</span>alte und neu sachen und artickheln, sich <br/>
+<span class="lineNumber">48</span>zwischen berurten<a class="fnNumber" href="#F_27" id="A_27">27</a> parthyen erhaltende, so am <br/>
+<span class="lineNumber">49</span>camergericht<a class="fnNumber" href="#F_28" id="A_28">28</a> rechthengig oder sunst inhalt <br/>
+<span class="lineNumber">50</span>der vertrege, oder anderer gestalt irrig und <br/>
+<span class="lineNumber">51</span>strittig weren, zu hinlegung<a class="fnNumber" href="#F_29" id="A_29">29</a> derselben in <br/>
+<span class="lineNumber">52</span>der gute oder in ander wege, auch mit <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-2r"> [Blatt: 2<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">53</span>guttem flyß gehandelt werden solle, alles <br/>
+<span class="lineNumber">54</span>vermöge solichs Augspurgischen und bundischen <br/>
+<span class="lineNumber">55</span>receß, das wir uß bevelhe <button class="entity #karl_v person" data-ref="karl_v" data-type="person" id="d2e519">Romischer kei-</button><br/>
+<span class="lineNumber">56</span><button class="entity #karl_v person" data-ref="karl_v" data-type="person" id="d2e519">ßerlicher und hispanischer koniglicher majestat</button>, <br/>
+<span class="lineNumber">57</span>auch churfursten, fursten und aller stende des <br/>
+<span class="lineNumber">58</span>loblichen bunds zu <button class="entity #schwaben_reichskreis place" data-ref="schwaben_reichskreis" data-type="place" id="d2e533">Schwaben</button>, unnserer aller-<br/>
+<span class="lineNumber">59</span>gnedigsten, gnedigsten, gnedigen unnd lieben <br/>
+<span class="lineNumber">60</span>herren, am tage purificacionis Marie<a class="fnNumber" href="#F_30" id="A_30">30</a> zu <br/>
+<span class="lineNumber">61</span><button class="entity #hammelburg place" data-ref="hammelburg" data-type="place" id="d2e552">Hamelburg</button> einkhomen<a class="fnNumber" href="#F_31" id="A_31">31</a>, und nachvolgender tage <br/>
+<span class="lineNumber">62</span>die bevelhaber<a class="fnNumber" href="#F_32" id="A_32">32</a>, nemlich von wegen hoch-<br/>
+<span class="lineNumber">63</span>genants <button class="entity #albrecht_mainz person" data-ref="albrecht_mainz" data-type="person" id="d2e571">unnsers gnedigsten herren von Meintz</button>, <br/>
+<span class="lineNumber">64</span>herrn <button class="entity #westhausen_kaspar person" data-ref="westhausen_kaspar" data-type="person" id="d2e576">Casparn von Westhaußen</button>, in rechten <br/>
+<span class="lineNumber">65</span>doctor unnd cantzler, <button class="entity #moerle_wolf person" data-ref="moerle_wolf" data-type="person" id="d2e582">Wolffen von Morlin </button><br/>
+<span class="lineNumber">66</span><button class="entity #moerle_wolf person" data-ref="moerle_wolf" data-type="person" id="d2e582">genant Beheim</button>, Marschalckh, <button class="entity #echter_von_mespelbrunn_philipp_der_aeltere person" data-ref="echter_von_mespelbrunn_philipp_der_aeltere" data-type="person" id="d2e587">Philipßen Echter </button><br/>
+<span class="lineNumber">67</span><button class="entity #echter_von_mespelbrunn_philipp_der_aeltere person" data-ref="echter_von_mespelbrunn_philipp_der_aeltere" data-type="person" id="d2e587">den eltern zu Messelnbron</button>, Vitzthumb<a class="fnNumber" href="#F_33" id="A_33">33</a> zu <br/>
+<span class="lineNumber">68</span><button class="entity #aschaffenburg place" data-ref="aschaffenburg" data-type="place" id="d2e596">Aschaffenburg</button>, <button class="entity #ruedt_eberhard person" data-ref="ruedt_eberhard" data-type="person" id="d2e599">Eberhart Ruden von Calen-</button><br/>
+<span class="lineNumber">69</span><button class="entity #ruedt_eberhard person" data-ref="ruedt_eberhard" data-type="person" id="d2e599">berg</button>, und <button class="entity #frolinkind_jakob person" data-ref="frolinkind_jakob" data-type="person" id="d2e609">Jacoben Frolinckhind</button>, secretarien, <br/>
+<span class="lineNumber">70</span>und der stat <button class="entity #erfurt place" data-ref="erfurt" data-type="place" id="d2e614">Ertfurt</button> <button class="entity #denstedt_georg person" data-ref="denstedt_georg" data-type="person" id="d2e617">Georgen von Tenstet</button>, <br/>
+<span class="lineNumber">71</span><button class="entity #mueller_michael person" data-ref="mueller_michael" data-type="person" id="d2e621">Micheln Muller</button>, <button class="entity #doering_ludwig person" data-ref="doering_ludwig" data-type="person" id="d2e625">Ludwigen Dhuring</button>, <button class="entity #gunderam_claus person" data-ref="gunderam_claus" data-type="person" id="d2e628">Claußen </button><br/>
+<span class="lineNumber">72</span><button class="entity #gunderam_claus person" data-ref="gunderam_claus" data-type="person" id="d2e628">Gunderam</button> und <button class="entity #walter_claus person" data-ref="walter_claus" data-type="person" id="d2e633">Claußen Walthern</button>, fur uns <br/>
+<span class="lineNumber">73</span>beschiden, und nach vilfeltiger verhore und <br/>
+<span class="lineNumber">74</span>underhandlung dahien vermöcht, das sie alle <br/>
+<span class="lineNumber">75</span>und ide irrung und zwitracht, die restitucion <br/>
+<span class="lineNumber">76</span>und strittigen artickhel betreffende, welche <br/>
+<span class="lineNumber">77</span>bede obgenant parthyen von wegen ire selbs <br/>
+<span class="lineNumber">78</span>furgetragen hetten vor den stenden des bunds, <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-2v"> [Blatt: 2<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">79</span>in krafft irer habenden gewelt<a class="fnNumber" href="#F_34" id="A_34">34</a> zu unserer <br/>
+<span class="lineNumber">80</span>erkandtnis<a class="fnNumber" href="#F_35" id="A_35">35</a> und ußspruche<a class="fnNumber" href="#F_36" id="A_36">36</a> gesetzt, auch uns <br/>
+<span class="lineNumber">81</span>by gutten treuen und glauben zugesagt, was <br/>
+<span class="lineNumber">82</span>wir hierinnen machen, ordnen<a class="fnNumber" href="#F_37" id="A_37">37</a> und sprechen<a class="fnNumber" href="#F_38" id="A_38">38</a>, <br/>
+<span class="lineNumber">83</span>demselben also treulich nachzukhomen, daruff <br/>
+<span class="lineNumber">84</span>wir sie dan vertragen und entscheiden haben, <br/>
+<span class="lineNumber">85</span>wie hernachvolgt:
+<span class="lineNumber">86</span><span class="article_added">[Art. 1]</span> Erstlich soll <button class="entity #albrecht_mainz person" data-ref="albrecht_mainz" data-type="person" id="d2e689">unnser gnedigster her, der cardinal </button><br/>
+<span class="lineNumber">87</span><button class="entity #albrecht_mainz person" data-ref="albrecht_mainz" data-type="person" id="d2e689">und ertzbischoff zu Meintz und churfurst etc.</button>, <br/>
+<span class="lineNumber">88</span>einem rathe und gemeinde der stat <button class="entity #erfurt place" data-ref="erfurt" data-type="place" id="d2e696">Ertfurt</button> <br/>
+<span class="lineNumber">89</span>begeben<a class="fnNumber" href="#F_39" id="A_39">39</a> und uß sonndern gnaden und chur-<br/>
+<span class="lineNumber">90</span>furstlichem gemute alle und ide<a class="fnNumber" href="#F_40" id="A_40">40</a> ungnade, <br/>
+<span class="lineNumber">91</span>so sein churfurstlich gnade von wegen der <br/>
+<span class="lineNumber">92</span>beuerischen uffrur<a class="fnNumber" href="#F_41" id="A_41">41</a> gegen inen gefaßt und <br/>
+<span class="lineNumber">93</span>bißhere getragen hat, nachlasßen<a class="fnNumber" href="#F_42" id="A_42">42</a>, entgegen <br/>
+<span class="lineNumber">94</span>sich auch die von <button class="entity #erfurt place" data-ref="erfurt" data-type="place" id="d2e730">Ertfurt</button> gegen sein chur-<br/>
+<span class="lineNumber">95</span>furstlichen gnaden, als getreuen underthonen <br/>
+<span class="lineNumber">96</span>wole geburt<a class="fnNumber" href="#F_43" id="A_43">43</a> und zusteet<a class="fnNumber" href="#F_44" id="A_44">44</a>, halten.
+<span class="lineNumber">97</span><span class="article_added">[Art. 2]</span> Zum anndern dieweile <button class="entity #albrecht_mainz person" data-ref="albrecht_mainz" data-type="person" id="d2e756">unnserm gnedigsten herren </button><br/>
+<span class="lineNumber">98</span><button class="entity #albrecht_mainz person" data-ref="albrecht_mainz" data-type="person" id="d2e756">von Meintz</button> in beuerischer uffrur<a class="fnNumber" href="#F_45" id="A_45">45</a> seiner chur-<br/>
+<span class="lineNumber">99</span>furstlichen gnaden hoffe zu <button class="entity #erfurt place" data-ref="erfurt" data-type="place" id="d2e771">Ertfurt</button>, auch an <br/>
+<span class="lineNumber">100</span>zollen, meuthen<a class="fnNumber" href="#F_46" id="A_46">46</a> und saltzgefellen <a class="fnNumber" href="#F_47" id="A_47">47</a> ein merck-<br/>
+<span class="lineNumber">101</span>licher<a class="fnNumber" href="#F_48" id="A_48">48</a> und grosßer schade und abgang<a class="fnNumber" href="#F_49" id="A_49">49</a> zugefugt <br/>
+<span class="lineNumber">102</span>worden, soll ein rathe von <button class="entity #erfurt place" data-ref="erfurt" data-type="place" id="d2e798">Ertfurt</button> verfugen, <br/>
+<span class="lineNumber">103</span>darob und dorumb gut sein<a class="fnNumber" href="#F_50" id="A_50">50</a>, das <button class="entity #albrecht_mainz person" data-ref="albrecht_mainz" data-type="person" id="d2e806">seinen chur-</button><br/>
+<span class="lineNumber">104</span><button class="entity #albrecht_mainz person" data-ref="albrecht_mainz" data-type="person" id="d2e806">furstlichen gnaden</button> in derselben hoff zu <button class="entity #erfurt place" data-ref="erfurt" data-type="place" id="d2e816"> Ert-</button><br/>
+<span class="lineNumber">105</span><button class="entity #erfurt place" data-ref="erfurt" data-type="place" id="d2e816">furt</button> auff hernachbestimpt zeit gegeben unnd <br/>
+<span class="lineNumber">106</span>erlegt werden zwey taußent und funffhundert <br/>
+<span class="lineNumber">107</span>guldin in grober muntz guter ertfurdischer werung, <br/>
+<span class="lineNumber">108</span>nemlich auff den nechstkomenden, des heilligen <br/>
+<span class="lineNumber">109</span>bischoffs, beichtigers und des ertzstiffts <button class="entity #mainz_kurfuerstentum place" data-ref="mainz_kurfuerstentum" data-type="place" id="d2e837">Meintz</button> <br/>
+<span class="lineNumber">110</span>sonndern patrons<a class="fnNumber" href="#F_51" id="A_51">51</a> sant Martins tag<a class="fnNumber" href="#F_52" id="A_52">52</a> funffhundert <br/>
+<span class="lineNumber">111</span>guldin, und dornach uber ein jare im ein unnd <br/>
+<span class="lineNumber">112</span>dryssigsten ein taußent, und auff den dritten <br/>
+<span class="lineNumber">113</span>sant Martins tag, so man der mindern zale<a class="fnNumber" href="#F_53" id="A_53">53</a> <br/>
+<span class="lineNumber">114</span>im zwey und dreissigsten zelen wirt, das <br/>
+<span class="lineNumber">115</span>letzst Taußent gulden, alles gegen geburlicher <br/>
+<span class="lineNumber">116</span>quittung.
+<span class="lineNumber">117</span><span class="article_added">[Art. 3]</span> Zum dritten: Nachdem in beuerischer auffrür <br/>
+<span class="lineNumber">118</span>von den zweien, unser lieben frauen unnd <br/>
+<span class="lineNumber">119</span>sant Severs stifften<a class="fnNumber" href="#F_54" id="A_54">54</a>, auch andern gotsheußern <br/>
+<span class="lineNumber">120</span>vil silberin kleinot<a class="fnNumber" href="#F_55" id="A_55">55</a>, golde, perlin und edel-<br/>
+<span class="lineNumber">121</span>gestein, auch ander kirchen zirde genomen <br/>
+<span class="lineNumber">122</span>worden, sol ein rathe zu <button class="entity #erfurt place" data-ref="erfurt" data-type="place" id="d2e899">Ertfurt</button> alle und <br/>
+<span class="lineNumber">123</span>ide edelgestein, perle, perlecreutz und alle <br/>
+<span class="lineNumber">124</span>ander kirchen getzirden, so noch furhannden, <br/>
+<span class="lineNumber">125</span>den stifften und gotsheußern, denen sie entwent, <br/>
+<span class="lineNumber">126</span>widerumb by guttem trauen und glauben auff <br/>
+<span class="lineNumber">127</span>sontag Reminiscere<a class="fnNumber" href="#F_56" id="A_56">56</a> schirstkunfftig<a class="fnNumber" href="#F_57" id="A_57">57</a> in by sein<a class="fnNumber" href="#F_58" id="A_58">58</a> <br/>
+<span class="lineNumber">128</span>eins <button class="entity #albrecht_mainz person" data-ref="albrecht_mainz" data-type="person" id="d2e927">unnsers gnedigsten herren von Meintz</button> <br/>
+<span class="lineNumber">129</span>gesandten, alles <button class="entity #albrecht_mainz person" data-ref="albrecht_mainz" data-type="person" id="d2e932">sein churfurstlichen gnaden</button> <br/>
+<span class="lineNumber">130</span>und den von <button class="entity #erfurt place" data-ref="erfurt" data-type="place" id="d2e937">Ertfurt</button> in ander wege an iren <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-3v"> [Blatt: 3<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">131</span>gerechtigkeiten gentzlich unvergrifflich,<a class="fnNumber" href="#F_59" id="A_59">59</a> zustellen, <br/>
+<span class="lineNumber">132</span>und dieweile<a class="fnNumber" href="#F_60" id="A_60">60</a> die silberin und guldin kirchen-<br/>
+<span class="lineNumber">133</span>getzirden von denen von <button class="entity #erfurt place" data-ref="erfurt" data-type="place" id="d2e960">Ertfurt</button> geschmeltzt<a class="fnNumber" href="#F_61" id="A_61">61</a>, <br/>
+<span class="lineNumber">134</span>zu gelt gemacht und in scheinbarlichen<a class="fnNumber" href="#F_62" id="A_62">62</a> nutz <br/>
+<span class="lineNumber">135</span>gemeiner stat gewendt<a class="fnNumber" href="#F_63" id="A_63">63</a> worden sindt, so <br/>
+<span class="lineNumber">136</span>soll ein rathe zu <button class="entity #erfurt place" data-ref="erfurt" data-type="place" id="d2e980">Ertfurt</button> den stifften unnd <br/>
+<span class="lineNumber">137</span>gotßheußern auff nachuolgende frischten<a class="fnNumber" href="#F_64" id="A_64">64</a> und <br/>
+<span class="lineNumber">138</span>masße zustellen, uberantworten und geben <br/>
+<span class="lineNumber">139</span>zwolffhundert marckh fhein silbers, Ertfur-<br/>
+<span class="lineNumber">140</span>disch gewichts, nemlich soll ein rathe auff <br/>
+<span class="lineNumber">141</span>den nechstkunfftigen sant Martins tag <br/>
+<span class="lineNumber">142</span>der mindern zale im achtunddryssigsten jare <br/>
+<span class="lineNumber">143</span>anfahen und der geistligkheit zu <button class="entity #erfurt place" data-ref="erfurt" data-type="place" id="d2e1009">Ertfurt</button> <br/>
+<span class="lineNumber">144</span>geben und zustellen funfftzig marckh fhein <br/>
+<span class="lineNumber">145</span>silbers, und volgende auff einen iden <br/>
+<span class="lineNumber">146</span>sant Martins tage von jaren zu jaren <br/>
+<span class="lineNumber">147</span>funfftzig marckh fhein silbers, so lange <br/>
+<span class="lineNumber">148</span>biß sie die obgenant somma<a class="fnNumber" href="#F_65" id="A_65">65</a> der zwolffhundert <br/>
+<span class="lineNumber">149</span>marckh entricht und betzalt haben; und solich <br/>
+<span class="lineNumber">150</span>silber, so zu ider frischt uberantwort wirt, <br/>
+<span class="lineNumber">151</span>soll nach ordnung <button class="entity #albrecht_mainz person" data-ref="albrecht_mainz" data-type="person" id="d2e1033">unnsers gnedigsten herren </button><br/>
+<span class="lineNumber">152</span><button class="entity #albrecht_mainz person" data-ref="albrecht_mainz" data-type="person" id="d2e1033">von Meintz</button> under die gotsheußer nach gele-<br/>
+<span class="lineNumber">153</span>genheit<a class="fnNumber" href="#F_66" id="A_66">66</a> geteilt, und doch in kheinen andern <br/>
+<span class="lineNumber">154</span>wege dan zu silberin oder guldin gefesßen <br/>
+<span class="lineNumber">155</span>und zierden, mit eins rats zu <button class="entity #erfurt place" data-ref="erfurt" data-type="place" id="d2e1051">Ertfurdt</button> <br/>
+<span class="lineNumber">156</span>wisßen, gewendt werden und doselbst <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-4r"> [Blatt: 4<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">157</span>onveruckt ewiglich bleiben.
+<span class="lineNumber">158</span><span class="article_added">[Art. 4]</span> Zum Vierdten sollen die von <button class="entity #erfurt place" data-ref="erfurt" data-type="place" id="d2e1068">Ertfurt</button> verfugen, <br/>
+<span class="lineNumber">159</span>das alle gerichtsheußer und stule<a class="fnNumber" href="#F_67" id="A_67">67</a>, geistlich <br/>
+<span class="lineNumber">160</span>und weltlich, auffgericht, die schlusßel dortzu<a class="fnNumber" href="#F_68" id="A_68">68</a> <br/>
+<span class="lineNumber">161</span>den Meintzischen zugestelt, und also alle <br/>
+<span class="lineNumber">162</span>gericht ganckhafftig gemacht<a class="fnNumber" href="#F_69" id="A_69">69</a> werden, und <br/>
+<span class="lineNumber">163</span>onverhindert der von <button class="entity #erfurt place" data-ref="erfurt" data-type="place" id="d2e1091">Ertfurt</button> iren fryen <br/>
+<span class="lineNumber">164</span>lauffe haben, es solle auch des nachrichters<a class="fnNumber" href="#F_70" id="A_70">70</a> <br/>
+<span class="lineNumber">165</span>hauß und der gag<a class="fnNumber" href="#F_71" id="A_71">71</a> in aller forme und <br/>
+<span class="lineNumber">166</span>standt, auch das zollehauß in der grosß <br/>
+<span class="lineNumber">167</span>und höhe, wie das vor der beuerischen <br/>
+<span class="lineNumber">168</span>uffrur gebauen gewest ist, vnd ides der <br/>
+<span class="lineNumber">169</span>obgemelten stuckh an das ort, da es vor <br/>
+<span class="lineNumber">170</span>der offtgenanten uffrur gestanden, hie und <br/>
+<span class="lineNumber">171</span>zwischen sant Jacobs des heilligen zwolff-<br/>
+<span class="lineNumber">172</span>botten<a class="fnNumber" href="#F_72" id="A_72">72</a> tage<a class="fnNumber" href="#F_73" id="A_73">73</a> gesetzt und erbauen, und dem <br/>
+<span class="lineNumber">173</span>wachter unser lieben frauen stifft, dorin <br/>
+<span class="lineNumber">174</span>zuwonen, wie hievor auch gebreuchlich gewest, <br/>
+<span class="lineNumber">175</span>vergondt werden, ob auch kunfftiger Zeit <br/>
+<span class="lineNumber">176</span>der obgemelten stuckh eins oder mere bau-<br/>
+<span class="lineNumber">177</span>fellig wurden, soll <button class="entity #albrecht_mainz person" data-ref="albrecht_mainz" data-type="person" id="d2e1147">unser gnedigster herr </button><br/>
+<span class="lineNumber">178</span><button class="entity #albrecht_mainz person" data-ref="albrecht_mainz" data-type="person" id="d2e1147">von Meintz</button> dieselben zubesßern oder von <br/>
+<span class="lineNumber">179</span>neuem, doch in der alten forme zubauen <br/>
+<span class="lineNumber">180</span>macht haben.
+<span class="lineNumber">181</span><span class="article_added">[Art. 5]</span> Zum funfften sollen die von <button class="entity #erfurt place" data-ref="erfurt" data-type="place" id="d2e1164">Ertfurt</button> verfugen, <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-4v"> [Blatt: 4<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">182</span>das die saltz kreme<a class="fnNumber" href="#F_74" id="A_74">74</a> widerumb auff den marck, <br/>
+<span class="lineNumber">183</span>doruff sie vor gestanden, wole und recht <br/>
+<span class="lineNumber">184</span>erbaut, doch sollen die nach der zwerche<a class="fnNumber" href="#F_75" id="A_75">75</a> <br/>
+<span class="lineNumber">185</span>desselben marcks, wie die hievor nach der <br/>
+<span class="lineNumber">186</span>lenge<a class="fnNumber" href="#F_76" id="A_76">76</a> doruff gestanden, gesetzt werden, <br/>
+<span class="lineNumber">187</span>alles <button class="entity #albrecht_mainz person" data-ref="albrecht_mainz" data-type="person" id="d2e1192">unserm gnedigsten herren von Meintz</button> <br/>
+<span class="lineNumber">188</span>an seiner churfurstlichen gnaden saltzgerech-<br/>
+<span class="lineNumber">189</span>tigkheit<a class="fnNumber" href="#F_77" id="A_77">77</a> onvergrifflich.
+<span class="lineNumber">190</span><span class="article_added">[Art. 6]</span> Zum Sechsten sollen in den zweyen stifften<a class="fnNumber" href="#F_78" id="A_78">78</a> <br/>
+<span class="lineNumber">191</span>und zu Sant Peter nach altem herkomen <br/>
+<span class="lineNumber">192</span>und christenlicher alter ordnung gesungen <br/>
+<span class="lineNumber">193</span>und gehalten werden, onverhindert eins rats <br/>
+<span class="lineNumber">194</span>und gemeinde der stat <button class="entity #erfurt place" data-ref="erfurt" data-type="place" id="d2e1225">Ertfurdt</button>, auch in <br/>
+<span class="lineNumber">195</span>denselben zweyen stifften und zu Sant Peter <br/>
+<span class="lineNumber">196</span>nyemants zu predigen gestat werden <br/>
+<span class="lineNumber">197</span>dan den ihenigen, so von der geistlichen <br/>
+<span class="lineNumber">198</span>obergkheit itzgemelter dryer gotsheußer <br/>
+<span class="lineNumber">199</span>zugelasßen sein, aber aller ander gotsheußer <br/>
+<span class="lineNumber">200</span>halb und in sachen den glauben und ceremo-<br/>
+<span class="lineNumber">201</span>nien betreffende, wollen wir hiemit und <br/>
+<span class="lineNumber">202</span>ditzmals kheiner parthy ichtz<a class="fnNumber" href="#F_79" id="A_79">79</a> gegeben, genomen, <br/>
+<span class="lineNumber">203</span>erlaubt oder verbotten haben,
+<span class="lineNumber">204</span><span class="article_added">[Art. 7]</span> Zum Sibenden, so wollen wir dißen der <br/>
+<span class="lineNumber">205</span>parthyen verwilligten vertrag und unnser <br/>
+<span class="lineNumber">206</span>underhandlung den stenden des bunds auff <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-5r"> [Blatt: 5<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">207</span>nechstkunfftigen bundstag, so zu <button class="entity #augsburg place" data-ref="augsburg" data-type="place" id="d2e1271">Augspurg</button> <br/>
+<span class="lineNumber">208</span>uff den zwey und zweintzigsten tag diß <br/>
+<span class="lineNumber">209</span>gegenwurtigen monats angesetzt ist, fur-<br/>
+<span class="lineNumber">210</span>tragen, und soll zu derselben gefallen steen<a class="fnNumber" href="#F_80" id="A_80">80</a>, <br/>
+<span class="lineNumber">211</span>ob under iren oder unsern insigeln<a class="fnNumber" href="#F_81" id="A_81">81</a> derhalb <br/>
+<span class="lineNumber">212</span>brifflich urkhundt und vertrege auffgericht <br/>
+<span class="lineNumber">213</span>werden sollen.
+<span class="lineNumber">214</span>Vnd dieweile der receß, durch die stende des <br/>
+<span class="lineNumber">215</span>bunds zu <button class="entity #augsburg place" data-ref="augsburg" data-type="place" id="d2e1308">Augspurg</button> geben, vermage<a class="fnNumber" href="#F_82" id="A_82">82</a> und will, <br/>
+<span class="lineNumber">216</span>das wir nach erlangter restitucion, zu hinlegung<a class="fnNumber" href="#F_83" id="A_83">83</a> <br/>
+<span class="lineNumber">217</span>aller anderer irrung<a class="fnNumber" href="#F_84" id="A_84">84</a>, zwischen den obgemelten <br/>
+<span class="lineNumber">218</span>parthyen <a class="fnNumber" href="#F_b" id="A_b">b</a>schwebende, gutlich oder<a class="fnNumber" href="#F_b">b</a> in ander <br/>
+<span class="lineNumber">219</span>wege mit guttem flyß<a class="fnNumber" href="#F_85" id="A_85">85</a> handeln sollen, <br/>
+<span class="lineNumber">220</span>haben wir uns der hernachvolgenden artickel <br/>
+<span class="lineNumber">221</span>(welch die parthyen uff hindersich bringen<a class="fnNumber" href="#F_86" id="A_86">86</a> <br/>
+<span class="lineNumber">222</span>angenomen) entschlosßen:
+<span class="lineNumber">223</span><span class="article_added">[Art. 8]</span> Erstlich soll ein rathe zu <button class="entity #erfurt place" data-ref="erfurt" data-type="place" id="d2e1354">Ertfurt</button> den briff, <br/>
+<span class="lineNumber">224</span>so jnen die geistligheit doselbst gegeben, <br/>
+<span class="lineNumber">225</span>anfahende: "Wir Paulus schulmeister, Si-<br/>
+<span class="lineNumber">226</span>gismundus senior etc," des datum wyßt<a class="fnNumber" href="#F_87" id="A_87">87</a> nach <br/>
+<span class="lineNumber">227</span>Christi unsers herren geburt im funfftzehen-<br/>
+<span class="lineNumber">228</span>hundert und ein und zweintzigsten jare montags <br/>
+<span class="lineNumber">229</span>nach Sant Jacoben des heilligen zwölffbotten<a class="fnNumber" href="#F_88" id="A_88">88</a> <br/>
+<span class="lineNumber">230</span>tag<a class="fnNumber" href="#F_89" id="A_89">89</a>, den stenden des bunds zu <button class="entity #schwaben_reichskreis place" data-ref="schwaben_reichskreis" data-type="place" id="d2e1394">Schwaben</button>, zu-<br/>
+<span class="lineNumber">231</span>stellen, und uff nechstkunfftigen bundstag <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-5v"> [Blatt: 5<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">232</span>gein <button class="entity #augsburg place" data-ref="augsburg" data-type="place" id="d2e1409">Augspurg</button> uberantworten lasßen, auch <br/>
+<span class="lineNumber">233</span>onvertzoglich alle und ide beschwerung, so <br/>
+<span class="lineNumber">234</span>ein rathe nach empfahung desselben briffs <br/>
+<span class="lineNumber">235</span>uff die geistligkheit gelegt hetten, abthon<a class="fnNumber" href="#F_90" id="A_90">90</a>, <br/>
+<span class="lineNumber">236</span>ongeverde<a class="fnNumber" href="#F_91" id="A_91">91</a>, dieweile aber in demselben <br/>
+<span class="lineNumber">237</span>briffe mehe dan ein Artickhel begriffen, <br/>
+<span class="lineNumber">238</span>welchs sich die geistligkheit gor nit be-<br/>
+<span class="lineNumber">239</span>schweren<a class="fnNumber" href="#F_92" id="A_92">92</a> mögen, sunder in gemeinem <br/>
+<span class="lineNumber">240</span>rechten und aller billigkheit<a class="fnNumber" href="#F_93" id="A_93">93</a> gegrundt sindt, <br/>
+<span class="lineNumber">241</span>so solle der geistlicheit, auch denen von <button class="entity #erfurt place" data-ref="erfurt" data-type="place" id="d2e1448">Ert-</button><br/>
+<span class="lineNumber">242</span><button class="entity #erfurt place" data-ref="erfurt" data-type="place" id="d2e1448">furt</button>, bevorsteen<a class="fnNumber" href="#F_94" id="A_94">94</a>, sich mit wisßen und <br/>
+<span class="lineNumber">243</span>willen <button class="entity #albrecht_mainz person" data-ref="albrecht_mainz" data-type="person" id="d2e1461">unsers gnedigsten herren von Meintz</button> <br/>
+<span class="lineNumber">244</span>dero zuvertragen, und welche artickhel <br/>
+<span class="lineNumber">245</span>dornach strittig wurden, die sollen in das <br/>
+<span class="lineNumber">246</span>furgenomen compromiß getzogen<a class="fnNumber" href="#F_95" id="A_95">95</a> und in <br/>
+<span class="lineNumber">247</span>krafft desselben entledigt<a class="fnNumber" href="#F_96" id="A_96">96</a> werden.
+<span class="lineNumber">248</span>Daentgegen und nit anderst sol <button class="entity #albrecht_mainz person" data-ref="albrecht_mainz" data-type="person" id="d2e1484">unser gnedigst </button><br/>
+<span class="lineNumber">249</span><button class="entity #albrecht_mainz person" data-ref="albrecht_mainz" data-type="person" id="d2e1484">herr von Meintz</button> und die geistligkeit zu <button class="entity #erfurt place" data-ref="erfurt" data-type="place" id="d2e1489">Ertfurt</button>, <br/>
+<span class="lineNumber">250</span>auch alle und ide sonder persone<a class="fnNumber" href="#F_97" id="A_97">97</a>, sein chur-<br/>
+<span class="lineNumber">251</span>furstlichen gnaden und der geistlicheit doselbst <br/>
+<span class="lineNumber">252</span>zugehorig, fallen lasßen und begeben alle und <br/>
+<span class="lineNumber">253</span>ide spruch<a class="fnNumber" href="#F_98" id="A_98">98</a> und fordrung, so denselben sondern <br/>
+<span class="lineNumber">254</span>personen uß den zweyen sturmen<a class="fnNumber" href="#F_99" id="A_99">99</a> der heußer <br/>
+<span class="lineNumber">255</span>und in der beuerischen uffrur erwachßen<a class="fnNumber" href="#F_100" id="A_100">100</a>, <br/>
+<span class="lineNumber">256</span>wie hohe und groß die geschetzt, angeschlagen<a class="fnNumber" href="#F_101" id="A_101">101</a> <br/>
+<span class="lineNumber">257</span>oder taxirt werden mochten, dan sein chur-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-6r"> [Blatt: 6<span class="rectoVerso">r</span> ] </button><br/>
+<span class="lineNumber">258</span>furstlich gnade sich derselben aller von wegen <br/>
+<span class="lineNumber">259</span>frids und einigkheit mechtiglich und gegen <br/>
+<span class="lineNumber">260</span>uberantwortung des obangetzeigten briffs <br/>
+<span class="lineNumber">261</span>oder<a class="fnNumber" href="#F_c" id="A_c">c </a> verschreibung hintzulegen<a class="fnNumber" href="#F_102" id="A_102">102</a> und gentzlich <br/>
+<span class="lineNumber">262</span>ußzuleschen understanden haben will.
+<span class="lineNumber">263</span>Deßgleichen so soll die geistlicheit gegen uber <br/>
+<span class="lineNumber">264</span>antwortung der vil und itzgemelten ver-<br/>
+<span class="lineNumber">265</span>schreibung, den zehen taußent guldin, <br/>
+<span class="lineNumber">266</span>welche sie in krafft derselben betzalt <br/>
+<span class="lineNumber">267</span>haben, gutlich und fruntlich nachsehen, und <br/>
+<span class="lineNumber">268</span>solich in ewig zeit nit mehe fordern,
+<span class="lineNumber">269</span><span class="article_added">[Art. 9]</span> Zum andern sollen bede parthyen ire volmech-<br/>
+<span class="lineNumber">270</span>tig anwelde gein<a class="fnNumber" href="#F_103" id="A_103">103</a> <button class="entity #augsburg place" data-ref="augsburg" data-type="place" id="d2e1596">Augspurg</button> verordnen, oder <br/>
+<span class="lineNumber">271</span>den stenden des bunds under iren secreten<a class="fnNumber" href="#F_104" id="A_104">104</a> <br/>
+<span class="lineNumber">272</span>zuschreiben und bitlich ersuchen, das dieselben <br/>
+<span class="lineNumber">273</span>durch sich oder ire verordneten alle andere <br/>
+<span class="lineNumber">274</span>schwebende irrungen hintzulegen bemuhen <br/>
+<span class="lineNumber">275</span>und deßhalb ein ungeweigert<a class="fnNumber" href="#F_105" id="A_105">105</a> compromiß <br/>
+<span class="lineNumber">276</span>mit solicher schleunigkheit uffrichten, das <br/>
+<span class="lineNumber">277</span>solich irrung alle zwischen hie und dem nechsten <br/>
+<span class="lineNumber">278</span>Sant Martins tag mögen entledigt werden
+<span class="lineNumber">279</span>Und des zu urkhundt, haben wir diß unsers <br/>
+<span class="lineNumber">280</span>entscheidts und gutlichen vertrags ider parthy <br/>
+<span class="lineNumber">281</span>ein schrifft, mit unnsern insigeln unnd <br/>
+<span class="lineNumber">282</span>thaumringen<a class="fnNumber" href="#F_106" id="A_106">106</a> bevesthnet<a class="fnNumber" href="#F_107" id="A_107">107</a> und mit unsern <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-6v"> [Blatt: 6<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">283</span>handen und Namen underschriben, gegeben, <br/>
+<span class="lineNumber">284</span>zu <button class="entity #hammelburg place" data-ref="hammelburg" data-type="place" id="d2e1653">Hamelburg</button> am samstag nach Purifi-<br/>
+<span class="lineNumber">285</span>cacionis Marie im funfftzehenhundert und <br/>
+<span class="lineNumber">286</span>dreissigsten jare,<a class="fnNumber" href="#F_108" id="A_108">108</a>
+<span class="lineNumber">287</span><button class="entity #burkhard_franz person" data-ref="burkhard_franz" data-type="person" id="d2e1676">Franciscus Burgkhardt</button> <br/>
+<span class="lineNumber">288</span>Iuris Pontificii professor<a class="fnNumber" href="#F_109" id="A_109">109</a>
+<span class="lineNumber">289</span><button class="entity #bibra_wolfgang person" data-ref="bibra_wolfgang" data-type="person" id="d2e1688">Wolffgang von Bibra</button> <br/>
+<span class="lineNumber">290</span>comenthor <span class="orig">etc</span><span class="reg">[et cetera]</span> <span class="orig">sst</span><span class="reg">[subscripsit]</span>
+<span class="lineNumber">291</span><button class="entity #fessner_niklas person" data-ref="fessner_niklas" data-type="person" id="d2e1703">Niclauß Feßner</button> burgermaister <br/>
+<span class="lineNumber">292</span>zu <button class="entity #noerdlingen place" data-ref="noerdlingen" data-type="place" id="d2e1708">Nördlingen</button><a class="fnNumber" href="#F_d" id="A_d">d</a>

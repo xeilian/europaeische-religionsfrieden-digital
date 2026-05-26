@@ -1,0 +1,266 @@
+<span class="lineNumber">1</span>Kundt und zu wissen sey menniglich: <br/>
+<span class="lineNumber">2</span>Demnach in vor Jahren<a class="fnNumber" href="#F_1" id="A_1">1</a> ein regirender furst unndt Abbt deß <br/>
+<span class="lineNumber">3</span><button class="entity #fulda_hochstift place" data-ref="fulda_hochstift" data-type="place" id="d2e895">Stifts Fulda</button>, sambt gesambtem Capitull, mit gemeiner Ritterschaft <br/>
+<span class="lineNumber">4</span>deßelben <button class="entity #fulda_hochstift place" data-ref="fulda_hochstift" data-type="place" id="d2e901">Stifts</button>, unndt Sie hinwider mit ihren furstlichen genaden <br/>
+<span class="lineNumber">5</span>unndt Ehrwurden in genedigem, guten unndt underthenigem ver-<br/>
+<span class="lineNumber">6</span>trauen gewesen, dardurch von allen seiten ersprießliches uf-<br/>
+<span class="lineNumber">7</span>nehmen<a class="fnNumber" href="#F_2" id="A_2">2</a> ervolgt unndt verderblicher schadt verhütet worden, ain <br/>
+<span class="lineNumber">8</span>zeithero aber wegen vieler entstandener, mißhelliger Irrsalen<a class="fnNumber" href="#F_3" id="A_3">3</a> undt <br/>
+<span class="lineNumber">9</span>differentien weit ausehende<a class="fnNumber" href="#F_4" id="A_4">4</a> gefehrliche Trennungen sich erreget, <br/>
+<span class="lineNumber">10</span>welche, wohe<a class="fnNumber" href="#F_5" id="A_5">5</a> denen nicht in zeit<a class="fnNumber" href="#F_6" id="A_6">6</a> vorgebauedt<a class="fnNumber" href="#F_7" id="A_7">7</a> unndt ihre ab-<br/>
+<span class="lineNumber">11</span>hilfliche erledigung<a class="fnNumber" href="#F_8" id="A_8">8</a> gegeben würden, nicht allein zu mercklicher <br/>
+<span class="lineNumber">12</span>zerrüttung, sondern auch leichtlichen zu verderblichem undergang <br/>
+<span class="lineNumber">13</span>deß <button class="entity #fulda_hochstift place" data-ref="fulda_hochstift" data-type="place" id="d2e960">Stiffts</button> in disen, ohne daß [so] schwürigen<a class="fnNumber" href="#F_9" id="A_9">9</a> Leüfften<a class="fnNumber" href="#F_10" id="A_10">10</a> gereichen möchten. <br/>
+<span class="lineNumber">14</span>Also haben wir, <button class="entity #johann_friedrich_fulda person" data-ref="johann_friedrich_fulda" data-type="person" id="d2e971">Johan Friderich</button>, von Gottes genaden Abbt deß <br/>
+<span class="lineNumber">15</span><button class="entity #fulda_hochstift place" data-ref="fulda_hochstift" data-type="place" id="d2e976">Stiffts Fuldt</button>, Römischer Kheiserin Ertzcantzler, durch Germanien <br/>
+<span class="lineNumber">16</span>unndt Gallien Primas etc.,<a class="fnNumber" href="#F_11" id="A_11">11</a> undt wir, daß Capittell deselben <button class="entity #fulda_hochstift place" data-ref="fulda_hochstift" data-type="place" id="d2e987">Stifts</button> <br/>
+<span class="lineNumber">17</span>ins gemein, mit dem Ausschuß dero Ritterschaft solches zu bedächt-<br/>
+<span class="lineNumber">18</span>lichem gemüth<a class="fnNumber" href="#F_12" id="A_12">12</a> gezogen undt nach zeitlicher, reiffer betrachtung <br/>
+<span class="lineNumber">19</span>aller umbstendiger gelegenheit nochmals nichts vorträglichers <br/>
+<span class="lineNumber">20</span>zu beharlicher<a class="fnNumber" href="#F_13" id="A_13">13</a> Continuirung friedliches wesens unndt abwendung <br/>
+<span class="lineNumber">21</span>besorglichen unheils befunden, dan daß die alte, vertrauliche ai-<br/>
+<span class="lineNumber">22</span>nigkeit durch abhelffung dero albereidt<a class="fnNumber" href="#F_14" id="A_14">14</a> zuviel eingerissenen mißver-<br/>
+<span class="lineNumber">23</span>stendigen gebrechen<a class="fnNumber" href="#F_15" id="A_15">15</a> vortgesetzet unndt, alß vermittelst Gottes <br/>
+<span class="lineNumber">24</span>genediger verleyhung, allerseits verhofftes uffnehmen<a class="fnNumber" href="#F_16" id="A_16">16</a> beharlich <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-Bl. 1v"> [Blatt: Bl. 1<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">25</span>geflantzt werde, unndt darauf, nach genugsamen, reiffen bedacht<a class="fnNumber" href="#F_17" id="A_17">17</a> undt <br/>
+<span class="lineNumber">26</span>wohlgegründem Rath, auß obangeregten unndt viel andern nottring¬<br/>
+<span class="lineNumber">27</span>lichen bewegnußen, unß mit Ihnen folgender maßen Endtlich <br/>
+<span class="lineNumber">28</span>unndt wirglich<a class="fnNumber" href="#F_18" id="A_18">18</a> vor unß unndt aller dero von der Ritterschafft Erben, <br/>
+<span class="lineNumber">29</span>Erbnehmen unndt Lehensvolgern verglichen unndt vereinbahret:
+<span class="lineNumber">30</span>Anfencklichen, so zu Kunfftigen zeiten ein Abbt von gemeinem<a class="fnNumber" href="#F_19" id="A_19">19</a> <br/>
+<span class="lineNumber">31</span>Capitul, oder mehrertheil derselben, ordentlich erwehlet oder postu-<br/>
+<span class="lineNumber">32</span>lirt<a class="fnNumber" href="#F_20" id="A_20">20</a>, daß die von der Ritterschafft, so baldt Ihnen solches wißendt <br/>
+<span class="lineNumber">33</span>gemacht, denselben vor deß <button class="entity #fulda_hochstift place" data-ref="fulda_hochstift" data-type="place" id="d2e1087">Stiffts Fuldt</button> Fursten unndt hern in <br/>
+<span class="lineNumber">34</span>schuldiger gebür<a class="fnNumber" href="#F_21" id="A_21">21</a> erkennen, zu ehren unndt zu halten deten unndt <br/>
+<span class="lineNumber">35</span>Ihres <button class="entity #fulda_hochstift place" data-ref="fulda_hochstift" data-type="place" id="d2e1097">Stiffts</button> nutzlichen frommen<a class="fnNumber" href="#F_22" id="A_22">22</a> zu prüffen unndt schaden zu war-<br/>
+<span class="lineNumber">36</span>nen, ihren F<span class="ex">[ürstlichen]</span> G<span class="ex">[naden]</span>, dabeneben auch einem dechandt, anstatt deß<a class="fnNumber" href="#F_a" id="A_a">a</a> gantzen Capitulls, uff die <br/>
+<span class="lineNumber">37</span>zuvor unndt hierinnen zwischen dem Fursten undt Ihnen bedingte <br/>
+<span class="lineNumber">38</span>fall mit handtgebenden treüen<a class="fnNumber" href="#F_23" id="A_23">23</a> angeloben unndt darauf Ihre Lehenß-<br/>
+<span class="lineNumber">39</span>Pflicht bisheriger ubligkeit gemes leisten sollen unndt wollen.
+<span class="lineNumber">40</span>So dan vors Ander: Ob wohl bisdahero höchlichen Im streit gewesen, <br/>
+<span class="lineNumber">41</span>ob die von der Ritterschafft tam in personalibus actionibus quam <br/>
+<span class="lineNumber">42</span>in realibus<a class="fnNumber" href="#F_24" id="A_24">24</a> vor einem Regirenden hern unndt deßen verordtneten <br/>
+<span class="lineNumber">43</span>Marschalcken, Cantzlar unndt Rethen uff erfordern<a class="fnNumber" href="#F_25" id="A_25">25</a> zu erscheinen schul-<br/>
+<span class="lineNumber">44</span>dig, So ist doch diser Paß<a class="fnNumber" href="#F_26" id="A_26">26</a> dahin wissentlich unndt wohlbedechtlich <br/>
+<span class="lineNumber">45</span>vermittelt unndt schließlichen betheidiget<a class="fnNumber" href="#F_27" id="A_27">27</a>, das furohin<a class="fnNumber" href="#F_28" id="A_28">28</a> die von der <br/>
+<span class="lineNumber">46</span>Ritterschafft under sich, sambt unndt sonders, so wohl in personalibus <br/>
+<span class="lineNumber">47</span>alß in realibus Causis vor Ihren F<span class="ex">[ü]</span>r<span class="ex">[stlichen]</span> G<span class="ex">[naden]</span> undt dero verordtneten er-<br/>
+<span class="lineNumber">48</span>scheinen undt one außfluchtige Exception recht nehmen und geben<a class="fnNumber" href="#F_29" id="A_29">29</a> wöllen.
+<span class="lineNumber">49</span>Als auch zum dritten dero vormunder bestettigung wegen Irrungen <br/>
+<span class="lineNumber">50</span>vorgefallen, welche so weith gerathen, daß derenthalb ein Rechtfertigung <br/>
+<span class="lineNumber">51</span>an dem kheyserlichen Cammergericht ahngesponnen<a class="fnNumber" href="#F_30" id="A_30">30</a> unnd bißdahero <br/>
+<span class="lineNumber">52</span>Continuirt worden,<a class="fnNumber" href="#F_31" id="A_31">31</a> domit dan wittiben<a class="fnNumber" href="#F_32" id="A_32">32</a> unndt weisen hierin, <br/>
+<span class="lineNumber">53</span>wie offtermals beschehen, ahn Ihren nothwendigen Tutelen<a class="fnNumber" href="#F_33" id="A_33">33</a> unndt Cura-<br/>
+<span class="lineNumber">54</span>telen<a class="fnNumber" href="#F_34" id="A_34">34</a> nicht beschwerlichen verabseümet werden mögen, Ist einge-<br/>
+<span class="lineNumber">55</span>willigeth, daß sie von der Ritterschafft hinfuro einem Regirenden <br/>
+<span class="lineNumber">56</span>Hern volgenden vormunder Eidt würcklichen leisten undt sich <br/>
+<span class="lineNumber">57</span>Ider, ohn zu recht erhebliche uhrsachen, vom vormunder bestettiung <br/>
+<span class="lineNumber">58</span>nicht ausziehen<a class="fnNumber" href="#F_35" id="A_35">35</a> unndt also hiermit erwehnte Rechtfertigung gentzlich <br/>
+<span class="lineNumber">59</span>unnd zumahl uffgehoben<a class="fnNumber" href="#F_36" id="A_36">36</a> undt erörtert sein unndt Pleiben solle. <br/>
+<span class="lineNumber">60</span>Unndt lautet nechst angeregter vormunder eydt, wie wortlich <br/>
+<span class="lineNumber">61</span>nachgeschrieben: »Ihr sollet schweren einen Eidt zue Gott <br/>
+<span class="lineNumber">62</span>unndt seinem heiligen worth, daß Ihr N. verlaßenen weysen <br/>
+<span class="lineNumber">63</span>N. unndt N. seiner hausfrauwen getreüwlich, nach bestem vermü-<br/>
+<span class="lineNumber">64</span>gen unndt verstandtnus, vor sein wollet, alle unndt Igliche sachen, <br/>
+<span class="lineNumber">65</span>vor gericht unndt außerhalb Gerichts, getreüwlich vertrethen, auch <br/>
+<span class="lineNumber">66</span>alles unndt Igliches, so denen weisen von seinen verstorbenen Vather <br/>
+<span class="lineNumber">67</span>unndt Muther in Erbschafft hinderlaßen unndt künfftiglich zufallen <br/>
+<span class="lineNumber">68</span>wirdt, getreüwlich, alles sambt undt sonderlich, wie Ihr das erst-<br/>
+<span class="lineNumber">69</span>lich befunden<a class="fnNumber" href="#F_37" id="A_37">37</a> habt, beschreiben unndt Inventiren laßen wöllet, <br/>
+<span class="lineNumber">70</span>auch eurer vormundtschafft Jerlich vor deß Pupillen<a class="fnNumber" href="#F_38" id="A_38">38</a> nechsten <br/>
+<span class="lineNumber">71</span>Freunden unndt denen, so wir Ihnen zuordtnen würden, grund-<br/>
+<span class="lineNumber">72</span>liche Rechnung unndt zu ausgang der vormundtschafft volnstendige, <br/>
+<span class="lineNumber">73</span>ohnweigerliche uberantwortung<a class="fnNumber" href="#F_39" id="A_39">39</a> thun, auch in tapferen<a class="fnNumber" href="#F_40" id="A_40">40</a> sachen mit <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-Bl. 2v"> [Blatt: Bl. 2<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">74</span>Rath unndt wißen deß <button class="entity #fulda_hochstift place" data-ref="fulda_hochstift" data-type="place" id="d2e1334">Stiffts Fuldt</button> Regirenden Abbt undt Fursten, <br/>
+<span class="lineNumber">75</span>auch der Pflegbefohlenen nechster freundt handtlen undt ferner alles <br/>
+<span class="lineNumber">76</span>unnd Ides schaffen unndt Thun, das den weisen undt Wittiben<a class="fnNumber" href="#F_41" id="A_41">41</a> <br/>
+<span class="lineNumber">77</span>zum besten ersprisen<a class="fnNumber" href="#F_42" id="A_42">42</a> unndt kommen mögen, unndt daran alles <br/>
+<span class="lineNumber">78</span>eüers vermögens nichts unterlassen, getreülich undt <br/>
+<span class="lineNumber">79</span>ohngefehrlich<a class="fnNumber" href="#F_43" id="A_43">43</a>.«
+<span class="lineNumber">80</span>So viel dan zum vierten die Reichs- unndt andere steür belengt, <br/>
+<span class="lineNumber">81</span>darvon auch zu etlich mahlen disputat entstanden, soll hinfuro <br/>
+<span class="lineNumber">82</span>die Reichssteür von der Ritterschafft unndt Ihren Leüten, darauf <br/>
+<span class="lineNumber">83</span>sie es zu erheben herpracht, ohnweigerlich erstattet, was aber ande-<br/>
+<span class="lineNumber">84</span>re Steür betriffft, soll von denen Ihnen mit gerichtbarkeit oder <br/>
+<span class="lineNumber">85</span>Vögtey angehörigen Leüthen, ohn Ihr, Ihrer Nachkommen undt ge-<br/>
+<span class="lineNumber">86</span>meiner von den Ritterschafft gütliches eingehehlen<a class="fnNumber" href="#F_44" id="A_44">44</a>, clare verwilli-<br/>
+<span class="lineNumber">87</span>gung unndt herausgebung genugsamen Reverß<a class="fnNumber" href="#F_45" id="A_45">45</a> keine erhoben, auch <br/>
+<span class="lineNumber">88</span>obgedachte von der Ritterschafft gleich dem Capitull undt etlichen <br/>
+<span class="lineNumber">89</span>von den Stetten, wie sich in allewege gebüren will, zur Einnahm, <br/>
+<span class="lineNumber">90</span>ausgab undt berechnung gezogen, auch davon keines wegs außge-<br/>
+<span class="lineNumber">91</span>schlossen, unndt der in Rechnung verpleibendt überschuß aus der Ober-<br/>
+<span class="lineNumber">92</span>einnehmer handen nicht genommen, sondern biß zu andern bewiligten <br/>
+<span class="lineNumber">93</span>Reichssteüren von denselben verwahrlich behalten werden. Als auch <br/>
+<span class="lineNumber">94</span>bei disem Posten erwogen, daß die von der Ritterschafft, gleich dem <br/>
+<span class="lineNumber">95</span>Capitull von Ihren selbst eigenen güttern bißero die Reichssteür <br/>
+<span class="lineNumber">96</span>denn Obereinnehmern nicht dargezehlet<a class="fnNumber" href="#F_46" id="A_46">46</a>, sondern in die darzu sonder-<br/>
+<span class="lineNumber">97</span>bahre<a class="fnNumber" href="#F_47" id="A_47">47</a>, gebührliche Truhen eingeworffen. So soll es inßkunfftig <span aria-label="a pagebreak without a facsimile" class="pagebreak" id="p-Bl. 3r"> [Blatt: Bl. 3<span class="rectoVerso">r</span> ] </span> <br/>
+<span class="lineNumber">98</span>dabey verleiben, gleichwohl aber ein Ider erinnert sein, keine ge-<br/>
+<span class="lineNumber">99</span>fehrde<a class="fnNumber" href="#F_48" id="A_48">48</a> zu geprauchen, sondern dero Iderzeit beschehender abredt undt <br/>
+<span class="lineNumber">100</span>beschluß gemeß, ohnverweißlich<a class="fnNumber" href="#F_49" id="A_49">49</a> sich zu bezeigen, wie auch hinge-<br/>
+<span class="lineNumber">101</span>gen ein Regirender Herr deß Stiffts dem herkommen undt der <br/>
+<span class="lineNumber">102</span>vorigen hern Äbte getroffener abredt gemeß mit einzuwerffen <br/>
+<span class="lineNumber">103</span>sich unbeschwerdt<a class="fnNumber" href="#F_50" id="A_50">50</a> erweisen wirdt.
+<span class="lineNumber">104</span>Über dises unndt zum Funften haben die von der Ritterschafft <br/>
+<span class="lineNumber">105</span>sich rundt<a class="fnNumber" href="#F_51" id="A_51">51</a>, außtrucklich unndt verbündtlich erclert, daß sie alß getreüe <br/>
+<span class="lineNumber">106</span>Vasallen, nicht allein waß Ihnen zustehet, eignet<a class="fnNumber" href="#F_52" id="A_52">52</a> unndt gebürt, <br/>
+<span class="lineNumber">107</span>einem Iderzeit Regirenden Fursten unndt hern, deßgleichen dechent <br/>
+<span class="lineNumber">108</span>unndt Capitull underthenig unndt dinstlich mit bereitester willfährig-<br/>
+<span class="lineNumber">109</span>keit leisten, sondern auch alles, waß zu erhaltung deren undt deß <br/>
+<span class="lineNumber">110</span><button class="entity #fulda_hochstift place" data-ref="fulda_hochstift" data-type="place" id="d2e1508">Stiffts</button> wohlfahrt unndt gedeilicher Aufnahm<a class="fnNumber" href="#F_53" id="A_53">53</a> dinstlich unndt erspriß-<br/>
+<span class="lineNumber">111</span>lich, unndt Ihnen unabbrüchig Ihrer ein theils hierinnen vermelter<a class="fnNumber" href="#F_54" id="A_54">54</a> <br/>
+<span class="lineNumber">112</span>unndt sonsten ferner herprachten Rechten, Privilegien unndt Freyheiten <br/>
+<span class="lineNumber">113</span>immer thunlich, eüßersten vermögen nach unndt ungespartes Leibs <br/>
+<span class="lineNumber">114</span>unndt fleißes<a class="fnNumber" href="#F_55" id="A_55">55</a> gantz treülich unndt williglich praestiren<a class="fnNumber" href="#F_56" id="A_56">56</a>, verrichten <br/>
+<span class="lineNumber">115</span>unndt daran nichts ermangeln laßen sollen unndt wollen.
+<span class="lineNumber">116</span>Darentgegen unndt zum Sechsten, alß unß sambt unserm Capitull <br/>
+<span class="lineNumber">117</span>von denen von der Ritterschafft zu gemüth geführt<a class="fnNumber" href="#F_57" id="A_57">57</a>, wie sie undt Ihre <br/>
+<span class="lineNumber">118</span>voreltern underschiedliche Pfarr- unndt andere recht, gerechtsame<a class="fnNumber" href="#F_58" id="A_58">58</a> undt pri-<br/>
+<span class="lineNumber">119</span>vilegia im herpringen, Insonderheit deß <a href="https://exist.ulb.tu-darmstadt.de/2/v/pa000008-0116#" target="_self">Religionsfriden</a> unndt freyes <br/>
+<span class="lineNumber">120</span>Exercitii<a class="fnNumber" href="#F_59" id="A_59">59</a>, sowohl in Ihren in deß <button class="entity #fulda_hochstift place" data-ref="fulda_hochstift" data-type="place" id="d2e1573">Stiffts</button> Amptern gelegenen adeligen <br/>
+<span class="lineNumber">121</span>Wohnungen, alß deren Örter, da sie die Pfarrbestellung selbsten herpracht <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-Bl. 3v"> [Blatt: Bl. 3<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">122</span>undt anderer den Reichsbefreiten vom Adel Competirenden Constitutio-<br/>
+<span class="lineNumber">123</span>nes sich gebraucht unndt wohlbefugt. Darauf angehalten<a class="fnNumber" href="#F_60" id="A_60">60</a>, Ihnen <br/>
+<span class="lineNumber">124</span>erwehnte Reichs-Constitutiones forters<a class="fnNumber" href="#F_61" id="A_61">61</a> nicht zu verkürtzen, noch sie <br/>
+<span class="lineNumber">125</span>derenn unndt anders Ihres herpringens zu destituiren<a class="fnNumber" href="#F_62" id="A_62">62</a>, unndt dan <br/>
+<span class="lineNumber">126</span>wir, sambt unsern Capitularen, unß, daß dem also, dabey bedechtlich <br/>
+<span class="lineNumber">127</span>erinnert, daß Niemandt seiner possession vel quasi de facto<a class="fnNumber" href="#F_63" id="A_63">63</a> ohn <br/>
+<span class="lineNumber">128</span>erkantnus rechtens zu entsetzen<a class="fnNumber" href="#F_64" id="A_64">64</a>, auch nicht gemeint<a class="fnNumber" href="#F_65" id="A_65">65</a>, einig<a class="fnNumber" href="#F_66" id="A_66">66</a> streit <br/>
+<span class="lineNumber">129</span>zu erwecken, noch Jmandt widerrechtlichen ahn dem seinigen zu be-<br/>
+<span class="lineNumber">130</span>eintrechtigen, nicht weniger jdern Regirenden Fursten undt Hern <br/>
+<span class="lineNumber">131</span>unndt alle deßen undt Ihre Nachkommen gleichermaßen zur <br/>
+<span class="lineNumber">132</span>Pilligkeit<a class="fnNumber" href="#F_67" id="A_67">67</a> furstlich unndt wohlgeneigt sein werden, ohnzweifenlich <br/>
+<span class="lineNumber">133</span>achten. Derentwegen haben wir hirmitt unß unndt alle un-<br/>
+<span class="lineNumber">134</span>sere Nachkommen gantz Crefftiglich obligirt unndt verschrieben<a class="fnNumber" href="#F_68" id="A_68">68</a>, <br/>
+<span class="lineNumber">135</span>daß wir offtgemelte von der Ritterschafft insgesambt, unndt Jdem <br/>
+<span class="lineNumber">136</span>absonderlich, bey obgemeltem herpringen undt dato dises Inhabigen Pfar-<br/>
+<span class="lineNumber">137</span>bestellungen, <a href="https://exist.ulb.tu-darmstadt.de/2/v/pa000008-0116#" target="_self">Religionsfriden</a> unndt deßen Exercitio, wie auch <br/>
+<span class="lineNumber">138</span>Ihren guttern, rechten, Frey- unndt gerechtigkeiten geruhig-<br/>
+<span class="lineNumber">139</span>lich verpleiben unndt keinen an seinem besitzlichen Inhaben<a class="fnNumber" href="#F_69" id="A_69">69</a> Thatlichen<a class="fnNumber" href="#F_70" id="A_70">70</a> <br/>
+<span class="lineNumber">140</span>turbiren<a class="fnNumber" href="#F_71" id="A_71">71</a>, vielweniger entsetzen<a class="fnNumber" href="#F_72" id="A_72">72</a>, sondern sich in zusammen ge-<br/>
+<span class="lineNumber">141</span>winnenden zuspruch unndt forderung, deß verglichenen, schleünigen <br/>
+<span class="lineNumber">142</span>Außtrags<a class="fnNumber" href="#F_73" id="A_73">73</a> begnüglich ersettigen<a class="fnNumber" href="#F_74" id="A_74">74</a> lassen, wie nicht weniger <br/>
+<span class="lineNumber">143</span>auch denJenigen von der Ritterschafft, welcher vor dato dises <br/>
+<span class="lineNumber">144</span>ahn Pfarr- oder andern vermeinten<a class="fnNumber" href="#F_75" id="A_75">75</a> Gerechtigkeiten beschwerdt <br/>
+<span class="lineNumber">145</span>unndt turbirt zu sein vermeinen, im fall sie unß undt unßern <button class="entity #fulda_hochstift place" data-ref="fulda_hochstift" data-type="place" id="d2e1717">Stifft</button> <span aria-label="a pagebreak without a facsimile" class="pagebreak" id="p-Bl. 4r"> [Blatt: Bl. 4<span class="rectoVerso">r</span> ] </span> <br/>
+<span class="lineNumber">146</span>nicht Clagloß laßen wolten, frey unndt bevorstehen<a class="fnNumber" href="#F_76" id="A_76">76</a>, solches, ver-<br/>
+<span class="lineNumber">147</span>mög des Außtrags (wofern albereidt<a class="fnNumber" href="#F_77" id="A_77">77</a> dieselbige am Cammerge-<br/>
+<span class="lineNumber">148</span>richt nicht anhengig undt lis pendens<a class="fnNumber" href="#F_78" id="A_78">78</a>), zu erörtern. Desgleichen <br/>
+<span class="lineNumber">149</span>sie dann Ihres theils auch zu thun schuldig sein sollen unndt wollen, <br/>
+<span class="lineNumber">150</span>sich auch in Religionsachen Christlicher<a class="fnNumber" href="#F_b" id="A_b">b</a> bescheidenheit geprauchen, <br/>
+<span class="lineNumber">151</span>weder vor sich selbsten, noch die Irigen eines Regirenden Herns, <br/>
+<span class="lineNumber">152</span>Dechants unndt Capituls glaubensgenoßen, dero Religion halber, <br/>
+<span class="lineNumber">153</span>uffzüglichen antasten<a class="fnNumber" href="#F_79" id="A_79">79</a>, noch dieselbe wider Ihre F<span class="ex">[ü]</span>r<span class="ex">[stlichen]</span> G<span class="ex">[naden]</span> <br/>
+<span class="lineNumber">154</span>unndt Ehrwürden zu steifen<a class="fnNumber" href="#F_80" id="A_80">80</a>, sich anmasen. Uf den unver-<br/>
+<span class="lineNumber">155</span>hofften, begebenden fall aber, daß ein Regirender Herr mit der<a class="fnNumber" href="#F_c" id="A_c">c</a> Thadt<a class="fnNumber" href="#F_81" id="A_81">81</a> <br/>
+<span class="lineNumber">156</span>verfahren unndt einen oder mehr seiner Inhabigen possession vel <br/>
+<span class="lineNumber">157</span>quasi<a class="fnNumber" href="#F_82" id="A_82">82</a> zu destituiren<a class="fnNumber" href="#F_83" id="A_83">83</a> sich underfangen, über gebürliches ersuchen<a class="fnNumber" href="#F_84" id="A_84">84</a> <br/>
+<span class="lineNumber">158</span>davon nicht ablaßen unndt nechst angeregtem Außtrag<a class="fnNumber" href="#F_85" id="A_85">85</a>, entweder <br/>
+<span class="lineNumber">159</span>nicht einschreiten, oder vermög deßen ergangenen Entscheidt undt <br/>
+<span class="lineNumber">160</span>urtheil keinen volg oder genüg leisten wolte, so sollen uf <br/>
+<span class="lineNumber">161</span>solchen gantz unverscheintlichen<a class="fnNumber" href="#F_86" id="A_86">86</a> fall, die von der Ritterschafft <br/>
+<span class="lineNumber">162</span>dero Religion unndt andern Reichs Constitutionibus sich gebrauchen, <br/>
+<span class="lineNumber">163</span>darauf process außzupringen<a class="fnNumber" href="#F_87" id="A_87">87</a> gut fug, macht unndt die Exceptio <br/>
+<span class="lineNumber">164</span>subiectionis keinerley weiß zu hintertreibung sölcher process nicht <br/>
+<span class="lineNumber">165</span>eingewendet oder, do sie schon vorgeschutzt würde, kein raum noch <br/>
+<span class="lineNumber">166</span>Statt oder würcklichkeit haben. Wie dan auch sonsten Insonder-<br/>
+<span class="lineNumber">167</span>heit mit auspringung Mandatorum executorialium simplicium <br/>
+<span class="lineNumber">168</span>et arctiorum,<a class="fnNumber" href="#F_88" id="A_88">88</a> vermög bemeltes Außtrags unndt deßen, waß hierin-<br/>
+<span class="lineNumber">169</span>nen gesetzt, zu verfahren, Ihnen frey unndt bevorstehen soll.
+<span class="lineNumber">170</span>Alß auch zum Sibenden beschwerlich<a class="fnNumber" href="#F_89" id="A_89">89</a> vorpracht, daß zu Raths-, <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-4v"> [Blatt: 4<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">171</span>Ambt- unndt dinstbstellung die auslendischen denen Im <button class="entity #fulda_hochstift place" data-ref="fulda_hochstift" data-type="place" id="d2e1869">Stifft</button> ge-<br/>
+<span class="lineNumber">172</span>bornen vom adel meistentheils vorgezogen undt sie, wie auch <br/>
+<span class="lineNumber">173</span>andere des <button class="entity #fulda_hochstift place" data-ref="fulda_hochstift" data-type="place" id="d2e1882">Stifft</button> angewandten<a class="fnNumber" href="#F_90" id="A_90">90</a> von ämtern unndt dinsten <br/>
+<span class="lineNumber">174</span>ausgeschlossen würden, welches zu allerhandt widerwertigem<a class="fnNumber" href="#F_91" id="A_91">91</a> <br/>
+<span class="lineNumber">175</span>mistrauen anläßige uhrsachen zu geben pflegt. Wiewohl <br/>
+<span class="lineNumber">176</span>nun einem hern hierinnen keine gewiße maaß zu geben, gleich-<br/>
+<span class="lineNumber">177</span>wohl aber deß <button class="entity #fulda_hochstift place" data-ref="fulda_hochstift" data-type="place" id="d2e1905">Stiffts</button> verwante die tägliche, vorfallende gefehrde<a class="fnNumber" href="#F_92" id="A_92">92</a> <br/>
+<span class="lineNumber">178</span>außstehen<a class="fnNumber" href="#F_93" id="A_93">93</a>, dabey gluck unndt ungluck ahn leib unndt guth wagen <br/>
+<span class="lineNumber">179</span>unndt aufsetzen<a class="fnNumber" href="#F_94" id="A_94">94</a>, hinwider nicht ohnbillig, auch der Ehr unndt <br/>
+<span class="lineNumber">180</span>vorzugs genießen unndt, do sie qualificirt, vor andern uffzu-<br/>
+<span class="lineNumber">181</span>nehmen<a class="fnNumber" href="#F_95" id="A_95">95</a>, haben wir dies <button class="entity #fulda_hochstift place" data-ref="fulda_hochstift" data-type="place" id="d2e1934">Stiffts</button> adeliche Vasallen vor anderen <br/>
+<span class="lineNumber">182</span>In bestellung unndt dinst zu nehmen genedig bewilliget.
+<span class="lineNumber">183</span>Unndt damit allem unndt Jdem obbeschribenem starcke<a class="fnNumber" href="#F_96" id="A_96">96</a>, unver-<br/>
+<span class="lineNumber">184</span>minderte volg, unndt in keinen Weg deme entgegen gehandtlet <br/>
+<span class="lineNumber">185</span>werde, so ist dahin bedechtlich<a class="fnNumber" href="#F_97" id="A_97">97</a> geschloßen<a class="fnNumber" href="#F_98" id="A_98">98</a>: Welcher künfftiglich zu <br/>
+<span class="lineNumber">186</span>Abteylicher würden gelangt, das derselbig dise vergleichliche Aini-<br/>
+<span class="lineNumber">187</span>gung ohnverlangt bestettigen, deren sonder<a class="fnNumber" href="#F_99" id="A_99">99</a> widerredt zu geleben <br/>
+<span class="lineNumber">188</span>sich obligiren unndt Ihme, ehe unndt bevor solches beschehen, keine <br/>
+<span class="lineNumber">189</span>gelübdt, Lehensplicht noch aydt von Dechant, Capitull, Ritterschafft <br/>
+<span class="lineNumber">190</span>unndt Landtschaff geleistet werden. Auch sollen Jde, so zu Capittul <br/>
+<span class="lineNumber">191</span>angenommen, gleichfals disem williglich, ohne einige sperrung<a class="fnNumber" href="#F_100" id="A_100">100</a>, nach <br/>
+<span class="lineNumber">192</span>zu kommen, geloben, zusagen unndt verschreiben<a class="fnNumber" href="#F_101" id="A_101">101</a>. Uf den gantz <br/>
+<span class="lineNumber">193</span>unverhofften fall, auch ein Regirender Herr einen oder den anderen <br/>
+<span class="lineNumber">194</span>daß Capitull oder die Ritterschafft betreffenden, hierinnen abge-<br/>
+<span class="lineNumber">195</span>schlosenen Puncten unndt vorglichenen außträgen<a class="fnNumber" href="#F_102" id="A_102">102</a> über gepürende <span aria-label="a pagebreak without a facsimile" class="pagebreak" id="p-Bl. 5r"> [Blatt: Bl. 5<span class="rectoVerso">r</span> ] </span> <br/>
+<span class="lineNumber">196</span>erinnerung widerhandtlete, sollen die von der Ritterschafft - itzo alßdann <br/>
+<span class="lineNumber">197</span>unndt dann alß Itzo<a class="fnNumber" href="#F_103" id="A_103">103</a> - bis so lang ein Regirender Furst sich diser tran-<br/>
+<span class="lineNumber">198</span>saction gemeß bezeiget unndt veranlaste Costen unndt schaden er-<br/>
+<span class="lineNumber">199</span>stattet, deren Iren F<span class="ex">[ü]</span>r<span class="ex">[stlichen]</span> G<span class="ex">[naden]</span> gethonen Pflichten ipso iure erlediget<a class="fnNumber" href="#F_104" id="A_104">104</a>, <br/>
+<span class="lineNumber">200</span>unndt Inmittelst<a class="fnNumber" href="#F_105" id="A_105">105</a> dem <button class="entity #fulda_hochstift place" data-ref="fulda_hochstift" data-type="place" id="d2e2048">Stifft</button>, hern dechant unndt Capitul damit <br/>
+<span class="lineNumber">201</span>gewertig sein, Inmasen dan diselbe auf Itzo angeregten fall <br/>
+<span class="lineNumber">202</span>denen von der Ritterschafft, nach aller verantwortlichen Thunlichkeit<a class="fnNumber" href="#F_106" id="A_106">106</a>, <br/>
+<span class="lineNumber">203</span>handtbietig<a class="fnNumber" href="#F_107" id="A_107">107</a> unndt mit nichten einem Regirenden hernn diser tran-<br/>
+<span class="lineNumber">204</span>faction zu entgegen, beystendig sein sollen unndt wollen. Wan <br/>
+<span class="lineNumber">205</span>aber, deß doch nicht sein noch geschehenn soll, mit undt neben einem <br/>
+<span class="lineNumber">206</span>Regirendenn Hern, Dechant unndt Capitul diser vergleichung wider-<br/>
+<span class="lineNumber">207</span>lebten<a class="fnNumber" href="#F_108" id="A_108">108</a> unndt über erinnerliche anmahung davon nicht abstehen <br/>
+<span class="lineNumber">208</span>wolten, So sollen uf solchen gahr unversehentlichen<a class="fnNumber" href="#F_109" id="A_109">109</a> fall die von <br/>
+<span class="lineNumber">209</span>der Ritterschafft alle mügliche, gegen die Röm<span class="ex">[mische]</span> Khey<span class="ex">[serliche]</span> May<span class="ex">[estä]</span>t <br/>
+<span class="lineNumber">210</span>veranthwortliche, unndt den Reichsbefreyten vom Adel sonderbahr<a class="fnNumber" href="#F_110" id="A_110">110</a>, <br/>
+<span class="lineNumber">211</span>sowohl in deß Reichs Constitutionibus alß sonsten zugelaßene mittel<a class="fnNumber" href="#F_111" id="A_111">111</a> <br/>
+<span class="lineNumber">212</span>ahn die handt zu nehmen, hirmit erlangt recht, fug unndt macht haben. <br/>
+<span class="lineNumber">213</span>In dem fall aber, einer oder mehr von der Ritterschafft sich diser <br/>
+<span class="lineNumber">214</span>austräglichen vereinbahrung widersetzig mächte, wider denselben <br/>
+<span class="lineNumber">215</span>soll einem Regirenden hern, mit wißen dechants unndt Capituls, <br/>
+<span class="lineNumber">216</span>gepürende mittel, Ihnen oder sie zur schuldigkeit<a class="fnNumber" href="#F_112" id="A_112">112</a> zu pringen, <br/>
+<span class="lineNumber">217</span>vorzunehmen hirmit exprese ausbedingt<a class="fnNumber" href="#F_113" id="A_113">113</a> sein. Unndt soll <br/>
+<span class="lineNumber">218</span>dise vergleichliche abred in allen unndt Jden Puncten vim rei iudi-<br/>
+<span class="lineNumber">219</span>cata unndt paratam Executionem<a class="fnNumber" href="#F_114" id="A_114">114</a> wircken. Auch darauff <br/>
+<span class="lineNumber">220</span>Mandata sine Causula simplicia et arctiora<a class="fnNumber" href="#F_115" id="A_115">115</a> erkandt<a class="fnNumber" href="#F_116" id="A_116">116</a> unndt ausge- <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-5v"> [Blatt: 5<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">221</span>bracht<a class="fnNumber" href="#F_117" id="A_117">117</a>, ebenermaßen, alßwan sie von Bäbstlicher Heyligkeit unndt <br/>
+<span class="lineNumber">222</span>der Röm<span class="ex">[ischen]</span> Khey<span class="ex">[serlichen]</span> May<span class="ex">[estä]</span>t praevia ordinaria causae cognitione<a class="fnNumber" href="#F_118" id="A_118">118</a> <br/>
+<span class="lineNumber">223</span>oder ex plenitudine potestatis<a class="fnNumber" href="#F_119" id="A_119">119</a> Cräfftiglich cum omnibus necessa requisitis et clausulis,<a class="fnNumber" href="#F_120" id="A_120">120</a> oder per definitivam inappellabilem<a class="fnNumber" href="#F_121" id="A_121">121</a> <br/>
+<span class="lineNumber">224</span>bestettiget, auch darentgegenn keine absolution, dispensation, <br/>
+<span class="lineNumber">225</span>Indult<a class="fnNumber" href="#F_122" id="A_122">122</a>, gepott oder verbot, noch einige andere dero rechten <br/>
+<span class="lineNumber">226</span>gutthaten<a class="fnNumber" href="#F_123" id="A_123">123</a>, wie die Namen haben, wan sie schon aus eige-<br/>
+<span class="lineNumber">227</span>ner bewegnuß gegeben werden, raum noch statt gewin-<br/>
+<span class="lineNumber">228</span>nen, vielweniger von einigem Theil gebraucht, noch vorgeschützt <br/>
+<span class="lineNumber">229</span>werden, dann deren sambt unndt absonderlich bevorab <br/>
+<span class="lineNumber">230</span>Exceptionum simulati vel non satis deliberati contratus, <br/>
+<span class="lineNumber">231</span>doli mali, metus, laesionis enormis et enormissimae, defientis <br/>
+<span class="lineNumber">232</span>consensus superiorum, restitutionis in integrum ac quod ge-<br/>
+<span class="lineNumber">233</span>neralis renunciatio non valeat, nisi specialis paeceßit.<a class="fnNumber" href="#F_124" id="A_124">124</a>
+<span class="lineNumber">234</span>Wir, <button class="entity #johann_friedrich_fulda person" data-ref="johann_friedrich_fulda" data-type="person" id="d2e2241">Johann Fridrich</button>, Abbt deß <button class="entity #fulda_hochstift place" data-ref="fulda_hochstift" data-type="place" id="d2e2244">Stiffts Fuldt</button>, unndt wir, daß <br/>
+<span class="lineNumber">235</span>Capitul deselben <button class="entity #fulda_hochstift place" data-ref="fulda_hochstift" data-type="place" id="d2e2249">Stiffts</button> Insgemein, vor unß, unser Nachkom-<br/>
+<span class="lineNumber">236</span>men, unndt wir, zu endt bezeichnete, alß hierzu sonderlich Gevol-<br/>
+<span class="lineNumber">237</span>mechtigte, vor unß unndt alle unsere adeliche mitglieder, Erben <br/>
+<span class="lineNumber">238</span>unndt Lehensvolgere, gentzlich unndt zu grundt verziehen undt <br/>
+<span class="lineNumber">239</span>begeben, doch hiemitt deren vom adel habendt Burgk-<br/>
+<span class="lineNumber">240</span>friden unndt darauf gerichten verträgen nichts derogirt<a class="fnNumber" href="#F_125" id="A_125">125</a>, <br/>
+<span class="lineNumber">241</span>beiderseits arglistige gefehrden<a class="fnNumber" href="#F_126" id="A_126">126</a> außgeschlossen.
+<span class="lineNumber">242</span>Deßen zu mehrer Urkhundt haben wir Itztbenente unser <br/>
+<span class="lineNumber">243</span>furstlich secret<a class="fnNumber" href="#F_127" id="A_127">127</a> unndt Insigil ad Causas, der zu endt beschribener
+<span class="lineNumber">244</span>Ausschuß der Ritterschafft aber vor unß, unsere mitglieder, Erben <br/>
+<span class="lineNumber">245</span>unndt Lehenßvolgere, unsere adeliche, angeborne zum Ringpitschafften<a class="fnNumber" href="#F_128" id="A_128">128</a> <br/>
+<span class="lineNumber">246</span>hierann fuhrtrucken lassen. So beschehen, <button class="entity #fulda place" data-ref="fulda" data-type="place" id="d2e2311">Fuldt</button>, Sambstags <br/>
+<span class="lineNumber">247</span>denn Funfzehenden Decembris Im Sechzehenhundert unndt sibendten <br/>
+<span class="lineNumber">248</span>Jahr.
+<span class="lineNumber">249</span><button class="entity #johann_friedrich_fulda person" data-ref="johann_friedrich_fulda" data-type="person" id="d2e2326">Ioannes Fridericus</button> <br/>
+<span class="lineNumber">250</span>Abbas Fulden<span class="ex">[sis]</span> m<span class="ex">[anu]</span>p<span class="ex">[ro]</span>p<span class="ex">[ria]</span> <br/>
+<span class="lineNumber">251</span> <br/>
+<span class="lineNumber">252</span><button class="entity #georg_hatzfeld person" data-ref="georg_hatzfeld" data-type="person" id="d2e2345">Georgius ab Hatzfelt</button>, Ecclesiae <button class="entity #fulda_hochstift place" data-ref="fulda_hochstift" data-type="place" id="d2e2348">Fuldensis</button> <br/>
+<span class="lineNumber">253</span>Capitularis ac <button class="entity #neuenberg_kloster place" data-ref="neuenberg_kloster" data-type="place" id="d2e2354">Novimontis</button> ad St. Andream <br/>
+<span class="lineNumber">254</span>prope Fuldam Praepositus. <br/>
+<span class="lineNumber">255</span><button class="entity #johann_bernhard_fulda person" data-ref="johann_bernhard_fulda" data-type="person" id="d2e2360">Joannes Bernardus</button> Schenck a <button class="entity #schweinsberg place" data-ref="schweinsberg" data-type="place" id="d2e2363">Schweinsbergk</button>, <br/>
+<span class="lineNumber">256</span>Ecclesiae <button class="entity #fulda_hochstift place" data-ref="fulda_hochstift" data-type="place" id="d2e2369">Fuldensis</button> Capitularis et Praepositus <br/>
+<span class="lineNumber">257</span>in <button class="entity #blankenau place" data-ref="blankenau" data-type="place" id="d2e2374">Blancknau</button> m<span class="ex">[anu]</span>p<span class="ex">[ro]</span>p<span class="ex">[ria]</span> <br/>
+<span class="lineNumber">258</span><button class="entity #eberhard_hermann_schutzbar person" data-ref="eberhard_hermann_schutzbar" data-type="person" id="d2e2386">Eberhardus Hermannus Schutzpar</button> <br/>
+<span class="lineNumber">259</span>alias Milchling, Eccelsiae <button class="entity #fulda_hochstift place" data-ref="fulda_hochstift" data-type="place" id="d2e2391">Fuldensis</button> Capitularis <br/>
+<span class="lineNumber">260</span>et Monasterii <button class="entity #thulba place" data-ref="thulba" data-type="place" id="d2e2397">Thalbensis</button> P<span class="ex">[rae]</span>posit<span class="ex">[us]</span> m<span class="ex">[anu]</span>p<span class="ex">[ro]</span>p<span class="ex">[ria]</span> <br/>
+<span class="lineNumber">261</span><button class="entity #petrus_ernst_fels person" data-ref="petrus_ernst_fels" data-type="person" id="d2e2414">Petrus Ernestus a Feltz</button>, Capitularis <br/>
+<span class="lineNumber">262</span>Ecclesiae <button class="entity #fulda_hochstift place" data-ref="fulda_hochstift" data-type="place" id="d2e2419">Fuldensis</button> et curiae camerarus m<span class="ex">[anu]</span>p<span class="ex">[ro]</span>p<span class="ex">[ria]</span>
+<span class="lineNumber">263</span><button class="entity #cuntz_tann person" data-ref="cuntz_tann" data-type="person" id="d2e2434">Cuntz von der Tann</button>
+<span class="lineNumber">264</span><button class="entity #georg_christoph_buchenau person" data-ref="georg_christoph_buchenau" data-type="person" id="d2e2441">Georg Christoffel von Buchenau</button> m<span class="ex">[anu]</span>p<span class="ex">[ro]</span>p<span class="ex">[ria]</span> <br/>
+<span class="lineNumber">265</span><button class="entity #georg_friedrich_tann person" data-ref="georg_friedrich_tann" data-type="person" id="d2e2453">Georg Friedrich von der Thann</button> m<span class="ex">[anu]</span>p<span class="ex">[ro]</span>p<span class="ex">[ria]</span> <br/>
+<span class="lineNumber">266</span><button class="entity #wilhelm_balthasar_schlitz person" data-ref="wilhelm_balthasar_schlitz" data-type="person" id="d2e2465">Wilhelm Balthasar von Schlitz</button>, g<span class="ex">[e]</span>na<span class="ex">[nn]</span>t Gorz

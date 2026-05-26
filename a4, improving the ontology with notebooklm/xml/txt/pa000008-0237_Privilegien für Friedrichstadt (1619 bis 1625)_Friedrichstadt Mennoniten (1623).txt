@@ -1,0 +1,223 @@
+<?xml-model href="../../../customization/schema_quellentexte/religionsfrieden-quellentexte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pa000008-0237">
+   <teiHeader>      
+      <fileDesc>         
+         <titleStmt>
+            
+            <title level="a">Privileg für die Mennoniten (<date when="1623-02-13">13. Februar 1623</date>) - LASH Abt. 7 Nr. 5517</title>
+            <title level="s">Europäische Religionsfrieden Digital</title>
+            <principal ref="http://d-nb.info/gnd/111186870">Irene Dingel</principal> 
+            <editor role="http://id.loc.gov/vocabulary/relators/edt" ref="http://orcid.org/0000-0002-1509-6960">Thomas Stäcker</editor>
+            <editor role="http://id.loc.gov/vocabulary/relators/edt" ref="https://orcid.org/0000-0002-5429-6367">
+                    <persName>Christopher Voigt-Goy</persName>
+                </editor> 
+            <editor role="http://id.loc.gov/vocabulary/relators/mrk">Kevin Wunsch</editor>           
+            <editor role="http://id.loc.gov/vocabulary/relators/mrk">Kevin Kuck</editor>           
+         </titleStmt>         
+         <editionStmt>
+            <edition>Digitale Edition gemäß <ref target="http://www.tei-c.org/">TEI P5</ref>
+                </edition>
+            <funder>Akademie der Wissenschaften und der Literatur</funder>
+         </editionStmt>         
+         <publicationStmt>
+            <publisher>
+               <orgName ref="http://www.isni.org/0000000119314040">Akademie der Wissenschaften und Literatur Mainz</orgName>
+            </publisher>           
+            <distributor>
+               <orgName ref="http://www.isni.org/0000000110101946">Universitäts- und Landesbibliothek Darmstadt</orgName>
+               <idno type="ISIL">http://lobid.org/organisation/DE-17</idno>
+            </distributor>
+            <date when="2024" type="issued">2024</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p xml:lang="en">This file is licensed under the terms of the Creative Commons License CC-BY 4.0 (Attribution 4.0 International)</p>
+               </licence>
+            </availability>
+         </publicationStmt>        
+         <sourceDesc><!-- bitte ausfüllen; nicht zutreffende Elemente bitte rauslöschen -->
+            <msDesc>
+               <msIdentifier>
+                  <settlement/>                               
+                  <repository/>
+                  <collection/>
+                  <idno>Signatur</idno>
+                  <idno type="urn"/>
+                  <idno type="vd16"/>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title/>
+                     <respStmt>
+                        <resp/>
+                        <persName/>
+                     </respStmt>
+                     <biblStruct><!-- gilt nur für Drucke; rausnehmen, wenn es sich um ein Manuskript handelt! -->
+                        <monogr xml:id="vorlage">
+                           <imprint>
+                              <pubPlace/>
+                              <publisher>
+                                 <persName/>
+                              </publisher>
+                              <date/>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                  </msItem>
+               </msContents>
+               <history><!-- bei Manuskript, falls Datum und/oder Ort bekannt sind; andernfalls rauslöschen! -->
+                  <origin>
+                     <date>1623</date>
+                     <placeName>Gottorf</placeName>
+                  </origin>
+               </history>
+            </msDesc>    
+         </sourceDesc>
+      </fileDesc>      
+      <encodingDesc>         
+         <projectDesc>
+            <p>
+               <ref target="http://www.eured.de">Europäische Religionsfrieden Digital</ref>
+            </p>
+         </projectDesc>
+         <classDecl>
+            <taxonomy xml:id="marcrelator">
+               <bibl>
+                        <idno type="URI">http://id.loc.gov/vocabulary/relators/</idno> MARC Code List for Relators </bibl>
+            </taxonomy>
+         </classDecl>         
+      </encodingDesc>      
+      <profileDesc>         
+         <langUsage>
+            <language ident="deut">Deutsch</language><!-- Sprache hinzufügen -->
+         </langUsage>         
+      </profileDesc>      
+      <revisionDesc>
+         <change xml:id="ch01" when="2018-01-18">
+                <p>Die Edition ist 2018 von der Herzog August Bibliothek Wolfenbüttel an die Universitäts- und Landesbibliothek Darmstadt umgezogen.</p>
+            </change>
+      </revisionDesc>   
+   </teiHeader>
+   <!--<facsimile>
+      <surface ulx="0" uly="0" lrx="5009" lry="3923" xml:id="facs_1">
+         <!-\- <graphic url="0001_0003_Primaer.jpg" width="5009px" height="3923px"/>-\->
+         <graphic url="https://files.transkribus.eu/Get?id=QRWEYLACXULKMVULYTMIXQUM&amp;fileType=view" width="5009px" height="3923px"/>
+         <zone points="686,477 4197,477 4197,2669 686,2669" rendition="TextRegion" xml:id="facs_1_TextRegion_1719400399017_5">
+            <zone points="824,371 4142,371 4142,591 824,591" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+            <zone points="794,522 4142,522 4142,665 794,665" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+            <zone points="798,595 4164,595 4164,751 798,751" rendition="Line" xml:id="facs_1_line_1719400428079_24"/>
+            <zone points="759,690 4121,690 4121,854 759,854" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+            <zone points="742,777 4134,777 4134,941 742,941" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+            <zone points="721,867 4117,867 4117,1049 721,1049" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+            <zone points="764,975 4181,975 4181,1148 764,1148" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+            <zone points="772,1074 4138,1074 4138,1256 772,1256" rendition="Line" xml:id="facs_1_line_1719400442596_38"/>
+            <zone points="746,1174 4142,1174 4142,1351 746,1351" rendition="Line" xml:id="facs_1_tr_1_tl_12"/>
+            <zone points="746,1273 4186,1273 4186,1437 746,1437" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+            <zone points="734,1364 4138,1364 4138,1549 734,1549" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+            <zone points="746,1463 4138,1463 4138,1661 746,1661" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+            <zone points="746,1562 4134,1562 4134,1756 746,1756" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+            <zone points="721,1661 4112,1661 4112,1860 721,1860" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
+            <zone points="660,1761 4129,1761 4129,1976 660,1976" rendition="Line" xml:id="facs_1_tr_1_tl_18"/>
+            <zone points="746,1864 4142,1864 4142,2076 746,2076" rendition="Line" xml:id="facs_1_tr_1_tl_19"/>
+            <zone points="755,1959 4078,1959 4078,2149 755,2149" rendition="Line" xml:id="facs_1_tr_1_tl_20"/>
+            <zone points="746,2058 4099,2058 4099,2270 746,2270" rendition="Line" xml:id="facs_1_tr_1_tl_21"/>
+            <zone points="746,2166 4056,2166 4056,2360 746,2360" rendition="Line" xml:id="facs_1_tr_1_tl_22"/>
+            <zone points="716,2270 4043,2270 4043,2498 716,2498" rendition="Line" xml:id="facs_1_tr_1_tl_23"/>
+         </zone>
+         <zone points="686,2669 4197,2669 4197,3688 686,3688" rendition="TextRegion" xml:id="facs_1_TextRegion_1719400399015_4">
+            <zone points="3059,3254 3577,3254 3577,3495 3059,3495" rendition="Line" xml:id="facs_1_tr_1_tl_24"/>
+         </zone>
+      </surface>
+   </facsimile>-->
+   <text>
+      <body>
+         <div>
+            <p facs="#facs_1_TextRegion_1719400399017_5">
+                    <pb facs="#facs_1" xml:id="img_0001" n="3r"/>
+               <lb facs="#facs_1_tr_1_tl_1" n="N001"/>Wir <rs type="person" ref="#friedrich_iii_schleswig_holstein_gottorf">Friederiech</rs> von Gottes gnaden, Erbe zu <rs type="place" ref="#norwegen_koenigreich">Norwegen</rs>, Hertzog zu <rs type="place" ref="#schleswig_herzogtum">Schleswig</rs>, <rs type="place" ref="#holstein_herzogtum">Holstein</rs>, <rs type="place" ref="#stormarn_herzogtum">Stormarn</rs> und der 
+               <lb facs="#facs_1_tr_1_tl_2" n="N002"/>
+                    <rs type="place" ref="#dithmarschen_herzogtum">Ditmarschen</rs>, Graff zu <rs type="place" ref="#oldenburg_grafschaft">Oldenburg</rs> unnd <rs type="place" ref="#delmenhorst_grafschaft">Delmenhorst</rs> etc. Urkunden unnd bekennen hiemit fur <w>Jedermennig<pc>-</pc>
+               <lb facs="#facs_1_line_1719400428079_24" n="N003"/>lichen</w> offentlich: Nachdem unns der Mennonisten etzliche undertheniglich berichten laßen, was
+               <lb facs="#facs_1_tr_1_tl_6" n="N004"/>gestaldt Sie geneigt sich anhero zubegeben, unnd in Unser <rs type="place" ref="#friedrichstadt">Friederichstadt</rs> heußlich niederzulaßen, auch
+               <lb facs="#facs_1_tr_1_tl_7" n="N005"/>daselbst in aller stille ohne einige ärgernus zuverhalten, dafern Sie in unnsern Schutz uff unnd <w>ange<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_8" n="N006"/>nohmmen</w>, unnd aller unnsern zur <rs type="place" ref="#friedrichstadt">Friederichstadt</rs> wohnenden unnd geseßenen Burgern competirenden<note type="annotation">zustehenden.</note>
+               <lb facs="#facs_1_tr_1_tl_9" n="N007"/>freyheiten unnd privilegien in kauffen, verkauffen, unnd andern die Nahrung concernirenden<note type="annotation">betreffenden.</note> Punkten
+               <lb facs="#facs_1_line_1719400442596_38" n="N008"/>genießhafft werden könten. Daß <rs type="person" ref="#friedrich_iii_schleswig_holstein_gottorf">Wir</rs> dennoch gnediglich gewilligt, auch Fürstlich
+               <lb facs="#facs_1_tr_1_tl_12" n="N009"/>vorsprochen haben: Willigen unnd vorsprechen auch hiemit unnd krafft dieses nochmals,
+               <lb facs="#facs_1_tr_1_tl_13" n="N010"/>das gerührte unnd alle andere Mennonisten sich ungehindert sicher unnd kühnlich<note type="annotation">getrost.</note> in unsere <rs type="place" ref="#friedrichstadt">
+                        <w>Friederich<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_14" n="N011"/>stadt</w>
+                    </rs> zu wohnen geben, Ihre hanndtier- unnd nahrung daselbst bestes fleißes suchen, unnd <w>fort<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_15" n="N012"/>sezen</w>, unnd<note type="crit_app">Folgt durchgestrichen: dabey.</note> alle unnd Jeder unnsern andern zu <rs type="place" ref="#friedrichstadt">Friederichstadt</rs> geseßenen Bürgern und <w>Ein<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_16" n="N013"/>wohnern</w> gegebenen Privilegien genießhafft sein, auch dabey vor menniglichen<note type="annotation">einem Jeden.</note> fürstlich maintenirt<note type="annotation">erhalten.</note>,
+               <lb facs="#facs_1_tr_1_tl_17" n="N014"/>geschutzet unnd gehandthabet werden. Jedoch sie, die Mennonisten, sich hinwiederumb Ihren erbieten
+               <lb facs="#facs_1_tr_1_tl_18" n="N015"/>nach still unnd eingezogen zuhalten, unnd niemandt in Religions sachen wedder heimblich noch <w>offent<pc>-</pc> 
+               <lb facs="#facs_1_tr_1_tl_19" n="N016"/>lich</w> einige ergernus zugeben, schuldig sein sollen.</p>
+            <p xml:id="ergaenzung_1625">
+               <lb/>
+                    <seg type="crit_app">Undt nach dehm die Mennonisten ins gemein
+               <lb/>ihnen darüber ein gewißen machen, daß sie Eide
+               <lb/>leisten, officia publica verwalten, oder wehr undt
+               <lb/>waffen gebrauchen sollen, da wollen wir ihnen
+               <lb/>allen undt sembtlich, also nicht allein denen,
+               <lb/>welche in unserer <rs type="place" ref="#friedrichstadt">Friederichstadt</rs> sich begeben werden,
+               <lb/>sondern auch den anderen, so in unsserem Lande
+               <lb/>
+                        <rs type="place" ref="#eiderstedt">Eiderstedt</rs> bereits sich häußlich nieder gesetzet, mit acker<pc>-</pc>
+               <lb/>bau undt viehe zucht umbgehen, oder sonsten
+               <lb/>ihr Domicilium<note type="annotation">festen Wohnsitz.</note> von dannen in <rs type="place" ref="#friedrichstadt">Friederichstadt</rs>
+               <lb/>nicht füglich transferiren können, dieße Gnade
+               <lb/>inmaßen darum bey unß gleichfals unterthän<pc>-</pc>
+               <lb/>nige ansuchung beschehen, bezeiget haben, daß
+               <lb/>sie zur Aydesleistung nicht gezwungen,
+               <lb/>noch auch mit einigem munere publico<note type="annotation">öffentlicher Aufgabe.</note>, oder
+               <lb/>gemeinen Ambt belegt, weniger zur
+               <lb/>Wacht undt Defension, die mit wehr undt
+               <lb/>waffen geschieht, auffgebotten oder genöthiget,
+               <lb/>sondern wan von anderen, deren religion
+               <lb/>die aidtschwüre nicht zuwieder, purgationis<note type="crit_app">Korrigiert aus: purgationes.</note>,
+               <lb/>judicialia, malitiae, calumniae, oder appella<pc>-</pc>
+               <lb/>tionis juramenta geleistet werden müßen,<note type="annotation">Gemeint sind verschiedene Eide, die vor Gericht - vor allem im zivilrechtlichen Bereich - geleistet werden. <q>juramentum purgationis</q>: Reinigungseid; <q>juramentum judicale</q>: Eid, der einer Partei durch Vermittlung des Richters von der anderen Partei auferlegt wird, um den Prozess weiterzuführen; 
+                  <q>juramentum malitiae</q> bzw <q>calumniae</q>: Klageeid; <q>juramentum appelationis</q>: Eid, der eine mutwillige Appelation an die nächst höhere Gerichtsinstanz ausschließt. Vgl. zu den Eiden <rs type="bibl" ref="#zedler_universallexicon">
+                                <surname type="author">Zedler</surname>, Universallexicon Bd. 14, Sp. 1660-1667</rs>.</note>
+               <lb/>sie mit ihrem aufrechten ja undt nein ge<pc>-</pc>
+               <lb/>gehöret, undt darüber nicht beschweret werden
+               <lb/>sollen, doch das welche hernacher befunden
+               <lb/>würden, daß ihr ja und nein unrichtig, die
+               <lb/>straffe so auff die Meineyder gesetzet, auß<pc>-</pc>
+               <lb/>stehen, undt von ihnen die jenigen, die ver<pc>-</pc>
+               <lb/>meinen, daß sie mit gueten gewißen
+               <lb/>schweren, in officio publico sein, undt sich wehr
+               <lb/>undt waffen gebrauchen können, nicht verspot<pc>-</pc>
+               <lb/>tet werden. Unndt daß für die Mennonisten
+               <lb/>sonsten jeden ohrts, nachgesetzter<note type="annotation">untergeordneter.</note> Obrigkeit,
+               <lb/>gegen die Erlaßung der wacht unndt des
+               <lb/>gebrauchs wehr und waffen zur Defension
+               <lb/>eine zimbliche darlage<note type="annotation">Abgabe.</note>, so zum gemeinen
+               <lb/>besten anzuwenden, entrichten, unndt
+               <lb/>welche auff dem Lande wohnen, in der
+               <lb/>
+                        <rs type="place" ref="#friedrichstadt">Friederichstadt</rs> allein ihren Gottesdienst haben,
+               <lb/>sonsten aber an anderen ohrten auffm Lande we<pc>-</pc>
+               <lb/>der heimblich noch offentlich des exercitium religionis
+               <lb/>halber zusammen kommen,
+               <lb/>und sich also der winkelpredigen<note type="annotation">nicht öffentlicher Predigten.</note>, undt privat
+               <lb/>Conventiculorum<note type="annotation">Privatzusammenkünfte.</note> allerdings äußern unndt ent<pc>-</pc>
+                  <lb/>halten.</seg>
+                    <note type="crit_app">Fehlt im Original. Hier ergänzt nach LASH, Abt. 7, Nr. 5517, fol. 31-33 (Bestätigung vom 17. Februar 1657, Abschrift), fol. 32r-33r. Zur Ergänzung des Textes vgl. die <ref type="einleitung" target="0235#erweiterung_1625">Einleitung</ref>.</note>
+            </p>
+               <p>
+                  <lb facs="#facs_1_tr_1_tl_19" n="N016"/>Und damit sie<note type="crit_app">LASH, Abt. 7, Nr. 5517, fol. 31-33 (Bestätigung vom 17. Februar 1657, Abschrift), 33r: die Mennonisten.</note> solcher unser Fürstl<am>.</am>
+                    <ex>ichen</ex>
+               <lb facs="#facs_1_tr_1_tl_20" n="N017"/>bewilligung so viel da mehr vorsichert sein mochten, Alß haben <rs type="person" ref="#friedrich_iii_schleswig_holstein_gottorf">Wir</rs> daruff diesen Schein
+               <lb facs="#facs_1_tr_1_tl_21" n="N018"/>mit unnserm hanndt zeichen unnd Fürstlichen Cammer Secret<note type="annotation">Kammersekret: Kleines Siegel.</note>, bevestiget unnd betrucken, und <w>den<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_22" n="N019"/>selben</w> unnsern Statthalter zur <rs type="place" ref="#friedrichstadt">Friederichstadt</rs> zur vorwahrung gnediglich zustellen laßen,
+               <lb facs="#facs_1_tr_1_tl_23" n="N020"/>So geschehen auff unserm <rs type="place" ref="#gottorf_schloss">Schloße Gottorff</rs> am <date when="1623-02-13">13. Februarii Anno 1623</date>.
+            </p>
+            <p facs="#facs_1_TextRegion_1719400399015_4">
+               <lb facs="#facs_1_tr_1_tl_24" n="N001"/>
+                    <rs type="person" ref="#friedrich_iii_schleswig_holstein_gottorf">Friedrich</rs>
+            </p>
+         </div>
+      </body>
+   </text>
+</tei:TEI>

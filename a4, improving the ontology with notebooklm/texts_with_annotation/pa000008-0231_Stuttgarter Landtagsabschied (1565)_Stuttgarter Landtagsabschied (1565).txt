@@ -1,0 +1,568 @@
+<span class="lineNumber">1</span>Abschid <br/>
+<span class="lineNumber">2</span>des gehaltnen Landtags zu <br/>
+<span class="lineNumber">3</span><button class="entity #stuttgart_stadt place" data-ref="stuttgart_stadt" data-type="place" id="d2e127">Stutgart</button>, <br/>
+<span class="lineNumber">4</span> 19. Junii <br/>
+<span class="lineNumber">5</span>1565, <br/>
+<span class="lineNumber">6</span>das praelaten und landschafft in <button class="entity #wuerttemberg_herzogtum place" data-ref="wuerttemberg_herzogtum" data-type="place" id="d2e139">Würtemberg</button> wöllen, ann statt der hievor in anno 1554 <br/>
+<span class="lineNumber">7</span>bewilligten residui unnd ablosung hilff, ann der herrschafft <button class="entity #wuerttemberg_herzogtum place" data-ref="wuerttemberg_herzogtum" data-type="place" id="d2e144">Würtemberg</button> etc. schullden last <br/>
+<span class="lineNumber">8</span>1200000 g<span class="reg">[u]</span>ld<span class="reg">[en]</span> hauptgutz<a class="fnNumber" href="#F_1" id="A_1">1</a> und darvon fallenden<a class="fnNumber" href="#F_2" id="A_2">2</a> zins uff sich nemen etc. <br/>
+<span class="lineNumber">9</span>unnd andere noch vil puncten betreffend.
+<span class="lineNumber">10</span>Von Gottes gnaden Wir <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e169">Christoff</button> hertzog zue <button class="entity #wuerttemberg_herzogtum place" data-ref="wuerttemberg_herzogtum" data-type="place" id="d2e172">Wür-</button><br/>
+<span class="lineNumber">11</span><button class="entity #wuerttemberg_herzogtum place" data-ref="wuerttemberg_herzogtum" data-type="place" id="d2e172">temberg</button> unnd zu <button class="entity #teck_herzogtum place" data-ref="teck_herzogtum" data-type="place" id="d2e179">Teck</button>, grave zu <button class="entity #moempelgard_grafschaft place" data-ref="moempelgard_grafschaft" data-type="place" id="d2e183">Mumppelgart</button> etc. bekhennen unnd thun khundt aller-<br/>
+<span class="lineNumber">12</span>meniglich<a class="fnNumber" href="#F_3" id="A_3">3</a>, das, demnach <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e194">wir</button> allerhannd furtreffenlicher erheblicher, ansehenlicher ur-<br/>
+<span class="lineNumber">13</span>sachen halben einen gemeinen lanndtag, uff sonntag Jubilate<a class="fnNumber" href="#F_4" id="A_4">4</a>, den dreytzehenden <br/>
+<span class="lineNumber">14</span>des monats May, zu <button class="entity #stuttgart_stadt place" data-ref="stuttgart_stadt" data-type="place" id="d2e212">Stutgarten</button> eintzukhommen, usschreiben unnd furnemmenn <br/>
+<span class="lineNumber">15</span>lassen, daselbsten auch unnsere gehorsame lanndtschafft, von prelaten mehrentheils <br/>
+<span class="lineNumber">16</span>in der person, unnd die abwesende durch ire gegebne gewält, deßgleichen ge-<br/>
+<span class="lineNumber">17</span>meine landtschafft durch ire gevolmechtigte gesante, gehorsamlich erschinen, <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e228">Wir</button> <br/>
+<span class="lineNumber">18</span>mit inen auch des uf unserm furstenthumb alten, von vil jaren heer steenden schuldenlasts <br/>
+<span class="lineNumber">19</span>halb<a class="fnNumber" href="#F_5" id="A_5">5</a> gnedige hanndlung pflegen lassen, das <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e238">wir</button> unns gnedig, unnd sie unsere ge-<br/>
+<span class="lineNumber">20</span>horsame prelaten unnd landtschafft mit unns undertheniglich folgender punctenn, <br/>
+<span class="lineNumber">21</span>unnd das denselben gegenainander gnedig unnd underthenig<a class="fnNumber" href="#F_6" id="A_6">6</a> in dem werckh nach gesetzt <br/>
+<span class="lineNumber">22</span>unnd gelebt solle werden, mit unnd in crafft diß abschidtz, zu allen theilen fur uns, unsere <br/>
+<span class="lineNumber">23</span>erben unnd nachkommen einhelliglich bewilligt, verglichen, versprochen und verabschidet:
+<span class="lineNumber">24</span><span class="article_added">[Art. 1.1]</span> Erstlichen sollen und wöllen sie usser<a class="fnNumber" href="#F_7" id="A_7">7</a> undertheniger guethertziger zuneigung, so sie <br/>
+<span class="lineNumber">25</span>zu <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e269">unns</button> unnd unsern geliepten sohnen, iren angebornen rechten ainigen landtsfursten <br/>
+<span class="lineNumber">26</span>unnd herrn, gehorsamlich tragen, alls ein ainig zusamen gehörig corpus<a class="fnNumber" href="#F_8" id="A_8">8</a>, samentlich <br/>
+<span class="lineNumber">27</span>mit einander, an statt der hievor zu anno etc. funfftzig viere bewilligten residui<a class="fnNumber" href="#F_9" id="A_9">9</a> unnd <br/>
+<span class="lineNumber">28</span>ablosung hilff, zwelffmal hundert tausent guldin in müntz landtzwerung<a class="fnNumber" href="#F_10" id="A_10">10</a>, jeden gulden <br/>
+<span class="lineNumber">29</span>zu sechtzig creutzern oder funftzehen batzen, der alten schulden, so vor selbigem neherm <br/>
+<span class="lineNumber">30</span>lanndtag des vier unnd funtzigisten jars, uf unserm furstenthumb, unnd chammergut<a class="fnNumber" href="#F_11" id="A_11">11</a> <br/>
+<span class="lineNumber">31</span>gestanden, derwegen etliche prelaten unnd ambtern, gegen habenden schadloß ver-<br/>
+<span class="lineNumber">32</span>sicherungen, mitverschriben, an haubtguet unnd zinß zuvertretten, uf sich nemmen, <br/>
+<span class="lineNumber">33</span>dergestallt, das sie, unnsere prelaten, unnd probstey Nellingen<a class="fnNumber" href="#F_12" id="A_12">12</a>, frawen clöster, <br/>
+<span class="lineNumber">34</span>bigenien<a class="fnNumber" href="#F_13" id="A_13">13</a> unnd kurchencasten<a class="fnNumber" href="#F_14" id="A_14">14</a>, an den obvermelten zwelfmal hundert tausent gulden <br/>
+<span class="lineNumber">35</span>haubtguet unnd darvon fallenden zins, jars viertzig tausent guldin, unnd sie, die landt-<br/>
+<span class="lineNumber">36</span>schafft, funftzig tausent guldin reichen unnd zu der jetzo gemeiner landtschafft geord-<br/>
+<span class="lineNumber">37</span>neter unnd khunfftiger einnemmer hannden jedes jars uf Katharine<a class="fnNumber" href="#F_15" id="A_15">15</a> ohne ver-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-1v"> [Blatt: 1<span class="rectoVerso">v</span> ] </button><br/>
+<span class="lineNumber">38</span>ziehen<a class="fnNumber" href="#F_16" id="A_16">16</a> oder einstellen<a class="fnNumber" href="#F_17" id="A_17">17</a> lifern unnd anntwurtten, davon sie einnemmer <br/>
+<span class="lineNumber">39</span>zum vordersten die jerlichen zins, den zwelfmal hundert tausent guldin, oder des je-<br/>
+<span class="lineNumber">40</span>nigen haubtgutz, so jedes mals uber die abgelöste summa noch bevor sein wurt,<a class="fnNumber" href="#F_18" id="A_18">18</a> <br/>
+<span class="lineNumber">41</span>entrichten, unnd das uberig zuerledigung des hauptguets, so weit sich dasselb er-<br/>
+<span class="lineNumber">42</span>streckhen thuet, verwenden, auch deshalb jerlich dem cleinen usschutz<a class="fnNumber" href="#F_19" id="A_19">19</a> in bey-<br/>
+<span class="lineNumber">43</span>sein unserer dartzu verordneten räth, wie bißheer von wegen der lanndtschafft <br/>
+<span class="lineNumber">44</span>ablesung<a class="fnNumber" href="#F_20" id="A_20">20</a> auch beschehen, gepürende urkhuntliche rechnung thun, und also verhandlen <br/>
+<span class="lineNumber">45</span>sollen, wie des ir von gemeiner prelaten unnd landtschafft habender staat ußweiß-<br/>
+<span class="lineNumber">46</span>en würt.
+<span class="lineNumber">47</span><span class="article_added">[Art. 1.2]</span> Doch dergestallt, das erstlichen durch solliche ir underthenig guthertzig bewilligen, ver-<br/>
+<span class="lineNumber">48</span>sprechen unnd zusagen, von inen usser iren habenden freyhaiten, dem Tuwingischen <br/>
+<span class="lineNumber">49</span>vertrag<a class="fnNumber" href="#F_21" id="A_21">21</a>, auch allen zwischen inen unnd unns bewilligten unnd zugesagten lanndtags <br/>
+<span class="lineNumber">50</span>abschiden unnd vergleichungen nit geschritten, dieselben geschwecht oder geendert, <br/>
+<span class="lineNumber">51</span>sonnder in allen puncten unverendert oder geschmelert<a class="fnNumber" href="#F_22" id="A_22">22</a>, crefftig sein, unnd pleiben sollen. <br/>
+<span class="lineNumber">52</span>Wie <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e441">wir</button> uns dann fur unns, auch unnsere erben, eines solliches gegen inen auch erclärt, thun <br/>
+<span class="lineNumber">53</span>es auch mit unnd in crafft dis abschidtz, dergestalt, das sie bey solchen iren habenden <br/>
+<span class="lineNumber">54</span>freyheiten unnd abschiden gnedig gelassen unnd denen zuwider nichtz in einichen<a class="fnNumber" href="#F_23" id="A_23">23</a> weiß <br/>
+<span class="lineNumber">55</span>oder weg mit anrichtung newer zöllen, ungellt<a class="fnNumber" href="#F_24" id="A_24">24</a>, maßpfennig<a class="fnNumber" href="#F_25" id="A_25">25</a> oder andern anlagen<a class="fnNumber" href="#F_26" id="A_26">26</a>, <br/>
+<span class="lineNumber">56</span>zuwider obgemelten verträgen und abschiden furgenommen solle werden.
+<span class="lineNumber">57</span><span class="article_added">[Art. 1.3]</span> Unnd zum andern, alls dise außtheilung zwischen unnsern prelaten unnd lanndt-<br/>
+<span class="lineNumber">58</span>schafft für ein ungleicheit von unns angesehen worden, dessen doch unnsere lanndt-<br/>
+<span class="lineNumber">59</span>schafft ire ursachen unnd bedenckhen auch angetzeigt, ist dahin verglichen unnd aller-<br/>
+<span class="lineNumber">60</span>seitz bewilligt unnd eingangen, das dise ungleicheit lenger nit weren soll, dann bis an <br/>
+<span class="lineNumber">61</span>den berüerten zwelfmal hundert tausent guldin hauptgutz die zwey mal hundert-<br/>
+<span class="lineNumber">62</span>tausent guldin unnd darvon jerlichs fallende zehen tausent guldin zins volkhommenlich <br/>
+<span class="lineNumber">63</span>abgelöst werden. Wann dann solliches geschehen, sollen allsdann gedachte unnsere prelaten, <br/>
+<span class="lineNumber">64</span>probstey <button class="entity #nellingen_filder place" data-ref="nellingen_filder" data-type="place" id="d2e503">Nellingen</button>, frawen clöster, bigeinen heuser unnd kurchencasten zu <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-2r"> [Blatt: 2<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">65</span>der lanndtschafft funftzig tausent guldin, allein dreissig tausent guldin, so lang und <br/>
+<span class="lineNumber">66</span>vil, bis widerumb zweymal hundert tausent guldin haubtguetz unnd zehen tausent <br/>
+<span class="lineNumber">67</span>guldin zins abgelöst, auch wann das beschehen, unns abermalen funftausent guldin <br/>
+<span class="lineNumber">68</span>in unnser landtschreiberey folgen, unnd mit der ablosung des uberigen schuldenlasts der <br/>
+<span class="lineNumber">69</span>achtmal hundert tausent guldin die allt gewonlich gleicheit zwischen prelaten und <br/>
+<span class="lineNumber">70</span>lanndtschafft gehalten, unnd mit der lanndtschafft funfftzig tausent guldin unnd der pre-<br/>
+<span class="lineNumber">71</span>laten fünf unnd zweintzig tausent guldin, thuet zusamen funf unnd sibentzig tausent, ob-<br/>
+<span class="lineNumber">72</span>gemelter schulden last, der acht mal hundert tausent guldin, mit haubtguet und zinssen <br/>
+<span class="lineNumber">73</span>vertretten<a class="fnNumber" href="#F_27" id="A_27">27</a> unnd geledigt<a class="fnNumber" href="#F_28" id="A_28">28</a> werden, unnd also die obgemelten funftzehen tausent gulden <br/>
+<span class="lineNumber">74</span>der prelaten unnd kurchencastens <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e547">Unns</button> und unsern erben zu ablosung deren uff <br/>
+<span class="lineNumber">75</span>unnserm furstenthumb verpleibendem uberigen alten und newen schulden, wie <br/>
+<span class="lineNumber">76</span>darvon heernacher ein sonderer articul gestellt, neben dem andern deposito und <br/>
+<span class="lineNumber">77</span>uberschus der clöster unnd kurchencastens, <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e556">Unns</button> in unser landtschreiberey ver-<br/>
+<span class="lineNumber">78</span>folgen<a class="fnNumber" href="#F_29" id="A_29">29</a> unnd gedeyen<a class="fnNumber" href="#F_30" id="A_30">30</a>. <br/>
+<span class="lineNumber">79</span><span class="article_added">[Art. 1.4]</span> Auch dise jetzige angetzogne ungleicheit in khunfftigen fellen gemeinen prelaten <br/>
+<span class="lineNumber">80</span>zu keinem eingang unnd nachtheil, noch auch der lanndtschafft zu vortheil gereichen, <br/>
+<span class="lineNumber">81</span>angetzogen oder gepraucht werden sollen. Dartzu der prelaten und anderer <br/>
+<span class="lineNumber">82</span>gaistlichen underthanen unsers furstenthumbs höhers nit, dann wie andere unsers <br/>
+<span class="lineNumber">83</span>furstenthumbs underthanen belegt werden.
+<span class="lineNumber">84</span><span class="article_added">[Art. 1.5]</span> Damit unnd aber unnser furstenthumb, sovil ehe des gantzen schuldenlasts entlichen <br/>
+<span class="lineNumber">85</span>unnd gentzlichen erledigt, haben <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e594">wir</button> gnedig verwilligt unnd uf uns genommen, <br/>
+<span class="lineNumber">86</span>den uberigen rest alter und neuer uf beruertem unserm furstenthumb steender <br/>
+<span class="lineNumber">87</span>schulden von unnserm chammerguet, auch der clöster und kurchencastens de-<br/>
+<span class="lineNumber">88</span>posito unnd uberschus so ehist zuerledigen unnd abzulösen. Unnd allso unnser landt-<br/>
+<span class="lineNumber">89</span>schafft von demselben gentzlichen entledigt unnd daran einige fernere hilff zu-<br/>
+<span class="lineNumber">90</span>thun nit schüldig sein, <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-2v"> [Blatt: 2<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">91</span>unnd als <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e627">wir</button> unnserer prelaten unnd lanndtschafft verordneten usschutz, vor der <br/>
+<span class="lineNumber">92</span>zeit gnedig berichten lassen, das unns noch bis in die drey unnd zweintzig tausent <br/>
+<span class="lineNumber">93</span>sibenhundert unnd siben unnd funftzig guldin, zwen unnd viertzig creutzer reichs <br/>
+<span class="lineNumber">94</span>hilffen usstendig, welliche <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e636">wir</button> von gemeiner unser prelaten und lanndtschafft <br/>
+<span class="lineNumber">95</span>wegen usgelegt, sie aber innhalt der reichsabschid zuerstatten schuldig weren, haben <br/>
+<span class="lineNumber">96</span><button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e643">wir</button> inen solliche gegen der jetz verwilligten mehrern hilff gnediglich nachgelassen. <br/>
+<span class="lineNumber">97</span>Dargegenn sollen auch die acht tausent guldin, sie unns nehern jaren, uf unnser gnedigs <br/>
+<span class="lineNumber">98</span>begern, von der ablesungs hilf gegeben, gefallen sein. Doch was für reichs anlagen <br/>
+<span class="lineNumber">99</span>jedertzeit, khünfftig gemeinen stennden des <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e652">reichs</button> uffgelegt, unnd von den under-<br/>
+<span class="lineNumber">100</span>thonen zuerstatten verabschidet, das solliches allweg zu irer angepür von dem uß-<br/>
+<span class="lineNumber">101</span>schutz in unnser lanndtschreiberey richtig betzalt unnd erlegt werde, <br/>
+<span class="lineNumber">102</span><span class="article_added">[Art. 2.1]</span> unnd aber mit unnd bey sollichem irem underthenigen bewilligen, gleich anfangs unnd <br/>
+<span class="lineNumber">103</span>in aller handlung, bey uns, auch unsern geliepten söhnen, von prelaten und lanndt-<br/>
+<span class="lineNumber">104</span>schafft, folgender puncten halb gantz underthenig unnd gehorsamlich gepettenn, <br/>
+<span class="lineNumber">105</span>unnd angehalten worden, damit, wie sie bißheer in allem gotseeligen friden und weß-<br/>
+<span class="lineNumber">106</span>en erhalten, dieselbigen auch zum vordersten, durch den milten seegen, gedeyen und <br/>
+<span class="lineNumber">107</span>verleyhen seiner götlichen gnaden, auch unnser und unserer nachkhommen gnedige <br/>
+<span class="lineNumber">108</span>unnd vätterliche befürderung, gemeine unnsere getreue prelaten und lanndtschafft, <br/>
+<span class="lineNumber">109</span>in unnd bey der erkhanten unnd bekhanten warheit der <button aria-label="opens information about an entity" class="entity event" data-ref="#ca_invariata">Augspurgischen</button> und unserer <br/>
+<span class="lineNumber">110</span>dem <button aria-label="opens information about an entity" class="entity event" data-ref="#tridentinum">concilio zu Trient</button> uberreichter <button aria-label="opens information about an entity" class="entity event" data-ref="#confessio_virtembergica">Christlicher Confession</button>, unnd daruf erfolgter <br/>
+<span class="lineNumber">111</span>beeder Apologien<a class="fnNumber" href="#F_31" id="A_31">31</a>, auch angestelter gleichmessiger kurchenordnung<a class="fnNumber" href="#F_32" id="A_32">32</a>, durch das gantz fursten-<br/>
+<span class="lineNumber">112</span>thumb, auch dieselbige uf unnsere und ire nachkhommen unnd posteritet<a class="fnNumber" href="#F_33" id="A_33">33</a> propagiert <br/>
+<span class="lineNumber">113</span>erhalten unnd erstreckht, <br/>
+<span class="lineNumber">114</span>damit auch alle neuerungen, in religions unnd kurchen ceremonien, darbey <br/>
+<span class="lineNumber">115</span>auch alle einschleichende secten, sovil immer müglich, verhüet und fürkhommen, <br/>
+<span class="lineNumber">116</span>auch wa die haimlichen eingewurtzlet gentzlichen widerumb abgewendt, unnd keins wegs <br/>
+<span class="lineNumber">117</span>geduldet möchten werden. <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-3r"> [Blatt: 3<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">118</span>Unnd dann unns sollich ir einmüetig, einhellig, guethertzig unnd gotseeligs <br/>
+<span class="lineNumber">119</span>bitten unnd suchen zu hertzlichen freuden unnd ganz gnedigem gefallen gereicht, <br/>
+<span class="lineNumber">120</span>auch vor dem angesicht Gottes erkhennen unnd bekhennen, das unns durch sein <br/>
+<span class="lineNumber">121</span>gnad unnd verleyen des hailligen Gaists für unns unnd unsere geliepte khinder, <br/>
+<span class="lineNumber">122</span>auch getreue gehorsame lanndtschafft, höhers nit angelegen, dann das <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e751">wir</button> und <br/>
+<span class="lineNumber">123</span>sie, in rechter warer erkhanntnus unnsers ainigen herrn unnd seeligmachers <br/>
+<span class="lineNumber">124</span>Jhesu Christi unnd seines hailigen unnd allein seelig unnd lebendig machenden <br/>
+<span class="lineNumber">125</span>worts, deßgleichen <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e761">wir</button>, unsere geliepte Söhn unnd nachkhommen bey unser <br/>
+<span class="lineNumber">126</span>getreuen lanndtschafft in christlichen gotseeligem regiment, hinwider sie auch <br/>
+<span class="lineNumber">127</span>in allem fridlichem gotgefelligem leben unnd wesen erhalten möchten werden, <br/>
+<span class="lineNumber">128</span>so haben <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e770">wir</button> solliche ir eufferige<a class="fnNumber" href="#F_34" id="A_34">34</a> guethertzige bekhantnus unnd underthenig pitten <br/>
+<span class="lineNumber">129</span>unnserer gehorsamen prelaten unnd lanndtschafft zu gantz gnedigem wolgefall-<br/>
+<span class="lineNumber">130</span>en angenommen unnd unns mit inen gnedig, auch sie mit unns sich underthenig-<br/>
+<span class="lineNumber">131</span>lichen verglichen, obgemelte <button aria-label="opens information about an entity" class="entity event" data-ref="#ca_invariata">Augspurgische</button>, unnd <button aria-label="opens information about an entity" class="entity event" data-ref="#confessio_virtembergica">unser christlichen bekhantnus</button>, <br/>
+<span class="lineNumber">132</span>sambt der darüber ufgerichten unnd angestelten kurchenordnung<a class="fnNumber" href="#F_35" id="A_35">35</a>, durch die gnad <br/>
+<span class="lineNumber">133</span>des Allmechtigen, für unns, unnsere erben unnd nachkhommen allso in der kürchen <br/>
+<span class="lineNumber">134</span>Gottes zuerhallten, darüber getreu wechter unnd schirmer, deßgleichen ge-<br/>
+<span class="lineNumber">135</span>horsame gefällige underthanen zusein, unns auch von sollicher waren erkhantnus <br/>
+<span class="lineNumber">136</span>durch die gnad des Allmechtigen durch kein zeitliche gefahr, gewalt noch macht abwend-<br/>
+<span class="lineNumber">137</span>en, sonder zuerhaltung derselbigen allerseitz alle unnsere eusserste vermögen <br/>
+<span class="lineNumber">138</span>leibs, guetz unnd bluets gnedig unnd undertheniglich zu lob seines götlichen namens <br/>
+<span class="lineNumber">139</span>unnd erhaltung seiner geliepten kurchen zusamen setzen<a class="fnNumber" href="#F_36" id="A_36">36</a>, und bey sollicher erkanter <br/>
+<span class="lineNumber">140</span>und bekhannter warheit, durch die gnad des Allmechtigen, zu allen theillen gotselig <br/>
+<span class="lineNumber">141</span>und bestendiglichen pleiben.
+<span class="lineNumber">142</span><span class="article_added">[Art. 2.2]</span> Es sollen auch unnsere gehorsame prelaten und lanndtschafft sich undertheniglich zue <br/>
+<span class="lineNumber">143</span>uns getrösten, das <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e843">wir</button> nit allein die tag unnsers lebens, unsere geliepte söhne, <br/>
+<span class="lineNumber">144</span>dahin auch mit allem vätterlichen fleiß vermanen unnd anhalten, sonnder auch <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-3v"> [Blatt: 3<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">145</span>in unnser vorhabennder vätterlicher dispositio unnd ordnung dahin ernstlich weißen <br/>
+<span class="lineNumber">146</span>unnd vermögen wollen, bey sollicher Confessio unnd unsern angerichten <br/>
+<span class="lineNumber">147</span>kurchen-, schul- unnd anndern ordnungen bestendiglich zupleiben, darüber alls <br/>
+<span class="lineNumber">148</span>getreu wächter unnd hürten<a class="fnNumber" href="#F_37" id="A_37">37</a> zuhalten, unnd die gotseeliglich handtzuhaben<a class="fnNumber" href="#F_38" id="A_38">38</a>, <br/>
+<span class="lineNumber">149</span>ob auch in khunfftig zeit zuwider sollicher Augspurgischen unnd unser Confession <br/>
+<span class="lineNumber">150</span>unnd appologien, inen anders ufgetrachen wolte werden (welliches doch Gott <br/>
+<span class="lineNumber">151</span>gnediglich unnd vätterlich verhueten welle), das die prelaten unnd von der lanndt-<br/>
+<span class="lineNumber">152</span>schafft, solliches für ire personen, oder auch in den kurchen der stät und fleckhen <br/>
+<span class="lineNumber">153</span>unsers furstenthumbs antzunemmen unnd zutzulassen, doch mit aller be-<br/>
+<span class="lineNumber">154</span>schaidenheit, sovil christlichen underthonen gegen irer ordenlichen oberkheit gepürt, <br/>
+<span class="lineNumber">155</span>nit schuldig sein sollen.
+<span class="lineNumber">156</span><span class="article_added">[Art. 3]</span> Es solle auch der prelaten stannd bey unnserm furstenthumb, vermög der erection <br/>
+<span class="lineNumber">157</span>alls der annder lanndtstannd, durch unns, unsere erben unnd nachkhommen erhalten, <br/>
+<span class="lineNumber">158</span>stetigs sein unnd pleiben, inmassen derwegen hievor in unser im truckh anno etc. <br/>
+<span class="lineNumber">159</span>funftzig neune ausgangnen ordnungen<a class="fnNumber" href="#F_39" id="A_39">39</a> auch fursehung geschehen, unnd solliche pre-<br/>
+<span class="lineNumber">160</span>laturen jedertzeit mit gotsförchtigen, gelerten unnd fridliebenden theologen besetzt <br/>
+<span class="lineNumber">161</span>die auch ir sein unnd session bey denn land unnd usschutz tägen haben, unnd was jeder <br/>
+<span class="lineNumber">162</span>zeit zu unnser, auch unnserer geliepten söhnen, allen derselben nachkhommen, deß-<br/>
+<span class="lineNumber">163</span>gleichen gemeinem unnserm furstenthumb lanndt unnd leuthen nutz, ehr, ufganng<a class="fnNumber" href="#F_40" id="A_40">40</a> <br/>
+<span class="lineNumber">164</span>unnd wolfardt zuberathschlagen unnd furtzunemmen fürfellt, dasselbig mit unnd <br/>
+<span class="lineNumber">165</span>neben unnserer gehorsamen lanndtschafft getreulichen erwegen unnd schliessen, der-<br/>
+<span class="lineNumber">166</span>gleichen was verglichen, in das werckh zurichten, underthenig und gehorsamlichen helffen, <br/>
+<span class="lineNumber">167</span>auch von sollichen prelaturen nichtz verendert, versetzt, noch alieniert werden.
+<span class="lineNumber">168</span><span class="article_added">[Art. 4]</span> Allso sollen auch die gaistlichen gefäll unnsers angerichten kurchencastens, was diser zeit <br/>
+<span class="lineNumber">169</span>von stifften, manns unnd frauen clöster, samlungen unnd andern gaistlichen ein-<br/>
+<span class="lineNumber">170</span>khommen dahin verwenndt unnd mit der Zeit, vermög obvermelter unser im truckh <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-4r"> [Blatt: 4<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">171</span>außgangener ordnung, weiter darein fallen soll, bestendiglich erhalten, solliche <br/>
+<span class="lineNumber">172</span>gefell nit verendert, sonnder zuerhaltung der ministerien, ansehenlichen großen <br/>
+<span class="lineNumber">173</span>antzaal der pfarrern, diaconen, subdiaconen, der angerichten pedagogien unnd <br/>
+<span class="lineNumber">174</span>allen dartzu gehörigen notwendigen preceptorn, deßgleichen zuerstattung der sub-<br/>
+<span class="lineNumber">175</span>sidien der gar armen jungen schulern, unnd dann sonderlichen zu trost, schutz unnd <br/>
+<span class="lineNumber">176</span>schirm lanndt unnd leuthen, auch andern dergleichen gotgefelligen nottwendigen <br/>
+<span class="lineNumber">177</span>usgaben, abermals vermög unser im truckh ausgangner ordnung, in unnserm <br/>
+<span class="lineNumber">178</span>furstenthumb verwenndt werden.
+<span class="lineNumber">179</span><span class="article_added">[Art. 5.1]</span> Sovil dann die gebettene dotation unnsers stipendii zu <button class="entity #tuebingen place" data-ref="tuebingen" data-type="place" id="d2e992">Tuwingen</button><a class="fnNumber" href="#F_41" id="A_41">41</a> belangt, haben <br/>
+<span class="lineNumber">180</span>wir nach zeitlichem daruber gehaptem rath nicht khünden befinden, wie semlichs <br/>
+<span class="lineNumber">181</span>bas dotiert möge werden, dann das uber die jerliche geordnete gefell und einkhom-<br/>
+<span class="lineNumber">182</span>men an gelt, so hievor in unsere ämpter ausgetheilt, desgleichen die verord-<br/>
+<span class="lineNumber">183</span>nete hilf von den prelaturen an fruchten unnd wein, bestendiglichen dahin, unnd <br/>
+<span class="lineNumber">184</span>was weiter (welches dann auch ein ansehenlichs ist) ufgewenndt usser dem kurch-<br/>
+<span class="lineNumber">185</span>encasten unnd desselbigen gefellen dahin gefolgt, unnd also das stipendium dar-<br/>
+<span class="lineNumber">186</span>uf bestendiglich fundiert, verwisen unnd versichert sein solle etc. <br/>
+<span class="lineNumber">187</span><span class="article_added">[Art. 5.2]</span> Wann es sich aber mit der zeit befinden, das inen fürtreglicher sein möchte, dasselbig <br/>
+<span class="lineNumber">188</span>mit underschidlichen benanten gefellen irem begern nach dotiert solte werdenn, <br/>
+<span class="lineNumber">189</span>wellen wir dartzu auch gnedige hilff unnd befurderung thun.
+<span class="lineNumber">190</span><span class="article_added">[Art. 5.3]</span> Unnd dieweil fur rathsam angesehen, das von wegen des fruchtparlichen profectus <br/>
+<span class="lineNumber">191</span>unnd furschreittens der jugendt in den vier mehrern oder grössern closter <br/>
+<span class="lineNumber">192</span>schulen<a class="fnNumber" href="#F_42" id="A_42">42</a> von der bestimbten, darinn erhaltenden antzaal, jeder zeit funfftzig <br/>
+<span class="lineNumber">193</span>in unnser stipendium zu <button class="entity #tuebingen place" data-ref="tuebingen" data-type="place" id="d2e1054">Tuwingen</button>, uber die hundert, so zuvor bestendig <br/>
+<span class="lineNumber">194</span>alda seien, geordnet werden sollen, haben wir unns solliches auch gnedig gefall-<br/>
+<span class="lineNumber">195</span>en lassen, unnd hiemit dise verordnung gethon, das solliche funfftzig personen <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-4v"> [Blatt: 4<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">196</span>von den vier clöstern erhalten, unnd allso das in einer summa in unserm stipendio <br/>
+<span class="lineNumber">197</span>zu <button class="entity #tuebingen place" data-ref="tuebingen" data-type="place" id="d2e1074">Tuwingen</button> unnd in den closter schulen unstendiglich vierthalbhundert<a class="fnNumber" href="#F_43" id="A_43">43</a> lanndt-<br/>
+<span class="lineNumber">198</span>khinder<a class="fnNumber" href="#F_44" id="A_44">44</a>, in gottesforcht aller christlichen unnd gotgefelligen education<a class="fnNumber" href="#F_45" id="A_45">45</a> und disciplin <br/>
+<span class="lineNumber">199</span>deß gleicher getreuer unnd embsiger anhaltung unnd befurderung irer studien, <br/>
+<span class="lineNumber">200</span>sonderlichen aber zuversehung unnd besetzung der ministerien der kurchen Gottes <br/>
+<span class="lineNumber">201</span>unnd der schulen gotseeliglich ertzogen und per gradus<a class="fnNumber" href="#F_46" id="A_46">46</a> gefurdert werden sollen, <br/>
+<span class="lineNumber">202</span>allso wellen wir auch, das die closter schulen in dem stannd der christlichen disciplin, <br/>
+<span class="lineNumber">203</span>zucht, lehr unnd gotsförchtigen ybungen leben unnd wesen. Desgleichen in der <br/>
+<span class="lineNumber">204</span>antzaal der personen, nemlich dritthalbhundert<a class="fnNumber" href="#F_47" id="A_47">47</a>, darunder die funftzig, so im stipen-<br/>
+<span class="lineNumber">205</span>dio erhalten werden sollen, auch gerechnet, auch der verordneten underhaltung, <br/>
+<span class="lineNumber">206</span>wie dieselben jedem closter hiebevor unnd anfangs benent unnd geordnet seien, <br/>
+<span class="lineNumber">207</span>fur unnd fur sollen von unsern landtkindern besetzt, erhalten, von einem gradu <br/>
+<span class="lineNumber">208</span>zu dem andern, in studiis gefurdert, letstlichen gehn<a class="fnNumber" href="#F_48" id="A_48">48</a> <button class="entity #tuebingen place" data-ref="tuebingen" data-type="place" id="d2e1127">Tuwingen</button> in das stipendi-<br/>
+<span class="lineNumber">209</span>um zu volkhommenem lauf irer studiorum verordnet unnd von dannen zue <br/>
+<span class="lineNumber">210</span>den ministerien an gepürende orth angenommen werden.
+<span class="lineNumber">211</span><span class="article_added">[Art. 5.4]</span> Dergleichen sollen auch weniger nicht die angerichte pedagogia, particular schulen, deß-<br/>
+<span class="lineNumber">212</span>gleichen subsidia, der gar armen unnd jungen schulkhinder in irem wesen bestendiglich <br/>
+<span class="lineNumber">213</span>zu trost der armen und gotseeliger ufferziehung irer jugendt erhalten werden. <br/>
+<span class="lineNumber">214</span><span class="article_added">[Art. 5.5]</span> Uber solliches, dieweil hietzwischen der angerichten closter schulen unnd gotseeligen christen-<br/>
+<span class="lineNumber">215</span>lichen exercitien, auch disciplinen, in demselben mehrfelltig furgefallen, das vonn <br/>
+<span class="lineNumber">216</span>gemeiner unsers fürstenthumbs burgerschafft, furnemlichen aber den jenigen, so <br/>
+<span class="lineNumber">217</span>den armen mit hinpringung irer khinder nit gern verhinderung thun oder den-<br/>
+<span class="lineNumber">218</span>selben furkhommen, aber dannocht gegen Got dem herrn vonn wegen irer daheer <br/>
+<span class="lineNumber">219</span>gnediglichen bescherter unnd gemehrter narung gern sich auch danckhpar ertzeigen, und <br/>
+<span class="lineNumber">220</span>ire khinder in aller gotz forcht, zucht, disciplin unnd eingezogenem wesen von jug-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-5r"> [Blatt: 5<span class="rectoVerso">r</span> ] </button><br/>
+<span class="lineNumber">221</span>endt uf zubefurdern, seiner allmechtigkheit, ehr unnd des gemeinen nutzen, es <br/>
+<span class="lineNumber">222</span>were gleich in kurchen oder politischen sachen in den clöstern, gegen zimlicher er-<br/>
+<span class="lineNumber">223</span>legung des costs geltz, vil lieber alls bey den pedagogiis oder particular schulen, in <br/>
+<span class="lineNumber">224</span>den stätten unsers furstenthumbs oder andern orthen, allerdings der disciplinen <br/>
+<span class="lineNumber">225</span>unnd christlichen exercitien, den anndern closter schulen gemeß, uffertziehenn <br/>
+<span class="lineNumber">226</span>lassen wolten, unnd allso dahin gedacht worden, wa ire kinder nit gehörtermassen <br/>
+<span class="lineNumber">227</span>bey den anndern lanndt khindern undergebracht und erhalten, das doch eines oder <br/>
+<span class="lineNumber">228</span>zwey clöster zu sollicher burgerlichen schul, unnd allein zu irem underschlauf, dar-<br/>
+<span class="lineNumber">229</span>zu die disciplin der preceptorn von den clöstern, aber alle anndere underhaltung <br/>
+<span class="lineNumber">230</span>mit essen, trinkhen, unnd anderer notturfft von inen selbs oder deren eltern ge-<br/>
+<span class="lineNumber">231</span>haben möchten. <br/>
+<span class="lineNumber">232</span>Solliches aber bißheer nit angericht, noch dise zeit uf gewisse maß unnd ordnung bedacht, unnd <br/>
+<span class="lineNumber">233</span>berathschlagt werden mögen, <br/>
+<span class="lineNumber">234</span>unns aber sollich christenlich vorhaben auch nit zuwider, so haben <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e1230">wir</button> unns gnedig <br/>
+<span class="lineNumber">235</span>dahin erclärt, sollichem werckh berathenlich nach unnd uf solliche mittel unnd weg zuge-<br/>
+<span class="lineNumber">236</span>denkhen, damit abermals die vermögliche burgerschafft in dem unsern gnedigen <br/>
+<span class="lineNumber">237</span>willen befinden unnd spüren sollen.
+<span class="lineNumber">238</span><span class="article_added">[Art. 5.6]</span> Wie <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e1250">wir</button> dann auch im werckh, unnd also in beraitschafft stannden, neben unsern unnd <br/>
+<span class="lineNumber">239</span>unnserer universitet zu <button class="entity #tuebingen place" data-ref="tuebingen" data-type="place" id="d2e1255">Tuwingen</button> zuthun, daselbst ein gantz neu collegium<a class="fnNumber" href="#F_49" id="A_49">49</a> uf-<br/>
+<span class="lineNumber">240</span>richten unnd das furnemlich bauen unnd anrichten zulassen, damit unnsers <br/>
+<span class="lineNumber">241</span>furstenthumbs lanndtkhinder neben andern darinnen iren underschlauf, disciplin, <br/>
+<span class="lineNumber">242</span>auch zimliche underhaltung mit essen unnd trinckhen gegen gepürlicher und <br/>
+<span class="lineNumber">243</span>leidenlicher betzalung haben, unnd nit ires gefallens in der statt bey der burger-<br/>
+<span class="lineNumber">244</span>schafft, weder ir underhaltung noch wohnung suchen dörffen, <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-5v"> [Blatt: 5<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">245</span><span class="article_added">[Art. 5.7]</span> Allso seien wir in berathschlagung etliche plater heuser<a class="fnNumber" href="#F_50" id="A_50">50</a>, ob unnd unnder der staige<a class="fnNumber" href="#F_51" id="A_51">51</a>, an ge-<br/>
+<span class="lineNumber">246</span>legnen orthen, für die presthaffte<a class="fnNumber" href="#F_52" id="A_52">52</a> verletzte arme personen anzurichten, da-<br/>
+<span class="lineNumber">247</span>mit solliche presthaffte leuth darinnen mit rath unnd pflag<a class="fnNumber" href="#F_53" id="A_53">53</a> der artzet<a class="fnNumber" href="#F_54" id="A_54">54</a> und scherer<a class="fnNumber" href="#F_55" id="A_55">55</a>, <br/>
+<span class="lineNumber">248</span>sonnder auch mit anderer notturfft zimlich underhalten, inmassen derwegen in <br/>
+<span class="lineNumber">249</span>mehrgemelter unser ordnung auch anregung geschicht.
+<span class="lineNumber">250</span><span class="article_added">[Art. 6.1]</span> <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e1332">Wir</button> haben unns auch bey obgemeltem puncten der ablosung hilf ferner gnedig-<br/>
+<span class="lineNumber">251</span>lichen erclärt unnd bewilligt, wo unnsers furstenthumbs incorporierter<a class="fnNumber" href="#F_a" id="A_a">a</a>, diser <br/>
+<span class="lineNumber">252</span>Zeit aber widerspenstiger prelat zu <button class="entity #zwiefalten_kloster place" data-ref="zwiefalten_kloster" data-type="place" id="d2e1351">Zwifalten</button><a class="fnNumber" href="#F_56" id="A_56">56</a> zu schuldiger gepürlicher unnd von <br/>
+<span class="lineNumber">253</span>alter heerkhommener gehorsame der gemeinen contributionen unnd andern <br/>
+<span class="lineNumber">254</span>hilffen auch geprachtt, das sein angepür, alls ein augmentum, auch zu der abloß-<br/>
+<span class="lineNumber">255</span>ungs hilf angewenndt unnd gefolgt werden.
+<span class="lineNumber">256</span><span class="article_added">[Art. 6.2]</span> Allso wellen wir auch bey den Sachsenheimischen underthanen<a class="fnNumber" href="#F_57" id="A_57">57</a> gnedige handlung fur-<br/>
+<span class="lineNumber">257</span>nemmen lassen, damit sie an sollichem schuldenlast auch contribuiern, und was <br/>
+<span class="lineNumber">258</span>bey denselbigen erhalten, solliches auch gemeiner lanndtschafft zu guetem an der ab-<br/>
+<span class="lineNumber">259</span>losung hilf kommen lassen.
+<span class="lineNumber">260</span><span class="article_added">[Art. 6.3]</span> Allso sollen auch die von Ober Sielmingen<a class="fnNumber" href="#F_58" id="A_58">58</a>, angesehen sie von althers auch zue <br/>
+<span class="lineNumber">261</span>unnserm furstenthumb gehört unnd jetzo widerumb zu demselben erlangt, <br/>
+<span class="lineNumber">262</span>gleichmessiger angepür nach, das ir<a class="fnNumber" href="#F_59" id="A_59">59</a> zu diser hilf erstatten, unnd unnserm <br/>
+<span class="lineNumber">263</span>furstenthumb einverleipt unnd anhengig sein unnd pleiben.
+<span class="lineNumber">264</span><span class="article_added">[Art. 7.1]</span> Bey disem allem ist auch ferner verglichen unnd verabschidet, im fal sich ein <br/>
+<span class="lineNumber">265</span>lanndtkrieg, niderlag eines regierenden fursten (welches doch Got gnedig-<br/>
+<span class="lineNumber">266</span>lich verhüeten welle), außsteurung der fröwlin<a class="fnNumber" href="#F_60" id="A_60">60</a>, reichshilffen oder der-<br/>
+<span class="lineNumber">267</span>gleichen notfellen, so gemeinen unnsern prelaten unnd lanndtschafft, nach <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-6r"> [Blatt: 6<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">268</span>innhallt des Tuwingischen<a class="fnNumber" href="#F_61" id="A_61">61</a> unnd nehern anno etc. funftzig vier aufgerichten <br/>
+<span class="lineNumber">269</span>vertrags unnd lanndtags abschid<a class="fnNumber" href="#F_62" id="A_62">62</a>, hilf zuthun oder zuvertretten gepürte, zu <br/>
+<span class="lineNumber">270</span>müegen, das alßdann die ablossung stillsteen unnd dahin verwenndt werden <br/>
+<span class="lineNumber">271</span>solle.
+<span class="lineNumber">272</span><span class="article_added">[Art. 7.2]</span> Das auch gemeine prelaten unnd lanndtschafft, deren usschutz alhie befolhen, hin-<br/>
+<span class="lineNumber">273</span>fürean inmassen von alter heerkhommen zu ussteurung der fröwlin zu <br/>
+<span class="lineNumber">274</span><button class="entity #wuerttemberg_herzogtum place" data-ref="wuerttemberg_herzogtum" data-type="place" id="d2e1491">Wurtemberg</button> dreissig zwey tausent guldin zugeben, das nemmen <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e1494">wir</button> von <br/>
+<span class="lineNumber">275</span>unnser getreuen geliepten landtschafft zu gnedigem gefallen an, und wellen <br/>
+<span class="lineNumber">276</span>die verwürckhten strafen deren, so uber verbot des mandatz neue weingart <br/>
+<span class="lineNumber">277</span>ohne erlaubnus gemacht haben, uf der lanndtschafft underthenig fürpit gnedig- <br/>
+<span class="lineNumber">278</span>lichen fallen lassen, doch das sollichem verpot, welliches wir auch durch <br/>
+<span class="lineNumber">279</span>ein usschreiben in alle ämbter unnsers furstenhumbs wider erneuern <br/>
+<span class="lineNumber">280</span>unnd ußkhunden lassen wellen, würckhlichen unnd gehorsamlich hinfüro ge-<br/>
+<span class="lineNumber">281</span>lebt unnd die ubertretter vermög unnd innhalt solliches gestrafft werd- <br/>
+<span class="lineNumber">282</span>enn.
+<span class="lineNumber">283</span><span class="article_added">[Art. 8]</span> <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e1526">Wir</button> seien auch gnediglichen bedacht, die pfanndtschafft der dreien fleckhen <br/>
+<span class="lineNumber">284</span>ihenseit des <button class="entity #heuchelberg place" data-ref="heuchelberg" data-type="place" id="d2e1531">Heuchelbergs</button>, <button class="entity #kleingartach place" data-ref="kleingartach" data-type="place" id="d2e1534">Gartach</button>, <button class="entity #niederhofen_schwaigern place" data-ref="niederhofen_schwaigern" data-type="place" id="d2e1538">Niderhofen</button> unnd <button class="entity #stetten_am_heuchelberg place" data-ref="stetten_am_heuchelberg" data-type="place" id="d2e1541">Stetten</button>,<a class="fnNumber" href="#F_63" id="A_63">63</a> wann <br/>
+<span class="lineNumber">285</span>die pfannd jar uß sein, zu unserm furstenthumb widerumb zulösen. So <br/>
+<span class="lineNumber">286</span>hat es noch der zeit mit <button class="entity #heubach place" data-ref="heubach" data-type="place" id="d2e1572">Heubach</button> sein sonndere maß, darus nit wol geschritten <br/>
+<span class="lineNumber">287</span>mag werden.<a class="fnNumber" href="#F_64" id="A_64">64</a>
+<span class="lineNumber">288</span><span class="article_added">[Art. 9]</span> Nach dem auch von gemeinen unnsern prelaten unnd landtschafft, unangesehen <br/>
+<span class="lineNumber">289</span>hiebevor irem grossen usschutz neben fürlesung der gelerten schrifftlichen <br/>
+<span class="lineNumber">290</span>rathschlegen, auch gnugsamer des alten geprauchs vnd heerkhommens, wie <br/>
+<span class="lineNumber">291</span>es des abtzugs halben im hinaus erben geschaffen, bericht furgebracht, dannocht <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-6v"> [Blatt: 6<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">292</span>bey disem landtag widerumb anregung beschehen, <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e1625">Wir</button> aber befunden, solliche ein-<br/>
+<span class="lineNumber">293</span>khommen fur ein sonnder ehehafft<a class="fnNumber" href="#F_65" id="A_65">65</a> in unnsers furstenthumbs allwegen gehalten und <br/>
+<span class="lineNumber">294</span>gehandthabt sein, auch von andern genachparten chur unnd furstenthumben, herrschafften, <br/>
+<span class="lineNumber">295</span>stätten unnd oberkheiten gegen den unsern solliches nit gepraucht, so haben <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e1642">wir</button> in dem auch <br/>
+<span class="lineNumber">296</span>nit untzytliche bedenckhen gehapt unnd es allso bey dem alten heerkhommen pleiben lassen, <br/>
+<span class="lineNumber">297</span>dan uf unser gehorsamen prelaten unnd landtschafft underthenigs beschehen erhalten unnd <br/>
+<span class="lineNumber">298</span>bitten, haben <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e1651">wir</button> aus gnaden bewilligt, das gegen denen oberkheiten, so gegen unsers <br/>
+<span class="lineNumber">299</span>furstenthumbs angehörigen und underthanen die gleicheit halten werden, unnd also kein <br/>
+<span class="lineNumber">300</span>abtzug nemmen, das die elter ire kinder, hinwider die khinder ire eltern, vatter und muter, <br/>
+<span class="lineNumber">301</span>ahne abtzug aus unnd einerben mögen, ob auch andere anreinende herrschafften und ober-<br/>
+<span class="lineNumber">302</span>kheiten, an unnser fürstenthumb, sich weiters mit dem aus und ein erben mit uns und unser <br/>
+<span class="lineNumber">303</span>lanndtschafft bestendiglich vergleichen welten, wollen <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e1669">wir</button> uns gleichsfals unsern underthanen <br/>
+<span class="lineNumber">304</span>zu gnaden auch gnedig verhalten.
+<span class="lineNumber">305</span><span class="article_added">[Art. 10]</span> Alls sich auch unsere getreue lanndtschafft beclagt, das an vilen orthen unsers furstenthumbs durch <br/>
+<span class="lineNumber">306</span>das wildpret schaden beschehe, haben <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e1684">wir</button> unns gnedig verwilligt, so offt <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e1687">wir</button> kunfftig deßen <br/>
+<span class="lineNumber">307</span>in specie bericht werden, gnedigs unnd gepürlichs einsehens zuverfüegen, damit das wild-<br/>
+<span class="lineNumber">308</span>prät nit hauffent zuschaden des armen mans unnd seiner feldgüetlin uberhannd nemme, <br/>
+<span class="lineNumber">309</span>wa unns auch von wegen haagens, jagens, extra ordinari fuerung<a class="fnNumber" href="#F_66" id="A_66">66</a>, beschwerden furkhämen <br/>
+<span class="lineNumber">310</span>und uns die in specie dargethan werden, wellen <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e1706">wir</button> jedertzeit gepürlichs einsehens thun <br/>
+<span class="lineNumber">311</span>und sie altem heerkhommen zuwider nit beschweren lassen.
+<span class="lineNumber">312</span><span class="article_added">[Art. 11]</span> <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e1718">Wir</button> gedenckhen auch bey den prelaten und nunnen clöstern, sovil immer müglich, mhrere <br/>
+<span class="lineNumber">313</span>eingetzognere unnd bessere haußhaltungen dermassen antzustellen, damit von jaren <br/>
+<span class="lineNumber">314</span>zu jaren solliche des kurchencastens depositum gemehrt unnd mit der ablosung dester <br/>
+<span class="lineNumber">315</span>richtiger möge furgeschritten werden.
+<span class="lineNumber">316</span><span class="article_added">[Art. 12]</span> Alls auch die lanndtschafft sich ab<a class="fnNumber" href="#F_67" id="A_67">67</a> unsern ambtleuthen, das sie die underthanen in irer verricht-<br/>
+<span class="lineNumber">317</span>ung rauch<a class="fnNumber" href="#F_68" id="A_68">68</a> anfaren unnd was unbeschaiden verhalten sollen, sich beclagen, da ist unser <br/>
+<span class="lineNumber">318</span>gnedigs begern, uns solliches in specie jedertzeit antzutzeigen, wellen <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e1749">wir</button> darüber <br/>
+<span class="lineNumber">319</span>billichs einsehens haben.
+<span class="lineNumber">320</span><span class="article_added">[Art. 13]</span> Allso wellen wir auch die professores unserer hohen schul mit embsigerm lesen zue <br/>
+<span class="lineNumber">321</span>mehrerm fleiß anhalten.
+<span class="lineNumber">322</span><span class="article_added">[Art. 14]</span> Dieweil auch uf disem landtag furgefallen, das von nöten sein welle, was erclärung <br/>
+<span class="lineNumber">323</span>in dem landtrechten von wegen der erbschafften zu thun, wellen wir zu ehister ge-<br/>
+<span class="lineNumber">324</span>legenheit dartzu unsere räth neben der lanndtschafft usschutz, auch von der juristen <br/>
+<span class="lineNumber">325</span>facultet zu <button class="entity #tuebingen place" data-ref="tuebingen" data-type="place" id="d2e1785">Tuwingen</button> ordnen, die sollichs alles ersehen, erwegen, unnd nach dem ir <br/>
+<span class="lineNumber">326</span>samentlich bedenckhen unns furgepracht, alßdann daruf sollich unser landtrecht in den <br/>
+<span class="lineNumber">327</span>unlautern<a class="fnNumber" href="#F_69" id="A_69">69</a> puncten erclären, auch dasselb widerumb mit einverleipter erclärung <br/>
+<span class="lineNumber">328</span>truckhen lassen, damit hinfüro bey den gerichten daruf richtig den partheien urtheil <br/>
+<span class="lineNumber">329</span>gesprochen werden, auch der gemein mann dessen ein verstand haben und sich dar-<br/>
+<span class="lineNumber">330</span>ein richten möge.
+<span class="lineNumber">331</span><span class="article_added">[Art. 15]</span> Es solle auch alßdann der stattschreiber tax bedacht, damit unnsere underthannen vonn <br/>
+<span class="lineNumber">332</span>inen nit beschwert, dartzu inen ein pillicher staat gemacht werden.
+<span class="lineNumber">333</span><span class="article_added">[Art. 16]</span> Dergleichen, dieweil unser landtzordnung in etlichen puncten erclärung zuthun von <br/>
+<span class="lineNumber">334</span>nöten zusein furgefallen, so sellen dieselben unsere verordnete räth und von der juristen <br/>
+<span class="lineNumber">335</span>facultet neben dem usschutz, die sambt dero comertien<a class="fnNumber" href="#F_70" id="A_70">70</a>, handthierung, gewerben, hanndt-<br/>
+<span class="lineNumber">336</span>werckhen, erhaltung der wochenmärckhten in stätten, heut<a class="fnNumber" href="#F_71" id="A_71">71</a> unnd wollen kauf, das <br/>
+<span class="lineNumber">337</span>tucher, rot<a class="fnNumber" href="#F_72" id="A_72">72</a> unnd weißgerber handtwerckh, waller<a class="fnNumber" href="#F_73" id="A_73">73</a> unnd frembder krämer, dartzu die <br/>
+<span class="lineNumber">338</span>gewerben in dörffern, und andere politische puncten auch fur hand nemmen, von puncten <br/>
+<span class="lineNumber">339</span>zu puncten verlesen und erwegen, was darinnen zuerclären und zuverbessern sein <br/>
+<span class="lineNumber">340</span>welle, unnd uns folgendtz ir berathenlich bedenckhen fürbringen, daruf wir dann die selb <br/>
+<span class="lineNumber">341</span>mit sollicher bedachter erclärung und enderung wider truckhen und ußbinnden<a class="fnNumber" href="#F_74" id="A_74">74</a> lassen <br/>
+<span class="lineNumber">342</span>wellen.
+<span class="lineNumber">343</span><span class="article_added">[Art. 17]</span> <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e1868">Wir</button> gedenckhen auch uf unnser landtschafft underthenigs und gehorsams bitten uf kunfftigen <br/>
+<span class="lineNumber">344</span>reichs und andern tägen, sovil an unns ist, dahin helffen zuhandlen, das mit ubermeß-<br/>
+<span class="lineNumber">345</span>igen reichs anlagen, die durch die reichs abschid den underthanen ufgelegt werden wellen, <br/>
+<span class="lineNumber">346</span>sovil immer erheblichen, ir der underthanen verschont werde.
+<span class="lineNumber">347</span><span class="article_added">[Art. 18]</span> Nachdem auch unnser lanndtschafft sich beschwert, das vilen unsern clöstern und ambtern <br/>
+<span class="lineNumber">348</span>mit der fuer<a class="fnNumber" href="#F_75" id="A_75">75</a> im zug fur Ericord<a class="fnNumber" href="#F_76" id="A_76">76</a> uber die vier und zweintzig guldin, so uf einen jeden <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-7v"> [Blatt: 7<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">349</span>wagen gegeben worden, ein grosser cost ufgangen, unnd underthenig gepetten, inen <br/>
+<span class="lineNumber">350</span>bey unserm vettern und pfleg Sohn Graf <button class="entity #friedrich_i_wuerttemberg person" data-ref="friedrich_i_wuerttemberg" data-type="person" id="d2e1907">Friderichen zu Würtemberg</button><a class="fnNumber" href="#F_77" id="A_77">77</a> etc. derhalb <br/>
+<span class="lineNumber">351</span>widerlegung<a class="fnNumber" href="#F_78" id="A_78">78</a> gnedig zuverschaffen, sollen uns sie, unsere prelaten und landtschafft, durch <br/>
+<span class="lineNumber">352</span>iren cleinen usschutz in specie sollichen ufgewendten costen fürlegen, wellen <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e1932">wir</button> uns <br/>
+<span class="lineNumber">353</span>daruf weiter nach billichen dingen vernemmen lassen.
+<span class="lineNumber">354</span><span class="article_added">[Art. 19]</span> Alls auch unnser getreue lanndtschafft sich beschwert, das die vom adel in den stätten unsers <br/>
+<span class="lineNumber">355</span>furstenthumbs mit kauffung der heuser und güeter sich eintringen<a class="fnNumber" href="#F_79" id="A_79">79</a> thun, solle uns das in <br/>
+<span class="lineNumber">356</span>specie und underschidlich dargethon werden, wellen <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e1952">wir</button> der gepür einsehens thun.
+<span class="lineNumber">357</span><span class="article_added">[Art. 20]</span> Das dann unsere prelaten und lanndtschafft sich von wegen der ungleichen flaischschatzung<a class="fnNumber" href="#F_80" id="A_80">80</a> in dem landt <br/>
+<span class="lineNumber">358</span>beschwert, wie auch bedacht möchte werden, das rechtgeschaffne vieh zuchten in dem landt angericht <br/>
+<span class="lineNumber">359</span>würden, also das von den inländischen die waiden beschlagen<a class="fnNumber" href="#F_81" id="A_81">81</a>, den winter das fueter durch der <br/>
+<span class="lineNumber">360</span>landtmetzger und schäffer vieh und schaaf verezt<a class="fnNumber" href="#F_82" id="A_82">82</a> unnd der nutzen, so die frembden haben, dem <br/>
+<span class="lineNumber">361</span>landt zu guetem kommen möcht, wollen wir uf unser landtschafft der flaischschatzung halb ferner <br/>
+<span class="lineNumber">362</span>uberschickhte bericht und des usschutz underthenig ferner anhalten, ihemandt von unsern ober <br/>
+<span class="lineNumber">363</span>und chammer räthen neben inen dartzu ordnen, solliches nach notturfft<a class="fnNumber" href="#F_83" id="A_83">83</a> zuberathschlagen, und <br/>
+<span class="lineNumber">364</span>wa von nöten, so sollen auch die ämbter und die jenigen, so die vieh zucht belangen will, uber das, <br/>
+<span class="lineNumber">365</span>so derhalben berathschlagt würt, gehört, damit inen kein unbilliche beschwerd ufgelegt werde. <br/>
+<span class="lineNumber">366</span>Unnd was da befunden wurdet, gemeiner landtschafft nutzlichen und furstendig zu sein, wellen <br/>
+<span class="lineNumber">367</span>wir solliches in das werckh richten, unnd zu sollicher berathschlagung die von prelaten und landt-<br/>
+<span class="lineNumber">368</span>schafft bestimbte personen dartzu ziehen lassen.
+<span class="lineNumber">369</span><span class="article_added">[Art. 21]</span> Wie auch von prelaten und gemeiner landtschafft undertheniglich gepetten, uf die wege bedacht zusein, <br/>
+<span class="lineNumber">370</span>das die von <button class="entity #esslingen place" data-ref="esslingen" data-type="place" id="d2e2011">Eßlingen</button>, <button class="entity #reutlingen place" data-ref="reutlingen" data-type="place" id="d2e2014">Reutlingen</button>, auch andere inn und umbligende reichs stätt, und vom adel unß-<br/>
+<span class="lineNumber">371</span>ers furstenthumbs, sich gleicher meß und eich mit unser landtschafft vergleichen thetten, <br/>
+<span class="lineNumber">372</span>befinden <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e2026">wir</button> nach statlichem darüber gehaptem rath, das solliches unerheblichen, darumben der sachen <br/>
+<span class="lineNumber">373</span>notturfft nach weiters bey obgemelten unnd andern puncten nachtzugedenckhen.
+<span class="lineNumber">374</span><span class="article_added">[Art. 22]</span> Alls auch uns uf disem landtag ferner clagendt furkhommen von wegen romung der wäld <br/>
+<span class="lineNumber">375</span>vermög unser im truckh ausgangner forstordnung, das auch die forstmeister die häu<a class="fnNumber" href="#F_84" id="A_84">84</a> zuab-<br/>
+<span class="lineNumber">376</span>hauung des holtz, spaat ufthan<a class="fnNumber" href="#F_85" id="A_85">85</a>, also das in der forstordnung bestimbter zeit die häu nit wol <br/>
+<span class="lineNumber">377</span>gerombt mögen noch khünden werden, wellen <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e2056">wir</button> dise verordnung und befelch <br/>
+<span class="lineNumber">378</span>unsern forstmeistern geben, das sie die winter häu zwischen Michaelis<a class="fnNumber" href="#F_86" id="A_86">86</a> und Galli<a class="fnNumber" href="#F_87" id="A_87">87</a> jedes <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-8r"> [Blatt: 8<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">379</span>jars zuabhauen ußgeben, unnd das solliches beschehen, sie jerlichs im urkhundt irer rech-<br/>
+<span class="lineNumber">380</span>nung pringen sollen. <br/>
+<span class="lineNumber">381</span>Unnd was also noch vor der winter gefrörin<a class="fnNumber" href="#F_88" id="A_88">88</a> abgehauen, das soll den winter hinumb aus <br/>
+<span class="lineNumber">382</span>den häuen gefüert und die wäld gerombt werden, was aber in dem Mertzen und Apprillen <br/>
+<span class="lineNumber">383</span>und also gegen dem früelinge gehauen, das solliches bis Michaelis ussen den häuen gefüert werde. <br/>
+<span class="lineNumber">384</span>Das unsere prelaten unnd landtschafft sich beclagen, das von etlichen unsern forstmeistern zuwider <br/>
+<span class="lineNumber">385</span>unserer forstordnung mehr dann sechtzehen banraitel<a class="fnNumber" href="#F_89" id="A_89">89</a>, also auch jedesmals, wann die wäld <br/>
+<span class="lineNumber">386</span>gehauen, uber die alte noch entgegen steende weiters sechtzehen banreitel steen zulassen, <br/>
+<span class="lineNumber">387</span>unsere underthanen angehalten, so doch an etlichen orthen von wegen das des bauholtz halben <br/>
+<span class="lineNumber">388</span>die gemeinden eigne banwäld, also das in den andern und uberigen wälden sovil banraiteln <br/>
+<span class="lineNumber">389</span>nit bedörffen, da lassen wir es, dieweil nit füegliche gleicheit gehalten werden mag, <br/>
+<span class="lineNumber">390</span>bey vermelter unser forstordnung dißmals pleiben. Derenhalben aber, so sich dessenn <br/>
+<span class="lineNumber">391</span>kunfftiglichen zubeschweren hetten unnd bey uns dasselb anprächten, wellen wir unsern <br/>
+<span class="lineNumber">392</span>forstmeistern befelhen, neben unsern ambtleuthen und andern verstendigen, die häu jedes <br/>
+<span class="lineNumber">393</span>jars zubesichtigen, und wa sich die menge der banraitel in den heuen befindet, also das, da <br/>
+<span class="lineNumber">394</span>das junge holtz darvor nit ufwachsen kan, das da einsehens beschehe nach pillichen dingen. <br/>
+<span class="lineNumber">395</span>Das dann sich gemeine landtschafft beschwert ab den forstmeistern und knechten, das sie zuwider der <br/>
+<span class="lineNumber">396</span>forstordnung und vorigen landtags abschiden mit vertzeinung<a class="fnNumber" href="#F_90" id="A_90">90</a> und vergrabung<a class="fnNumber" href="#F_91" id="A_91">91</a> irer guet, auch schöchung<a class="fnNumber" href="#F_92" id="A_92">92</a> <br/>
+<span class="lineNumber">397</span>des wildtprätz usser denselben, das auch sie etwan<a class="fnNumber" href="#F_93" id="A_93">93</a> die underthonen unschuldiger weiß ein-<br/>
+<span class="lineNumber">398</span>legen sollen, so folgendtz sich erfindet, das die unschuldig, doch nit desto weniger die atzung<a class="fnNumber" href="#F_94" id="A_94">94</a>, <br/>
+<span class="lineNumber">399</span>auch fach guldin<a class="fnNumber" href="#F_95" id="A_95">95</a> geben müessen, <br/>
+<span class="lineNumber">400</span>deßgleichen mit klaubung<a class="fnNumber" href="#F_96" id="A_96">96</a> wilden obs<a class="fnNumber" href="#F_97" id="A_97">97</a> und biren<a class="fnNumber" href="#F_98" id="A_98">98</a>, der hund und anders, leichtlich straffen für-<br/>
+<span class="lineNumber">401</span>nemmen. Daruf ist unser gnedigs begern unnd befelch, das solliches uns in specie <br/>
+<span class="lineNumber">402</span>und underschidlichen dargethan werde, wellen wir derwegen ernstlichs einsehens thun, <br/>
+<span class="lineNumber">403</span>unnd was bey unns jederzeit der groß unnd clein usschutz unserer landtschafft diser und ander <br/>
+<span class="lineNumber">404</span>der lanndtschafft obligen<a class="fnNumber" href="#F_99" id="A_99">99</a> unnd sachen halben anpringen würt, darinnen wellen wir sie <br/>
+<span class="lineNumber">405</span>jedertzeit, wie auch bißheer beschehen, gnediglich hören, abwendung und einsehens der ge-<br/>
+<span class="lineNumber">406</span>pür unnd pillicheit nach thun, damit unser landtschafft, ambter, fleckhen und underthonen <br/>
+<span class="lineNumber">407</span>vor unpillichen beschwerungen verhüet und gnedig geschützt und geschirmbt werden.
+<span class="lineNumber">408</span><span class="article_added">[Art. 23]</span> Unnd nachdem die lehenleuth unsers furstenthumbs vermög der erection für den dritten <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-8v"> [Blatt: 8<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">409</span>stand desselbigen, auch wie die zu dem regiment zutziehen, angesehen, zu dem in dem <br/>
+<span class="lineNumber">410</span>Tuwingischen vertrag angeregt worden, nach mittel und wegen zu trachten, wie <br/>
+<span class="lineNumber">411</span>die etwas nahent zu unserm furstenthumb, durch gnedige mittel und weeg zupringen, <br/>
+<span class="lineNumber">412</span>auch derwegen bey sollicher furgeloffner tractation von unserer gehorsamen prelaten <br/>
+<span class="lineNumber">413</span>und lanndtschafft anregung geschehen, wellen wir den sachen ferners nach denckhen, wie <br/>
+<span class="lineNumber">414</span>diser sachen fuegliche mittel unnd weg zufinden sein mögen.
+<span class="lineNumber">415</span><span class="article_added">[Art. 24]</span> Ferner den vorrath der landtschafft fruchten betreffendt: Dieweil die prelaten und landt-<br/>
+<span class="lineNumber">416</span>schafft gemeinlich sich deßwegen underthenig erpürten thun, sich fürohin dessen grossen <br/>
+<span class="lineNumber">417</span>usschutz, hievor berathenlichen beschehen, verwilligen und daruf unserm gefolgten uß-<br/>
+<span class="lineNumber">418</span>schreiben, nemlich das ein im monat Januarii anno etc. sechtzig eins, das ander im monat <br/>
+<span class="lineNumber">419</span>Februarii anno etc. sechtzig zwey, unnd das dritt den letsten Augusti anno etc, sechtzig viere uß-<br/>
+<span class="lineNumber">420</span>gangen, allerdings gemeß zuhalten, soll es allso darbey würckhlich beruohen und besteen, doch <br/>
+<span class="lineNumber">421</span>in allweg dahin gesehen unnd die sachen gericht werden, das die märckht mit früchten erhalten <br/>
+<span class="lineNumber">422</span>unnd der gemein mann bey der hannd täglichs sein notturfft in rechtem fayllem kauf haben und <br/>
+<span class="lineNumber">423</span>das brot in zimlichem werth pleiben und nit mangel erscheinen möge.
+<span class="lineNumber">424</span><span class="article_added">[Art. 25.1]</span> Der communen rechnungen und remanet betreffende, das unsere ambtleuth unnd ge-<br/>
+<span class="lineNumber">425</span>santen von der landtschafft sollen und wellen, irem beschehenen underthenigen erpieten <br/>
+<span class="lineNumber">426</span>nach, die sachen furthin bey inen also anschickhen, das jerlichs unser landtzordnung nach orden-<br/>
+<span class="lineNumber">427</span>liche unnd richtige rechnung gehört unnd die remanet zum vorrath des gemeinen nutz par<a class="fnNumber" href="#F_100" id="A_100">100</a> <br/>
+<span class="lineNumber">428</span>erlegt, besonder auch die noth unverhörte rechnungen und unbetzalte remanet, hietzwischenn <br/>
+<span class="lineNumber">429</span>nechstkunfftig Liechtmeß<a class="fnNumber" href="#F_101" id="A_101">101</a>, allerdings ordenlich abgehört, und von den vermöglichen also baar ohne <br/>
+<span class="lineNumber">430</span>fernern uftzug betzalt, unnd den unvermuglichen zur billichen bezalung nach gestallt <br/>
+<span class="lineNumber">431</span>der sachen zil zugeben, unnd lenger nit eingestelt werden, zuverhüetung unsers ernst-<br/>
+<span class="lineNumber">432</span>lichen und billichen einsehens.
+<span class="lineNumber">433</span><span class="article_added">[Art. 25.2]</span> Hiemit auch der spittaln, sondersiechen, armen cästen, witwen unnd waisen, mül unnd <br/>
+<span class="lineNumber">434</span>andere rechnungen verstanden sollen werden.
+<span class="lineNumber">435</span><span class="article_added">[Art. 25.3]</span> Ferners, damit dem lang gemachten schulden und gülten last der communen und sonderer per-<br/>
+<span class="lineNumber">436</span>sonen auch einest widerumb abgeholffen, dartzu mit gueter inspection bey dem gemein-<br/>
+<span class="lineNumber">437</span>en mann ein bessere haußhaltung und sparung angeschickht, unnd ob inen, auch den ver-<br/>
+<span class="lineNumber">438</span>schwendern unnd faullentzern, gehalten werde, sich ferner mit gülten unnd schulden <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-9r"> [Blatt: 9<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">439</span>zubestöckhen, sonder dero sich wider zuledigen, und vor sollichem verschwenden, faullentz-<br/>
+<span class="lineNumber">440</span>en und müessigang verhüet werden mögen, sollen unsere ambtleuth und gesandten <br/>
+<span class="lineNumber">441</span>von der landtschafft, derwegen irem selbs beschehenen underthenigen erpüeten nach, mit <br/>
+<span class="lineNumber">442</span>unnd in crafft deßhalb von unns hievor sondern beschehenen usschreiben und unnser <br/>
+<span class="lineNumber">443</span>landtzordnung, mit den gerichten, an jedem orth guete würckhliche anschickhung thun <br/>
+<span class="lineNumber">444</span>und an inen ires theils nichtz erwinden lassen,
+<span class="lineNumber">445</span><span class="article_added">[Art. 25.4]</span> ferner das sie auch der stätt unnd fleckhen stattrecht, freyheiten, verträgen, gewanheiten, <br/>
+<span class="lineNumber">446</span>marckhungen, wun<a class="fnNumber" href="#F_102" id="A_102">102</a>, waid, trib<a class="fnNumber" href="#F_103" id="A_103">103</a>, trat<a class="fnNumber" href="#F_104" id="A_104">104</a> unnd ander ir municipal sachen unnd gerechtig-<br/>
+<span class="lineNumber">447</span>kheit hanndthaben, und derwegen in alweg guete anschickhung thun wellen, wa sie die <br/>
+<span class="lineNumber">448</span>nit in gueter richtiger neuerung und vertzeichnus haben, dieselben nachmals in guete <br/>
+<span class="lineNumber">449</span>richtige neuerung und vertzeichnus zupringen.
+<span class="lineNumber">450</span><span class="article_added">[Art. 26]</span> Anlangendt ein richtige bauordnung zuverfassen, damit dester ordenlicher und gemein <br/>
+<span class="lineNumber">451</span>nützlicher gepauen und auch der reiche und arme nit also von den bauleuthen ubernom-<br/>
+<span class="lineNumber">452</span>men werden, soll der grosse usschutz unserer landtschafft zu ehister gelegennheit für <br/>
+<span class="lineNumber">453</span>hannd nemmen, die sachen aigentlichen erkhundigen, wol bedenckhen und berath schlagen, <br/>
+<span class="lineNumber">454</span>nach geendtz ir bedenckhen uns furbringen, wellen wir solliches weiter erwegen, <br/>
+<span class="lineNumber">455</span>berathschlagen, und folgendtz uns von oberkheyt wegen mit dem grossen usschutz <br/>
+<span class="lineNumber">456</span>vergleichen unnd alßdann solliches in unserm furstenthumb publiciern und usgeen <br/>
+<span class="lineNumber">457</span>lassen, damit die unrichtigkheit und ungleicheit in gepeuen, auch die grosse un-<br/>
+<span class="lineNumber">458</span>treu und ubernemung den frembden unnd inländischen meurern, zimmer und <br/>
+<span class="lineNumber">459</span>anderer handtwerckhs leuth abgeschnitten werde.
+<span class="lineNumber">460</span><span class="article_added">[Art. 27]</span> Des malefitz rechten halben ist verabschidet, dieweil kein bessere dann des hailligen <br/>
+<span class="lineNumber">461</span><button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e2418">reichs</button> halß gerichts ordnung<a class="fnNumber" href="#F_105" id="A_105">105</a> erhalten unnd für genommen werden mag, so soll <br/>
+<span class="lineNumber">462</span>fürohin in unserm furstenthumb allerdings darnach geurtheilt werden. <br/>
+<span class="lineNumber">463</span>Dieweil aber in etlichen derselben puncten nit gleicher und lauterer verstand genom-<br/>
+<span class="lineNumber">464</span>nommen möcht werden, so sollen sie dieselbigen mit unnserm vorwissen und rath <br/>
+<span class="lineNumber">465</span>auch dem grossen usschutz unnd sonder dartzu erforderten der recht gelerten von unser <br/>
+<span class="lineNumber">466</span>juristen facultet zu <button class="entity #tuebingen place" data-ref="tuebingen" data-type="place" id="d2e2439">Tuwingen</button> unnd rechtzgelerten räthen erleutern, und bey den-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-9v"> [Blatt: 9<span class="rectoVerso">v</span> ] </button><br/>
+<span class="lineNumber">467</span>selbigen die gepürendt straf sovil gesein kan, setzen unnd bestimmen lassen. Wa <br/>
+<span class="lineNumber">468</span>aber die sachen solliche umbstend haben, oder also beschaffen, das darinn kein lauters <br/>
+<span class="lineNumber">469</span>kan gesetzt werden, unnd die Zweifelig seien, in selben puncten mögen sich alsdann <br/>
+<span class="lineNumber">470</span>die gericht bey unnser juristen facultet zu <button class="entity #tuebingen place" data-ref="tuebingen" data-type="place" id="d2e2460">Tuwingen</button> vermög jungsten landt-<br/>
+<span class="lineNumber">471</span>tags abschidtz wol raths erholen, damit niemandt verkhürtzt<a class="fnNumber" href="#F_106" id="A_106">106</a>, vernachtheilt<a class="fnNumber" href="#F_107" id="A_107">107</a>, nach<a class="fnNumber" href="#F_108" id="A_108">108</a> <br/>
+<span class="lineNumber">472</span>beschwert<a class="fnNumber" href="#F_109" id="A_109">109</a> werde.
+<span class="lineNumber">473</span><span class="article_added">[Art. 28.1]</span> Unnd damit die zins der zwelfmalhunderttausent guldin desto richtiger betzalt, haben <br/>
+<span class="lineNumber">474</span>wir inen dieselben underschidlich ußziehen unnd zustellen lassen, unnd sollen der lanndt-<br/>
+<span class="lineNumber">475</span>schafft umbschlag, der funftzig tausent guldin, auch der prelaten viertzig tausent guldin, <br/>
+<span class="lineNumber">476</span>erst uf Catharine<a class="fnNumber" href="#F_110" id="A_110">110</a> anno etc. sechtzig sechse zum ersten mal umbgelegt und eingezogen, <br/>
+<span class="lineNumber">477</span>aber uf nechstkhunfftige Catharine lauffenden Jars, die alte bißheer gewerte hilffen, <br/>
+<span class="lineNumber">478</span>als nemlich von den prelaten unnd kurchencasten siben und dreissig tausent, ein hund[ert] <br/>
+<span class="lineNumber">479</span>drey unnd achtzig guldin, unnd dann der lanndtschafft gepurende ablosungs hilffen, <br/>
+<span class="lineNumber">480</span>durch jeder prelaten und landtschafft jetz bedachte einnemmer zusamen einge-<br/>
+<span class="lineNumber">481</span>zogen, und unns zuerstattung volkhommener zins biß Catharine schierist<a class="fnNumber" href="#F_111" id="A_111">111</a>, zwey <br/>
+<span class="lineNumber">482</span>unnd zweintzig tausent guldin darvon erlegen, unnd das uberig zubetzalung der <br/>
+<span class="lineNumber">483</span>zins, von den zwelfmal hundert tausent guldin, so uf und nach schieristem diß laut-<br/>
+<span class="lineNumber">484</span>enden jars khünfftigem Catharine anfahen werden, gefallen, verwenndt werden.
+<span class="lineNumber">485</span><span class="article_added">[Art. 28.2]</span> Unnd damit prelaten unnd lanndtschafft mit betzalung der uf sich nemmenden zins <br/>
+<span class="lineNumber">486</span>desto unverhinderter fortgeen und solliche entrichten mögen, sie auch allwegen <br/>
+<span class="lineNumber">487</span>der folgenden zinß halben, zu einem vorrath kommen thun, soll mit abkhündigung <br/>
+<span class="lineNumber">488</span>der ablosung bis Catharine des siben unnd sechtzigsten jars stillgestanden unnd erst <br/>
+<span class="lineNumber">489</span>solliche ablosung uf Catharine des acht unnd sechtzigsten jars beschehen. <span class="article_added">[Art. 28.3]</span> Trüegen <br/>
+<span class="lineNumber">490</span>sich aber hietzwischen reichs anlagen, ussteurung unserer töchter und dergleichen <br/>
+<span class="lineNumber">491</span>hieoben specificierter fell zu, soll mit der ablosung auch stillgestanden werden, <br/>
+<span class="lineNumber">492</span>vermöge obgesetzter vergleichung.
+<span class="lineNumber">493</span><span class="article_added">[Art. 29.1]</span> Dieweil die grosse ungehorsame der losen verruchten bueben, der wildprät <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-10r"> [Blatt: 10<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">494</span>dieb unnd schutzen anderst nicht dann uf faullentzen, fressen, sauffen und schwelgenn <br/>
+<span class="lineNumber">495</span>gericht, auch ire weib unnd kind an den bettelstab pringen, unnd dermassen uberhand <br/>
+<span class="lineNumber">496</span>nimbt, das in zeit unser regierung uber die tausent mit urtheil und recht gestrafft, <br/>
+<span class="lineNumber">497</span>auch sollich loß gesünd, unverholen sagt, das es inen umb ein gerings zuthun, zweintz-<br/>
+<span class="lineNumber">498</span>ig pfund zugeben unnd ein monat in dem thurm zuligen. Sie lösen allein aus häuten, <br/>
+<span class="lineNumber">499</span>bis etwan einer einkhombt, als vil, ja auch dopelt mehr, also das von wegen der ge-<br/>
+<span class="lineNumber">500</span>ringen straf, unnd das sie wissen, wamit sie büessen künden, solliche ungehorsame <br/>
+<span class="lineNumber">501</span>und vile der wildprät dieb gibt. Derwegen zufürkomung ergers, <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e2610">wir</button> es mit unßer <br/>
+<span class="lineNumber">502</span>lanndtschafft weiters (wie sollichem ubel gewehrt) uf versuchen gnedig verabschidet, <br/>
+<span class="lineNumber">503</span>das hinfüro ein jeder wildprät schütz, so da mit buchsen und armbrost geschossen, uf das <br/>
+<span class="lineNumber">504</span>wildprät mehrfeltig gewandert unnd gefellt, auch solliches uf ine in recht erwißen und beyge-<br/>
+<span class="lineNumber">505</span>bracht were, zu dem ersten ein monatlang mit wasser unnd brot in dem thurm uf <br/>
+<span class="lineNumber">506</span>sein costen gestrafft, folgendtz ime alle wöhr, offen zechen, besuchung der hochtzeiten <br/>
+<span class="lineNumber">507</span>unnd aller ehrlicher gesellschafften verbotten, auch in den zehenden gebannen, darus nim-<br/>
+<span class="lineNumber">508</span>mer zukhommen, ohne begnadigung, auch dessen zuhalten und zulaisten ain leiblichen aid <br/>
+<span class="lineNumber">509</span>schwören. Unnd so er sollichen aid mit weiterm wildprät schiessen gefarlichen verpreche <br/>
+<span class="lineNumber">510</span>unnd solliches khuntlich were, soll er widerumb fenglichen eingetzogen, peinlich als ein <br/>
+<span class="lineNumber">511</span>meinaidiger beclagt, unnd was erkhennt, an ime volstreckht unnd widerumben, wie <br/>
+<span class="lineNumber">512</span>hievor, mit verbietung der wöhr, offentzechen, hochtzeiten und ander ehrlicher ge-<br/>
+<span class="lineNumber">513</span>selschafften unnd schwörung in den zehenden gebannen werden. <br/>
+<span class="lineNumber">514</span>So er aber des nit halten unnd zu dem andern mal sein glibd und aid in vergeß stell-<br/>
+<span class="lineNumber">515</span>en wurde, ain sollicher alßdann widerumb peinlichen beclagt unnd mit urtheil und <br/>
+<span class="lineNumber">516</span>recht ine an seinem leib unnd leben zustraffen, erkhennt werden.
+<span class="lineNumber">517</span><span class="article_added">[Art. 29.2]</span> Dieweil auch die wildprät fallen unnd selbgeschoß<a class="fnNumber" href="#F_112" id="A_112">112</a> so gemein in unserm landt werden, <br/>
+<span class="lineNumber">518</span>unnd dieselben leuthen und vich<a class="fnNumber" href="#F_113" id="A_113">113</a> sehr sorglichen<a class="fnNumber" href="#F_114" id="A_114">114</a>, deren vil auch dardurch geschädigt werden, <br/>
+<span class="lineNumber">519</span>so haben wir mit unser landtschafft deßwegen verabschidet, das wa solliche, die in <br/>
+<span class="lineNumber">520</span>unser försten dergleichen fallen unnd selbgeschoß gelegt unnd in recht erwisen, die-<br/>
+<span class="lineNumber">521</span>selbige umb funf unnd zweintzig pfund gestrafft, dartzu funf wochen mit wasser <br/>
+<span class="lineNumber">522</span>unnd brot in dem thurn biessen<a class="fnNumber" href="#F_115" id="A_115">115</a> thun.
+<span class="lineNumber">523</span><span class="article_added">[Art. 29.3]</span> Alls sich dann offtermalen begibt, das dise wildprät dieb mit geschifften<a class="fnNumber" href="#F_116" id="A_116">116</a> bärten, ver-<br/>
+<span class="lineNumber">524</span>mumbten angesichten uf den höltzern auch etwann in weybs klaidern geen, und also <br/>
+<span class="lineNumber">525</span>schiessen, unnd aber ein solliche vermumben den rechten zuwider, und gewiß solliche anderst <br/>
+<span class="lineNumber">526</span>nit furhaben, dann die jenigen, so inen solliches wören<a class="fnNumber" href="#F_117" id="A_117">117</a> wolten, zuerschiessen und zuer-<br/>
+<span class="lineNumber">527</span>morden. Derwegen wir mit unserer lanndtschafft verabschidet, wann solche <br/>
+<span class="lineNumber">528</span>betretten, die also mit geschifften bärten, vermumbten angesichten unnd in weibs <br/>
+<span class="lineNumber">529</span>klaidern einkhommen, das dieselbigen dennechsten zu der peinlichen frag erkhennt, <br/>
+<span class="lineNumber">530</span>die warheit aus inen zuerlernen, aus was ursachen sie solliches gethan, und wa sich anders <br/>
+<span class="lineNumber">531</span>strafwürdigs bey inen nit befende, alßdann wie die andere wildprät dieb und schutzen <br/>
+<span class="lineNumber">532</span>zu dem ersten mal gestrafft. Befende sich aber, das sie der ursachen halben vermumbt, <br/>
+<span class="lineNumber">533</span>das sie willens gewesen, ihemanden zuerschiessen, so sollen sie peinlich beclagt, mit <br/>
+<span class="lineNumber">534</span>urtheil und recht als grassatores<a class="fnNumber" href="#F_118" id="A_118">118</a> erkhennt unnd gestrafft werden.
+<span class="lineNumber">535</span><span class="article_added">[Art. 29.4]</span> Sodann auch sich nun etliche mal befunden, das hin unnd wider in den wälden vergiffte kugelen <br/>
+<span class="lineNumber">536</span>gelegt werden, dardurch das wildprät, so solliche genommen, unsinnig unnd rosend<a class="fnNumber" href="#F_119" id="A_119">119</a> worden, <br/>
+<span class="lineNumber">537</span>auch etlichs zamens vich, dartzu, wa bey unser hofhaltung oder sonsten von sollichem wild-<br/>
+<span class="lineNumber">538</span>prät geessen, alle die ihenige auch inficiert und sich nit weniger nachtheils der unsinnig-<br/>
+<span class="lineNumber">539</span>kait mit schaden leibs unnd lebens zubefaren, haben wir unns mit unser lanndtschafft <br/>
+<span class="lineNumber">540</span>deßwegen verabschidet, wa allso betretten, die solliche vergiffte kugeln gelegt, gemacht, <br/>
+<span class="lineNumber">541</span>rath unnd that dartzu geben, das die gefenglich eingetzogen, fur recht gestelt, peinlich beclagt <br/>
+<span class="lineNumber">542</span>und vermög kayserlicher geschribner recht daruber geurtheilt werde.
+<span class="lineNumber">543</span>es bey der vergleichung der anderer wilderer, auch deren, so theil und gemein mit inen <br/>
+<span class="lineNumber">544</span>haben oder inen wissentlichen underschlauf unnd herberg geben, bey der vergleichung, mit <br/>
+<span class="lineNumber">545</span>unnserer landtschafft anno etc. ain und funfftzig unnd vier und funftzig gemacht, und deren <br/>
+<span class="lineNumber">546</span>darinn gesetzter straf, allerdings bleiben. <br/>
+<span class="lineNumber">547</span>Unnd soll dise obvermelte enderung der straffen mit den wildprätschützen, allein uf <br/>
+<span class="lineNumber">548</span>die ihenigen, welche zum ersten und andern mal, nach disem abschid, unnd nach dem der-<br/>
+<span class="lineNumber">549</span>selbig, ir der wildprät schützen halb, durch ein mandat, zuvor (wie wir bedacht seien) <br/>
+<span class="lineNumber">550</span>verkhundt, strafbar befunden unnd uberwisen, verstanden werden. <br/>
+<span class="lineNumber">551</span>Sonnsten aber der anndern halber, so hievor ein mal oder zwey, innhallt nechstiger <br/>
+<span class="lineNumber">552</span>anno etc vier undfunftzig gemachter vergleichung gestrafft, unnd weiters verbrechen <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-11r"> [Blatt: 11<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">553</span>wurden, soll es mit den uberigen gradibus innhallt selbiger alter vergleichung <br/>
+<span class="lineNumber">554</span>gehalten werden. <br/>
+<span class="lineNumber">555</span>Wa aber durch solliche mittel und wege disem ubel nit geholffen, behalten wir uns bevor, <br/>
+<span class="lineNumber">556</span>solliche wildprät schützen, des landtz gentzlichen zuverweisen und das verschwören <br/>
+<span class="lineNumber">557</span>zulassen, unnd wa sie darüber betretten, als meinaidige an iren leiben und leben Zu-<br/>
+<span class="lineNumber">558</span>straffen.
+<span class="lineNumber">559</span><span class="article_added">[Art. 30]</span> Des zu warem urkhundt, so haben <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e2841">wir Hertzog Christoff</button> etc. unnser innsigel hieran <br/>
+<span class="lineNumber">560</span>gehengt, unnd dann die prelaten <button class="entity #bebenhausen_kloster place" data-ref="bebenhausen_kloster" data-type="place" id="d2e2846">Bebenhausen</button>, <button class="entity #herrenalb_kloster place" data-ref="herrenalb_kloster" data-type="place" id="d2e2849">Herrenalb</button>, <button class="entity #maulbronn_kloster place" data-ref="maulbronn_kloster" data-type="place" id="d2e2853">Maulbronn</button> und <button class="entity #adelberg_kloster place" data-ref="adelberg_kloster" data-type="place" id="d2e2856">Adel-</button><br/>
+<span class="lineNumber">561</span><button class="entity #adelberg_kloster place" data-ref="adelberg_kloster" data-type="place" id="d2e2856">berg</button> von ir unnd der andern prelaten, dartzu die von <button class="entity #stuttgart_stadt place" data-ref="stuttgart_stadt" data-type="place" id="d2e2863">Stutgarten</button>, <button class="entity #tuebingen place" data-ref="tuebingen" data-type="place" id="d2e2866">Tuwingen</button>, <button class="entity #urach place" data-ref="urach" data-type="place" id="d2e2869">Urach</button>, <br/>
+<span class="lineNumber">562</span><button class="entity #schorndorf place" data-ref="schorndorf" data-type="place" id="d2e2874">Schorndorff</button>, <button class="entity #vaihingen_enz place" data-ref="vaihingen_enz" data-type="place" id="d2e2877">Vayhingen</button> und <button class="entity #calw place" data-ref="calw" data-type="place" id="d2e2880">Calw</button> von ir unnd gemeiner landtschafft wegen ire <br/>
+<span class="lineNumber">563</span>innsigel auch an disen abschid gehangen. Deren vier gleichlautendt gefärtigt, dar-<br/>
+<span class="lineNumber">564</span>under <button class="entity #christoph_wuerttemberg person" data-ref="christoph_wuerttemberg" data-type="person" id="d2e2891">wir Hertzog Christoff</button> etc. den einen zu unsern handen genommen, den <br/>
+<span class="lineNumber">565</span>andern ermelten unsern prelaten, unnd die uberigen zwen unser landtschafft <br/>
+<span class="lineNumber">566</span>uberantwurt. Geben zu <button class="entity #stuttgart_stadt place" data-ref="stuttgart_stadt" data-type="place" id="d2e2899">Stutgarten</button> am neuntzehenden tag des Monats Junij, <br/>
+<span class="lineNumber">567</span>nach Christi, unsers herrn, gepurt funftzehenhundert unnd im funf und sechtzig-<br/>
+<span class="lineNumber">568</span>isten jare.

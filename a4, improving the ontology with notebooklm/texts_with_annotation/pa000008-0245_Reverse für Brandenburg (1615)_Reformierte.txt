@@ -1,0 +1,66 @@
+<span class="lineNumber">1</span>Wir <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e599">Johan Sigismundt</button>, von Gottes gnaden, Marggraf <br/>
+<span class="lineNumber">2</span>zu <button class="entity #brandenburg_markgrafschaft place" data-ref="brandenburg_markgrafschaft" data-type="place" id="d2e604">Brandenburgk</button>, des <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e607">Heyligen Römischen Reichs</button> Ertzkämmerer <br/>
+<span class="lineNumber">3</span>unnd Churfürst, im <button class="entity #preussen_herzogtum place" data-ref="preussen_herzogtum" data-type="place" id="d2e613">Preußen</button>, zu <button class="entity #juelich_kleve_berg_herzogtum place" data-ref="juelich_kleve_berg_herzogtum" data-type="place" id="d2e616">Jülich, Cleve, Berge</button>, <button class="entity #pommern_stettin_herzogtum place" data-ref="pommern_stettin_herzogtum" data-type="place" id="d2e619">Stettin, </button><br/>
+<span class="lineNumber">4</span><button class="entity #pommern_stettin_herzogtum place" data-ref="pommern_stettin_herzogtum" data-type="place" id="d2e619">Pommern</button>, der Caßuben unnd Wenden<a class="fnNumber" href="#F_1" id="A_1">1</a>, auch in <button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e627">Schlesien</button> zu <button class="entity #crossen_herzogtum place" data-ref="crossen_herzogtum" data-type="place" id="d2e631">Croßen</button> <br/>
+<span class="lineNumber">5</span>und <button class="entity #jaegerndorf_herzogtum place" data-ref="jaegerndorf_herzogtum" data-type="place" id="d2e636">Jägerndorf</button> Hertzogk, Burggraff zu <button class="entity #nuernberg_burggrafschaft place" data-ref="nuernberg_burggrafschaft" data-type="place" id="d2e639">Nurmbergk</button>, Furst zu <br/>
+<span class="lineNumber">6</span><button class="entity #ruegen_fuerstentum place" data-ref="ruegen_fuerstentum" data-type="place" id="d2e643">Ruegen</button>, Grafe zu der <button class="entity #mark_grafschaft place" data-ref="mark_grafschaft" data-type="place" id="d2e647">Marck</button> und <button class="entity #ravensberg_grafschaft place" data-ref="ravensberg_grafschaft" data-type="place" id="d2e650">Ravensbergk</button>, herr zu <button class="entity #ravenstein_herrschaft place" data-ref="ravenstein_herrschaft" data-type="place" id="d2e653">Raven-</button><br/>
+<span class="lineNumber">7</span><button class="entity #ravenstein_herrschaft place" data-ref="ravenstein_herrschaft" data-type="place" id="d2e653">stein</button>, Urkunden und bekennen hiermitt gegen mennigklich, <br/>
+<span class="lineNumber">8</span>vor Uns, Unsere Erben und Nachkommen, Marggrafen unnd <br/>
+<span class="lineNumber">9</span>Chuerfursten zu <button class="entity #brandenburg_kurfuerstentum place" data-ref="brandenburg_kurfuerstentum" data-type="place" id="d2e665">Brandenburgk</button>.
+<span class="lineNumber">10</span>Nach deme bey jungster anwesenheit Unserer getreuen Landt-<br/>
+<span class="lineNumber">11</span>stände gaar viel erregett und auf die bahn bracht worden, so <br/>
+<span class="lineNumber">12</span>das ansehen vor sich geführet und gehabt, sambt wurde darunter <br/>
+<span class="lineNumber">13</span>eins und das ander gesuchet und begehret, so zur untertrückung <br/>
+<span class="lineNumber">14</span>und einem hochschädlichem praejuditz der Reformirten Religion, <br/>
+<span class="lineNumber">15</span>zu welcher <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e689">Wir</button> uns selbsten mitt hertzen unnd munde offent-<br/>
+<span class="lineNumber">16</span>lich bekennen, noch anitzo auch gegen zuvorvermeltte Landt-<br/>
+<span class="lineNumber">17</span>stände selbsten vielfaltig erkleret unnd bekant haben, hin-<br/>
+<span class="lineNumber">18</span>nauschlahen möchte.
+<span class="lineNumber">19</span>Dannenhero dann die von der reformirten Religion bewogen <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="0006_1615_Brandenburg_ref-0006.jpg" id="p-1v"> [Blatt: 1<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">20</span>worden sich durch unterschiedtliche protestationen bey uns zuver-<br/>
+<span class="lineNumber">21</span>wahren, auch zugleich unterthenigst zu bitten, damitt wir auch <br/>
+<span class="lineNumber">22</span>sie durch gnugsame Reverß versichern möchten, das alles das <br/>
+<span class="lineNumber">23</span>was vorgangen, gesucht, gebehten unnd gewilliget worden, <br/>
+<span class="lineNumber">24</span>allenthalben der offenen freien ubung der reformirten Religion <br/>
+<span class="lineNumber">25</span>durchs gantze Landt unschädlich sein soltte.
+<span class="lineNumber">26</span>Alß verreversiren <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e743">Wir</button> Uns hiermitt, unnd inn kraft dieses <br/>
+<span class="lineNumber">27</span>Unsers Reverses gegenwerttiglich vor Uns, Unsere Erben, unnd <br/>
+<span class="lineNumber">28</span>Nachkommen, Marggraffen unnd Chuerfursten zu <button class="entity #brandenburg_kurfuerstentum place" data-ref="brandenburg_kurfuerstentum" data-type="place" id="d2e750">Brandenburgk</button>, <br/>
+<span class="lineNumber">29</span>und sonsten iedermenniglich, das alles das, was furgangen, ver-<br/>
+<span class="lineNumber">30</span>williget, zugesaget und versprochen, auch nochmaln hierauff er-<br/>
+<span class="lineNumber">31</span>folgen möchte, nie keinen andern verstandt, meinung noch <br/>
+<span class="lineNumber">32</span>sinn bei Uns gehabt, auch ins künfftige nicht uberkommen <br/>
+<span class="lineNumber">33</span>solle, als das alles unnd jedes ohne allen schaden, praejuditz, nach-<br/>
+<span class="lineNumber">34</span>theil unnd verfang der reformirten Religion, deren fortpflantz-<br/>
+<span class="lineNumber">35</span>ung und freihen ubung solle geredet, gemeinet, verstanden, <br/>
+<span class="lineNumber">36</span>aufgenommen unnd versprochen sein.
+<span class="lineNumber">37</span>Gestaldt <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e796">Wir</button> Uns dan deßen in der gantzen handlung, so vom <br/>
+<span class="lineNumber">38</span> 16ten January an, biß uff den 6ten Februarium gewahret, zu <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="0007_1615_Brandenburg_ref-0007.jpg" id="p-2r"> [Blatt: 2<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">39</span>eingang, mittell unnd ende derselben verwahrlich gnugsam <br/>
+<span class="lineNumber">40</span>erkleret, daß wie <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e810">Wir</button> eins theils, die Lutherische Religion <br/>
+<span class="lineNumber">41</span>auszurotten, nicht, sondern vielmehr, derselben Ihren freihen <br/>
+<span class="lineNumber">42</span>gang unnd lauff ohne allen zwang und trang der gewißen <br/>
+<span class="lineNumber">43</span>zu gönnen, und einen jeden der da will, darbei verbleiben zu <br/>
+<span class="lineNumber">44</span>laßen, gentzlich entschloßen, also wehre auch nicht weniger <br/>
+<span class="lineNumber">45</span>Unsere endliche resolution dieses, das auch der reformirten Reli-<br/>
+<span class="lineNumber">46</span>gion, Ihre freihe ubung, sicher, richtig unnd ohne alle verfolgung <br/>
+<span class="lineNumber">47</span>unnd pressur, uberall verbleiben soltte. Gestaldt <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e833">Wir</button> <br/>
+<span class="lineNumber">48</span>dann beider Religion anverwandte im gleichen schutz, schirm, <br/>
+<span class="lineNumber">49</span>und protection wolten aufgenommen haben.
+<span class="lineNumber">50</span>Demnach so erholen <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e846">wir</button> nun solche Unsere erklerung beider-<br/>
+<span class="lineNumber">51</span>seits Ständen zu der Zeitt, zu mehrmahlen geschehen, alles in-<br/>
+<span class="lineNumber">52</span>halts auch. Unnd zusagen unnd versprechen denen von der re-<br/>
+<span class="lineNumber">53</span>formirten Religion in allen Ständen, wie die itzo sein, oder sich <br/>
+<span class="lineNumber">54</span>ins kunfftige ferner dazu bekennen möchten, bei Unsern <br/>
+<span class="lineNumber">55</span>Curfürstlichen wahren wortten und glauben, daß Ihnen <br/>
+<span class="lineNumber">56</span>an der freihen ubung unnd bekentnus Ihres glaubens durch-<br/>
+<span class="lineNumber">57</span>aus kein eintragk noch verhindernus begegnen noch wieder-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="0008_1615_Brandenburg_ref-0008.jpg" id="p-2v"> [Blatt: 2<span class="rectoVerso">v</span> ] </button><br/>
+<span class="lineNumber">58</span>fahren solle: Sonderlich, da sie bey den Landesteuren und bür-<br/>
+<span class="lineNumber">59</span>den nicht weniger alß die von der Lutherischen religion das Ihre <br/>
+<span class="lineNumber">60</span>zutragen mueßen. Alles getreulich und ungefehrlich.
+<span class="lineNumber">61</span>Deßen zu urkundt haben wir Unser daumsecret selbsten auß <br/>
+<span class="lineNumber">62</span>rechter wißenschafft aufgetruckt, Uns auch mitt eigenen <br/>
+<span class="lineNumber">63</span>handen unterschrieben. Geschehen und geben <br/>
+<span class="lineNumber">64</span>zu <button class="entity #trebbin place" data-ref="trebbin" data-type="place" id="d2e914">Trebbin</button>, am 6ten February, im Jahre nach Christi Geburt, <br/>
+<span class="lineNumber">65</span>Tausent, Sechshundert unnd funfzehn. <br/>
+<span class="lineNumber">66</span><button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e924">Hannß Sigismundt Churfürst</button>

@@ -1,0 +1,418 @@
+<span class="lineNumber">1</span> Anno 1562. den 13. Junii <br/>
+<span class="lineNumber">2</span>Capitulation der underdanen des flecken <br/>
+<span class="lineNumber">3</span><button class="entity #frankenthal place" data-ref="frankenthal" data-type="place" id="d2e142">groß franckendall</button>
+<span class="lineNumber">4</span>Zu wissen: Demnach etliche verjagte Christen, wellche hievorn <br/>
+<span class="lineNumber">5</span>Ire heußliche wohnungen von wegen bekanndtnus christlicher Religion <br/>
+<span class="lineNumber">6</span>verlassen muessen, biß anhero zu <button class="entity #frankfurt_main place" data-ref="frankfurt_main" data-type="place" id="d2e155">Franckfurt am mähin</button> sich enthalten<a class="fnNumber" href="#F_1" id="A_1">1</a>, <br/>
+<span class="lineNumber">7</span>aber umb zugestandner angelegenheit willen, dißmals derendem<a class="fnNumber" href="#F_2" id="A_2">2</a> <br/>
+<span class="lineNumber">8</span>lenger nit verbleibt mögen. Derhalben bey dem Durchleuchtigsten <br/>
+<span class="lineNumber">9</span>Hochgebornen Fürsten unnd Herrn, Herrn <button class="entity #friedrich_iii_pfalz person" data-ref="friedrich_iii_pfalz" data-type="person" id="d2e171">Friderichen</button> pfaltzgraven <br/>
+<span class="lineNumber">10</span>bey Rhein, des <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e177">Heyligen Romischen Reichs</button> Erztruchsäß unnd Churfürst, <br/>
+<span class="lineNumber">11</span>Hertzog in <button class="entity #bayern_kurfuerstentum place" data-ref="bayern_kurfuerstentum" data-type="place" id="d2e182">Beirm</button> etc. mit unnderthenigstem ansuchen unnd bitten, <br/>
+<span class="lineNumber">12</span>sovil erlanngt, das Ire Churfürstlichen Gnaden <button class="entity #frankenthal place" data-ref="frankenthal" data-type="place" id="d2e187">Großfranckenthal</button>, <br/>
+<span class="lineNumber">13</span>Dieweil dasselbig auß mangel zuvor darin gewesner Ordens-<br/>
+<span class="lineNumber">14</span>personen diser Zeit gar nahe Ode<a class="fnNumber" href="#F_3" id="A_3">3</a> gestannden, umb gepürlichen Zinß <br/>
+<span class="lineNumber">15</span>zubewohnen, unnd alls sy alls Unnderthanen hinder Ire <button class="entity #friedrich_iii_pfalz person" data-ref="friedrich_iii_pfalz" data-type="person" id="d2e205">Churf[ürstliche] G[nade]</button> <br/>
+<span class="lineNumber">16</span>zuziehen unnd auffzunemen gnedigst bewilligt und zugelassen.<a class="fnNumber" href="#F_4" id="A_4">4</a>
+<span class="lineNumber">17</span>So haben demnach sein <button class="entity #friedrich_iii_pfalz person" data-ref="friedrich_iii_pfalz" data-type="person" id="d2e226">Churf[ürstliche] G[nade]</button> nachfolgender geding unnd Capitulation, <br/>
+<span class="lineNumber">18</span>wie es zwischen unnd zu beiderseits gehallten werden soll, sich mit Inen <br/>
+<span class="lineNumber">19</span>verglichen wie volgt:
+<span class="lineNumber">20</span><span class="article_added">[Art. 1]</span> Nemlich dergestallt unnd Erstlichen, das sie jetzo allßbald nach <br/>
+<span class="lineNumber">21</span>Irem Innzug seinen <button class="entity #friedrich_iii_pfalz person" data-ref="friedrich_iii_pfalz" data-type="person" id="d2e247">Churf[ürstlichen] G[naden]</button> unnd deroselben Erben, so pfalz-<br/>
+<span class="lineNumber">22</span>graven bey Rein unnd Churfürsten sein werden, gewonliche huldig-<br/>
+<span class="lineNumber">23</span>ung unnd pflicht thun, allso an sein <button class="entity #friedrich_iii_pfalz person" data-ref="friedrich_iii_pfalz" data-type="person" id="d2e270">Churf[ürstliche] G[nade]</button> statt derselben <br/>
+<span class="lineNumber">24</span>bevelch unnd gewalthabern globen<a class="fnNumber" href="#F_5" id="A_5">5</a>, unnd einenn leiplichen Eid zu <br/>
+<span class="lineNumber">25</span>Gott schwern sollen, seinen <button class="entity #friedrich_iii_pfalz person" data-ref="friedrich_iii_pfalz" data-type="person" id="d2e285">Churf[ürstlichen] G[naden]</button> unnd dero vermelten Erben <br/>
+<span class="lineNumber">26</span>getreu, bald gehorsam, allen derenselben und Irer Amptleuth gepotten, <br/>
+<span class="lineNumber">27</span>verpotten, Satzungen, Ordnungen gewerttig unnd underwurffig zu <br/>
+<span class="lineNumber">28</span>sein, wie sollichs die verfasten puncten des Eids ferner ausweisen.
+<span class="lineNumber">29</span><span class="article_added">[Art. 2]</span> Zum Anndern, dieweil dise verjagte alls numehr der <button class="entity #pfalz_kurfuerstentum place" data-ref="pfalz_kurfuerstentum" data-type="place" id="d2e307">pfaltz</button> Underthanen <br/>
+<span class="lineNumber">30</span>Ire eigne kirchen zu <button class="entity #frankenthal place" data-ref="frankenthal" data-type="place" id="d2e312">Groß Franckenthal</button> haben, unnd darinnen von <br/>
+<span class="lineNumber">31</span>nottwendigkeit Irer mutter spraach wegen die predig des Heyligen <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-2v"> [Blatt: 2<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">32</span>Evangelii, auch Administration der Heyligen Sacramenten <br/>
+<span class="lineNumber">33</span>derselben irer spraachen eigenschafft nach zuhören unnd <br/>
+<span class="lineNumber">34</span>christlich zuuben gebrauchen muessen, damit dann <br/>
+<span class="lineNumber">35</span>kunfftig darunder kein mißverstanndt furfallen noch <br/>
+<span class="lineNumber">36</span>etwas unrichtigkeit daraus erwachssen möge, so von hochst-<br/>
+<span class="lineNumber">37</span>gedachtem <button class="entity #friedrich_iii_pfalz person" data-ref="friedrich_iii_pfalz" data-type="person" id="d2e338">Churfursten</button> austrucklich inen aufferlegt, auch <br/>
+<span class="lineNumber">38</span>durch sie angenommen, bewilligt und versprochen, das sie alls <br/>
+<span class="lineNumber">39</span>samment unnd besonnder in sollicher irer kirchen, sovil die <br/>
+<span class="lineNumber">40</span>Christliche Lehr unnd Ceremonien, auch reichung der Heyligen <br/>
+<span class="lineNumber">41</span>Sacramenten belangen thut, sich in alle weg seiner <button class="entity #friedrich_iii_pfalz person" data-ref="friedrich_iii_pfalz" data-type="person" id="d2e350">Churf[ürstlichen] </button><br/>
+<span class="lineNumber">42</span><button class="entity #friedrich_iii_pfalz person" data-ref="friedrich_iii_pfalz" data-type="person" id="d2e350">G[naden]</button> habender Kirchenordnung, wie Sie in <button class="entity #pfalz_kurfuerstentum place" data-ref="pfalz_kurfuerstentum" data-type="place" id="d2e360">Churf[ürstens]s Pfalzs</button> <br/>
+<span class="lineNumber">43</span>jeder zeit angestellt unnd gehalten würdet,<a class="fnNumber" href="#F_6" id="A_6">6</a> gleichmessig erzeigen, <br/>
+<span class="lineNumber">44</span>derselben verhallten, unnd kein enderung oder Neuerung einfurn <br/>
+<span class="lineNumber">45</span>noch gebrauchen sollen, auff das den umbligenden Stätten, Fleckhen und <br/>
+<span class="lineNumber">46</span>Dörffern Iren genachparten keine ergernuß noch sonnst zu <br/>
+<span class="lineNumber">47</span>unnotturfftigem ausschreyen oder gezennckh nit ursach gegeben <br/>
+<span class="lineNumber">48</span>werden.
+<span class="lineNumber">49</span>Das Sie auch bey Inen keinen pfarrer oder predicanten one wissen <br/>
+<span class="lineNumber">50</span>unnd bewilligung der <button class="entity #pfalz_kurfuerstentum place" data-ref="pfalz_kurfuerstentum" data-type="place" id="d2e413">Churf[ürstlichen] pfaltz</button> verordneter Kirchen Räthe<a class="fnNumber" href="#F_7" id="A_7">7</a> <br/>
+<span class="lineNumber">51</span>jetzt oder kunfftig annemen oder beurlauben sollen.
+<span class="lineNumber">52</span>Da auch kunfftig der Religion Lehr oder Ceremonien halb miß-<br/>
+<span class="lineNumber">53</span>verstanndt oder zwitracht mit den pfarhern oder predicanten <br/>
+<span class="lineNumber">54</span>sich zutragen oder begeben würdt, das sollicher zwytracht <br/>
+<span class="lineNumber">55</span>oder mißverstanndt nit hin unnd wider sonnderlichen auff der <br/>
+<span class="lineNumber">56</span>Canzel spargirt<a class="fnNumber" href="#F_8" id="A_8">8</a> noch ausgebreitet, sonnder an höchstgedachts <br/>
+<span class="lineNumber">57</span>Churfursten pfaltzgrauen etc. verordnete Kirchen Räthe gebracht, <br/>
+<span class="lineNumber">58</span>unnd derenden<a class="fnNumber" href="#F_9" id="A_9">9</a> Christlich unnd gepürlich entschiden unnd ver-<br/>
+<span class="lineNumber">59</span>glichen<a class="fnNumber" href="#F_10" id="A_10">10</a> werden sollen.
+<span class="lineNumber">60</span><span class="article_added">[Art. 3]</span> Zum Dritten, damit dise <button class="entity #pfalz_kurfuerstentum place" data-ref="pfalz_kurfuerstentum" data-type="place" id="d2e474">Churf[ürstlichen] pfaltz</button> angenommen Unnder-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-3r"> [Blatt: 3<span class="rectoVerso">r</span> ] </button><br/>
+<span class="lineNumber">61</span>thanen in zutragenden spennen unnd fellen<a class="fnNumber" href="#F_11" id="A_11">11</a> zu rechtlicher oder guetlich <br/>
+<span class="lineNumber">62</span>erörterung irer Irrungen gewiße Außtrag unnd bescheidt erlanngen <br/>
+<span class="lineNumber">63</span>mögen, so hat höchstgedachter <button class="entity #friedrich_iii_pfalz person" data-ref="friedrich_iii_pfalz" data-type="person" id="d2e497">Churfurst</button> inen darin dise Ordnung <br/>
+<span class="lineNumber">64</span>unnd maß gegeben. Dieweil bemelts <button class="entity #frankenthal place" data-ref="frankenthal" data-type="place" id="d2e502">Franckenthal</button> in seiner Churf[ürstlichen] <br/>
+<span class="lineNumber">65</span>G[naden] Ampt <button class="entity #neustadt_haardt place" data-ref="neustadt_haardt" data-type="place" id="d2e514">Neuenstatt</button> gelegen, das Sie demselben Ampt alls Unnder-<br/>
+<span class="lineNumber">66</span>thanen auch eingeleibt sein, Vitzthumb<a class="fnNumber" href="#F_12" id="A_12">12</a> unnd Lanndtschreibers<a class="fnNumber" href="#F_13" id="A_13">13</a> zur <br/>
+<span class="lineNumber">67</span><button class="entity #neustadt_haardt place" data-ref="neustadt_haardt" data-type="place" id="d2e532">Neuenstatt</button>, durch eins Schulthessen<a class="fnNumber" href="#F_14" id="A_14">14</a> zu <button class="entity #oggersheim place" data-ref="oggersheim" data-type="place" id="d2e538">Ogersheim</button>, oder <button class="entity #frankenthal place" data-ref="frankenthal" data-type="place" id="d2e541">Frannckhen-</button><br/>
+<span class="lineNumber">68</span><button class="entity #frankenthal place" data-ref="frankenthal" data-type="place" id="d2e541">thal</button>, oder wo Inen der jederzeit benennt unnd furgesezt wurdet, <br/>
+<span class="lineNumber">69</span>bevelchs gewartten, unnd zugehorsamen schuldig sein. Der Gerichte, <br/>
+<span class="lineNumber">70</span>so man inen jetzt oder kunfftig benennen unnd ordnet, sich gebrauchen, auch <br/>
+<span class="lineNumber">71</span>sonnst in allen fällen, wie die Namen haben oder sich zutragen möchten, <br/>
+<span class="lineNumber">72</span>desselben Ampts Innwohnern gleich geachtet unnd gehalten werden solln.
+<span class="lineNumber">73</span><span class="article_added">[Art. 4]</span> Zum Vierdten dieweil zuhanndthabung der pfaltz wildfuere, unnd <br/>
+<span class="lineNumber">74</span>annder bewegenden ursachen willen, des Groß Franckenthals aue-<br/>
+<span class="lineNumber">75</span>hauß auch der beder Frannckenthal Wäld, Busch unnd Vischwasser, <br/>
+<span class="lineNumber">76</span>sampt der Mülen, Würtßhaus unnd Schmidten, ausserhalb der Closter <br/>
+<span class="lineNumber">77</span>an andern orthen, auch die Kelter zu Großfrannckenthal gelegen, <br/>
+<span class="lineNumber">78</span>der Kirchen Verwaltung auß unnd vorbehallten, So sollen Sie unnd die <br/>
+<span class="lineNumber">79</span>Irigen sich derselben stuckh unnd Irer nutzbarkeiten enthallten. Wo aber <br/>
+<span class="lineNumber">80</span>jemandt darin mit Holzhauen, fischen, Grasen, Eicheln aufflösen, <br/>
+<span class="lineNumber">81</span>fruchtbare Baum zu schutteln, oder sonnst in anndere wegen Ainung zutrugen, <br/>
+<span class="lineNumber">82</span>befunden wurde, (wellches doch keins wegs sein) der soll durch auffge-<br/>
+<span class="lineNumber">83</span>sezte Ainungsstraff, wie dieselb kunfftig unnderschidlichen benampt <br/>
+<span class="lineNumber">84</span>unnd deßhalb ordnung gegeben, gebusst werden. Doch wo kunfftig <br/>
+<span class="lineNumber">85</span>Weyden, Brenn, oder Buschelholz, Hauig unnd zuverkauffen derenden <br/>
+<span class="lineNumber">86</span>vorhannden sein wurden, dessen man zur Haußhaltung des kleinen <br/>
+<span class="lineNumber">87</span>Frannckenthals nicht bedurfftig, soll disen Unnderthanen dasselbig vor <br/>
+<span class="lineNumber">88</span>anndern feil gebotten unnd in billicher erachtung kauffsweiß <br/>
+<span class="lineNumber">89</span>vergundet werden. Es sollen dise unnderthanen durch sich unnd <br/>
+<span class="lineNumber">90</span>die Iren der Wildfurer dermassen enthallten, das Sie darinnen <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-3v"> [Blatt: 3<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">91</span>Argwohnig nit betretten, auch in disem fall mit auß-<br/>
+<span class="lineNumber">92</span>fuerung irer hundt unnd in anndere weg der pfaltzs <br/>
+<span class="lineNumber">93</span>Jäger unnd Forstknecht verordnung unnd bevelch, wie <br/>
+<span class="lineNumber">94</span>annder Unnderthanen sich gemeß verhallten.
+<span class="lineNumber">95</span><span class="article_added">[Art. 5]</span> Zum funfften, alls churfurstlicher pfaltz Ir das Klein francken-<br/>
+<span class="lineNumber">96</span>thal mit seinem begriff, dißmal auch auß unnd furbehallten <br/>
+<span class="lineNumber">97</span>darinnen der pater sampt dem Oeconomo beuelch haben <br/>
+<span class="lineNumber">98</span>unnd gesinde ire wohnung nemen, so habent nicht minder <br/>
+<span class="lineNumber">99</span>sein Churfl. G. ir auch disen weittern furbehallt gethan, <br/>
+<span class="lineNumber">100</span>wo sein Churfl. G. kunfftig in das Großfranckenthal <br/>
+<span class="lineNumber">101</span>auch ein besonnder wohnung bauen, unnd zurichten lassen <br/>
+<span class="lineNumber">102</span>wollten, darinnen einen Bevelchsman wie der Namen <br/>
+<span class="lineNumber">103</span>haben möcht zusetzen, der disen Unnderthanen furstunde, <br/>
+<span class="lineNumber">104</span>oder anndere geschefften allda verrichten sollen, das sein Churfl. G. <br/>
+<span class="lineNumber">105</span>sollches zu jederzeit zuthun ungehindert bleiben, doch denselben <br/>
+<span class="lineNumber">106</span>Bau an sollche orth wir dann hievor mit den Unnderthanen deswegen <br/>
+<span class="lineNumber">107</span>augenscheinliche vergleichung beschehen zustellen, das Es <br/>
+<span class="lineNumber">108</span>Inen an Iren wohnungen auch kein sonndere verhinderung <br/>
+<span class="lineNumber">109</span>bringen möge.
+<span class="lineNumber">110</span>So soll auch derselben person, die allso verordnet wirt beuor <br/>
+<span class="lineNumber">111</span>unnd frey stehn, ungeacht in wellchem Frannckenthal <br/>
+<span class="lineNumber">112</span>Sie wohnen möchten, so tag, so Nacht, mit bescheidenheit <br/>
+<span class="lineNumber">113</span>Im Grossen Frannckenthal durch gepürliche Visitation <br/>
+<span class="lineNumber">114</span>auffmerckens, auch zu allen verschlossnen gemeinen <br/>
+<span class="lineNumber">115</span>pforten unnd Thoren diß orths ein freyen ein unnd auß-<br/>
+<span class="lineNumber">116</span>ganng zuhaben, das Ime (jederzeit) nottwendige Schlussel <br/>
+<span class="lineNumber">117</span>gevolgen sollen.
+<span class="lineNumber">118</span><span class="article_added">[Art. 6]</span> Zum Sechsten, Damit auch an diesem orth zuverhueten aller-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-4r"> [Blatt: 4<span class="rectoVerso">r</span> ] </button><br/>
+<span class="lineNumber">119</span>hanndt Irrungen und vervortheilung an maß, meß, Elnmeß unnd gewicht <br/>
+<span class="lineNumber">120</span>gleichnit gehallten, so sollen dise stuckh ebnermassen wie derends von <br/>
+<span class="lineNumber">121</span>alters herkhommen dißmal ungeendert bleiben, Dergestallt das <br/>
+<span class="lineNumber">122</span>jetzt allsobald die fruchtmeß, auch maß, Elnmeß unnd gewicht <br/>
+<span class="lineNumber">123</span>auß bevelch der Amptleuth zur Neuenstatt durch diser ding ver-<br/>
+<span class="lineNumber">124</span>stenndige uberschitt, gericht unnd gerecht gemacht, Den inn-<br/>
+<span class="lineNumber">125</span>wohnern gegen gepurlicher bezalung zugestellt (sovil sie dessen <br/>
+<span class="lineNumber">126</span>begern, unnd zugeprauchen bedürfftig sein werden) unnd sollen da-<br/>
+<span class="lineNumber">127</span>neben die Amptleuth von den fruchtmessen besondere Kupfferling, <br/>
+<span class="lineNumber">128</span>allso auch der maß, Elnmeß, unnd gewichts halb aigne Eichkandten, <br/>
+<span class="lineNumber">129</span>auch die Wagen mit zugehörigem gewicht steinen, sampt einem <br/>
+<span class="lineNumber">130</span>Eissenstab zu den Elnmesen machen lassen, dem verordneten Schul-<br/>
+<span class="lineNumber">131</span>thessen zustellen, damit dieselbige auff maß unnd form, wie Ime deß-<br/>
+<span class="lineNumber">132</span>wegen Ordnung furgeschriben werden soll, Den begerenden sollchs <br/>
+<span class="lineNumber">133</span>alles mit zutheilen auff das man deßwegen ausserhalb der pfalenzs <br/>
+<span class="lineNumber">134</span>Obrigkeit annderst wo nit ansuchen durffe, wie auch bey straffe <br/>
+<span class="lineNumber">135</span>verpotten sein soll Inn disem unnd annderm der Amptleuth anstellung <br/>
+<span class="lineNumber">136</span>zugehorchen, unnd sonnst frembder meß noch gewicht an disem orth zu <br/>
+<span class="lineNumber">137</span>Frannckenthal mit geverden ausserhalb besonnderer noth oder ursachen <br/>
+<span class="lineNumber">138</span>auch one vorwissen unnd zulassen der pfaltz beuelch haber sich niemandt <br/>
+<span class="lineNumber">139</span>geprauchen. allso soll es auch mit Brott fleisch unnd Weinschatzung <br/>
+<span class="lineNumber">140</span>belegung des Ungelts unnd was diser ding mer seint zu der amptleuth <br/>
+<span class="lineNumber">141</span>verordnung stehe, deß Neuenstatter Ampts(gebräuch) gemeß deshalb gehallten <br/>
+<span class="lineNumber">142</span>werden.
+<span class="lineNumber">143</span><span class="article_added">[Art. 7]</span> Zum Sibenden sollen alle dise ankommende Unnderthanen wie andere <br/>
+<span class="lineNumber">144</span>Innwohner des Ampts Neuenstatt mit fron Preis schatzung und <br/>
+<span class="lineNumber">145</span>dergleichen Servituten der Churfurstlichen pfaltz zuleisten ge-<br/>
+<span class="lineNumber">146</span>werttig unnd verbunden sein. Doch mit diser bescheidenheit <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-4v"> [Blatt: 4<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">147</span>wo befunden dieselben diser Lannds arth den fron mit der hanndt <br/>
+<span class="lineNumber">148</span>zuverrichten, oder Zuraifen untuglich, das sie fur die fron järlicheen <br/>
+<span class="lineNumber">149</span>auch wann sich der fahl des außreissens begeben wurde, allsdann <br/>
+<span class="lineNumber">150</span>furs selben benampte summa gelts, wie man sich dessen vergleichen <br/>
+<span class="lineNumber">151</span>mag zuerlegen schuldig sein soll.
+<span class="lineNumber">152</span><span class="article_added">[Art. 8]</span> Zum achten Wo sich bey inen frevel unnd bussen zutragen <br/>
+<span class="lineNumber">153</span>werden soll abermals bey pfaltz Amptleuth verordnung stehe, <br/>
+<span class="lineNumber">154</span>ob die freveler jedesmals nach gelegenheit der verwurckhung <br/>
+<span class="lineNumber">155</span>gestrafft, oder kunfftig deßhalb einer jeden frevel Ir besondere <br/>
+<span class="lineNumber">156</span>maß gegeben werden solle.
+<span class="lineNumber">157</span><span class="article_added">[Art. 9]</span> Zum Neundten, den ein unnd außzug belanngen, ist von Churfurst-<br/>
+<span class="lineNumber">158</span>licher Pfaltz zugelassen, das dise frembde jetzmals Inn die <br/>
+<span class="lineNumber">159</span>Sechzig Hauß geseß, oder wievil mer deren des ersten Innzugs <br/>
+<span class="lineNumber">160</span>furhannden sein werden, frey one entgeltnus allda innziehen mögen, <br/>
+<span class="lineNumber">161</span>hernach aber sollen sie bey inen niemandt weitters einziehen <br/>
+<span class="lineNumber">162</span>lassen, an oder auffnemen, dann mit besonderm vorwissen und <br/>
+<span class="lineNumber">163</span>bewilligen des Churfursten, unnd wellche allso hernach mit be-<br/>
+<span class="lineNumber">164</span>willigung, es sey durch Heurat oder sonsten derendts bey Inen <br/>
+<span class="lineNumber">165</span>sich nider lassen werden, von denselben soll von jeder person des <br/>
+<span class="lineNumber">166</span>Innzugs vier gulden, deren die drey gulden der Obrigkeit, <br/>
+<span class="lineNumber">167</span>unnd einer dem Flecken, zuerhalltung nottwendiger gebew, ge-<br/>
+<span class="lineNumber">168</span>pürn unnd zustehn, empfanngen unnd gehallten werden. Sovil aber <br/>
+<span class="lineNumber">169</span>den abzug betrifft. Da ein oder mer Haußgesaß, oder villeicht <br/>
+<span class="lineNumber">170</span>die gannz gemeinde, mit Iren Ernstlichen wohnungen von dannenn <br/>
+<span class="lineNumber">171</span>ausserthalb der pfalz Obrigkeit sich (nit) annderst wohin zubegeben <br/>
+<span class="lineNumber">172</span>furnemen, so offt unnd von wem das geschehe, sollen die abziehenehn <br/>
+<span class="lineNumber">173</span>nach gelegenheit Irer hab unnd narung, kunfftiger verordnung nach <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-5r"> [Blatt: 5<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">174</span>der herrschafft abzug gelt, doch dasselbig nit uber funff gulden <br/>
+<span class="lineNumber">175</span>vom hundert zugeben schuldig sein. Es sollen auch die jhenen so her-<br/>
+<span class="lineNumber">176</span>nachmals an disem orth zuwohnen auffgenommen, sobald sie innziehen <br/>
+<span class="lineNumber">177</span>den Amptleuthen von wegen Churfl. pfaltz huldigung thun, allso auch <br/>
+<span class="lineNumber">178</span>eines Jeden Jars, auff ein benannten tag alles Ir gesindt von Obrigkeit <br/>
+<span class="lineNumber">179</span>wegen zu pflichten angenommen werden, aller hanndt unrichtigkeit <br/>
+<span class="lineNumber">180</span>dardurch zufurkhommen.
+<span class="lineNumber">181</span><span class="article_added">[Art. 10]</span> Zum Zehenden, Dieweil der Obrigkeit in alle wege bevorsteht, auch <br/>
+<span class="lineNumber">182</span>Inn churfurstlicher pfaltz geprauchlich ist mit aufflegung Ungelts, <br/>
+<span class="lineNumber">183</span>Zoll unnd weg gelts gegen heimisch unnd frembden Ordnungen, und auff-<br/>
+<span class="lineNumber">184</span>sazungen zuuben, So ist hierin bethedingt, das dise Innwohners <br/>
+<span class="lineNumber">185</span>der Churfl. pfaltz ungelts unnd Zolls Ordnungen sich auch gemeß ver-<br/>
+<span class="lineNumber">186</span>hallten oder Im fahl der ubertrettung, gepurender straff gewarten sollen.
+<span class="lineNumber">187</span><span class="article_added">[Art. 11]</span> Zum Eillfften, soll es auch mit auffsetzung der gewonlichen Beeth, oder an <br/>
+<span class="lineNumber">188</span>statt derselben annderer steurmaß gegen disen gehallten werden, wie man <br/>
+<span class="lineNumber">189</span>sich kunfftig zuvergleichen hat,
+<span class="lineNumber">190</span><span class="article_added">[Art. 12]</span> Zum zwelfften, dieweil disen Unnderthanen (ausserhalb obgemelter fur-<br/>
+<span class="lineNumber">191</span>behalltner stuckhe) sonst der bezirrkh des grossen Frannckenthals mit <br/>
+<span class="lineNumber">192</span>allen wohnungen, auch zugehörigen Bauhofe, unnd daran gelegnen Scheu-<br/>
+<span class="lineNumber">193</span>ren, zubewohnen unnd zugebrauchen Inngereumpt wurde, ist dessen <br/>
+<span class="lineNumber">194</span>vor järlichen zinses unnd annder notturfft halben mit Inen nach-<br/>
+<span class="lineNumber">195</span>folgende vergleichunge beschehe, Nemlich das Sie aus sollchen wohnungen <br/>
+<span class="lineNumber">196</span>wir Inen die jetzo derenden eingereumbt (und) so lang sie dieselben besitzen <br/>
+<span class="lineNumber">197</span>werden Järlichs unnd ein jeden Jars besonnder auff Johannis Baptiste <br/>
+<span class="lineNumber">198</span>zu gepurendem Haußzinß dem Oeconomo zu Kleinfrannckennthal <br/>
+<span class="lineNumber">199</span>anstatt der Kirchen verwalltung one abganng reichen unnd außrichten <br/>
+<span class="lineNumber">200</span>sollen annderthalb hundert gulden in grober munz, den gulden zu funff-<br/>
+<span class="lineNumber">201</span>zehen batzen, gegen gepurlich Quittung. Darzu all sollich wohnungen <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-5v"> [Blatt: 5<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">202</span>und Behaussungen, wie inen die jetzo gestellt, unnd eingeben werden <br/>
+<span class="lineNumber">203</span>allso in gepürendem pewlichem wesen, Dach unnd schwellen <br/>
+<span class="lineNumber">204</span>auffrichtig und unzergennglich auff iren costen erhallten, mit zer-<br/>
+<span class="lineNumber">205</span>brechung der mauren unnd gewelb. Darinnen nichts dann mit vor-<br/>
+<span class="lineNumber">206</span>wissen unnd zulassen furnemen, sonnderlich aber daran keinen geuer-<br/>
+<span class="lineNumber">207</span>lichen schaden thun. Wurde dann jetzt oder kunfftig jemandts unnder <br/>
+<span class="lineNumber">208</span>Inen derenden Neue grundt buche mit wissen auffrichten, von denselbigen <br/>
+<span class="lineNumber">209</span>soll jederzeit der Obrigkeit gepürliche gepurende diennst wie obsteht, <br/>
+<span class="lineNumber">210</span>unnd der Kirchen Verwalltung, aber davon zimlicher Jerlicher <br/>
+<span class="lineNumber">211</span>boden Zinß gefolgen.
+<span class="lineNumber">212</span><span class="article_added">[Art. 13]</span> Zum Dreyzehenden, Dieweil zu Groß Frannckenthal ain Mahl-<br/>
+<span class="lineNumber">213</span>mül mit gehendem unnd lauffendem geschirr, sampt annderer <br/>
+<span class="lineNumber">214</span>Zugehörde, auch ein Bierhaus mit einem grossen inngemaurten <br/>
+<span class="lineNumber">215</span>Braukessel, sampt etlichen Kueffen, unnd was zu disem werckh ge-<br/>
+<span class="lineNumber">216</span>hörig vorhannden, Ist abgeredt, wiewol nun dise mühl, unnd <br/>
+<span class="lineNumber">217</span>Brauhauß Inn dem obgemelten Zins den frembden Zubewohnen <br/>
+<span class="lineNumber">218</span>auch eingeraumpt ist. Das doch Inn der mülen allßbald ires <br/>
+<span class="lineNumber">219</span>Innzugs, wie gebreuchlich, das gehendt unnd lauffennd geschirr <br/>
+<span class="lineNumber">220</span>durch einen oder zwen müll arzte geschetzt, angeschlagen, unnd <br/>
+<span class="lineNumber">221</span>von den bestenndern hinfuro in genuglichem wesen, und besserung <br/>
+<span class="lineNumber">222</span>dermassen erhallten werden, das Sie Im fall abzugs sollichs alles <br/>
+<span class="lineNumber">223</span>In sollchem werdt wider dem Kloster zuzustellen oder dessen Zube-<br/>
+<span class="lineNumber">224</span>zalung sovil gelts so uber jetzige schatzung von Inen daran geschme-<br/>
+<span class="lineNumber">225</span>lert zuerlegen schuldig sein sollen, wann Inen auch geliebt, des <br/>
+<span class="lineNumber">226</span>schliessenden geschirrs an Zubern, mehelkäßten, (und anderm In der muln allso auch dem Braukessel), Kueffen unnd dergleichen <br/>
+<span class="lineNumber">227</span>Im Bierhauß vor sich zuhaben, soll Inen sollichs nach billicher Achtung <br/>
+<span class="lineNumber">228</span>kauffsweis auch zugestellt werden.
+<span class="lineNumber">229</span><span class="article_added">[Art. 14]</span> Zum vierzehenden, ist offt berurten Unnderthanen verwilligt, das <br/>
+<span class="lineNumber">230</span>man zu Herbstzeitten auff der Kelter zu Groß Frannckhennthal <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-6r"> [Blatt: 6<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">231</span>ungeacht dieselbig vorbehallten nit minder umb gepürenden Kelterwein, <br/>
+<span class="lineNumber">232</span>wie inn der Pfaltz, da man sich der Bankeltern gebraucht, ublichen ist. <br/>
+<span class="lineNumber">233</span>Sie darauff auch deihen lassen welle, biß auff kunfftige weittere <br/>
+<span class="lineNumber">234</span>versehung unnd Ordnung die inen derhalb geben mag werden.
+<span class="lineNumber">235</span><span class="article_added">[Art. 15]</span> Zum funffzehenden, Dieweil vormuthlich, das anfanngs diser Hauß-<br/>
+<span class="lineNumber">236</span>halltung biß die wohnungen zu besserer gelegenheit gerichtet, <br/>
+<span class="lineNumber">237</span>die Innwohner mit Iren feuren zu Kochen unnd sonnst vilen orthen <br/>
+<span class="lineNumber">238</span>da es nit allenthalben mit Herdstadt unnd Schurnsteinen versehen <br/>
+<span class="lineNumber">239</span>sich behelffen muessen, So ist sonnderlich bedingt, das sie allßbald <br/>
+<span class="lineNumber">240</span>nach irem innzug dißer ding halben unnder sich selbst wacht anstellen, <br/>
+<span class="lineNumber">241</span>damit so tag, so nacht der feur malstatt wol wahr genommen, unnd da nit schaden entstehe, dann sollt Uß irem fahrloß den ge-<br/>
+<span class="lineNumber">242</span>beuen durch feur nachteil zugefuegt werden Sie denen zuerstatten <br/>
+<span class="lineNumber">243</span>schuldig sein.
+<span class="lineNumber">244</span><span class="article_added">[Art. 16]</span> Zum Sechzehenden belanngen die Bäugueter. Dieweil mit disen Inn-<br/>
+<span class="lineNumber">245</span>wohnern unnder annderm auch verglichen, unnd Inen bewilligt, den <br/>
+<span class="lineNumber">246</span>Acker Bau sovil morgen diser Zeit unnder des Grossen Franckenthals <br/>
+<span class="lineNumber">247</span>pflug gebauen worden umb gepürliche lanndt pfacht innzuraumen. <br/>
+<span class="lineNumber">248</span>So ist deßwegen abgeredt, das noch Innprachter jetzt nechstkunff-<br/>
+<span class="lineNumber">249</span>tiger Ernde die ganntze Groß Frannckenthaler gemarcken, gegen <br/>
+<span class="lineNumber">250</span>allen anstossern beritten, die Schid unnd marckhstein besehenn, <br/>
+<span class="lineNumber">251</span>an orthen wo nott Neue stein zusetzen, unnd dann durch der pfaltz <br/>
+<span class="lineNumber">252</span>geschworne Lanndtmesser die ganntze gemarcken, mit der Rudten <br/>
+<span class="lineNumber">253</span>beschlagen, dem morgen maß nach eigentlich zubeschreiben furge-<br/>
+<span class="lineNumber">254</span>nommen werden soll, unnd so das alles beschehen disen Unnderthanen <br/>
+<span class="lineNumber">255</span>unnd bestenndern allßdann gegen bestattung unnd bezalung auffge-<br/>
+<span class="lineNumber">256</span>wenndten Baurostens unnd gethaner sath sollche Ecker so unnder des <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-6v"> [Blatt: 6<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">257</span>Grossen Frannckenthals pfluge gewest (deren ungeuerlichen <br/>
+<span class="lineNumber">258</span>achtung nach Eintausent Achtzig Neun morgen mer oder <br/>
+<span class="lineNumber">259</span>munder sein mögen) zu iren hannden bestanndts weiß gestellet <br/>
+<span class="lineNumber">260</span>unnd darüber Länndtlich gebreuchliche verschreibung auffge-<br/>
+<span class="lineNumber">261</span>richtet. Allßo das sie von Inen in guttem Bau unnd besserung <br/>
+<span class="lineNumber">262</span>gehallten werden unnd Järlichs auff martini dem Oeconomo <br/>
+<span class="lineNumber">263</span>zu Klein Frannckenthal an statt der Kirchen Verwalltung, davon <br/>
+<span class="lineNumber">264</span>unnd daraus zupfacht raichen sollen von jedem morgen wievil sich <br/>
+<span class="lineNumber">265</span>deren im anschlag der Rudten gemeinem Lanndtmaß nach befinden <br/>
+<span class="lineNumber">266</span>werden. Ein halb malter Korn gedroschner gutter durrer frucht <br/>
+<span class="lineNumber">267</span>Kauffmanß gut von dem pauer gereicht wie diser Lanndts <br/>
+<span class="lineNumber">268</span>Arth, mit bezalung dergleichen Korn gult, preuchlich herkhom-<br/>
+<span class="lineNumber">269</span>men, one der Kirchen Verwalltung oder gült herrn costen, auch <br/>
+<span class="lineNumber">270</span>mit dem meß, so man sich im Kloster gebrauchen wurdt auff <br/>
+<span class="lineNumber">271</span>einen Kasten zuliffern, unnd zuwehrn, doch soll die lifferung <br/>
+<span class="lineNumber">272</span>dermassen geschehen, das die pfacht zum wenigsten von jedem <br/>
+<span class="lineNumber">273</span>morgen aus einer Hanndt beschehe, mit ganntzen oder halben <br/>
+<span class="lineNumber">274</span>malter, unnd nit einzeliger weiß, mit Simmern oder halben <br/>
+<span class="lineNumber">275</span>Simmern zuempfahen.
+<span class="lineNumber">276</span>So sollen auch die Innwohner des Ackersbaus die gueter diser Landts <br/>
+<span class="lineNumber">277</span>arths prauch nach mit Zackern, Düngen unnd aller notturfft, in <br/>
+<span class="lineNumber">278</span>guttem wesentlichen Redlichem Bau wie obgemelt erhallten. Da <br/>
+<span class="lineNumber">279</span>Sie aber einen oder mer morgen (welchs doch keins wegs sein solle) <br/>
+<span class="lineNumber">280</span>ungebaut wüest liegen liessen, soll nit deßtoweniger der Kirchen <br/>
+<span class="lineNumber">281</span>der benampt pfacht werden, Und disfalls päuer ainer vor dem anderen <br/>
+<span class="lineNumber">282</span>zusteen unnd zu heben schuldig sein.
+<span class="lineNumber">283</span>Dieweil auch Inn der Churfl. pfalz, Es seyen dann sonndere frey-<br/>
+<span class="lineNumber">284</span>heit vorhannden, sonnst kein gut zehend frey, ist abgeredt. Das <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-7r"> [Blatt: 7<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">285</span>dise päuer von Ackhern, Wingarthen Gärthen unnd <br/>
+<span class="lineNumber">286</span>allen ligenden guetern, auch von irem Vihe zuge dem lanndlichen <br/>
+<span class="lineNumber">287</span>brauch nach wir inen dessen nachmals sonndere Ordnung furge-<br/>
+<span class="lineNumber">288</span>schriben werden groß unnd clein zehenden, wie anndere Lanndt-<br/>
+<span class="lineNumber">289</span>sessen unwaigerlichen zureichen zugeben unnd sich in disem fall <br/>
+<span class="lineNumber">290</span>wie anndere der pfalz unnderthanen der Amptleuth verordnung nach-<br/>
+<span class="lineNumber">291</span>gemeß hallten sollen unnd wollen.
+<span class="lineNumber">292</span>Es somit auch auff den Eckern zum Grossen Frannckhenthal gehörig die <br/>
+<span class="lineNumber">293</span>unnderste Zeil Nußbäum der Kirchen Järlichen Zugeniessen vorbe-<br/>
+<span class="lineNumber">294</span>hallten.
+<span class="lineNumber">295</span>Die Wingarten so dem Grossen Frannckenthal zustenndig seind, Zum <br/>
+<span class="lineNumber">296</span>theil alt, Zum theil New Reutten, antheil Newlich bestockht, <br/>
+<span class="lineNumber">297</span>sollen diß Jar der Kirchen vorbehallten sein nach Inngebrachtem <br/>
+<span class="lineNumber">298</span>Herbst, aber den Bestenndern umb einen gewohnlichen Wein Zinß <br/>
+<span class="lineNumber">299</span>dieselben furtter auff Iren costen. Inn unzergenglichem Wingart <br/>
+<span class="lineNumber">300</span>bau zuerhalten, auch Inngeraumbt werden. Ebner massen wie <br/>
+<span class="lineNumber">301</span>mit dem Ackergutt, dieselben Zuvor Zumessen, dem morgen meß <br/>
+<span class="lineNumber">302</span>nach unnd auff jeden morgen besonnder wein Zinß zuschlagen, da-<br/>
+<span class="lineNumber">303</span>ruber besondere Zinß Register mit Inen auffzurichten.
+<span class="lineNumber">304</span>Allso auch mit dem Gärten unnd Wiser in unnd ausserhalb Groß=<br/>
+<span class="lineNumber">305</span>Frannckenthal bezirckhs gelegen, sampt dem Wißwachs auff der <br/>
+<span class="lineNumber">306</span>morsher Aue, sovil man dessen zum gebrauch des Auehauß enttraten <br/>
+<span class="lineNumber">307</span>kan dem morgen meß nach nach achtung unnd gelegenheit Inen umb Jär-<br/>
+<span class="lineNumber">308</span>lich graß gelt zuverleihen bewilligt.
+<span class="lineNumber">309</span>Des Vihetribs unnd Waidgangs halb so das Groß Frannckhenthal <br/>
+<span class="lineNumber">310</span>herpracht soll Inen umb gepürlich Weidgelt, wie man dessen <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-7v"> [Blatt: 7<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">311</span>auch der anzal der Vihes damit die Waide nit uberschlagen <br/>
+<span class="lineNumber">312</span>auff verstenndiger Baurßleuth anschlag sich mit Inen Zu-<br/>
+<span class="lineNumber">313</span>einigen hat, doch vorbehälltlich zu Eckern Zeit, da in vorbehallten <br/>
+<span class="lineNumber">314</span>buschen, die Eicheln Järlich wie gebreuchlich (umb) Dhrem gelt ver-<br/>
+<span class="lineNumber">315</span>lihen werden. Dise Innwohner wie anndere genachbarte zu <br/>
+<span class="lineNumber">316</span>hallten sich auch Inn vor anderen umb gepurlich Dhrem gelt <br/>
+<span class="lineNumber">317</span>Zugelassen werden.
+<span class="lineNumber">318</span>Im fall auch kunfftig bey disen Innwohner ein Scheferey anzurichten <br/>
+<span class="lineNumber">319</span>vor nutzlich angesehen unnd furgenommen werden wollt, soll <br/>
+<span class="lineNumber">320</span>sollches alles mit der Obrigkeit vorwissen beschehen unnd deroselben <br/>
+<span class="lineNumber">321</span>auch Ire gebürr der abniessung daran vorbehallten sein. Doch <br/>
+<span class="lineNumber">322</span>das damals mit anstellung der Scheferey, besuchung des Weid-<br/>
+<span class="lineNumber">323</span>ganngs unnd sonnst wie von alters gehallten, gegen den an-<br/>
+<span class="lineNumber">324</span>stössern aber mit Neuerung gesucht werden.
+<span class="lineNumber">325</span><span class="article_added">[Art. 17]</span> Zum Sibenzehenden was beschwerung von wegen des Grossen <br/>
+<span class="lineNumber">326</span>Frannckenthals allein, oder mit anndern, alls mit auffbauung und <br/>
+<span class="lineNumber">327</span>erhalltung des mörscher schußbrets, zuerbesserung Deichwege, <br/>
+<span class="lineNumber">328</span>unnd stege, auch Järlicher bezalung des Bruckenfergen. Unnd <br/>
+<span class="lineNumber">329</span>Schutz korns, oder was dessen mer, altem geprauch unnd gewonheit <br/>
+<span class="lineNumber">330</span>nach Zuerhallten unnd außzurichten sich gebürt und herkhomen ist, <br/>
+<span class="lineNumber">331</span>Das sollen dise Innwohner unnd bestennder Zu Groß Franncken-<br/>
+<span class="lineNumber">332</span>thal Järlichen auch leisten unnd verrichten, one der Kirchen <br/>
+<span class="lineNumber">333</span>verwalltung nachteil.
+<span class="lineNumber">334</span>Sollches alles so vor unnd nachgeschriben steht, haben von wegen <br/>
+<span class="lineNumber">335</span>gannzer Gemeind vorgemelter verjagter Christen Die <br/>
+<span class="lineNumber">336</span>hienach benannte Mit Namen <button class="entity #dathenus_petrus person" data-ref="dathenus_petrus" data-type="person" id="d2e1441">pettrus Datenus</button>, <button class="entity #liebart_jacobus person" data-ref="liebart_jacobus" data-type="person" id="d2e1444">Jacobus <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-8r"> [Blatt: 8<span class="rectoVerso">r</span> ] </button> </button><br/>
+<span class="lineNumber">337</span><button class="entity #liebart_jacobus person" data-ref="liebart_jacobus" data-type="person" id="d2e1444">Liebart</button>, <button class="entity #billis_christianus person" data-ref="billis_christianus" data-type="person" id="d2e1452">Christianus Billis</button>, <button class="entity #bentheim_petrus person" data-ref="bentheim_petrus" data-type="person" id="d2e1455">pettrus von Bentheim</button>, <button class="entity #kirken_franciscus person" data-ref="kirken_franciscus" data-type="person" id="d2e1458">Frannciscus </button><br/>
+<span class="lineNumber">338</span><button class="entity #kirken_franciscus person" data-ref="kirken_franciscus" data-type="person" id="d2e1458">von Kirken</button> angenommen, fur sich unnd alle jetzige oder kunfftig <br/>
+<span class="lineNumber">339</span>Irer gemeinden Angehörige unnd Verwanndte, so diß orths <br/>
+<span class="lineNumber">340</span>wohnen werden, Inn allen Clausuln, puncten unnd Articuln <br/>
+<span class="lineNumber">341</span>zugeleben, Dem allem unnd wes kunfftig von wegen der <br/>
+<span class="lineNumber">342</span>Obrigkeit fernere Ordnunge gepott, verpott furgenommen <br/>
+<span class="lineNumber">343</span>unnd geordnet werden, unwidersprechlich nach Zu khommen, <br/>
+<span class="lineNumber">344</span>Zugehorsamen, Inn dem unnd allem annderm alls getreuen <br/>
+<span class="lineNumber">345</span>unnderthonen Zuthun gepürt sich erzeigen unnd hallten. Da-<br/>
+<span class="lineNumber">346</span>runder kain geverd<a class="fnNumber" href="#F_15" id="A_15">15</a>, betrug noch Arglist zuvermischen. Dar-<br/>
+<span class="lineNumber">347</span>zu an heut, nach verlesung diser Capitulation unnd erstattung <br/>
+<span class="lineNumber">348</span>vorgemelter Huldigung neben gannzer Gemeinde, sollchem allem <br/>
+<span class="lineNumber">349</span>nachzukhomen versprochen, zugesagt, unnd zu mehrer Zeugknus <br/>
+<span class="lineNumber">350</span>auß gemeinen gewallt unnd bevelch mit Irem hanndtzeichen <br/>
+<span class="lineNumber">351</span>bekrefftigt.
+<span class="lineNumber">352</span>Darumb zu Urkundt unnd gleichen behallt diser schrifften Drey <br/>
+<span class="lineNumber">353</span>gleichlauttend verfast. Deren Eine zu Churfurstlicher Cantzley <br/>
+<span class="lineNumber">354</span>gehn <button class="entity #heidelberg place" data-ref="heidelberg" data-type="place" id="d2e1513">Heydelberg</button> geliffert. Die annder Vizthumb und Landtschreiber <br/>
+<span class="lineNumber">355</span>zur <button class="entity #neustadt_haardt place" data-ref="neustadt_haardt" data-type="place" id="d2e1519">Neuenstatt</button> sich Ampts halben deren haben zugeprauchen. Unnd <br/>
+<span class="lineNumber">356</span>die Dritt den vilgemelten Unnderthanen zu <button class="entity #frankenthal place" data-ref="frankenthal" data-type="place" id="d2e1524">Groß Frannckennthal</button> <br/>
+<span class="lineNumber">357</span>darnach sich habend zugerichten, behänndigt unnd zugestellt worden. <br/>
+<span class="lineNumber">358</span>Datum et Actum <button class="entity #frankenthal place" data-ref="frankenthal" data-type="place" id="d2e1531">Frannckenthal</button>. Freytags den Dreyzehenden <br/>
+<span class="lineNumber">359</span>Juni Nach Christi Unsers lieben herrn unnd Seligmachers ge-<br/>
+<span class="lineNumber">360</span>purt Taussent funffhundert Sechzig Zwey Jar.<a class="fnNumber" href="#F_a" id="A_a">a</a>
+<span class="lineNumber">361</span>Petrus Dathaenus manu ppria subscripsit <br/>
+<span class="lineNumber">362</span>Jacob Lieber <br/>
+<span class="lineNumber">363</span>Christian Gillis <br/>
+<span class="lineNumber">364</span>Dictor von Barten <br/>
+<span class="lineNumber">365</span>Franse Kyrken <br/>
+<span class="lineNumber">366</span>Jan Rykewaert <br/>
+<span class="lineNumber">367</span>Jan Bungler <br/>
+<span class="lineNumber">368</span>groter betrauen
+<span class="lineNumber">369</span>joes hart <br/>
+<span class="lineNumber">370</span>Aplant de portion <br/>
+<span class="lineNumber">371</span>fraus de man <br/>
+<span class="lineNumber">372</span>tag under mensch <br/>
+<span class="lineNumber">373</span>Jacob Buriffe <br/>
+<span class="lineNumber">374</span>Cavel polat <br/>
+<span class="lineNumber">375</span>Mailladt den <br/>
+<span class="lineNumber">376</span>Christian Schubbe <br/>
+<span class="lineNumber">377</span>ross unnd vorschus <br/>
+<span class="lineNumber">378</span>clagt, do gotz¬<br/>
+<span class="lineNumber">379</span>Fransen und beyzu¬<br/>
+<span class="lineNumber">380</span>Conrads der kurtzer <br/>
+<span class="lineNumber">381</span>Frans brud <br/>
+<span class="lineNumber">382</span>Jacob de Sonder¬<br/>
+<span class="lineNumber">383</span>Adrian von Wyner <br/>
+<span class="lineNumber">384</span>Herman frau ghen. <br/>
+<span class="lineNumber">385</span>an der walde <br/>
+<span class="lineNumber">386</span>Erlers von Berten <br/>
+<span class="lineNumber">387</span>frant de vilde <br/>
+<span class="lineNumber">388</span>Christian Mielen <br/>
+<span class="lineNumber">389</span>Maten Kuenland. <br/>
+<span class="lineNumber">390</span>Hans Behei¬<br/>
+<span class="lineNumber">391</span>Landraht von guttlichen <br/>
+<span class="lineNumber">392</span>Den von Bassenberg <br/>
+<span class="lineNumber">393</span>agnes de Vous den <br/>
+<span class="lineNumber">394</span>Jan Rousseau <br/>
+<span class="lineNumber">395</span>par forman <br/>
+<span class="lineNumber">396</span>Amant unnd hoch <br/>
+<span class="lineNumber">397</span>tagne stund <br/>
+<span class="lineNumber">398</span>martii fecit.
+<span class="lineNumber">399</span>Cornelis ritter. <br/>
+<span class="lineNumber">400</span>pieter dorffen <br/>
+<span class="lineNumber">401</span>zinsundin <br/>
+<span class="lineNumber">402</span>Waraffe blanckardt <br/>
+<span class="lineNumber">403</span>herrns de fry <br/>
+<span class="lineNumber">404</span>willen ersteren <br/>
+<span class="lineNumber">405</span>Jan Herren <br/>
+<span class="lineNumber">406</span>Europ de bisher <br/>
+<span class="lineNumber">407</span>pieter der grand <br/>
+<span class="lineNumber">408</span>Lick vorget. <br/>
+<span class="lineNumber">409</span>Funck de bots <br/>
+<span class="lineNumber">410</span>behaghele <br/>
+<span class="lineNumber">411</span>Jacob der busschar¬<br/>
+<span class="lineNumber">412</span>guter die belarte <br/>
+<span class="lineNumber">413</span>peter wolde <br/>
+<span class="lineNumber">414</span>sinen van barem <br/>
+<span class="lineNumber">415</span>Jochim trompent <br/>
+<span class="lineNumber">416</span>sonst verboten. <br/>
+<span class="lineNumber">417</span>an Mondern <br/>
+<span class="lineNumber">418</span>Cornelis des

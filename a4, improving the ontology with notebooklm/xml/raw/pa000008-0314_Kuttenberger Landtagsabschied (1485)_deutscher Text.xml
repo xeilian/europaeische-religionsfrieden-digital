@@ -1,0 +1,898 @@
+<?xml-model href="../../../customization/schema_quellentexte/religionsfrieden-quellentexte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa000008-0314">
+    <teiHeader>      
+        <fileDesc>         
+            <titleStmt>
+                <title level="s">Europäische Religionsfrieden Digital</title>
+                <title level="a">Kuttenberger Religionsfrieden (1485)</title>
+                 
+                
+                <editor role="http://id.loc.gov/vocabulary/relators/edt" ref="https://orcid.org/0000-0003-1747-4862">
+                    <persName>Alexandra Schäfer-Griebel</persName>
+                </editor> 
+                <respStmt>
+                    <resp ref="http://id.loc.gov/vocabulary/relators/mrk">Mitarbeit</resp>
+                    <persName>Kevin Wunsch</persName>
+                    <persName>Silke Kalmer</persName>
+                </respStmt>
+                <editor role="http://id.loc.gov/vocabulary/relators/trl">Jana Kocková</editor>
+                <editor role="http://id.loc.gov/vocabulary/relators/mrk">Silke Kalmer</editor>           
+            </titleStmt>         
+            <editionStmt>
+                <edition>Digitale Edition gemäß <ref target="http://www.tei-c.org/">TEI P5</ref>
+                </edition>
+                <funder>Akademie der Wissenschaften und der Literatur Mainz</funder>
+                <principal>Unter der Leitung von Irene Dingel und Thomas Stäcker</principal>
+            </editionStmt>         
+            <publicationStmt>
+                <publisher>
+                    <orgName ref="http://www.isni.org/0000000119314040">Leibniz-Institut für Europäische Geschichte Mainz</orgName>
+                </publisher>           
+                <distributor>
+                    <orgName ref="http://www.isni.org/0000000110101946">Universitäts- und Landesbibliothek Darmstadt</orgName>
+                    <idno type="ISIL">http://lobid.org/organisation/DE-17</idno>
+                </distributor>
+                <date when="2013-10-17" type="issued">2013</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p xml:lang="en">This file is licensed under the terms of the Creative Commons License CC-BY 4.0 (Attribution 4.0 International)</p>
+                    </licence>
+                </availability>
+            </publicationStmt>        
+            <sourceDesc>
+                <p>Textgrundlage s. ggf. Einleitung.</p>
+            </sourceDesc>
+        </fileDesc>      
+        <encodingDesc>         
+            <projectDesc>
+                <p>
+                    <ref target="https://eured.de">Europäische Religionsfrieden Digital</ref>
+                </p>
+            </projectDesc>
+            <classDecl>
+                <taxonomy xml:id="marcrelator">
+                    <bibl>
+                        <idno type="URI">http://id.loc.gov/vocabulary/relators/</idno> MARC Code List for Relators </bibl>
+                </taxonomy>
+            </classDecl>         
+        </encodingDesc>      
+        <profileDesc>         
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>         
+        </profileDesc>      
+        <!--<revisionDesc><change/></revisionDesc>-->   
+    </teiHeader>
+    <standOff>
+        <listPerson>
+            <person xml:id="vladislav_ii">
+                    <persName ref="http://d-nb.info/gnd/118634453">
+                        <forename>Vladislav II.</forename>
+                        <surname type="toponymic">
+                            <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs>
+                        </surname>
+                        <roleName>König</roleName>
+                    </persName>
+                    <note>Vladislav Jagellonský</note>
+                </person>
+            <person xml:id="vaclav_chvojenec">
+                    <persName>
+                        <forename>Václav</forename>
+                        <surname type="toponymic">Chvojenec</surname>
+                    </persName>
+                    <note>
+                    <rs type="place" ref="#boehmen_koenigreich">Böhmischer</rs>
+                        Hofschreiber</note>
+                </person>
+            <person xml:id="rokycana_jan">
+                    <persName ref="http://d-nb.info/gnd/118943421">
+                        <forename>Jan</forename>
+                        <surname>Rokycana</surname>
+                    </persName>
+                </person>
+            <person xml:id="sigismund">
+                    <persName ref="http://d-nb.info/gnd/118614185">
+                        <forename>Sigismund</forename>
+                        <roleName>Kaiser</roleName>
+                    </persName>
+                    <note>Kaiser des <rs type="place" ref="#heiliges_roemisches_reich">Heiligen
+                            Römischen Reichs</rs>.</note>
+                </person>
+            <person xml:id="innozenz_viii">
+                    <persName ref="http://d-nb.info/gnd/119130025">
+                        <forename>Innozenz VIII.</forename>
+                        <roleName>Papst</roleName>
+                    </persName>
+                    <note>Cibo, Giovanni Battista</note>
+                </person>
+            <person xml:id="eugenius_iv">
+                    <persName ref="http://d-nb.info/gnd/118531328">
+                        <forename>Eugen IV.</forename>
+                        <roleName>Papst</roleName>
+                    </persName>
+                    <note>Condulmer, Gabriele</note>
+                </person>
+            <person xml:id="heinrich_i_muensterberg">
+                    <persName ref="http://d-nb.info/gnd/137059019">
+                        <forename>Heinrich</forename>
+                        <surname type="toponymic">
+                            <rs type="place" ref="#muensterberg">Münsterberg (Minstrberka)</rs>
+                        </surname>
+                        <roleName>Herzog</roleName>
+                    </persName>
+                    <note>Heinrich der Ältere (Jindřich starší)</note>
+                </person>
+            <person xml:id="hynek_z_podebrad">
+                    <persName ref="http://d-nb.info/gnd/119008572">
+                        <forename>Heinrich</forename>
+                        <surname type="toponymic">
+                            <rs type="place" ref="#muensterberg">Münsterberg (Minstrberka)</rs>
+                        </surname>
+                        <roleName>Herzog</roleName>
+                    </persName>
+                    <note>Heinrich der Jüngere (Jindřich mladší); Heinrich von Podiebrad (Hynek z
+                        Poděbrad)</note>
+                </person>
+            <person xml:id="rosenberg_vok_ii">
+                    <persName>
+                        <forename>Wok II. (Vok II.)</forename>
+                        <surname>Rosenberg (Rožmberka)</surname>
+                    </persName>
+                    <note><!-- prüfen -->Landeshauptmann von <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs>
+                </note>
+                </person>
+        </listPerson>
+        <listPlace>
+            <place xml:id="boehmen_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/63739-7">Böhmen, Königreich</placeName>
+                    <!-- dnb link geprüft, BM, 14.1.2021 -->
+                </place>
+            <place xml:id="heiliges_roemisches_reich">
+                    <placeName ref="http://d-nb.info/gnd/2035457-5">Heiliges Römisches Reich
+                        Deutscher Nation</placeName>
+                    <!-- dnb link geprüft, BM, 18.1.2021 -->
+                </place>
+            <place xml:id="muensterberg">
+                    <placeName ref="http://d-nb.info/gnd/4751847-9">Münsterberg,
+                        Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="kutna_hora">
+                    <placeName ref="http://www.geonames.org/3072463/kutna-hora.html">Kuttenberg
+                        (Kutná Hora)</placeName>
+                </place>
+            <place xml:id="maehren_markgrafschaft">
+                    <placeName ref="http://d-nb.info/gnd/4074432-2">Mähren,
+                        Markgrafschaft</placeName>
+                    <!-- dnb link geprüft und aktualisiert, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="basel">
+                    <placeName ref="http://www.geonames.org/2661604/basel.html">Basel,
+                        Stadt</placeName>
+                </place>
+            <place xml:id="rom">
+                    <placeName ref="http://www.geonames.org/3169070/rome.html">Rom</placeName>
+                </place>
+            <place xml:id="benesov">
+                    <placeName ref="http://www.geonames.org/3079508/benesov.html">Beneschau
+                        (Benešov)</placeName>
+                </place>
+            <place xml:id="prag">
+                    <placeName ref="http://www.geonames.org/3067696/prague.html">Prag,
+                        Stadt</placeName>
+                </place>
+        </listPlace>
+    </standOff>
+    
+
+<!-- <facsimile>
+ <graphic url=""></graphic>
+ </facsimile>-->
+<text>
+<body>
+ <head/>
+ <p xml:id="p001" corresp="0313#p001">
+                <lb/>In der vom <rs type="person" ref="#vladislav_ii">König</rs>, von Seiner Hoheit, abgehaltenen 
+ <lb/>Generalversammlung in <rs type="place" ref="#kutna_hora">Kuttenberg</rs> wurde Anno 
+ <lb/>Domini 1485 und im 14. Jahr der Herrschaft des 
+ <lb/>Königs <rs type="person" ref="#vladislav_ii">Vladislav</rs> Folgendes vereinbart und 
+ <lb/>in die Gedenklandtafeln<note type="annotation">
+                    <seg xml:id="seg4">Die Gedenklandtafeln (<hi rend="italic">Desky pamětné</hi>) bildeten einen Teil der Landtafeln (<hi rend="italic">Desky zemské</hi>), worin die Urteile des Landrechts (Landgerichts), d.h. des höchsten Gerichts im Königreich <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs>, und die Resolutionen der Landtage neben der Registrierung adligen Grundbesitzes niedergeschrieben wurden (vgl. <rs type="bibl" ref="#peterka_rechtsgeschichte">
+                            <surname type="author">Peterka</surname>, Rechtsgeschichte, T. 2, S. 71</rs>). Nur bei den Sitzungen des Landtags und des Landrechts wurden die Landtafeln eröffnet, so dass dem Landschreiber angezeigte Verträge und Rechtsgeschäfte eingetragen werden konnten. In Kuttenberg wurde als Teil des Landfriedens festgelegt, dass nur die in der Versammlung des Höchsten Gerichts dem König vorgelegten Verträge Gültigkeit haben sollten (vgl. <ref type="quelle" target="0314#seg8">unten<ref type="print"> S. #, Z. #</ref>
+                        </ref>). Ein Großteil dieser Tafeln, welche die Funktion eines Grundbuchs und einer Sammlung zentraler Beschlüsse und Gesetze des Königreichs <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs> erfüllten, wurde durch ein Feuer am 2. Juli 1541 vernichtet. Die Landtafeln wurden, einer gängigen Praxis folgend, nach Hofschreibern benannt, hier nach <rs type="person" ref="#vaclav_chvojenec">Wenzel von Chvojenec</rs>, der von 1504 bis 1512 Hofschreiber war. Weiterführend: <rs type="bibl" ref="#burdova_desky_zemske">
+                            <surname type="author">Burdová</surname>, Desky Zemské</rs>; <rs type="bibl" ref="#burdova_ulozeni_desek_zemskych">
+                            <surname type="author">Burdová</surname>, Uložení desek zemských</rs>. Zur Landtafel in <rs type="place" ref="#maehren_markgrafschaft">Mähren</rs> mit Ausblicken auf <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs> vgl. <rs type="bibl" ref="#demuth_landtafel">
+                            <surname type="author">Demuth</surname>, Geschichte der Landtafel</rs>.</seg>
+                </note> <rs type="person" ref="#vaclav_chvojenec">Wenzels von Chvojenec</rs>
+ <lb/>119 im Jahre 1501 eingetragen.</p>
+ <p xml:id="p002" corresp="0313#p002">
+                <lb/>Zum Lob des allmächtigen Gottes und für den gemeinen 
+ <lb/>Nutzen des <rs type="place" ref="#boehmen_koenigreich">böhmischen Königreiches</rs>, damit jeder in Seiner 
+ <lb/>Ordnung und Gerechtigkeit bleiben könne und damit die allseitige 
+ <lb/>Liebe und Einigkeit bewahrt seien, haben wir, <rs type="person" ref="#vladislav_ii">Vladislav</rs>, 
+ <lb/>von Gottes Gnaden König in <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs> etc., in demselben
+ <lb/>unserem Königreich Sorge tragend und von den dringenden 
+ <lb/>Angelegenheiten unserer Untertanen wissend, Anno Domini 
+ <lb/>1485, am Fastensonntag Laetare,<note type="annotation">Am 13. März 1485. Die Verhandlungssitzung in <rs type="place" ref="#kutna_hora">Kuttenberg</rs> endete am 20. März.</note> in der Generalversammlung 
+ <lb/>der Fürsten, Herren, Ritter, Städte unseres ganzen Königreiches 
+ <lb/>
+                <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs> in der Stadt <rs type="place" ref="#kutna_hora">Kuttenberg</rs> die nachstehenden Artikel 
+ <lb/>veranlasst, vereinbart und schließlich auch abgeschlossen.</p>
+ <p xml:id="p003" corresp="0313#p003">
+                <lb/>Erstens, den Glauben von der Kommunion von Leib und Blut
+ <lb/>des Herrn Jesu Christi unter einer oder beiderlei Gestalt betreffend:<note type="annotation">D.h. die Abendmahlspraxis mit Brot <hi rend="italic">und</hi> Wein.</note>
+ <lb/>Seine Hoheit, der <rs type="person" ref="#vladislav_ii">König</rs>, hat erwogen und in dieser Hinsicht hat 
+ <lb/>Seine Hoheit es für angebracht gehalten, dass eine Seite die andere, 
+ <lb/>ob weltlich oder auch geistlich, weder schmähen noch unterdrücken 
+ <lb/>darf, sondern beide zueinander die Liebe bewahren sollen; die 
+ <lb/>Geistlichen einer beliebigen Seite, unter welchen Fürsten, Herren, 
+ <lb/>Rittern, Städten sie auch stehen, sollen das Wort Gottes frei und 
+ <lb/>gegen die Sünden predigen, keiner darf den anderen tadeln noch 
+ <lb/>schmähen. Und die Fürsten, Herren, Ritterschaft sowie in den königlichen
+ <lb/>Städten all diejenigen, die den Brauch haben, Leib und Blut [Christi]
+ <lb/>unter einer Gestalt im Abendmahl zu nehmen, und die Priester sowie 
+ <lb/>Menschen und Untertanen unter sich haben, deren Brauch es ist, 
+ <lb/>Leib und Blut Jesu Christi unter beiderlei Gestalt zu empfangen,
+ <lb/>dürfen diese weder unterdrücken noch verfolgen, noch sie hindern, 
+ <lb/>die Erlösung nach ihrem Glauben und ihrem Brauch zu suchen. 
+ <lb/>Auch die Herren, Ritter sowie die Städte, die den Brauch 
+ <lb/>haben, Leib und Blut unseres Herrn Jesu Christi unter beiderlei 
+ <lb/>Gestalt zu empfangen, und deren Untertanen und Priester 
+ <lb/>den Brauch haben, unter einer Gestalt zu kommunizieren, sollen 
+ <lb/>ebenfalls gegenüber den Untertanen und ihnen[, den Priestern,]
+ <lb/>keine Unterdrückung ausüben, damit jeder das Wort Gottes 
+ <lb/>verkünden kann, ohne wegen seiner Sünden getadelt zu werden,
+ <lb/>und damit jeder seine Erlösung nach seinem Glauben und seinem 
+ <lb/>Brauch ohne Vertreibung und Unterdrückung suchen kann.<note type="annotation">Dies bedeutete die Einschränkung des Patronatsrechts der Grundherren, da sie nicht über die religiöse Zugehörigkeit der Untertanen in ihrer Grundherrschaft entscheiden konnten (vgl. <rs type="bibl" ref="#eberhard_konfessionsbildung">
+                        <surname type="author">Eberhard</surname>, Konfessionsbildung, S. 56</rs>; <rs type="bibl" ref="#panek_question">
+                        <surname type="author">Pánek</surname>, Question, S. 235</rs>). Da die böhmischen Grundherrschaften zum Großteil aus Gütern bestanden, welche frei vererbt, verpfändet und verkauft werden konnten, und es daher zu häufigeren Wechseln zwischen Grundherren kam, die dem Utraquismus oder der Abendmahlspraxis <hi rend="italic">sub una</hi> anhingen, kann die Regelung, das Patronatstrecht nicht als Religionshoheit auszudeuten, als vorbeugende Maßnahme gegen einen dauerhaften Dissens verstanden werden (vgl. <rs type="bibl" ref="#eberhard_bedingungen">
+                        <surname type="author">Eberhard</surname>, Bedingungen, S. 116</rs>). Die Freistellung der Untertanen stand aber den Zentralisierungs- und Vereinheitlichungsbemühungen in den Grundherrschaften entgegen, so dass die Bestimmungen des Religionsfriedens später auch umgangen bzw. übertreten wurden (vgl. <rs type="bibl" ref="#eberhard_konfessionsbildung">
+                        <surname type="author">Eberhard</surname>, Konfessionsbildung, S. 56f.</rs>).</note>
+ <lb/>Dies soll ab dem heutigen Tag für einunddreißig Jahre gelten und 
+ <lb/>eingehalten werden,<note type="annotation">
+                    <seg xml:id="seg7">Im Kuttenberger Frieden wurde eine Laufzeit von 31 Jahren festgesetzt, da seit der Einigung auf den Frieden im September 1484 bereits ein Jahr angelaufen war. Im Herbst 1484 war die ursprüngliche Befristung von acht Jahren insgesamt viermal auf 32 Jahre verlängert worden (vgl. <rs type="bibl" ref="#macek_vira">
+                            <surname type="author">Macek</surname>, Víra, S. 396</rs>; <rs type="bibl" ref="#palacky_geschichte">
+                            <surname type="author">Palacký</surname>, Geschichte 5,1, S. 273, Anm. 209</rs>).</seg>
+                </note> ohne dass eine der beiden Seiten zurücktritt. 
+ <lb/>
+                <milestone type="ref" unit="section" xml:id="kompaktaten_und_basler_konzil_beginn"/>Die Kompaktaten und den auf dem Konzil von <rs type="place" ref="#basel">Basel</rs> vereinbarten Vertrag 
+ <lb/>betreffend:<note type="annotation">
+                    <milestone type="ref" unit="section" xml:id="basler_konzil_beginn"/>Im Rahmen des Konzils in <rs type="place" ref="#basel">Basel</rs> waren 1433 Gespräche zwischen einer böhmisch-mährischen Delegation, darunter <rs type="person" ref="#rokycana_jan">Jan Rokycana</rs>, und Vertretern des Basler Konzils geführt worden, deren Ergebnisse die Basler Kompaktaten (1433) festhielten. In diesen Verträgen wurden die vier Prager Artikel nur stark abgeschwächt aufgenommen, aber die Kommunion unter beiderlei Gestalt (<hi rend="italic">communio sub utraque specie</hi>) zugestanden. Mit den Iglauer Kompaktaten (1436) erfolgte die Bestätigung der Basler Kompaktaten durch <rs type="person" ref="#sigismund">Sigismund</rs>, der zusätzlich für <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs> einen Majestätsbrief ausstellte. Weiterführend: <rs type="bibl" ref="#smahel_basilejska_kompaktata">
+                        <surname type="author">Šmahel</surname>, Basilejská kompaktáta</rs>; <rs type="bibl" ref="#zdenek_jihlava">
+                        <surname type="author">Zdeněk</surname>, Jihlava</rs>.<milestone type="ref" unit="section" xml:id="basler_konzil_ende"/>
+                </note> Sie sollen in ihrem Sinn gelten und wirksam bleiben, wie
+ <lb/>sie sind, und gleichzeitig können die Herren, Ritter und Städte, die 
+ <lb/>den Brauch haben, Leib und Blut unseres Herrn Jesu Christi unter 
+ <lb/>beiderlei Gestalt zu empfangen, wenn sie es für nötig halten, ihre 
+ <lb/>Gesandtschaft zum Heiligen Vater senden, und die Fürsten, Herren, 
+ <lb/>sowie die Städte jener Seite, die den Brauch hat, Leib und Blut 
+ <lb/>unseres Herrn Jesu Christi unter einer Gestalt zu empfangen, können 
+ <lb/>sich ebenfalls ihrer Erwägung nach mit ihrem Fleiß und ihrer Sorgfalt 
+  <lb/>an den Heiligen Vater wenden,<note type="annotation">Bereits 1483 hatten die Anhänger der Abendmahlspraxis <hi rend="italic">sub una</hi> vorgeschlagen, Unterstützung für die Gegenseite zu gewähren, wenn diese ihre Anliegen, darunter die Bestätigung der Kompaktaten, beim <rs type="person" ref="#innozenz_viii">Papst</rs> in <rs type="place" ref="#rom">Rom</rs><!-- handle von vatikan zu Rom geändert, BM, 2.3.21 --> vorbringe. Die utraquistische Seite hatte dies jedoch mit einer klaren Distanzierung gegenüber der Kirche in Rom<!-- rs vatikan entfernt, BM, 2.3.21 --> zurückgewiesen, zumal in ihrer neueren Interpretation der Kompaktaten sie diese als bereits durch eine höhere Autorität (Basler Konzil, Kaiser <rs type="person" ref="#sigismund">Sigismund</rs>) als den Papst bestätigt ansahen (vgl. <rs type="bibl" ref="#palacky_geschichte">
+                        <surname type="author">Palacký</surname>, Geschichte 5,1, S. 242</rs>; <rs type="bibl" ref="#eberhard_konfessionsbildung">
+                        <surname type="author">Eberhard</surname>, Konfessionsbildung, S. 52f.</rs>). Dennoch wurde der Artikel auf dem Landtag 1485 nochmals diskutiert.</note> damit man angemessene Wege bei Seiner 
+ <lb/>Heiligkeit finden könne, die für die Ewigkeit zwischen beiden Seiten
+ <lb/>bewahrt werden können. Seine Hoheit, der <rs type="person" ref="#vladislav_ii">König</rs>, möge ebenfalls seinen 
+ <lb/>Fleiß und seine Sorgfalt bei dem Heiligen Vater durch Seine Hoheit 
+ <lb/>selbst sowie durch seine weltlichen sowie geistlichen Freunde ausüben, 
+ <lb/>damit man erreichen könne, dass die Untertanen Seiner Hoheit in dieser 
+ <lb/>Hinsicht in Ewigkeit in Liebe und ohne Unterdrückung miteinander 
+ <lb/>leben mögen. Und diese Gesandtschaft zum Heiligen Vater soll so 
+ <lb/>schnell wie möglich abgefertigt und gesendet werden. Und Seine Hoheit, 
+ <lb/>der <rs type="person" ref="#vladislav_ii">König</rs>, soll in seiner Sorgfalt als König und Herr handeln, damit die
+ <lb/>Sache nicht liegenbleibt und sich nicht verzögert.<milestone type="ref" unit="section" xml:id="kompaktaten_und_basler_konzil_ende"/>
+            </p>
+ <p xml:id="p004" corresp="0313#p004">
+                <lb/>Item wurde bereits vor einiger Zeit ein Vertrag abgefasst 
+ <lb/>und von beiden Seiten abgeschlossen,<note type="annotation">
+                    <seg xml:id="seg3">Bei dem genannten Vertrag dürfte es sich um den Beschluss des Sankt-Jakobs-Landtags (Juli 1481) handeln, in dem die Forderungen nach friedlichem religiösem Zusammenleben erstmals schriftlich fixiert wurden (vgl. <rs type="bibl" ref="#hore_kutne_archiv_cesky_4">
+                            <surname type="editor">Palacký</surname>, Archiv český 4, S. 504f., Nr. 25<ptr type="digitalisat" target="http://147.231.53.91/src/index.php?s=v&amp;action=jdi&amp;cat=10&amp;bookid=795&amp;page=504&amp;action_button.x=0&amp;action_button.y=0"/>
+                        </rs>): Jeder sollte frei wählen können, in welcher Kirche er die Kommunion empfangen wolle, und diese auch frei besuchen dürfen. Bereits 1473 war auf dem Landtag in <rs type="place" ref="#benesov">Beneschau</rs> über die Notwendigkeit religiöser Duldung disputiert worden. Im Rahmen des Sankt-Wenzels-Landtags im September 1479 wurden in <rs type="place" ref="#prag">Prag</rs> die Kompaktaten verlesen und dabei bekräftigt, dass jegliche Schmähungen oder Gewaltanwendungen gegenüber der anderen Religion zu unterlassen seien. An diese Regelungen in Einzelfragen schlossen sich weitere Vorgespräche und Sitzungen an, die letzte 1484 in <rs type="place" ref="#kutna_hora">Kuttenberg</rs>, wo der Vorschlag für den Friedenstext von 1485 ausgearbeitet wurde (vgl. <rs type="bibl" ref="#macek_vira">
+                            <surname type="author">Macek</surname>, Víra, S. 391-394</rs>).</seg>
+                </note> und die uns vorliegenden 
+ <lb/>Vertragsurkunden belegen, dass sie noch nicht ausreichend 
+ <lb/>umgesetzt wurden. Damit in dieser Hinsicht genug getan wird 
+ <lb/>und es zu einer Besserung gebracht wird, nehmen wir das 
+ <lb/>Folgende an, wie diese Urkunden bezeugen und von beiden
+ <lb/>Seiten bis zu den nächsten Quatembertagen nach Pfingsten<note type="annotation">Bis zum 22. Mai 1485, dem Beginn der Bußtage im Pfingstquartal, welche zu den viermal im Kirchenjahr gefeierten Quatembertagen gehörten.</note>
+ <lb/>vereinbart werden.</p>
+ <p xml:id="p005" corresp="0313#p005">
+                <lb/>Item <rs type="place" ref="#prag">Prag</rs> betreffend, nach dem Vertrag, den Seine Hoheit, 
+ <lb/>der <rs type="person" ref="#vladislav_ii">König</rs>, mit ihnen und sie mit Seiner Hoheit abgeschlossen haben,<note type="annotation">
+                    <seg xml:id="seg2">
+                        <rs type="place" ref="#prag">Prag</rs> bildete einen Sonderfall: Als Folge des Aufstands von 1483 (vgl. die <ref type="einleitung" target="0305#seg2">Einleitung<ref type="print">, oben S. #</ref>
+                        </ref>) bestand zwischen den drei <rs type="place" ref="#prag">Prager</rs> Städten (Altstadt, Neustadt und Kleinseite) und König <rs type="person" ref="#vladislav_ii">Vladislav II.</rs> eine Separatvereinbarung, worin auch die <hi rend="italic">communio sub una</hi> in <rs type="place" ref="#prag">Prag</rs>, dessen Bevölkerung mehrheitlich dem Laienkelch anhing, wieder gestattet worden war. Während des Aufstands waren insbesondere Priester und Mönche aus den drei Städten geflohen oder ausgewiesen worden. In dem Frieden wurde den Anhängern der Abendmahlspraxis <hi rend="italic">sub una</hi> die Rückkehr in die <rs type="place" ref="#prag">Prager</rs> Städte erlaubt (vgl. <rs type="bibl" ref="#eberhard_konfessionsbildung">
+                            <surname type="author">Eberhard</surname>, Konfessionsbildung, S. 57, Anm. 55</rs>). Der Kuttenberger Frieden sah Gespräche zur Klärung der noch offenen Punkte und der Frage der Wiedergutmachung (wohl die Restitution für eingezogene Güter der Anhänger der Abendmahlspraxis <hi rend="italic">sub una</hi>) vor. Weiterführend: <rs type="bibl" ref="#smahel_prazske">
+                            <surname type="author">Šmahel</surname>, Pražské povstání 1483</rs>; <rs type="bibl" ref="#boldan_passio_pragensium">
+                            <surname type="author">Boldan</surname>, Passio</rs>; <rs type="bibl" ref="#jisova_komunikacni">
+                            <surname type="author">Jíšová</surname>, Komunikační aspekty</rs>.</seg>
+                </note> 
+ <lb/>haben der <rs type="person" ref="#vladislav_ii">König</rs>, die Herren, Ritter sowie Städte über das, was in diesen 
+ <lb/>Verträgen festgehalten wird, zwischen Seiner königlichen Hoheit und 
+ <lb/>den <rs type="place" ref="#prag">Pragern</rs> in folgendem Sinne verhandeln lassen: Das schon Geschehene 
+ <lb/>soll bereits am ersten Montag nach Quasimodogeniti<note type="annotation">Am 5. April 1485.</note> zu einer 
+ <lb/>rechtschaffenen Wiedergutmachung kommen. Damit die Verhandlungen 
+ <lb/>zum Abschluss gebracht werden, werden die Fürsten, Ritter sowie Städte 
+ <lb/>von jener Seite, die den Brauch hat, [das Sakrament] unter einer Gestalt 
+ <lb/>zu empfangen, darüber verhandeln und nach ihrem Bedarf zu 
+ <lb/>Verhandlungen zusammentreffen, bis sie finden, dass es zu einer 
+ <lb/>angemessenen Wiedergutmachung und Besserung gekommen ist, 
+ <lb/>spätestens bis zum nächsten Sankt-Wenzelstag.<note type="annotation">Bis zum 28. September 1485.</note>
+ <lb/>Item, weil es viele solche Verhandlungen und Zusammenkünfte gibt, 
+ <lb/>nach denen immer Unrecht und Nichteinhaltung des Vereinbarten folgt, 
+ <lb/>befinden und wollen wir Folgendes: dass alle Bewohner dieses 
+ <lb/>
+                <rs type="place" ref="#boehmen_koenigreich">böhmischen Königreiches</rs>, die Fürsten, Herren, Ritter, Städte eine 
+ <lb/>Verpflichtung abschließen und dies in einer Niederschrift festhalten. 
+ <lb/>Von dieser Niederschrift soll man zwei Schriftstücke nach dem, was 
+ <lb/>unten geschrieben wurde, erstellen, damit jede Seite eine Abschrift in 
+ <lb/>ihren Händen hat, sie sollen für einunddreißig Jahre und mit den 
+ <lb/>jeweils drohenden Strafen, wie sie das Schreiben zeigt, und weiterhin 
+ <lb/>mit dem, was beide Seiten gemeinsam tun sollen und verpflichtet sind 
+ <lb/>zu tun, niedergeschrieben werden. Und beide sollen es gleich jetzt vor 
+ <lb/>uns einander versprechen, dass sie das bis zur Abhaltung der 
+ <lb/>Zusammenkunft und Einschreibung einhalten und befolgen. Diese 
+ <lb/>Zusammenkunft, wenn es Gott will, wollen wir zu Pfingsten in den 
+ <lb/>nächsten Quatembertagen<note type="annotation">Bis zum 22. Mai 1485.</note> abhalten und diese Niederschrift dabei 
+ <lb/>fertigstellen.</p>
+ <p xml:id="p006" corresp="0313#p006">
+                <lb/>Niederschrift des Vorangegangen in Form von Artikeln.<note type="annotation">Nach den Beratungen in <rs type="place" ref="#kutna_hora">Kuttenberg</rs> (13.-20. März 1485), die im ersten Teil des Religionsfriedens wiedergegebenen waren, erfolgte die offizielle Ausfertigung der Urkunden auf dem Pfingstquatember-Landtag (22. Mai 1485), die den zweiten Teil des Religionsfriedens bildeten.</note>
+            </p> 
+ <p xml:id="p007" corresp="0313#p007">
+                <lb/>Im Namen Gottes, Amen. Wir, <rs type="person" ref="#vladislav_ii">Vladislav</rs>, von Gottes Gnaden 
+ <lb/>König in <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs> und Markgraf in <rs type="place" ref="#maehren_markgrafschaft">Mähren</rs> etc. tun allen gegenwärtigen 
+ <lb/>sowie künftigen Generationen zum ewigen Gedächtnis kund, dass 
+ <lb/>wir in unserem Königreich einen Zwist unter den Fürsten, Herren, 
+ <lb/>Rittern und Städten, Untertanen sowie unseren Getreuen gefunden haben, 
+ <lb/>der noch zur Zeit unserer Vorfahren entstanden und oft aufgeflammt 
+ <lb/>war. Obwohl er sowohl von unseren Ahnen als auch von den Vorfahren 
+ <lb/>der Herren und Ritter sowie der Städte mehrmals beigelegt und in 
+ <lb/>angemessener Weise geschlichtet wurde, ist dieser Zwist jedoch 
+ <lb/>später wieder neu entflammt, wie es auch die Urkunden und 
+ <lb/>Bullen des Heiligen Vaters, Papst <rs type="person" ref="#eugenius_iv">Eugen</rs>, und des Kollegiums
+ <lb/>oder des Konzils von <rs type="place" ref="#basel">Basel</rs> und die ruhmreichen Erinnerungen 
+ <lb/>der römischen Kaiser und der böhmischen Könige, unserer lieben 
+ <lb/>Ahnen, also viele allgemeine Eintragungen sowie die unseren Ahnen, 
+ <lb/>den Herren, Rittern und den nun betroffenen Städten gemeinsamen 
+ <lb/>Eintragungen bezeugen. Deshalb haben <rs type="person" ref="#vladislav_ii">wir</rs> in Hinsicht auf die 
+ <lb/>Sorgfalt und Gnade, die wir allen bereits genannten Bewohnern, 
+ <lb/>Herren, Rittern und Städten widmen, es als äußerst nützlich 
+ <lb/>gefunden, dass wir eine Generalversammlung des gesamten Landes 
+ <lb/>unseres Königreichs zusammenrufen und in dieser Versammlung 
+ <lb/>mit der Hilfe des allmächtigen Gottes und mit dem beiderseitigen 
+ <lb/>Willen alle früher entstandenen Streitigkeiten schlichten und
+ <lb/>zu einer Lösung führen. Diese Schlichtung und die Ansichten 
+ <lb/>einer jeden der beiden Seiten werden unter unserem Siegel 
+ <lb/>bewahrt, wobei ein Artikel in dieser Beilegung den anderen 
+ <lb/>voransteht.</p>
+ <p xml:id="p008" corresp="0313#p008">
+                <lb/>Die Kommunion von Leib und Blut unseres Herrn Jesu Christi, 
+ <lb/>also die Menschen betreffend, die den Brauch haben, die Kommunion
+ <lb/>entweder unter beiderlei oder unter einer Gestalt zu empfangen: Wegen 
+ <lb/>dieses Artikels gab und gibt es viele Missstände und manche Niedertracht. 
+ <lb/>Mit Rücksicht auf die alte Gewohnheit und ohne Absicht, etwas Neues
+ <lb/>zu erdenken, finden wir, dass beide Seiten über den Artikel diese 
+ <lb/>Niederschrift nach den unten verfassten Punkten so ausfertigen sollen, 
+ <lb/>wie sie unten mit folgenden Worten abgefasst wurde. Die Kompaktaten
+ <lb/>und Verträge des Konzils von Basel<note type="annotation">Zu den Basler Kompaktaten vgl. oben <ref type="quelle" target="0314#basler_konzil_beginn">
+                        <ref type="print">S. #, </ref>Anm. 6</ref>.</note> sollen in ihrem Umfang 
+ <lb/>und ihrer Geltung unverändert bleiben, wie sie abgeschlossen wurden etc.<note type="annotation">
+                    <seg xml:id="seg6">Bei den Beratungen auf dem Kuttenberger Landtag (vgl. <ref type="quelle" target="0314#kompaktaten_und_basler_konzil_beginn">oben<ref type="print"> S. #, Z. #</ref>
+                        </ref>) wurde noch die Möglichkeit diskutiert, beim Papst für eine Bestätigung der Kompaktaten zu werben. In der ausgefertigten Urkunde wurde dieser Punkt nicht mehr aufgenommen.</seg>
+                </note>
+            </p>
+ <space dim="vertical"/>
+ <p xml:id="p009" corresp="0313#p009">
+                <lb/>Wir, <rs type="person" ref="#heinrich_i_muensterberg">Heinrich der Ältere</rs>, <rs type="person" ref="#hynek_z_podebrad">Heinrich der Jüngere</rs>, auch Hynek 
+ <lb/>genannt, die Fürsten von <rs type="place" ref="#muensterberg">Münsterberg</rs>, <rs type="person" ref="#rosenberg_vok_ii">Wok von Rosenberg</rs> usw.,<note type="annotation">Diese adligen Herren, die sich auf den Religionsfrieden verpflichteten, nahmen eine führende Rolle für die Seite ein, die der Abendmahlspraxis <hi rend="italic">sub una</hi> anhing.</note> 
+ <lb/>die Herren usw., die Ritter usw. und Städte usw. A. B. C. D.<note type="annotation">Markierung für die einzufügenden Namen der Ständemitglieder, welche den Frieden unterzeichneten.</note> etc. 
+ <lb/>erklären hiermit, dass wir im Streit um den Artikel, der lange Zeit zwischen 
+ <lb/>uns für einen Streit sorgte und der die Kommunion von Leib und Blut 
+ <lb/>unseres Herrn Jesu Christi unter einer Gestalt oder unter beiderlei 
+ <lb/>Gestalt nach dem Glauben eines jeden von uns betrifft, im Hinblick
+ <lb/>auf die Zukunft, zum Lob unseres allmächtigen Herrn Jesu Christi
+ <lb/>und ebenfalls für die Eintracht und Aussöhnung, für die Einigkeit 
+ <lb/>dieses Königreiches, durch Seine Hoheit, den <rs type="person" ref="#vladislav_ii">König</rs>, unseren 
+ <lb/>gnädigen Herrn, eine Beilegung gefunden haben und durch Seine 
+ <lb/>königliche Hoheit zu einer Einigung gekommen sind. Und so sollen
+ <lb/>wir an dem Vereinbarten festhalten und darauf bestehen, ohne 
+ <lb/>es zu verletzen und ohne Schliche auszudenken, beginnend ab 
+ <lb/>dem Datum dieser Urkunde für ganze einunddreißig laufende 
+ <lb/>und vergangene Jahre,<note type="annotation">Zu der Befristung des Friedens vgl. oben <ref type="quelle" target="0314#seg7">
+                        <ref type="print">S. #, </ref>Anm. 5</ref>.</note> ob von uns einige am Leben oder tot sind;
+ <lb/>und diese Urkunde darf weder wegen einer Sache noch wegen des 
+ <lb/>Todes eines von uns verletzt werden, sondern muss in Vollständigkeit 
+ <lb/>folgendermaßen eingehalten werden:</p>
+ <p xml:id="p010" corresp="0313#p010">
+                <lb/>
+                <seg xml:id="seg11">Item darf jeder von uns nach seinem Glauben und nach 
+ <lb/>seiner Kommunionspraxis das hochwürdige Sakrament, auf sein
+ <lb/>Gewissen vertrauend, empfangen.</seg>
+            </p>
+ <p xml:id="p011" corresp="0313#p011">
+                <lb/>Item sollen wir alle unsere Priester, die wir jetzt oder später 
+ <lb/>auf unserem Herrschaftsgut und auf den geerbten oder verpfändeten 
+ <lb/>Gütern haben, darin unterweisen und darin unterstützen, dass sie nach 
+ <lb/>dem Brauch die Kommunion von Gottes Leib und Blut<note type="annotation">Gemeint sind das gewandelte Brot und der gewandelte Wein. Da in Christus der christologischen Lehre nach Gottheit und Menschheit geeint sind, kann hier auch von Gottes Leib und Blut gesprochen werden.</note> unter einer
+ <lb/>Gestalt oder unter beiderlei Gestalt richtig spenden und frei die 
+ <lb/>Heilige Schrift und andere gerechte Schriften predigen dürfen,
+ <lb/>ohne die andere Seite zu schmähen und zu tadeln. Und sie 
+ <lb/>sollen ohne irgendeine Demütigung und Kränkung dem gemeinen 
+ <lb/>Volk das heilige Sakrament so austeilen, wie man in diesen
+ <lb/>Pfarren zu tun pflegt, und sie dürfen keinen offensichtlich dazu 
+ <lb/>zwingen. <seg xml:id="seg12">Wenn es bei einer Pfarre Menschen gibt, entweder 
+ <lb/>ein oder zwei oder auch mehrere, welche die Kommunion anders zu 
+ <lb/>empfangen pflegen, als der Priester das hochwürdige Sakrament 
+ <lb/>zu spenden pflegt, können diese Menschen ihre Erlösung in der 
+ <lb/>Eucharistie da suchen, wo sie glauben, auf ihre Erlösung am meisten 
+ <lb/>vertrauen zu können.</seg> Und außer diesem belaste man ihn mit nichts 
+ <lb/>weiter, wie es einem Christen gebührt.</p>
+ <p xml:id="p012" corresp="0313#p012">
+                <lb/>Item soll jeder von uns seine Untertanen, ob in den 
+ <lb/>Dörfern oder auf den Besitzungen, die wir nun haben und 
+ <lb/>besitzen, oder die wir in Besitz haben werden, sie bei ihrem 
+ <lb/>Brauch der Kommunion entweder unter einer oder unter beiderlei 
+ <lb/>Gestalt, je nach ihrem Glauben, in ihrer Erlösung in Frieden 
+ <lb/>lassen. Man darf sie mit keiner Macht weder zwingen noch sie
+ <lb/>selbst oder durch unsere Priester ohne ihren Willen anleiten, damit 
+ <lb/>sie ihre Erlösung nach ihrem Glauben im Akt des hochwürdigen 
+ <lb/>Sakraments finden. Und dies soll in den Städten oder Kleinstädten 
+ <lb/>oder in allen Orten eingehalten werden.</p>
+ <p xml:id="p013" corresp="0313#p013">
+                <lb/>
+                <seg xml:id="seg13">Item sollen wir keine Priester bestellen, die einen anderen
+ <lb/>Brauch beim Spenden des hochwürdigen Sakraments haben, sondern auf 
+ <lb/>die Stellen nur diejenigen und solche bestellen, die dort nun vertreten
+ <lb/>sind, wo sie vertreten sind, und in der Weise, wie sie vertreten sind. 
+ <lb/>Würde jemand von ihnen sterben, soll seine Stelle von einem anderen
+ <lb/>Priester desselben Brauches, wie der vorherige Priester war, besetzt 
+ <lb/>werden,</seg> so wie bereits vor einiger vergangenen Zeit ein Vertrag bestand 
+ <lb/>und von uns beiden Seiten abgeschlossen wurde, wie die Vertrags
+ <lb rend="trennstrich"/>urkunden belegen.<note type="annotation">Zu dem Vertrag vgl. oben <ref type="quelle" target="0314#seg3">
+                        <ref type="print">S. #, </ref>Anm. 8</ref>.</note> Und das, was noch nicht ganz umgesetzt wurde, 
+ <lb/>darum wollen wir uns kümmern, damit es ab heutiger Zeit bis zu dem
+ <lb/>nächsten Sankt-Wenzelstag<note type="annotation">
+                    <seg xml:id="seg1">Bis zum 28. September 1485. Die Frist war bei den Beratungen auf dem Kuttenberger Landtag noch auf die Quatembertage nach Pfingsten (d.h. 22. Mai 1485) festgesetzt worden, wurde nun aber bei der Ausfertigung der Urkunden auf den nächsten Sankt-Wenzelstag (d.h. 28. September 1485) verschoben.</seg>
+                </note> zustande kommt.</p>
+ <p xml:id="p014" corresp="0313#p014">
+                <lb/>
+                <seg xml:id="seg10">Und <rs type="place" ref="#prag">Prag</rs> betreffend, wie Seine Hoheit, der <rs type="person" ref="#vladislav_ii">König</rs>, unser 
+ <lb/>gnädiger Herr, einen Vertrag<note type="annotation">Zu dem Vertrag zwischen den <rs type="place" ref="#prag">Prager</rs> Städten und dem <rs type="person" ref="#vladislav_ii">König</rs> vgl. oben <ref type="quelle" target="0314#seg2">
+                            <ref type="print">S. #, </ref>Anm. 10</ref>.</note> mit ihnen abgeschlossen hat: So belassen 
+ <lb/>wir es, damit ein Vergleich durch diese Personen, die es aushandeln
+ <lb/>sollen, zustande kommt; wenn dieses nicht geschieht, dann behalten 
+ <lb/>wir uns vor, dass wir je nach Bedarf darüber verhandeln oder 
+ <lb/>deswegen zusammentreffen können, damit es zu einer Besserung 
+ <lb/>komme, solange wir es nötig finden.</seg>
+                <note type="annotation">
+                    <seg xml:id="seg16">Dies modifizierte die Regelungen, die bei den Beratungen auf dem Kuttenberger Landtag bezüglich des Vertrags zwischen den <rs type="place" ref="#prag">Prager</rs> Städten und dem <rs type="person" ref="#vladislav_ii">König</rs> formuliert worden waren: Der Ausgleich, der bis zum 4. April 1485 erfolgen sollte, fand keine explizite Erwähnung mehr. Außerdem wurde die Befristung der Beratungen über eine Wiedergutmachung, die bis zum Sankt-Wenzelstag (d.h. 28. September 1485) vorgesehen war, aufgehoben. Die Anhänger der <hi rend="italic">communio sub una</hi> behielten sich vor, falls kein Ausgleich zustande kommen sollte, solange zu verhandeln, bis eine zufriedenstellende Lösung gefunden war.</seg>
+                </note> 
+ <lb/>Wenn jemand von diesem Vergleich und von dieser Abhandlung 
+ <lb/>zwischen Seiner Hoheit und uns von uns abfällt und dagegen handelt, 
+ <lb/>ob jemand von den Fürsten, Rittern oder Städten oder von den 
+ <lb/>Priestern, wird er beschuldigt und schuldig gesprochen. Keiner von 
+ <lb/>uns soll an die sich aus unserer Verpflichtung ergebenden Pflichten 
+ <lb/>gemahnt und wegen dieser getadelt und in seiner Ehre und seinem 
+ <lb/>Glauben angegriffen werden, außer derjenige, der es verursachte, oder 
+ <lb/>diejenigen, die es verursachten. Wir alle versprechen und verpflichten 
+ <lb/>uns mit den unten unterschriebenen Worten zuerst Seiner Hoheit, 
+ <lb/>unserem gnädigen Herren, und auch den Nachfolgern Seiner Hoheit, den
+ <lb/>zukünftigen Königen, wenn Seine königliche Hoheit durch Gottes Fügung 
+ <lb/>zu seiner Zeit von der Erde scheiden wird, wovor uns Gott bewahre, 
+ <lb/>gegen denjenigen, der dies tun würde, oder diejenigen, die es tun 
+ <lb/>würden, einzuschreiten. Und Seine Hoheit, der <rs type="person" ref="#vladislav_ii">König</rs>, 
+ <lb/>oder die Könige nach Seiner Hoheit sollen auch der anderen Seite 
+ <lb/>helfen, einen solchen Menschen mit Hilfe Seiner königlichen Hoheit 
+ <lb/>und auch mit Hilfe der anderen Seite zum Recht zu bringen, 
+ <lb/>damit er alles wirklich wiedergutmacht und damit er so bestraft 
+ <lb/>wird, wie es Seine Hoheit, der <rs type="person" ref="#vladislav_ii">König</rs>, unser gnädiger Herr, und der 
+ <lb/>aus beiden Seiten zusammengestellte Rat bei Seiner Hoheit gerecht
+ <lb/> finden, damit das oben Vereinbarte und Geschlichtete in seinem 
+ <lb/>Umfang in Kraft bleibt und besteht.</p>
+ <p xml:id="p015" corresp="0313#p015">
+                <lb/>
+                <seg xml:id="seg14">Item sollen wir alle von unserer Seite, die Fürsten und 
+ <lb/>die Herren, die Ritter und die Städte, deren Namen hier eingetragen sind 
+ <lb/>und die den Brauch haben, Leib und Blut Christi unter einer Gestalt zu 
+ <lb/>empfangen, an diese Ausfertigung unsere Siegel anhängen, und
+ <lb/>diejenigen, deren Namen in dieser Ausfertigung nicht eingetragen wurden, 
+ <lb/>sollen ihre Bestätigungsurkunden unserer Ausfertigung beifügen. Diese 
+ <lb/>Ausfertigung haben wir in die Macht der anderen Seite gegeben und 
+ <lb/>gelegt, die Leib und Blut unseres Herrn Jesu Christi unter beiderlei 
+ <lb/>Gestalt empfängt, und sie haben uns die gleiche übergeben.</seg>
+            </p>
+ <p xml:id="p016" corresp="0313#p016">
+                <lb/>Würde sich jemand weigern, der Urkunde entweder sein 
+ <lb/>Siegel oder die Bestätigungsurkunde beizufügen, sei er von unserer 
+ <lb/>Seite oder von der anderen Seite, versprechen wir vor allem Seiner 
+ <lb/>Hoheit, dem <rs type="person" ref="#vladislav_ii">König</rs>, und ebenso uns selbst und der anderen Seite, 
+ <lb/>gegen jeden solchen, der in dieser Sache willkürlich handeln wollte 
+ <lb/>und sich weigerte, danach zu handeln, mit unser aller Kraft, unter 
+ <lb/>Einsatz unserer Güter und Leben gegen den Störer des gemeinen Nutzens,
+ <lb/>der Einigkeit und des Friedens durchzugreifen. Und niemand von uns 
+ <lb/>soll sich für ihn einsetzen noch ihn unterstützen, sondern ihn mit allen 
+ <lb/>Mitteln als einen gegen den <rs type="person" ref="#vladislav_ii">König</rs> und gegenüber der ganzen Gemeinde 
+ <lb/>Ungehorsamen ausschließen. Und wir haben alle, jeder für sich selbst 
+ <lb/>und für unsere Familienverbände<note type="annotation">Im engeren Sinne alle Blutsverwandten, im weiteren Sinne alle einer Grundherrschaft Zugehörenden.</note> und Nachkommen, nach unserem guten 
+ <lb/>christlichen Glauben, mit Ehre und Treue Seiner Hoheit, dem <rs type="person" ref="#vladislav_ii">König</rs>,
+ <lb/>der anderen Seite und uns selbst zugesichert, dass wir alles, was in 
+ <lb/>dieser Niederschrift kundgemacht, abgefasst und abgeschlossen wird, 
+ <lb/>ohne jeden Bruch, jede Verzögerung oder Unterlassung einhalten.</p>
+ <p xml:id="p017" corresp="0313#p017">
+                <lb/>Würde jemand dagegen handeln und es auf Befehl 
+ <lb/>Seiner Hoheit, des <rs type="person" ref="#vladislav_ii">Königs</rs>, und der Personen beider Seiten nicht
+ <lb/>wiedergutmachen, dann erklären wir und beschuldigen ihn, dass er 
+ <lb/>gegen seine Ehre gehandelt habe und sie verliere als einer, der die 
+ <lb/>Einigkeit und Einheit nicht liebt und der seinem Versprechen nicht 
+ <lb/>genug getan hat und gegen diese Niederschrift gehandelt hat. Dies 
+ <lb/>bezeugen unsere Siegel. Und wir, der unten unterzeichnende König 
+ <lb/>
+                <rs type="person" ref="#vladislav_ii">Vladislav</rs>, haben befohlen, auf jeder Abschrift unser königliches 
+ <lb/>Siegel anzubringen.</p>
+ <p xml:id="p018" corresp="0313#p018">
+                <lb/>Item<note type="annotation">Im Fürstenberg Manuskript folgen nach dem Hauptdokument mit dem königlichen Siegel weitere 25 Paragraphen, die zu dem vollständigen Text des Landtagsabschieds gehören. Die ersten fünf Artikel enthielten noch zusätzliche Bestimmungen zur Annahme des Friedens, welche im Druck (vgl. die <ref type="einleitung" target="0305#seg1">Einleitung<ref type="print">, oben S. #</ref>
+                    </ref>) nicht enthalten waren. Diese sind hier als dritter Teil des Religionsfriedens wiedergegeben.</note> wurde dies zwischen den Fürsten, Herren, Rittern
+ <lb/>sowie den Städten beider Seiten vereinbart und abgestimmt, dass sie 
+ <lb/>Seiner Hoheit, dem <rs type="person" ref="#vladislav_ii">König</rs>, diese unten unterzeichneten Artikel schwören 
+ <lb/>sollen und jeder persönlich Seiner Hoheit per Handschlag mit folgenden 
+ <lb/>Worten versprechen soll, die Fürsten, Herren und Ritter zuerst: 
+ <lb/>|Hiermit versprechen sie|
+ <lb/>Ich verspreche <rs type="person" ref="#vladislav_ii">Vladislav</rs>, Seiner königlichen Hoheit: Wenn jemand
+ <lb/>gegen das hergebrachte Landrecht etwas tun und dagegen verstoßen oder 
+ <lb/>es nicht im Einklang mit den Beschlüssen des Adelsgerichtes einhalten 
+ <lb/>wollte, will ich treu, ehrenhaft, gerecht, christlich, ohne jede böse 
+ <lb/>Arglist nach meinen Möglichkeiten gegen einen jeden solchen Menschen 
+ <lb/>helfen, wie es einem guten Menschen nach den alten Rechten und 
+ <lb/>Freiheiten gebührt, damit das Landrecht erfüllt werde und damit Rechte 
+ <lb/>und Freiheiten von jedem, von den Fürsten, Herren, der Ritterschaft, 
+ <lb/>den <rs type="place" ref="#prag">Pragern</rs> sowie anderen Städten eingehalten werden. Und Seine 
+ <lb/>Hoheit, der <rs type="person" ref="#vladislav_ii">König</rs>, möge sie alle beschützen, und wir alle sollen Seiner 
+ <lb/>Hoheit beistehen. 
+ <lb/>|Weiterhin versprechen sie|
+ <lb/>Item sollen sie auch das versprechen, dass beide Seiten sich gegenseitig 
+ <lb/>weder wegen des Glaubens (wenn es sich um den Glauben handelt, soll 
+ <lb/>man das Recht, dem der jeweilige unterliegt, anwenden wie es unter
+ <lb/>den Ahnen des <rs type="person" ref="#vladislav_ii">Königs</rs>, Seinen Gnaden, gewesen war), noch wegen 
+ <lb/>irgendeiner anderen Sache weder schmähen, noch unterdrücken dürfen, 
+ <lb/>noch es bei ihren Untertanen gestatten. Würde jemand dagegen
+ <lb/>verstoßen, versprechen wir Seiner Hoheit ebenfalls mit derselben 
+ <lb/>Verpflichtung, ihm mit Rat und Hilfe gegen einen solchen beizustehen, 
+ <lb/>dem es dem Recht entsprechend bewiesen wurde. 
+ <lb/>|So versprechen die Städte|
+ <lb/>Item, was die <rs type="place" ref="#prag">Prager</rs> und andere Städte betrifft: Sie sollen Seiner Hoheit, 
+ <lb/>dem <rs type="person" ref="#vladislav_ii">König</rs>, in dieser Weise Folgendes versprechen und mit diesen
+ <lb/>Worten beteuern, der Bürgermeister und die Schöffen der <rs type="place" ref="#prag">Prager</rs> Städte<note type="annotation">Ratsmitglieder der drei selbständigen <rs type="place" ref="#prag">Prager</rs> Städte, Altstadt, Neustadt und Kleinseite, denen bis 1537 jeweils gewählte Bürgermeister vorstanden. Die vierte Stadt, Hradschin, wurde durch einen Burggrafen vertreten. Vgl. weiterführend: <rs type="bibl" ref="#tomek_dejepis_8">
+                        <surname type="author">Tomek</surname>, Dějepis 8, hier S. 267-279</rs>.</note>
+ <lb/>für sich selbst und für ihre Gemeinden und die Boten aus anderen
+ <lb/>Städten, die es betrifft, ebenfalls für sich selbst und für ihre Gemeinden: 
+ <lb/>Alle geloben nach den Verpflichtungen und Eiden, mit denen sie sich 
+ <lb/>vorher Seiner Hoheit verpflichtet haben, wenn sich irgendjemand, wie 
+ <lb/>es oben geschrieben steht, dem Landrecht und den Beschlüssen 
+ <lb/>des Adelsgerichtes<note type="annotation">Das mit Herrn und Rittern besetzte Adelsgericht berief sich auf das althergebrachte Landrecht in der Schlichtung von Rechtsfragen, welche die Landtafeln (<hi rend="italic">Desky zemské</hi>) betrafen, und allen den Adel betreffenden Verfahren. Weiterführend: <rs type="bibl" ref="#janis_nalezani">
+                        <surname type="author">Janiš</surname>, Nalézání práva</rs>; <rs type="bibl" ref="#jan_zrod">
+                        <surname type="author">Jan</surname>, Zrod</rs>.</note> nicht unterwerfen wollte und eigenwillig handeln 
+ <lb/>wollte, gegen jeden solchen treu, ehrenhaft, gerecht, christlich, ohne
+ <lb/>jede böse Arglist gemäß unseren Rechten und Freiheiten zu helfen, wie 
+ <lb/>es guten Menschen und Untertanen Seiner königlichen Hoheit gebührt. 
+ <lb/>|Über die Abmachungen wie folgt|
+ <lb/>
+                <seg xml:id="seg8">Item sollen alle Abmachungen, seien sie unter den Herren, Rittern oder 
+ <lb/>Städten gemeinsam, Seiner königlichen Hoheit vorgelegt werden, immer 
+ <lb/>wenn sich Seine Hoheit, der <rs type="person" ref="#vladislav_ii">König</rs>, mit den Herren und Rittern im 
+ <lb/>Landgericht zu Beratungen zusammenkommt, denn so soll es nach dem 
+ <lb/>Recht erfolgen, damit das Recht frei ist, und es dürfen keine anderen 
+ <lb/>Gesetze ohne Willen und Wissen Seiner Hoheit bestehen.</seg> Was jedoch 
+ <lb/>den Vertrag betrifft, den Seine Hoheit, der <rs type="person" ref="#vladislav_ii">König</rs>, mit den <rs type="place" ref="#prag">Pragern</rs> hat, 
+ <lb/>soll Seine Hoheit diesen Vertrag belassen, wie er ist. 
+ <lb/>|Über die Abwesenden|
+ <lb/>
+                <seg xml:id="seg15">Item sollen diejenigen, die hier in <rs type="place" ref="#prag">Prag</rs> nicht anwesend waren, ob von 
+ <lb/>den Herren oder Rittern, schließlich in vier Wochen, nachdem sich 
+ <lb/>das Gericht versammelt hat, zu Seiner Hoheit, dem <rs type="person" ref="#vladislav_ii">König</rs>, kommen 
+ <lb/>und ein solches Versprechen bezeugen, wie es oben angeführt ist.</seg> Würde 
+ <lb/>dies irgendwer nicht tun und würde er dies vernachlässigen, soll Seine 
+ <lb/>Hoheit, der <rs type="person" ref="#vladislav_ii">König</rs>, gegen einen solchen eingreifen und ihn der 
+ <lb/>Gerechtigkeit zuführen und wir alle sollen darin Seiner Hoheit mit 
+ <lb/>Rat und Hilfe beistehen.</p>
+</body>
+        <back>
+            <listBibl>
+                <bibl xml:id="peterka_rechtsgeschichte">
+                    <abbr>
+                        <surname type="author">Peterka</surname>, Rechtsgeschichte</abbr>
+                    <author>
+                        <surname>Peterka</surname>
+                        <forename>Otto</forename>
+                    </author>
+                    <title>Rechtsgeschichte der Böhmischen Länder in ihren Grundzügen dargestellt,
+                        Neudr. d. Ausg. 1928-1933</title>
+                    <pubPlace>Aalen</pubPlace>
+                    <date>1965</date>
+                </bibl>
+                <bibl xml:id="burdova_desky_zemske">
+                    <abbr>
+                        <surname type="author">Burdová</surname>, Desky Zemské</abbr>
+                    <author>
+                        <surname>Burdová</surname>
+                        <forename>Pavla</forename>
+                    </author>
+                    <title>Desky zemské království českého 1541–1869</title>
+                    <pubPlace>Prag</pubPlace>
+                    <date>1990</date>
+                </bibl>
+                <bibl xml:id="burdova_ulozeni_desek_zemskych">
+                    <abbr>
+                        <surname type="author">Burdová</surname>, Uložení desek
+                        zemských</abbr>
+                    <author>
+                        <surname>Burdová</surname>
+                        <forename>Pavla</forename>
+                    </author>
+                    <title>Uložení desek zemských od založení do přítomnosti a jejich ochrana a
+                        konzervace</title>
+                    <bibl>
+                        <title>
+                            <ref target="#sap" type="abbr">SAP</ref>, 24,2</title>
+                        <date>1974</date>
+                    </bibl>
+                    <biblScope>S. 487–510</biblScope>
+                </bibl>
+                <bibl xml:id="demuth_landtafel">
+                    <abbr>
+                        <surname type="author">Demuth</surname>, Geschichte der Landtafel</abbr>
+                    <author>
+                        <surname>Demuth</surname>
+                        <forename>Karl Joseph</forename>
+                    </author>
+                    <title>Geschichte der Landtafel im Markgrafthume Mähren</title>
+                    <pubPlace>Brünn</pubPlace>
+                    <date>1857</date>
+                </bibl>
+                <bibl xml:id="eberhard_konfessionsbildung">
+                    <abbr>
+                        <surname type="author">Eberhard</surname>, Konfessionsbildung</abbr>
+                    <author>
+                        <surname>Eberhard</surname>
+                        <forename>Winfried</forename>
+                    </author>
+                    <title>Konfessionsbildung und Stände in Böhmen 1478-1530</title>
+                    <pubPlace>München</pubPlace>
+                    <date>1981</date>
+                </bibl>
+                <bibl xml:id="panek_question">
+                    <abbr>
+                        <surname type="author">Pánek</surname>, Question</abbr>
+                    <author>
+                        <surname>Pánek</surname>
+                        <forename>Jaroslav</forename>
+                    </author>
+                    <title>The question of tolerance in Bohemia and Moravia in the age of the
+                        Reformation</title>
+                    <bibl>
+                        <editor>
+                            <forename>Ole Peter</forename>
+                            <surname>Grell</surname>
+                        </editor>
+                        <editor>
+                            <forename>Bob</forename>
+                            <surname>Scribner</surname>
+                        </editor>
+                        <title>Tolerance and intolerance in the European Reformation</title>
+                        <pubPlace>Cambridge</pubPlace>
+                        <date>2002</date>
+                    </bibl>
+                    <biblScope>S. 231-248</biblScope>
+                </bibl>
+                <bibl xml:id="eberhard_bedingungen">
+                    <abbr>
+                        <surname type="author">Eberhard</surname>, Bedingungen</abbr>
+                    <author>
+                        <surname>Eberhard</surname>
+                        <forename>Winfried</forename>
+                    </author>
+                    <title>Zu den politischen und ideologischen Bedingungen öffentlicher Toleranz.
+                        Der Kuttenberger Religionsfrieden 1485</title>
+                    <bibl>
+                        <title>Studia
+                            Germano-Polonica<!-- nicht im Schwertner, nicht im Dahlmann-Waitz --> 1</title>
+                        <date>(1992)</date>
+                    </bibl>
+                    <biblScope>S. 101-118</biblScope>
+                </bibl>
+                <bibl xml:id="macek_vira">
+                    <abbr>
+                        <surname type="author">Macek</surname>, Víra</abbr>
+                    <author>
+                        <surname>Macek</surname>
+                        <forename>Josef</forename>
+                    </author>
+                    <title>Víra a zbožnost jagellonského věku. Každodenní život,
+                        Bd. 9</title>
+                    <pubPlace>Prag</pubPlace>
+                    <date>2001</date>
+                </bibl>
+                <bibl xml:id="palacky_geschichte">
+                    <abbr>
+                        <surname type="author">Palacký</surname>, Geschichte 5,1</abbr>
+                    <author>
+                        <surname>Palacký</surname>
+                        <forename>František</forename>
+                    </author>
+                    <title>Geschichte von Böhmen. Größtentheils nach Urkunden und Handschriften,
+                        Bd. 5: Das Zeitalter der Jagelloniden, Abt. 1: König Wladislaw
+                        II: von 1471-1500, Neudr. d. Ausg. 1844-1867</title>
+                    <pubPlace>o.O.</pubPlace>
+                    <date>1968</date>
+                </bibl>
+                <bibl xml:id="smahel_basilejska_kompaktata">
+                    <abbr>
+                        <surname type="author">Šmahel</surname>, Basilejská kompaktáta</abbr>
+                    <author>
+                        <surname>Šmahel</surname>
+                        <forename>František</forename>
+                    </author>
+                    <title>Basilejská kompaktáta. Příběh deseti listin</title>
+                    <pubPlace>Prag</pubPlace>
+                    <date>2011</date>
+                    <series><!--nicht im Schwertner, Dahlmann-Waitz PRÜFEN-->Živá díla
+                        minulosti 24</series>
+                </bibl>
+                <bibl xml:id="zdenek_jihlava">
+                    <abbr>
+                        <surname type="editor">Zdeněk</surname>, Jihlava</abbr>
+                    <editor>
+                        <surname>Zdeněk</surname>
+                        <forename>Jaroš</forename>
+                    </editor>
+                    <title>Jihlava a Basilejská kompaktáta. Sborník příspěvků z mezinárodního
+                        sympozia k 555. výročí přijetí Basilejských kompaktát, 26.–28. červen
+                        1991</title>
+                    <pubPlace>Jihlava</pubPlace>
+                    <date>1992</date>
+                </bibl>
+                <bibl xml:id="hore_kutne_archiv_cesky_4">
+                    <abbr>
+                        <surname type="editor">Palacký</surname>, Archiv český 4</abbr>
+                    <editor>
+                        <surname>Palacký</surname>
+                        <forename>František</forename>
+                    </editor>
+                    <title>Archiv český<!--nicht im Schwertner, nicht im Dahlmann-Waitz-->,
+                        Bd. 4</title>
+                    <pubPlace>Prag</pubPlace>
+                    <date>1846</date>
+                </bibl>
+                <bibl xml:id="smahel_prazske">
+                    <abbr>
+                        <surname type="author">Šmahel</surname>, Pražské</abbr>
+                    <author>
+                        <surname>Šmahel</surname>
+                        <forename>František</forename>
+                    </author>
+                    <title>Pražské povstání 1483</title>
+                    <bibl>
+                        <title>Pražský sborník
+                            historický<!--nicht im Schwertner, nicht im Dahlmann-Waitz--> 19</title>
+                        <date>(1986)</date>
+                    </bibl>
+                    <biblScope>S. 35-102</biblScope>
+                </bibl>
+                <bibl xml:id="boldan_passio_pragensium">
+                    <abbr>
+                        <surname type="author">Boldan</surname>, Passio</abbr>
+                    <author>
+                        <surname>Boldan</surname>
+                        <forename>Kamil</forename>
+                    </author>
+                    <title>Passio Pragensium. Tištěná relace o pražském povstání 1483</title>
+                    <bibl>
+                        <editor>
+                            <forename>Olga</forename>
+                            <surname>Fejtová</surname>
+                        </editor>
+                        <editor>
+                            <forename>Václav</forename>
+                            <surname>Ledvinka</surname>
+                        </editor>
+                        <editor>
+                            <forename>Jiří</forename>
+                            <surname>Pešek</surname>
+                        </editor>
+                        <title>Národnostní skupiny, menšiny a cizinci ve městech. Praha - město
+                            zpráv a zpravodajství</title>
+                        <pubPlace>Prag</pubPlace>
+                        <date>2001</date>
+                        <series>Documenta
+                            Pragensia<!--nicht im Schwertner, nicht im Dahlmann-Waitz--> 19</series>
+                    </bibl>
+                    <biblScope>S. 173-180</biblScope>
+                </bibl>
+                <bibl xml:id="jisova_komunikacni">
+                    <abbr>
+                        <surname type="author">Jíšová</surname>, Komunikační aspekty</abbr>
+                    <author>
+                        <surname>Jíšová</surname>
+                        <forename>Kateřina</forename>
+                    </author>
+                    <title>Komunikační aspekty pražského povstání 1483</title>
+                    <bibl>
+                        <editor>
+                            <forename>Ján</forename>
+                            <surname>Lukačka</surname>
+                        </editor>
+                        <editor>
+                            <forename>Martin</forename>
+                            <surname>Štefánik</surname>
+                        </editor>
+                        <title>Stredoveké mesto ako miesto stretnutí a komunikácie</title>
+                        <pubPlace>Bratislava</pubPlace>
+                        <date>2010</date>
+                    </bibl>
+                    <biblScope>S. 49-55</biblScope>
+                </bibl>
+                <bibl xml:id="tomek_dejepis_8">
+                    <abbr>
+                        <surname type="author">Tomek</surname>, Dějepis 8</abbr>
+                    <author>
+                        <surname>Tomek</surname>
+                        <forename>Václav Vladivoj</forename>
+                    </author>
+                    <title>Dějepis města Prahy, Bd. 8</title>
+                    <pubPlace>Prag</pubPlace>
+                    <date>1891</date>
+                </bibl>
+                <bibl xml:id="janis_nalezani">
+                    <abbr>
+                        <surname type="author">Janiš</surname>, Nalézání práva</abbr>
+                    <author>
+                        <surname>Janiš</surname>
+                        <forename>Dalibor</forename>
+                    </author>
+                    <title>Nalézání práva a zemské soudnictví v českých zemích</title>
+                    <bibl>
+                        <editor>
+                            <forename>Dalibor</forename>
+                            <surname>Janiš</surname>
+                        </editor>
+                        <editor>
+                            <forename>Libor</forename>
+                            <surname>Jan</surname>
+                        </editor>
+                        <title>Ad iustitiam et bonum commune. Proměny zemského práva v českých
+                            zemích ve středověku a raném novověku</title>
+                        <pubPlace>Brünn</pubPlace>
+                        <date>2010</date>
+                        <series>Edice Země a kultura ve Střední
+                            Evropě<!-- nicht im Schwertner, Dahlmann-Waitz prüfen--> 13</series>
+                    </bibl>
+                    <biblScope>S. 23–67</biblScope>
+                </bibl>
+                <bibl xml:id="jan_zrod">
+                    <abbr>
+                        <surname type="author">Jan</surname>, Zrod</abbr>
+                    <author>
+                        <surname>Jan</surname>
+                        <forename>Libor</forename>
+                    </author>
+                    <title>Zrod zemského soudu v Čechách</title>
+                    <bibl>
+                        <editor>
+                            <forename>Antoni</forename>
+                            <surname>Barciak</surname>
+                        </editor>
+                        <title>Kultura prawna w Europie Środkowej</title>
+                        <pubPlace>Kattowitz</pubPlace>
+                        <date>2006</date>
+                    </bibl>
+                    <biblScope>S. 227–239</biblScope>
+                </bibl>
+            </listBibl>
+            <list xml:id="abbr">
+                <item xml:id="sap">
+                    <abbr>SAP</abbr>
+                    <expan>Sborník archivních prací</expan>
+                </item>
+            </list>
+        </back>
+</text>
+</TEI>

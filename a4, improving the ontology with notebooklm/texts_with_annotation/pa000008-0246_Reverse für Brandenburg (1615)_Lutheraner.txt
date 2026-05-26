@@ -1,0 +1,225 @@
+<span class="lineNumber">1</span>Nachdem der Durchleuchtigste Hochgeborne Fürst und herr, herr <br/>
+<span class="lineNumber">2</span><button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e974">Johann Sigismund</button> Marggraff zu <button class="entity #brandenburg_markgrafschaft place" data-ref="brandenburg_markgrafschaft" data-type="place" id="d2e977">Brandenburg</button>, des <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e980">Heiligen Römischen Reichs</button> erzcämmerer und churfürst <br/>
+<span class="lineNumber">3</span>in <button class="entity #preussen_herzogtum place" data-ref="preussen_herzogtum" data-type="place" id="d2e986">Preussen</button>, zu <button class="entity #juelich_kleve_berg_herzogtum place" data-ref="juelich_kleve_berg_herzogtum" data-type="place" id="d2e989">Gulich, Cleve, Berge</button>, <button class="entity #pommern_stettin_herzogtum place" data-ref="pommern_stettin_herzogtum" data-type="place" id="d2e992">Stetin, Pommern</button>, der Cassuben, Wenden<a class="fnNumber" href="#F_1" id="A_1">1</a>, auch in <button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e998">Schle-</button><br/>
+<span class="lineNumber">4</span><button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e998">sien</button> zu <button class="entity #crossen_herzogtum place" data-ref="crossen_herzogtum" data-type="place" id="d2e1007">Croßen</button> und <button class="entity #jaegerndorf_herzogtum place" data-ref="jaegerndorf_herzogtum" data-type="place" id="d2e1010">Jägerdorf</button> Hertzog, Burggraf zu <button class="entity #nuernberg_burggrafschaft place" data-ref="nuernberg_burggrafschaft" data-type="place" id="d2e1013">Nurmberg</button>, Furst zu <button class="entity #ruegen_fuerstentum place" data-ref="ruegen_fuerstentum" data-type="place" id="d2e1016">Ruegen</button>, Graff <br/>
+<span class="lineNumber">5</span>zu der <button class="entity #mark_grafschaft place" data-ref="mark_grafschaft" data-type="place" id="d2e1021">Marck</button> und <button class="entity #ravensberg_grafschaft place" data-ref="ravensberg_grafschaft" data-type="place" id="d2e1025">Ravensperg</button>, herr zu <button class="entity #ravenstein_herrschaft place" data-ref="ravenstein_herrschaft" data-type="place" id="d2e1028">Ravenstein</button>, unser gnedigsten herr, aus den teglich <br/>
+<span class="lineNumber">6</span>einkommenen avisen, noch vielmher aber auch aus denen I[hre] Churf[ürstliche] G[naden] von deren an-<br/>
+<span class="lineNumber">7</span>verwandten herrn und getreuen freunden beschehenen treuhertzigen vielfaltigen <br/>
+<span class="lineNumber">8</span>warnungen, kein anders vernehmen, absehen oder schliessen konnen, dan das die leufte <br/>
+<span class="lineNumber">9</span>inner, und ausser <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e1054">Reichs</button>, also schwirig, sorg- und gefehrlich wurden, das freilich einem je-<br/>
+<span class="lineNumber">10</span>den, sonderlich da Ihme von Gotte, Land und leute zu regieren anbefohlen, bey Zeiten <br/>
+<span class="lineNumber">11</span>fleissig umb sich zusehen, und zu wachen angesaget.
+<span class="lineNumber">12</span>Alls haben Ihre <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e1072">Churf[ürstliche] G[naden]</button> nicht umbgehen konnen, wie gerne sie es auch sonsten, weil <br/>
+<span class="lineNumber">13</span>Ihnen die ohne das auf Landen und leuten haftende beschwerden, auch bis zum uberflusse <br/>
+<span class="lineNumber">14</span>bekandt, sehen mögen, Ihre getreue gehorsame Landtschaft, von Praelaten, Herrn, Ritter-<br/>
+<span class="lineNumber">15</span>schaft und Städten, von den Landen disseits der <button class="entity #oder_fluss place" data-ref="oder_fluss" data-type="place" id="d2e1092">Oder</button>, am 8 Januarii jungsthin in die Craise, <br/>
+<span class="lineNumber">16</span>und also nacher <button class="entity #stendal place" data-ref="stendal" data-type="place" id="d2e1100">Stendall</button>, <button class="entity #bernau place" data-ref="bernau" data-type="place" id="d2e1103">Bernau</button>, und <button class="entity #prenzlau place" data-ref="prenzlau" data-type="place" id="d2e1106">Prentzlow</button> zu effodern, und bey solchen <br/>
+<span class="lineNumber">17</span>Zusammenkunften, den ständen zwey heuptsachliche puncten, als vor eins, das sie Ihre <br/>
+<span class="lineNumber">18</span><button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e1113">Churf[ürstliche] G[naden]</button> mit einer hulffen, von viermal hundert tausent gulden, so dem gemeinem <br/>
+<span class="lineNumber">19</span>Evangelischen wesen zu guete anzukehren, mitleidentlich zu hulfe kommen. Und den vors <br/>
+<span class="lineNumber">20</span>ander, auf ein defensions- und Landrettungsordnung mit dem ehisten gedencken möchten, <br/>
+<span class="lineNumber">21</span>proponiren und vortragen, und dan ferners in gnaden an sie begehren lassen, aldie <br/>
+<span class="lineNumber">22</span>weill wegen kurtze der Zeit, auch anderer mheer hochwichtigen verhinderungen, jetzo <br/>
+<span class="lineNumber">23</span>zu einem Landtage nicht zu kommen, gewiße deputirte aus ihrem mittel zu erkiesen, <br/>
+<span class="lineNumber">24</span>dieselbten mit gnugsahmer volmacht, ohne alles hinterbringen zuschliessen, zuversehen <br/>
+<span class="lineNumber">25</span>und dan ferners also abzuordnen, damit dieselbten deputirten uf den 15 Januarii zu <br/>
+<span class="lineNumber">26</span>abend gewis alhier einkommen, folgendes tages sich mit den ubrigen depurtirten der <br/>
+<span class="lineNumber">27</span>Craise zusammen verfuegen, alles, was proponirt, in reiffe berhatschlagung ziehen, <br/>
+<span class="lineNumber">28</span>und auch zu einem richtigen schlusse befodderen konden.
+<span class="lineNumber">29</span>Es habe sich auch der größere theil der Landtschafft dieses belieben lassen, inmassen dann <br/>
+<span class="lineNumber">30</span>hierauf zu bestimbter zeit, der <button class="entity #altmark place" data-ref="altmark" data-type="place" id="d2e1157">alt</button>- und <button class="entity #mittelmark place" data-ref="mittelmark" data-type="place" id="d2e1160">Mittelmärckischen</button>, <button class="entity #prignitz place" data-ref="prignitz" data-type="place" id="d2e1163">Prignitzirischen</button>, auch <button class="entity #ruppin place" data-ref="ruppin" data-type="place" id="d2e1167">Ruppinischen</button> <br/>
+<span class="lineNumber">31</span>Ritterschaft deputirte, wie auch der sametlichen Hauptstädte, und unter denen auch deren <br/>
+<span class="lineNumber">32</span>von <button class="entity #prenzlau place" data-ref="prenzlau" data-type="place" id="d2e1174">Prentzlow</button> abgesandte, angelanget. So ist auch am 16ten dieses mit den deliterationibus, <br/>
+<span class="lineNumber">33</span>ein anfang gemacht worden.
+<span class="lineNumber">34</span>Indeme aber der <button class="entity #uckermark place" data-ref="uckermark" data-type="place" id="d2e1187">Uckermärckische</button> und <button class="entity #stolpirischer_kreis place" data-ref="stolpirischer_kreis" data-type="place" id="d2e1190">Stolpirische</button> Crais gantz aussen blieben, auch zu ih-<br/>
+<span class="lineNumber">35</span>rer entschuldigung bey Ihren Mitcraisen, gantz nichts, bey Ihren <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e1200">Churf[ürstlichen] G[naden]</button> aber, so <br/>
+<span class="lineNumber">36</span>viele nicht, das sie vor entschuldiget zu halten, eingewandt, hat den anwesenden depu-<br/>
+<span class="lineNumber">37</span>tirten von der Ritterschaft, dannenher dis dubium zu eingang der deliberationen beyge-<br/>
+<span class="lineNumber">38</span>wohnet, das sie, dafern sie sich aus den alten Verfassungen nicht geben oder auch der <br/>
+<span class="lineNumber">39</span>gantzen last dieses wercks sich allein nicht aufwaltzen wolten, zu welchem allein sie <br/>
+<span class="lineNumber">40</span>gleichwol, von denen daheim gelassenen, keinen, sondern vielmeheer contrari befelich het-<br/>
+<span class="lineNumber">41</span>ten, zu diesem mahle in den berahtschlagungen nicht wurden fortgehen können. <br/>
+<span class="lineNumber">42</span>Auf welcher meinung sie dann auch so lang bestanden, bis das sie <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e1239">I[hre] Churf[ürstliche] G[naden]</button> in der <br/>
+<span class="lineNumber">43</span>Person an sich erfodderen, Ihnen auch hieruber ausfuhrlichen bericht von dehme thuen lassen, <br/>
+<span class="lineNumber">44</span>was von grosse ungelegenheit und gefahr diesem gantzen so hochnotigen wercke zu-<br/>
+<span class="lineNumber">45</span>stehen wolte, da man ohne einen gewissen schluss von einander ziehen solte: Sonder-<br/>
+<span class="lineNumber">46</span>lich da der Unionstag zu <button class="entity #nuernberg place" data-ref="nuernberg" data-type="place" id="d2e1269">Nurmberg</button> angesatzt, nunmheer heran anderer Fursten <br/>
+<span class="lineNumber">47</span>Gesandten vorlengst fortt, Ihre <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e1274">Churf[ürstliche] G[naden]</button> aber von alhier gemachten endtlichen <br/>
+<span class="lineNumber">48</span>schlusse zu keiner abordnung kommen konten. Mher auch ist Ihnen ver-<br/>
+<span class="lineNumber">49</span>meldet worden, was gestallt <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e1291">Ihre Churf[ürstliche] G[naden]</button> dessen mit keinem fuege entgelten <br/>
+<span class="lineNumber">50</span>konten, das die im <button class="entity #uckermark place" data-ref="uckermark" data-type="place" id="d2e1302">Uckermärkischem</button> und <button class="entity #stolpirischer_kreis place" data-ref="stolpirischer_kreis" data-type="place" id="d2e1305">Stolpischem</button> Craise, nicht wußte man eigent-<br/>
+<span class="lineNumber">51</span>lich, was bewegnus, aussenblieben, da <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e1315">Ihre Churf[ürstliche] G[naden]</button> alles das gethaan, was Ih-<br/>
+<span class="lineNumber">52</span>nen zugestanden, ihene waren nicht weniger als diese Craise convocirt, es hetten auch <br/>
+<span class="lineNumber">53</span><button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e1332">Ihre Churf[ürstliche] G[naden]</button> daselbsten nicht weniger als an den anderen örtern, die notturft pro-<br/>
+<span class="lineNumber">54</span>poniren, und es an getreuen anmahnen und erinneren gaar keines weges bey Ihnen <br/>
+<span class="lineNumber">55</span>anstehen lassen. Auch konte es je bey niemanden das ansehen haben, das aus <br/>
+<span class="lineNumber">56</span>den alten verfassungen, da mit den consultationen ferners verfahren gangen wurde, <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="0007_1615_Brandenburg_luth-0007.jpg" id="p-2r"> [Blatt: 2<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">57</span>weniger were <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e1356">I[hrer] Churf[ürstliche] G[naden]</button> intent dahin gerichtet, sondern sie ließen Ihnen viel mheer <br/>
+<span class="lineNumber">58</span>solche alte verfassungen belieben und gefallen: wolten sich auch hiermit, und in Kraft <br/>
+<span class="lineNumber">59</span>dieses, bestendigklich verreversiret haben, das solches nimmer und zu keiner Zeit, weder von <br/>
+<span class="lineNumber">60</span><button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e1372">I[hrer] Churf[ürstliche] G[naden]</button> noch auch deroselben Erben, und Nachkommen, Marggrafen und Churfursten zu <br/>
+<span class="lineNumber">61</span><button class="entity #brandenburg_kurfuerstentum place" data-ref="brandenburg_kurfuerstentum" data-type="place" id="d2e1385">Brandenburg</button>, dahin ausgedeutet werden solle. Gestallt es dan auch den Ver-<br/>
+<span class="lineNumber">62</span>stand eben so wenig bey <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e1395">Ihrer Churf[ürstlichen] G[naden]</button> hatt, das der <button class="entity #uckermark place" data-ref="uckermark" data-type="place" id="d2e1403">Uckermärckische</button> und <button class="entity #stolpirischer_kreis place" data-ref="stolpirischer_kreis" data-type="place" id="d2e1406">Stol-</button><br/>
+<span class="lineNumber">63</span><button class="entity #stolpirischer_kreis place" data-ref="stolpirischer_kreis" data-type="place" id="d2e1406">pirische</button> Crais seines aussenpleibens gemes entfinden oder Ihnen die ihrige quota deshalb <br/>
+<span class="lineNumber">64</span>erlassen werden solle; Sonderen <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e1417">I[hre] Churf[ürstliche] G[naden]</button> wollen sie viel mheer anderweit ehist <br/>
+<span class="lineNumber">65</span>zu hauffen erforddern und die notturft mit mehreren mit Ihnen reden lassen.
+<span class="lineNumber">66</span>Wie es dan auch ebener massen mit Ihnen in anno 1606. ohne allen abbruch der <br/>
+<span class="lineNumber">67</span>alten verfassungen also gehalten werden mussen.
+<span class="lineNumber">68</span>Demnach so haben nun die anwesende herrn deputirte auf reiffe erwegung dessen, <br/>
+<span class="lineNumber">69</span>welche Ihnen also von <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e1448">Ihrer Churf[ürstlichen] G[naden]</button> vorgehalten, die zu anfang geschopfte meinung <br/>
+<span class="lineNumber">70</span>fallen und Ihnen dahingegen belieben lassen, in dem hauptsächlichen consultationen ferners <br/>
+<span class="lineNumber">71</span>fortzuschreiten.
+<span class="lineNumber">72</span>Nechst abhandlung dises dubii haben die anwesenden von ständen <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e1465">Ihrer Churf[ürstlichen] G[naden]</button> ferners <br/>
+<span class="lineNumber">73</span>unterthenigst ersucht und gebetten, das <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e1475">Ihre Churf[ürstliche] G[naden]</button> nebenst dero freundlichen geliebten <br/>
+<span class="lineNumber">74</span>Eltern Sohn Marggraf <button class="entity #georg_wilhelm_brandenburg person" data-ref="georg_wilhelm_brandenburg" data-type="person" id="d2e1486">Jurgen Wilhelmen</button>, Ihnen die vorigen Reverse und Privilegia <br/>
+<span class="lineNumber">75</span>von worten zu worten anitzo confirmiren wolten.
+<span class="lineNumber">76</span>Aldieweill dan <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e1496">Ihre Churf[ürstliche] G[naden]</button> solch suchen und bitten der Stände recht und pillig er-<br/>
+<span class="lineNumber">77</span>achtet, So sollen demnach jetzberurte Reverse und Privilegia hiermit und in Kraft <br/>
+<span class="lineNumber">78</span>dieses alles ihres inhalts, wie auch insonderheit der Religion halb, der gestallt er-<br/>
+<span class="lineNumber">79</span>neuert, confirmirt und bestettiget sein, das ein jeder im Lande, der da will, bey des <br/>
+<span class="lineNumber">80</span>Herren <button class="entity #luther_martin person" data-ref="luther_martin" data-type="person" id="d2e1523">Lutheri</button> lehre und ungeenderten Augspurgischen confeßion, wie die in anno 30. <br/>
+<span class="lineNumber">81</span><button class="entity #karl_v person" data-ref="karl_v" data-type="person" id="d2e1530">Kaiser Carln</button> dem funften ubergeben, auch bey dem concordien buch verbleiben <br/>
+<span class="lineNumber">82</span>soll.
+<span class="lineNumber">83</span>Es soll ihnen auch hiervon abzustehen weder drang oder Zwang angethan werden, <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="0008_1615_Brandenburg_luth-0008.jpg" id="p-2v"> [Blatt: 2<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">84</span>dan <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e1544">Ihre Churf[ürstliche] G[naden]</button> massen sich der herschaft uber die gewissen mitt nichten an.
+<span class="lineNumber">85</span>Dahero sie dan auch niemanden, auch nicht an dehnen örtern, da <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e1557">Ihre Churf[ürstliche] G[naden]</button> selbst <br/>
+<span class="lineNumber">86</span>das ius patronatus haben, es seye in Städten, Communen oder Dörffern (ob sie sich woll <br/>
+<span class="lineNumber">87</span>sonsten der einfuhrung der Religion als das höchsten Regaals frey und ohne limitation ver-<br/>
+<span class="lineNumber">88</span>möge aller Rechte gebrauchen konten), wider seinen willen einige verdächtige und <br/>
+<span class="lineNumber">89</span>unannehmliche Prediger auftringen wollen.
+<span class="lineNumber">90</span>Wehre es dan aber auch sach, das jemandts aus den Predigern Zeit seines wehrenden <br/>
+<span class="lineNumber">91</span>Predigambts sich also erwiese, das er aus seiner ordination trete, und dannenher sei-<br/>
+<span class="lineNumber">92</span>nem Patronen und zuhöreren unannehmlich wurde, so soll dasselb an <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e1594">Ihre Churf[ürstliche] G[naden]</button> <br/>
+<span class="lineNumber">93</span>gelanget werden, die wollen als dan die sache in verhör ziehen, alle derselben umbsten-<br/>
+<span class="lineNumber">94</span>de fleissig erwegen, und dan ferners das hierbey anordnen lassen, was pillig und <br/>
+<span class="lineNumber">95</span>recht sein wirdt. Damit also <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e1614">Ihre Churf[ürstliche] G[naden]</button> Revers ein genuegen geschehen <br/>
+<span class="lineNumber">96</span>möge und sich niemand deshalben zu beschweren fueg habe.
+<span class="lineNumber">97</span>So sollen auch auf begehren der Collatorn aus den Ständen die examina ordinationes und con-<br/>
+<span class="lineNumber">98</span>firmationes der pfarren auf die maas, wie bey Churfurst <button class="entity #joachim_friedrich person" data-ref="joachim_friedrich" data-type="person" id="d2e1636">Joachim Friderichs</button> Christmil-<br/>
+<span class="lineNumber">99</span>destes angedenckens zeiten ublich gewesenn, angestalt und gehalten werden.
+<span class="lineNumber">100</span>Das Geistliche Consistorium soll also von <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e1651">Ihrer Churf[ürstlichen] G[naden]</button> besatzt und bestellt verpleiben, <br/>
+<span class="lineNumber">101</span>das zu jederer Zeit leute genug sein mögen, die dehnen darinnen vorgehenden sachen <br/>
+<span class="lineNumber">102</span>ihre Recht thuen konnen. Wann aber je sachen von sonderen importantz <br/>
+<span class="lineNumber">103</span>darinnen vorlieffen, soll es hiermit gehalten werden, wie es bey zeiten der <br/>
+<span class="lineNumber">104</span>hochlöblichen Churfursten, Herrn <button class="entity #johann_georg_brandenburg person" data-ref="johann_georg_brandenburg" data-type="person" id="d2e1668">Johans Jurgen</button> und Herrn <button class="entity #joachim_friedrich person" data-ref="joachim_friedrich" data-type="person" id="d2e1671">Joachim Friderichs</button>, zu hal-<br/>
+<span class="lineNumber">105</span>ten herkommens, da bey dergleichen beschaffenheit, das weltliche und Geistliche <br/>
+<span class="lineNumber">106</span>Consistorium coniungirt worden und zugleich in den sachen richteten, oder do es je <br/>
+<span class="lineNumber">107</span>nötig, wurden noch darueber einer oder zwey aus den Landstenden auch erfoddert, <br/>
+<span class="lineNumber">108</span>die solchen eingefallenen strittigkeiten mit beywohneten und solche auf einen ort <br/>
+<span class="lineNumber">109</span>bringen hulffen, deme wollen <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e1690">I[hre] Churf[ürstliche] G[naden]</button> ins kunfftige also auch nachgehen.
+<span class="lineNumber">110</span>Noch mheer haben sich auch an jetzo Ihre Churf[ürstliche] G[naden] mit den Stenden, und die Stände hin-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="0009_1615_Brandenburg_luth-0009.jpg" id="p-3r"> [Blatt: 3<span class="rectoVerso">r</span> ] </button><br/>
+<span class="lineNumber">111</span>widerumb mit Ihrer Churf[ürstlichen] G[naden] dahin verglichen, das keiner, so aus denen Landen erbohren, <br/>
+<span class="lineNumber">112</span>in welchen hiesige Landesleute der Märckischen Nation, von hohen digniteten und Amptern <br/>
+<span class="lineNumber">113</span>ausgeschlossen werden, derselben hinwiderumb in der Chur und Marck Branden-<br/>
+<span class="lineNumber">114</span>burg, und incorporirten Landen, von nun an fehig werden solle.
+<span class="lineNumber">115</span>Es sollen auch dieselbten zu sachen, das allgemeine Land betreffende, nicht gezogen werden. <br/>
+<span class="lineNumber">116</span>Von den geheimbten Rahtschlagen aber, wie auch von Krieges gewerben, und sachen, sollen <br/>
+<span class="lineNumber">117</span>sie so weit, das doch dabey die eingebornen, so von dergleichen qualiteten, alzeit den aus-<br/>
+<span class="lineNumber">118</span>wertigen vorgezogen werden sollen, nicht ausgeschlossen sein.
+<span class="lineNumber">119</span>Ihre Churf[ürstliche] G[naden] wollen sich auch gern bemuhen, das Preussen, und Julicher ihr privilegi-<br/>
+<span class="lineNumber">120</span>um indigenatus, vermittelsz welchs, kein frembden, in der Landen aldorten zu hohen <br/>
+<span class="lineNumber">121</span>Amptern und digniteten (ausser was Ihre Churf[ürstliche] G[naden] einen Cantzler in Preussen, von <br/>
+<span class="lineNumber">122</span>was Nation der auch seye, verordnen mögen) gelangen kan, mit den Märckeren <br/>
+<span class="lineNumber">123</span>communiciren und gemein machen. Auf welchen fall sie desgleichen, hinwiederumb, <br/>
+<span class="lineNumber">124</span>in hiesigen Landen zugewarten.
+<span class="lineNumber">125</span>Soviell dan aber anreicht die iehnige Burgschaften, in welche sich etliche der Stände vor <br/>
+<span class="lineNumber">126</span>Ihre Churf[ürstliche] G[naden] eingelassen, sind Ihre Churf[ürstliche] G[naden] anerbietig, es hiermit also anzustellen, <br/>
+<span class="lineNumber">127</span>das die Stende, welche noch in Burgschaft vor Ihrer Churf[ürstlichen] G[naden] haften, deren gentzlich, <br/>
+<span class="lineNumber">128</span>ohne entgeldt und schaden sein mögen. Gestalt sie dan albereits <br/>
+<span class="lineNumber">129</span>die anordnung geben, das an die iehnigen Creditorn, so die Burgen angefast, mitt <br/>
+<span class="lineNumber">130</span>allem fleise solle geschrieben, und von dem allem, so sie zur gedult zuvermögen dien-<br/>
+<span class="lineNumber">131</span>lich sein mag, nichts solle unterlassen werden.
+<span class="lineNumber">132</span>So soll auch nicht weniger dahin getrachtet werden, wie zu ihrer contentirung der <br/>
+<span class="lineNumber">133</span>Zinsen halb, fodderlichst zugelangen.
+<span class="lineNumber">134</span>Und damit sich Ihre Churf[ürstliche] G[naden] des gantzen schulden wesens, so auf Ihnen liget, ent-<br/>
+<span class="lineNumber">135</span>lestigen und los machen mögen: So wollen Ihre Churf[ürstliche] G[naden] auch hierueber fod-<br/>
+<span class="lineNumber">136</span>derlichst rhat halten, und dazu, gewisse Personen, aus dehren getreuen Landschaftt, <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="0010_1615_Brandenburg_luth-0010.jpg" id="p-3v"> [Blatt: 3<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">137</span>nebenst den Rhäten bey Hofe ziehen. Gestalt sich dan auch die anwesenden Stände, <br/>
+<span class="lineNumber">138</span>dahin unterthenigst erklehret, sich auf erforddern, zu solchem convent gern zuge-<br/>
+<span class="lineNumber">139</span>stellen, und I[hre] Churf[ürstliche] G[naden] mit getreuen Rhate, unterthenigst beyzuwohnen.
+<span class="lineNumber">140</span>Der Stifter und Städte pferde wollen sich Ihre Churf[ürstliche] G[naden] anders nicht, dann <br/>
+<span class="lineNumber">141</span>wiebey Zeiten Ihrer Churf[ürstlichen] G[naden] in Gott ruhenden Grosherren, und herrn Vatern <br/>
+<span class="lineNumber">142</span>beeder hochlöblichstes angedenckens, geschehen, gebrauchen. Und da hierwider <br/>
+<span class="lineNumber">143</span>einige Anordnung, eingerissen were, soll dieselbte ehist hinwiderumb abgeschaft, <br/>
+<span class="lineNumber">144</span>auch den Knechten und pferdten, an futter und mahll, und sonsten, was da-<br/>
+<span class="lineNumber">145</span>malln gebreuchlich gewesen, verreicht werden.
+<span class="lineNumber">146</span>Ihre Churf[ürstliche] G[naden] haben auch befohlen, das die sachen, wegen des privilegien, so beede <br/>
+<span class="lineNumber">147</span>residentz Städte alhier, wegen des Wollen- und Wein zolles erlanget, davon <br/>
+<span class="lineNumber">148</span>aber hernacher Jacob Weiler, und Tileman Essenbrucher, und Ihre beederseits <br/>
+<span class="lineNumber">149</span>consorten, durch ein neueres privilegium, und also, wie die Städte anziehen, per <br/>
+<span class="lineNumber">150</span>sub et obreptionem eximirt worden, erstes tages gehört, und ohne alle weitleuf-<br/>
+<span class="lineNumber">151</span>tigkeit hingelegt und entscheiden werden mögen.
+<span class="lineNumber">152</span>Und nach deme sonsten noch etliche generall gravamina, laut der Schrift, so deshalb <br/>
+<span class="lineNumber">153</span>zu erst in anno 1610. und jetzo nebenst einem appendice, anderweit ubergeben, <br/>
+<span class="lineNumber">154</span>worden, zu rechte zu bringen hinterstellig, welche ihrer weitleuftigkeit <br/>
+<span class="lineNumber">155</span>halb, und weill sonderlich die Stände, unter sich selbsten, uber etlichen noch different, <br/>
+<span class="lineNumber">156</span>jetzo nicht zu expediren. So benennen Ihre Churf[ürstliche] G[naden] Ihres theils zu sothaner ver-<br/>
+<span class="lineNumber">157</span>richtung, I[hrer] Churf[ürstliche] G[naden] Vice Cantzlern, und geheimbte Rhate, Friederich Pruck-<br/>
+<span class="lineNumber">158</span>mannen beeder Rechte Doctorn, Christianen von Bellin, und Sigmunden von Götzen <br/>
+<span class="lineNumber">159</span>samet und sonderlich.
+<span class="lineNumber">160</span>Ingleichem werden auch wegen der Stände hiemit gleichfalls, sammet und sonderlich <br/>
+<span class="lineNumber">161</span>benant, der Herr dom Dechant zu Havelberg, Reimar von Karsteedt, der Herr <br/>
+<span class="lineNumber">162</span>Hauptman der Altenmarck, Thomas von dem Knesebeck, und Dietrich von der <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="0011_1615_Brandenburg_luth-0011.jpg" id="p-4r"> [Blatt: 4<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">163</span>Schulenburg zu Apenburg, wegen der Altmarckischen und Prignitzischen Rit-<br/>
+<span class="lineNumber">164</span>terschaft
+<span class="lineNumber">165</span>Und wegen der Mittelmarck, und Landes zu Ruppin, Herr Adam von Schlieben <br/>
+<span class="lineNumber">166</span>Commentur zur Litzen, Asmus von Bredow, Joachims seligen Sohn, und Hans Jurg <br/>
+<span class="lineNumber">167</span>von Ribbeck, Oberhauptman zu Spandow.
+<span class="lineNumber">168</span>Undt dan wegen der Städte der Altenmarck, und prignitz, Berndt Ruelow <br/>
+<span class="lineNumber">169</span>Land- und Hoffrichter der Prignitz, auch Burgermeister zu Perleberg. <br/>
+<span class="lineNumber">170</span>Und letzlich wegen der Mittell-, Uckermärckischen, und Ruppischen Städte, Bur-<br/>
+<span class="lineNumber">171</span>germeister Martin pasche zum Berlin, Burgermeister Friderich Schaum zu Frank-<br/>
+<span class="lineNumber">172</span>furt, Burgermeister Thomas Haus zu Neuen Ruppin, und Burgermeister <br/>
+<span class="lineNumber">173</span>Jochim Barentin zu Prentzlow.
+<span class="lineNumber">174</span>Diese samet- und sonderlich solle auf den ersten tag des Monats May, schiersten <br/>
+<span class="lineNumber">175</span>alhier im hoflager zusammen kommen, und ein jedes angegebenes gravamen beson-<br/>
+<span class="lineNumber">176</span>ders in gangsahme berhatschlagung ziehen, die notturft dabey, pro et contra, woll er-<br/>
+<span class="lineNumber">177</span>wegen, sich auch einer gewissen meinung entschliessen, solchs förters zu papier setzen, <br/>
+<span class="lineNumber">178</span>und Ihrer Churf[ürstlichen] G[naden] unterthenigst vortragen, die dan an gebührendem aus-<br/>
+<span class="lineNumber">179</span>schlage der sachen nicht ermangeln lassen wollen.
+<span class="lineNumber">180</span>Funden sich dan auch noch hieruber etliche Speciall gravamina, soll auch zu deren er-<br/>
+<span class="lineNumber">181</span>orterung, also bald nach deme den generall gravaminibus abgeholffen sein wurd, auch <br/>
+<span class="lineNumber">182</span>griffen, und es damit wie obstehet, gleichsfalls gehalten werden.
+<span class="lineNumber">183</span>Betreffend aber, die zwey proponirte punct, haben sich Ihre Churf[ürstliche] G[naden] mit den Ständen <br/>
+<span class="lineNumber">184</span>und die Stände hinwiderumb mit I[hrer] Churf[ürstliche] G[naden] wegen deren, dahin verglichen, das <br/>
+<span class="lineNumber">185</span>wie schweer, und sauer es dan auch den Ständen, wegen albereits auf Ihnen lie-<br/>
+<span class="lineNumber">186</span>genden Landesburden, ankehme, Sie jedoch wegen der hierbey eingefuhrten, fast <br/>
+<span class="lineNumber">187</span>hocherheblichen Uhrsachen, und bewegnusse, Ihrer Churf[ürstlichen] G[naden] nicht gentzlich <br/>
+<span class="lineNumber">188</span>aus handen gehen konten, nach wolten.
+<span class="lineNumber">189</span>Haben demnach die Ritterschaft, und mitverwandte funf und viertzig tausent <br/>
+<span class="lineNumber">190</span>thaler in muntze, oder vor ieden, vier und zwantzig Reichsgroschen zu zahlen (mit <br/>
+<span class="lineNumber">191</span>eingerechnet der Uckermärckischen, und Stolpirischen Landtschaft quoten, welche <br/>
+<span class="lineNumber">192</span>Ihre Churf[ürstliche] G[naden] in deme sie, wie vorstehet, jetziger Zeit abwesend, zubehandlen <br/>
+<span class="lineNumber">193</span>auf sich genommen) auf schierst Jubilate, bahr uber auszuzahlen zugesaget, und ver-<br/>
+<span class="lineNumber">194</span>sprochen.
+<span class="lineNumber">195</span>In gleichen so haben auch die von Städten, Neuntzig tausent thaler ebener wehrung <br/>
+<span class="lineNumber">196</span>und hiervon viertzig tausent schiersten Martini, Dreissig tausent auf Ostern <br/>
+<span class="lineNumber">197</span>um ein tausent, sechshunderten und sechzehenden Jhare, und letzlich zwantzig tausent <br/>
+<span class="lineNumber">198</span>thaler uf Michaelis desselbten 1616 ten Jhares, gleichfals bahr uber auszu-<br/>
+<span class="lineNumber">199</span>bringen, verheischen und angelobet,
+<span class="lineNumber">200</span>Es seind auch I[hre] Churf[ürstliche] G[naden] hiermit woll fridtlich und vergnuget gewesen, und haben <br/>
+<span class="lineNumber">201</span>ein solches zu gnedigem dancke, von den Ständen, auf- und angenommen.
+<span class="lineNumber">202</span>Belangendt aber den puncten den defensions ordnung alhier im Lande, ist derselbte <br/>
+<span class="lineNumber">203</span>dahin gestallt, aldieweill zwar albereits desselbten halben, etwas aufgesatzt <br/>
+<span class="lineNumber">204</span>so aber dennoch noch weiteres, ehe dan es den Ständen communicirt und vorgetragen <br/>
+<span class="lineNumber">205</span>werden kan, zu erwegen, und zu mehrer volkommenheit zu bringen.
+<span class="lineNumber">206</span>So wird demnach Ihre Churf[ürstliche] G[naden] von den Ständen, hiermit anheimb geben, wen, <br/>
+<span class="lineNumber">207</span>auch zu was zeit, unnd an was end sie wollen, zur berhatschlagung dieses wercks <br/>
+<span class="lineNumber">208</span>iedoch mit erster gelegenheit zu erfoddern.
+<span class="lineNumber">209</span>Und wen man sich nun, uber einer gewissen verfassung, diesfals geeiniget haben <br/>
+<span class="lineNumber">210</span>wird, Soll dieselbte einem iedem Craise absonderlich zu wissen gemacht, und solche <br/>
+<span class="lineNumber">211</span>woll zu betrachten frey gestalt werden. Da auch die Craise eine oder die an-<br/>
+<span class="lineNumber">212</span>dere erinnerung hierbey zu thun hetten, sollen sie damit gehört und vernommen <br/>
+<span class="lineNumber">213</span>werden. Und soll solche ordnung ehe nicht gültig sein, bis das aller Craise be-<br/>
+<span class="lineNumber">214</span>dencken hierüber einkommen, und also ein algemeiner schlas hieraus gemacht worden, <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="0013_1615_Brandenburg_luth-0013.jpg" id="p-5r"> [Blatt: 5<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">215</span>Alles getreulich und ungefehrlich.
+<span class="lineNumber">216</span>gleiches lautes gefertiget, davon der eine alhier beim <button class="entity #brandenburg_kurfuerstentum place" data-ref="brandenburg_kurfuerstentum" data-type="place" id="d2e2258">Churfurstlichen</button> archiv bliben, <br/>
+<span class="lineNumber">217</span>der ander, dritte und Vierdte aber, der <button class="entity #altmark place" data-ref="altmark" data-type="place" id="d2e2263">Alt-</button>, <button class="entity #mittelmark place" data-ref="mittelmark" data-type="place" id="d2e2266">Mittell-</button> und <button class="entity #uckermark place" data-ref="uckermark" data-type="place" id="d2e2270">Uckermärckischen</button> <br/>
+<span class="lineNumber">218</span>Ritterschaft, so auch der funfte und Sechste, den <button class="entity #altmark place" data-ref="altmark" data-type="place" id="d2e2275">Altmärckischen</button> Städten, und deren <br/>
+<span class="lineNumber">219</span>consorten, und wiederumb den <button class="entity #mittelmark place" data-ref="mittelmark" data-type="place" id="d2e2280">Mittellmärckischen</button>, und ihren zubehörigen Städten, <br/>
+<span class="lineNumber">220</span>einbehändiget worden.
+<span class="lineNumber">221</span>Urkuntlich haben <button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e2290">Ihre Churf[ürstliche] G[naden]</button> deren grösser Secret, vor diesen pergamentenen <br/>
+<span class="lineNumber">222</span>brief anzuhencken wissentlich anbefohlen, sich auch mit eigenen handen unterschrieben. <br/>
+<span class="lineNumber">223</span>Geschehen und geben zu <button class="entity #coelln place" data-ref="coelln" data-type="place" id="d2e2302">Coln an der Spree</button>, an funften Februarii, das ein tausent, <br/>
+<span class="lineNumber">224</span>sechshundert und funfzehnden Jhaares.
+<span class="lineNumber">225</span><button class="entity #johann_sigismund_brandenburg person" data-ref="johann_sigismund_brandenburg" data-type="person" id="d2e2315">Hannß Sigißmundt Churfürst</button>

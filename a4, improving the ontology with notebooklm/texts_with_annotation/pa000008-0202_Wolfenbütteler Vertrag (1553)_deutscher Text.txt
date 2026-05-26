@@ -1,0 +1,493 @@
+<span class="lineNumber">1</span>Züwissen sey, Allen unnd Jeden, <br/>
+<span class="lineNumber">2</span>denn diser offenbrieff<a class="fnNumber" href="#F_1" id="A_1">1</a> fürkombt, gelesen oder getzeigt wirdet, als sich ein lannge <br/>
+<span class="lineNumber">3</span>zeit hero hoch nachteilige unnd schedliche Spenn<a class="fnNumber" href="#F_2" id="A_2">2</a> unnd gebrechen<a class="fnNumber" href="#F_3" id="A_3">3</a> zwischen dem <br/>
+<span class="lineNumber">4</span>durchleuchtigen, Hochgebornnen Fursten und herrn, herrn <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e1357">Heinrichen dem </button><br/>
+<span class="lineNumber">5</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e1357">Jungern</button>, Hertzogen zu <button class="entity #braunschweig_wolfenbuettel_fuerstentum place" data-ref="braunschweig_wolfenbuettel_fuerstentum" data-type="place" id="d2e1362">Braunschweig unnd Luneburg</button> etc., an einem, unnd <br/>
+<span class="lineNumber">6</span>denn Erbarn und ersamen etc. Burgermeister, Rath unnd gemeinde der <br/>
+<span class="lineNumber">7</span>Statt <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e1370">Braunschweig</button> anndersteils, unnserm genedigen <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e1373">Fursten</button> unnd guten <br/>
+<span class="lineNumber">8</span>Freunden, irrig unnd streittig erhallten<a class="fnNumber" href="#F_4" id="A_4">4</a>, darunter hochgedachter <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e1381">hertzog</button> <br/>
+<span class="lineNumber">9</span>durch die Schmalkaldische Buntsverwannten<a class="fnNumber" href="#F_5" id="A_5">5</a>, dennen die von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e1395">Braunschweig</button> <br/>
+<span class="lineNumber">10</span>auch anhenngig und zugethan gewesen,<a class="fnNumber" href="#F_6" id="A_6">6</a> Seiner <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e1406">Furstlichen gnaden</button> lannd <br/>
+<span class="lineNumber">11</span>und leut entsetzt<a class="fnNumber" href="#F_7" id="A_7">7</a>, verjaget unnd davon abgehallten, auch zu letst, da Seine <br/>
+<span class="lineNumber">12</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e1416">Furstliche gnad</button> in expedition zu wider eroberung derselben Irer Lannde ge-<br/>
+<span class="lineNumber">13</span>stannden, in schmertzliche, lanngwierige gefencknus bracht und kommen ist,<a class="fnNumber" href="#F_8" id="A_8">8</a> <br/>
+<span class="lineNumber">14</span>daraus dann volgendes, nach Seiner <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e1435">F[ürstlichen] g[naden]</button> erledigung<a class="fnNumber" href="#F_9" id="A_9">9</a> und restitution, aller-<br/>
+<span class="lineNumber">15</span>ley gram, widerwillen, kriege, entporung, plutvergiessen, mordt, raub- <br/>
+<span class="lineNumber">16</span>nahme unnd todschleg mit verderbung unnd verherung der lannd unnd <br/>
+<span class="lineNumber">17</span>leut ervolget, unnd die sachen zu letst auch so fern geratten sein<a class="fnNumber" href="#F_10" id="A_10">10</a>, das andere <br/>
+<span class="lineNumber">18</span>mehr kriege mit zugeschlagen<a class="fnNumber" href="#F_11" id="A_11">11</a>, unnd also fur unnd fur in diser lanndart<a class="fnNumber" href="#F_12" id="A_12">12</a> <br/>
+<span class="lineNumber">19</span>ein unrath<a class="fnNumber" href="#F_13" id="A_13">13</a> aus dem anndern entstannden und erwachssen<a class="fnNumber" href="#F_14" id="A_14">14</a> ist,<a class="fnNumber" href="#F_15" id="A_15">15</a> das zu-<br/>
+<span class="lineNumber">20</span>letst hochgedachter <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e1493">hertzog</button>, umb geliebtes fridens willen, unnd zu wolfart <br/>
+<span class="lineNumber">21</span>des lanndes, der <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e1498">Romischen Konigclichen meyestat</button>, unserm allergene-<br/>
+<span class="lineNumber">22</span>digsten herrn, unnd denn hochwirdigen Fursten unnd herrn, herrn <button class="entity #redwitz_weigand_von person" data-ref="redwitz_weigand_von" data-type="person" id="d2e1509">Wei-</button><br/>
+<span class="lineNumber">23</span><button class="entity #redwitz_weigand_von person" data-ref="redwitz_weigand_von" data-type="person" id="d2e1509">ganden</button> zu <button class="entity #bamberg_hochstift place" data-ref="bamberg_hochstift" data-type="place" id="d2e1517">Bamberg</button> und herrn <button class="entity #melchior_wuerzburg person" data-ref="melchior_wuerzburg" data-type="person" id="d2e1520">Melchiorn</button> zu <button class="entity #wuerzburg_hochstift place" data-ref="wuerzburg_hochstift" data-type="place" id="d2e1523">Wirzburg</button>, Bischoven, auch <br/>
+<span class="lineNumber">24</span>denn Erbarn Freyen Reichs unnd anndern Stetten, <button class="entity #nuernberg place" data-ref="nuernberg" data-type="place" id="d2e1529">Nurnberg</button>, <button class="entity #goslar place" data-ref="goslar" data-type="place" id="d2e1532">Gosler</button>, <br/>
+<span class="lineNumber">25</span><button class="entity #hildesheim place" data-ref="hildesheim" data-type="place" id="d2e1536">Hildensheim</button>, <button class="entity #goettingen place" data-ref="goettingen" data-type="place" id="d2e1539">Gottingen</button> und <button class="entity #einbeck place" data-ref="einbeck" data-type="place" id="d2e1542">Einbeck</button>, unnseren gnedigen Fursten, herrn <br/>
+<span class="lineNumber">26</span>unnd Obern, auf irer <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e1548">konigclicher mayestat</button> unnd derselben gnedigist, <br/>
+<span class="lineNumber">27</span>fleissig, freundlich unnd unnderthenig begern und bitten gewilliget und <br/>
+<span class="lineNumber">28</span>nachgelassen<a class="fnNumber" href="#F_16" id="A_16">16</a>, das ire <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e1558">konigcliche mayestat</button>, furstliche gnaden<a class="fnNumber" href="#F_17" id="A_17">17</a> und gunst <br/>
+<span class="lineNumber">29</span>zu volge, deren von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e1573">Braunschweig</button> geschehenen erbiettens, sich unvergreif-<br/>
+<span class="lineNumber">30</span>licher gutlicher hanndlung unnderfanngen,<a class="fnNumber" href="#F_18" id="A_18">18</a> unnd, wo moglich, die hoch-<br/>
+<span class="lineNumber">31</span>beschwerlichen unnd nachteiligen gebrechen in der güte hinlegen<a class="fnNumber" href="#F_19" id="A_19">19</a> unnd <br/>
+<span class="lineNumber">32</span>vergleichen mochten.
+<span class="lineNumber">33</span>Demnach, <br/>
+<span class="lineNumber">34</span>uff irer <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e1614">konigclichen mayestat</button>, furstlichen gnaden und gunsten bevelch, <br/>
+<span class="lineNumber">35</span>und In namen derselben, haben wir, <button class="entity #bohuslav_felix person" data-ref="bohuslav_felix" data-type="person" id="d2e1619">Bohusla Felix</button>, herr von <button class="entity #hassenstein place" data-ref="hassenstein" data-type="place" id="d2e1623">Hassenstein</button> <br/>
+<span class="lineNumber">36</span>auf <button class="entity #litschkau place" data-ref="litschkau" data-type="place" id="d2e1628">Lutzka</button>, <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e1631">Romischer konigclicher mayestat</button> Rath und Oberhaubtman <br/>
+<span class="lineNumber">37</span>in <button class="entity #sankt_joachimsthal place" data-ref="sankt_joachimsthal" data-type="place" id="d2e1636">Sanct Jochimstall</button>, <button class="entity #fuchs_georg person" data-ref="fuchs_georg" data-type="person" id="d2e1640">Georg Fuchsz</button> ,Thumherr zu <button class="entity #bamberg_hochstift place" data-ref="bamberg_hochstift" data-type="place" id="d2e1643">Bamberg</button> und <button class="entity #wuerzburg_hochstift place" data-ref="wuerzburg_hochstift" data-type="place" id="d2e1646">Wirtz-</button><br/>
+<span class="lineNumber">38</span><button class="entity #wuerzburg_hochstift place" data-ref="wuerzburg_hochstift" data-type="place" id="d2e1646">burg</button>, <button class="entity #ebner_erasmus person" data-ref="ebner_erasmus" data-type="person" id="d2e1654">Erasmus Ebner</button>, Burgermeister zu <button class="entity #nuernberg place" data-ref="nuernberg" data-type="place" id="d2e1657">Nurnberg</button>, <button class="entity #landtmann_heinrich person" data-ref="landtmann_heinrich" data-type="person" id="d2e1660">Heinrich Lanndt-</button><br/>
+<span class="lineNumber">39</span><button class="entity #landtmann_heinrich person" data-ref="landtmann_heinrich" data-type="person" id="d2e1660">man</button>, Burgermeister,<button class="entity #trautenbuel_christoff person" data-ref="trautenbuel_christoff" data-type="person" id="d2e1670"> Christoffer Trauttenbul</button>, Doctor und Syndicus, <br/>
+<span class="lineNumber">40</span>unnd <button class="entity #reck_johann person" data-ref="reck_johann" data-type="person" id="d2e1675">Johann Reck</button>, Rathman zu <button class="entity #goslar place" data-ref="goslar" data-type="place" id="d2e1678">Gosler</button>, <button class="entity #brandis_tile person" data-ref="brandis_tile" data-type="person" id="d2e1681">Tile Brandes</button>, <button class="entity #kniphof_hans person" data-ref="kniphof_hans" data-type="person" id="d2e1684">Hanns Kniphoff</button>, <br/>
+<span class="lineNumber">41</span>beide Burgermeister, unnd <button class="entity #koch_johann person" data-ref="koch_johann" data-type="person" id="d2e1690">Johann Koch</button>, Syndicus zu <button class="entity #hildesheim place" data-ref="hildesheim" data-type="place" id="d2e1693">Hildensheim</button>, <button class="entity #schwanenfluegel_gisler person" data-ref="schwanenfluegel_gisler" data-type="person" id="d2e1696">Gisler </button><br/>
+<span class="lineNumber">42</span><button class="entity #schwanenfluegel_gisler person" data-ref="schwanenfluegel_gisler" data-type="person" id="d2e1696">Schwaneflugel</button>, Burgermeister, <button class="entity #borneman_abel person" data-ref="borneman_abel" data-type="person" id="d2e1701">Abel Borneman</button> unnd <button class="entity #elvede_hildebrand person" data-ref="elvede_hildebrand" data-type="person" id="d2e1704">Hiliprant Elvede</button>, <br/>
+<span class="lineNumber">43</span>beide Rathmane zu <button class="entity #goettingen place" data-ref="goettingen" data-type="place" id="d2e1710">Gottingen</button>, unnd <button class="entity #olemann_johann person" data-ref="olemann_johann" data-type="person" id="d2e1713">Johann Oleman</button>, Secretarius <br/>
+<span class="lineNumber">44</span>der Statt <button class="entity #einbeck place" data-ref="einbeck" data-type="place" id="d2e1718">Einbeck</button>, zwischen beiden teilen die sachen in fleissige verhor <br/>
+<span class="lineNumber">45</span>unnd hanndlung genommen und dieselben nach angewanntem grossem <br/>
+<span class="lineNumber">46</span>und embsigen fleiss, zu letzt mit irer beider teil guttem wissen unnd <br/>
+<span class="lineNumber">47</span>willen, volgender gestallt genntzlich und zu grunde<a class="fnNumber" href="#F_20" id="A_20">20</a> verglichen und vertragen:
+<span class="lineNumber">48</span><span class="article_added">[Art. 1]</span> unnd nemblich, das die von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e1737">Braunschweig</button> sollen und wollen sich ge-<br/>
+<span class="lineNumber">49</span>gen hochermeltem Fursten, <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e1747">hertzogen Heinrichen</button>, demutigen, <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e1750">Seiner </button><br/>
+<span class="lineNumber">50</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e1750">Furstlichen gnaden</button> die gefasste<a class="fnNumber" href="#F_21" id="A_21">21</a> ungnad in unnderthenigkeit abebitten<a class="fnNumber" href="#F_22" id="A_22">22</a> <br/>
+<span class="lineNumber">51</span>unnd sich hinfuro gegen <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e1764">Seine furstlich gnaden</button> als irem Landsfursten, <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="Bs_1553_02.png" id="p-Bl. 1v"> [Blatt: Bl. 1<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">52</span>wie vor alters,<a class="fnNumber" href="#F_a" id="A_a">a</a> <br/>
+<span class="lineNumber">53</span>getrewlich, wie fromen, ehrlichen unnderthanen woll ansteet, in gebur-<br/>
+<span class="lineNumber">54</span>lichen gehorsam verhallten und ertzeigen.
+<span class="lineNumber">55</span><span class="article_added">[Art. 2]</span> Sy sollen <br/>
+<span class="lineNumber">56</span>unnd wollen auch sich Marggraven <button class="entity #albrecht_alcibiades_brandenburg_kulmbach person" data-ref="albrecht_alcibiades_brandenburg_kulmbach" data-type="person" id="d2e1793">Albrechts von Brandenburg</button> unnd <br/>
+<span class="lineNumber">57</span>aller desselben anhennger, helffer unnd verwannten, practicken<a class="fnNumber" href="#F_23" id="A_23">23</a> unnd <br/>
+<span class="lineNumber">58</span>hanndlung, so wider die <button class="entity #karl_v person" data-ref="karl_v" data-type="person" id="d2e1804">Romische Keiserliche</button> und <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e1807">Konigcliche mayestaten</button>, <br/>
+<span class="lineNumber">59</span>unnsere allergnedigiste herrn, auch unnsere gnedige unnd gunstige herrn <br/>
+<span class="lineNumber">60</span>unnd Obern, die Frenckische ainungsverwannten,<a class="fnNumber" href="#F_24" id="A_24">24</a> herrn <button class="entity #redwitz_weigand_von person" data-ref="redwitz_weigand_von" data-type="person" id="d2e1826">Weigannden</button> <br/>
+<span class="lineNumber">61</span>zu <button class="entity #bamberg_hochstift place" data-ref="bamberg_hochstift" data-type="place" id="d2e1831">Bamberg</button>, herrn <button class="entity #melchior_wuerzburg person" data-ref="melchior_wuerzburg" data-type="person" id="d2e1834">Melchiorn</button> zu <button class="entity #wuerzburg_hochstift place" data-ref="wuerzburg_hochstift" data-type="place" id="d2e1837">Wirtzburg</button>, Bischoffen, auch hochgedachten <br/>
+<span class="lineNumber">62</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e1842">Hertzogen Heinrichen</button> zu <button class="entity #braunschweig_wolfenbuettel_fuerstentum place" data-ref="braunschweig_wolfenbuettel_fuerstentum" data-type="place" id="d2e1845">Braunschweig und Luneburg</button> etc., Herrn <button class="entity #heinrich_iv_reuss_von_plauen person" data-ref="heinrich_iv_reuss_von_plauen" data-type="person" id="d2e1848">Heinrichen</button>, <br/>
+<span class="lineNumber">63</span>Burggrauen zu <button class="entity #meissen_burggrafschaft place" data-ref="meissen_burggrafschaft" data-type="place" id="d2e1853">Meissen</button> etc., unnd Burgermeister, Rath unnd gemeinde der <br/>
+<span class="lineNumber">64</span>Stett <button class="entity #nuernberg place" data-ref="nuernberg" data-type="place" id="d2e1859">Nurnberg</button>, <button class="entity #windsheim place" data-ref="windsheim" data-type="place" id="d2e1862">Wintzheim</button> und anndere furgenommen und getriben <br/>
+<span class="lineNumber">65</span>werden möchten, genntzlichen entschlagen<a class="fnNumber" href="#F_25" id="A_25">25</a>, unnd sich wider ire <button class="entity #karl_v person" data-ref="karl_v" data-type="person" id="d2e1870">Keiserliche</button> <br/>
+<span class="lineNumber">66</span>und <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e1876">konigcliche mayestaten</button>, furstliche gnaden<a class="fnNumber" href="#F_26" id="A_26">26</a> unnd gunsten nicht ge-<br/>
+<span class="lineNumber">67</span>brauchen noch bewegen lassen, auch dem <button class="entity #albrecht_alcibiades_brandenburg_kulmbach person" data-ref="albrecht_alcibiades_brandenburg_kulmbach" data-type="person" id="d2e1894">marggraven</button> oder seinem an-<br/>
+<span class="lineNumber">68</span>hanng kein hilff, furderung oder furschub<a class="fnNumber" href="#F_27" id="A_27">27</a> thun, oder anndern zethun <br/>
+<span class="lineNumber">69</span>gestatten oder verhenngen<a class="fnNumber" href="#F_28" id="A_28">28</a>, heimlich oder offentlich, in keinerlei weiß <br/>
+<span class="lineNumber">70</span>noch wege, sonnder solliches, so vil Inen moglich, hindern unnd wehrern.
+<span class="lineNumber">71</span><span class="article_added">[Art. 3]</span> Es soll unnd will auch <br/>
+<span class="lineNumber">72</span>ein teil des anndern feindt unnd widerwerttige<a class="fnNumber" href="#F_29" id="A_29">29</a>, die mit der thatt<a class="fnNumber" href="#F_30" id="A_30">30</a> han-<br/>
+<span class="lineNumber">73</span>deln und an ordentlichem rechten nicht genügen haben wollenn, <br/>
+<span class="lineNumber">74</span>nit hausen, hegen, herbergen, ätzen<a class="fnNumber" href="#F_31" id="A_31">31</a>, trencken, furdern, furschieben<a class="fnNumber" href="#F_32" id="A_32">32</a> <br/>
+<span class="lineNumber">75</span>unnderschleiffen<a class="fnNumber" href="#F_33" id="A_33">33</a>, weder heimlich noch offentlich, unnd soll einer <br/>
+<span class="lineNumber">76</span>dem anndern auch seine feinde unnd widerwerttigen, die er bey ime <br/>
+<span class="lineNumber">77</span>oder in seinen gebietten befunden und betretten, dermassen anhallten<a class="fnNumber" href="#F_34" id="A_34">34</a>, <br/>
+<span class="lineNumber">78</span>das er rechtes an inen bekommen möge.
+<span class="lineNumber">79</span><span class="article_added">[Art. 4]</span> So sollen auch die von <br/>
+<span class="lineNumber">80</span><button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e1970">Braunschweig</button> und die iren an irer Religion, wie sy dieselbigen noch <br/>
+<span class="lineNumber">81</span>haben, biß zu erortterung eines allgemeinen Christlichen Concilii, <br/>
+<span class="lineNumber">82</span>oder aber biß zu einheliger vergleichung, so etwann im <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e1978">heilligen </button><br/>
+<span class="lineNumber">83</span><button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e1978">Reich Teutscher Nation</button> darin mocht angerichtet werden, von <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e1983">Hertzog </button><br/>
+<span class="lineNumber">84</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e1983">Heinrich</button> etc. oder <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e1988">Seiner furstlichen gnaden</button> dienern, unnderthanen <br/>
+<span class="lineNumber">85</span>oder vorwannten nicht angefochten, bekommert oder beschweret <br/>
+<span class="lineNumber">86</span>werden.
+<span class="lineNumber">87</span>Unnd hinwiderumb sollen unnd wollen auch die von <br/>
+<span class="lineNumber">88</span><button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e2001">Braunschweig</button> <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2004">Hertzog Heinrichen</button>, <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2007">Seiner furstlichen gnaden</button> <br/>
+<span class="lineNumber">89</span>diener, unnderthanen und verwannten von wegen irer Religion, <br/>
+<span class="lineNumber">90</span>wie sy dieselbig anhero gebracht, und noch haben, oder billich<a class="fnNumber" href="#F_35" id="A_35">35</a> haben sollen, <br/>
+<span class="lineNumber">91</span>biß zu erortterung eines gemeinen Christlichen Concilii oder biß zu <br/>
+<span class="lineNumber">92</span>einhelliger vergleichung, so etwann Im <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e2022">heilligen Reich Teutscher </button><br/>
+<span class="lineNumber">93</span><button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e2022">Nation</button> mocht angerichtet werden, nicht anfechten oder beschweren.
+<span class="lineNumber">94</span><span class="article_added">[Art. 5]</span> <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2033">Sein Furstlich gnad</button> soll und will auch mit den jhenigen, so von <br/>
+<span class="lineNumber">95</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2037">Seiner furstlichen gnaden</button> Pfarren in der <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e2040">Statt</button> zu lehen haben,<a class="fnNumber" href="#F_36" id="A_36">36</a> <br/>
+<span class="lineNumber">96</span>fleissig hanndeln unnd anhallten, oder durch die iren hanndeln <br/>
+<span class="lineNumber">97</span>unnd anhallten<a class="fnNumber" href="#F_37" id="A_37">37</a> lassen, das sy den halben teil ires jerlichen einkom-<br/>
+<span class="lineNumber">98</span>mens dero von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e2064">Braunschweig</button> kirchendiennern volgen lassen sollen, <br/>
+<span class="lineNumber">99</span>alles bis zu gemellter erortterung oder vergleichung der religion-<br/>
+<span class="lineNumber">100</span>sachen, doch das solliches <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2077">Seiner furstlichen gnaden</button> an irem iure <br/>
+<span class="lineNumber">101</span>patronatus in alle wege unvergreifflich<a class="fnNumber" href="#F_38" id="A_38">38</a> unnd unschedlich sey.
+<span class="lineNumber">102</span><span class="article_added">[Art. 6]</span> Weitter sollen auch der von <br/>
+<span class="lineNumber">103</span><button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e2093">Braunschweig</button> privilegien, inhallt irer brief und Sigl, in dem stand, darinen <br/>
+<span class="lineNumber">104</span>sy vor diser spenn<a class="fnNumber" href="#F_39" id="A_39">39</a> unnd irrung gewesen, bleiben, verstannden <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="Bs_1553_03.png" id="p-Bl. 2r"> [Blatt: Bl. 2<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">105</span>unnd gehallten werden, ausgenommen der puncten und articulen, so <br/>
+<span class="lineNumber">106</span>in disem vertrag uffgehaben<a class="fnNumber" href="#F_40" id="A_40">40</a>, geenndert unnd limitiert sein.
+<span class="lineNumber">107</span><span class="article_added">[Art. 7]</span> Und demnach in dero von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e2118">Braunschweig</button> privilegio begriffen, wer <br/>
+<span class="lineNumber">108</span>in der Statt <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e2123">Braunschweig</button> vogt<a class="fnNumber" href="#F_41" id="A_41">41</a> ist, das derselbig soll richten in unnd ausser-<br/>
+<span class="lineNumber">109</span>halb der Statt, so ferrn ire vihetrifft<a class="fnNumber" href="#F_42" id="A_42">42</a> unnd lanndwehr<a class="fnNumber" href="#F_43" id="A_43">43</a> wennden, unnd <br/>
+<span class="lineNumber">110</span>aber der vihe trifft unnd des richtens halber zwischen beiden teilen unnd <br/>
+<span class="lineNumber">111</span>derselben unnderthanen unnd verwannten mißverstanndt eingefallen<a class="fnNumber" href="#F_44" id="A_44">44</a>, <br/>
+<span class="lineNumber">112</span>so solle derselbig artickl auff ferner erkundigung unnd vergleichung <br/>
+<span class="lineNumber">113</span>zwischen hier und schirsten<a class="fnNumber" href="#F_45" id="A_45">45</a> Pfingsten eingestellt sein.
+<span class="lineNumber">114</span><span class="article_added">[Art. 8]</span> So ist auch zwischen hochge-<br/>
+<span class="lineNumber">115</span>dachten <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2182">Herzogen Heinrichen</button> etc. und denen von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e2185">Braunschweig</button> abgeredt <br/>
+<span class="lineNumber">116</span>unnd bewilliget, das hoch und vilgemeltem <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2191">Herzogen Heinrichen</button> unnd <br/>
+<span class="lineNumber">117</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2195">Seiner furstlichen gnaden</button> erben und erbnemmen die mey bethe, herbst <br/>
+<span class="lineNumber">118</span>bette, kuebethe, haber bethe,<a class="fnNumber" href="#F_46" id="A_46">46</a> tormans und jegergellt,<a class="fnNumber" href="#F_47" id="A_47">47</a> wie das itzunder ge- <br/>
+<span class="lineNumber">119</span>nommen wirdet, gelassen werden sollen.
+<span class="lineNumber">120</span><span class="article_added">[Art. 9]</span> Belan-<br/>
+<span class="lineNumber">121</span>gent aber die wochentliche diennst, ist beredt unnd bewilliget, das dero von <br/>
+<span class="lineNumber">122</span><button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e2229">Braunschweig</button> unnd irer burger, auch irer Kirchen, Closter und Hospital <br/>
+<span class="lineNumber">123</span>Meyer<a class="fnNumber" href="#F_48" id="A_48">48</a> von dennen wonnhöfen<a class="fnNumber" href="#F_49" id="A_49">49</a>, so dennselben zinspflichtig sein, hoch-<br/>
+<span class="lineNumber">124</span>gedachtem <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2256">Hertzogen Heinrichen</button> etc. und <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2259">Seiner furstlichen gnaden</button> erben <br/>
+<span class="lineNumber">125</span>wochentlich nit mehr als einen tag diennen sollen, wellichen diennst <br/>
+<span class="lineNumber">126</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2266">seiner furstlichen gnaden</button> Vogte und ambtleut nach irer gelegenheit aus <br/>
+<span class="lineNumber">127</span>zuteilen unnd zugebrauchen macht haben sollen, wann und wellicher <br/>
+<span class="lineNumber">128</span>zeit inen das am bequembsten unnd bessten ist.
+<span class="lineNumber">129</span>Es sollen auch die-<br/>
+<span class="lineNumber">130</span>selben diennst den leuten zu rechter Zeit angesaget unnd verkundiget <br/>
+<span class="lineNumber">131</span>werden, alles einem jeden teil an seinen privilegien, hergebrachtem <br/>
+<span class="lineNumber">132</span>gebrauch, ober und gerechtigkeiten unschedlich, dartzu will unnd soll <br/>
+<span class="lineNumber">133</span>hochgedachter <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2292">Hertzog Heinrich</button> etc. die gnedige fursehung thun<a class="fnNumber" href="#F_50" id="A_50">50</a>, das die leute <br/>
+<span class="lineNumber">134</span>an denn orttern, dar diennstgelt genommen wirt, von wegen der dienst <br/>
+<span class="lineNumber">135</span>sich mit fugen<a class="fnNumber" href="#F_51" id="A_51">51</a> nit sollen zubeschweren haben.
+<span class="lineNumber">136</span><span class="article_added">[Art. 10]</span> Nachdem auch die anndern lanndstende zu ablegung itziger <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2312">hertzogen </button><br/>
+<span class="lineNumber">137</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2312">Heinrichs</button> und des <button class="entity #braunschweig_wolfenbuettel_fuerstentum place" data-ref="braunschweig_wolfenbuettel_fuerstentum" data-type="place" id="d2e2317">Furstenthumbs</button> schulden (die sich dannoch uber drey-<br/>
+<span class="lineNumber">138</span>malhundert tausent goltgulden nicht erstreken sollen) etzliche schatzungen<a class="fnNumber" href="#F_52" id="A_52">52</a>, <br/>
+<span class="lineNumber">139</span>als nemlich die topelte lanndsteur, Schaff, Kirchen, Byn- oder immen-<br/>
+<span class="lineNumber">140</span>schatzung, Scheffel gellt<a class="fnNumber" href="#F_53" id="A_53">53</a>, Bier ziese<a class="fnNumber" href="#F_54" id="A_54">54</a> unnd denn dritten pfennig<a class="fnNumber" href="#F_55" id="A_55">55</a> von allen <br/>
+<span class="lineNumber">141</span>jerlichen gelltzinsen eingereumet und bewilliget, dartzu auch ein <br/>
+<span class="lineNumber">142</span>ausschuß verordent, durch wellichen solliche schatzungen ingenommen <br/>
+<span class="lineNumber">143</span>unnd die schulden abgelegt werden sollen,
+<span class="lineNumber">144</span>unnd aber die <br/>
+<span class="lineNumber">145</span>von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e2362">Braunschweig</button> sich des Scheffelgeldes, Bierzieß und dritten pfen-<br/>
+<span class="lineNumber">146</span>inges der gelltzins zum hochsten beschwert und geweigert, ist diser Ar-<br/>
+<span class="lineNumber">147</span>tickl dahin gerichtet, das hochgedachter <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2380">Hertzog Heinrich</button> furderlich, <br/>
+<span class="lineNumber">148</span>unnd zum lengsten zwischen hier unnd negstkomend Fastnacht, der <br/>
+<span class="lineNumber">149</span>landstennde verordenten ausschuß gegen <button class="entity #salzdahlum place" data-ref="salzdahlum" data-type="place" id="d2e2387">Soltalem</button> zusammen beschrei-<br/>
+<span class="lineNumber">150</span>ben<a class="fnNumber" href="#F_56" id="A_56">56</a> solle, alda die von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e2399">Braunschweig</button> aus irem mittel auch etliche, so <br/>
+<span class="lineNumber">151</span>datzu genugsamen bevelch<a class="fnNumber" href="#F_57" id="A_57">57</a> haben sollen, sich mit denselben ausschuß <br/>
+<span class="lineNumber">152</span>nach aller notturfft<a class="fnNumber" href="#F_58" id="A_58">58</a> zu unnderreden, der verganngenen unnd zu-<br/>
+<span class="lineNumber">153</span>kunfftigen Schatzungen rechnung zutzelegen und auf die wege zuver-<br/>
+<span class="lineNumber">154</span>gleichen, dadurch denn oben außgedruckten schulden der dreymal-<br/>
+<span class="lineNumber">155</span>hundert tausent goltgulden mit wenigster beschwernis konne oder <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="Bs_1553_04.png" id="p-Bl. 2v"> [Blatt: Bl. 2<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">156</span>moge abgeholffen werden, doch das sich solliche weg (so etwo bedacht <br/>
+<span class="lineNumber">157</span>werden mochten) mit den zuuor bewilligten Steurn in der jerlichen <br/>
+<span class="lineNumber">158</span>Summa ungeverlich vergleichen.
+<span class="lineNumber">159</span>Im fall aber, das sy <br/>
+<span class="lineNumber">160</span>mit dem ausschuss nicht durchaus uff eine richtige einhellige, meyn-<br/>
+<span class="lineNumber">161</span>ung kommen, sonder in einem oder mehr puncten discordiren unnd <br/>
+<span class="lineNumber">162</span>zwispeltig bleiben wurden, soll ein jeder die vorglaufne bedenncken<a class="fnNumber" href="#F_59" id="A_59">59</a> zu-<br/>
+<span class="lineNumber">163</span>ruck an die gelanngen lassen, von dennen er zum ausschuß verordent, <br/>
+<span class="lineNumber">164</span>unnd sich bey dennselben weitters bevelchs erholen<a class="fnNumber" href="#F_60" id="A_60">60</a> unnd alsdann uff <br/>
+<span class="lineNumber">165</span>einen bestimbten tag wider zusamen komen, die Stimen gegeneinander <br/>
+<span class="lineNumber">166</span>hallten unnd entlich schliessen<a class="fnNumber" href="#F_61" id="A_61">61</a>.
+<span class="lineNumber">167</span>Es hat aber dannoch hoch-<br/>
+<span class="lineNumber">168</span>gedachter Furst <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2494">Hertzog Heinrich</button> bedinget, das <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2497">Sein furstlich gnad</button> <br/>
+<span class="lineNumber">169</span>mitterweill unnd biß zu sollicher vergleichung an der Landstennde <br/>
+<span class="lineNumber">170</span>beschehener bewilligung des Scheffelgellts, Bierzieß unnd dritten Pfen-<br/>
+<span class="lineNumber">171</span>inges von dem Geltzinsen dieselbigen eintzunemmen nichts be-<br/>
+<span class="lineNumber">172</span>geben haben wollen.
+<span class="lineNumber">173</span><span class="article_added">[Art. 11]</span> Do auch in <br/>
+<span class="lineNumber">174</span>kunfftigen zeitten, und nach ablegung der itzigen schulden, solliche <br/>
+<span class="lineNumber">175</span>lanndes obligen und nott furfallen wurden, die ferner Contribution <br/>
+<span class="lineNumber">176</span>unnd schatzungen bedurffen wurden, so wollen die von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e2533">Braunschweig</button> <br/>
+<span class="lineNumber">177</span>auf gewonndlich erfordern, neben anndern Stennden, uff den Lannd-<br/>
+<span class="lineNumber">178</span>tagen erscheinen, die fursteennden<a class="fnNumber" href="#F_62" id="A_62">62</a> sachen not und obligen mit dem <br/>
+<span class="lineNumber">179</span>bessten bewegen, auch rathen, schliessen<a class="fnNumber" href="#F_63" id="A_63">63</a> und helffen, das jeder Zeit <br/>
+<span class="lineNumber">180</span>dem Lanndesfursten und dem Lannde zum bessten kommen unnd ge-<br/>
+<span class="lineNumber">181</span>reichen möge,
+<span class="lineNumber">182</span><span class="article_added">[Art. 12]</span> Die Lanndtag aber <br/>
+<span class="lineNumber">183</span>sollen, wie es von allters in ubung unnd gebrauch gewesen (do <br/>
+<span class="lineNumber">184</span>sonnst nicht annder ehehaffte<a class="fnNumber" href="#F_64" id="A_64">64</a> ursach furfallen wurden), zu jeder zeit <br/>
+<span class="lineNumber">185</span>zu <button class="entity #salzdahlum place" data-ref="salzdahlum" data-type="place" id="d2e2581">Soltalem</button> gehallten unnd einer aus deren von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e2584">Braunschweig</button> mitten <br/>
+<span class="lineNumber">186</span>nit allein zu itzigem, sonnder auch zu kunfftigen usschussen jeder <br/>
+<span class="lineNumber">187</span>zeit getzogen unnd einem jeden, sein Stim oder votum frey, unbefahrt <br/>
+<span class="lineNumber">188</span>unnd one forcht einiger ungnad eintzubringen, gestattet unnd nach-<br/>
+<span class="lineNumber">189</span>gelassen werden.
+<span class="lineNumber">190</span><span class="article_added">[Art. 13]</span> Unnd so offt-<br/>
+<span class="lineNumber">191</span>gedachtem <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2614">Hertzogen Heinrichen</button> unnd <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2617">Seiner furstlichen gnaden</button> <br/>
+<span class="lineNumber">192</span>erben von denen von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e2623">Braunschweig</button> neben andern Stenden des <button class="entity #braunschweig_wolfenbuettel_fuerstentum place" data-ref="braunschweig_wolfenbuettel_fuerstentum" data-type="place" id="d2e2626">Fursten-</button><br/>
+<span class="lineNumber">193</span><button class="entity #braunschweig_wolfenbuettel_fuerstentum place" data-ref="braunschweig_wolfenbuettel_fuerstentum" data-type="place" id="d2e2626">thumbs</button> Steur unnd Schatzungen eingereumbt unnd bewilliget wer-<br/>
+<span class="lineNumber">194</span>den, sollen inen unnd gemeiner Lanndschafft sembtlich, dagegen <br/>
+<span class="lineNumber">195</span>Reversal<a class="fnNumber" href="#F_65" id="A_65">65</a>, ungeverlich<a class="fnNumber" href="#F_66" id="A_66">66</a> in allter gewondlicher form, oder wie man <br/>
+<span class="lineNumber">196</span>sich derhalben einer notel am fuglichsten vergleichen kan, zugestellt <br/>
+<span class="lineNumber">197</span>unnd gegeben werden,
+<span class="lineNumber">198</span><span class="article_added">[Art. 14]</span> Mit denn brüchen<a class="fnNumber" href="#F_67" id="A_67">67</a> <br/>
+<span class="lineNumber">199</span>oder pußgelde sollen dero von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e2666">Braunschweig</button> meyer vor anndern <br/>
+<span class="lineNumber">200</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2671">Hertzogen Heinrichs</button> unnderthanen nicht ußgemalet<a class="fnNumber" href="#F_68" id="A_68">68</a> oder beschwert, <br/>
+<span class="lineNumber">201</span>sonnder darinn allenthalben geburliche gleicheit und ungeverliche <br/>
+<span class="lineNumber">202</span>maß gehallten werden.
+<span class="lineNumber">203</span><span class="article_added">[Art. 15]</span> Es sollen <br/>
+<span class="lineNumber">204</span>auch dero von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e2690">Braunschweig</button> meyer und underthanen in denn <br/>
+<span class="lineNumber">205</span>Gerichten, die sy itzo haben unnd kunfftigclich haben und behalten <br/>
+<span class="lineNumber">206</span>werden, (wie von allters) des Lanndsfursten halben, mit Bethen<a class="fnNumber" href="#F_69" id="A_69">69</a> <br/>
+<span class="lineNumber">207</span>unnd diennsten verschont und unbeschwert bleiben,
+<span class="lineNumber">208</span><span class="article_added">[Art. 16]</span> Unnd ist auch weitter beredt, das die von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e2710">Braunschweig</button> also baldt <br/>
+<span class="lineNumber">209</span>des Gerichtes Aich,<a class="fnNumber" href="#F_70" id="A_70">70</a> gegen erlegung des pfanndt oder kauffgellts, <br/>
+<span class="lineNumber">210</span>als nemblich funfftausent goltgulden, die sy von der vertrags-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="Bs_1553_05.png" id="p-Bl. 3r"> [Blatt: Bl. 3<span class="rectoVerso">r</span> ] </button><br/>
+<span class="lineNumber">211</span>summa abtziehen sollen, abtretten unnd Seiner Furstlichen gnaden mit <br/>
+<span class="lineNumber">212</span>heraußgebung daruber inhabender verschreibung widerumb einant-<br/>
+<span class="lineNumber">213</span>worten<a class="fnNumber" href="#F_71" id="A_71">71</a> sollen und wollen.
+<span class="lineNumber">214</span><span class="article_added">[Art. 17]</span> Wiewoll <br/>
+<span class="lineNumber">215</span>auch hochgedachter <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2754">Hertzog Heinrich</button> die Gerichte Asseburg und Vecheld <br/>
+<span class="lineNumber">216</span>gleicher gestallt wie das Gericht Aich als widerkeufflich oder widerlo-<br/>
+<span class="lineNumber">217</span>sig angesprochen,<a class="fnNumber" href="#F_72" id="A_72">72</a> so haben doch die von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e2773">Braunschweig</button> daran <br/>
+<span class="lineNumber">218</span>keiner lose oder widerkauffs gestenndig<a class="fnNumber" href="#F_73" id="A_73">73</a> sein wollen, derhalben <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2781">Sein </button><br/>
+<span class="lineNumber">219</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2781">furstlich gnad</button> fur sich unnd iro Erben inen daran alle unnd jede <br/>
+<span class="lineNumber">220</span>spruch<a class="fnNumber" href="#F_74" id="A_74">74</a>, forderung, action<a class="fnNumber" href="#F_75" id="A_75">75</a>, mittel und weg, so dennselben von Rechts-<br/>
+<span class="lineNumber">221</span>wegen geburn konnen, dargegen vorbehallten, wie dann also <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2802">Seine </button><br/>
+<span class="lineNumber">222</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2802">furstliche gnad</button> iro und derselben Erben dieselbigen hiemit austrucklich <br/>
+<span class="lineNumber">223</span>vorbehallten wollen haben.
+<span class="lineNumber">224</span><span class="article_added">[Art. 18]</span> Was auch <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2816">Seine furstlich </button><br/>
+<span class="lineNumber">225</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2816">gnaden</button> in oder an der Statt <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e2821">Braunschweig</button> fur gerechtigkeit zu haben <br/>
+<span class="lineNumber">226</span>vermeinen, dartzu sollen <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2826">Seiner furstlichen gnaden</button> alle ire actiones, <br/>
+<span class="lineNumber">227</span>forderung und zuspruch hiemit auch reserviert unnd mit nichten abge-<br/>
+<span class="lineNumber">228</span>schnitten oder begeben sein;
+<span class="lineNumber">229</span><span class="article_added">[Art. 19]</span> als <br/>
+<span class="lineNumber">230</span>auch von <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2848">hertzog Heinrichen</button> etc. angetzogen<a class="fnNumber" href="#F_76" id="A_76">76</a>, das die von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e2854">Braunschweig</button> <br/>
+<span class="lineNumber">231</span>zu verschmellerung unnd abbruch<a class="fnNumber" href="#F_77" id="A_77">77</a> <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2863">Seiner furstlichen gnaden</button> Iuris-<br/>
+<span class="lineNumber">232</span>diction unnd hohen furstlichen Oberkeit ein Statut uffgerichtet haben <br/>
+<span class="lineNumber">233</span>sollten, das kein burger, bey straff zweyhundert gulden, an <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2875">Seine furst-</button><br/>
+<span class="lineNumber">234</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2875">liche gnaden</button> appeliren oder sich beruffen solle, und aber <br/>
+<span class="lineNumber">235</span>die von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e2888">Braunschweig</button> zu erhaltung solliches Statuts allerley funda-<br/>
+<span class="lineNumber">236</span>ment unnd gegenred furgewenndet, sonnderlich, das es uber hundert <br/>
+<span class="lineNumber">237</span>Jar und vil lennger in irer Statt dermassen sollt hergebracht unnd <br/>
+<span class="lineNumber">238</span>von inen nicht neu erdacht oder gemacht sein, wellichs doch inen von <br/>
+<span class="lineNumber">239</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2904">Hertzog Heinrichen</button> etc. keines wegs gestannden<a class="fnNumber" href="#F_78" id="A_78">78</a> wirdet, so ist diser Ar-<br/>
+<span class="lineNumber">240</span>tickl auff dismal außgesetzt, und jeden teil sein ius, action unnd <br/>
+<span class="lineNumber">241</span>gerechtigkeit nach seiner gelegenheit im rechten zugebrauchen vor-<br/>
+<span class="lineNumber">242</span>behalten, doch auch einem jeden teil an seinem rechten gerechtikeit <br/>
+<span class="lineNumber">243</span>und Oberkeit mitler weil unvergreifflich,
+<span class="lineNumber">244</span><span class="article_added">[Art. 20]</span> Es sollen auch <br/>
+<span class="lineNumber">245</span>die von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e2937">Braunschweig</button> <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2940">Hertzog Heinrichen</button> etc. unnd <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2943">Seiner furstlichen </button><br/>
+<span class="lineNumber">246</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2943">gnaden Erben</button> und <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2949">irer furstlichen gnaden</button> verwanntem, geist-<br/>
+<span class="lineNumber">247</span>lichen und weltlichen, an iren Renthen, zinsen unnd gefellenn<a class="fnNumber" href="#F_79" id="A_79">79</a> <br/>
+<span class="lineNumber">248</span>mit der thatt unnd ausserhalb rechtens keine verhinderung thun, <br/>
+<span class="lineNumber">249</span>oder thun lassen, in keinerley weis oder wege, desgleichen <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2966">Seine </button><br/>
+<span class="lineNumber">250</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e2966">furstliche gnaden</button> hinwiderumb gegen denen von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e2972">Braunschweig</button> <br/>
+<span class="lineNumber">251</span>und den iren auch nit annders thun will, unnd soll in alleweg <br/>
+<span class="lineNumber">252</span>ein teil dem anndern, auch allen desselben underthanen unnd <br/>
+<span class="lineNumber">253</span>verwannten, wider menigclich<a class="fnNumber" href="#F_80" id="A_80">80</a>, dessen er zu recht mechtig sein <br/>
+<span class="lineNumber">254</span>kan, geburliches rechtens verhelffen unnd sich in keinerley ge-<br/>
+<span class="lineNumber">255</span>suchten schein darwider schutzen oder uffhallten.
+<span class="lineNumber">256</span><span class="article_added">[Art. 21]</span> Belangent die gütter <button class="entity #sankt_aegidius place" data-ref="sankt_aegidius" data-type="place" id="d2e3001">Sancti Egidi</button><a class="fnNumber" href="#F_81" id="A_81">81</a> sollen eines jeden teils Curra-<br/>
+<span class="lineNumber">257</span>tores in dem besitz unnd uffnam<a class="fnNumber" href="#F_82" id="A_82">82</a> sollicher gutter, Renth, Zins, <br/>
+<span class="lineNumber">258</span>Zehenden unnd malter<a class="fnNumber" href="#F_83" id="A_83">83</a> bleiben, wie sy die sechs negst vergangne <br/>
+<span class="lineNumber">259</span>jar hero gewesen, unnd mittlerweill durch beide teilhandlung <br/>
+<span class="lineNumber">260</span>unnd vergleichung furgenommen werden, wie es hinfuro mit <br/>
+<span class="lineNumber">261</span>sollichen guttern Renthen unnd Zinsen gehallten soll werden.
+<span class="lineNumber">262</span><span class="article_added">[Art. 22]</span> Dieweil die von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e3046">Braunschweig</button> auch furgeben, das inen der halbe theill <br/>
+<span class="lineNumber">263</span>der Vogteyen, Gerichte, freyheiten unnd gerechtigkeiten in der Burck <br/>
+<span class="lineNumber">264</span>unnd uff dem Berg <button class="entity #sankt_cyriacus place" data-ref="sankt_cyriacus" data-type="place" id="d2e3053">Sancti Ciriaci</button>, in und vor der <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e3057">Statt</button> gelegen, zusten-<br/>
+<span class="lineNumber">265</span>dig, unnd das sy lannge Jar in Possession vel quasi solliches halben <br/>
+<span class="lineNumber">266</span>teils gewesen sein, auch jeder zeit einen Vogt neben <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3069">Hertzogen Heinrichs</button> <br/>
+<span class="lineNumber">267</span>verordenten vogt gehabt haben sollen, dessen aber hochermelter <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3074">Hertzog </button><br/>
+<span class="lineNumber">268</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3074">Heinrich</button> nit gestendig, haben sy bewilliget, zum furderlichsten vor <br/>
+<span class="lineNumber">269</span>zweyen Prelatten<a class="fnNumber" href="#F_84" id="A_84">84</a>, zweyen von der Ritterschafft unnd zweien von denn <br/>
+<span class="lineNumber">270</span>Stetten dises <button class="entity #braunschweig_wolfenbuettel_fuerstentum place" data-ref="braunschweig_wolfenbuettel_fuerstentum" data-type="place" id="d2e3087">Furstenthumbs</button>, deren sich beide teil also baldt vergleichen <br/>
+<span class="lineNumber">271</span>sollen, ire lanng hergebrachte Possession vel quasi, wie sich geburtt, <br/>
+<span class="lineNumber">272</span>zubescheinen<a class="fnNumber" href="#F_85" id="A_85">85</a> unnd außzufuhren<a class="fnNumber" href="#F_86" id="A_86">86</a>, mitlerweil aber auch einem jeden <br/>
+<span class="lineNumber">273</span>teil an seinem gebrauch, wie er denn hergebracht haben mag, auch <br/>
+<span class="lineNumber">274</span>rechten unnd gerechtigkeit unnachteilig unnd unvergreifflich, <br/>
+<span class="lineNumber">275</span>so will auch <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3107">Hertzog Hein-</button><br/>
+<span class="lineNumber">276</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3107">rich</button> etc. gnediclich verhueten, das in der Kirchen <button class="entity #sankt_blasius place" data-ref="sankt_blasius" data-type="place" id="d2e3117">Sancti Blasii</button>, vor <br/>
+<span class="lineNumber">277</span>obvermelter vergleichung der Religion sachen, durch enderung <br/>
+<span class="lineNumber">278</span>der Ceremonien zum auflauff<a class="fnNumber" href="#F_87" id="A_87">87</a> oder Rumor<a class="fnNumber" href="#F_88" id="A_88">88</a> des gemeinen Mans <br/>
+<span class="lineNumber">279</span>kein ursach gegeben werden moge.<a class="fnNumber" href="#F_89" id="A_89">89</a>
+<span class="lineNumber">280</span><span class="article_added">[Art. 23]</span> Des Ge-<br/>
+<span class="lineNumber">281</span>leitens halber ist auch beredt, das <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3161">hertzog Heinrich</button> etc. durch die land-<br/>
+<span class="lineNumber">282</span>wehr biß an die Schlagbeume vor der Statt thor Gleitten<a class="fnNumber" href="#F_90" id="A_90">90</a> moge, <br/>
+<span class="lineNumber">283</span>daran die von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e3177">Braunschweig</button> <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3180">Seine furstlichen gnaden</button> unnd der<br/>
+<span class="lineNumber">284</span>selben erben kein eintracht<a class="fnNumber" href="#F_91" id="A_91">91</a> thun sollen noch wollen, was aber das <br/>
+<span class="lineNumber">285</span>gleitten in unnd durch die <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e3194">Statt</button> belangt, ist beredet, das beide teil <br/>
+<span class="lineNumber">286</span>zwischen hie und negsten Ostern zusamen kommen unnd daruber <br/>
+<span class="lineNumber">287</span>sich ferner güttlich vereinigen und vergleichen sollen, doch mitler <br/>
+<span class="lineNumber">288</span>weill jedem teil an seiner gerechtigkeit in alleweg unschedlich. <br/>
+<span class="lineNumber">289</span>Es sollen aber <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3205">Sein furstlich gnad</button> des Raths und der Statt <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e3209">Braun-</button><br/>
+<span class="lineNumber">290</span><button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e3209">schweig</button> feinde unnd widerwerttigen<a class="fnNumber" href="#F_92" id="A_92">92</a> in der Lanndwehr nicht sichern <br/>
+<span class="lineNumber">291</span>noch gleitten.
+<span class="lineNumber">292</span><span class="article_added">[Art. 24]</span> Wann auch <br/>
+<span class="lineNumber">293</span>denen von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e3231">Braunschweig</button> in vil hochgedachtes <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3234">Hertzogen Heinrichs</button> etc. <br/>
+<span class="lineNumber">294</span>lannde von den ambtleuten zu mordern, raubern, dieben unnd <br/>
+<span class="lineNumber">295</span>anndern ubelthettern geburlichs rechten verholffen mag werden, <br/>
+<span class="lineNumber">296</span>wie dann <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3244">Sein furstliche gnad</button> dasselbige mit ernnst und besstem <br/>
+<span class="lineNumber">297</span>fleiß zuverordnen unnd zubevelhen erbuttig, so sollen sy <br/>
+<span class="lineNumber">298</span>dieselben an denn orttern, do sye angetroffen, den Gerichten uber-<br/>
+<span class="lineNumber">299</span>anntwortten unnd daselbs wider sye mit recht volfahrn, das <br/>
+<span class="lineNumber">300</span>inen auch zum schleunigsten mitgetheillt soll werden, im fall <br/>
+<span class="lineNumber">301</span>aber, das inen solliche rechtliche hilff geweigert, oder wie sichs ge-<br/>
+<span class="lineNumber">302</span>burtt nicht mitgetheilt werden wollt, (als doch mit nichten zu <br/>
+<span class="lineNumber">303</span>befahren, soll inen an irem privilegio nichts benomen, sonder <br/>
+<span class="lineNumber">304</span>dasselbig, wie von allters, zugebrauchen vorbehalten sein, <br/>
+<span class="lineNumber">305</span>doch <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3277">Seiner furstlichen gnaden</button> auch an irer lanndsfurst-<br/>
+<span class="lineNumber">306</span>lichen hoch unnd Oberkeitten unschedlich.
+<span class="lineNumber">307</span><span class="article_added">[Art. 25]</span> Unnd demnach sich auch etzlicher Schefferey<a class="fnNumber" href="#F_93" id="A_93">93</a> halber in dem <br/>
+<span class="lineNumber">308</span><button class="entity #braunschweig_wolfenbuettel_fuerstentum place" data-ref="braunschweig_wolfenbuettel_fuerstentum" data-type="place" id="d2e3303">Furstenthumb</button> zwischen beiden teilen irrung erhallten, hatt <br/>
+<span class="lineNumber">309</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3307">Hertzog Heinrich</button> etc. bewilliget, derhalben ein solliches gebur-<br/>
+<span class="lineNumber">310</span>lichs einsehens<a class="fnNumber" href="#F_94" id="A_94">94</a> zethun, das in demselben mit dem treiben <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="Bs_1553_07.png" id="p-B. 4r"> [Blatt: B. 4<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">311</span>ein geburliche maß gehallten werde unnd die armut auch derwegen <br/>
+<span class="lineNumber">312</span>unverdorben bleiben moge, wo aber daruber irrung fürfielle, oder <br/>
+<span class="lineNumber">313</span>ein teil denn anndern unbesprochen<a class="fnNumber" href="#F_95" id="A_95">95</a> nit lassen konte, soll es in der <br/>
+<span class="lineNumber">314</span>gutte oder zu rechte außgefueret unnd mit der thatt des halben <br/>
+<span class="lineNumber">315</span>nichts furgenommen, noch attentiert werden.
+<span class="lineNumber">316</span><span class="article_added">[Art. 26]</span> Der weg bey der neuen <br/>
+<span class="lineNumber">317</span>Prucken soll denn dorffern <button class="entity #gross_denkte place" data-ref="gross_denkte" data-type="place" id="d2e3346">grossen</button> und <button class="entity #klein_denkte place" data-ref="klein_denkte" data-type="place" id="d2e3349">kleinen Denckten</button>, <button class="entity #remlingen place" data-ref="remlingen" data-type="place" id="d2e3352">Remlinck</button>, <br/>
+<span class="lineNumber">318</span><button class="entity #wittmar place" data-ref="wittmar" data-type="place" id="d2e3357">Wittmer</button> unnd <button class="entity #sottmar place" data-ref="sottmar" data-type="place" id="d2e3360">Sottmer</button> unnd denen von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e3363">Braunschweig</button>, so der ortter <br/>
+<span class="lineNumber">319</span>zuschaffen haben, wie von allters offen unnd unverspert bleiben, <br/>
+<span class="lineNumber">320</span>doch das dahin keine zollbare gutter gefueret, getriben oder getragen <br/>
+<span class="lineNumber">321</span>werden, darauff die von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e3373">Braunschweig</button> neben <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3376">hertzogen Heinrichs</button> etc. <br/>
+<span class="lineNumber">322</span>bestallten diennern durch die iren gutt ufsehen, unnd wo jemands <br/>
+<span class="lineNumber">323</span>straffbar befunden, denselben anhallten<a class="fnNumber" href="#F_96" id="A_96">96</a> und zur gebur<a class="fnNumber" href="#F_97" id="A_97">97</a> weisen lassen <br/>
+<span class="lineNumber">324</span>wollen,
+<span class="lineNumber">325</span><span class="article_added">[Art. 27]</span> Es sollen und <br/>
+<span class="lineNumber">326</span>wollen auch die von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e3401">Braunschweig</button> <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3404">Seiner furstlichen gnaden</button> die <br/>
+<span class="lineNumber">327</span>Kasten mit den Sigeln, Brieffen, Registern und urkunden, so dar-<br/>
+<span class="lineNumber">328</span>innen sein unnd in einnemmung<a class="fnNumber" href="#F_98" id="A_98">98</a> des hauses <button class="entity #wolfenbuettel place" data-ref="wolfenbuettel" data-type="place" id="d2e3420">Wulffenbuttel</button> <br/>
+<span class="lineNumber">329</span>gefunden und bey inen von <button class="entity #johann_friedrich_sachsen person" data-ref="johann_friedrich_sachsen" data-type="person" id="d2e3425">Johanns Fridrichen</button>, Hertzogen zu Sachssen, <br/>
+<span class="lineNumber">330</span>unnd dem <button class="entity #philipp_hessen person" data-ref="philipp_hessen" data-type="person" id="d2e3431">Lanndgraven zu Hessen</button> deponiert worden, gegen <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3434">Seiner </button><br/>
+<span class="lineNumber">331</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3434">furstlichen gnaden</button> selbst genugsamen<a class="fnNumber" href="#F_99" id="A_99">99</a> von dato an-<br/>
+<span class="lineNumber">332</span>zurechnen in monnats frist widerumb geben, zustellen, und ein-<br/>
+<span class="lineNumber">333</span>anntwortten.
+<span class="lineNumber">334</span>das die von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e3467">Braunschweig</button> vill unnd hochgemelltem fursten, <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3470">Her-</button><br/>
+<span class="lineNumber">335</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3470">tzogen Heinrichen</button> etc., <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3479">Seiner furstlichen gnaden</button> erben unnd erb-<br/>
+<span class="lineNumber">336</span>nemen vor alle die kosten unnd scheden, die sy <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3490">Seiner furstlichen </button><br/>
+<span class="lineNumber">337</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3490">gnaden</button>, auch derselben Clostern und Kirchen <button class="entity #abtei_riddagshausen place" data-ref="abtei_riddagshausen" data-type="place" id="d2e3495">Rittershausen</button>, <button class="entity #stift_steterburg place" data-ref="stift_steterburg" data-type="place" id="d2e3498">Stetter-</button><br/>
+<span class="lineNumber">338</span><button class="entity #stift_steterburg place" data-ref="stift_steterburg" data-type="place" id="d2e3498">burg</button>, <button class="entity #sankt_cyriacus place" data-ref="sankt_cyriacus" data-type="place" id="d2e3506">Ciriaci</button> unnd anndern <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3509">Seiner furstlichen gnaden</button> geistlichen <br/>
+<span class="lineNumber">339</span>unnd welltlichen Rethen, dienern, verwannten und underthan-<br/>
+<span class="lineNumber">340</span>en, in unnd ausserhalb, bisher geubter Kriegshanndlung zuge-<br/>
+<span class="lineNumber">341</span>fugt haben sollen, achtzigk thausent taler uff funff termin, <br/>
+<span class="lineNumber">342</span>als nemlich zwenntzig tausent taler auf negstkunfftigen Neuen <br/>
+<span class="lineNumber">343</span>Jarstag, daran die obbestimbten funfftausent goltgulden, lautt <br/>
+<span class="lineNumber">344</span>derhalben gesatzten Articuls, abgetzogen werden sollen, und volgents <br/>
+<span class="lineNumber">345</span>im Jar, wann man der wenigern zall funffundfunfftzig schreiben <br/>
+<span class="lineNumber">346</span>wirdet, abermals uff den neuen Jarstag funfftzehen tausent <br/>
+<span class="lineNumber">347</span>taler, unnd dann uff den neuen Jarstag des Sechsundfunff-<br/>
+<span class="lineNumber">348</span>tzigsten Jars widerumb funfftzehentausent taler, item vol-<br/>
+<span class="lineNumber">349</span>gendes im sibenundunfftzigsten Jar abermals auff denn <br/>
+<span class="lineNumber">350</span>Neuen Jarstag funfftzehentausent taler, unnd dann lestlich <br/>
+<span class="lineNumber">351</span>im achtunndfunfftzigsten Jar, der wenigern Zall nach der ge-<br/>
+<span class="lineNumber">352</span>burt Christi zurechnen, zuverrichtung des lesten Termins <br/>
+<span class="lineNumber">353</span>unnd volnkomener betzallung bestimbter vertrags Summa, <br/>
+<span class="lineNumber">354</span>die ubrigen funfftzehentausent taler, jedesmals zu <button class="entity #wolfenbuettel place" data-ref="wolfenbuettel" data-type="place" id="d2e3587">Wulffen-</button><br/>
+<span class="lineNumber">355</span><button class="entity #wolfenbuettel place" data-ref="wolfenbuettel" data-type="place" id="d2e3587">buttel</button>, gegen geburliche Quittantz entrichten und betzallen <br/>
+<span class="lineNumber">356</span>sollen und wollen.
+<span class="lineNumber">357</span><span class="article_added">[Art. 29]</span> Dargegen wollen <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3605">Seine Furstlich gnad</button>, alsbald nach volntzogenem <br/>
+<span class="lineNumber">358</span>vertrag, alle ire obangezogne scheden, auch alle unnd jede proceß, <br/>
+<span class="lineNumber">359</span>so derohalben <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3612">Sein furstlich gnad</button> am keiserlichen Cammerge-<br/>
+<span class="lineNumber">360</span>richt furgenommen, zusambt dem Lehengericht, gnediclich fallen <br/>
+<span class="lineNumber">361</span>lassen, causae et liti remunctiren, auch daran unnd darob sein, <br/>
+<span class="lineNumber">362</span>das alle <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3627">Seiner furstlichen gnaden</button> geistliche und welltliche under-<br/>
+<span class="lineNumber">363</span>thanen, Rethe, diener und verwannten, sonnderlich aber der Abbt <br/>
+<span class="lineNumber">364</span>unnd Convent des Closters <button class="entity #abtei_riddagshausen place" data-ref="abtei_riddagshausen" data-type="place" id="d2e3640">Rittershausen</button>, domina und Convent <br/>
+<span class="lineNumber">365</span>zu <button class="entity #stift_steterburg place" data-ref="stift_steterburg" data-type="place" id="d2e3645">Stetterburg</button>, unnd die Capittelsherrn <button class="entity #sankt_cyriacus place" data-ref="sankt_cyriacus" data-type="place" id="d2e3648">Sancti Ciriaci</button> ire <br/>
+<span class="lineNumber">366</span>furgenomene proceß unnd angezogen scheden gleicher gestallt <br/>
+<span class="lineNumber">367</span>fallen lassen und sich derselben begeben<a class="fnNumber" href="#F_100" id="A_100">100</a> sollen. Dergleichen <br/>
+<span class="lineNumber">368</span>wollen die von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e3661">Braunschweig</button>, die iren, so in disen kriegen unnd <br/>
+<span class="lineNumber">369</span>irrungen beschediget sein mogen, auch zu friden stellen unnd <br/>
+<span class="lineNumber">370</span>contentiren<a class="fnNumber" href="#F_101" id="A_101">101</a>.
+<span class="lineNumber">371</span><span class="article_added">[Art. 30]</span> Unnd mehr, so <br/>
+<span class="lineNumber">372</span>hat auch <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3680">Hertzog Heinrich</button> etc. bewilliget, das <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3683">Seine furstlich gnad</button> <br/>
+<span class="lineNumber">373</span>bey iren ambten gnediclichen verfugen unnd verordnen wollen, <br/>
+<span class="lineNumber">374</span>das dero von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e3691">Braunschweig</button> unnd irer burger meyer mit gwallt <br/>
+<span class="lineNumber">375</span>wider sy nicht erhallten oder gesterkt werden sollen, doch das <br/>
+<span class="lineNumber">376</span>die von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e3698">Braunschweig</button> hinwiderumb sie uber allt herkommen <br/>
+<span class="lineNumber">377</span>und gebrauch mit den Malltern und Zinsen zur unbillicheit nicht <br/>
+<span class="lineNumber">378</span>steigern. Auch sollen und wollen die von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e3706">Braunschweig</button> die meyer <br/>
+<span class="lineNumber">379</span>unnd Kothoff<a class="fnNumber" href="#F_102" id="A_102">102</a> untzerrissen unnd ungeteillet lassen.
+<span class="lineNumber">380</span><span class="article_added">[Art. 31]</span> <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3721">Hertzog Heinrich</button> etc. hat auch be-<br/>
+<span class="lineNumber">381</span>williget, das <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3731">Seine furstlich gnad</button> die burger von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e3734">Braunschweig</button>, <br/>
+<span class="lineNumber">382</span>so von <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3740">Seiner furstlichen gnaden</button> lehen haben, widerumb nach den <br/>
+<span class="lineNumber">383</span>fellen<a class="fnNumber" href="#F_103" id="A_103">103</a> belehnen wollen, unnd das sy mit der Lehenwar<a class="fnNumber" href="#F_104" id="A_104">104</a> wider die <br/>
+<span class="lineNumber">384</span>billicheit<a class="fnNumber" href="#F_105" id="A_105">105</a> unnd allten gebrauch nicht beschwert werden sollen.
+<span class="lineNumber">385</span><span class="article_added">[Art. 32]</span>Was sich auch ein teil gegen dem andern oder desselben under-<br/>
+<span class="lineNumber">386</span>thanen, burger oder Verwannten in brieffen unnd Sigelen <br/>
+<span class="lineNumber">387</span>sonnsten verschriben oder verpflichtet hette, solliches soll er in <br/>
+<span class="lineNumber">388</span>alle wege zu hallten unnd wirklich zu vollnstrecken schuldig <br/>
+<span class="lineNumber">389</span>sein, doch einem jeden seine rechtliche einsag<a class="fnNumber" href="#F_106" id="A_106">106</a>, behelff unnd <br/>
+<span class="lineNumber">390</span>exception unbenomen.
+<span class="lineNumber">391</span><span class="article_added">[Art. 33]</span> Es sollen <br/>
+<span class="lineNumber">392</span>auch alle allte unnd neue gefanngen gegeneinannder, one <br/>
+<span class="lineNumber">393</span>rantzun<a class="fnNumber" href="#F_107" id="A_107">107</a> oder entgelt, auf vorgehende allte gewonliche <br/>
+<span class="lineNumber">394</span>urfhede<a class="fnNumber" href="#F_108" id="A_108">108</a> frey unnd loß getzellt<a class="fnNumber" href="#F_109" id="A_109">109</a> werden.
+<span class="lineNumber">395</span><span class="article_added">[Art. 34]</span> Item <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3814">Hertzog Heinrich</button> etc. soll unnd will auch ob denn Strassen, <br/>
+<span class="lineNumber">396</span>das dieselben rein<a class="fnNumber" href="#F_110" id="A_110">110</a> bleiben, besstes fleiß hallten<a class="fnNumber" href="#F_111" id="A_111">111</a> lassen, unnd die <br/>
+<span class="lineNumber">397</span>von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e3828">Braunschweig</button> in und durch das <button class="entity #braunschweig_wolfenbuettel_fuerstentum place" data-ref="braunschweig_wolfenbuettel_fuerstentum" data-type="place" id="d2e3831">Furstenthumb</button> wider Recht <br/>
+<span class="lineNumber">398</span>nicht uffgehallten, sonnder frey unnd sicher passiren lassen. <br/>
+<span class="lineNumber">399</span>Dergleichen sich die von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e3838">Braunschweig</button> gegen <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3842">Hertzog Heinrichen</button> <br/>
+<span class="lineNumber">400</span>unnd <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3847">Seiner furstlichen gnaden</button> underthannen auch verhalten <br/>
+<span class="lineNumber">401</span>sollen unnd wollen.
+<span class="lineNumber">402</span><span class="article_added">[Art. 35]</span> Unnd letztlich, so soll unnd will auch <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3860">Hertzog Heinrich</button> etc., was <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3863">Sein </button><br/>
+<span class="lineNumber">403</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3863">furstlich gnad</button> denen von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e3868">Braunschweig</button> oder iren burgern an <br/>
+<span class="lineNumber">404</span>ligenden gutern, zehenden, zinsen, Renthen und gefellen, so inen <br/>
+<span class="lineNumber">405</span>von rechts wegen geburt unnd in disen kriegshanndlungen einge-<br/>
+<span class="lineNumber">406</span>tzogen haben mogen, widerumb volgen lassen<a class="fnNumber" href="#F_112" id="A_112">112</a> unnd zustellen, allein <br/>
+<span class="lineNumber">407</span>das <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3888">Seiner furstlichen gnaden</button> die biß anhero betagte<a class="fnNumber" href="#F_113" id="A_113">113</a> schatzungen <br/>
+<span class="lineNumber">408</span>darvon innegelassen<a class="fnNumber" href="#F_114" id="A_114">114</a> oder erstattet werden.
+<span class="lineNumber">409</span>Unnd <br/>
+<span class="lineNumber">410</span>hiemit sollen alle Irrungen, gebrechen<a class="fnNumber" href="#F_115" id="A_115">115</a>, Spenn, feindschafft, gram <br/>
+<span class="lineNumber">411</span>unnd zwitracht, so sich bißhero zwischen beiden teilen obgemellter <br/>
+<span class="lineNumber">412</span>sachen halber zugetragen unnd erhallten haben, oder sich sollicher <br/>
+<span class="lineNumber">413</span>verloffener hanndlung halber noch zutragen mochten, genntzlich tod <br/>
+<span class="lineNumber">414</span>unnd auffgehaben sein.
+<span class="lineNumber">415</span><span class="article_added">[Art. 36]</span> Dieweil aber auch <br/>
+<span class="lineNumber">416</span>etliche artickl hierinnen unvertragen gebliben, oder auch hinfur <br/>
+<span class="lineNumber">417</span>die partheyen Spenn unnd Irrungen gegen einannder gewynnen <br/>
+<span class="lineNumber">418</span>mochten, ist beredet, das dieselben guttlich oder in recht vermöge <br/>
+<span class="lineNumber">419</span>der austrege<a class="fnNumber" href="#F_116" id="A_116">116</a>, so hiebeuor zwischen <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e3938">Hertzogen Heinrichs</button> etc. Herrn <br/>
+<span class="lineNumber">420</span><button class="entity #heinrich_i_braunschweig_wolfenbuettel person" data-ref="heinrich_i_braunschweig_wolfenbuettel" data-type="person" id="d2e3942">vatter</button>, hochloblicher gedechtnus, unnd den Stennden dises <button class="entity #braunschweig_wolfenbuettel_fuerstentum place" data-ref="braunschweig_wolfenbuettel_fuerstentum" data-type="place" id="d2e3945">Fursten-</button><br/>
+<span class="lineNumber">421</span><button class="entity #braunschweig_wolfenbuettel_fuerstentum place" data-ref="braunschweig_wolfenbuettel_fuerstentum" data-type="place" id="d2e3945">thumbs</button> anno der wenigern zall funffe bewilligt worden,<a class="fnNumber" href="#F_117" id="A_117">117</a> oder <br/>
+<span class="lineNumber">422</span>nach inhallt der Reichsordnung, wie das einem jeden teil am <br/>
+<span class="lineNumber">423</span>bessten gelegen, entscheiden werden sollen, unnd soll dem <br/>
+<span class="lineNumber">424</span>beschwerten<a class="fnNumber" href="#F_118" id="A_118">118</a> teil von den gesprochenen urteiln an das Keiserliche <br/>
+<span class="lineNumber">425</span>Cammergericht zu appeliren frey unnd unbenommen sein, one <br/>
+<span class="lineNumber">426</span>das soll sich hinfurtter ein theil gegen dem anndern rhuig unnd <br/>
+<span class="lineNumber">427</span>fridlich ertzeigen unnd aller thettlichen hanndlungen enthallten.
+<span class="lineNumber">428</span><span class="article_added">[Art. 37]</span> Es sollen auch alle und jede <br/>
+<span class="lineNumber">429</span>beiderseitz Rethe, unnderthanen, dienner, verwannte, angehorige <br/>
+<span class="lineNumber">430</span>unnd kriegsleut, so aller diser obbenannter sachen halber, die sich <br/>
+<span class="lineNumber">431</span>zwischen beiden teilen zugetragen, in einichen weg verdacht sein, <br/>
+<span class="lineNumber">432</span>oder dartzu Rath, thatt, hilff, beystanndt, furdernus oder fur-<br/>
+<span class="lineNumber">433</span>schub gethan haben mochten, sonnderlich auch <button class="entity #brun_bothmer person" data-ref="brun_bothmer" data-type="person" id="d2e4011">Brun von Botmar</button> <br/>
+<span class="lineNumber">434</span>unnd <button class="entity #barthold_honrod person" data-ref="barthold_honrod" data-type="person" id="d2e4016">Bartold von Honrod</button>
+<span class="lineNumber">435</span>in disen <br/>
+<span class="lineNumber">436</span>vertrag, desselben zugeniessen, mit eingetzogen und aus sorgen <br/>
+<span class="lineNumber">437</span>gelassen sein, unnd sollen die Schmalkaldischen Bundtsverwan- <br/>
+<span class="lineNumber">438</span>ten, so <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e4028">Sein furstliche gnaden</button> am Keiserlichen Camergericht furge-<br/>
+<span class="lineNumber">439</span>nomen, oder noch furnemmen mochten, in disem vertrag nit <br/>
+<span class="lineNumber">440</span>verstannden werden.
+<span class="lineNumber">441</span><span class="article_added">[Art. 38]</span> Und wo sichs In <br/>
+<span class="lineNumber">442</span>kunfftigen Zeiten zutruge und begebe, das der Landsfurst, oder <br/>
+<span class="lineNumber">443</span>auch die von <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e4052">Braunschweig</button>, von jmand mutwilligs ubertzogen<a class="fnNumber" href="#F_119" id="A_119">119</a> <br/>
+<span class="lineNumber">444</span>oder bevhedet werden, unnd der Feindt im an rechten nicht benugen<a class="fnNumber" href="#F_120" id="A_120">120</a> <br/>
+<span class="lineNumber">445</span>lassen wollte, so soll eins bey dem anndern, herrn und under-<br/>
+<span class="lineNumber">446</span>thanen, treulich hallten und zusetzen<a class="fnNumber" href="#F_121" id="A_121">121</a>, unnd zu desselben errettung <br/>
+<span class="lineNumber">447</span>an ime nichts erwinden<a class="fnNumber" href="#F_122" id="A_122">122</a> lassen, wie solichs von allters ublich unnd <br/>
+<span class="lineNumber">448</span>gebreuchlich gewesen.
+<span class="lineNumber">449</span>Unnd wir, von gots gnaden, <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e4090">Heinrich der Junger</button>, Hertzog zu <button class="entity #braunschweig_wolfenbuettel_fuerstentum place" data-ref="braunschweig_wolfenbuettel_fuerstentum" data-type="place" id="d2e4093">Brun-</button><br/>
+<span class="lineNumber">450</span><button class="entity #braunschweig_wolfenbuettel_fuerstentum place" data-ref="braunschweig_wolfenbuettel_fuerstentum" data-type="place" id="d2e4093">schweig unnd Lunneburg</button> etc., unnd wir, Burgermeister, Rath und <br/>
+<span class="lineNumber">451</span>gemeinde der Statt <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e4104">Braunschweig</button>, vor unns, unnsere Erben, Erb-<br/>
+<span class="lineNumber">452</span>nemen unnd nachkommen, bekennen und thun kundt hiemit offent-<br/>
+<span class="lineNumber">453</span>lich an disem brieff gegen allermennigclich, das diser obbeschribner <br/>
+<span class="lineNumber">454</span>vertrag aus unnser beider teil wolbedachtem muth, mit gutten <br/>
+<span class="lineNumber">455</span>wissen unnd willen, durch die obgemelte henndler <button class="entity #bohuslav_felix person" data-ref="bohuslav_felix" data-type="person" id="d2e4126">Wohusla Felix</button>, <br/>
+<span class="lineNumber">456</span>herrn zu <button class="entity #hassenstein place" data-ref="hassenstein" data-type="place" id="d2e4132">Hassenstein</button> etc., <button class="entity #fuchs_georg person" data-ref="fuchs_georg" data-type="person" id="d2e4135">Georgen Fuxen</button>, <button class="entity #ebner_erasmus person" data-ref="ebner_erasmus" data-type="person" id="d2e4138">Erasmussen Ebner</button>, <button class="entity #landtmann_heinrich person" data-ref="landtmann_heinrich" data-type="person" id="d2e4141">Hein-</button><br/>
+<span class="lineNumber">457</span><button class="entity #landtmann_heinrich person" data-ref="landtmann_heinrich" data-type="person" id="d2e4141">richen Lanndtman</button>, <button class="entity #trautenbuel_christoff person" data-ref="trautenbuel_christoff" data-type="person" id="d2e4150">Christoffern Trauttenbul</button>, <button class="entity #reck_johann person" data-ref="reck_johann" data-type="person" id="d2e4153">Johann Recken</button>, <br/>
+<span class="lineNumber">458</span><button class="entity #brandis_tile person" data-ref="brandis_tile" data-type="person" id="d2e4158">Tilen Brandes</button>, <button class="entity #kniphof_hans person" data-ref="kniphof_hans" data-type="person" id="d2e4161">Hansen Kniphoff</button>, <button class="entity #koch_johann person" data-ref="koch_johann" data-type="person" id="d2e4164">Johann Koch</button>, <button class="entity #schanenflugel_gisler person" data-ref="schanenflugel_gisler" data-type="person" id="d2e4167">Gislern Schwane-</button><br/>
+<span class="lineNumber">459</span><button class="entity #schanenflugel_gisler person" data-ref="schanenflugel_gisler" data-type="person" id="d2e4167">flugel</button>, <button class="entity #borneman_abel person" data-ref="borneman_abel" data-type="person" id="d2e4176">Abeln Borneman</button>, <button class="entity #elvede_hildebrand person" data-ref="elvede_hildebrand" data-type="person" id="d2e4180">Hiliprant Elvede</button>, unnd <button class="entity #olemann_johann person" data-ref="olemann_johann" data-type="person" id="d2e4183">Johan Oleman</button> <br/>
+<span class="lineNumber">460</span>bethedingt<a class="fnNumber" href="#F_123" id="A_123">123</a>, uffgericht unnd beschlossen ist,
+<span class="lineNumber">461</span>unnd wir, <br/>
+<span class="lineNumber">462</span>unnsere Erben, Erbnemen und nachkomen, sollen und wollen den <br/>
+<span class="lineNumber">463</span>auch in allen unnd jeden seinen Artickln, puncten, effecten<a class="fnNumber" href="#F_124" id="A_124">124</a> unnd <br/>
+<span class="lineNumber">464</span>meynungen bey unsern furstlichen wierden, auch waren wortten <br/>
+<span class="lineNumber">465</span>und trewen, an eides statt stett,<a class="fnNumber" href="#F_125" id="A_125">125</a> vesst<a class="fnNumber" href="#F_126" id="A_126">126</a> unnd unverbruchlich hallten <br/>
+<span class="lineNumber">466</span>unnd volnstreken, dargegen unns nicht freyen, schutzen, releviren <br/>
+<span class="lineNumber">467</span>noch furtragen, sollen einiche Geistliche oder welltliche beschribne <br/>
+<span class="lineNumber">468</span>recht, behelff, exception unnd ausflucht, kein gnad, privilegium, <br/>
+<span class="lineNumber">469</span>Constitution, Reformation, Satzung, Geleit, verbuntnus, gebott <br/>
+<span class="lineNumber">470</span>verbott, Burck oder lanndfrid, kein absolution oder rescript der <br/>
+<span class="lineNumber">471</span>Pebst, <button class="entity #karl_v person" data-ref="karl_v" data-type="person" id="d2e4226">Romischer Keiserlicher</button> oder <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e4229">Kunigclicher Mayestaten</button>, wie <br/>
+<span class="lineNumber">472</span>die genannt itzo uffgericht, gegeben oder erlangt sein, und werden mochten, <br/>
+<span class="lineNumber">473</span>dann wir unns derselben aller und jeder itzo alsdann, unnd dann <br/>
+<span class="lineNumber">474</span>als itzo,<a class="fnNumber" href="#F_127" id="A_127">127</a> hiemit austrucklich vertzeihen unnd begeben, dieselben <br/>
+<span class="lineNumber">475</span>weder in nach ausserhalb rechtens hiewider nicht zugebrauchen, <br/>
+<span class="lineNumber">476</span>Geverde<a class="fnNumber" href="#F_128" id="A_128">128</a> unnd argelist hierinnen gentzlich vermitten und auß-<br/>
+<span class="lineNumber">477</span>geschlossen, in alleweg getreulich und ungeverlich.
+<span class="lineNumber">478</span>Unnd des zu wahrer <br/>
+<span class="lineNumber">479</span>urkundt, stetter unnd vesster haltung, haben wir, <button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e4264">Hertzog Heinrich</button> etc., unser Furstlich Insigel <br/>
+<span class="lineNumber">480</span>unnd wir, <button class="entity #bohuslav_felix person" data-ref="bohuslav_felix" data-type="person" id="d2e4269">Wohusla Felix</button>, herr zum <button class="entity #hassenstein place" data-ref="hassenstein" data-type="place" id="d2e4273">Hassenstein</button> etc., <button class="entity #fuchs_georg person" data-ref="fuchs_georg" data-type="person" id="d2e4276">Georg Fux</button>, <br/>
+<span class="lineNumber">481</span><button class="entity #ebner_erasmus person" data-ref="ebner_erasmus" data-type="person" id="d2e4280">Erasmus Ebner</button>, <button class="entity #landtmann_heinrich person" data-ref="landtmann_heinrich" data-type="person" id="d2e4283">Heinrich Lanndtman</button>, <button class="entity #trautenbuel_christoff person" data-ref="trautenbuel_christoff" data-type="person" id="d2e4286">Christoffel Traůtenbul</button>, <br/>
+<span class="lineNumber">482</span><button class="entity #reck_johann person" data-ref="reck_johann" data-type="person" id="d2e4291">Johann Reck</button>, <button class="entity #brandis_tile person" data-ref="brandis_tile" data-type="person" id="d2e4294">Tile Branndes</button>, <button class="entity #kniphof_hans person" data-ref="kniphof_hans" data-type="person" id="d2e4297">Hanns Kniphoff</button>, <button class="entity #koch_johann person" data-ref="koch_johann" data-type="person" id="d2e4300">Johann Koch</button>, <br/>
+<span class="lineNumber">483</span><button class="entity #schwanenflugel_gisler person" data-ref="schwanenflugel_gisler" data-type="person" id="d2e4304">Gisler Schwanenflugel</button>, <button class="entity #borneman_abel person" data-ref="borneman_abel" data-type="person" id="d2e4308">Abel Borneman</button>, <button class="entity #elvede_hildebrand person" data-ref="elvede_hildebrand" data-type="person" id="d2e4311">Hilprant Elvede</button> <br/>
+<span class="lineNumber">484</span>unnd <button class="entity #olemann_johann person" data-ref="olemann_johann" data-type="person" id="d2e4316">Johann Oleman</button>, als die henndler, unnsere angeborne und ge-<br/>
+<span class="lineNumber">485</span>wonliche petschafften, unnd wir, Burgermeister, Rath und Gemein zu <br/>
+<span class="lineNumber">486</span><button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e4328">Braunschweig</button>, unnser <button class="entity #braunschweig place" data-ref="braunschweig" data-type="place" id="d2e4331">Statt</button> Insigel<a class="fnNumber" href="#F_129" id="A_129">129</a> an disen vertrag, dero zwen <br/>
+<span class="lineNumber">487</span>gleichlauttend gegeneinannder<a class="fnNumber" href="#F_130" id="A_130">130</a> auffgericht, und jedem theyl <br/>
+<span class="lineNumber">488</span>einer zugestellt worden ist, wissentlich thun hengen. Geschehen <br/>
+<span class="lineNumber">489</span>unnd gegeben zu <button class="entity #wolfenbuettel place" data-ref="wolfenbuettel" data-type="place" id="d2e4347">Wulffenbuttel</button>, am Freitag nach Gallj, den zwentzigsten <br/>
+<span class="lineNumber">490</span>tag Octobris, nach Christi geburt im funffzehenhundertisten unnd <br/>
+<span class="lineNumber">491</span>dreyunndfunfftzigsten Jare.
+<span class="lineNumber">492</span><button class="entity #heinrich_braunschweig_wolfenbuettel person" data-ref="heinrich_braunschweig_wolfenbuettel" data-type="person" id="d2e4362">Heinrich</button> zu <button class="entity #braunschweig_wolfenbuettel_fuerstentum place" data-ref="braunschweig_wolfenbuettel_fuerstentum" data-type="place" id="d2e4365">Braunschweig</button> <br/>
+<span class="lineNumber">493</span>Mein hant

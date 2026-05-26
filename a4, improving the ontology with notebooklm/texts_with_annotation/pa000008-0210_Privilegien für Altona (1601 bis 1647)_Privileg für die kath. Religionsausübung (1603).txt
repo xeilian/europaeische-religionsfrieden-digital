@@ -1,0 +1,42 @@
+<span class="lineNumber">1</span>Von Gottes Gnaden, Wir <button class="entity #ernst_schaumburg_holstein person" data-ref="ernst_schaumburg_holstein" data-type="person" id="d2e198">Ernst</button> Graff zue <button class="entity #holstein_grafschaft place" data-ref="holstein_grafschaft" data-type="place" id="d2e201">Holstein</button>, <br/>
+<span class="lineNumber">2</span><button class="entity #schaumburg_grafschaft place" data-ref="schaumburg_grafschaft" data-type="place" id="d2e205">Schaumburg</button> und <button class="entity #sternberg_grafschaft place" data-ref="sternberg_grafschaft" data-type="place" id="d2e209">Sterenberg</button>, Herr zu <button class="entity #gehmen_herrschaft place" data-ref="gehmen_herrschaft" data-type="place" id="d2e212">Gehmen</button> etc. Bezeugen <br/>
+<span class="lineNumber">3</span>mit disem unserem Brieff, für unß, unsere Erben und Nach-<br/>
+<span class="lineNumber">4</span>kommen: Das wir den frembden hantierenden Nationen <br/>
+<span class="lineNumber">5</span>in <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e226">Hamburg</button> etc. in unserem Fleckhen<a class="fnNumber" href="#F_1" id="A_1">1</a> <button class="entity #altona place" data-ref="altona" data-type="place" id="d2e233">Altenah</button>, die freyheit irer <br/>
+<span class="lineNumber">6</span>Religion, wie sie die bey lebzeitten, weilandt deß wolgebornen <br/>
+<span class="lineNumber">7</span>unsers Bruders Graff <button class="entity #adolf_xi_schaumburg_holstein person" data-ref="adolf_xi_schaumburg_holstein" data-type="person" id="d2e240">Adolffs</button> zu <button class="entity #holstein_grafschaft place" data-ref="holstein_grafschaft" data-type="place" id="d2e243">Holstein</button>, <button class="entity #schaumburg_grafschaft place" data-ref="schaumburg_grafschaft" data-type="place" id="d2e247">Schaumburg</button> <br/>
+<span class="lineNumber">8</span>wolseliger gedechtnus nun in das zehende Jar gehabt, und erst-<br/>
+<span class="lineNumber">9</span>lich im Jar ein tausent sechshundert eins in mense Maii <br/>
+<span class="lineNumber">10</span>geendiget, auff firnehmmer herren und Potentaten vorbitte<a class="fnNumber" href="#F_2" id="A_2">2</a>, <br/>
+<span class="lineNumber">11</span>ganze sechs Jar lang von verleschunge obgedachter privilegii <br/>
+<span class="lineNumber">12</span>anzurechnen, der gestalt gnediglich prorogirt<a class="fnNumber" href="#F_3" id="A_3">3</a>, das Sie das <br/>
+<span class="lineNumber">13</span>exercitium irer Religion, allein für sich allda ueben, ire <br/>
+<span class="lineNumber">14</span>aigenen Kinder instituirn, ire todten, doch in der stille <br/>
+<span class="lineNumber">15</span>begraben, und Priestere darzue hallten mögen, die nicht <br/>
+<span class="lineNumber">16</span>zänckisch sondern stille und eingezogen sein, auch unsere <br/>
+<span class="lineNumber">17</span>underthonen und benachpaurten nicht understehen, auff ire <br/>
+<span class="lineNumber">18</span>meinung zuvergleiten, die auch kaine disputation anrichten, <br/>
+<span class="lineNumber">19</span>sondern in allem sich unergerlich und fritsamb verhallten. <br/>
+<span class="lineNumber">20</span>Wir geben auch nach, das die Nationen in mittler weill <br/>
+<span class="lineNumber">21</span>einen raum, in unserem Fleckhen<a class="fnNumber" href="#F_4" id="A_4">4</a> <button class="entity #altona place" data-ref="altona" data-type="place" id="d2e304">Altenau</button> contentirn<a class="fnNumber" href="#F_5" id="A_5">5</a>, <br/>
+<span class="lineNumber">22</span>und nicht zu einer Kirchen, sondern zur wonungen bau-<br/>
+<span class="lineNumber">23</span>en, warin sie dannoch ire Religion exercirn mögen, wel-<br/>
+<span class="lineNumber">24</span>liches hauß auch soll in disen sechs Jaren, aller auff-<br/>
+<span class="lineNumber">25</span>lage, schatzunge<a class="fnNumber" href="#F_6" id="A_6">6</a>, und bürden befreiet sein. Wann aber <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="" id="p-40v"> [Blatt: 40<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">26</span>die sechs Jar vorbey, mögen sie dasselbige hauß anderen <br/>
+<span class="lineNumber">27</span>leuthen, die uns leidenlich, wol verkauffen, oder für sich <br/>
+<span class="lineNumber">28</span>selbst behallten. Allsdann aber soll dasselbige hauß, und <br/>
+<span class="lineNumber">29</span>wer es bewonet, aller umbpflichten<a class="fnNumber" href="#F_7" id="A_7">7</a> und bürden, die andere <br/>
+<span class="lineNumber">30</span>unsere heusser und underthonen zu <button class="entity #altona place" data-ref="altona" data-type="place" id="d2e360">Alltena</button> ertragen, under-<br/>
+<span class="lineNumber">31</span>worffen sein.
+<span class="lineNumber">32</span>Worauff wir auch unserem Drosten<a class="fnNumber" href="#F_8" id="A_8">8</a>, Ampten Vogten<a class="fnNumber" href="#F_9" id="A_9">9</a>, und <br/>
+<span class="lineNumber">33</span>Dienern, hiemit ernstlich befelhen, das Sie hergegen, mehr ge-<br/>
+<span class="lineNumber">34</span>dachte frembde Nationen nicht beschweren, noch beschweren <br/>
+<span class="lineNumber">35</span>lassen, sondern sie dabey die bestimbten sechs Jare uber <br/>
+<span class="lineNumber">36</span>unserentwegen, schutzen, schirmen und handthaben sollen.
+<span class="lineNumber">37</span>Deß zu urkhundt haben wir disen brieff mit aigener handt, <br/>
+<span class="lineNumber">38</span>underschriben, und mit unserem Pettschafft<a class="fnNumber" href="#F_10" id="A_10">10</a> versiglet, der <br/>
+<span class="lineNumber">39</span>gegeben uff unseren Hause und Schlosse zum <button class="entity #stadthagen place" data-ref="stadthagen" data-type="place" id="d2e410">Statt-</button><br/>
+<span class="lineNumber">40</span><button class="entity #stadthagen place" data-ref="stadthagen" data-type="place" id="d2e410">hagen</button> den 19. October A<span class="ex">[nno]</span> ein tausent sechshundert <br/>
+<span class="lineNumber">41</span>drey. <br/>
+<span class="lineNumber">42</span><button class="entity #ernst_holstein_schaumburg person" data-ref="ernst_holstein_schaumburg" data-type="person" id="d2e428">Ernst</button>

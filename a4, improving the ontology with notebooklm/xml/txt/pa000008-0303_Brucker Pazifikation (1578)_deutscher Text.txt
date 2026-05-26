@@ -1,0 +1,525 @@
+<?xml-model href="../../../customization/schema_quellentexte/religionsfrieden-quellentexte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa000008-0303">
+        
+        
+        
+        
+        <teiHeader>      
+                <fileDesc>         
+                        <titleStmt>
+                                <title level="a">Brucker Pacification (28. Januar 1578)</title>
+                                <title level="s">Europäische Religionsfrieden Digital</title>
+                                 
+                                
+                                <editor role="http://id.loc.gov/vocabulary/relators/edt" ref="http://d-nb.info/gnd/1063979854">
+                    <persName>Marion Bechtold-Mayer</persName>
+                </editor>
+                                <respStmt>
+                    <resp ref="http://id.loc.gov/vocabulary/relators/mrk">Mitarbeit</resp>
+                    <persName>Kevin Wunsch</persName>
+                    <persName>Silke Kalmer</persName>
+                </respStmt>           
+                        </titleStmt>         
+                        <editionStmt>
+                                <edition>Digitale Edition gemäß <ref target="http://www.tei-c.org/">TEI P5</ref>
+                </edition>
+                                <funder>Akademie der Wissenschaften und der Literatur Mainz</funder>
+                <principal>Unter der Leitung von Irene Dingel und Thomas Stäcker</principal>
+                        </editionStmt>         
+                        <publicationStmt>
+                                <publisher>
+                                        <orgName ref="http://www.isni.org/0000000119314040">Leibniz-Institut für Europäische Geschichte Mainz</orgName>
+                                </publisher>           
+                                <distributor>
+                                        <orgName ref="http://www.isni.org/0000000110101946">Universitäts- und Landesbibliothek Darmstadt</orgName>
+                                        <idno type="ISIL">http://lobid.org/organisation/DE-17</idno>
+                                </distributor>
+                                <date when="2013-10-17" type="issued">2013</date>
+                                <availability>
+                                        <licence target="https://creativecommons.org/licenses/by/4.0/">
+                                                <p xml:lang="en">This file is licensed under the terms of the Creative Commons License CC-BY 4.0 (Attribution 4.0 International)</p>
+                                        </licence>
+                                </availability>
+                        </publicationStmt>        
+                        <sourceDesc><!-- bitte ausfüllen; nicht zutreffende Elemente bitte rauslöschen 	Text der Brucker Libell in der Steyrischen Religionspacification 
+ Religionspazifikation, 20. Jänner 1580, Graz im Bestand des Landschaftlichen Archives, Urkundenreihe, lautet: StLA,  -->
+                                <msDesc>
+                                        <msIdentifier>
+                                                <settlement>Graz</settlement>                               
+                                                <repository>Landesarchiv</repository>
+                                                <collection>Urkundenreihe</collection>
+                                                <idno>Signatur Laa. Urkunden A-56b1, fol. 60r-64r</idno>
+                                                
+                                        </msIdentifier>
+                                        <msContents>
+                                                <msItem>
+                                                        <title>Steyrische Religionspacification</title>
+                                                        <respStmt>
+                                                                <resp/>
+                                                                <persName/>
+                                                        </respStmt>
+                                                        
+                                                </msItem>
+                                        </msContents>
+                                        <history><!-- bei Manuskript, falls Datum und/oder Ort bekannt sind; andernfalls rauslöschen! -->
+                                                <origin>
+                                                        <date>20. Januar 1580</date>
+                                                        <placeName>Graz</placeName>
+                                                </origin>
+                                        </history>
+                                </msDesc>    
+                        </sourceDesc>
+                </fileDesc>      
+                <encodingDesc>         
+                        <projectDesc>
+                                <p>
+                    <ref target="https://eured.de">Europäische Religionsfrieden Digital</ref>
+                </p>
+                        </projectDesc>
+                        <classDecl>
+                                <taxonomy xml:id="marcrelator">
+                                        <bibl>
+                        <idno type="URI">http://id.loc.gov/vocabulary/relators/</idno> MARC Code List for Relators </bibl>
+                                </taxonomy>
+                        </classDecl>         
+                </encodingDesc>      
+                <profileDesc>         
+                        <langUsage>
+                                <language ident="deu">Deutsch</language><!-- Sprache hinzufügen -->
+                        </langUsage>         
+                </profileDesc>      
+                <!--<revisionDesc><change/></revisionDesc>-->   
+        </teiHeader>
+    <standOff/>
+        <facsimile>
+               <surface xml:id="nnn">
+            <graphic url=""/>
+        </surface>
+        </facsimile>
+<text>
+<body> 
+<div>
+<head type="main">
+<!-- 1 -->
+                    <lb/>
+                    <pb n="60r"/>Ihrer furstliche durchlaucht ec. mündtliche letzte 
+<!-- 2 -->
+                    <lb/>erclärung in relligionssachen gegen der lannde Steyr, <w>Khärn
+<!-- 3 -->
+                        <pc>-</pc>
+                        <lb/>den</w> und Crain sambt der fürstlichen graffschafft Görtz alhie 
+<!-- 4 -->
+                    <lb/>zu Pruckh mit volmechtigen gwalt anwesunden ausschüßn.
+</head>
+</div>
+<div>
+<p>
+<!--  -->
+                    <lb/>
+                    <hi rend="antiqua">Den neundten tag february vor der frue maltzeitt haben ihr furstliche</hi>
+<!--  -->
+                    <lb/>durchlaucht etc. die herren der lannde ausschüß sambt den stetten unnd <w>märck
+<!--  -->
+                        <pc>-</pc>
+                        <lb/>ten</w>, so der augspurgischen confession zuegethan, in ihr camer gefordert
+<!--  -->
+                    <lb/>unnd auff ire jungste unnd schließliche ubergebene relligionsschrift 
+<!--  -->
+                    <lb/>die erclärung unnd antwort in gegenwurt irer furstlichen durchlaucht etc. herrn 
+<!--  -->
+                    <lb/>gehaimbe räthe, herrn Georgen Khevenhüllers zu Aichlberg freyherrn etc.,
+<!--  -->
+                    <lb/>obristen hoffmaister unnd lanndtshauptman in Khärndtn etc., herrn 
+<!--  -->
+                    <lb/>Wolffen, herrn von Stumberg etc., obristen erbschenckhen in Steyer und
+<!--  -->
+                    <lb/>obristen camrer, herrn Hannßen Khobantzl von Prossegg, Nieder Osterreichs <w>camer
+<!--  -->
+                        <pc>-</pc>
+                        <lb/>presidenten</w> etc. unnd doctorn Wolfgang Schrantzen, cantzlers etc. mündtlich 
+<!--  -->
+                    <lb/>gethan. Wie volgt:
+<!--  -->
+                    <lb/>
+                    <hi rend="antiqua">Wiewol ich mich gäntzlich versechen, ir wurdet mit meiner entlichen</hi> <w>er
+<!--  -->
+                        <pc>-</pc>
+                        <lb/>clärung</w> in dißen relligions articl gehorsamblich ersettigt unnd 
+<!--  -->
+                    <lb/>
+                    <pb n="60v"/>zufriden sein, weil ich bei meiner seelen saligkhait vermeldet unnd 
+<!--  -->
+                    <lb/>gebetten, das ich verner nit gehn khündte unnd solches alles also bewilligt 
+<!--  -->
+                    <lb/>habe, das ihr verner ainich mißtrauen in mein person nit setzen sollet,
+<!--  -->
+                    <lb/>nichts desto weniger, weil ihr mir noch ein schrifft uberantwort, so hab ich
+<!--  -->
+                    <lb/>mein mainung, wie ichs verstehe, jetzt abermal antzaigen wellen.
+<!--  -->
+                    <lb/>
+<!--  -->
+                    <lb/>Unnd zweifelt mir nit, ihr werdet mich, wie ichs hievor auch angetzaigt, <w>ver
+<!--  -->
+                        <pc>-</pc>
+                        <lb/>nomen</w> haben. Nemblich das ich alles das, was ich unnd meine räthe
+<!--  -->
+                    <lb/>anist zuegesagt, die relligions pacification, so in Steyr beschlossen, <w>das
+<!--  -->
+                        <pc>-</pc>
+                        <lb/>selbig</w> alles aller rechten gebür nach halten will. Unnd hab mich nit zu <w>er
+<!--  -->
+                        <pc>-</pc>
+                        <lb/>innern</w>, das ich darwider solt gehandlt oder sunst ernstliche bevelch <w>dar
+<!--  -->
+                        <pc>-</pc>
+                        <lb/>wider</w> außgehen lassen, unnd will solche pacification noch redlich halten
+<!--  -->
+                    <lb/>gegen euch, die ir alda beisamen unnd alle, so der augspurgischen confession 
+<!--  -->
+                    <lb/>zuegethan seindt. Doch das man sich auch gebürlich verhalte, das schmahen 
+<!--  -->
+                    <lb/>unnd lestern, wie es dann durch eure prediger beschiecht, gäntzlich abschaffen,
+<!--  -->
+                    <lb/>welches ich meines thails auch thuen will. Unnd weil ich mich hievor erclärt 
+<!--  -->
+                    <lb/>hab unnd noch also erclären thue, das ich in meiner alten, wahren catholischen,
+<!--  -->
+                    <lb/>christlichen relligion, darinn ich geborn, getaufft, ertzogen unnd biß
+<!--  -->
+                    <lb/>in mein grueben darin bleiben will, das demnach ich sambt den 
+<!--  -->
+                    <lb/>meinigen in meinem gwissen auch umbetrüebt unnd unbekhummert 
+<!--  -->
+                    <lb/>gelassen, unnd so wenig ich euch in eurn gwissen nit bekummern 
+<!--  -->
+                    <lb/>
+                    <pb n="61r"/>unnd betrüeben will, ir dasselb mir unnd den meinigen auch nit thuet,
+<!--  -->
+                    <lb/>sundern alles in guettem, christlichen vertrauen unnd ainigkhait ain thail 
+<!--  -->
+                    <lb/>so wol als der annder verbleibe, biß der almechtig gott mitl unnd 
+<!--  -->
+                    <lb/>weeg schickht, das anist dise sach, wie ich zu göttlicher almacht hoffe, 
+<!--  -->
+                    <lb/>zu christlicher ainhelligen vergleichung unnd in einem rechten verstanndt
+<!--  -->
+                    <lb/>khumben khan.
+<!--  -->
+                    <lb/>Doch behalt ich mir lautter bevor, die disposition in meinen stetten unnd 
+<!--  -->
+                    <lb/>märckhten unnd aigenthumblichen güettern nit der mainung, wie man 
+<!--  -->
+                    <lb/>darvon sagen wöllen, das ich die predicanten unnd schuelen zu Grätz, 
+<!--  -->
+                    <lb/>Laybach, Clagenfurt unnd Judenburg wil vertreiben. Doch das ihr das
+<!--  -->
+                    <lb/>schmähen unnd lestern auch abstellet, mich unnd die meinigen <w>relligionsver
+<!--  -->
+                        <pc>-</pc>
+                        <lb/>wanten</w> nit so gar mit spöttlichen wortten, nit allain durch die prediger,
+<!--  -->
+                    <lb/>sonndern auch anndere, wie man wol waiß, angreiffen thuet, und wann 
+<!--  -->
+                    <lb/>man einen auf der gassen sicht, ein spöttl anhengkht, welches nit sein soll, 
+<!--  -->
+                    <lb/>sundern man soll brüederlich unnd christlich von einander reden.
+<!--  -->
+                    <lb/>Also wil ich die burger auch nit beschwären in iren gwissen, wie ich inen 
+<!--  -->
+                    <lb/>dann bißheer wegen der relligion nit ain harl gekrümbt. Das will ich
+<!--  -->
+                    <lb/>hinfort auch nit thuen.
+<!--  -->
+                    <lb/>Aber das sie ires gefallens in die stett unnd märckht predicanten <w>auf
+<!--  -->
+                        <pc>-</pc>
+                        <lb/>nemen</w> sollen, das khan ich auch nit leiden. Aber sie wil ich in iren 
+<!--  -->
+                    <lb/>
+                    <pb n="61v"/>gwissen unbekhummert lassen. Darauff mügen sie sich wol 
+<!--  -->
+                    <lb/>verlassen.
+<!--  -->
+                    <lb/>Unnd ich wil euch nicht allain hiemit ermant haben, sonnder ich bitt euch 
+<!--  -->
+                    <lb/>umb gottes willen, ihr, als meine lieben underthanen, wellet alles 
+<!--  -->
+                    <lb/>mistrauen auf ein seit stellen unnd was ich euch zuegesagt hab, das 
+<!--  -->
+                    <lb/>will ich treulich halten, dann ich maine es mit euch genediglich und 
+<!--  -->
+                    <lb/>vätterlich unnd stell es gar auf khainen schrauffen, wie man sagt.
+<!--  -->
+                    <lb/>Wöllet derwegen nun mehr zu denen sachen, darumben man alhie zusamen
+<!--  -->
+                    <lb/>khumben, fürderlich greiffen unnd gedenckhen, wie es den armen 
+<!--  -->
+                    <lb/>christen auf den Gränitzen gehet, das versehe ich mich gentzlich zu 
+<!--  -->
+                    <lb/>euch unnd will auch jederzeit eur genedigster herr unnd <w>landts
+<!--  -->
+                        <pc>-</pc>
+                        <lb/>fürst</w> sein unnd bleiben.
+<!--  -->
+                    <lb/>
+<!--  -->
+                    <lb/>
+                    <hi rend="antiqua">Nach disem mündtlichen vermelden haben die herrn der
+<!--  -->
+                        <lb/>lande ausschüß ein unterredt in die taflstubn genomen
+<!--  -->
+                        <lb/>unnd nach gehaltner umbfrag</hi>
+<!--  -->
+                    <lb/>hat herr Hannß Friedrich Hoffmann, freyherr,
+<!--  -->
+                    <lb/>als marschalckh irer furstlicher durchlaucht etc., verrer dise
+<!--  -->
+                    <lb/>mündtliche antwortt geben:
+<!--  -->
+                    <lb/>
+<!--  -->
+                    <lb/>Die gehorßamisten der lannde ausschüß der augspurgischen confession
+<!--  -->
+                    <lb/>zuegethan, irer furstlicher durchlaucht etc. jederzeit gethreue, gehorßamiste landtleüth unnd 
+<!--  -->
+                    <lb/>
+                    <pb n="62r"/>underthanen, haben diße eur furstlichen durchlaucht etc. genedigiste unnd milde <w>mündt
+<!--  -->
+                        <pc>-</pc>
+                        <lb/>liche</w> erclärung mit höchster freudt angehört unnd mügen nach (wie zuvor
+<!--  -->
+                    <lb/>zum öfftermallen) gott zu einen warhafftigen zeugen wol nemben, 
+<!--  -->
+                    <lb/>das sie biß daheer annders nichts gesuecht, gewünscht ader begert haben, dann 
+<!--  -->
+                    <lb/>das ein bestänndige, guette rhue unnd ainigkhait zwischen disen baiden 
+<!--  -->
+                    <lb/>relligionen angerichtet, also das sich die, so unnßerer relligion der 
+<!--  -->
+                    <lb/>augspurgischen confession zuegethan sein, von eurer furstlichen durchlaucht etc. 
+<!--  -->
+                    <lb/>relligionsverwanndten khainer gefahr, widerwertigkhait oder <w>ver
+<!--  -->
+                        <pc>-</pc>
+                        <lb/>folgung</w> zu besorgen, wie sie sich dagegen bei den unnßrigen nit anders 
+<!--  -->
+                    <lb/>als alles liebs und guets zuversehen gehapt unnd noch.
+<!--  -->
+                    <lb/>Dieweil sie dann eur furstlichen durchlaucht etc. jetzige genedigiste, mündtliche erclärung und 
+<!--  -->
+                    <lb/>vertröstung annderst nit verstehen khünnen, dann das es irer der lande
+<!--  -->
+                    <lb/>negst ubergebenen schrifftlichen erclärung nichts durchaus zuwider, sander
+<!--  -->
+                    <lb/>ein genedigiste ratification derselben sey, wiewol sy an eurer furstlichen 
+<!--  -->
+                    <lb/>durchlaucht etc. gendigisten wolmainen hievor nie getzweiffelt. Allain weß
+<!--  -->
+                    <lb/>sie sich der mißgünner unnd unruebigen leüth halben besorgen müessen,
+<!--  -->
+                    <lb/>so wolte inen doch khains weegs gebüren, in eur furstlichen durchlaucht etc. <w>lanndts
+<!--  -->
+                        <pc>-</pc>
+                        <lb/>fürstliche</w> genedigiste wort ainichen zweiffel zustellen. 
+<!--  -->
+                    <lb/>Danckhen demnach zu vordrist dem almechtigen gott, der dißes ihr 
+<!--  -->
+                    <lb/>lanngwürigs seüfftzen, bitten und flechen zu einen solchen gnedigen
+<!--  -->
+                    <lb/>
+                    <pb n="62v"/>fridlichen endt geschickht hat unnd dann auch irer furstlichen durchlaucht etc. selbst 
+<!--  -->
+                    <lb/>als iren genedigisten herrn unnd lanndtsfürsten der so vätterlichen 
+<!--  -->
+                    <lb/>erclärung. Unnd bitten eur furstlichen durchlaucht etc. daneben gar unterthenigist 
+<!--  -->
+                    <lb/>düemüttig, da sie mit vorigen iren öfftern replicieren derselben
+<!--  -->
+                    <lb/>was zuwider gehandelt hetten, sie wellen inen solches durch gottes
+<!--  -->
+                    <lb/>barmherzigkhait willen genedigist vertzeichen unnd annders nit deütten,
+<!--  -->
+                    <lb/>dann das es ires gwissens befridung und versicherung wegen 
+<!--  -->
+                    <lb/>ihr höchste notturfft erfordert hat, da sie sonsten sich gegen eur furstlichen 
+<!--  -->
+                    <lb/>durchlaucht etc. mit aller underthenigkhait des gehorßambs altzeit befleissigt.
+<!--  -->
+                    <lb/>Es bedanckhen sich auch neben den gehorsamisten landtleüthen die von stetten
+<!--  -->
+                    <lb/>unnd märckhten gar düemüettigist diser genedigisten unnd vätterlichen
+<!--  -->
+                    <lb/>erleütterung, das sie unnd ire mitverwandten nit weniger als andere
+<!--  -->
+                    <lb/>in iren gewissen befridet und versichert sein.
+<!--  -->
+                    <lb/>Erbietten sich darauff die gehorßamisten ausschüß für sich und ire <w>prin
+<!--  -->
+                        <pc>-</pc>
+                        <lb/>cipaln</w> sament und sonderlichen, das sy solches umb eur furstlichen durchlaucht etc. 
+<!--  -->
+                    <lb/>derselben geliebte erben unnd nachkhumen zu ewig zeitten ungespart 
+<!--  -->
+                    <lb/>leib, guetes unnd bluets danckhbarlichen zuverdienen, sich nach eüsseristen 
+<!--  -->
+                    <lb/>vermügen befleissen wellen.
+<!--  -->
+                    <lb/>Sie seindt auch urbiettig mit erster mügligkhait eurer furstlichen durchlaucht etc. 
+<!--  -->
+                    <lb/>genedigsten begern nach zu der bewilligung zugreiffen und sich 
+<!--  -->
+                    <lb/>
+                    <pb n="63r"/>darinnen also gehorßamist zuertzaigen, das eur furstlichen durchlaucht etc. ihr guett
+<!--  -->
+                    <lb/>willigkait unnd gehorßamiste naigung in außgang der hanndlung <w>würckh
+<!--  -->
+                        <pc>-</pc>
+                        <lb/>lich</w> spüren unnd befinden sollen. Darauff bitten Sie gar 
+<!--  -->
+                    <lb/>unterthänigist eur furstlichen durchlaucht etc., die wellen inen sie samentlichen sambt stetten
+<!--  -->
+                    <lb/>unnd märckhten auch derselben inwonnern, die dieser relligion zuegethan
+<!--  -->
+                    <lb/>sein, mit landtsfürstlichen gnaden jederzeit lassen bevolchen sein.
+<!--  -->
+                    <lb/>Darauff haben ihr furstlichen durchlaucht etc. verrer angetzaigt, was ich euch zuegesagt
+<!--  -->
+                    <lb/>unnd wie ich mich gegen euch erclert hab, dem will ich also nachkumen,
+<!--  -->
+                    <lb/>versiche mich gäntzlich, ihr werdets auch thuen. Unnd damit man hinfüro in 
+<!--  -->
+                    <lb/>gleichem, vertreulichen verstanndt verbleiben müge, so soll man nit immerzue
+<!--  -->
+                    <lb/>ein jeden ohrenploßer glauben geben, sundern das man erstlich guetten 
+<!--  -->
+                    <lb/>grundt unnd bericht einneme unnd mir solches antzaigen und berichten.
+<!--  -->
+                    <lb/>Auf das hat herr Hoffman auch zu beschluß verrer vermelt, die gehorßamisten
+<!--  -->
+                    <lb/>der lannde ausschüß bitten gleichts fals (des ich zuvermelden <w>ver
+<!--  -->
+                        <pc>-</pc>
+                        <lb/>gessen</w>) ihr furstlichen durchlaucht etc. unterthenigist, sie wellen denen personen, welche
+<!--  -->
+                    <lb/>zwischen irer furstlichen durchlaucht etc. unnd derselben gehorßamisten unnd getreuen
+<!--  -->
+                    <lb/>lannde unainigkhait unnd mißverstandt pflantzen, auch genedigist khainen
+<!--  -->
+                    <lb/>glauben geben oder sich wider derselben getreue unterthanen bewegen lassen 
+<!--  -->
+                    <lb/>unnd sie wellen auch jedertzeit, do inen was beschwärlichts fürfelt, zu irer 
+<!--  -->
+                    <lb/>furstlichen durchlaucht etc. als irem genedigisten hern und landtsfürsten ihre zueflucht haben. 
+<!--  -->
+                    <lb/>
+                    <pb n="63v"/>Unnd weil dise mündtliche tractation aus dem Mundt, wie zu beeden
+<!--  -->
+                    <lb/>thaillen geredt, treulich beschrieben unnd auffs papier glaubwürdig 
+<!--  -->
+                    <lb/>gebracht werden, demnach unnd zu mehrer khünfftigen gedechtnus
+<!--  -->
+                    <lb/>der sachen haben sie die herren ausschüß der augspurgischen confession 
+<!--  -->
+                    <lb/>zuegethan, solches alles abgehört unnd jedem lanndt unter irer aignen <w>handt
+<!--  -->
+                        <pc>-</pc>
+                        <lb/>schrifft</w> unnd pettschadt gleichlauttundt concept zuegestelt. Geschehen 
+<!--  -->
+                    <lb/>zu Pruckh an der Muer den neündten februari anno im achtundsibentzigisten.
+<!--  -->
+                    <lb/>
+<!--  -->
+                    <lb/>Hannß Fridrich Hoffman, freyherr etc. landt- und erkiester marschalck,
+<!--  -->
+                    <lb/>Hänibäl, freyherr zu Eckh,
+<!--  -->
+                    <lb/>Ott von Ratmanstorff 
+<!--  -->
+                    <lb/>Geörg, freyherr zu Herberstain
+<!--  -->
+                    <lb/>Ferdinandt Hoffman, freyherr etc.
+<!--  -->
+                    <lb/>Wilhalbm von Gleispach, freyherr von Scheyr
+<!--  -->
+                    <lb/>Achatz, freyherr von Thurn          
+<!--  -->
+                    <lb/>Paul, freyherr von Thanhaußen          
+<!--  -->
+                    <lb/>Michel Rindsmaul 
+<!--  -->
+                    <lb/>Franz von Poppendorff          
+<!--  -->
+                    <lb/>L. von Kholnicz 	 
+<!--  -->
+                    <lb/>Lienhardt Weltzer zu Eberstain etc. 
+<!--  -->
+                    <lb/>Maximilian von Lamberg 	
+<!--  -->
+                    <lb/>Erasm Stadler, ritter	
+<!--  -->
+                    <lb/>Hanß von Gallenberg, freyherr von Holneckh 
+<!--  -->
+                    <lb/>Eraßm von Saurau	
+<!--  -->
+                    <lb/>Ludwig Ungnadt, freyherr	 
+<!--  -->
+                    <lb/>Wilhalbm von Gera auf Arnfelß
+<!--  -->
+                    <lb/>Melchisedech Senuß zu Freidenberg
+<!--  -->
+                    <lb/>Bärtlme Khevenhüller, freyherr etc.
+<!--  -->
+                    <lb/>Caspar Mandorffer zu Mandorff
+<!--  -->
+                    <lb/>Wolff Zwickhl
+<!--  -->
+                    <lb/>Hanß Frantz von Neuhauß	
+<!--  -->
+                    <lb/>Jonas von Wilfferstorff
+<!--  -->
+                    <lb/>Wilhalbm von Rottal, der elter zu Neudau
+<!--  -->
+                    <lb/>Jacob Zäch, ritter	
+<!--  -->
+                    <lb/>Niclaß Banhan zu Wolfspüchl
+<!--  -->
+                    <lb/>Wilhalbm von Rattmanstorff zum Weyer
+<!--  -->
+                    <lb/>
+                    <pb n="64r"/>Hannß von Pranckh
+<!--  -->
+                    <lb/>Sigmundt Weltzer von Eberstain
+<!--  -->
+                    <lb/>Michl Strasperger	
+<!--  -->
+                    <lb/>Adam von Lenghaimb	
+<!--  -->
+                    <lb/>Hannß Fridrich von Trautmannstorff
+<!--  -->
+                    <lb/>Hanß Khemeter
+<!--  -->
+                    <lb/>Philipp Dräxler von Neuhauß
+<!--  -->
+                    <lb/>Maximilian von Khuenberg
+<!--  -->
+                    <lb/>Balthauser Herbstperger
+<!--  -->
+                    <lb/>Gall, freyherr zu Räckhnitz
+<!--  -->
+                    <lb/>Victor Weltzer	
+<!--  -->
+                    <lb/>Lienhardt Schütter
+<!--  -->
+                    <lb/>Lienhardt von Kheuttschach, ritter
+<!--  -->
+                    <lb/>Lienhardt Cren
+<!--  -->
+                    <lb/>Urban Thalman
+<!--  -->
+                    <lb/>Balthaußer Pinter     
+</p>
+</div>
+</body>
+</text>
+</TEI>

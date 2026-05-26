@@ -1,0 +1,189 @@
+<span class="lineNumber">1</span> <span aria-label="a pagebreak without a facsimile" class="pagebreak" id="p-60r"> [Blatt: 60<span class="rectoVerso">r</span> ] </span>Ihrer <button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e176">furstlichen durchlaucht</button> etc. mündtliche letzte <br/>
+<span class="lineNumber">2</span>erclärung in relligionssachen gegen der lannde <button class="entity #steiermark_herzogtum place" data-ref="steiermark_herzogtum" data-type="place" id="d2e183">Steyr</button>, <button class="entity #kaernten_herzogtum place" data-ref="kaernten_herzogtum" data-type="place" id="d2e186">Khärn-</button><br/>
+<span class="lineNumber">3</span><button class="entity #kaernten_herzogtum place" data-ref="kaernten_herzogtum" data-type="place" id="d2e186">den</button> und <button class="entity #krain_herzogtum place" data-ref="krain_herzogtum" data-type="place" id="d2e194">Crain</button> sambt der fürstlichen <button class="entity #goerz_grafschaft place" data-ref="goerz_grafschaft" data-type="place" id="d2e197">graffschafft Görtz</button> alhie <br/>
+<span class="lineNumber">4</span>zu <button class="entity #bruck_an_der_mur place" data-ref="bruck_an_der_mur" data-type="place" id="d2e204">Pruckh</button> mit volmechtigen gwalt anwesunden<a class="fnNumber" href="#F_1" id="A_1">1</a> ausschüßn. <span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">5</span> <span class="antiqua">Den neundten tag february vor der frue maltzeitt haben ihr <button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e225">furstliche </button><br/><span class="lineNumber">6</span><button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e225">durchlaucht</button></span> etc. die herren der lannde ausschüß sambt den stetten unnd märck-<br/>
+<span class="lineNumber">6</span><button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e225">durchlaucht</button>
+<span class="lineNumber">7</span>ten, so der augspurgischen confession zuegethan<a class="fnNumber" href="#F_2" id="A_2">2</a>, in ihr camer gefordert<a class="fnNumber" href="#F_3" id="A_3">3</a> <br/>
+<span class="lineNumber">8</span>unnd auff ire jungste unnd schließliche<a class="fnNumber" href="#F_4" id="A_4">4</a> ubergebene relligionsschrift <br/>
+<span class="lineNumber">9</span>die erclärung unnd antwort in gegenwurt irer <button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e254">furstlichen durchlaucht</button> etc. herrn <br/>
+<span class="lineNumber">10</span>gehaimbe räthe, herrn <button class="entity #khevenhueller_georg person" data-ref="khevenhueller_georg" data-type="person" id="d2e261">Georgen Khevenhüllers zu Aichlberg</button>, freyherrn etc., <br/>
+<span class="lineNumber">11</span>obristen hoffmaister unnd lanndtshauptman in <button class="entity #kaernten_herzogtum place" data-ref="kaernten_herzogtum" data-type="place" id="d2e267">Khärndtn</button> etc., herrn <br/>
+<span class="lineNumber">12</span><button class="entity #stubenberg_wolfgang person" data-ref="stubenberg_wolfgang" data-type="person" id="d2e273">Wolffen, herrn von Stumberg</button> etc., obristen erbschenckhen in <button class="entity #steiermark_herzogtum place" data-ref="steiermark_herzogtum" data-type="place" id="d2e276">Steyer</button> und <br/>
+<span class="lineNumber">13</span>obristen camrer, herrn <button class="entity #johann_cobenzl person" data-ref="johann_cobenzl" data-type="person" id="d2e282">Hannßen Khobantzl von Prossegg</button>, <button class="entity #oesterreich_unter_der_enns_erzherzogtum place" data-ref="oesterreich_unter_der_enns_erzherzogtum" data-type="place" id="d2e285">Nieder Osterreichs</button> camer-<br/>
+<span class="lineNumber">14</span>presidenten etc. unnd doctorn <button class="entity #schranz_wolfgang person" data-ref="schranz_wolfgang" data-type="person" id="d2e297">Wolfgang Schrantzen</button>, cantzlers etc., mündtlich <br/>
+<span class="lineNumber">15</span>gethan, wie volgt:
+<span class="lineNumber">16</span> <span class="antiqua">Wiewol ich mich gäntzlich versechen<a class="fnNumber" href="#F_5" id="A_5">5</a>, ir wurdet mit meiner entlichen<a class="fnNumber" href="#F_6" id="A_6">6</a></span> er-<br/>
+<span class="lineNumber">17</span>clärung in dißen relligions articl gehorsamblich ersettigt<a class="fnNumber" href="#F_7" id="A_7">7</a> unnd <br/>
+<span class="lineNumber">18</span> <span aria-label="a pagebreak without a facsimile" class="pagebreak" id="p-60v"> [Blatt: 60<span class="rectoVerso">v</span> ] </span>zufriden sein, weil ich bei meiner seelen saligkhait vermeldet<a class="fnNumber" href="#F_8" id="A_8">8</a> unnd <br/>
+<span class="lineNumber">19</span>gebetten, das ich verner<a class="fnNumber" href="#F_9" id="A_9">9</a> nit gehn khündte unnd solches alles also bewilligt <br/>
+<span class="lineNumber">20</span>habe, das ihr verner ainich<a class="fnNumber" href="#F_10" id="A_10">10</a> mißtrauen in mein person nit setzen sollet, <br/>
+<span class="lineNumber">21</span>nichts desto weniger, weil ihr mir noch ein schrifft uberantwort<a class="fnNumber" href="#F_11" id="A_11">11</a>, so hab ich <br/>
+<span class="lineNumber">22</span>mein mainung, wie ichs verstehe, jetzt abermal antzaigen wellen.
+<span class="lineNumber">23</span>Unnd zweifelt mir nit, ihr werdet mich, wie ichs hievor auch angetzaigt, ver-<br/>
+<span class="lineNumber">24</span>nomen haben. Nemblich das ich alles das, was ich unnd meine räthe <br/>
+<span class="lineNumber">25</span>anist<a class="fnNumber" href="#F_12" id="A_12">12</a> zuegesagt, die relligions pacification, so in <button class="entity #steiermark_herzogtum place" data-ref="steiermark_herzogtum" data-type="place" id="d2e377">Steyr</button> beschlossen, das-<br/>
+<span class="lineNumber">26</span>selbig alles aller rechten gebür nach halten will. Unnd hab mich nit zu er-<br/>
+<span class="lineNumber">27</span>innern, das ich darwider solt gehandlt oder sunst ernstliche<a class="fnNumber" href="#F_13" id="A_13">13</a> bevelch dar-<br/>
+<span class="lineNumber">28</span>wider außgehen<a class="fnNumber" href="#F_14" id="A_14">14</a> lassen, unnd will solche pacification noch redlich halten <br/>
+<span class="lineNumber">29</span>gegen euch, die ir alda beisamen unnd alle, so der augspurgischen confession <br/>
+<span class="lineNumber">30</span>zuegethan seindt. Doch das man sich auch gebürlich verhalte, das schmahen<a class="fnNumber" href="#F_15" id="A_15">15</a> <br/>
+<span class="lineNumber">31</span>unnd lestern, wie es dann durch eure prediger beschiecht<a class="fnNumber" href="#F_16" id="A_16">16</a>, gäntzlich abschaffen<a class="fnNumber" href="#F_17" id="A_17">17</a>, <br/>
+<span class="lineNumber">32</span>welches ich meines thails auch thuen will. Unnd weil ich mich hievor erclärt <br/>
+<span class="lineNumber">33</span>hab unnd noch also erclären thue, das ich in meiner alten, wahren catholischen, <br/>
+<span class="lineNumber">34</span>christlichen relligion, darinn ich geborn, getaufft, ertzogen unnd biß <br/>
+<span class="lineNumber">35</span>in mein grueben<a class="fnNumber" href="#F_18" id="A_18">18</a> darin bleiben will, das demnach ich sambt den <br/>
+<span class="lineNumber">36</span>meinigen in meinem gwissen auch umbetrüebt unnd unbekhummert<a class="fnNumber" href="#F_19" id="A_19">19</a> <br/>
+<span class="lineNumber">37</span>gelassen, unnd so wenig ich euch in eurn gwissen nit bekummern <br/>
+<span class="lineNumber">38</span> <span aria-label="a pagebreak without a facsimile" class="pagebreak" id="p-61r"> [Blatt: 61<span class="rectoVerso">r</span> ] </span>unnd betrüeben will, ir dasselb mir unnd den meinigen auch nit thuet, <br/>
+<span class="lineNumber">39</span>sundern alles in guettem, christlichen vertrauen unnd ainigkhait, ain thail <br/>
+<span class="lineNumber">40</span>so wol als der annder, verbleibe, biß der almechtig gott mitl unnd <br/>
+<span class="lineNumber">41</span>weeg schickht, das anist dise sach, wie ich zu göttlicher almacht hoffe, <br/>
+<span class="lineNumber">42</span>zu christlicher, ainhelligen vergleichung unnd in einem rechten verstanndt <br/>
+<span class="lineNumber">43</span>khumben khan.
+<span class="lineNumber">44</span>Doch behalt ich mir lautter bevor<a class="fnNumber" href="#F_20" id="A_20">20</a>, die disposition in meinen stetten unnd <br/>
+<span class="lineNumber">45</span>märckhten unnd aigenthumblichen güettern nit der mainung, wie man <br/>
+<span class="lineNumber">46</span>darvon sagen wöllen, das ich die predicanten unnd schuelen zu <button class="entity #graz place" data-ref="graz" data-type="place" id="d2e491">Grätz</button>, <br/>
+<span class="lineNumber">47</span><button class="entity #ljubljana place" data-ref="ljubljana" data-type="place" id="d2e496">Laybach</button>, <button class="entity #klagenfurt place" data-ref="klagenfurt" data-type="place" id="d2e499">Clagenfurt</button> unnd <button class="entity #judenburg place" data-ref="judenburg" data-type="place" id="d2e502">Judenburg</button> wil vertreiben, doch das ihr das <br/>
+<span class="lineNumber">48</span>schmähen unnd lestern auch abstellet, mich unnd die meinigen relligionsver-<br/>
+<span class="lineNumber">49</span>wanten nit so gar mit spöttlichen wortten, nit allain durch die prediger, <br/>
+<span class="lineNumber">50</span>sonndern auch anndere, wie man wol waiß, angreiffen thuet, und wann <br/>
+<span class="lineNumber">51</span>man einen auf der gassen sicht, ein spöttl anhengkht<a class="fnNumber" href="#F_21" id="A_21">21</a>, welches nit sein soll, <br/>
+<span class="lineNumber">52</span>sundern man soll brüederlich unnd christlich von einander reden. <br/>
+<span class="lineNumber">53</span>Also wil ich die burger auch nit beschwären in iren gwissen, wie ich inen <br/>
+<span class="lineNumber">54</span>dann bißheer wegen der relligion nit ain harl gekrümbt. Das will ich <br/>
+<span class="lineNumber">55</span>hinfort auch nit thuen. <br/>
+<span class="lineNumber">56</span>Aber das sie ires gefallens in die stett unnd märckht predicanten auf-<br/>
+<span class="lineNumber">57</span>nemen sollen, das khan ich auch nit leiden. Aber sie wil ich in iren <br/>
+<span class="lineNumber">58</span> <span aria-label="a pagebreak without a facsimile" class="pagebreak" id="p-61v"> [Blatt: 61<span class="rectoVerso">v</span> ] </span>gwissen unbekhummert lassen. Darauff mügen sie sich wol <br/>
+<span class="lineNumber">59</span>verlassen.
+<span class="lineNumber">60</span>Unnd ich wil euch nicht allain hiemit ermant haben, sonnder ich bitt euch <br/>
+<span class="lineNumber">61</span>umb gottes willen, ihr, als meine lieben underthanen, wellet alles <br/>
+<span class="lineNumber">62</span>mistrauen auf ein seit stellen unnd was ich euch zuegesagt hab, das <br/>
+<span class="lineNumber">63</span>will ich treulich halten, dann ich maine es mit euch genediglich und <br/>
+<span class="lineNumber">64</span>vätterlich unnd stell es gar auf khainen schrauffen<a class="fnNumber" href="#F_22" id="A_22">22</a>, wie man sagt. <br/>
+<span class="lineNumber">65</span>Wöllet derwegen nun mehr zu denen sachen, darumben man alhie zusamen <br/>
+<span class="lineNumber">66</span>khumben, fürderlich greiffen<a class="fnNumber" href="#F_23" id="A_23">23</a> unnd gedenckhen, wie es den armen <br/>
+<span class="lineNumber">67</span>christen auf den Gränitzen<a class="fnNumber" href="#F_24" id="A_24">24</a> gehet, das versehe<a class="fnNumber" href="#F_25" id="A_25">25</a> ich mich gentzlich zu <br/>
+<span class="lineNumber">68</span>euch unnd will auch jederzeit eur genedigster herr unnd landts-<br/>
+<span class="lineNumber">69</span>fürst sein unnd bleiben.
+<span class="lineNumber">70</span> <span class="antiqua">Nach disem mündtlichen vermelden haben die herrn der <br/><span class="lineNumber">71</span>lande ausschüß ein unterredt in die taflstubn genomen <br/><span class="lineNumber">72</span>unnd nach gehaltner umbfrag</span> <br/>
+<span class="lineNumber">71</span>lande ausschüß ein unterredt in die taflstubn genomen <br/>
+<span class="lineNumber">72</span>unnd nach gehaltner umbfrag
+<span class="lineNumber">73</span>hat herr <button class="entity #hoffmann_hans_friedrich person" data-ref="hoffmann_hans_friedrich" data-type="person" id="d2e629">Hannß Friedrich Hoffmann</button>, freyherr, <br/>
+<span class="lineNumber">74</span>als marschalckh irer <button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e636">furstlichen durchlaucht</button> etc., verrer dise <br/>
+<span class="lineNumber">75</span>mündtliche antwortt geben:
+<span class="lineNumber">76</span>Die gehorßamisten der lannde ausschüß der augspurgischen confession <br/>
+<span class="lineNumber">77</span>zuegethan, irer <button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e650">furstlichen durchlaucht</button> etc. jederzeit gethreue, gehorßamiste landtleüth unnd <br/>
+<span class="lineNumber">78</span> <span aria-label="a pagebreak without a facsimile" class="pagebreak" id="p-62r"> [Blatt: 62<span class="rectoVerso">r</span> ] </span>underthanen, haben diße eur <button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e659">furstlichen durchlaucht</button> etc. genedigiste unnd milde mündt-<br/>
+<span class="lineNumber">79</span>liche erclärung mit höchster freudt angehört unnd mügen nach (wie zuvor <br/>
+<span class="lineNumber">80</span>zum öfftermallen) gott zu einen warhafftigen zeugen wol nemben, <br/>
+<span class="lineNumber">81</span>das sie biß daheer annders nichts gesuecht, gewünscht ader begert haben, dann <br/>
+<span class="lineNumber">82</span>das ein bestänndige, guette rhue unnd ainigkhait zwischen disen baiden <br/>
+<span class="lineNumber">83</span>relligionen angerichtet, also das sich die, so unnßerer relligion der <br/>
+<span class="lineNumber">84</span>augspurgischen confession zuegethan sein, von eurer <button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e686">furstlichen durchlaucht</button> etc. <br/>
+<span class="lineNumber">85</span>relligionsverwanndten khainer gefahr, widerwertigkhait<a class="fnNumber" href="#F_26" id="A_26">26</a> oder ver-<br/>
+<span class="lineNumber">86</span>folgung zu besorgen, wie sie sich dagegen bei den unnßrigen nit anders <br/>
+<span class="lineNumber">87</span>als alles liebs und guets zu versehen gehapt, unnd noch.
+<span class="lineNumber">88</span>Dieweil sie dann eur <button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e712">furstlichen durchlaucht</button> etc. jetzige genedigiste, mündtliche erclärung und <br/>
+<span class="lineNumber">89</span>vertröstung annderst nit verstehen khünnen, dann das es irer der lande <br/>
+<span class="lineNumber">90</span>negst ubergebenen schrifftlichen erclärung nichts durchaus zuwider, sonder <br/>
+<span class="lineNumber">91</span>ein genedigiste ratification derselben sey, wiewol sy an eurer <button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e725">furstlichen </button><br/>
+<span class="lineNumber">92</span><button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e725">durchlaucht</button> etc. gendigisten wolmainen hievor nie getzweiffelt, allain weß <br/>
+<span class="lineNumber">93</span>sie sich der mißgünner unnd unruebigen<a class="fnNumber" href="#F_27" id="A_27">27</a> leüth halben besorgen müessen. <br/>
+<span class="lineNumber">94</span>So wolte inen doch khains weegs gebüren, in eur <button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e741">furstlichen durchlaucht</button> etc. lanndts-<br/>
+<span class="lineNumber">95</span>fürstliche genedigiste wort ainichen zweiffel zu stellen<a class="fnNumber" href="#F_28" id="A_28">28</a>. <br/>
+<span class="lineNumber">96</span>Danckhen demnach zu vordrist<a class="fnNumber" href="#F_29" id="A_29">29</a> dem almechtigen gott, der dißes ihr <br/>
+<span class="lineNumber">97</span>lanngwürigs<a class="fnNumber" href="#F_30" id="A_30">30</a> seüfftzen, bitten und flechen<a class="fnNumber" href="#F_31" id="A_31">31</a> zu einen solchen gnedigen <br/>
+<span class="lineNumber">98</span> <span aria-label="a pagebreak without a facsimile" class="pagebreak" id="p-62v"> [Blatt: 62<span class="rectoVerso">v</span> ] </span>fridlichen endt geschickht<a class="fnNumber" href="#F_32" id="A_32">32</a> hat, unnd dann auch irer f<button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e779">urstlichen durchlaucht</button> etc. selbst, <br/>
+<span class="lineNumber">99</span>als iren genedigisten herrn unnd lanndtsfürsten, der so vätterlichen <br/>
+<span class="lineNumber">100</span>erclärung. Unnd bitten eur <button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e788">furstliche durchlaucht</button> etc. daneben gar unterthenigist, <br/>
+<span class="lineNumber">101</span>düemüttig<a class="fnNumber" href="#F_33" id="A_33">33</a>, da sie mit vorigen iren öfftern replicieren derselben <br/>
+<span class="lineNumber">102</span>was zuwider gehandelt hetten, sie wellen inen solches durch gottes <br/>
+<span class="lineNumber">103</span>barmherzigkhait willen genedigist vertzeichen<a class="fnNumber" href="#F_34" id="A_34">34</a> unnd annders nit deütten, <br/>
+<span class="lineNumber">104</span>dann das es ires gwissens befridung und versicherung wegen <br/>
+<span class="lineNumber">105</span>ihr höchste notturfft<a class="fnNumber" href="#F_35" id="A_35">35</a> erfordert hat, da sie sonsten sich gegen eur <button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e817">furstlichen </button><br/>
+<span class="lineNumber">106</span><button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e817">durchlaucht</button> etc. mit aller underthenigkhait des gehorßambs altzeit befleissigt.
+<span class="lineNumber">107</span>Es bedanckhen sich auch neben den gehorsamisten landtleüthen die von stetten <br/>
+<span class="lineNumber">108</span>unnd märckhten gar düemüettigist diser genedigisten unnd vätterlichen <br/>
+<span class="lineNumber">109</span>erleütterung, das sie unnd ire mitverwandten nit weniger als andere <br/>
+<span class="lineNumber">110</span>in iren gewissen befridet und versichert sein.
+<span class="lineNumber">111</span>Erbietten sich darauff die gehorßamisten ausschüß für sich und ire prin-<br/>
+<span class="lineNumber">112</span>cipaln sament und sonderlichen, das sy solches umb eur <button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e852">furstlichen durchlaucht</button> etc., <br/>
+<span class="lineNumber">113</span>derselben geliebte erben unnd nachkhumen, zu ewig zeitten ungespart<a class="fnNumber" href="#F_36" id="A_36">36</a> <br/>
+<span class="lineNumber">114</span>leib, guetes unnd bluets danckhbarlichen zu verdienen, sich nach eüsseristen <br/>
+<span class="lineNumber">115</span>vermügen befleissen wellen.
+<span class="lineNumber">116</span>Sie seindt auch urbiettig<a class="fnNumber" href="#F_37" id="A_37">37</a>, mit erster mügligkhait, eurer <button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e877">furstlichen durchlaucht</button> etc. <br/>
+<span class="lineNumber">117</span>genedigsten begern nach, zu der bewilligung zu greiffen und sich <br/>
+<span class="lineNumber">118</span> <span aria-label="a pagebreak without a facsimile" class="pagebreak" id="p-63r"> [Blatt: 63<span class="rectoVerso">r</span> ] </span>darinnen also gehorßamist zu ertzaigen, das eur <button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e889">furstliche durchlaucht</button> etc. ihr guett <br/>
+<span class="lineNumber">119</span>willigkait unnd gehorßamiste naigung in außgang der hanndlung würckh-<br/>
+<span class="lineNumber">120</span>lich spüren unnd befinden sollen. Darauff bitten Sie gar <br/>
+<span class="lineNumber">121</span>unterthänigist eur <button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e906">furstliche durchlaucht</button> etc., die wellen inen sie samentlichen, sambt stetten <br/>
+<span class="lineNumber">122</span>unnd märckhten, auch derselben inwonnern, die dieser relligion zuegethan <br/>
+<span class="lineNumber">123</span>sein, mit landtsfürstlichen gnaden jederzeit lassen bevolchen<a class="fnNumber" href="#F_38" id="A_38">38</a> sein.
+<span class="lineNumber">124</span>Darauff haben ihr <button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e925">furstliche durchlaucht </button>etc. verrer angetzaigt: »Was ich euch zuegesagt <br/>
+<span class="lineNumber">125</span>unnd wie ich mich gegen euch erclert hab, dem will ich also nachkumen. <br/>
+<span class="lineNumber">126</span>Versiche<a class="fnNumber" href="#F_39" id="A_39">39</a> mich gäntzlich, ihr werdets auch thuen. Unnd damit man hinfüro in <br/>
+<span class="lineNumber">127</span>gleichem, vertreulichen verstanndt<a class="fnNumber" href="#F_40" id="A_40">40</a> verbleiben müge, so soll man nit immerzue <br/>
+<span class="lineNumber">128</span>ein jeden ohrenploßer<a class="fnNumber" href="#F_41" id="A_41">41</a> glauben geben, sundern das man erstlich guetten <br/>
+<span class="lineNumber">129</span>grundt unnd bericht einneme<a class="fnNumber" href="#F_42" id="A_42">42</a> unnd mir solches antzaigen und berichten.«
+<span class="lineNumber">130</span>Auf das hat <button class="entity #hoffmann_hans_friedrich person" data-ref="hoffmann_hans_friedrich" data-type="person" id="d2e964">herr Hoffman</button> auch zu beschluß verrer vermelt, die gehorßamisten <br/>
+<span class="lineNumber">131</span>der lannde ausschüß bitten gleiches fals (des ich zu vermelden ver-<br/>
+<span class="lineNumber">132</span>gessen) ihr <button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e979">furstliche durchlaucht</button> etc. unterthenigist, sie wellen denen personen, welche <br/>
+<span class="lineNumber">133</span>zwischen irer <button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e985">furstlichen durchlaucht</button> etc. unnd derselben gehorßamisten unnd getreuen <br/>
+<span class="lineNumber">134</span>lannde unainigkhait unnd mißverstandt pflantzen<a class="fnNumber" href="#F_43" id="A_43">43</a>, auch genedigist khainen <br/>
+<span class="lineNumber">135</span>glauben geben oder sich wider derselben getreue unterthanen bewegen<a class="fnNumber" href="#F_44" id="A_44">44</a> lassen, <br/>
+<span class="lineNumber">136</span>unnd sie wellen auch jedertzeit, do inen was beschwärliches fürfelt<a class="fnNumber" href="#F_45" id="A_45">45</a>, zu irer <br/>
+<span class="lineNumber">137</span><button class="entity #karl_inneroesterreich person" data-ref="karl_inneroesterreich" data-type="person" id="d2e1010">furstlichen durchlaucht</button> etc. als irem genedigisten hern und landtsfürsten ihre zueflucht haben.
+<span class="lineNumber">138</span> <span aria-label="a pagebreak without a facsimile" class="pagebreak" id="p-63v"> [Blatt: 63<span class="rectoVerso">v</span> ] </span>Unnd weil dise mündtliche tractation aus dem Mundt, wie die zu beeden <br/>
+<span class="lineNumber">139</span>thaillen geredt, treulich beschrieben unnd auffs papier glaubwürdig <br/>
+<span class="lineNumber">140</span>gebracht worden, demnach unnd zu mehrer khünfftigen gedechtnus <br/>
+<span class="lineNumber">141</span>der sachen, haben sie, die herren ausschüß der augspurgischen confession <br/>
+<span class="lineNumber">142</span>zuegethan, solches alles abgehört<a class="fnNumber" href="#F_46" id="A_46">46</a> unnd jedem lanndt unter irer aignen handt-<br/>
+<span class="lineNumber">143</span>schrifft unnd pettschadt<a class="fnNumber" href="#F_47" id="A_47">47</a> gleichlauttundt concept zuegestelt. Geschehen <br/>
+<span class="lineNumber">144</span>zu <button class="entity #bruck_an_der_mur place" data-ref="bruck_an_der_mur" data-type="place" id="d2e1052">Pruckh an der Muer</button> den neündten februari anno im achtundsibentzigisten.
+<span class="lineNumber">145</span> <br/>
+<span class="lineNumber">146</span><button class="entity #hoffmann_hans_friedrich person" data-ref="hoffmann_hans_friedrich" data-type="person" id="d2e1067">Hannß Fridrich Hoffman</button>, freyherr etc. landt- und erkiester marschalck, <br/>
+<span class="lineNumber">147</span><button class="entity #egk_hannibal person" data-ref="egk_hannibal" data-type="person" id="d2e1073">Hanibal, freyherr zu Eckh</button>, <br/>
+<span class="lineNumber">148</span><button class="entity #radmannsdorf_otto person" data-ref="radmannsdorf_otto" data-type="person" id="d2e1078">Ott von Ratmanstorff</button> <br/>
+<span class="lineNumber">149</span><button class="entity #herberstein_georg person" data-ref="herberstein_georg" data-type="person" id="d2e1083">Geörg, freyherr zu Herberstain</button> <br/>
+<span class="lineNumber">150</span><button class="entity #hoffmann_ferdinand person" data-ref="hoffmann_ferdinand" data-type="person" id="d2e1089">Ferdinandt Hoffman</button>, freyherr etc. <br/>
+<span class="lineNumber">151</span><button class="entity #gleispach_wilhelm person" data-ref="gleispach_wilhelm" data-type="person" id="d2e1094">Wilhalbm von Gleispach, freyherr von Scheyr</button> <br/>
+<span class="lineNumber">152</span><button class="entity #thurn_achaz person" data-ref="thurn_achaz" data-type="person" id="d2e1099">Achatz, freyherr von Thurn</button> <br/>
+<span class="lineNumber">153</span><button class="entity #tannhausen_paul person" data-ref="tannhausen_paul" data-type="person" id="d2e1105">Paul, freyherr von Thanhaußen</button> <br/>
+<span class="lineNumber">154</span><button class="entity #rindsmaul_michael person" data-ref="rindsmaul_michael" data-type="person" id="d2e1110">Michel Rindsmaul </button> <br/>
+<span class="lineNumber">155</span><button class="entity #poppendorf_franz person" data-ref="poppendorf_franz" data-type="person" id="d2e1115">Franz von Poppendorff </button> <br/>
+<span class="lineNumber">156</span>L. von Kholnicz <br/>
+<span class="lineNumber">157</span><button class="entity #welz_lienhard person" data-ref="welz_lienhard" data-type="person" id="d2e1124">Lienhardt Weltzer zu Eberstain</button> etc. <br/>
+<span class="lineNumber">158</span><button class="entity #lamberg_maximilian person" data-ref="lamberg_maximilian" data-type="person" id="d2e1129">Maximilian von Lamberg</button> <br/>
+<span class="lineNumber">159</span><button class="entity #stadl_erasam person" data-ref="stadl_erasam" data-type="person" id="d2e1135">Erasm Stadler</button>, ritter <br/>
+<span class="lineNumber">160</span><button class="entity #gallenberg_hans person" data-ref="gallenberg_hans" data-type="person" id="d2e1140">Hanß von Gallenberg, freyherr von Holneckh</button> <br/>
+<span class="lineNumber">161</span><button class="entity #saurau_erasam person" data-ref="saurau_erasam" data-type="person" id="d2e1145">Eraßm von Saurau </button> <br/>
+<span class="lineNumber">162</span><button class="entity #ungnad_ludwig person" data-ref="ungnad_ludwig" data-type="person" id="d2e1151">Ludwig Ungnadt</button>, freyherr <br/>
+<span class="lineNumber">163</span><button class="entity #gera_wilhelm person" data-ref="gera_wilhelm" data-type="person" id="d2e1156">Wilhalbm von Gera auf Arnfelß</button> <br/>
+<span class="lineNumber">164</span><button class="entity #senuß_melchisedek person" data-ref="senuß_melchisedek" data-type="person" id="d2e1161">Melchisedech Senuß zu Freidenberg</button> <br/>
+<span class="lineNumber">165</span><button class="entity #khevenhueller_bartholomaeus person" data-ref="khevenhueller_bartholomaeus" data-type="person" id="d2e1167">Bärtlme Khevenhüller</button>, freyherr etc. <br/>
+<span class="lineNumber">166</span><button class="entity #manndorff_caspar person" data-ref="manndorff_caspar" data-type="person" id="d2e1172">Caspar Mandorffer zu Mandorff</button> <br/>
+<span class="lineNumber">167</span><button class="entity #zwickel_wolff person" data-ref="zwickel_wolff" data-type="person" id="d2e1177">Wolff Zwickhl</button> <br/>
+<span class="lineNumber">168</span><button class="entity #neuhaus_hans_franz person" data-ref="neuhaus_hans_franz" data-type="person" id="d2e1183">Hanß Frantz von Neuhauß</button> <br/>
+<span class="lineNumber">169</span><button class="entity #wilfersdorf_jonas person" data-ref="wilfersdorf_jonas" data-type="person" id="d2e1188">Jonas von Wilfferstorff</button> <br/>
+<span class="lineNumber">170</span><button class="entity #rottal_wilhelm person" data-ref="rottal_wilhelm" data-type="person" id="d2e1193">Wilhalbm von Rottal, der elter zu Neudau</button> <br/>
+<span class="lineNumber">171</span><button class="entity #zaech_jacob person" data-ref="zaech_jacob" data-type="person" id="d2e1199">Jacob Zäch</button>, ritter <br/>
+<span class="lineNumber">172</span><button class="entity #banhan_niclas person" data-ref="banhan_niclas" data-type="person" id="d2e1204">Niclaß Banhan zu Wolfspüchl</button> <br/>
+<span class="lineNumber">173</span><button class="entity #radmannsdorf_wilhelm person" data-ref="radmannsdorf_wilhelm" data-type="person" id="d2e1209">Wilhalbm von Rattmanstorff zum Weyer</button> <br/>
+<span class="lineNumber">174</span> <span aria-label="a pagebreak without a facsimile" class="pagebreak" id="p-64r"> [Blatt: 64<span class="rectoVerso">r</span> ] </span><button class="entity #pranckh_hans person" data-ref="pranckh_hans" data-type="person" id="d2e1217">Hannß von Pranckh</button> <br/>
+<span class="lineNumber">175</span><button class="entity #welz_siegmund person" data-ref="welz_siegmund" data-type="person" id="d2e1222">Sigmundt Weltzer von Eberstain</button> <br/>
+<span class="lineNumber">176</span><button class="entity #strassberger_michel person" data-ref="strassberger_michel" data-type="person" id="d2e1228">Michl Strasperger</button> <br/>
+<span class="lineNumber">177</span><button class="entity #lengheim_adam person" data-ref="lengheim_adam" data-type="person" id="d2e1233">Adam von Lenghaimb</button> <br/>
+<span class="lineNumber">178</span><button class="entity #trauttmansdorff_hans-Friedrich person" data-ref="trauttmansdorff_hans-Friedrich" data-type="person" id="d2e1238">Hannß Fridrich von Trautmannstorff</button> <br/>
+<span class="lineNumber">179</span><button class="entity #khemeter_hans person" data-ref="khemeter_hans" data-type="person" id="d2e1244">Hanß Khemeter</button> <br/>
+<span class="lineNumber">180</span><button class="entity #neuheus_philipp person" data-ref="neuheus_philipp" data-type="person" id="d2e1249">Philipp Dräxler von Neuhauß</button> <br/>
+<span class="lineNumber">181</span><button class="entity #khuenberg_maximilian person" data-ref="khuenberg_maximilian" data-type="person" id="d2e1254">Maximilian von Khuenberg</button> <br/>
+<span class="lineNumber">182</span><button class="entity #herbstperger_balthasar person" data-ref="herbstperger_balthasar" data-type="person" id="d2e1260">Balthauser Herbstperger</button> <br/>
+<span class="lineNumber">183</span><button class="entity #racknitz_gall person" data-ref="racknitz_gall" data-type="person" id="d2e1265">Gall, freyherr zu Räckhnitz</button> <br/>
+<span class="lineNumber">184</span><button class="entity #welz_viktor person" data-ref="welz_viktor" data-type="person" id="d2e1270">Victor Weltzer</button> <br/>
+<span class="lineNumber">185</span><button class="entity #schuetter_lienhard person" data-ref="schuetter_lienhard" data-type="person" id="d2e1276">Lienhardt Schütter</button> <br/>
+<span class="lineNumber">186</span><button class="entity #keutschach_lienhard person" data-ref="keutschach_lienhard" data-type="person" id="d2e1281">Lienhardt von Kheuttschach</button>, ritter <br/>
+<span class="lineNumber">187</span><button class="entity #cren_lienhard person" data-ref="cren_lienhard" data-type="person" id="d2e1286">Lienhardt Cren</button> <br/>
+<span class="lineNumber">188</span><button class="entity #thalmann_urban person" data-ref="thalmann_urban" data-type="person" id="d2e1292">Urban Thalman</button> <br/>
+<span class="lineNumber">189</span><button class="entity #pinta_balthasar person" data-ref="pinta_balthasar" data-type="person" id="d2e1297">Balthaußer Pinter </button>

@@ -1,0 +1,1692 @@
+<?xml-model href="../../../customization/schema_quellentexte/religionsfrieden-quellentexte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa000008-0307">
+        
+        
+        
+        
+        <teiHeader>      
+                <fileDesc>         
+                        <titleStmt>
+                                <title level="a">Religionsassekuration für Österreich ob der Enns (14. Januar 1571)</title>
+                                <title level="s">Europäische Religionsfrieden Digital</title>
+                                 
+                                
+                                <editor role="http://id.loc.gov/vocabulary/relators/edt" ref="http://d-nb.info/gnd/1063979854">
+                    <persName>Marion Bechtold-Mayer</persName>
+                </editor>
+                                <respStmt>
+                    <resp ref="http://id.loc.gov/vocabulary/relators/mrk">Mitarbeit</resp>
+                    <persName>Kevin Wunsch</persName>
+                    <persName>Silke Kalmer</persName>
+                </respStmt>           
+                        </titleStmt>         
+                        <editionStmt>
+                                <edition>Digitale Edition gemäß <ref target="http://www.tei-c.org/">TEI P5</ref>
+                </edition>
+                                <funder>Akademie der Wissenschaften und der Literatur Mainz</funder>
+                <principal>Unter der Leitung von Irene Dingel und Thomas Stäcker</principal>
+                        </editionStmt>         
+                        <publicationStmt>
+                                <publisher>
+                                        <orgName ref="http://www.isni.org/0000000119314040">Leibniz-Institut für Europäische Geschichte Mainz</orgName>
+                                </publisher>           
+                                <distributor>
+                                        <orgName ref="http://www.isni.org/0000000110101946">Universitäts- und Landesbibliothek Darmstadt</orgName>
+                                        <idno type="ISIL">http://lobid.org/organisation/DE-17</idno>
+                                </distributor>
+                                <date when="2013-10-17" type="issued">2013</date>
+                                <availability>
+                                        <licence target="https://creativecommons.org/licenses/by/4.0/">
+                                                <p xml:lang="en">This file is licensed under the terms of the Creative Commons License CC-BY 4.0 (Attribution 4.0 International)</p>
+                                        </licence>
+                                </availability>
+                        </publicationStmt>        
+                        <sourceDesc>
+                                <p>Textgrundlage s. ggf. Einleitung.</p>   
+                        </sourceDesc>
+                </fileDesc>      
+                <encodingDesc>         
+                        <projectDesc>
+                                <p>
+                    <ref target="https://eured.de">Europäische Religionsfrieden Digital</ref>
+                </p>
+                        </projectDesc>
+                        <classDecl>
+                                <taxonomy xml:id="marcrelator">
+                                        <bibl>
+                        <idno type="URI">http://id.loc.gov/vocabulary/relators/</idno> MARC Code List for Relators </bibl>
+                                </taxonomy>
+                        </classDecl>         
+                </encodingDesc>      
+                <profileDesc>         
+                        <langUsage>
+                                <language ident="deu">Deutsch</language>
+                        </langUsage>         
+                </profileDesc>      
+                <!--<revisionDesc><change/></revisionDesc>-->   
+        </teiHeader>
+    <standOff>
+        <listPerson>
+            <person xml:id="maximilian_ii">
+                    <persName ref="http://d-nb.info/gnd/11857938X">
+                        <forename>Maximilian II.</forename>
+                        <roleName>Kaiser</roleName>
+                    </persName>
+                    <note>Kaiser des <rs type="place" ref="#heiliges_roemisches_reich">Heiligen
+                            Römischen Reichs</rs>.</note>
+                </person>
+            <person xml:id="ferdinand_i">
+                    <persName ref="http://d-nb.info/gnd/118532502">
+                        <forename>Ferdinand I.</forename>
+                        <roleName>Kaiser</roleName>
+                    </persName>
+                    <note>Kaiser des <rs type="place" ref="#heiliges_roemisches_reich">Heiligen
+                            Römischen Reichs</rs>
+                </note>
+                </person>
+            <person xml:id="karl_v">
+                    <persName ref="http://d-nb.info/gnd/118560093">
+                        <forename>Karl V.</forename>
+                        <roleName>Kaiser</roleName>
+                    </persName>
+                    <note>Kaiser des <rs type="place" ref="#heiliges_roemisches_reich">Heiligen
+                            Römischen Reichs</rs>.</note>
+                </person>
+            <person xml:id="maria_hrr">
+                    <persName ref="http://d-nb.info/gnd/101103573">
+                        <forename>Maria</forename>
+                        <surname type="toponymic">
+                            <rs type="place" ref="#heiliges_roemisches_reich">Heiligen Römischen
+                                Reichs</rs>
+                        </surname>
+                        <nameLink>des</nameLink>
+                        <roleName>Kaiserin</roleName>
+                    </persName>
+                </person>
+            <person xml:id="karl_inneroesterreich">
+                    <persName ref="http://d-nb.info/gnd/118560069">
+                        <forename>Karl II. Franz</forename>
+                        <nameLink>von</nameLink>
+                        <surname type="toponymic">
+                            <rs type="place" ref="#inneroesterreich">Innerösterreich</rs>
+                        </surname>
+                        <roleName>Erzherzog</roleName>
+                    </persName>
+                </person>
+            <person xml:id="chytraeus_david">
+                    <persName ref=" http://d-nb.info/gnd/119009137">
+                        <forename>David</forename>
+                        <surname>Chyträus </surname>
+                    </persName>
+                </person>
+        </listPerson>
+        <listPlace>
+            <place xml:id="heiliges_roemisches_reich">
+                    <placeName ref="http://d-nb.info/gnd/2035457-5">Heiliges Römisches Reich
+                        Deutscher Nation</placeName>
+                    <!-- dnb link geprüft, BM, 18.1.2021 -->
+                </place>
+            <place xml:id="inneroesterreich">
+                    <placeName>Innerösterreich</placeName>
+                </place>
+            <place xml:id="oesterreich_unter_der_enns_erzherzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4075391-8">Österreich unter der
+                        Enns</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="ungarn_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/4078541-5">Ungarn, Königreich</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="boehmen_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/63739-7">Böhmen, Königreich</placeName>
+                    <!-- dnb link geprüft, BM, 14.1.2021 -->
+                </place>
+            <place xml:id="dalmatien">
+                    <placeName>Dalmatien, Region</placeName>
+                </place>
+            <place xml:id="kroatien_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/4073841-3">Kroatien-Slawonien,
+                        Königreich</placeName>
+                    <!-- dnb Link überprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="oesterreich_erzherzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4075601-4">Österreich,
+                        Erzherzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="burgund_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4009139-9">Burgund, Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 14.1.2021 -->
+                </place>
+            <place xml:id="steiermark_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4057092-7">Steiermark,
+                        Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="kaernten_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4029175-3">Kärnten, Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="krain_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4032741-3">Krain, Herzogtum</placeName>
+                    <!-- dnb Link geprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="wuerttemberg_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4067029-6">Württemberg,
+                        Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 21.1.2021 -->
+                </place>
+            <place xml:id="tirol_grafschaft">
+                    <placeName ref="http://d-nb.info/gnd/4060207-2">Tirol, Grafschaft</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="oesterreich_ob_der_enns">
+                    <placeName ref="http://d-nb.info/gnd/4075560-5">Österreich ob der Enns </placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="wien">
+                    <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
+                </place>
+            <place xml:id="prag">
+                    <placeName ref="http://www.geonames.org/3067696/prague.html">Prag,
+                        Stadt</placeName>
+                </place>
+            <place xml:id="vorderoesterreich">
+                    <placeName ref="http://d-nb.info/gnd/4063961-7">Vorderösterreich</placeName>
+                </place>
+        </listPlace>
+    </standOff>
+        
+        <!-- noch nicht gemacht sind die Einträge in listplace und listperson, die bisher noch nicht angelegt waren-->  
+        <!-- noch nicht fertig ist die Modernisierung der Zeichensetzung --> 
+<text>
+<body> 
+       <div>
+<head type="main">
+<!-- 1 -->
+                    <lb/>
+                    <pb n="168v"/>
+                    <note type="annotation">In der Akte ist das Deckblatt ans Ende geheftet.</note>
+                    <seg type="crit_app">
+                        <hi rend="initiale">C.</hi>
+<!-- 2 -->
+                        <lb/>Letztere <hi rend="antiqua">
+                            <choice>
+                                <orig>Assecuration</orig>
+                                <reg>assecuration</reg>
+                            </choice>
+                        </hi>, darein das 
+<!-- 3 -->
+                        <lb/>
+                        <choice>
+                            <orig>Wörttl</orig>
+                            <reg>wörttl</reg>
+                        </choice> <hi rend="antiqua">
+                            <choice>
+                                <orig>Agenda</orig>
+                                <reg>agenda</reg>
+                            </choice>
+                        </hi> auch khomen,
+<!-- 4 -->
+                        <lb/>vermug des decrets hernach mit 
+<!-- 5 -->
+                        <lb/>
+                        <hi rend="initiale">J.</hi>
+<!-- 6 -->
+                        <lb/>Diese <hi rend="italic">
+                            <choice>
+                                <orig>aſſecuration</orig>
+                                <reg>assecuration</reg>
+                            </choice>
+                        </hi> <choice>
+                            <orig>vnnd</orig>
+                            <reg>unnd</reg>
+                        </choice> <choice>
+                            <orig>daſſelb</orig>
+                            <reg>dasselb</reg>
+                        </choice>
+<!-- 7 -->
+                        <lb/>
+                        <choice>
+                            <orig>Decret</orig>
+                            <reg>decret</reg>
+                        </choice> <choice>
+                            <orig>ſein</orig>
+                            <reg>sein</reg>
+                        </choice> an aim tag <choice>
+                            <orig>eruolgt</orig>
+                            <reg/>
+                        </choice>.</seg>
+                    <note type="crit_app">Hs. 1: <rs type="person" ref="#maximilian_ii"/>Röm<ex>isch</ex> khay<ex>serlicher</ex> <choice>
+                            <orig>M[ayeſtet]</orig>
+                            <reg>mayestet</reg>
+                        </choice> etc: <choice>
+                            <orig>Aſſecuration</orig>
+                            <reg>assecuration</reg>
+                        </choice> die <choice>
+                            <orig>Religion</orig>
+                            <reg>religion</reg>
+                        </choice> <choice>
+                            <orig>Betreffendt</orig>
+                            <reg>betreffend</reg>
+                        </choice>; Hs 2: <hi rend="italic">
+                            <hi rend="antiqua">Religion <choice>
+                                    <orig>Concesion</orig>
+                                    <reg>concession</reg>
+                                </choice>
+                            </hi> <choice>
+                                <orig>Khay[ſer]</orig>
+                                <reg>khayser</reg>
+                            </choice> <rs type="person" ref="#maximilian_ii">Maximilian des andern</rs>, den <choice>
+                                <orig>vnderöſterreichiſchen</orig>
+                                <reg>underösterreichischen</reg>
+                            </choice> gegeben, <choice>
+                                <orig>Anno</orig>
+                                <reg>anno</reg>
+                            </choice> etc. 71</hi>
+                    </note> 
+</head>
+       </div>
+       <div>
+       <p> 
+<!-- 8 -->
+                    <lb/>
+                    <pb n="167r"/>
+                    <rs type="person" ref="#maximilian_ii">
+                        <hi rend="initiale">
+                            <choice>
+                                <orig>WJR</orig>
+                                <reg>Wir</reg>
+                            </choice>
+                        </hi>
+                    </rs>
+                    <note type="crit_app">Hs. 2: <hi rend="italic">davor</hi> <hi rend="italic">
+                            <hi rend="initiale">
+                                <choice>
+                                    <orig>Aſecuration</orig>
+                                    <reg>Asecuration</reg>
+                                </choice> der <rs type="place" ref="#maximilian_ii"/>
+                                <choice>
+                                    <orig>Khay[ſerlichen]</orig>
+                                    <reg>khayserlichen</reg>
+                                </choice> <choice>
+                                    <orig>May[eſtet]</orig>
+                                    <reg>mayestet</reg>
+                                </choice> den <choice>
+                                    <orig>Zwaien</orig>
+                                    <reg>zwaien</reg>
+                                </choice>
+                            </hi> <choice>
+                                <orig>Stennden</orig>
+                                <reg>stennden</reg>
+                            </choice> gegeben in <rs type="place" ref="#oesterreich_unter_der_enns_erzherzogtum"/>
+                            <choice>
+                                <orig>oſterreich</orig>
+                                <reg>Osterreich</reg>
+                            </choice> <choice>
+                                <orig>vnder</orig>
+                                <reg>under</reg>
+                            </choice> der Ennß, der <choice>
+                                <orig>Religion</orig>
+                                <reg>religion</reg>
+                            </choice> halben.</hi>
+                    </note> <hi rend="antiqua">
+                        <rs type="person" ref="#maximilian_ii">Maximilian der Andere</rs>
+                    </hi> etc.<note type="crit_app">Hs. 1, Hs. 2 und <rs type="bibl" ref="#abtruck_1620">Abtruck deren Concessionum, S. 6f.</rs>: Von <choice>
+                            <orig>Gottes</orig>
+                            <reg>gottes</reg>
+                        </choice> genaden <choice>
+                            <orig>Erwelter</orig>
+                            <reg>erwelter</reg>
+                        </choice> <choice>
+                            <orig>Römiſcher</orig>
+                            <reg>römischer</reg>
+                        </choice> <choice>
+                            <orig>Khaiſer</orig>
+                            <reg>khaiser</reg>
+                        </choice>
+                        <reg>,</reg> zu allen zeiten merer des <choice>
+                            <orig>Reichs</orig>
+                            <reg>reichs</reg>
+                        </choice> <choice>
+                            <orig>Jn</orig>
+                            <reg>in</reg>
+                        </choice> <rs type="place" ref="#heiliges_roemisches_reich">Germanien</rs> zu <rs type="place" ref="#ungarn_koenigreich">Hungern</rs> <choice>
+                            <orig>vnnd</orig>
+                            <reg>unnd</reg>
+                        </choice> <rs type="place" ref="#boehmen_koenigreich">Behaimb</rs>, <rs type="place" ref="#dalmatien">
+                            <choice>
+                                <orig>dalmatien</orig>
+                                <reg>Dalmatien</reg>
+                            </choice>
+                        </rs>
+                        <reg>,</reg> <rs type="place" ref="#kroatien_koenigreich">Croatien</rs> <choice>
+                            <orig>vnnd</orig>
+                            <reg>unnd</reg>
+                        </choice> <!-- Eintrag erstellen -->
+                        <rs type="place" ref="#">
+                            <choice>
+                                <orig>Schlauonien</orig>
+                                <reg>Schlavonien</reg>
+                            </choice>
+                        </rs>
+                        <orig>,</orig> <choice>
+                            <orig>Khönig</orig>
+                            <reg>khönig</reg>
+                        </choice>
+                        <reg>,</reg> <choice>
+                            <orig>Ertzhertzog</orig>
+                            <reg>ertzhertzog</reg>
+                        </choice> zu <rs type="place" ref="#oesterreich_erzherzogtum">
+                            <choice>
+                                <orig>Oſterreich</orig>
+                                <reg>Osterreich</reg>
+                            </choice>
+                        </rs>
+                        <reg>,</reg> <choice>
+                            <orig>Hertzog</orig>
+                            <reg>hertzog</reg>
+                        </choice> zu <rs type="place" ref="#burgund_herzogtum">Burgundi</rs>, <rs type="place" ref="#steiermark_herzogtum">Steyr</rs>
+                        <reg>,</reg> <rs type="place" ref="#kaernten_herzogtum">Khärndten</rs>
+                        <reg>,</reg> <rs type="place" ref="#krain_herzogtum">Crain</rs> <choice>
+                            <orig>vnd</orig>
+                            <reg>und</reg>
+                        </choice> <rs type="place" ref="#wuerttemberg_herzogtum">Wirttenberg</rs>, <choice>
+                            <orig>Graue</orig>
+                            <reg>grave</reg>
+                        </choice> zu <rs type="place" ref="#tirol_grafschaft">Tyroll</rs> etc.</note> <choice>
+                        <orig>Bekhennen</orig>
+                        <reg>bekhennen</reg>
+                    </choice> nachdem 
+<!-- 9 -->
+                    <lb/>
+                    <choice>
+                        <orig>vnnſere</orig>
+                        <reg>unnsere</reg>
+                    </choice> <choice>
+                        <orig>getrewen</orig>
+                        <reg>getreuen</reg>
+                    </choice> zwen <choice>
+                        <orig>Stennde</orig>
+                        <reg>stende</reg>
+                    </choice> von <choice>
+                        <orig>Herrn</orig>
+                        <reg>herrn</reg>
+                    </choice> <choice>
+                        <orig>vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> <choice>
+                        <orig>
+                            <w>Ritter
+<!-- 10 -->
+                                <pc>-</pc>
+                                <lb/>ſchafft</w>
+                        </orig>
+                        <reg>
+                            <w>ritter<pc>-</pc>
+                                <lb/>schafft</w>
+                        </reg>
+                    </choice> <choice>
+                        <orig>vnnſers</orig>
+                        <reg>unnsers</reg>
+                    </choice> <choice>
+                        <orig>Ertzhertzogthumbs</orig>
+                        <reg>ertzhertzogthumbs</reg>
+                    </choice> <rs type="place" ref="#oesterreich_unter_der_enns_erzherzogtum">
+                        <choice>
+                            <orig>Öſterreich</orig>
+                            <reg>Österreich</reg>
+                        </choice> <choice>
+                            <orig>vnnd[er]</orig>
+                            <reg>under</reg>
+                        </choice> der Enns</rs>,
+<!-- 11 -->
+                    <lb/>nun vil lange <choice>
+                        <orig>Jahr</orig>
+                        <reg>jahr</reg>
+                    </choice>, <choice>
+                        <orig>ſo</orig>
+                        <reg>so</reg>
+                    </choice> wol bey der <choice>
+                        <orig>Regierungs</orig>
+                        <reg>regierungs</reg>
+                    </choice> zeit weylendt 
+<!-- 12 -->
+                    <lb/>
+                    <choice>
+                        <orig>vnnſers</orig>
+                        <reg>unnsers</reg>
+                    </choice> lieben <choice>
+                        <orig>Herrn</orig>
+                        <reg>herrn</reg>
+                    </choice> <choice>
+                        <orig>vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> <choice>
+                        <orig>Vattern</orig>
+                        <reg>vattern</reg>
+                    </choice> <choice>
+                        <orig>Kaiſer</orig>
+                        <reg>kaiser</reg>
+                    </choice> <rs type="person" ref="#ferdinand_i">Ferdinanden</rs>, <choice>
+                        <orig>
+                            <w>Gott
+<!-- 13 -->
+                                <pc>-</pc>
+                                <lb/>ſelliger</w>
+                        </orig> <reg>
+                            <w>gott<pc>-</pc>
+                                <lb/>selliger</w>
+                        </reg>
+                    </choice> <choice>
+                        <orig>vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> hochloblicher gedechtnus, alß nachmals bey <rs type="person" ref="#maximilian_ii"/>
+                    <choice>
+                        <orig>vns</orig>
+                        <reg>uns</reg>
+                    </choice> 
+<!-- 14 -->
+                    <lb/>
+                    <choice>
+                        <orig>ſelbst</orig>
+                        <reg>selbst</reg>
+                    </choice>
+                    <orig>,</orig> nach eintrettung <choice>
+                        <orig>vnnſers</orig>
+                        <reg>unnsers</reg>
+                    </choice> <choice>
+                        <orig>Kaiſerthumbs</orig>
+                        <reg>kaiserthumbs</reg>
+                    </choice>
+                    <orig>,</orig> <choice>
+                        <orig>vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> <choice>
+                        <orig>Furſtliche[en]</orig>
+                        <reg>furstlichen</reg>
+                    </choice>
+<!-- 15 -->
+                    <lb/>
+                    <choice>
+                        <orig>Regiments</orig>
+                        <reg>regiments</reg>
+                    </choice> <choice>
+                        <orig>vnnd[er]thenigiſt</orig>
+                        <reg>unnderthenigist</reg>
+                    </choice> <choice>
+                        <orig>vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> <choice>
+                        <orig>vnaufhorlich</orig>
+                        <reg>unaufhorlich</reg>
+                    </choice> gebetten<reg>,</reg> <choice>
+                        <orig>Jnen</orig>
+                        <reg>inen</reg>
+                    </choice> <choice>
+                        <orig>g[nedig]lich</orig>
+                        <reg>gnediglich</reg>
+                    </choice>
+<!-- 16 -->
+                    <lb/>
+                    <choice>
+                        <orig>zuuergonnen</orig>
+                        <reg>zuvergonnen</reg>
+                    </choice>, das <choice>
+                        <orig>Sie</orig>
+                        <reg>sie</reg>
+                    </choice> <choice>
+                        <orig>ſich</orig>
+                        <reg>sich</reg>
+                    </choice> des <seg type="crit_app">
+                        <choice>
+                            <orig>Religionis</orig>
+                            <reg>religionis</reg>
+                        </choice> <hi rend="italic">
+                            <choice>
+                                <orig>Exercitij</orig>
+                                <reg>exercitii</reg>
+                            </choice>
+                        </hi>
+                    </seg>
+                    <note type="crit_app">Hs. 1, Hs. 2 und <rs type="bibl" ref="#abtruck_1620">Abtruck deren Concessionum, S. 7</rs>: <choice>
+                            <orig>Exercitij</orig>
+                            <reg>exercitii</reg>
+                        </choice> <choice>
+                            <orig>Religionis</orig>
+                            <reg>religionis</reg>
+                        </choice>
+                    </note>
+                    <reg>,</reg> alß<note type="annotation">Das heißt.</note> in 
+<!-- 17 -->
+                    <lb/>
+                    <choice>
+                        <orig>Verkhundung</orig>
+                        <reg>verkhundung</reg>
+                    </choice> des <choice>
+                        <orig>Gottlichen</orig>
+                        <reg>gottlichen</reg>
+                    </choice> worts, raichung <choice>
+                        <orig>d[er]</orig>
+                        <reg>der</reg>
+                    </choice> <choice>
+                        <orig>Sacramenta</orig>
+                        <reg>sacramenta</reg>
+                    </choice>
+<!-- 18 -->
+                    <lb/>
+                    <choice>
+                        <orig>vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> <choice>
+                        <orig>anſtellung</orig>
+                        <reg>anstellung</reg>
+                    </choice>
+                    <note type="annotation">Verrichtung</note> der <choice>
+                        <orig>Ceremonien</orig>
+                        <reg>ceremonien</reg>
+                    </choice>, <hi rend="underline">nach <choice>
+                            <orig>außweiſung</orig>
+                            <reg>außweisung</reg>
+                        </choice> der <choice>
+                            <orig>Aug
+<!-- 19 -->
+                                <lb/>ſpurgischen</orig> <reg>
+                                <w>aug<pc>-</pc>
+                                    <lb/>spurgischen</w>
+                            </reg>
+                        </choice> <choice>
+                            <orig>Confeſſion</orig>
+                            <reg>confession</reg>
+                        </choice>
+                        <reg>,</reg> wie die <choice>
+                            <orig>Anno</orig>
+                            <reg>anno</reg>
+                        </choice> etc.<note type="crit_app">Fehlt Hs. 1 und <rs type="bibl" ref="#abtruck_1620">Abtruck deren Concessionum, S. 7</rs>.</note> 30 <choice>
+                            <orig>vnnſerm</orig>
+                            <reg>unnserm</reg>
+                        </choice> auch
+<!-- 20 -->
+                        <lb/>in <choice>
+                            <orig>Gott</orig>
+                            <reg>gott</reg>
+                        </choice> <choice>
+                            <orig>Rhuenden</orig>
+                            <reg>rhuenden</reg>
+                        </choice> lieben herrn vettern<note type="annotation">In der alten Bedeutung: Vatersbruder (also Onkel). <rs type="person" ref="#maximilian_ii">Maximilians</rs> Vater, <rs type="person" ref="#ferdinand_i">Ferdiand I.</rs>, war der jüngere Bruder <rs type="person" ref="#karl_v">Karls V.</rs>
+                        </note>
+                        <reg>,</reg> <choice>
+                            <orig>Schwehen</orig>
+                            <reg>schwehen</reg>
+                        </choice>
+                        <note type="annotation">Schwiegervater. <rs type="person" ref="#maximilian_ii">Maximilian II.</rs> war seit 1548 mit <rs type="person" ref="#maria_hrr">Maria</rs><!-- Eintrag erstellen -->, der Tochter seines Onkels <rs type="person" ref="karl_v">Karls V.</rs>, verheiratet.</note> <choice>
+                            <orig>vnd</orig>
+                            <reg>und</reg>
+                        </choice> vatter<note type="annotation">Ahne, Vorfahre.</note>
+<!-- 21 -->
+                        <lb/>
+                        <choice>
+                            <orig>Kaiſer</orig>
+                            <reg>kaiser</reg>
+                        </choice> <rs type="person" ref="#karl_v">Carl dem Funfften</rs>
+                    </hi> hochloblicher gedechtnus<orig>,</orig> von <choice>
+                        <orig>etlich[en]</orig>
+                        <reg>etlichen</reg>
+                    </choice>
+<!-- 22 -->
+                    <lb/>
+                    <choice>
+                        <orig>Churfurſten</orig>
+                        <reg>churfursten</reg>
+                    </choice>
+                    <reg>,</reg> <choice>
+                        <orig>Furſten</orig>
+                        <reg>fursten</reg>
+                    </choice> <choice>
+                        <orig>vnd</orig>
+                        <reg>und</reg>
+                    </choice> <choice>
+                        <orig>Stetten</orig>
+                        <reg>stetten</reg>
+                    </choice> des <rs type="place" ref="#heiliges_roemisches_reich"/>
+                    <choice>
+                        <orig>Reichs</orig>
+                        <reg>reichs</reg>
+                    </choice> <choice>
+                        <orig>vberraicht</orig>
+                        <reg>uberraicht</reg>
+                    </choice> worden<reg>,</reg>
+<!-- 23 -->
+                    <lb/>gebrauchen möchten, <choice>
+                        <orig>Vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> <rs type="person" ref="#maximilian_ii">wir</rs> darauf die <choice>
+                        <orig>ſachen</orig>
+                        <reg>sachen</reg>
+                    </choice> mehrmaln
+<!-- 24 -->
+                    <lb/>zu zeitlichem<!-- erklären? --> <choice>
+                        <orig>Rath</orig>
+                        <reg>rath</reg>
+                    </choice> <choice>
+                        <orig>getzog[en]</orig>
+                        <reg>getzogen</reg>
+                    </choice>, das wir darauf letzlich ermelten<!-- erklären? oben genannten -->
+<!-- 25 -->
+                    <lb/>baiden <choice>
+                        <orig>Stenden</orig>
+                        <reg>stenden</reg>
+                    </choice>
+                    <orig>,</orig> aus vilen hochbeweglichen<note type="annotation">triftigen.</note> <choice>
+                        <orig>Vrſachen</orig>
+                        <reg>ursachen</reg>
+                    </choice>, <choice>
+                        <orig>ſonderlich</orig>
+                        <reg>sonderlich</reg>
+                    </choice> 
+<!-- 26 -->
+                    <lb/>aber damit den <choice>
+                        <orig>beſchwerlichen</orig>
+                        <reg>beschwerlichen</reg>
+                    </choice>
+                    <note type="annotation">lästigen.</note> yetzt hin <choice>
+                        <orig>vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> wider <choice>
+                        <orig>ſchwebenden</orig>
+                        <reg>schwebenden</reg>
+                    </choice>
+                    <note type="annotation">sich umher treibenden.</note>
+<!-- 27 -->
+                    <lb/>
+                    <choice>
+                        <orig>Secten</orig>
+                        <reg>secten</reg>
+                    </choice>
+                    <note type="annotation">Gemeint sein dürften hier vor allem flacianische Strömungen.</note><!-- Eintrag vervollständigen -->, <choice>
+                        <orig>deſto</orig>
+                        <reg>desto</reg>
+                    </choice> mehr in <choice>
+                        <orig>vnnſern</orig>
+                        <reg>unnsern</reg>
+                    </choice> <choice>
+                        <orig>Nid[er]</orig>
+                        <reg>Nider</reg>
+                    </choice> <choice>
+                        <orig>Österreichiſchen</orig>
+                        <reg>Österreichischen</reg>
+                    </choice> Landen<note type="annotation">Die historische Landschaft Niederösterreich ist nicht gleichbedeutend mit dem heutigen Bundesland <rs type="place" ref="#niederoesterreich">Niederösterreich</rs><!-- Eintrag erstellen -->. Nach dem Tod <rs type="person" ref="#ferdinand_i">Ferdinands I.</rs> 1564 wurden die österreichischen Erblande unter seine Söhne aufgeteilt. Der älteste Sohn und Nachfolger im Kaiseramt <rs type="person" ref="#maximilian_ii">Maximilian II.</rs> erhielt Niederösterreich, das <rs type="place" ref="#oesterreich_ob_der_enns">Österreich ob der Enns</rs><!-- Eintrag ertellen --> und <rs type="place" ref="#oesterreich_unter_der_enns_erzherzogtum">unter der Enns</rs> umfasste, sowie <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs> und die restlichen ungarischen Besitzungen mit den Residenzen in <rs type="place" ref="#wien">Wien</rs><!-- Eintrag erstellen --> und <rs type="place" ref="#prag">Prag</rs>, der Zweitgeborene <rs type="person" ref="#ferdinand_tirol"/>Ferdinand<!-- Eintrag erstellen --> erhielt Oberöstereich (<rs type="place" ref="#tirol_grafschaft">Tirol</rs> und <rs type="place" ref="#vorderoesterreich">Vorderösterreich</rs>), der jüngste Sohn <rs type="person" ref="#karl_inneroesterreich">Karl</rs> die innerösterreichischen Gebiete <rs type="place" ref="#steiermark_herzogtum">Steiermark</rs>, <rs type="place" ref="#kaernten_herzogtum">Kärnten</rs> und <rs type="place" ref="#krain_herzogtum">Krain</rs> Vgl. <rs type="bibl" ref="#koebler_lexikon_deutsche_laender">
+                            <surname type="author">Köbler</surname>, Lexikon der deutschen Länder, Art. Österreich, S. 502-506, hier: S. 504</rs>.</note>
+                    <reg>,</reg>
+<!-- 28 -->
+                    <lb/>gewohrt<note type="annotation">gewehrt, im Sinne von abwehren.</note> wurde, <choice>
+                        <orig>g[nedig]ist</orig>
+                        <reg>gnedigist</reg>
+                    </choice> bewilligt, vergont <choice>
+                        <orig>vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> entlich zue
+<!-- 29 -->
+                    <lb/>
+                    <choice>
+                        <orig>gelaſſen</orig>
+                        <reg>gelassen</reg>
+                    </choice>, das <choice>
+                        <orig>Sy</orig>
+                        <reg>sy</reg>
+                    </choice>
+                    <orig>,</orig> (wie wir <choice>
+                        <orig>Jnen</orig>
+                        <reg>inen</reg>
+                    </choice> dann des hiemit <choice>
+                        <orig>bewillig[en]</orig>
+                        <reg>bewilligen</reg>
+                    </choice>
+                    <reg>,</reg>
+<!-- 30 -->
+                    <lb/>vergonnen <choice>
+                        <orig>vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> <choice>
+                        <orig>zuelaſſen</orig>
+                        <reg>zuelassen</reg>
+                    </choice>.) <hi rend="underline">
+                        <choice>
+                            <orig>ſich</orig>
+                            <reg>sich</reg>
+                        </choice>
+                        <note type="crit_app">Fehlt Hs. 1.</note> auf <choice>
+                            <orig>vnnd</orig>
+                            <reg>unnd</reg>
+                        </choice> in allen <choice>
+                            <orig>Jren</orig>
+                            <reg>iren</reg>
+                        </choice> 
+<!-- 31 -->
+                        <lb/>
+                        <choice>
+                            <orig>Schloſſern</orig>
+                            <reg>schlossern</reg>
+                        </choice>
+                        <reg>,</reg> <choice>
+                            <orig>heuſern</orig>
+                            <reg>heusern</reg>
+                        </choice> <choice>
+                            <orig>vnnd</orig>
+                            <reg>unnd</reg>
+                        </choice> guettern, doch <choice>
+                            <orig>auſſer</orig>
+                            <reg>ausser</reg>
+                        </choice>
+                        <note type="annotation">mit Ausnahme von.</note> <choice>
+                            <orig>vnnſerer</orig>
+                            <reg>unnserer</reg>
+                        </choice>
+<!-- 32 -->
+                        <lb/>
+                        <choice>
+                            <orig>Stett</orig>
+                            <reg>stett</reg>
+                        </choice> <choice>
+                            <orig>vnnd</orig>
+                            <reg>unnd</reg>
+                        </choice> <choice>
+                            <orig>Marckht</orig>
+                            <reg>marckht</reg>
+                        </choice>
+                        <note type="annotation">Eine Siedlung mit Marktrecht, jedoch ohne volles Stadtrecht.</note>
+                        <orig>,</orig> fur <choice>
+                            <orig>ſich</orig>
+                            <reg>sich</reg>
+                        </choice> <choice>
+                            <orig>ſelbſt</orig>
+                            <reg>selbst</reg>
+                        </choice>, <choice>
+                            <orig>Jr</orig>
+                            <reg>ir</reg>
+                        </choice> <choice>
+                            <orig>geſindt</orig>
+                            <reg>gesindt</reg>
+                        </choice><!-- erklären? Dienerschaft -->
+                        <orig>,</orig> <choice>
+                            <orig>vnd</orig>
+                            <reg>und</reg>
+                        </choice> <choice>
+                            <orig>Jre</orig>
+                            <reg>ire</reg>
+                        </choice> </hi>
+                    <choice>
+                        <orig>
+                            <hi rend="underline">zue</hi>
+<!-- 33 -->
+                            <lb/>gehorige</orig>
+                        <reg>
+                            <hi rend="underline">zue</hi>
+                            <lb rend="trennstrich"/>gehorige</reg>
+                    </choice>
+                    <note type="annotation">Angehörigen.</note>
+                    <orig>,</orig> auf dem <choice>
+                        <orig>Landt</orig>
+                        <reg>landt</reg>
+                    </choice> aber<orig>,</orig> <choice>
+                        <orig>vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> bey <choice>
+                        <orig>Jren</orig>
+                        <reg>iren</reg>
+                    </choice> <choice>
+                        <orig>zuegehorig[en]</orig>
+                        <reg>zuegehorigen</reg>
+                    </choice>
+<!-- 34 -->
+                    <lb/>khirchen<note type="annotation">Kirchen, in denen die protestantischen Adligen das Patronatsrecht inne hatten.</note>
+                    <reg>,</reg> zu gleich auch fur <choice>
+                        <orig>Jre</orig>
+                        <reg>ire</reg>
+                    </choice> <choice>
+                        <orig>vnnd[er]thonen</orig>
+                        <reg>unnderthonen</reg>
+                    </choice>, <choice>
+                        <orig>ſolcher</orig>
+                        <reg>solcher</reg>
+                    </choice> <hi rend="italic">
+                        <choice>
+                            <orig>Confeſsion</orig>
+                            <reg>confession</reg>
+                        </choice>
+                        <note type="annotation">Confessio Augustana.</note>
+                    </hi>
+                    <orig>,</orig>,
+<!-- 35 -->
+                    <lb/>
+                    <choice>
+                        <orig>vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> <choice>
+                        <orig>vnns</orig>
+                        <reg>unns</reg>
+                    </choice> <choice>
+                        <orig>vberraichter</orig>
+                        <reg>uberraichter</reg>
+                    </choice>
+                    <reg>,</reg> durch <choice>
+                        <orig>Sie</orig>
+                        <reg>sie</reg>
+                    </choice>
+                    <reg>,</reg> die <choice>
+                        <orig>Stende</orig>
+                        <reg>stende</reg>
+                    </choice>
+                    <reg>,</reg> gefertigter
+<!-- 36 -->
+                    <lb/>
+                    <choice>
+                        <orig>Agenda</orig>
+                        <reg>agenda</reg>
+                    </choice>
+                    <note type="annotation">Auf den vorhergehenden Landtagen hatte der <rs type="person" ref="#maximilian_ii">Landesfürst</rs> die Erstellung einer Kirchenordnung gefordert. Dem kamen nur die Stände <rs type="place" ref="#oesterreich_ob_der_enns">Österreichs ob der Enns</rs> nach. Sie luden zu diesem Zweck <rs type="person" ref="#chytraeus_david">David Chyträus</rs><!-- Eintrag erstellen --> ein, dessen Agenda 1571 gedruckt vorgelegt wurde: <rs type="bibl" ref="#chytraeus_agenda">
+                            <surname type="editor">Chyträus</surname>, Agenda, <ref type="online" target="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10197392-1">Christliche Kirchen Agenda</ref>
+                        </rs><!-- Eintrag erstellen -->.</note>
+                    <orig>,</orig> frey gebrauchen <choice>
+                        <orig>mog[en]</orig>
+                        <reg>mogen</reg>
+                    </choice>
+                    <orig>,</orig> <hi rend="underline">
+                        <choice>
+                            <orig>vnd</orig>
+                            <reg>und</reg>
+                        </choice> <choice>
+                            <orig>derſelben</orig>
+                            <reg>derselben</reg>
+                        </choice> gemeß<orig>,</orig> <choice>
+                            <orig>vnd</orig>
+                            <reg>und</reg>
+                        </choice> 
+<!-- 37 -->
+                        <lb/>
+                        <pb n="167v"/>nit <choice>
+                            <orig>zuwid[er]</orig>
+                            <reg>zuwider</reg>
+                        </choice>
+                    </hi>, <choice>
+                        <orig>ſo</orig>
+                        <reg>so</reg>
+                    </choice> wol die <choice>
+                        <orig>Lehr</orig>
+                        <reg>lehr</reg>
+                    </choice> alß die <choice>
+                        <orig>Ceremonien</orig>
+                        <reg>ceremonien</reg>
+                    </choice> <choice>
+                        <orig>anſtellen</orig>
+                        <reg>anstellen</reg>
+                    </choice>
+                    <note type="annotation">ausüben.</note>
+                    <orig>,</orig>
+<!-- 38 -->
+                    <lb/>
+                    <choice>
+                        <orig>vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> in das werckh ziehen<!-- erklären --> mügen<orig>,</orig>
+                    <reg>;</reg> <choice>
+                        <orig>Alles</orig>
+                        <reg>alles</reg>
+                    </choice> biß zu ainer <choice>
+                        <orig>al
+<!-- 39 -->
+                            <lb/>gemainen</orig> <reg>
+                            <w>al<pc>-</pc>
+                                <lb/>gemainen</w>
+                        </reg>
+                    </choice>
+                    <reg>,</reg> <choice>
+                        <orig>Chriſtlichen</orig>
+                        <reg>christlichen</reg>
+                    </choice> <choice>
+                        <orig>Reformation</orig>
+                        <reg>reformation</reg>
+                    </choice> <choice>
+                        <orig>vnd</orig>
+                        <reg>und</reg>
+                    </choice> <choice>
+                        <orig>Gottſeligen</orig>
+                        <reg>gottseliger</reg>
+                    </choice> <choice>
+                        <orig>ver
+<!-- 40 -->
+                            <lb/>gleichung</orig>
+                        <reg>
+                            <w>ver<pc>-</pc>
+                                <lb/>gleichung</w>
+                        </reg>
+                    </choice> der <choice>
+                        <orig>Religion</orig>
+                        <reg>religion</reg>
+                    </choice>
+                    <orig>,</orig> in <rs type="place" ref="heiliges_roemisches_reich">
+                        <choice>
+                            <orig>Teutſcher</orig>
+                            <reg>Teutscher</reg>
+                        </choice> Nation</rs>
+                    <orig>,</orig>
+                    <reg>.</reg> <choice>
+                        <orig>darauf</orig>
+                        <reg>Darauf</reg>
+                    </choice> <choice>
+                        <orig>ſich</orig>
+                        <reg>sich</reg>
+                    </choice>
+                    <note type="crit_app">Hs. 1: <hi rend="italic">danach folgend</hi> die.</note> 
+<!-- 41 -->
+                    <lb/>gemelte zwen <choice>
+                        <orig>Stende</orig>
+                        <reg>stende</reg>
+                    </choice> <choice>
+                        <orig>gehorſamblich</orig>
+                        <reg>gehorsamblich</reg>
+                    </choice> erpotten<reg>,</reg> khain <choice>
+                        <orig>and[er]e</orig>
+                        <reg>andere</reg>
+                    </choice>
+<!-- 42 -->
+                    <lb/>
+                    <choice>
+                        <orig>Lehr</orig>
+                        <reg>lehr</reg>
+                    </choice>, <choice>
+                        <orig>Gottsdienſt</orig>
+                        <reg>gottesdienst</reg>
+                    </choice> noch <choice>
+                        <orig>Ceremonien</orig>
+                        <reg>ceremonien</reg>
+                    </choice>
+                    <orig>,</orig> alß die angeregt
+<!-- 43 -->
+                    <lb/>
+                    <choice>
+                        <orig>Augſpurgiſche</orig>
+                        <reg>augspurgische</reg>
+                    </choice> <choice>
+                        <orig>Confeſſion</orig>
+                        <reg>confession</reg>
+                    </choice> <choice>
+                        <orig>vnd</orig>
+                        <reg>und</reg>
+                    </choice> <choice>
+                        <orig>Agenda</orig>
+                        <reg>agenda</reg>
+                    </choice> <hi rend="underline">
+                        <choice>
+                            <orig>Jn</orig>
+                            <reg>in</reg>
+                        </choice> <choice>
+                            <orig>Jrer</orig>
+                            <reg>irer</reg>
+                        </choice>
+                        <reg>,</reg> <choice>
+                            <orig>d[er]</orig>
+                            <reg>der</reg>
+                        </choice> zwayer
+<!-- 44 -->
+                        <lb/>
+                        <choice>
+                            <orig>Stende</orig>
+                            <reg>stende</reg>
+                        </choice> <choice>
+                            <orig>khirch[en]</orig>
+                            <reg>khirchen</reg>
+                        </choice> weder einzufueren <choice>
+                            <orig>od[er]</orig>
+                            <reg>oder</reg>
+                        </choice>
+                    </hi>
+                    <note type="crit_app">Hs. 2: noch.</note> <seg type="crit_app">zu leiden</seg>
+                    <note type="crit_app">Korrigiert aus: zuleiden (zu vom erweiterten Infinitiv getrennt).</note>
+                    <note type="annotation">gestatten, erlauben.</note>, <seg type="crit_app">
+                        <choice>
+                            <orig>ſich</orig>
+                            <reg>sich</reg>
+                        </choice> auch</seg>
+                    <note type="crit_app">Hs. 2 und <rs type="bibl" ref="#abtruck_1620">Abtruck deren Concessionum, S. 7</rs>: auch <choice>
+                            <orig>ſich</orig>
+                            <reg>sich</reg>
+                        </choice>.</note> 
+<!-- 45 -->
+                    <lb/>kaines anndern gebrauchs<note type="crit_app">Hs. 2: gebrauchen.</note>
+                    <reg>,</reg> weder in der <choice>
+                        <orig>Lehr</orig>
+                        <reg>lehr</reg>
+                    </choice> noch <choice>
+                        <orig>Ceremo
+<!-- 46 -->
+                            <lb/>nien</orig>
+                        <reg>
+                            <w>ceremo<pc>-</pc>
+                                <lb/>nien</w>
+                        </reg>
+                    </choice>, dann wie <choice>
+                        <orig>ſolch</orig>
+                        <reg>solch</reg>
+                    </choice> <choice>
+                        <orig>Confeſſion</orig>
+                        <reg>confession</reg>
+                    </choice> <choice>
+                        <orig>vnd</orig>
+                        <reg>und</reg>
+                    </choice> <choice>
+                        <orig>Agenda</orig>
+                        <reg>agenda</reg>
+                    </choice> <choice>
+                        <orig>außweiſet</orig>
+                        <reg>ausweiset</reg>
+                    </choice>
+<!-- 47 -->
+                    <lb/>
+                    <choice>
+                        <orig>vnd</orig>
+                        <reg>und</reg>
+                    </choice> mitbringet, <choice>
+                        <orig>anzumaſſen</orig>
+                        <reg>anzumassen</reg>
+                    </choice>, <hi rend="underline">
+                        <choice>
+                            <orig>ſonder</orig>
+                            <reg>sonder</reg>
+                        </choice> das gegen denen, <choice>
+                            <orig>ſo</orig>
+                            <reg>so</reg>
+                        </choice> <choice>
+                            <orig>ſich</orig>
+                            <reg>sich</reg>
+                        </choice> 
+<!-- 48 -->
+                        <lb/>aines anndern <choice>
+                            <orig>vnnderſtehn</orig>
+                            <reg>unnderstehn</reg>
+                        </choice> wurden, mit <choice>
+                            <orig>ernſtlicher</orig>
+                            <reg>ernstlicher</reg>
+                        </choice> <choice>
+                            <orig>ſtraff</orig>
+                            <reg>straff</reg>
+                        </choice>
+<!-- 49 -->
+                        <lb/>verfahren werden <choice>
+                            <orig>ſolle</orig>
+                            <reg>solle</reg>
+                        </choice>
+                    </hi>. <choice>
+                        <orig>Vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> dann auch, das<note type="crit_app">Fehlt Hs. 1, Hs. 2 und <rs type="bibl" ref="#abtruck_1620">Abtruck deren Concessionum, S. 7.</rs>
+                    </note> die gedachten
+<!-- 50 -->
+                    <lb/>zwen <choice>
+                        <orig>Lanndtſtende</orig>
+                        <reg>lanndtstende</reg>
+                    </choice> noch yemandts der <choice>
+                        <orig>Jrigen</orig>
+                        <reg>irigen</reg>
+                    </choice>, den<note type="crit_app">Fehlt Hs. 2</note> <choice>
+                        <orig>Geiſtlich[en]</orig>
+                        <reg>geistlichen</reg>
+                    </choice>
+<!-- 51 -->
+                    <lb/>
+                    <choice>
+                        <orig>vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> <choice>
+                        <orig>Welltlichen</orig>
+                        <reg>welltichen</reg>
+                    </choice>
+                    <reg>,</reg> der <hi rend="underline">
+                        <choice>
+                            <orig>Catholiſchen</orig>
+                            <reg>catholischen</reg>
+                        </choice> <choice>
+                            <orig>Religion</orig>
+                            <reg>religion</reg>
+                        </choice> zuegethan, in<note type="crit_app">Hs. 2: im.</note> <w>zeit
+<!-- 52 -->
+                            <pc>-</pc>
+                            <lb/>lichem</w> noch leiblichem, gar<note type="crit_app">Hs. 2: <hi rend="italic">davor</hi> noch.</note> nit zu wider sein, <choice>
+                            <orig>od[er]</orig>
+                            <reg>oder</reg>
+                        </choice> von <choice>
+                            <orig>vnnd[er]ſchidt</orig>
+                            <reg>unnderschidt</reg>
+                        </choice>
+<!-- 53 -->
+                        <lb/>wegen<orig>,</orig> des glaubens<orig>,</orig> was gegen <choice>
+                            <orig>Jnen</orig>
+                            <reg>inen</reg>
+                        </choice> furnemen<note type="annotation">zu unternehmen.</note> <choice>
+                            <orig>od[er]</orig>
+                            <reg>oder</reg>
+                        </choice> thuen,
+<!-- 54 -->
+                        <lb/>
+                        <choice>
+                            <orig>ſonder</orig>
+                            <reg>sonder</reg>
+                        </choice> es <choice>
+                            <orig>Jnen</orig>
+                            <reg>inen</reg>
+                        </choice> als <choice>
+                            <orig>Jren</orig>
+                            <reg>iren</reg>
+                        </choice> lieben</hi> mitgliedern <choice>
+                        <orig>Trewlich</orig>
+                        <reg>treulich</reg>
+                    </choice> mainen,
+<!-- 55 -->
+                    <lb/>
+                    <choice>
+                        <orig>vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> <choice>
+                        <orig>ſonnderlich</orig>
+                        <reg>sonnderlich</reg>
+                    </choice> <hi rend="underline">an <choice>
+                            <orig>Jren</orig>
+                            <reg>iren</reg>
+                        </choice> khirchen <choice>
+                            <orig>bungen</orig>
+                            <reg>übungen</reg>
+                        </choice><!-- unicode suchen -->
+                    </hi>, khain <choice>
+                        <orig>Trotz</orig>
+                        <reg>trotz</reg>
+                    </choice>,<note type="annotation">Nötigung, Zwang.</note> gwalt<note type="crit_app">Hs. 1: <hi rend="italic">davor</hi> und; Hs. 2.: <hi rend="italic">davor</hi> noch.</note> 
+<!-- 56 -->
+                    <lb/>noch <choice>
+                        <orig>freuel</orig>
+                        <reg>frevel</reg>
+                    </choice> <choice>
+                        <orig>beweiſen</orig>
+                        <reg>beweisen</reg>
+                    </choice>
+                    <note type="annotation">verüben.</note>, <hi rend="underline">noch an <choice>
+                            <orig>Jren</orig>
+                            <reg>iren</reg>
+                        </choice> zeitlichen einkhomen, <choice>
+                            <orig>Jchtes</orig>
+                            <reg>ichtes</reg>
+                        </choice>
+                        <note type="annotation">nichts.</note>
+<!-- 57 -->
+                        <lb/>
+                        <seg type="annotation">
+                            <choice>
+                                <orig>auſſer</orig>
+                                <reg>ausser</reg>
+                            </choice>
+                        </seg>
+                        <note type="annotation">unrechtmäßig.</note> <choice>
+                            <orig>Recht</orig>
+                            <reg>recht</reg>
+                        </choice> entziehen</hi>, wie <choice>
+                        <orig>Sy</orig>
+                        <reg>sy</reg>
+                    </choice> dann dergleichen von den <choice>
+                        <orig>and[er]n</orig>
+                        <reg>andern</reg>
+                    </choice>
+<!-- 58 -->
+                    <lb/>in gleichem fall<orig>,</orig> auch allenthalben <seg type="annotation">gewertig <choice>
+                            <orig>ſein</orig>
+                            <reg>sein</reg>
+                        </choice> mügen</seg>
+                    <note type="crit_app">zu erwarten haben.</note> <choice>
+                        <orig>vnd</orig>
+                        <reg>und</reg>
+                    </choice>
+<!-- 59 -->
+                    <lb/>
+                    <choice>
+                        <orig>ſollen</orig>
+                        <reg>sollen</reg>
+                    </choice>
+                    <orig>,</orig>
+                    <reg>.</reg> <choice>
+                        <orig>vnnd</orig>
+                        <reg>Unnd</reg>
+                    </choice> <rs type="person" ref="#maximilian_ii">wir</rs> <choice>
+                        <orig>Sy</orig>
+                        <reg>sy</reg>
+                    </choice> <choice>
+                        <orig>vnd</orig>
+                        <reg>und</reg>
+                    </choice> yeden<reg>,</reg> <choice>
+                        <orig>Jnſonderhait</orig>
+                        <reg>insonderhait</reg>
+                    </choice>
+                    <orig>,</orig> auch <choice>
+                        <orig>Jren</orig>
+                        <reg>iren</reg>
+                    </choice> <choice>
+                        <orig>Erben</orig>
+                        <reg>erben</reg>
+                    </choice>
+<!-- 60 -->
+                    <lb/>
+                    <choice>
+                        <orig>vnd</orig>
+                        <reg>und</reg>
+                    </choice> <choice>
+                        <orig>nachkhom[m]en</orig>
+                        <reg>nachkhommen</reg>
+                    </choice>, sambt <choice>
+                        <orig>Jren</orig>
+                        <reg>iren</reg>
+                    </choice> pfarrherrn<reg>,</reg> khirchen <choice>
+                        <orig>vnd</orig>
+                        <reg>und</reg>
+                    </choice> <choice>
+                        <orig>Schuelen</orig>
+                        <reg>schuelen</reg>
+                    </choice>, 
+<!-- 61 -->
+                    <lb/>alle <choice>
+                        <orig>Jre</orig>
+                        <reg>ire</reg>
+                    </choice> <choice>
+                        <orig>vnnderthonen</orig>
+                        <reg>unnderthonen</reg>
+                    </choice> <choice>
+                        <orig>vnd</orig>
+                        <reg>und</reg>
+                    </choice> <choice>
+                        <orig>zugehorig[en]</orig>
+                        <reg>zugehorigen</reg>
+                    </choice>
+                    <orig>,</orig> <choice>
+                        <orig>ſolcher</orig>
+                        <reg>solcher</reg>
+                    </choice> <choice>
+                        <orig>vnnſer</orig>
+                        <reg>unnser</reg>
+                    </choice> bewilligung
+<!-- 62 -->
+                    <lb/>halber mit rechtem <choice>
+                        <orig>wiſſen</orig>
+                        <reg>wissen</reg>
+                    </choice> <choice>
+                        <orig>vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> zeittigem<reg>,</reg> guettem bedacht<orig>,</orig>
+<!-- 63 -->
+                    <lb/>aus <choice>
+                        <orig>khaiſerlich[er]</orig>
+                        <reg>khaiserlicher</reg>
+                    </choice> <choice>
+                        <orig>vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> <choice>
+                        <orig>Lanndtsfurstlich[en]</orig>
+                        <reg>lanndtsfurstlichen</reg>
+                    </choice> macht<orig>,</orig> fur <choice>
+                        <orig>vns</orig>
+                        <reg>uns</reg>
+                    </choice>, all <choice>
+                        <orig>vn[n]ſe</orig>
+                        <reg>unnse</reg>
+                    </choice>
+<!-- 64 -->
+                    <lb/>
+                    <choice>
+                        <orig>Erben</orig>
+                        <reg>erben</reg>
+                    </choice> <choice>
+                        <orig>vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> <choice>
+                        <orig>Nachkhom[m]en</orig>
+                        <reg>nachkhommen</reg>
+                    </choice> hiemit<note type="crit_app">Fehlt Hs. 1</note> <hi rend="italic">assecurieren</hi> <choice>
+                        <orig>vnd</orig>
+                        <reg>und</reg>
+                    </choice> <choice>
+                        <orig>verſich[er]n</orig>
+                        <reg>versichern</reg>
+                    </choice>
+<!-- 65 -->
+                    <lb/>
+                    <pb n="168r"/>
+                    <choice>
+                        <orig>alſo</orig>
+                        <reg>also</reg>
+                    </choice> <choice>
+                        <orig>vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> <choice>
+                        <orig>dergeſtalt</orig>
+                        <reg>dergestalt</reg>
+                    </choice>, das <choice>
+                        <orig>Sie</orig>
+                        <reg>sie</reg>
+                    </choice> <choice>
+                        <orig>ſich</orig>
+                        <reg>sich</reg>
+                    </choice> der halben<orig>,</orig> <choice>
+                        <orig>wed[er]</orig>
+                        <reg>weder</reg>
+                    </choice> bey <choice>
+                        <orig>vnns</orig>
+                        <reg>unns</reg>
+                    </choice>, 
+<!-- 66 -->
+                    <lb/>
+                    <choice>
+                        <orig>vnnſern</orig>
+                        <reg>unnsern</reg>
+                    </choice> <choice>
+                        <orig>Erben</orig>
+                        <reg>erben</reg>
+                    </choice> <choice>
+                        <orig>vnd</orig>
+                        <reg>und</reg>
+                    </choice> <choice>
+                        <orig>Nachkomen</orig>
+                        <reg>nachkomen</reg>
+                    </choice>
+                    <orig>,</orig> <choice>
+                        <orig>vnd</orig>
+                        <reg>und</reg>
+                    </choice> <choice>
+                        <orig>vnnſern</orig>
+                        <reg>unnsern</reg>
+                    </choice>
+                    <orig>,</orig> <choice>
+                        <orig>vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> <choice>
+                        <orig>derſelben</orig>
+                        <reg>derselben</reg>
+                    </choice>
+<!-- 67 -->
+                    <lb/>
+                    <choice>
+                        <orig>vnnſere</orig>
+                        <reg>unnsere</reg>
+                    </choice> <choice>
+                        <orig>Erben</orig>
+                        <reg>erben</reg>
+                    </choice>
+                    <orig>,</orig> <choice>
+                        <orig>nachgeſetzten</orig>
+                        <reg>nachgesetzten</reg>
+                    </choice> <choice>
+                        <orig>Obrigkhaiten</orig>
+                        <reg>obrigkhaiten</reg>
+                    </choice> <choice>
+                        <orig>ainich[er]</orig>
+                        <reg>ainicher</reg>
+                    </choice> <choice>
+                        <orig>vngnad</orig>
+                        <reg>ungnad</reg>
+                    </choice> <choice>
+                        <orig>geſche</orig>
+                        <reg>gesche</reg>
+                    </choice>
+                    <note type="crit_app">Hs. 2: gefahr; fehlt <rs type="bibl" ref="#abtruck_1620">Abtruck deren Concessionum, S. 8.</rs>
+                    </note>
+                    <reg>,</reg> 
+<!-- 68 -->
+                    <lb/>oder annderer widerwertigkait<orig>,</orig> nit<note type="crit_app">Fehlt Hs. 1, Hs. 2 und <rs type="bibl" ref="#abtruck_1620">Abtruck deren Concessionum, S. 8.</rs>.</note> <seg type="crit_app">zu <choice>
+                            <orig>beſorgen</orig>
+                            <reg>besorgen</reg>
+                        </choice>
+                    </seg>
+                    <note type="crit_app">Korrigiert aus: zubesorgen (zu von erweitertem Infinitiv getrennt).</note>
+                    <note type="annotation">befürchten.</note> haben<note type="crit_app">Fehlt Hs. 1 und Hs. 2.</note>, <choice>
+                        <orig>Sond[er]</orig>
+                        <reg>sonder</reg>
+                    </choice>
+<!-- 69 -->
+                    <lb/>derwegen vor menigclich<note type="annotation">jedem.</note>, <choice>
+                        <orig>Gaiſtlich</orig>
+                        <reg>gaistlich</reg>
+                    </choice> oder <choice>
+                        <orig>Welltlichs</orig>
+                        <reg>welltlichs</reg>
+                    </choice> <choice>
+                        <orig>Stanndts</orig>
+                        <reg>stanndts</reg>
+                    </choice>,
+<!-- 70 -->
+                    <lb/>
+                    <choice>
+                        <orig>verſichert</orig>
+                        <reg>versichert</reg>
+                    </choice> <choice>
+                        <orig>vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> <choice>
+                        <orig>vergwiſt</orig>
+                        <reg>vergewist</reg>
+                    </choice>
+                    <note type="annotation">vergewissert.</note> <choice>
+                        <orig>ſein</orig>
+                        <reg>sein</reg>
+                    </choice> <choice>
+                        <orig>vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> bleiben <choice>
+                        <orig>ſollen</orig>
+                        <reg>sollen</reg>
+                    </choice>, <choice>
+                        <orig>Alles</orig>
+                        <reg>alles</reg>
+                    </choice> bey
+<!-- 71 -->
+                    <lb/>
+                    <choice>
+                        <orig>vnnſern</orig>
+                        <reg>unnsern</reg>
+                    </choice> <choice>
+                        <orig>khay[ſerlich]en</orig>
+                        <reg>khayserlichen</reg>
+                    </choice> worten, dar wider yetzt noch khonfftigclich<reg>,</reg>
+<!-- 72 -->
+                    <lb/>weder aus <choice>
+                        <orig>khayſerlich[er]</orig>
+                        <reg>khayserlicher</reg>
+                    </choice> <choice>
+                        <orig>od[er]</orig>
+                        <reg>oder</reg>
+                    </choice>
+                    <note type="crit_app">Hs. 1 und Hs. 2: noch.</note>  <choice>
+                        <orig>Lanndtsfurſtlich[er]</orig>
+                        <reg>lanndtsfurstlicher</reg>
+                    </choice> <choice>
+                        <orig>Macht</orig>
+                        <reg>macht</reg>
+                    </choice>, <choice>
+                        <orig>Deſpenſation</orig>
+                        <reg>despensation</reg>
+                    </choice>
+                    <note type="annotation">Erlass, Befreiung.</note>
+<!-- 73 -->
+                    <lb/>
+                    <choice>
+                        <orig>Jnduldt</orig>
+                        <reg>indult</reg>
+                    </choice>
+                    <note type="annotation">kirchenrechtlicher Gnadenerweis für Einzelfälle ohne Rechtsanspruch.</note> <choice>
+                        <orig>od[er]</orig>
+                        <reg>oder</reg>
+                    </choice> <choice>
+                        <orig>Abſolution</orig>
+                        <reg>absolution</reg>
+                    </choice>
+                    <note type="annotation">im Wortsinn: Aufhebung.</note>
+                    <orig>,</orig> nicht zu thuen<reg>,</reg> noch zu thuen <choice>
+                        <orig>geſtatten</orig>
+                        <reg>gestatten</reg>
+                    </choice>
+<!-- 74 -->
+                    <lb/>
+                    <choice>
+                        <orig>ſo</orig>
+                        <reg>so</reg>
+                    </choice> lang <choice>
+                        <orig>vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> vil, biß zu ainer algemainen <choice>
+                        <orig>Chriſtlichen</orig>
+                        <reg>christlichen</reg>
+                    </choice> <choice>
+                        <orig>
+                            <w>Refor
+<!-- 75 -->
+                                <pc>-</pc>
+                                <lb/>mation</w>
+                        </orig>
+                        <reg>
+                            <w>refor<pc>-</pc>
+                                <lb/>mation</w>
+                        </reg>
+                    </choice><!-- soll das historische erläutert werden? Das Konzil von Trient war bereits 1563 geschlossen worden -->
+                    <orig>,</orig> <choice>
+                        <orig>vnnd</orig>
+                        <reg>unnd</reg>
+                    </choice> <choice>
+                        <orig>Gottſelliger</orig>
+                        <reg>gottseliger</reg>
+                    </choice> vergleichung der <choice>
+                        <orig>h[ei]l[igen]</orig>
+                        <reg>heiligen</reg>
+                    </choice> <choice>
+                        <orig>Religion</orig>
+                        <reg>religion</reg>
+                    </choice> in
+<!-- 76 -->
+                    <lb/>
+                    <rs type="place" ref="#heiliges_roemisches_reich">
+                        <choice>
+                            <orig>Teutſcher</orig>
+                            <reg>teutscher</reg>
+                        </choice> Nation</rs>, <seg type="annotation">
+                        <choice>
+                            <orig>Ohne</orig>
+                            <reg>ohne</reg>
+                        </choice> <choice>
+                            <orig>geuerde</orig>
+                            <reg>geverde</reg>
+                        </choice>
+                    </seg>
+                    <note type="annotation">Ohne Hinterlist (formelhaft).</note>. Zu<note type="crit_app">Hs. 2: <hi rend="italic">davor</hi> des.</note> <choice>
+                        <orig>vrkhundt</orig>
+                        <reg>urkhundt</reg>
+                    </choice> <choice>
+                        <orig>beſiglt</orig>
+                        <reg>besigl</reg>
+                    </choice> mit
+<!-- 77 -->
+                    <lb/>
+                    <choice>
+                        <orig>vnnſerm</orig>
+                        <reg>unnserm</reg>
+                    </choice> <seg type="crit_app">
+                        <choice>
+                            <orig>khay[ſerlich]em</orig>
+                            <reg>khayserlichem</reg>
+                        </choice> <choice>
+                            <orig>Anhangendem</orig>
+                            <reg>anhangendem</reg>
+                        </choice>
+                    </seg>
+                    <note type="crit_app">Hs. 1, Hs. 2 und <rs type="bibl" ref="#abtruck_1620">Abtruck deren Concessionum, S. 8</rs>: anhangundtn <choice>
+                            <orig>khaiſerlichen</orig>
+                            <reg>khaiserlichen</reg>
+                        </choice>
+                    </note> <choice>
+                        <orig>Jnſigel</orig>
+                        <reg>insigl</reg>
+                    </choice>. <choice>
+                        <orig>Vnnd</orig>
+                        <reg>Unnd</reg>
+                    </choice> geben auf
+<!-- 78 -->
+                    <lb/>
+                    <choice>
+                        <orig>vnnſerm</orig>
+                        <reg>unnserm</reg>
+                    </choice> <choice>
+                        <orig>khunigclich[en]</orig>
+                        <reg>khunigclichen</reg>
+                    </choice> <choice>
+                        <orig>Schloß</orig>
+                        <reg>schloß</reg>
+                    </choice> zu<note type="crit_app">Fehlt Hs. 1.</note> <rs type="place" ref="#prag">Prag</rs>, den vierzehenden <seg type="crit_app">tag des
+<!-- 79 -->
+                        <lb/>
+                        <choice>
+                            <orig>Monats</orig>
+                            <reg>monats</reg>
+                        </choice>
+                    </seg>
+                    <note type="crit_app">Fehlt Hs. 2</note> <choice>
+                        <orig>Januarij</orig>
+                        <reg>januarii</reg>
+                    </choice>, <choice>
+                        <orig>Anno</orig>
+                        <reg>anno</reg>
+                    </choice> <seg type="crit_app">etc. 71.</seg>
+                    <note type="crit_app">
+                        <rs type="bibl" ref="#abtruck_1620">Abtruck deren Concessionum, S. 8</rs>: 1571.</note>
+                    <note type="crit_app">Hs. 1, Hs. 2 und <rs type="bibl" ref="#abtruck_1620">Abtruck deren Concessionum, S. 7</rs>: <hi rend="italic">danach</hi> <choice>
+                            <orig>Vnnſerer</orig>
+                            <reg>unnserer</reg>
+                        </choice> <choice>
+                            <orig>Reich</orig>
+                            <reg>reich</reg>
+                        </choice> des <rs type="place" ref="#heiliges_roemisches_reich">
+                            <choice>
+                                <orig>Römiſchen</orig>
+                                <reg>Römischen</reg>
+                            </choice>
+                        </rs> <choice>
+                            <orig>Jm</orig>
+                            <reg>im</reg>
+                        </choice> <choice>
+                            <orig>Neündten</orig>
+                            <reg>neundten</reg>
+                        </choice>
+                        <reg>,</reg> des <rs type="place" ref="#ungarn_koenigreich">
+                            <choice>
+                                <orig>Hungeriſchen</orig>
+                                <reg>Hungerischen</reg>
+                            </choice>
+                        </rs> <choice>
+                            <orig>Jm</orig>
+                            <reg>im</reg>
+                        </choice> achten<orig>,</orig> <choice>
+                            <orig>vnnd</orig>
+                            <reg>unnd</reg>
+                        </choice> des <rs type="place" ref="#boehmen_koenigreich">
+                            <choice>
+                                <orig>Behembiſchen</orig>
+                                <reg>Behemischen</reg>
+                            </choice>
+                        </rs> <choice>
+                            <orig>Jm</orig>
+                            <reg>im</reg>
+                        </choice> zwayundt <choice>
+                            <orig>zwaintzigiſten</orig>
+                            <reg>zwaintzigisten</reg>
+                        </choice> <choice>
+                            <orig>Jare</orig>
+                            <reg>jare</reg>
+                        </choice>.</note>  
+       </p>
+            </div>             
+                
+</body>
+        <back/>
+</text>
+</TEI>

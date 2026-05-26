@@ -1,0 +1,220 @@
+<span class="lineNumber">1</span>Zu wissen, als etliche verjagte und verfolgte Christen aus den <button class="entity #niederlande place" data-ref="niederlande" data-type="place" id="d2e718">Nieder-</button><br/>
+<span class="lineNumber">2</span><button class="entity #niederlande place" data-ref="niederlande" data-type="place" id="d2e718">Landen</button> und <button class="entity #frankreich_koenigreich place" data-ref="frankreich_koenigreich" data-type="place" id="d2e726">Frankreich</button>, so sich nun eine gute Zeithero zu <button class="entity #frankfurt_main place" data-ref="frankfurt_main" data-type="place" id="d2e729">Franckfurt am Mayn</button> <br/>
+<span class="lineNumber">3</span>verhalten<a class="fnNumber" href="#F_1" id="A_1">1</a>, aber weil ihnen ihre Kirchen und Christliche Zusammenkunfften und <br/>
+<span class="lineNumber">4</span>Schulen daselbst nicht länger haben wöllen gegönnet und verstattet werden: Son-<br/>
+<span class="lineNumber">5</span>dern nunmehr allerdings<a class="fnNumber" href="#F_2" id="A_2">2</a> abgeschafft und verbotten seyn, der Orts aus Mangel <br/>
+<span class="lineNumber">6</span><a class="fnNumber" href="#F_a" id="A_a">a</a>des öffentlichen Exercitii ihrer Religion<a class="fnNumber" href="#F_a">a</a> nicht länger bleiben mögen; Derhalben dann bey dem <br/>
+<span class="lineNumber">7</span>Wohlgebohrnen Grafen und Herrn, Herrn <button class="entity #philipp_ludwig_ii_hanau person" data-ref="philipp_ludwig_ii_hanau" data-type="person" id="d2e763">Philipp Ludwigen</button>, Grafen zu <button class="entity #hanau-muenzenberg_grafschaft place" data-ref="hanau-muenzenberg_grafschaft" data-type="place" id="d2e766">Ha-</button><br/>
+<span class="lineNumber">8</span><button class="entity #hanau-muenzenberg_grafschaft place" data-ref="hanau-muenzenberg_grafschaft" data-type="place" id="d2e766">nau</button> und <button class="entity #rieneck_grafschaft place" data-ref="rieneck_grafschaft" data-type="place" id="d2e774">Rhineck</button>, Herrn zu <button class="entity #muenzenberg_herrschaft place" data-ref="muenzenberg_herrschaft" data-type="place" id="d2e777">Müntzenberg</button>, etc. Unserm gnädigen Herrn; dieweil <button class="entity #philipp_ludwig_ii_hanau person" data-ref="philipp_ludwig_ii_hanau" data-type="person" id="d2e780">Ihro Gn[aden]</button> Dero <br/>
+<span class="lineNumber">9</span>Kirchen und Schulen in derselben Grafen und Herrschafften vermöge GOttes Worts und der <br/>
+<span class="lineNumber">10</span>Prophetischen und Apostolischen Schrifften Alten und Neuen Testaments reformiret, und was <br/>
+<span class="lineNumber">11</span>noch darinn aus dem Pabsthum und sonsten für Aberglaubische Mißbräuche so wohl in der Lehr <br/>
+<span class="lineNumber">12</span>als auch den Ceremonien biß dahero seynd überentzig<a class="fnNumber" href="#F_3" id="A_3">3</a> verblieben, vollends abgeschafft, und dargegen <br/>
+<span class="lineNumber">13</span>den reinen wahren Gottesdienst eingeführt und angestellt, in Unterthänigkeit haben gebetten und <br/>
+<span class="lineNumber">14</span>angesucht, Sie gleich andern Frembden, so allbereit allhie in<a class="fnNumber" href="#F_b" id="A_b">b</a> <button class="entity #hanau_stadt place" data-ref="hanau_stadt" data-type="place" id="d2e809">Hanau</button> wohneten oder noch hiernächst <br/>
+<span class="lineNumber">15</span>sich anhero begeben möchten, in <button class="entity #philipp_ludwig_ii_hanau person" data-ref="philipp_ludwig_ii_hanau" data-type="person" id="d2e814">Ihrer Gn[aden]</button> Schutz und Schirm uff- und anzunehmen, und nicht <br/>
+<span class="lineNumber">16</span>allein ihnen zu verstatten und zu zulassen, so wohl in- als ausserhalb der Stadt <button class="entity #hanau_stadt place" data-ref="hanau_stadt" data-type="place" id="d2e822">Hanau</button> wie auch <br/>
+<span class="lineNumber">17</span>sonsten in dieser <button class="entity #hanau-muenzenberg_grafschaft place" data-ref="hanau-muenzenberg_grafschaft" data-type="place" id="d2e827">Grafschafft</button> sich Häußlich nieder zu thun;<a class="fnNumber" href="#F_4" id="A_4">4</a> Sondern auch Dero offentlichen Be-<br/>
+<span class="lineNumber">18</span>kanntnuß unserer wahren Christlichen Religion sambt derselben reinen Ceremonien zu gebrauchen: <br/>
+<span class="lineNumber">19</span>Daß <a class="fnNumber" href="#F_c" id="A_c">c</a>den nach<a class="fnNumber" href="#F_c">c</a> <button class="entity #philipp_ludwig_ii_hanau person" data-ref="philipp_ludwig_ii_hanau" data-type="person" id="d2e855">Ihro Gn[aden]</button> aus Christlichem Mitleiden, und daß ein jeder Christ auch vermöge GOt-<br/>
+<span class="lineNumber">20</span>tes Worts und Befehls schuldig ist, sich seiner bedrangten Mit-Christen mit allem treuen Fleiß, <br/>
+<span class="lineNumber">21</span>Ernst und Eiffer anzunehmen und ihnen die Hand zu biethen, sowol vor sich als auch Dero <br/>
+<span class="lineNumber">22</span>freundlichen lieben Bruder, Graffe <button class="entity #albrecht_hanau person" data-ref="albrecht_hanau" data-type="person" id="d2e872">Albrechten zu Hanau</button>, etc., gnädiglich bewilliget, obbemeldte <br/>
+<span class="lineNumber">23</span>Frembden uff ihr bittliches Ansuchen in Dero <button class="entity #hanau-muenzenberg_grafschaft place" data-ref="hanau-muenzenberg_grafschaft" data-type="place" id="d2e877">Graff- und Herrschafften</button> und sonderlich allhie zu <br/>
+<span class="lineNumber">24</span><button class="entity #hanau_stadt place" data-ref="hanau_stadt" data-type="place" id="d2e881">Hanau</button> vor Unterthanen uff- und anzunehmen, und sich daruff folgender Capitulation mit ihnen <br/>
+<span class="lineNumber">25</span>verglichen und vereinbahret haben.
+<span class="lineNumber">26</span><span class="article_added">[Art. 1]</span> Nemlich, und weil obbemeldte Supplicanten sich zuförderst von wegen der Reformirten <br/>
+<span class="lineNumber">27</span>Religion, darzu sie sich biß dahero bekannt und gehalten, und dieselbige nunmehr in dieser <button class="entity #hanau-muenzenberg_grafschaft place" data-ref="hanau-muenzenberg_grafschaft" data-type="place" id="d2e895">Graff-</button><br/>
+<span class="lineNumber">28</span><button class="entity #hanau-muenzenberg_grafschaft place" data-ref="hanau-muenzenberg_grafschaft" data-type="place" id="d2e895">schafft</button> offentlich gelehret und exercirt wird, hieher begeben, daß ihnen dieselbige hiemit und in Krafft <br/>
+<span class="lineNumber">29</span>dieses auch mit der Administration der heiligen Sacramenten, und Einsegnung der Eheleuten, in <br/>
+<span class="lineNumber">30</span>ihren angebohrnen Mutter-Sprachen, wie auch sonsten ihre Christliche Liturgiam, Disciplin und <br/>
+<span class="lineNumber">31</span>Kirchen-Ordnung<a class="fnNumber" href="#F_d" id="A_d">d</a>, (in allermassen dieselbige <a class="fnNumber" href="#F_e" id="A_e">e</a>dieser Zeit<a class="fnNumber" href="#F_e">e</a> bey den Reformirten Kirchen in <button class="entity #frankreich_koenigreich place" data-ref="frankreich_koenigreich" data-type="place" id="d2e927">Franckreich</button> <a class="fnNumber" href="#F_5" id="A_5">5</a> <br/>
+<span class="lineNumber">32</span>und <button class="entity #niederlande_vereinigte place" data-ref="niederlande_vereinigte" data-type="place" id="d2e946">Niederlanden</button><a class="fnNumber" href="#F_6" id="A_6">6</a>, auch in der <button class="entity #pfalz_kurfuerstentum place" data-ref="pfalz_kurfuerstentum" data-type="place" id="d2e961">Churfürstlichen Pfaltz</button><a class="fnNumber" href="#F_7" id="A_7">7</a>, und zu <button class="entity #genf place" data-ref="genf" data-type="place" id="d2e976">Genff</button><a class="fnNumber" href="#F_8" id="A_8">8</a> gebräuchlich gehalten werden) <br/>
+<span class="lineNumber">33</span>frey und offentlich zu exerciren und zu gebrauchen soll zugelassen und erlaubt seyn, und wie es mit <br/>
+<span class="lineNumber">34</span>der Religion und reinen Ceremonien allbereitz in der Frantzösischen Kirchen allhie ist angeordnet und <br/>
+<span class="lineNumber">35</span>gehalten wird,<a class="fnNumber" href="#F_9" id="A_9">9</a> also auch künfftiglich in der Flämmischen Kirchen mag angeordnet und gehalten <br/>
+<span class="lineNumber">36</span>werden, und hierbeneben die Außländischen<a class="fnNumber" href="#F_f" id="A_f">f</a> Kirchendiener nicht allein mit den Teutschen und Inn-<br/>
+<span class="lineNumber">37</span>heimischen gute und vertrauliche Correspondentz und Freundschafft halten, sondern sich auch mit <br/>
+<span class="lineNumber">38</span>denselben, so viel müglich, in den äusserlichen Ceremonien und sonsten in der Kirchen einer Confor-<br/>
+<span class="lineNumber">39</span>mität vergleichen, auch deren Synodis atque Conventibus, tam Classicis quam universalibus,<a class="fnNumber" href="#F_10" id="A_10">10</a> wann<a class="fnNumber" href="#F_g" id="A_g">g</a> <br/>
+<span class="lineNumber">40</span>dieselbige gehalten und sie darzu erfordert werden, beywohnen, und alles was zu Befürderung deß <br/>
+<span class="lineNumber">41</span>allgemeinen Kirchen-Baues umb<a class="fnNumber" href="#F_h" id="A_h">h</a> der Menschen zeitlicher und ewiger Wohlfarth immer dienlich <br/>
+<span class="lineNumber">42</span>seyn und gereichen mag, bestes Fleisses bedencken<a class="fnNumber" href="#F_i" id="A_i">i</a>, doch daß ihnen darneben auch ihre besondere <br/>
+<span class="lineNumber">43</span>Conventus darbey zu halten unbenommen sey, sondern frey stehe.
+<span class="lineNumber">44</span><span class="article_added">[Art. 2]</span> Und nachdem, fürs Ander, sowohl die Frantzosen und Wallonen als auch die Niederlän-<br/>
+<span class="lineNumber">45</span>der ihre besondere Kirchen und Ministeria in ihren Sprachen haben werden, soll ihnen auch hiermit <br/>
+<span class="lineNumber">46</span>erlaubt und zugelassen seyn, ihre Kirchen- und Schuldiener vor sich zu erwählen und beruffen; <br/>
+<span class="lineNumber">47</span>allein, daß sie diejenige Personen, so also von ihnen zum Ministerio der Kirchen und Schulen erwählet <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?fileType=view&amp;id=AHCMEMXXEAAECTGPOTJORUHI" id="p-Av"> [Blatt: A<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">48</span>und beruffen worden seyn, jederzeit wohlermeldtem <button class="entity #philipp_ludwig_ii_hanau person" data-ref="philipp_ludwig_ii_hanau" data-type="person" id="d2e1099">unserm gnädigen Herrn</button> als der Obrigkeit, <br/>
+<span class="lineNumber">49</span>oder <button class="entity #philipp_ludwig_ii_hanau person" data-ref="philipp_ludwig_ii_hanau" data-type="person" id="d2e1104">seiner Gn[aden]</button> Erben und Nachkommen, <a class="fnNumber" href="#F_j" id="A_j">j</a>so lang sie dieser wahren Christlichen Religion zugethan<a class="fnNumber" href="#F_j">j</a>, <br/>
+<span class="lineNumber">50</span>praesentiren und vorstellen, dieselbige, nach dem sie in Examine darzu genugsamb qualificirt und <br/>
+<span class="lineNumber">51</span>geschickt befunden werden, auch sonsten keine rechtmäßige oder erhebliche und wichtige Bedencken <br/>
+<span class="lineNumber">52</span>und Ursachen vorhanden, darum sie nicht uff- oder anzunehmen seyn solten<a class="fnNumber" href="#F_k" id="A_k">k</a>, wie sie auch derentwe-<br/>
+<span class="lineNumber">53</span>gen in gebührliche Pflicht und Gelübd zu nehmen, doch daß <a class="fnNumber" href="#F_l" id="A_l">l</a>sie solche<a class="fnNumber" href="#F_l">l</a> ihre beyderseits Kirchen- <br/>
+<span class="lineNumber">54</span>und Schuldiener wie auch andere, deren Diensten sie sich in<a class="fnNumber" href="#F_m" id="A_m">m</a> ihren Versammlungen gebrauchen, <br/>
+<span class="lineNumber">55</span>selbsten und von dem Ihrigen besolden und ihnen nothwendigen Unterhalt geben.
+<span class="lineNumber">56</span><span class="article_added">[Art. 3]</span> Damit auch, zum Dritten, so viel möglich verhütet und vorkommen werde, daß nicht <br/>
+<span class="lineNumber">57</span>Rotten und Secten in der Frantzösischen und Flämmischen Kirchen einreissen, oder dieselbige son-<br/>
+<span class="lineNumber">58</span>sten mit ärgerlichen und ohnruhigen oder auch wohl uffrührischen und deß gemeinen Friedens <br/>
+<span class="lineNumber">59</span>feindseligen Leuten deformirt, verunruhet, und beschwehret werden, soll kein Frembder, er sey auch <br/>
+<span class="lineNumber">60</span>was Nation er wolle, weder allhier in der <button class="entity #hanau_stadt place" data-ref="hanau_stadt" data-type="place" id="d2e1182">Stadt</button>, noch auch sonsten uff dem Lande sich Häußlichen <br/>
+<span class="lineNumber">61</span>nieder zu thun, uffgenommen, oder ihnen daselbsten zu wohnen zugelassen oder verstattet werden, <br/>
+<span class="lineNumber">62</span>er habe dann seiner Religion, Leben, Thun und Wandels von andern Reformirten Kirchen oder <br/>
+<span class="lineNumber">63</span>sonsten ehrlichen und glaubhafftigen Leuten gute Zeugnuß, Kundschafften, und Urkunden vorzu-<br/>
+<span class="lineNumber">64</span>legen und beyzubringen, und daß sie sich unter anderm in Specie verobligiren und verpflichten, <br/>
+<span class="lineNumber">65</span>der Kirchen-Disciplin allhier zu unterwerffen und derselben gemäß zu verhalten.
+<span class="lineNumber">66</span><span class="article_added">[Art. 4]</span> Zum Vierdten, daß ein jeder Frembder, wann er sich allhier oder sonsten in dieser <button class="entity #hanau-muenzenberg_grafschaft place" data-ref="hanau-muenzenberg_grafschaft" data-type="place" id="d2e1207">Graff-</button><br/>
+<span class="lineNumber">67</span><button class="entity #hanau-muenzenberg_grafschaft place" data-ref="hanau-muenzenberg_grafschaft" data-type="place" id="d2e1207">schafft</button> will nieder thun, gleich andern Unterthanen wohlermeldtem <button class="entity #philipp_ludwig_ii_hanau person" data-ref="philipp_ludwig_ii_hanau" data-type="person" id="d2e1215">unserm gnädigen Herrn</button> und <br/>
+<span class="lineNumber">68</span><button class="entity #philipp_ludwig_ii_hanau person" data-ref="philipp_ludwig_ii_hanau" data-type="person" id="d2e1219">S[einer] Gn[aden]</button> Erben gebührliche Huldigung und Pflicht thue, <button class="entity #philipp_ludwig_ii_hanau person" data-ref="philipp_ludwig_ii_hanau" data-type="person" id="d2e1228">Ihren Gn[aden]</button> getreu, hold, gehorsamb und <br/>
+<span class="lineNumber">69</span>gewärtig zu seyn und sich derselben und Ihren Räthen, Ambtleuten und Befehlshabern, recht-<br/>
+<span class="lineNumber">70</span>mäßigen Gebotten, Verbotten, Decretis oder Bescheiden, Satzungen<a class="fnNumber" href="#F_n" id="A_n">n</a>, Ordnungen <a class="fnNumber" href="#F_o" id="A_o">o</a>und Gebräuchen<a class="fnNumber" href="#F_o">o</a>, <br/>
+<span class="lineNumber">71</span><a class="fnNumber" href="#F_p" id="A_p">p</a>so dieser Capitulation nicht zuwider<a class="fnNumber" href="#F_p">p</a>, der Gebuhr zu unterwerffen, und all dasjenige zu thun und zu <br/>
+<span class="lineNumber">72</span>leisten, was getreue Unterthanen, auch vermög Göttliches Worts und Befehls, ihrer Christlichen <br/>
+<span class="lineNumber">73</span>Obrigkeit zu erzeigen schuldig und pflichtig seyn, doch daß einem jeden Frembden, so sich anhero <br/>
+<span class="lineNumber">74</span>begeben wird, frey stehe, allhie Bürger zu werden oder seiner Gelegenheit nach allein ein Beysaß<a class="fnNumber" href="#F_11" id="A_11">11</a> <br/>
+<span class="lineNumber">75</span>zu seyn, aber nichts daweniger gleich andern Bürgern seinen Eyd und Pflicht leiste, und alle Bür-<br/>
+<span class="lineNumber">76</span>gerliche Beschwehrungen mittragen und bezahlen helffe, wie sich auch sonsten in allen Sachen, <br/>
+<span class="lineNumber">77</span>den andern Bürgern gleich, und diesem Contract gemäß verhalte, und dargegen auch hinwieder <br/>
+<span class="lineNumber">78</span>der Bürgerlichen- und Stadt-Privilegien <a class="fnNumber" href="#F_q" id="A_q">q</a>ausserhalb<a class="fnNumber marginright" href="#F_12" id="A_12">12 </a> der Beholtzung<a class="fnNumber marginright" href="#F_13" id="A_13">13 </a>, Mastung<a class="fnNumber marginright" href="#F_14" id="A_14">14 </a> und Weydgangs<a class="fnNumber marginright" href="#F_15" id="A_15">15 </a><a class="fnNumber" href="#F_q">q</a> <br/>
+<span class="lineNumber">79</span>geniesse und theilhafftig werde.
+<span class="lineNumber">80</span><span class="article_added">[Art. 5]</span> Zum Fünfften, hat wohlgedachter unser <button class="entity #philipp_ludwig_ii_hanau person" data-ref="philipp_ludwig_ii_hanau" data-type="person" id="d2e1325">gnädiger Herr</button> gnädiglich bewilliget und zugesagt, <br/>
+<span class="lineNumber">81</span>die Frembden<a class="fnNumber" href="#F_r" id="A_r">r</a> sambt ihrem Haab und Gütern, in gleichmäßigen Schutz und Schirm, auch Geleyd, <br/>
+<span class="lineNumber">82</span>gleich andern Ihren Unterthanen zu nehmen, wie sich auch sonsten ihrer in allen billigen Dingen, <br/>
+<span class="lineNumber">83</span>wie einer Christlichen Obrigkeit ohnedas obliegt und wohl anstehet, getreulich anzunehmen, und <br/>
+<span class="lineNumber">84</span>in ihren vorfallenden Sachen weniger nicht, als auch andern ihren Unterthanen, gnädiglich die <br/>
+<span class="lineNumber">85</span>Hand zu biethen, auch bey Gleich und Recht, so viel müglich, hand zu haben, und darüber mit <br/>
+<span class="lineNumber">86</span>unbilligen und widerrechtlichen Arresten nicht beschwehren zu lassen.
+<span class="lineNumber">87</span><span class="article_added">[Art. 6]</span> Zum Sechsten, ist zu Handhabung der Herrschafft Hanau, Wildbahn, Fisch- und Krebs=<br/>
+<span class="lineNumber">88</span>Bächen und Wässer, ausdrücklich abgeredt und ihren Gn[aden] vorbehalten worden, daß sich die Fremb-<br/>
+<span class="lineNumber">89</span>den weniger nicht, als auch die Inheimischen Unterthanen alles Hätzens, Jagens, Wildschiessens <br/>
+<span class="lineNumber">90</span>und Waydwercks in ihrer Gn[aden] Wälden, Büschen und sonsten, wie auch des Fischens und Kräb-<br/>
+<span class="lineNumber">91</span>sens in Dero Fisch- und Krebs-Wässern, Weyern und Bächen, gäntzlich und zumahl bey un-<br/>
+<span class="lineNumber">92</span>gnädiger Straff enthalten sollen.
+<span class="lineNumber">93</span><span class="article_added">[Art. 7]</span> Zum Siebenden, ist auch bewilligt worden, daß diejenige so unter den Frembden tüglich und <br/>
+<span class="lineNumber">94</span>gnugsam qualificirt befunden werden, nach Gelegenheit in den Stadt-Rath zu Hanau und gemei-<br/>
+<span class="lineNumber">95</span>ner Bürgerschafft und der Stadt Nutzen mit vorstehen zu helffen gezogen und beruffen werden.
+<span class="lineNumber">96</span><span class="article_added">[Art. 8]</span> Item und zum Achten, daß sowol den Beysässen, als auch andern Bürgern, Kauffleu-<br/>
+<span class="lineNumber">97</span>ten, Krämern und Handwerckern, solle frey und bevor stehen, allerhand ehrliche und dem gemeinen <br/>
+<span class="lineNumber">98</span>Nutzen unschädliche Handthierungen und Nahrung zu treiben, und mit allerley doch aufrichtigen <br/>
+<span class="lineNumber">99</span>Waaren, als allenthalben im heiligen Reich gebräuchlich und zugelassen ist, zu parthieren, wie auch <br/>
+<span class="lineNumber">100</span>sowol mit Pfennigwerck, und bey der Ehlen auszuschneiden, als auch mit großen Summen und <br/>
+<span class="lineNumber">101</span>Ballen in ihren Häusern, und offenen Laden zu handlen und zu verkauffen. Item Wein und <br/>
+<span class="lineNumber">102</span>Bier auszuschencken und zu verzapffen, doch daß sie darvon das gewöhnliche Wein- und Bier=<br/>
+<span class="lineNumber">103</span>Ungeld entrichten, auch sonsten Recht und gleichmäßige Ehlen, Maaß, Gewicht, Zeichen und <br/>
+<span class="lineNumber">104</span>Siegel darbey gebrauchen.
+<span class="lineNumber">105</span><span class="article_added">[Art. 9]</span> Zum Neundten, so viel die Niederlage der Waaren belangt, hat man sich verglichen die-<br/>
+<span class="lineNumber">106</span>selbige in vier unterschiedene Sorten, vermög einer Rollen, so darüber uffgerichtet werden solle, <br/>
+<span class="lineNumber">107</span>abzutheilen, und soll von einem jeden Ballen, Faß, Kisten, Korb und dergleichen, der höchsten <br/>
+<span class="lineNumber">108</span>Sorten erlegt werden, drey Batzen, von der zweyten zween Batzen, von der dritten ein Batzen, <br/>
+<span class="lineNumber">109</span>und vom geringsten ein halber Batz. Doch soll hierneben gebräuchlicher Zoll, auch Weg-, Krahn-, <br/>
+<span class="lineNumber">110</span>Canaal- oder Schleusen-Geld nochmahls vorbehalten seyn.
+<span class="lineNumber">111</span><span class="article_added">[Art. 10]</span> Zum Zehenden, soll von einem jeden Fuder Wein, so einer hinder sich, und in seinen Keller <br/>
+<span class="lineNumber">112</span>leget, zween Floren zur Niederlage; von dem Wein aber, so ausgeschenckt und verzapfft wird, <br/>
+<span class="lineNumber">113</span>das gewöhnliche Ungeld gleich andern Unterthanen gegeben werden.
+<span class="lineNumber">114</span><span class="article_added">[Art. 11]</span> Zum Eilfften, ist bewilliget, daß die Frembden, damit sie der gemeinen Stadt Frohnen geübri-<br/>
+<span class="lineNumber">115</span>get seyn mögen, Jährliches ein jeder zween Floren gebe, dafür solche Frohnen mögen bestellet wer-<br/>
+<span class="lineNumber">116</span>den, doch daß die in der Neuen Stadt ihre Pforten und Stadt darneben selbsten bewachen sollen.
+<span class="lineNumber">117</span><span class="article_added">[Art. 12]</span> Zum Zwölfften, ist abgeredet und bewilliget worden, dieweil die Reichshülffen, oder Tür-<br/>
+<span class="lineNumber">118</span>cken-Schatzungen, zu Trost und Wohlfahrt der gemeinen Christenheit, hohes und niederen Stan-<br/>
+<span class="lineNumber">119</span>des, und zu Widerstand des übermächtigen Feindes des Türcken, und Abwendung seines tyran-<br/>
+<span class="lineNumber">120</span>nischen Gewalts, der Römischen Kayserl. Majest. unserm allergenädigsten Herrn, je bißweilen, <br/>
+<span class="lineNumber">121</span>von Chur, Fürsten und Ständen des Reichs bewilliget werden, und dargegen vermöge der <br/>
+<span class="lineNumber">122</span>Reichs-Abschieden einer jeden Obrigkeit frey und zugelassen ist, ihre Unterthanen, sie seyen Exempt, <br/>
+<span class="lineNumber">123</span>oder nicht Exempt, gefreyet oder nicht gefreyet, niemand ausgenommen, mit solcher Steuer zu <br/>
+<span class="lineNumber">124</span>belegen, dergleichen Türckenschatzung dann auch noch Ihrer Majest. auf jüngstgehaltenem Reichs-<br/>
+<span class="lineNumber">125</span>tage zu Regenspurg 1594. Wie auch seithero noch weiters auf etlichen Crayßtägen ist eingewil-<br/>
+<span class="lineNumber">126</span>liget worden, daß obbemeldte Frembde, so sich in dieser Grafschafft allbereit haben niedergethan, <br/>
+<span class="lineNumber">127</span>oder noch hiernechst begeben werden, ihr Gebühr daran, nach Anzahl der Zeit, gleich andern Un-<br/>
+<span class="lineNumber">128</span>terthanen erlegen und bezahlen: Welche aber ihr Vermögen nicht offenbahren wollen, das Jahr <br/>
+<span class="lineNumber">129</span>über in Zeitwährender dieser oder ander Schatzung und Reichs-Contribution fünff und zwantzig <br/>
+<span class="lineNumber">130</span>Gulden, oder aber anstatt eines ordinari in- und außerhalb Schatzung funfzehen Gulden jährli-<br/>
+<span class="lineNumber">131</span>ches erlegen sollen.
+<span class="lineNumber">132</span><span class="article_added">[Art. 13]</span> Zum dreyzehenden, so soll auch männiglichen erlaubt seyn sein Hauß zu seines Gewerbs <br/>
+<span class="lineNumber">133</span>Nothdurfft zu bauen, auch Färb- und Brauhäuser. Item Backöffen, darinnen so wol zu der <br/>
+<span class="lineNumber">134</span>gemeinen Becker, als auch eines jeden Bürgers und Inwohners, besondern Nutz und Gebrauch <br/>
+<span class="lineNumber">135</span>anzurichten, doch daß solches ohne Feuers-Gefahr, bösem Geruch und Unreinigkeit, oder Ubelstand <br/>
+<span class="lineNumber">136</span>der Stadt, sondern mit gebührlicher Vorsehung, und Vermög der Bauordnung geschehen.
+<span class="lineNumber">137</span><span class="article_added">[Art. 14]</span> Zum Vierzehenden, ist auch obbemeldten Frembden bewilliget worden, zu jederzeit, wann <br/>
+<span class="lineNumber">138</span>es ihnen gefält, das Ihrige wiederumb zu verkauffen, und ihrer Gelegenheit nach, an andern Or-<br/>
+<span class="lineNumber">139</span>then, ohne Erlegung und Entrichtung einiger Nachsteuer, zu ziehen, und sich zu begeben, darunter <br/>
+<span class="lineNumber">140</span>doch die Häuser in der Alten Stadt Hanau, daruff die Herrschafft solche Nachsteuer hat her-<br/>
+<span class="lineNumber">141</span>bracht, nicht sollen begriffen oder verstanden werden, aber die, so von neuem von ihnen erbauet <br/>
+<span class="lineNumber">142</span>werden, mögen obgedachter Privilegien geniessen.
+<span class="lineNumber">143</span><span class="article_added">[Art. 15]</span> Zum Funffzehenden, sollen sie auch nicht schuldig seyn gleich andern und inheimischen <br/>
+<span class="lineNumber">144</span>Bürgern zum Feuer auf dem Land, ausserhalb der Stadt, zu lauffen, und dasselbe mit löschen zu <br/>
+<span class="lineNumber">145</span>helffen: Weil sich aber Ihre Gn[aden] mit Dero Vettern den benachbarten Wetterauischen Grafen, <br/>
+<span class="lineNumber">146</span>einer gemeinen Lands-Rettung verglichen, welche auf den Nothfall, sowohl den Frembden, als <br/>
+<span class="lineNumber">147</span>auch den Inheimischen, in dieser Grafschafft zu gutem kommt, und Ihro Gn[aden] unter den andern <br/>
+<span class="lineNumber">148</span>ihren Unterthanen derentwegen allbereit den einen Ausschuß gemacht, und denselben auf die <br/>
+<span class="lineNumber">149</span>Wehren gesetzt haben, ist abgeredet und bewilliget worden, daß sich die Frembden eben sowol als <br/>
+<span class="lineNumber">150</span>die Inheimischen zu solchem Ausschuß gebrauchen, auf die Wehr setzen, und auf den Nothfall <br/>
+<span class="lineNumber">151</span>mit sollen verschicken lassen, doch daß hierin keiner gefahrt werde, sondern wer nicht gern mit <br/>
+<span class="lineNumber">152</span>auszeucht, einen andern qualificirten an seine statt schicken möge.
+<span class="lineNumber">153</span><span class="article_added">[Art. 16]</span> So soll auch zum Sechzehenden, die Anordnung und Versehung geschehen, daß Wo-<br/>
+<span class="lineNumber">154</span>chentlich zwey offentliche Marcktage, auf welchen, so viel müglich, alle nothdürfftige Victualien <br/>
+<span class="lineNumber">155</span>mögen gebracht und zu feilem Kauff gegeben, angestellet und gehalten werden, wie sich dann auch <br/>
+<span class="lineNumber">156</span>die Frembden, sowol als die Inheimischen, der zweyen Messen oder Jahrmärckten, damit diese <br/>
+<span class="lineNumber">157</span>Herrschafft von undencklichen Jahren von der Kayserl. Majest. ist privilegirt worden, gebrau-<br/>
+<span class="lineNumber">158</span>chen mögen. Item, daß ein oder zwey ordinari Schiff, so täglich, oder zum wenigsten zwey- oder <br/>
+<span class="lineNumber">159</span>dreymal in der Wochen, uff- und abnacher Franckfurt fahren, angestelt, und gegen die Gebühr <br/>
+<span class="lineNumber">160</span>gehalten werden.
+<span class="lineNumber">161</span><span class="article_added">[Art. 17]</span> Wie ingleichen auch zum Siebenzehenden, der Canaal aus dem Mayn in die Stadt <br/>
+<span class="lineNumber">162</span>sambt dem Krahn, damit man die Wahren möge ausheben und einladen, mit ehester Gelegenheit <br/>
+<span class="lineNumber">163</span>sollen verfertiget werden, doch daß dagegen ein gewöhnlich Krahngeld bezahlt werde.
+<span class="lineNumber">164</span><span class="article_added">[Art. 18]</span> Ebenmäßiger Gestalt, seynd Ihro Gn[aden] auch nochmahln und zum Achtzehenden, deß <br/>
+<span class="lineNumber">165</span>gnädigen Erbietens, den abgeredten Graben und Wall, mit seiner nothwendiger und sicherer <br/>
+<span class="lineNumber">166</span>Befriedigung in die Neu-Stadt, wie auch dieselbige mit nothwendigen Pforten und aufziehen-<br/>
+<span class="lineNumber">167</span>den Brücken versehen und verfertigen zu lassen.
+<span class="lineNumber">168</span><span class="article_added">[Art. 19]</span> Zum Neunzehenden, bleibt es mit den erkaufften Plätzen, da die Neue Stadt soll gebauet <br/>
+<span class="lineNumber">169</span>werden, und allbereit ausgetheilet seyn, bey dem vorigen Tax, darüber dann auch denjenigen, so <br/>
+<span class="lineNumber">170</span>sie genommen, gegen Erlegung deß darauf gesetzten Kauffgeldes, nach Gelegenheit, gebührliche <br/>
+<span class="lineNumber">171</span>Währ- und Kauff-Brieff sollen gegeben und zugestellet werden, so viel aber die Gärten, so <br/>
+<span class="lineNumber">172</span>darbey liegen, anbelangt, mag ein jeder, der dahin bauen will, mit den jetzigen Besitzern und <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?fileType=view&amp;id=OZJXLTJMLRYOLKFRERHODOFR" id="p-Aiiv"> [Blatt: Aii<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">173</span>Eigenthumbs-Herrn derselben, umb dieselbe uffs beste und genaueste, als er kan, handlen: Darinn <br/>
+<span class="lineNumber">174</span>dann Ihro Gn[aden] ihnen alle gnädige Beförderung zu erzeigen, auch wo nöthig den Kauff selbsten <br/>
+<span class="lineNumber">175</span>mit machen zu helffen, geneigt und urbietig seynd.
+<span class="lineNumber">176</span><span class="article_added">[Art. 20]</span> Zum Zwantzigsten, ist auch bewilliget worden, daß ein jeder für seinem Hauß die halbe <br/>
+<span class="lineNumber">177</span>Gassen, auf seinen Kosten, und darnach die Obrigkeit den Marck, und das Pflaster umb den <br/>
+<span class="lineNumber">178</span>Krahn wollen machen lassen.
+<span class="lineNumber">179</span><span class="article_added">[Art. 21]</span> Zum Ein und Zwantzigsten, ist wohlermeldtem unserm gnädigen Herrn nicht zuwider, <br/>
+<span class="lineNumber">180</span>daß hiernechst, und wann geliebts GOtt, die Neue Stadt in ein Uffnehmen kommt, mit Ihrer <br/>
+<span class="lineNumber">181</span>Gn[aden] Autorität ein Consulatus Mercatorum angerichtet und verordnet werde, dafür die Sachen, so <br/>
+<span class="lineNumber">182</span>die Handlung und Kauffmannschafften unter den Frembden angehn, ohne einige Weitläufftigkeit <br/>
+<span class="lineNumber">183</span>oder rechtliche Appellation nach Gelegenheit, und wie man sich dessen alsdann vergleichen wird, <br/>
+<span class="lineNumber">184</span>angenommen, gehört und erörtert werden doch unabbrüchlich Ihrer Gn[aden] in allen, sowol Civil <br/>
+<span class="lineNumber">185</span>und Criminal, als auch andern Sachen, Dero wohlherbrachte Jurisdiction, Hoch-, Obrig- und <br/>
+<span class="lineNumber">186</span>Gerechtigkeit.
+<span class="lineNumber">187</span><span class="article_added">[Art. 22]</span> Zum Zwey und Zwantzigsten, ist auch uff obbemeldter Frembden fleißiges und Christli-<br/>
+<span class="lineNumber">188</span>ches Anhalten bewilliget worden, daß wann GOtt der HErr sie mit der Pestilentz würde heimsu-<br/>
+<span class="lineNumber">189</span>chen, ihnen nicht aus der Stadt soll gebotten werden, sondern sie in ihren Behausungen bleiben, <br/>
+<span class="lineNumber">190</span>auch in- und außerhalb der Stadt, nach Gelegenheit ihrer Geschäfften ziehen und verreisen mö-<br/>
+<span class="lineNumber">191</span>gen, wie auch solches in andern Handels-Städten, als zu Straßburg, Hamburg, Franckfurt, <br/>
+<span class="lineNumber">192</span>auch in der Pfaltz, und an andern Orthen mehr gebräuchlich ist, und also gehalten wird, doch <br/>
+<span class="lineNumber">193</span>daß sie gleichwohl andere und unbefleckte Häuser ohne Noth meyden, wie auch der Gesunden, so <br/>
+<span class="lineNumber">194</span>viel müglich, verschonen, und dieselbige der Christlichen Liebe zuwider, damit nicht ebenmäßiger <br/>
+<span class="lineNumber">195</span>Gestalt, und gefährlicher Weiß beflecken oder anstecken, und mit der Zeit, wie in den Niederlan-<br/>
+<span class="lineNumber">196</span>den gebräuchlich, Pesten-Häuser verordnet, darinn in solcher Noth die Armen gethan, und der-<br/>
+<span class="lineNumber">197</span>selben mögen gepfleget und gewartet werden.
+<span class="lineNumber">198</span>Zu Urkundt, und umb gleichen Behalts und künfftiger Nachrichtung willen, seynd <br/>
+<span class="lineNumber">199</span>dieser Abreden und Vergleichungen zwene, gleiches Lauts- und Innhalts-Schrifften, so wir <br/>
+<span class="lineNumber">200</span><button class="entity #philipp_ludwig_ii_hanau person" data-ref="philipp_ludwig_ii_hanau" data-type="person" id="d2e1813">Philips Ludwig</button>, Grafe zu <button class="entity #hanau-muenzenberg_grafschaft place" data-ref="hanau-muenzenberg_grafschaft" data-type="place" id="d2e1816">Hanau</button> etc. obbemelt, sowol vor Uns, als auch den Wohlge-<br/>
+<span class="lineNumber">201</span>bohrnen unsern freundlichen lieben Bruder, Grafe <button class="entity #albrecht_hanau person" data-ref="albrecht_hanau" data-type="person" id="d2e1827">Albrecht zu Hanau</button> etc. und Unser bey-<br/>
+<span class="lineNumber">202</span>derseits Nachkommen und Erben, und <a class="fnNumber" href="#F_s" id="A_s">s</a>sie nachfolgende mit gnugsamer Vollmacht von der gan-<br/>
+<span class="lineNumber">203</span>tzen Gemeynd Deputirte, vor sich selbsten, und ihre<a class="fnNumber" href="#F_s">s</a> Mit-Consorten, mit eigenen Händen haben <br/>
+<span class="lineNumber">204</span>verzeichnet<a class="fnNumber" href="#F_t" id="A_t">t</a>, und mit unserm zu End aufgedruckten Secret-Siegel<a class="fnNumber" href="#F_16" id="A_16">16</a>, und ihren<a class="fnNumber" href="#F_u" id="A_u">u</a> gewöhnlichen Pitt-<br/>
+<span class="lineNumber">205</span>schafften<a class="fnNumber" href="#F_17" id="A_17">17</a> bekräfftiget, über alle obbesagende Puncten verfertiget und aufgericht, deren eine bey der <br/>
+<span class="lineNumber">206</span><button class="entity #hanau-muenzenberg_grafschaft place" data-ref="hanau-muenzenberg_grafschaft" data-type="place" id="d2e1896">Hanauischen</button> Cantzeley behalten, und die ander obbemeldten Frembden ist zugestellet und behän-<br/>
+<span class="lineNumber">207</span>digt worden. So geschehen zu <button class="entity #hanau_stadt place" data-ref="hanau_stadt" data-type="place" id="d2e1907">Hanau</button> den 1. Junii im Jahr nach Christi unsers lieben HErrn <br/>
+<span class="lineNumber">208</span>und Einigen Erlösers und Seeligmachers Geburt, Tausend Fünff Hundert Neuntzig und Sieben.
+<span class="lineNumber">209</span><a class="fnNumber" href="#F_v" id="A_v">v</a><button class="entity #philipp_ludwig_ii_hanau person" data-ref="philipp_ludwig_ii_hanau" data-type="person" id="d2e1923">P. L. Graf zu Hanau</button>.<a class="fnNumber" href="#F_v">v</a>
+<span class="lineNumber">210</span><a class="fnNumber" href="#F_w" id="A_w">w</a><button class="entity #heldenier_nicolaus person" data-ref="heldenier_nicolaus" data-type="person" id="d2e1939">Nicolaus Heldenier</button>. <br/>
+<span class="lineNumber">211</span><button class="entity #kindt_peter person" data-ref="kindt_peter" data-type="person" id="d2e1943">Peter t'kindt</button>. <br/>
+<span class="lineNumber">212</span><button class="entity #chombart_paulus person" data-ref="chombart_paulus" data-type="person" id="d2e1947">Paulus Chombart</button>. <br/>
+<span class="lineNumber">213</span><button class="entity #schelkens_hector person" data-ref="schelkens_hector" data-type="person" id="d2e1951">Hector Schelkens</button>. <br/>
+<span class="lineNumber">214</span><button class="entity #varlut_francois person" data-ref="varlut_francois" data-type="person" id="d2e1956">Francois Varlut</button>. <br/>
+<span class="lineNumber">215</span><button class="entity #hase_daniel person" data-ref="hase_daniel" data-type="person" id="d2e1960">Daniel de Hase</button>. <br/>
+<span class="lineNumber">216</span><button class="entity #behaigne_michiel person" data-ref="behaigne_michiel" data-type="person" id="d2e1964">Michiel de Behaigne</button>. <br/>
+<span class="lineNumber">217</span><button class="entity #latre_esaie person" data-ref="latre_esaie" data-type="person" id="d2e1968">Esaie de Latre</button>. <br/>
+<span class="lineNumber">218</span><button class="entity #faucque_gerhard person" data-ref="faucque_gerhard" data-type="person" id="d2e1973">Gerhard Faucque</button>. <br/>
+<span class="lineNumber">219</span><button class="entity #mostart_salomon person" data-ref="mostart_salomon" data-type="person" id="d2e1977">Salomon Mostart</button>. <br/>
+<span class="lineNumber">220</span><button class="entity #noefville_daniel person" data-ref="noefville_daniel" data-type="person" id="d2e1981">Daniel de Noefville</button>.<a class="fnNumber" href="#F_w">w</a>

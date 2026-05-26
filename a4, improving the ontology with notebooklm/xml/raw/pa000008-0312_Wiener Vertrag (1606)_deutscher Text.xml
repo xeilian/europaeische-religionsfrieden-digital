@@ -1,0 +1,2914 @@
+<?xml-model href="../../../customization/schema_quellentexte/religionsfrieden-quellentexte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="pa000008-0312">
+   <teiHeader>      
+      <fileDesc>         
+         <titleStmt>
+            <title level="a">Wiener Vertrag (23. Juni 1606)</title>
+            <title level="s">Europäische Religionsfrieden Digital</title>
+             
+            
+            <editor role="http://id.loc.gov/vocabulary/relators/edt" ref="http://d-nb.info/gnd/1063979854">
+                    <persName>Marion Bechtold-Mayer</persName>
+                </editor> 
+            <respStmt>
+                    <resp ref="http://id.loc.gov/vocabulary/relators/mrk">Mitarbeit</resp>
+                    <persName>Kevin Wunsch</persName>
+                    <persName>Silke Kalmer</persName>
+                </respStmt>           
+         </titleStmt>         
+         <editionStmt>
+            <edition>Digitale Edition gemäß <ref target="http://www.tei-c.org/">TEI P5</ref>
+                </edition>
+            <funder>Akademie der Wissenschaften und der Literatur Mainz</funder>
+                <principal>Unter der Leitung von Irene Dingel und Thomas Stäcker</principal>
+         </editionStmt>         
+         <publicationStmt>
+            <publisher>
+               <orgName ref="http://www.isni.org/0000000119314040">Leibniz-Institut für Europäische Geschichte Mainz</orgName>
+            </publisher>           
+            <distributor>
+               <orgName ref="http://www.isni.org/0000000110101946">Universitäts- und Landesbibliothek Darmstadt</orgName>
+               <idno type="ISIL">http://lobid.org/organisation/DE-17</idno>
+            </distributor>
+            <date when="2013-10-17" type="issued">2013</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p xml:lang="en">This file is licensed under the terms of the Creative Commons License CC-BY 4.0 (Attribution 4.0 International)</p>
+               </licence>
+            </availability>
+         </publicationStmt>        
+         <sourceDesc>
+                <p>Textgrundlage s. ggf. Einleitung.</p>
+            </sourceDesc>
+      </fileDesc>      
+      <encodingDesc>         
+         <projectDesc>
+            <p>
+                    <ref target="https://eured.de">Europäische Religionsfrieden Digital</ref>
+                </p>
+         </projectDesc>
+         <classDecl>
+            <taxonomy xml:id="marcrelator">
+               <bibl>
+                        <idno type="URI">http://id.loc.gov/vocabulary/relators/</idno> MARC Code List for Relators </bibl>
+            </taxonomy>
+         </classDecl>         
+      </encodingDesc>      
+      <profileDesc>         
+         <langUsage>
+            <language ident="deu">Deutsch</language>
+         </langUsage>         
+      </profileDesc>      
+      <!--<revisionDesc><change/></revisionDesc>-->   
+   </teiHeader>
+    <standOff>
+        <listPerson>
+            <person xml:id="jacobi_johann_othmar">
+                    <persName ref="http://d-nb.info/gnd/1037526260">
+                        <forename>Johann Othmar</forename>
+                        <surname>Jacobi</surname>
+                    </persName>
+                    <note>Drucker in Prag 1589-1608 </note>
+                </person>
+            <person xml:id="matthias_oesterreich">
+                    <persName ref="http://d-nb.info/gnd/119400839">
+                        <forename>Matthias</forename>
+                        <roleName>Kaiser</roleName>
+                    </persName>
+                    <note>Kaiser des <rs type="place" ref="#heiliges_roemisches_reich">Heiligen
+                            Römischen Reichs</rs>, Erzherzog von <rs type="place" ref="#oesterreich_erzherzogtum">Österreich</rs>, Generalstatthalter der
+                            <rs type="place" ref="#niederlande">Niederlande</rs>.</note>
+                </person>
+            <person xml:id="rudolf_ii">
+                    <persName ref="http://d-nb.info/gnd/118603701">
+                        <forename>Rudolf II.</forename>
+                        <roleName>Kaiser</roleName>
+                    </persName>
+                    <note>Kaiser des <rs type="place" ref="#heiliges_roemisches_reich">Heiligen
+                            Römischen Reichs</rs>.</note>
+                </person>
+            <person xml:id="bocskai_stephan">
+                    <persName ref="http://d-nb.info/gnd/118512242">
+                        <forename>Stephan</forename>
+                        <surname>Bocskai</surname>
+                    </persName>
+                    <note>Fürst von <rs type="place" ref="#siebenbuergen_fuerstentum">Siebenbürgen</rs>
+                </note>
+                </person>
+            <person xml:id="illeshazy_istvan">
+                    <persName ref="http://d-nb.info/gnd/119195704">
+                        <forename>István (Stephan)</forename>
+                        <surname>Illésházy</surname>
+                        <roleName>Graf</roleName>
+                    </persName>
+                </person>
+            <person xml:id="vizkelety_tamas">
+                    <persName>
+                        <forename>Tamás</forename>
+                        <surname>Vizkelety</surname>
+                    </persName>
+                    <note>Adeliger aus <rs type="place" ref="#cierny_brod">Čierny Brod</rs>
+                </note>
+                    <!-- nicht in viaf, dnb oder sonstigen Stellen außer diesem Vertragstext -->
+                </person>
+            <person xml:id="ostrozic_andras">
+                    <persName>
+                        <forename>András</forename>
+                        <surname>Ostrǒzic</surname>
+                    </persName>
+                    <note>Adeliger aus <rs type="place" ref="#giletinci"/>Giletincz</note>
+                    <!-- nicht in viaf, dnb o.ä. -->
+                </person>
+            <person xml:id="apponyi_pal">
+                    <persName>
+                        <forename>Pál</forename>
+                        <surname>Apponyi</surname>
+                    </persName>
+                    <note>Adliger von <rs type="place" ref="#oponice">Oponice (Appony)</rs>
+                </note>
+                </person>
+            <person xml:id="trautson_paul_sixt">
+                    <persName ref="http://d-nb.info/gnd/115540040">
+                        <forename>Paul Sixt</forename>
+                        <surname>Trautson</surname>
+                        <roleName>Reichsgraf zu <rs type="place" ref="#falkenstein_grafschaft">Falkenstein</rs>
+                    </roleName>
+                    </persName>
+                </person>
+            <person xml:id="liechtenstein_karl_von">
+                    <persName ref="http://d-nb.info/gnd/118720899">
+                        <forename>Karl</forename>
+                        <nameLink>von</nameLink>
+                        <surname type="toponymic">Liechtenstein</surname>
+                        <roleName>Fürst</roleName>
+                    </persName>
+                </person>
+            <person xml:id="molart_ernst_von">
+                    <persName ref="http://d-nb.info/gnd/11711913X">
+                        <forename>Ernst</forename>
+                        <nameLink>von</nameLink>
+                        <surname>Molart</surname>
+                        <roleName>Freiherr</roleName>
+                    </persName>
+                </person>
+            <person xml:id="breiner_siegfried_christoph">
+                    <persName ref="http://d-nb.info/gnd/1127154273">
+                        <forename>Siegfried Christoph</forename>
+                        <surname>Breiner</surname>
+                    </persName>
+                    <note>Adliger aus der <rs type="person" ref="#steiermark_herzogtum">Steiermark</rs>
+                </note>
+                </person>
+            <person xml:id="erdoedy_tamas">
+                    <persName ref="http://d-nb.info/gnd/1159118116">
+                        <forename>Tamás</forename>
+                        <surname>Erdödy</surname>
+                        <roleName>Graf</roleName>
+                    </persName>
+                </person>
+            <person xml:id="thurzo_gyoergy">
+                    <persName ref="http://d-nb.info/gnd/120404516">
+                        <forename>György </forename>
+                        <surname>Thurzo</surname>
+                    </persName>
+                </person>
+            <person xml:id="forgacs_zsigmond">
+                    <persName ref="http://d-nb.info/gnd/1016905327">
+                        <forename>Zsigmond</forename>
+                        <surname>Forgács</surname>
+                        <roleName>Freiherr</roleName>
+                    </persName>
+                </person>
+            <person xml:id="kremberg_ulrich_von">
+                    <persName>
+                        <forename>Ulrich</forename>
+                        <nameLink>von</nameLink>
+                        <surname type="toponymic">Kremberg</surname>
+                    </persName>
+                    <note>NN.</note>
+                </person>
+            <person xml:id="ferdinand_i">
+                    <persName ref="http://d-nb.info/gnd/118532502">
+                        <forename>Ferdinand I.</forename>
+                        <roleName>Kaiser</roleName>
+                    </persName>
+                    <note>Kaiser des <rs type="place" ref="#heiliges_roemisches_reich">Heiligen
+                            Römischen Reichs</rs>
+                </note>
+                </person>
+            <person xml:id="palffy_kata">
+                    <persName ref="http://d-nb.info/gnd/10362385X">
+                        <forename>Kata</forename>
+                        <surname>Pálffy</surname>
+                    </persName>
+                </person>
+            <person xml:id="homonnai_drugeth_gyoergy">
+                    <persName>
+                        <forename>György </forename>
+                        <surname>Homonnai Drugeth</surname>
+                    </persName>
+                    <note>1583-1613</note>
+                </person>
+            <person xml:id="dersffy_ferenc">
+                    <persName>
+                        <forename>Ferenc</forename>
+                        <surname>Dersffy</surname>
+                    </persName>
+                    <!-- wikipedia eintrag aber nicht dnb oder viaf -->
+                </person>
+            <person xml:id="belgioioso_giovanni">
+                    <persName ref="http://d-nb.info/gnd/1018722157">
+                        <forename>Giovanni Giacomo da </forename>
+                        <nameLink>da</nameLink>
+                        <surname>Barbiano di Belgioioso</surname>
+                        <roleName>Graf</roleName>
+                    </persName>
+                </person>
+            <person xml:id="banffy_denes">
+                    <persName>
+                        <forename>Dénes </forename>
+                        <surname>Banffy</surname>
+                    </persName>
+                    <note>Gest. 1612; verheiratet Schwager von Istvan Boczkay</note>
+                </person>
+            <person xml:id="magochy_ferenc">
+                    <persName>
+                        <forename>Ferenc</forename>
+                        <surname> Mágóchy</surname>
+                    </persName>
+                    <note>1580?–1611</note>
+                </person>
+            <person xml:id="homonnai_drugeth_balint">
+                    <persName>
+                        <forename>Bálint</forename>
+                        <surname>Homonnai Drugeth</surname>
+                    </persName>
+                    <note>1577–1609</note>
+                </person>
+            <person xml:id="alagy_ferenc">
+                    <persName>
+                        <forename>Ferenc</forename>
+                        <surname>Alaghy</surname>
+                    </persName>
+                    <note>Gest. 1612.</note>
+                </person>
+            <person xml:id="nadasdy_tamas">
+                    <persName>
+                        <forename>Tamás</forename>
+                        <surname>Nádasdy</surname>
+                    </persName>
+                </person>
+            <person xml:id="rakoczi_zsigmond">
+
+                    <persName ref="http://d-nb.info/gnd/119185148">
+                        <forename>Zsigmond I.</forename>
+                        <surname>Rákóczi</surname>
+                    </persName>
+                </person>
+            <person xml:id="banffy_gaspar">
+                    <persName>
+                        <forename>Gáspár </forename>
+                        <surname>Bánffy</surname>
+                    </persName>
+                </person>
+            <person xml:id="banffy_kristof">
+                    <persName>
+                        <forename>Kristóf</forename>
+                        <surname>Bánffy</surname>
+                    </persName>
+                    <note>1577–1644</note>
+                </person>
+            <person xml:id="banffy_gyoergy">
+                    <persName>
+                        <forename>György </forename>
+                        <surname>Bánffy</surname>
+                    </persName>
+                </person>
+            <person xml:id="bathory_sigismund">
+                    <persName ref="http://d-nb.info/gnd/132305887">
+                        <forename>Sigismund</forename>
+                        <surname>Báthory</surname>
+                    </persName>
+                    <note>Fürst von <rs type="place" ref="#siebenbuergen_fuerstentum">Siebenbürgen</rs>
+                </note>
+                </person>
+            <person xml:id="thoekoely_sebestyen">
+                    <persName>
+                        <forename>Sebestyén</forename>
+                        <surname>Thököly</surname>
+                    </persName>
+                    <note>Gest. 1607.</note>
+                </person>
+            <person xml:id="ferdinand_ii">
+                    <persName ref="http://d-nb.info/gnd/118532510">
+                        <forename>Ferdinand II.</forename>
+                        <roleName>Kaiser</roleName>
+                    </persName>
+                    <note>Kaiser des <rs type="place" ref="#heiliges_roemisches_reich">Heiligen
+                            Römischen Reichs</rs>
+                </note>
+                </person>
+        </listPerson>
+        <listPlace>
+            <place xml:id="heiliges_roemisches_reich">
+                    <placeName ref="http://d-nb.info/gnd/2035457-5">Heiliges Römisches Reich
+                        Deutscher Nation</placeName>
+                    <!-- dnb link geprüft, BM, 18.1.2021 -->
+                </place>
+            <place xml:id="oesterreich_erzherzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4075601-4">Österreich,
+                        Erzherzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="niederlande">
+                    <!-- wird in Antwerpen verwendet, evtl. durch einen der differenzierteren tags ersetzen? -->
+                    <placeName>Niederlande</placeName>
+                </place>
+            <place xml:id="siebenbuergen_fuerstentum">
+                    <placeName ref="http://d-nb.info/gnd/4054835-1">Siebenbürgen,
+                        Fürstentum</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                    <!-- weitgehend eigenständiges Herrschaftsgebiet seit 1541 -->
+                </place>
+            <place xml:id="cierny_brod">
+                    <placeName ref="http://www.geonames.org/3060664/cierny-brod.html">Čierny Brod
+                        (Vízkelet)</placeName>
+                </place>
+            <place xml:id="giletinci">
+                    <placeName ref="https://www.geonames.org/3200665/giletinci.html">Giletinci</placeName>
+                </place>
+            <place xml:id="oponice">
+                    <placeName ref="http://www.geonames.org/3058381/oponice.html">Oponice
+                        (Appony)</placeName>
+                </place>
+            <place xml:id="falkenstein_grafschaft">
+                    <placeName ref="http://d-nb.info/gnd/4844580-0">Falkenstein,
+                        Grafschaft</placeName>
+                    <!-- dnb link geprüft, BM, 15.1.2021 -->
+                </place>
+            <place xml:id="freienfeld">
+                    <placeName ref="http://www.geonames.org/3180976/campo-di-trens.html">Campo di
+                        Trens (Freinfeld)</placeName>
+                </place>
+            <place xml:id="suedtirol">
+                    <placeName ref="http://d-nb.info/gnd/4078047-8">Südtirol</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="jugoslawien">
+                    <placeName ref="http://d-nb.info/gnd/4028966-7">Jugoslawien</placeName>
+                    <!-- dnb link geprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="wien">
+                    <placeName ref="http://www.geonames.org/2761369/vienna.html">Wien</placeName>
+                </place>
+            <place xml:id="prag">
+                    <placeName ref="http://www.geonames.org/3067696/prague.html">Prag,
+                        Stadt</placeName>
+                </place>
+            <place xml:id="burgund_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4009139-9">Burgund, Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 14.1.2021 -->
+                </place>
+            <place xml:id="steiermark_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4057092-7">Steiermark,
+                        Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="kaernten_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4029175-3">Kärnten, Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="krain_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4032741-3">Krain, Herzogtum</placeName>
+                    <!-- dnb Link geprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="wuerttemberg_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4067029-6">Württemberg,
+                        Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 21.1.2021 -->
+                </place>
+            <place xml:id="habsburg_grafschaft">
+                    <placeName ref="http://d-nb.info/gnd/4844433-9">Habsburg, Grafschaft</placeName>
+                    <!-- dnb link geprüft, BM, 18.1.2021 -->
+                </place>
+            <place xml:id="tirol_grafschaft">
+                    <placeName ref="http://d-nb.info/gnd/4060207-2">Tirol, Grafschaft</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="ungarn_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/4078541-5">Ungarn, Königreich</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="boehmen_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/63739-7">Böhmen, Königreich</placeName>
+                    <!-- dnb link geprüft, BM, 14.1.2021 -->
+                </place>
+            <place xml:id="kismarja">
+                    <placeName ref="http://www.geonames.org/718888/kismarja.html">Kismarja</placeName>
+                </place>
+            <place xml:id="eliasovce">
+                    <placeName ref="https://www.geonames.org/3060263/eliasovce.html">Eliášovce</placeName>
+                </place>
+            <place xml:id="liptau_komitat">
+                    <placeName ref="http://d-nb.info/gnd/4460465-8">Liptau, Komitat</placeName>
+                    <!-- dnb link geprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="trentschin_komitat">
+                    <placeName ref="http://d-nb.info/gnd/7595435-7">Trentschin (Trencsén),
+                        Komitat</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="sprechenstein">
+                    <placeName>Sprechenstein, Schloss</placeName>
+                    <note>in der Gemeinde <rs type="place" ref="#freienfeld">Freienfeld</rs>, <rs type="place" ref="#suedtirol">Südtirol</rs>)</note>
+                </place>
+            <place xml:id="schroffenstein_ruine">
+                    <placeName ref="http://www.geonames.org/2765591/ruine-schroffenstein.html">Schroffenstein, Burg</placeName>
+                </place>
+            <place xml:id="kaja_ruine">
+                    <placeName ref="http://www.geonames.org/2774925/ruine-kaja.html">Kaja,
+                        Burgruine</placeName>
+                </place>
+            <place xml:id="laa_taya">
+                    <placeName ref="http://www.geonames.org/2773229/laa-an-der-thaya.html">Laa an
+                        der Thaya</placeName>
+                </place>
+            <place xml:id="nikolsburg">
+                    <placeName ref="http://www.geonames.org/3070720/mikulov.html">Nikolsburg
+                        (Mikulov)</placeName>
+                </place>
+            <place xml:id="cerna_hora">
+                    <placeName ref="http://www.geonames.org/3078083/cerna-hora.html">Černá
+                        Hora</placeName>
+                </place>
+            <place xml:id="boskovice">
+                    <placeName ref="https://www.geonames.org/3078910/boskovice.html">Boskovice</placeName>
+                </place>
+            <place xml:id="maehren_markgrafschaft">
+                    <placeName ref="http://d-nb.info/gnd/4074432-2">Mähren,
+                        Markgrafschaft</placeName>
+                    <!-- dnb link geprüft und aktualisiert, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="reinegg">
+                    <placeName>Reinegg</placeName>
+                    <note>ehemalige Burg bei St. Filippen (früher St. Filippen ob Reinegg) in
+                        Kärnten</note>
+                </place>
+            <place xml:id="drosendorf">
+                    <placeName ref="http://www.geonames.org/2780669/drosendorf.html">Drosendorf</placeName>
+                </place>
+            <place xml:id="oesterreich_unter_der_enns_erzherzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4075391-8">Österreich unter der
+                        Enns</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="kleinstuebing">
+                    <placeName ref="http://www.geonames.org/2774002/kleinstuebing.html">Kleinstübing</placeName>
+                </place>
+            <place xml:id="fladnitz">
+                    <placeName ref="http://www.geonames.org/2779516/fladnitz-an-der-teichalm.html">Fladnitz an der Teichalm</placeName>
+                </place>
+            <place xml:id="rabenstein">
+                    <placeName ref="http://www.geonames.org/2768150/schloss-rabenstein.html">Rabenstein</placeName>
+                </place>
+            <place xml:id="eberau">
+                    <placeName ref="http://www.geonames.org/2780539/eberau.html">Eberau
+                        (Monyorókerék)</placeName>
+                </place>
+            <place xml:id="moslavina">
+                    <placeName ref="http://www.geonames.org/3194843/moslavina.html">Moslavina</placeName>
+                </place>
+            <place xml:id="varasdin_komitat">
+                    <placeName>Warasdin, Komitat </placeName>
+                    <!-- kein passender dnb link vorhanden, BM, 1.3.21 -->
+                </place>
+            <place xml:id="arva">
+                    <placeName ref="http://d-nb.info/gnd/1062529340">Arva, Komitat</placeName>
+                    <!-- dnb link geprüft, BM, 13.1.2021 -->
+                </place>
+            <place xml:id="pressburg">
+                    <placeName ref="http://www.geonames.org/3060972/bratislava.html">Preßburg
+                        (Bratislava)</placeName>
+                </place>
+            <place xml:id="erlau">
+                    <placeName ref="http://www.geonames.org/721239/eger.html">Erlau
+                        (Eger)</placeName>
+                </place>
+            <place xml:id="oradea">
+                    <placeName ref="http://www.geonames.org/671768/oradea.html">Oradea
+                        (Großwardein)</placeName>
+                </place>
+            <place xml:id="modra">
+                    <placeName ref="http://www.geonames.org/3058663/modra.html">Modra</placeName>
+                </place>
+            <place xml:id="svaety_jur">
+                    <placeName ref="http://www.geonames.org/3057304/svaety-jur.html">Sankt Georgen
+                        (Svätý Jur) </placeName>
+                </place>
+            <place xml:id="pezinok">
+                    <placeName ref="http://www.geonames.org/3058210/pezinok.html">Pezinok</placeName>
+                </place>
+            <place xml:id="slawonien">
+                    <placeName ref="http://d-nb.info/gnd/4055289-5">Slawonien</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="kroatien_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/4073841-3">Kroatien-Slawonien,
+                        Königreich</placeName>
+                    <!-- dnb Link überprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="dalmatien">
+                    <placeName>Dalmatien, Region</placeName>
+                </place>
+            <place xml:id="donau_river">
+                    <placeName ref="http://www.geonames.org/791630/danube-river.html">Donau,
+                        Fluss</placeName>
+                </place>
+            <place xml:id="zvolen">
+                    <placeName ref="http://www.geonames.org/3056459/zvolen.html">Zvolen
+                        (Zólyom)</placeName>
+                </place>
+            <place xml:id="dobra_niva">
+                    <placeName ref="http://www.geonames.org/3060545/dobra-niva.html">Dobrá
+                        Niva</placeName>
+                </place>
+            <place xml:id="resica">
+                    <placeName ref="http://www.geonames.org/723750/resica.html">Rešica</placeName>
+                </place>
+            <place xml:id="bohunice">
+                    <placeName ref="http://www.geonames.org/3061020/bohunice.html">Bohunice im Okres
+                        Levice District</placeName>
+                </place>
+            <place xml:id="belin">
+                    <placeName ref="http://www.geonames.org/725148/belin.html">Belín
+                        (Bellény)</placeName>
+                </place>
+            <place xml:id="melek">
+                    <placeName ref="http://www.geonames.org/3058737/melek.html">Melek</placeName>
+                </place>
+            <place xml:id="cab">
+                    <placeName ref="http://www.geonames.org/3060843/cab.html">Čab</placeName>
+                </place>
+            <place xml:id="nagykallo">
+                    <placeName ref="http://www.geonames.org/3050732/kallo.html">Nagykálló</placeName>
+                </place>
+            <place xml:id="regec">
+                    <placeName ref="http://www.geonames.org/716142/regec.html">Regéc</placeName>
+                </place>
+            <place xml:id="kosice">
+                    <placeName ref="http://www.geonames.org/3073203/kosice.html">Košice
+                        (Kaschau)</placeName>
+                </place>
+            <place xml:id="tokaj">
+                    <placeName ref="http://www.geonames.org/714659/tokaj.html">Tokaj</placeName>
+                </place>
+            <place xml:id="ugocsa">
+                    <placeName ref="http://d-nb.info/gnd/4300366-7">Ugocsa, Komitat</placeName>
+                </place>
+            <place xml:id="bereg">
+                    <placeName ref="http://d-nb.info/gnd/4087225-7">Bereg, Komitat</placeName>
+                    <!-- dnb link ergänzt, BM, 22.1.2021 -->
+                </place>
+            <place xml:id="theiss">
+                    <placeName ref="http://www.geonames.org/691517/tisa.html">Theiß (Tisa),
+                        Fluss</placeName>
+                </place>
+            <place xml:id="satu_mare">
+                    <placeName ref="http://www.geonames.org/667873/satu-mare.html">Satu
+                        Mare</placeName>
+                </place>
+            <place xml:id="cherestur">
+                    <placeName ref="http://www.geonames.org/682190/cherestur.html">Cherestur</placeName>
+                </place>
+            <place xml:id="tarcal">
+                    <placeName ref="http://www.geonames.org/714973/tarcal.html">Tarcal</placeName>
+                </place>
+            <place xml:id="schlesien_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/24372-3">Ober- und Niederschlesien,
+                        Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+        </listPlace>
+    </standOff>
+    <facsimile>
+        <surface xml:id="f001">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000001.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f002">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000002.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f003">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000003.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f004">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000004.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f005">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000005.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f006">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000006.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f007">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000007.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f008">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000008.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f009">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000009.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f010">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000010.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f011">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000011.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f012">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000012.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f013">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000013.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f014">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000014.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f015">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000015.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f016">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000016.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f017">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000017.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f018">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000018.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f019">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000019.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f020">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000020.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f021">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000021.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f022">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000022.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f023">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000023.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f024">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000024.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f025">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000025.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f026">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000026.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f027">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000027.tif.original.jpg"/>
+        </surface>
+        <surface xml:id="f028">
+            <graphic url="https://digital.slub-dresden.de/data/kitodo/abdrdereu_333359976/abdrdereu_333359976_tif/jpegs/00000028.tif.original.jpg"/>
+        </surface>
+    </facsimile>
+    
+    
+    <text>
+        <body> 
+<div>
+         
+            
+<!-- 1 -->
+                <head>
+                    <lb/>
+                    <pb facs="#f001" n="A1r"/>Abdruck
+<!-- 2 -->
+                    <lb/>Der <hi rend="antiqua">Reconciliation</hi> un[d] 
+<!-- 3 -->
+                    <lb/>Vergleichung mit den Hungerischen 
+<!-- 4 -->
+                    <lb/>Stenden, geschehen zu <rs type="place" ref="#wien">Wien</rs> in <rs type="place" ref="#oesterreich_erzherzogtum">Osterreich</rs>, 
+<!-- 5 -->
+                    <lb/>den 23 Junii, Anno 1606. aus 
+<!-- 6 -->
+                    <lb/>Lateinischer sprach, ins <w>Deut
+<!-- 7 -->
+                        <pc>-</pc>
+                        <lb/>sche</w> gebracht.</head>
+         <p>
+                    <lb/>
+<!-- emblem -->
+         <lb/>
+<!-- 8 -->
+                    <lb/>
+                    <hi rend="antiqua">Cum Gratia Superiorum.</hi>
+<!-- 9 -->
+                    <lb/>Gedruckt in der Alten Stadt <rs type="place" ref="#prag">Prag</rs>,
+<!-- 10 -->
+                    <lb/>durch <rs type="person" ref="#jacobi_johann_othmar">Johan Othmar Jacobi</rs>.
+<lb/>
+                    <pb facs="#f002" n="A1v"/>[Leer]</p>
+
+<!-- 11 -->
+                <p>
+                    <lb/>
+                    <pb facs="#f003" n="A2r"/>
+                    <hi rend="initiale">W</hi>IR <rs type="person" ref="#matthias_oesterreich">Matthias</rs> 
+<!-- 12 -->
+                    <lb/>von Gottes Gnaden Ertzhertzog zu 
+<!-- 13 -->
+                    <lb/>
+                    <rs type="place" ref="#oesterreich_erzherzogtum">Osterreich</rs>, Hertzog zu <rs type="place" ref="#burgund_herzogtum">Burgu[n]d</rs>, <rs type="place" ref="#steiermark_herzogtum">Steyer</rs>, <rs type="place" ref="#kaernten_herzogtum">Kärndte[n]</rs>, 
+<!-- 14 -->
+                    <lb/>
+                    <rs type="place" ref="#krain_herzogtum">Krain</rs> und <rs type="place" ref="#wuerttemberg_herzogtum">Wirtenbergk</rs>, Graff zu <rs type="place" ref="#habsburg_grafschaft">Habspurgk</rs> 
+<!-- 15 -->
+                    <lb/>und <rs type="place" ref="#tirol_grafschaft">Tyroll</rs>, etc[etera].</p>
+<!-- 16 -->
+                <p>
+                    <lb/>Fügen hiemit zugedencken, Lauts und Inhalts 
+<!-- 17 -->
+                    <lb/>dieser Schrifft, und thun kundt Jedermenniglich, 
+<!-- 18 -->
+                    <lb/>denen solches zu wissen von nöten, Demnach die 
+<!-- 19 -->
+                    <lb/>
+                    <rs type="person" ref="#rudolf_ii">Röm[ische] Keyserliche</rs> auch zu <rs type="place" ref="#ungarn_koenigreich">Hungern</rs> und <rs type="place" ref="#boehmen_koenigreich">Böhaimb</rs> 
+<!-- 20 -->
+                    <lb/>
+                    <rs type="person" ref="#rudolf_ii">Königliche Mayestat</rs>, unser vielgeliebter Herr 
+<!-- 21 -->
+                    <lb/>Bruder, auff unser sonderbare <hi rend="antiqua">Intercession</hi> 
+<!-- 22 -->
+                    <lb/>und vorbiett gnedigst gewilliget, und zu hinlegung 
+<!-- 23 -->
+                    <lb/>und stillung der in dem <rs type="place" ref="#ungarn_koenigreich">Königreich Hungern</rs> <w>ent
+<!-- 24 -->
+                        <pc>-</pc>
+                        <lb/>standenen</w> unruhe un[d] empörung, uns vollkommene 
+<!-- 25 -->
+                    <lb/>macht und gewalt ubergeben, inmassen dann auch 
+<!-- 26 -->
+                    <lb/>dazumal, vermittelst <rs type="person" ref="#rudolf_ii">Ihr Key[serlichen] und Kön[iglichen] Maj[estät]</rs> <w>ge
+<!-- 27 -->
+                        <pc>-</pc>
+                        <lb/>heimben</w>, und andern Räthen und <hi rend="antiqua">Commissarien,
+<!-- 28 -->
+                        <lb/>tractat</hi> un[d] handlung hierüber gepflogen, auch <w>end
+<!-- 29 -->
+                        <pc>-</pc>
+                        <lb/>lichen</w> zum beschluß gebracht, von beyder teylen <w>Co[m]
+<!-- 30 -->
+                        <pc>-</pc>
+                        <lb/>missarien</w> unterschrieben, und mit auffgedruckten 
+<!-- 31 -->
+                    <lb/>iren Insiegeln bestercket und bekrefftiget worden.</p>
+<!-- 32 -->
+                <p>
+                    <lb/>Alldieweil aber auff des Hoch und wolgebornen
+<!-- 33 -->
+                    <lb/>Herrn <rs type="person" ref="#bocskai_stephan">Steffan Botzkay</rs><!-- Anm. in Registereintrag entfernen --> von <rs type="place" ref="#kismarja">Kißmaria</rs> seiten, 
+<!-- 34 -->
+                    <lb/>und seiner <hi rend="antiqua">Adhaerenten</hi> von <rs type="place" ref="#ungarn_koenigreich">Hungern</rs>, noch etliche
+ 
+<!-- 35 -->
+                    <lb/>
+                    <pb facs="#f004" n="A2v"/>Irrung und <hi rend="antiqua">Difficulteten</hi> hinderblieben, und dan 
+<!-- 36 -->
+                    <lb/>der Wolgeborne Herr <rs type="person" ref="#illeshazy_istvan">Stephanus Illiashasi</rs> von <!-- in listperson Stephan entfernen -->
+<!-- 37 -->
+                    <lb/>
+                    <rs type="place" ref="#eliasovce">Illieshaza</rs>, Graff zu <rs type="place" ref="#liptau_komitat">Liptow</rs> und <rs type="place" ref="#trentschin_komitat">Trinschin</rs><!-- in listplace trenscen entfernen -->, sampt
+<!-- 38 -->
+                    <lb/>andern seinen zugeordenten Adel, als <rs type="person" ref="#vizkelety_tamas">Thoma <w>Witz 
+<!-- 39 -->
+                            <pc>-</pc>
+                            <lb/>kelety</w>
+                    </rs> von <rs type="place" ref="#cierny_brod">Witzkelet</rs>, <rs type="person" ref="#ostrozic_andras">Andrea Ostrossit</rs> von <rs type="place" ref="#giletinci">
+                        <w>Gilet 
+<!-- 40 -->
+                            <pc>-</pc>
+                            <lb/>nitz</w>
+                    </rs> und <rs type="person" ref="#apponyi_pal">Paulo Apponi</rs> von Nad <rs type="place" ref="#oponice">Appon</rs>, in <w>gnug
+<!-- 41 -->
+                        <pc>-</pc>
+                        <lb/>samer</w> und volkommener macht und gewalt, bey uns
+<!-- 42 -->
+                    <lb/>zu <rs type="place" ref="#wien">Wien</rs> alhier angelanget.</p>
+<!-- 43 -->
+                <p>
+                    <lb/>Das wir derwegen, aus obbemelter uns <w>aufge
+<!-- 44 -->
+                        <pc>-</pc>
+                        <lb/>tragenen</w> gewalts volkommenheit, zu nutz und <w>wol
+<!-- 45 -->
+                        <pc>-</pc>
+                        <lb/>fart</w> der Christenheit<orig>,</orig> und gemeinen friedens<orig>,</orig> undt 
+<!-- 46 -->
+                    <lb/>zu erhaltung dieses <rs type="place" ref="#ungarn_koenigreich">König Reichs</rs>, damit es nicht 
+<!-- 47 -->
+                    <lb/>durch innerliche zwitracht un[d] uneinigkeit möchte in
+<!-- 48 -->
+                    <lb/>verderb geraten, und man der mal eins mit so viel
+<!-- 49 -->
+                    <lb/>und mancherley Blutvergiessen in der Christenheit 
+<!-- 50 -->
+                    <lb/>verschonet sein, die benachbarten Künigreich und 
+<!-- 51 -->
+                    <lb/>Landschafften auch von den stetwerenden einfallen 
+<!-- 52 -->
+                    <lb/>erlediget<orig>,</orig> und mit der Kron <rs type="place" ref="#ungarn_koenigreich">Hungern</rs> wiederumb
+<!-- 53 -->
+                    <lb/>zur ruh und krefften kommen, gnedigst geruhet<orig>,</orig> und
+<!-- 54 -->
+                    <lb/>unser einwilligung hierüber gegeben, das solche <w>ir
+<!-- 55 -->
+                        <pc>-</pc>
+                        <lb/>rung</w> und <hi rend="antiqua">difficulteten</hi>, so von d[er] ersten handlung 
+
+<!-- 56 -->
+                    <lb/>noch hinderstellig verbliebe[n], ander weit vor die hand 
+<!-- 57 -->
+                    <lb/>genommen, <hi rend="antiqua">tractiret</hi>
+                    <orig>,</orig> gehandelt<orig>,</orig> und zu <w>grun
+<!-- 58 -->
+                        <pc>-</pc>
+                        <lb/>de</w> hingeleget und verglichen werden möchten: <w>In
+<!-- 59 -->
+                        <pc>-</pc>
+                        <lb/>massen</w> dan dieselben durch hernach benandte, die
+<!-- 60 -->
+                    <lb/>Hoch und wolgeborne und Edle Herren, <rs type="person" ref="#trautson_paul_sixt">Paul 
+<!-- 61 -->
+                        <lb/>Sixt Trautson</rs>, Graffen zu <rs type="place" ref="#falkenstein_grafschaft">Falckenstein</rs>, Freyherrn 
+
+<!-- 62 -->
+                    <lb/>
+                    <pb facs="#f005" n="A3r"/>zu <rs type="place" ref="#sprechenstein">Sprechen</rs> und <rs type="place" ref="#schroffenstein_ruine">Schroffenstein</rs>, Herrn zu <rs type="place" ref="#kaja_ruine">Kaya</rs> 
+<!-- 63 -->
+                    <lb/>und <rs type="place" ref="#laa_taya">Laa</rs>, Erbmarschalln der Graffschafft <rs type="place" ref="#tirol_grafschaft">Tyrol</rs>; <rs type="person" ref="#liechtenstein_karl_von">
+                        <w>Ca
+<!-- 64 -->
+                            <pc>-</pc>
+                            <lb/>roln</w> von Lichtenstein</rs> zu <rs type="place" ref="#nikolsburg">Niclasburg</rs>, <rs type="place" ref="#cerna_hora">Czernahor</rs> 
+<!-- 65 -->
+                    <lb/>und <rs type="place" ref="#boskovice">Biskopitz</rs>, des Marggrafthumbs <rs type="place" ref="#maehren_markgrafschaft">Mähren</rs>
+<!-- 66 -->
+                    <lb/>
+                    <hi rend="antiqua">General</hi> Capitän; <rs type="person" ref="#molart_ernst_von">Ernst von Molart</rs>, Freyherrn
+<!-- 67 -->
+                    <lb/>zu <rs type="place" ref="#reinegg">Reineck</rs> und <rs type="place" ref="#drosendorf">Drossendorff</rs>, Stadthalter der 
+<!-- 68 -->
+                    <lb/>Regiru[n]g <rs type="place" ref="#oesterreich_unter_der_enns_erzherzogtum">Nieder Oster Reichischen teyls</rs>
+                    <orig>:</orig>
+                    <reg>;</reg> <rs type="person" ref="#breiner_siegfried_christoph">Siegfried 
+<!-- 69 -->
+                        <lb/>Christoff Preiner</rs>, Freyherr zu <rs type="place" ref="#kleinstuebing">Stübing</rs>, <rs type="place" ref="#fladnitz">Fladnitz</rs> 
+<!-- 70 -->
+                    <lb/>und <rs type="place" ref="#rabenstein">Tobenstein</rs>, <rs type="place" ref="#oesterreich_unter_der_enns_erzherzogtum">Nieder Osterreichischen</rs> <w>Cam
+<!-- 71 -->
+                        <pc>-</pc>
+                        <lb/>mer</w> Presidenten; <rs type="person" ref="#erdoedy_tamas">Thomam <w>Erde
+<!-- 72 -->
+                            <pc>-</pc>
+                            <lb/>di</w>
+                    </rs> von <rs type="place" ref="#eberau">Madierauckereck</rs>, Erbgraffen <rs type="place" ref="#moslavina">
+                        <hi rend="antiqua">Montis 
+<!-- 73 -->
+                            <lb/>Claudii</hi>
+                    </rs>, in der Graffschafft <rs type="place" ref="#varasdin_komitat">Warazdien</rs>, Graffen
+<!-- 74 -->
+                    <lb/>zu Traucznitz<note type="annotation">Übersetzungsfehler aus dem Lateinischen: <q>Comitem Tavernicorum</q> ist der ungarische </note><!--Ungarischer Schatzmeister -->: <rs type="person" ref="#thurzo_gyoergy">Georg Thurzo</rs> von <rs type="place" ref="#betlanovce">Bethlem Falva</rs>, <!-- Betlanovce (ung. Betlenfalva) https://www.geonames.org/725132/betlanovce.html-->
+<!-- 75 -->
+                    <lb/>Frey und Erb Graffen von <rs type="place" ref="#arva">Arva</rs>, und Ober Graffe[n] 
+<!-- 76 -->
+                    <lb/>des Truchsessen Ampts in der Graffschafft <rs type="place" ref="#arva">Arve</rs>: 
+<!-- 77 -->
+                    <lb/>
+                    <rs type="person" ref="#forgacs_zsigmond">Sigismundum Forgatz</rs><!-- ansetzung an die dnb anpassen: sigismundus --> von <rs type="place" ref="#jelenec">Ghymes</rs><!-- Jelenec (Gýmeš) https://www.geonames.org/3059652/jelenec.html -->, Grafen zu 
+<!-- 78 -->
+                    <lb/>
+                    <rs type="place" ref="#neograd_komitat">Nogradie</rs> <!--Komitat Neograd warten auf Info der Dnb zum Datensatz Nógrád -->, Hochmeistern des Künigliche[n] Erbschenck 
+<!-- 79 -->
+                    <lb/>Ampts in <rs type="place" ref="#ungarn_koenigreich">Hungern</rs>, und <rs type="person" ref="#kremberg_ulrich_von">Ulrich von Krenberg</rs>
+<!-- 80 -->
+                    <lb/>in <rs type="place" ref="#neuwaldegg">Nayvolyk</rs> <!-- Neuwaldegg https://www.geonames.org/2770640/neuwaldegg.html -->, <rs type="person" ref="#rudolf_ii">I[hrer] Key[serlichen] und Kün[iglichen] Maj[estät]</rs> geheimbe 
+<!-- 81 -->
+                    <lb/>und andere Räthe, so zu diesen Sachen gezogen und 
+<!-- 82 -->
+                    <lb/>gebraucht, nachfolgender gestalt, von beyden <w>they
+<!-- 83 -->
+                        <pc>-</pc>
+                        <lb/>len</w> <hi rend="antiqua">accordirt</hi> und verglichen worden.</p>
+            </div>
+
+            <!-- 84 -->
+            <div>
+                <head>
+                    <lb/>Auff den ersten Artickel.</head>
+<!-- 85 -->
+                <p>
+                    <lb/>Was nun die <hi rend="antiqua">Religions</hi> händel anlanget, Ist 
+<!-- 86 -->
+                    <lb/>unvorhindert der hie vorigen, nach gelegenheit der 
+<!-- 87 -->
+                    <lb/>zeit offentlichen ausgangenen <hi rend="antiqua">Constitutionen</hi>, noch 
+
+<!-- 88 -->
+                    <lb/>
+                    <pb facs="#f006" n="A3v"/>auch des letzten <hi rend="antiqua">Articuls</hi> im 1604. Jare, <w>sinte
+<!-- 89 -->
+                        <pc>-</pc>
+                        <lb/>mal</w> derselbe ausserhalb des Rakusch, oder gemeinen
+<!-- 90 -->
+                    <lb/>Reichs versamlung, und also ohne der Reichs <w>In
+<!-- 91 -->
+                        <pc>-</pc>
+                        <lb/>woner</w> gemeinen <hi rend="antiqua">assens</hi> und bewilligung <w>hinzuge
+<!-- 92 -->
+                        <pc>-</pc>
+                        <lb/>setzt</w>, und derwegen auch wiederumb aufzuheben, 
+<!-- 93 -->
+                    <lb/>
+                    <hi rend="antiqua">deliberirt</hi> und beschlossen, das nach Inhalt <rs type="person" ref="#rudolf_ii">I[hrer] 
+<!-- 94 -->
+                        <lb/>Key[serlichen] und Kön[iglichen] Maj[estät]</rs> vorigen <hi rend="antiqua">resolution</hi>, darauff 
+<!-- 95 -->
+                    <lb/>sich auch die Reichs Inhaber in ihrer <hi rend="antiqua">Replica</hi> <hi rend="antiqua">
+                        <w>re
+<!-- 96 -->
+                            <pc>-</pc>
+                            <lb/>feriren</w>
+                    </hi> und ziehen thun, Als das sie alle und jede 
+<!-- 97 -->
+                    <lb/>Orden und Stende<orig>,</orig> des <rs type="place" ref="#ungarn_koenigreich">Hungerischen Kreises</rs>, 
+<!-- 98 -->
+                    <lb/>so wol die Obern, Herren und Adel Standes, als
+<!-- 99 -->
+                    <lb/>auch die Stedte<orig>,</orig> und andere <hi rend="antiqua">Privilegirte</hi> Orter, 
+<!-- 100 -->
+                    <lb/>ohn alle mittel zur Cron <rs type="place" ref="#ungarn_koenigreich">Hungern</rs> gehörig, <w>inglei
+<!-- 101 -->
+                        <pc>-</pc>
+                        <lb/>chen</w> auf den Gräntzen des <rs type="place" ref="#ungarn_koenigreich">König Reichs</rs> die <w>Hun
+<!-- 102 -->
+                        <pc>-</pc>
+                        <lb/>gerischen</w> Kriegsleute, in irer <hi rend="antiqua">Religion</hi> und <hi rend="antiqua">
+                        <w>Con
+<!-- 103 -->
+                            <pc>-</pc>
+                            <lb/>fession</w>
+                    </hi> mit nichten und an keinem Ort nicht zu <hi rend="antiqua">
+                        <w>tur
+<!-- 104 -->
+                            <pc>-</pc>
+                            <lb/>biren</w>
+                    </hi>, noch von andern <hi rend="antiqua">turbiret</hi> od[er] gehindert zu 
+<!-- 105 -->
+                    <lb/>werde[n], gestatten wollen: Sondern sol einem jedem<note type="crit_app">Korrigiert aus: jedern.</note>
+<!-- 106 -->
+                    <lb/>unter vorbenandten orden un[d] Stenden freye ubung 
+<!-- 107 -->
+                    <lb/>und <hi rend="antiqua">exercitium</hi> seiner <hi rend="antiqua">Religion</hi> vergundt und 
+<!-- 108 -->
+                    <lb/>zugelassen seyn:
+<!-- 109 -->
+                    <lb/>Jedoch ohne einig <hi rend="antiqua">Praeiudiciu[m]</hi> der Catholische[n] <w>Rö
+<!-- 110 -->
+                        <pc>-</pc>
+                        <lb/>mischen</w> <hi rend="antiqua">Religion</hi>, das auch die Clerisey, Kirchen 
+<!-- 111 -->
+                    <lb/>und Gottes heuser der Römischen Catholischen <w>un
+<!-- 112 -->
+                        <pc>-</pc>
+                        <lb/>berürt</w> und frey gelassen, und das jenige, so ihnen
+<!-- 113 -->
+                    <lb/>diese unruhige zeit uber eingenommen<orig>,</orig> und <w>entzo
+<!-- 114 -->
+                        <pc>-</pc>
+                        <lb/>gen</w> worden, wiederumb eingereumet und zugestelt
+<!-- 115 -->
+                    <lb/>werden möchte. </p>
+            </div>
+
+<!-- 116 -->
+            <div>
+                <head>
+                    <lb/>
+                    <pb facs="#f007" n="A4r"/>Auff den Andern.</head>
+<!-- 117 -->
+                <p>
+                    <lb/>Dieses Artickels halben bleibet es bey deß <w>hiebe
+<!-- 118 -->
+                        <pc>-</pc>
+                        <lb/>vorigen</w> <hi rend="antiqua">Tractats</hi>, und handlungs beschluß, das 
+<!-- 119 -->
+                    <lb/>nemlich zugleich mit den Hungern unnd Türcken, 
+<!-- 120 -->
+                    <lb/>fried und vergleichung getroffen werden möchte.
+</p>
+            </div>
+<!-- 121 -->
+            <div>
+                <head>
+                    <lb/>Auff den Dritten.</head>
+<!-- 122 -->
+                <p>
+                    <lb/>Auff ehester<reg>,</reg> nechstbevorstehender Diaet oder 
+<!-- 123 -->
+                    <lb/>Reichs-versamlung, sol ein Woywoda <hi rend="antiqua">elegirt</hi> un[d]
+<!-- 124 -->
+                    <lb/>gekoren werden, nach seiner <hi rend="antiqua">dignitet</hi> und würden, 
+<!-- 125 -->
+                    <lb/>wie vor alters gebreuchlich gewesen. Dieweil aber
+<!-- 126 -->
+                    <lb/>
+                    <rs type="person" ref="#rudolf_ii">I[hre] Key[serliche] und Kün[igliche] Maj[estät]</rs> wegen vielfeltiger, teglich
+<!-- 127 -->
+                    <lb/>vorfallender Reichs geschefften in der Christenheit 
+<!-- 128 -->
+                    <lb/>ihre <hi rend="antiqua">residentz</hi> in <rs type="place" ref="#ungarn_koenigreich">Hungern</rs> oder andern <w>benach
+<!-- 129 -->
+                        <pc>-</pc>
+                        <lb/>barten</w> Orten nicht haben können, und damit die 
+<!-- 130 -->
+                    <lb/>Reichs Inwoner nicht von nöten, einer jedern <w>sa
+<!-- 131 -->
+                        <pc>-</pc>
+                        <lb/>chen</w> halben sich nach <rs type="person" ref="#rudolf_ii">I[hrer] Maj[estät]</rs> weit entlegenen <w>Re
+<!-- 132 -->
+                        <pc>-</pc>
+                        <lb/>sidentz</w> oder Hoffhaltungs stelle zubegeben, und <w>der
+<!-- 133 -->
+                        <pc>-</pc>
+                        <lb/>wegen</w> schwere unkosten zu treiben, da dan <rs type="person" ref="#rudolf_ii">I[hre] May[estät]</rs>
+<!-- 134 -->
+                    <lb/>die Hungerischen Räthe nicht alzeit bey der handt
+<!-- 135 -->
+                    <lb/>haben können: Ist derwegen bedacht und dahin <w>ge
+<!-- 136 -->
+                        <pc>-</pc>
+                        <lb/>schlossen</w> worde[n], d[as] <rs type="person" ref="#matthias_oesterreich">I[hre] Durchlauchtigkeit</rs> <w>volkom
+<!-- 137 -->
+                        <pc>-</pc>
+                        <lb/>mene</w> macht und gewalt haben möge, Inmassen 
+<!-- 138 -->
+                    <lb/>dan ihr derselbe unlengst, durch die <rs type="person" ref="#rudolf_ii">Key[serliche] Mai[estät]</rs> <w>allen
+<!-- 139 -->
+                        <pc>-</pc>
+                        <lb/>thalben</w> volkomlich ubergeben un[d] auffgetragen <w>wor
+<!-- 140 -->
+                        <pc>-</pc>
+                        <lb/>den</w>, in sachen und geschefften des <rs type="place" ref="#ungarn_koenigreich">König Reichs 
+<!-- 141 -->
+                        <lb/>Hungern</rs>, und allem dem jenigen, was zu erhaltu[n]g 
+
+<!-- 142 -->
+                    <lb/>
+                    <pb facs="#f008" n="A4v"/>und auffnemen des <rs type="place" ref="#ungarn_koenigreich">Künig Reichs</rs>, und desselben
+<!-- 143 -->
+                    <lb/>Inwohner ruh, nutz und wolfart von nöten, durch 
+<!-- 144 -->
+                    <lb/>einen Waywoden und Hungerische Räthe, anders 
+<!-- 145 -->
+                    <lb/>nicht, als wan <rs type="person" ref="#rudolf_ii">I[hre] Key[serliche] und Kün[igliche] Maj[estät]</rs> selbst <w>Per
+<!-- 146 -->
+                        <pc>-</pc>
+                        <lb/>sonlich</w> zugegen, alles zu <hi rend="antiqua">proponiren</hi>, verhören, 
+<!-- 147 -->
+                    <lb/>
+                    <hi rend="antiqua">tractiren</hi> und handeln, <hi rend="antiqua">Disponiren</hi>, richten und 
+<!-- 148 -->
+                    <lb/>entscheyden zulassen.
+<!-- 149 -->
+                    <lb/>Der Itzt noch anwesende<!-- wer ist das? --> aber sol in seiner vorige[n] 
+<!-- 150 -->
+                    <lb/>stelle mit seiner Personlichen gegenwart verbleiben: 
+<!-- 151 -->
+                    <lb/>doch der gestalt, das der hinfüro nach des <rs type="place" ref="#ungarn_koenigreich">Künig
+<!-- 152 -->
+                        <lb/>reichs</rs> <hi rend="antiqua">Statuten eligirt</hi> un[d] bestetiget werde[n] müge.</p>
+            </div>
+
+<!-- 153 -->
+            <div>
+                <head>
+                    <lb/>Auf den Vierdten.</head>
+<!-- 154 -->
+                <p>
+                    <lb/>Des <rs type="place" ref="#ungarn_koenigreich">Königreichs</rs> Inwoner <hi rend="antiqua">Suppliciren</hi> noch 
+<!-- 155 -->
+                    <lb/>fort bey <rs type="person" ref="#rudolf_ii">I[hrer] Mai[estät]</rs>, das dieselbe, so bald die itzigen 
+<!-- 156 -->
+                    <lb/>leuffte ein wenig wieder zur ruh gebracht, die Cron 
+<!-- 157 -->
+                    <lb/>wiederumb gen <rs type="place" ref="#pressburg">Preßburg</rs> in <rs type="place" ref="#ungarn_koenigreich">Hungern</rs>, wie bey
+<!-- 158 -->
+                    <lb/>andern Königreichen herkommen und gebreuchlich, 
+<!-- 159 -->
+                    <lb/>bringen und hinderlegen wolten.</p>
+            </div>
+<!-- 160 -->
+            <div>
+                <head>
+                    <lb/>Auf den Fünften.</head>
+<!-- 161 -->
+                <p>
+                    <lb/>Den Schatzmeister belangende, bleibet es mit 
+<!-- 162 -->
+                    <lb/>diesem Artickel gleichsfalls, wie in der vorigen <hi rend="antiqua">
+                        <w>tra
+<!-- 163 -->
+                            <pc>-</pc>
+                            <lb/>ctation</w>
+                    </hi> geschlossen, das dieser Schatzmeister, er 
+<!-- 164 -->
+                    <lb/>werde nun Einnemer der Königlichen einkommen, 
+<!-- 165 -->
+                    <lb/>oder vorgesetzter, oder mit anderm name[n] genen[n]et, 
+<!-- 166 -->
+                    <lb/>mit sampt den andern seine[n] zugeordenten sich <w>durch
+<!-- 167 -->
+                        <pc>-</pc>
+                        <lb/>aus</w> in nichtes, so die Reichs Regirung betreffen 
+
+<!-- 168 -->
+                    <lb/>
+                    <pb facs="#f009" n="B1r"/>thut, einlassen sol, sondern allein mit den Reichs
+<!-- 169 -->
+                    <lb/>einkommen zu thun haben.
+<!-- 170 -->
+                    <lb/>Inmassen dan auch beschlossen worden, das <w>hin
+<!-- 171 -->
+                        <pc>-</pc>
+                        <lb/>füro</w>, je un[d] alzeit, geborne Hungern hierzu erwehlet,
+<!-- 172 -->
+                    <lb/>auch zu den gemeinen Reichs <hi rend="antiqua">Contributionen</hi>, 
+<!-- 173 -->
+                    <lb/>die Inwohner desselben<orig>,</orig> nach alten gebrauch<orig>,</orig> ihre <w>so[n]
+<!-- 174 -->
+                        <pc>-</pc>
+                        <lb/>derbare</w> Einnemer und Pfennig-Meister, so inen
+<!-- 175 -->
+                    <lb/>belieben und gefellig, <hi rend="antiqua">eligiren</hi> un[d] haben mügen.</p>
+<!-- 176 -->
+                <p>
+                    <lb/>Was die beyden Bischoffe, den zu <rs type="place" ref="#erlau">Erlaw</rs><!-- listplace an dnb anpassen ohne (Erlau) -->
+                    <orig>,</orig> und <!-- wie soll das codiert werden die Orte oder die Personen oder beides, wenn ja wie? -->
+<!-- 177 -->
+                    <lb/>den zu <rs type="place" ref="#oradea">Waradin</rs>
+                    <reg>,</reg> <!-- listplace Eintrag korr.waradin entfernen -->anreichen thut, sollen sich <w>diesel
+<!-- 178 -->
+                        <pc>-</pc>
+                        <lb/>ben</w> mittler dessen von den Reichsgeschefften<orig>,</orig> <w>gentz
+<!-- 179 -->
+                        <pc>-</pc>
+                        <lb/>lichen</w> enthalten, biß das ihre sachen zu Recht <w>ent
+<!-- 180 -->
+                        <pc>-</pc>
+                        <lb/>schieden</w>, oder gebürlichen hingelegt und verglichen.</p>
+            </div>
+
+<!-- 181 -->
+            <div>
+                <head>
+                    <lb/>Auf den Sechsten.</head>
+<!-- 182 -->
+                <p>
+                    <lb/>Mit diesem Artickel bleibet es auch bey dem <w>vori
+<!-- 183 -->
+                        <pc>-</pc>
+                        <lb/>gen</w> beschluß, das nemlich <rs type="person" ref="#rudolf_ii">I[hrer] Key[serlichen] und Kön[iglichen] Maj[estät]</rs>
+<!-- 184 -->
+                    <lb/>
+                    <hi rend="antiqua">autoritet</hi> und gewalt nichts entzogen werde, Es 
+<!-- 185 -->
+                    <lb/>stehet zu <rs type="person" ref="#rudolf_ii">I[hrer] Mai[estät]</rs> gefallen, was sie vor Bischoffe <hi rend="antiqua">
+                        <w>eli
+<!-- 186 -->
+                            <pc>-</pc>
+                            <lb/>giren</w>
+                    </hi> und wehlen wollen<orig>:</orig>
+                    <reg>;</reg> jedoch das kein andere 
+<!-- 187 -->
+                    <lb/>hierinnen zu recht gezogen, dan Bischoffliche <w>Per
+<!-- 188 -->
+                        <pc>-</pc>
+                        <lb/>sonen</w>, oder die, so Bischoffliche Recht und Gütter
+<!-- 189 -->
+                    <lb/>in besitz haben, das auch <rs type="person" ref="#rudolf_ii">I[hre] Maj[estät]</rs> gnedigst darauff
+<!-- 190 -->
+                    <lb/>bedacht sein werden, das<reg>,</reg> wie hiebevorn allzeit, <w>al
+<!-- 191 -->
+                        <pc>-</pc>
+                        <lb/>so</w> auch hinfüro die vor andern in acht genommen,
+<!-- 192 -->
+                    <lb/>so von Edlem Stamme und herkom[m]en hierzu <w>taug
+<!-- 193 -->
+                        <pc>-</pc>
+                        <lb/>lich</w>. Was aber in sonderheit von den Bischoffen, so 
+<!-- 194 -->
+                    <lb/>
+                    <pb facs="#f010" n="B1v"/>Graff und Herrschafften unter sich haben, <w>vermel
+<!-- 195 -->
+                        <pc>-</pc>
+                        <lb/>det</w> wird, und ob dergleichen Geistliche Personen, 
+<!-- 196 -->
+                    <lb/>auch Weltliche <hi rend="antiqua">digniteten</hi> und Herrschafften <w>in
+<!-- 197 -->
+                        <pc>-</pc>
+                        <lb/>haben</w> und besitzen mögen, darauff werden sich die 
+<!-- 198 -->
+                    <lb/>
+                    <rs type="person" ref="#rudolf_ii">Kün[igliche] Maj[estät]</rs><!-- oder matthias? --> und Reichsstende in kunfftiger Diaet
+<!-- 199 -->
+                    <lb/>oder Reichsversamlung entschlissen, jedoch sol es 
+<!-- 200 -->
+                    <lb/>mit den <hi rend="antiqua">Praeposituren</hi> und Apteyen in seinem <w>vori
+<!-- 201 -->
+                        <pc>-</pc>
+                        <lb/>gen</w> stand und <hi rend="antiqua">fundation</hi> verbleiben. 
+<!-- 202 -->
+                    <lb/>Und dieweil in de[m] Anhang dieses Artickels auch 
+<!-- 203 -->
+                    <lb/>der Stedte <rs type="place" ref="#modra">Modor</rs>, <rs type="place" ref="#svaety_jur">S[ankt] Georgi</rs><!-- nur svaety jur in list place --> und <rs type="place" ref="#pezinok">Bozin</rs> meldu[n]g 
+<!-- 204 -->
+                    <lb/>geschicht, Ob nemlich dieselben unter den<note type="crit_app">Korrigiert aus: deu.</note> <hi rend="antiqua">Praelaten</hi>, 
+<!-- 205 -->
+                    <lb/>Herren, Edelen, Orden und Stenden dieses <rs type="place" ref="#ungarn_koenigreich">
+                        <w>König
+<!-- 206 -->
+                            <pc>-</pc>
+                            <lb/>reichs</w>
+                    </rs> mit sitzen<orig>,</orig> und ihre <hi rend="antiqua">vota</hi> und stimmen geben
+<!-- 207 -->
+                    <lb/>mögen<orig>,</orig>
+                    <reg>.</reg> Diese ihre gantze sach wirdt zu ferner <w>be
+<!-- 208 -->
+                        <pc>-</pc>
+                        <lb/>rathschlagung</w> und <hi rend="antiqua">resolution</hi> <rs type="person" ref="#rudolf_ii">I[hrer] Maj[estät]</rs> dan auch 
+<!-- 209 -->
+                    <lb/>der Orden und Stende dieses <rs type="place" ref="#ungarn_koenigreich">Künigreichs</rs>, biß auf 
+<!-- 210 -->
+                    <lb/>den nechsten Rakusch oder Reichstag verschoben, 
+<!-- 211 -->
+                    <lb/>von Güttern aber werden <rs type="person" ref="#rudolf_ii">I[hre] Key[serliche] und Kön[igliche] Maj[estät]</rs> 
+<!-- 212 -->
+                    <lb/>den <hi rend="antiqua">Com[m]uniteten</hi> oder Gemeinden, vermöge der 
+<!-- 213 -->
+                    <lb/>Weiland Keyser <rs type="person" ref="#ferdinand_i">Ferdinandi</rs> etc[etera] Hochmildseligster 
+<!-- 214 -->
+                    <lb/>gedechnus <hi rend="antiqua">Anno</hi> 1542. offentlich ausgangenen 
+<!-- 215 -->
+                    <lb/>
+                    <hi rend="antiqua">Statuten</hi>, nichts <hi rend="antiqua">conferiren</hi>.</p>
+            </div>
+
+<!-- 216 -->
+            <div>
+                <head>
+                    <lb/>Auf den Siebenden.</head>
+<!-- 217 -->
+                <p>
+                    <lb/>Dieser Artickel wird gleichsfals nach des <w>vori
+<!-- 218 -->
+                        <pc>-</pc>
+                        <lb/>gen</w> <hi rend="antiqua">Tractats</hi> beschluß<note type="crit_app">Korrigiert aus: beschlnß.</note> <hi rend="antiqua">confirmiret</hi> und bestetiget, 
+<!-- 219 -->
+                    <lb/>das die Geistlichen Sitze auch sollen bleiben, jedoch<reg>,</reg> </p>
+
+<!-- 220 -->
+                <p>
+                    <lb/>
+                    <pb facs="#f011" n="B2r"/>da bey denselben etliche mißbreuche eingerissen, 
+<!-- 221 -->
+                    <lb/>kön[n]en dieselben auf der nechsten <hi rend="antiqua">diaet</hi> oder <w>versam
+<!-- 222 -->
+                        <pc>-</pc>
+                        <lb/>lung</w> <rs type="person" ref="#rudolf_ii">I[hrer] Maj[estät]</rs> und den Reichs Stenden <hi rend="antiqua">proponirt,
+<!-- 223 -->
+                        <lb/>limitirt</hi> und geendert werden.</p>
+            </div>
+
+<!-- 224 -->
+            <div>
+                <head>
+                    <lb/>Auf den Achten.</head>
+<!-- 225 -->
+                <p>
+                    <lb/>Die Hungern seindt nicht zu frieden, das die <w>Je
+<!-- 226 -->
+                        <pc>-</pc>
+                        <lb/>suiter</w> einig<reg>,</reg> bestendig oder besitzlich Recht im <rs type="place" ref="#ungarn_koenigreich">
+                        <w>König
+<!-- 227 -->
+                            <pc>-</pc>
+                            <lb/>reich</w> Hungern</rs> haben und besitzen mögen, jedoch so 
+<!-- 228 -->
+                    <lb/>viel die Clausuln der <hi rend="antiqua">Donatialien</hi> anlanget, lasse[n]
+<!-- 229 -->
+                    <lb/>es <rs type="person" ref="#rudolf_ii">I[hre] Maj[estät]</rs> bey den Küniglichen Rechten bewende[n],
+<!-- 230 -->
+                    <lb/>das solche <hi rend="antiqua">Donationes</hi> un[d] ubergabe nach de[s] <rs type="place" ref="#heiliges_roemisches_reich">Reichs</rs>
+<!-- 231 -->
+                    <lb/>
+                    <hi rend="antiqua">Decreten</hi> wie vor alters gebreuchlich, geschehen 
+<!-- 232 -->
+                    <lb/>mögen.</p>
+            </div>
+
+<!-- 233 -->
+            <div>
+                <head>
+                    <lb/>Auf den Neundten und Zehenden.</head>
+<!-- 234 -->
+                <p>
+                    <lb/>Die <rs type="person" ref="#rudolf_ii">Röm[ische] Key[serliche] und Kün[igliche] Maj[estät]</rs> wollen hinfüro 
+<!-- 235 -->
+                    <lb/>die Cron <rs type="place" ref="#ungarn_koenigreich">Hungern</rs> sampt ihren zugehörigen <w>Künig
+<!-- 236 -->
+                        <pc>-</pc>
+                        <lb/>reichen</w>, <rs type="place" ref="#slawonien">Sclavonien</rs>, <rs type="place" ref="#kroatien_koenigreich">Crabaten</rs> und <rs type="place" ref="#dalmatien">Dalmatien</rs> 
+<!-- 237 -->
+                    <lb/>mit gebornen Hungern<orig>,</orig> und ihnen unterworffenen
+<!-- 238 -->
+                    <lb/>und zugehörigen <hi rend="antiqua">Nationen</hi> besetzen, deßgleichen 
+<!-- 239 -->
+                    <lb/>wollen sie alle obere und niedere Reichs Empter,
+<!-- 240 -->
+                    <lb/>so wol auch die außländischen<orig>,</orig> und Gränitz<!-- Grenz --> Empter 
+<!-- 241 -->
+                    <lb/>nach dem Hungerischen Rath und gutbedencken, 
+<!-- 242 -->
+                    <lb/>den Hungern und ihren zugethanen hierzu <w>taugli
+<!-- 243 -->
+                        <pc>-</pc>
+                        <lb/>chen</w> <hi rend="antiqua">Nationen</hi>, ohne einig unterscheidt der <hi rend="antiqua">Religio[n], 
+<!-- 244 -->
+                        <lb/>conferiren</hi> und ein reumen, jedoch, da es <rs type="person" ref="#rudolf_ii">I[hre] Maj[estät]</rs> 
+<!-- 245 -->
+                    <lb/>also vor gut ansehen, mögen sie die beyder seits <w>an
+
+<!-- 246 -->
+                        <pc>-</pc>
+                        <lb/>
+                        <pb facs="#f012" n="B2v"/>grentzenden</w> Empter gegen der <rs type="place" ref="#donau_river">Donau</rs>, ihres <w>gefal
+<!-- 247 -->
+                        <pc>-</pc>
+                        <lb/>lens</w>, auch mit rath anderer benachbarten und wol 
+<!-- 248 -->
+                    <lb/>verdienten <hi rend="antiqua">Provincien</hi> bestellen.</p>
+            </div>
+
+<!-- 249 -->
+            <div>
+                <head>
+                    <lb/>Auf den Eilfften.</head>
+<!-- 250 -->
+                <p>
+                    <lb/>Dieses Artickels halben<reg>,</reg> von dem <hi rend="antiqua">Palatino</hi> oder  
+<!-- 251 -->
+                    <lb/>Woywoden, ist droben im dritten Artickel <w>verord
+<!-- 252 -->
+                        <pc>-</pc>
+                        <lb/>nung</w> geschehen, jedoch mit diesem hinzugesetzten <w>an
+<!-- 253 -->
+                        <pc>-</pc>
+                        <lb/>hang</w>, das die klagende Partheye[n], ire <hi rend="antiqua">iniurien</hi>
+                    <orig>,</orig> nach 
+<!-- 254 -->
+                    <lb/>ordnung der Rechte <hi rend="antiqua">prosequiren</hi>, un[d] keiner, er sey
+<!-- 255 -->
+                    <lb/>dan ordentlicher weiß <hi rend="antiqua">citiret</hi>
+                    <orig>,</orig> und mit Recht <w>uber
+<!-- 256 -->
+                        <pc>-</pc>
+                        <lb/>wiesen</w>, gestrafft werde[n] sol. Und damit dieses auch 
+<!-- 257 -->
+                    <lb/>nicht ubergangen werde, so sollen auch die Reichs 
+<!-- 258 -->
+                    <lb/>
+                    <hi rend="antiqua">decreta</hi>, so bey dieser itzigen unruhe, durch <w>mancher
+<!-- 259 -->
+                        <pc>-</pc>
+                        <lb/>ley</w> erfolgte Reichs <hi rend="antiqua">Constitution</hi>, den alten <hi rend="antiqua">
+                        <w>Statu
+<!-- 260 -->
+                            <pc>-</pc>
+                            <lb/>ten</w>
+                    </hi> und ordnung in viel wege <hi rend="antiqua">contrari</hi> und zu <w>wie
+<!-- 261 -->
+                        <pc>-</pc>
+                        <lb/>der</w> sein, in nechstkunfftiger <hi rend="antiqua">Diaet</hi> oder Reichs <w>ver
+<!-- 262 -->
+                        <pc>-</pc>
+                        <lb/>samlung</w>
+                    <orig>,</orig> nach den alten <hi rend="antiqua">Constitutionen</hi> des 1550., 
+<!-- 263 -->
+                    <lb/>1553. und 1563. e[t]c[et]r[a] Jares<orig>,</orig> geendert und <w>ver
+<!-- 264 -->
+                        <pc>-</pc>
+                        <lb/>bessert</w> werden.</p>
+            </div>
+
+<!-- 265 -->
+            <div>
+                <head>
+                    <lb/>Auf den Zwölfften.</head>
+<!-- 266 -->
+                <p>
+                    <lb/>1. Herrn <rs type="person" ref="#illeshazy_istvan">Steffan Illiashasi</rs> und <rs type="person" ref="#palffy_kata">seines Weibs</rs> 
+<!-- 267 -->
+                    <lb/>sachen sollen verglichen, und sie gebürlichen <hi rend="antiqua">
+                        <w>co[n]ten
+<!-- 268 -->
+                            <pc>-</pc>
+                            <lb/>tirt</w>
+                    </hi> werden.
+<!-- 269 -->
+                    <lb/>2. Der Dobonischen Erben hendel seind durch 
+<!-- 270 -->
+                    <lb/>
+                    <rs type="person" ref="#perenyi_zsofia">
+                        <hi rend="antiqua">Sophiam</hi> Prigney</rs><!-- Zsófia Perényi (1574-1606/07; Zsófia war über ihre Mutter mit der Familie Dobó verwand und wurde von Ferenc Dobó als zweite Erbin benannt, da der erste Erbe János Balassi vorzeitig verstarb wurde Zsófia Erbin des Dobonischen Besitzes) -->, als der vornembsten Erbin, 
+<!-- 271 -->
+                    <lb/>mit <rs type="person" ref="#rudolf_ii">I[hrer] Maj[estät]</rs> <hi rend="antiqua">concordiret</hi>.
+
+<!-- 272 -->
+                    <lb/>
+                    <pb facs="#f013" n="B3r"/>3. <rs type="person" ref="#homonnai_drugeth_gyoergy">Georg Homonay</rs> ist vermüg der offentlichen 
+<!-- 273 -->
+                    <lb/>
+                    <hi rend="antiqua">Constitution condemnirt</hi> worden: Das nun die 
+<!-- 274 -->
+                    <lb/>Cammer ein unzeitige urteils <hi rend="antiqua">execution</hi> ergehen 
+<!-- 275 -->
+                    <lb/>lassen, solches ist <rs type="person" ref="#rudolf_ii">I[hrer] Maj[estät]</rs> nicht zu zumessen<orig>:</orig>
+                    <reg>.</reg> Nichts
+<!-- 276 -->
+                    <lb/>desto weniger sollen hinfüro alle und jede <hi rend="antiqua">Sententz</hi>
+<!-- 277 -->
+                    <lb/>und Urteil gebürlicher masse[n], nach inhalt der Reichs 
+<!-- 278 -->
+                    <lb/>
+                    <hi rend="antiqua">Decreten</hi>, zur <hi rend="antiqua">execution</hi> gebracht werden.
+<!-- 279 -->
+                    <lb/>4. Die Heuser <rs type="place" ref="#zvolen">Zeilam</rs> und <rs type="place" ref="#dobra_niva">Diebrau</rs>, sollen <w>ver
+<!-- 280 -->
+                        <pc>-</pc>
+                        <lb/>mög</w> der abteylung <rs type="person" ref="#rudolf_ii">I[hrer] Key[serlichen] Maj[estät]</rs> <rs type="person" ref="#dersffy_ferenc">
+                        <hi rend="antiqua">Francisco</hi> <w>Ders
+<!-- 281 -->
+                            <pc>-</pc>
+                            <lb/>fy</w>
+                    </rs><!-- Eintrag ergänzen: gest. 1606 -->, dann auch <rs type="place" ref="#dersffy_miklos">Nicklas Dersfy</rs><!-- Eintrag listperson gest. 1606--> <rs type="place" ref="#perenyi_borbala">Hausfrauen</rs><!-- Eintrag listperson ändern dersffy_orsolya löschen neu: Borbála Perényi (1558-1619)--> und 
+<!-- 282 -->
+                    <lb/>Erben wieder eingeraumbt, oder aber d[er] meiste wert 
+<!-- 283 -->
+                    <lb/>darvor <hi rend="antiqua">deponiret</hi> und hinderleget werden.
+<!-- 284 -->
+                    <lb/>5. Der <hi rend="antiqua">General</hi> Oberste <rs type="person" ref="#belgioioso_giovanni">
+                        <hi rend="antiqua">Belgioiosa</hi>
+                    </rs><!-- registereintrag überprüfen --> hat von 
+<!-- 285 -->
+                    <lb/>
+                    <rs type="person" ref="#banffy_denes">
+                        <hi rend="antiqua">Dionysio Banfy</hi>
+                    </rs><!-- registereintrag überprüfen --> 14000.<!-- in anderem Druck evtl. 340000 --> Taler empfangen, mit
+<!-- 286 -->
+                    <lb/>diesen wollen sich <rs type="person" ref="#rudolf_ii">I[hre] Maj[estät]</rs> entweder mit Güttern, 
+<!-- 287 -->
+                    <lb/>oder barem Gelde abfinden.
+<!-- 288 -->
+                    <lb/>6. Die Paleschianischen Gütter, sintemal die 
+<!-- 289 -->
+                    <lb/>
+                    <hi rend="antiqua">Successorn</hi> und Erben, dieselben freywillig mit <w>gel
+<!-- 290 -->
+                        <pc>-</pc>
+                        <lb/>de</w> von <rs type="person" ref="#rudolf_ii">I[hrer] May[estät]</rs> erkaufft, bedürffen keiner <hi rend="antiqua">
+                        <w>rectifi
+<!-- 291 -->
+                            <pc>-</pc>
+                            <lb/>cation</w>: Volenti enim non fit iniuria</hi>.
+<!-- 292 -->
+                    <lb/>7. Die besitz der Gütter <rs type="place" ref="#resica">Pechia</rs><!-- heisst so in allen deutschen Drucken, richtig ist aber vielmehr Rechia, korr.? --> und <rs type="place" ref="#bohunice">Bohonitz</rs>, <!-- listplace eintrag korr. -->
+<!-- 293 -->
+                    <lb/>sowol auch die Deregnianischen Gütter sollen in 
+<!-- 294 -->
+                    <lb/>nechstkunfftiger <hi rend="antiqua">Diaet</hi>, von den <hi rend="antiqua">ordinari</hi> Reichs 
+<!-- 295 -->
+                    <lb/>Richtern, <hi rend="antiqua">Iure extraordinario revidirt</hi> werden.
+<!-- 296 -->
+                    <lb/>8. Die Gütter <rs type="place" ref="#belin">Pelleny</rs>, <rs type="place" ref="#melek">Melleck</rs> und <rs type="place" ref="#cab">Kapy</rs> solle[n] 
+
+<!-- 297 -->
+                    <lb/>
+                    <pb facs="#f014" n="B3v"/>gleichfals auf der nechsten <hi rend="antiqua">Diaet</hi>, durch die <w>ordent
+<!-- 298 -->
+                        <pc>-</pc>
+                        <lb/>lichen</w> Richter, mit Recht, jedoch <hi rend="antiqua">extraordinarie 
+<!-- 299 -->
+                        <lb/>revidirt</hi> werden.
+<!-- 300 -->
+                    <lb/>9. Die Gütter <rs type="place" ref="#nagykallo">Kalo</rs><!-- überprüfen, geonames nur Kálló -->, haben <rs type="person" ref="#rudolf_ii">I[hre] Maj[estät]</rs> hiebevor 
+<!-- 301 -->
+                    <lb/>ihren angehörigen Erben widerumb <hi rend="antiqua">cediret</hi> und 
+<!-- 302 -->
+                    <lb/>ubergeben.
+<!-- 303 -->
+                    <lb/>10. <rs type="person" ref="#magochy_ferenc">Franciscum Makochii</rs> und <rs type="person" ref="#homonnai_drugeth_balint">Valentinum <w>Ho
+<!-- 304 -->
+                            <pc>-</pc>
+                            <lb/>monay</w>
+                    </rs>, wollen <rs type="person" ref="#rudolf_ii">I[hrer] Maj[estät]</rs> von Rechtlicher Ansprach 
+<!-- 305 -->
+                    <lb/>wegen der Vhestung <rs type="place" ref="#regec">Regetz</rs>, los und ledig zehlen, 
+<!-- 306 -->
+                    <lb/>sintemal sie beyde sich auch sonsten mit <rs type="person" ref="#alagy_ferenc">Francisco
+<!-- 307 -->
+                        <lb/>Alagky</rs>, als dem Manlichen Erben verglichen.
+<!-- 308 -->
+                    <lb/>11. Was die Stadt <rs type="place" ref="#kosice">Kaschau</rs> von den Königen 
+<!-- 309 -->
+                    <lb/>in <rs type="place" ref="#ungarn_koenigreich">Hungern</rs> vor alters hero vor Gütter <w>uberkom
+<!-- 310 -->
+                        <pc>-</pc>
+                        <lb/>men</w>, die sollen sie nach altem gebrauch, frey und <w>un
+<!-- 311 -->
+                        <pc>-</pc>
+                        <lb/>gehindert</w> in[n]en haben und besitzen.
+<!-- 312 -->
+                    <lb/>12. Die Celeidianischen Güter<!-- ? --> sollen auff <w>kunf
+<!-- 313 -->
+                        <pc>-</pc>
+                        <lb/>tiger</w> <hi rend="antiqua">Diaet</hi> durch die <hi rend="antiqua">ordinari iudices</hi>, mit Recht 
+<!-- 314 -->
+                    <lb/>
+                    <hi rend="antiqua">revedirt</hi> werden.
+<!-- 315 -->
+                    <lb/>13. <rs type="person" ref="#nadasdy_tamas">Thomam Nadazdii</rs>, wollen <rs type="person" ref="#rudolf_ii">I[hre] Key[serliche] und Kön[igliche] 
+<!-- 316 -->
+                        <lb/>Maj[estät]</rs> weder wegen seiner Heyrat, noch auch seiner 
+<!-- 317 -->
+                    <lb/>Gütter, mit Recht nicht hindern.
+<!-- 318 -->
+                    <lb/>14. Deßgleichen sol auch <rs type="person" ref="#rakoczi_zsigmond">Sigismundo Ragoczky</rs>
+<!-- 319 -->
+                    <lb/>sowol auch dem Balaßischen Stam[m], von <rs type="person" ref="#rudolf_ii">I[hrer] Maj[estät]</rs> 
+<!-- 320 -->
+                    <lb/>kein eintrag geschehen.
+<!-- 321 -->
+                    <lb/>15. <rs type="person" ref="#banffy_gaspar">Caspar Bamfy</rs> <rs type="person" ref="#">Wittfrau</rs><!-- registereintrag generieren auch im ff -->, so von <rs type="person" ref="#banffy_kristof">Christoff</rs> 
+<!-- 322 -->
+                    <lb/>und <rs type="person" ref="#banffy_gyoergy">Georg Bamfy</rs>, alles deß ihren entsatzt, sol <w>wie
+<!-- 323 -->
+                        <pc>-</pc>
+                        <lb/>derumb</w> in <hi rend="antiqua">integrum restituirt</hi> werden.
+
+<!-- 324 -->
+                    <lb/>
+                    <pb facs="#f015" n="B4r"/>16. Gleicher massen sol auch <rs type="person" ref="#balassa_zsigmond">Sigismu[n]dus <w>Bal
+<!-- 325 -->
+                            <pc>-</pc>
+                            <lb/>lassa</w>
+                    </rs><!-- Zsigmond Balassa (1572-1623 -->, der wieder all natürlich Recht und billigkeit 
+<!-- 326 -->
+                    <lb/>
+                    <rs type="person" ref="#">seiner Mutter leiblich Schwester</rs>
+                    <orig>,</orig> und seinen <w>leib
+<!-- 327 -->
+                        <pc>-</pc>
+                        <lb/>lichen</w> <rs type="person" ref="#">Bruder</rs> gefenglichen eingezogen, und aller 
+<!-- 328 -->
+                    <lb/>ihrer Gütter, beweglich und unbeweglich, <w>berau
+<!-- 329 -->
+                        <pc>-</pc>
+                        <lb/>bet</w>, inen dieselben also bald wiederumb einreumen<orig>,</orig>
+                    <reg>.</reg> 
+<!-- 330 -->
+                    <lb/>In verbleibung dessen<orig>,</orig> soll er durch die <hi rend="antiqua">spolierten</hi> 
+<!-- 331 -->
+                    <lb/>Clegere<orig>,</orig> auf nechstkunfftigen Rakusch<orig>,</orig> <hi rend="antiqua">citiret</hi> <w>wer
+<!-- 332 -->
+                        <pc>-</pc>
+                        <lb/>den</w>, die <hi rend="antiqua">ordinari</hi> Reichs Richter diese Sachen <hi rend="antiqua">
+                        <w>ex
+<!-- 333 -->
+                            <pc>-</pc>
+                            <lb/>traordinarie</w> assumiren, revidiren</hi>
+                    <orig>,</orig> und nach den 
+<!-- 334 -->
+                    <lb/>Reichs <hi rend="antiqua">Decreten</hi> und abschieden entscheiden.</p>
+            </div>
+
+<!-- 335 -->
+            <div>
+                <head>
+                    <lb/>Auff den Dreyzehenden.</head>
+<!-- 336 -->
+                <p>
+                    <lb/>Weil fast unmüglichen, solche und dergleichen 
+<!-- 337 -->
+                    <lb/>verwendte und <hi rend="antiqua">spolierte</hi>, bewegliche Gütter bey <w>die
+<!-- 338 -->
+                        <pc>-</pc>
+                        <lb/>sen</w> unruhigen zeiten wiederumb einzubekommen,
+<!-- 339 -->
+                    <lb/>So sol der schaden und verlust, so von allen theilen
+<!-- 340 -->
+                    <lb/>erfolget, dem gemeinen Landfrieden zum besten, 
+<!-- 341 -->
+                    <lb/>hiemit in vergessenheit gestalt werden.</p>
+            </div>
+
+<!-- 342 -->
+            <div>
+                <head>
+                    <lb/>Auff den Vierzehenden.</head>
+<!-- 343 -->
+                <p>
+                    <lb/>Die <hi rend="antiqua">Donationes</hi>, so durch Herrn <rs type="person" ref="#bocskai_stephan">Botzkay</rs> <w>ge
+<!-- 344 -->
+                        <pc>-</pc>
+                        <lb/>schehen</w>, weil derselben<note type="crit_app">Korrigiert aus: derselbeu.</note> etliche auß ungleiche[n] bericht<orig>,</orig> 
+<!-- 345 -->
+                    <lb/>mit scheinbarlichen schaden un[d] nachteyl des Reichs, 
+<!-- 346 -->
+                    <lb/>etliche aber auff andere weis <hi rend="antiqua">emaniret</hi> un[d] erfolget, 
+<!-- 347 -->
+                    <lb/>Als wil derwegen die notturfft erfordern, umb des
+<!-- 348 -->
+                    <lb/>gemeinen nutz willen, und zu erhaltu[n]g fried und ruh,
+<!-- 349 -->
+                    <lb/>und guter Freindschafft im Königreich <rs type="place" ref="#ungarn_koenigreich">Hungern</rs>, 
+<!-- 350 -->
+                    <lb/>
+                    <pb facs="#f016" n="B4v"/>das die Reichs Inwohner mit gemeinem einhellige[m] 
+<!-- 351 -->
+                    <lb/>Rath solche Donationes auf nechstkunfftiger <hi rend="antiqua">Diaet 
+<!-- 352 -->
+                        <lb/>revidiren</hi> und erwegen, und welche befunden, d[as] 
+<!-- 353 -->
+                    <lb/>sie bestehen möchten, das dieselben in ihrem <hi rend="antiqua">vigore</hi> 
+<!-- 354 -->
+                    <lb/>und <hi rend="antiqua">esse</hi> verbleiben.
+<!-- 355 -->
+                    <lb/>Die verschreibung aber<orig>,</orig> und die jenigen Gütter, 
+<!-- 356 -->
+                    <lb/>so entweder durch Herrn <rs type="person" ref="#bocskai_stephan">Botzkay</rs>, oder <rs type="person" ref="#illeshazy_istvan">Steffan <!-- Eintrag listperson korr -->
+<!-- 357 -->
+                        <lb/>Illiashasi</rs> verunterpfendet, sollen so lang in ihrem 
+<!-- 358 -->
+                    <lb/>
+                    <hi rend="antiqua">vigor</hi> und wirden verbleiben, biß das die Reichs
+<!-- 359 -->
+                    <lb/>Inwohner dieselben in offentlicher <hi rend="antiqua">Diaet</hi> <w>berath
+<!-- 360 -->
+                        <pc>-</pc>
+                        <lb/>schlagen</w>, von itziger zeit aber an zu rechnen, sollen 
+<!-- 361 -->
+                    <lb/>keine verschreibung mehr, es sey durch was schein 
+<!-- 362 -->
+                    <lb/>oder <hi rend="antiqua">titules</hi> im[m]ermehr wolle, zugelassen werden.
+<!-- 363 -->
+                    <lb/>Die <hi rend="antiqua">Nobilitationes</hi>, so durch Herrn <rs type="person" ref="#bocskai_stephan">Botzkay</rs> 
+<!-- 364 -->
+                    <lb/>geschehe[n], sollen gleichsfals in ihrem <hi rend="antiqua">esse</hi> verbleiben, 
+<!-- 365 -->
+                    <lb/>doch der gestalt, das in offentlicher <hi rend="antiqua">Diaet</hi> schrifftliche 
+<!-- 366 -->
+                    <lb/>urkunden hieruber vorgelegt, damit man von diesem 
+<!-- 367 -->
+                    <lb/>ihrem Adel wissenschafft haben möge, und dißfals
+<!-- 368 -->
+                    <lb/>nichts wieder die Reichs Ordnung gehandelt werde.</p>
+<!-- 369 -->
+                <p>
+                    <lb/>Dieweil auch auf dem nechst zu <rs type="place" ref="#kosice ">Caschau</rs> <w>gehal
+<!-- 370 -->
+                        <pc>-</pc>
+                        <lb/>tenem</w> <hi rend="antiqua">Convent</hi>
+                    <orig>,</orig> von den Reichs Inwohnern, Herrn 
+<!-- 371 -->
+                    <lb/>
+                    <rs type="person" ref="#bocskai_stephan">Botzkay</rs> anhangs, geschlossen worden, das die <w>jeni
+<!-- 372 -->
+                        <pc>-</pc>
+                        <lb/>gen</w>, so zwischen der zeit<orig>,</orig> un[d] nechst folgenden Jacobi<note type="annotation">Das ist der 25. Juli.</note>
+                    <orig>,</orig> 
+<!-- 373 -->
+                    <lb/>sich ihme und seinen <hi rend="antiqua">Adhaerenten</hi> nicht <hi rend="antiqua">
+                        <w>adiungi
+<!-- 374 -->
+                            <pc>-</pc>
+                            <lb/>ren</w>
+                    </hi> wurden, aller ihrer Gütter<orig>,</orig> und besitzlichen 
+<!-- 375 -->
+                    <lb/>Rechtens<orig>,</orig> verlustig seyn sollen<orig>:</orig>
+                    <reg>.</reg> So ist hinwieder <w>ge
+<!-- 376 -->
+                        <pc>-</pc>
+                        <lb/>schlossen</w>, das diese <hi rend="antiqua">Constitution</hi> hinfüro <w>geschwi
+
+<!-- 377 -->
+                        <pc>-</pc>
+                        <lb/>
+                        <pb facs="#f017" n="C1r"/>gen</w>
+                    <orig>,</orig> und allenthalben von unkrefften sein sol.</p>
+            </div>
+<!-- 378 -->
+            <div>
+                <head>
+                    <lb/>Auf den Funfzehenden</head>
+<!-- 379 -->
+                <p>
+                    <lb/>Dieser Artickel wirdt gleichsfals nach des <w>vori
+<!-- 380 -->
+                        <pc>-</pc>
+                        <lb/>gen</w> Tracktats <hi rend="antiqua">conclusion confirmiret</hi> und <w>ge
+<!-- 381 -->
+                        <pc>-</pc>
+                        <lb/>richtet</w>, Nemlich<orig>,</orig> daß die Hungern mit einwilligung 
+<!-- 382 -->
+                    <lb/>
+                    <rs type="person" ref="#rudolf_ii">I[hrer] Maj[estät]</rs> die Gütter und Heuser, so den Außlendische[n] 
+<!-- 383 -->
+                    <lb/>verschrieben, mit wiederlegung ihres geldes<orig>,</orig> <w>wie
+<!-- 384 -->
+                        <pc>-</pc>
+                        <lb/>der</w> zu sich lösen mögen.
+<!-- 385 -->
+                    <lb/>Die <hi rend="antiqua">Privilegia</hi> aber der Freystedte, sollen in de[m] 
+<!-- 386 -->
+                    <lb/>gebrauch, inmassen sie biß anhero gewesen, bleiben 
+<!-- 387 -->
+                    <lb/>und erhalten werden, und sich derselben hinfüro, so 
+<!-- 388 -->
+                    <lb/>wol Hungern und Deutsche<orig>,</orig> als auch Behemische 
+<!-- 389 -->
+                    <lb/>Inwohner gebrauchen, geniessen und erfreuen: Die 
+<!-- 390 -->
+                    <lb/>Clagen un[d] beschwerung aber wieder dieselben sollen 
+<!-- 391 -->
+                    <lb/>in nechstkunfftiger offentlicher <hi rend="antiqua">Diaet</hi> und Versamlu[n]g 
+<!-- 392 -->
+                    <lb/>verhöret<orig>,</orig> und durch die Reichs Inwohner oder <hi rend="antiqua">
+                        <w>or
+<!-- 393 -->
+                            <pc>-</pc>
+                            <lb/>dinari</w> Iudices</hi> entscheiden werden.</p>
+<p>---------------------------------------------------------------------------</p>
+            </div>
+<!-- 394 -->
+            <div>
+                <head>
+                    <lb/>Was die Person Herrn <rs type="person" ref="#bocskai_stephan">Botzkay</rs> 
+<!-- 395 -->
+                    <lb/>und seine <hi rend="antiqua">contentation</hi><!--  <note type="crit_app">constitution im anderen Druck</note>--> und <w>befrie
+<!-- 396 -->
+                        <pc>-</pc>
+                        <lb/>dung</w> anlanget.</head>
+<!-- 397 -->
+                <p>
+                    <lb/>Zu <rs type="place" ref="#siebenbuergen_fuerstentum">Siebenbürgen</rs> mit sampt der Landschafft 
+<!-- 398 -->
+                    <lb/>in <rs type="place" ref="#ungarn_koenigreich">Hungern</rs>, so Herr <rs type="person" ref="#bathory_sigismund">Sigismundus Bathory</rs><!-- Anm. in listpers entfernen --> in[n]en 
+<!-- 399 -->
+                    <lb/>gehabt, wird im auch hiemit das Schloß <rs type="place" ref="#tokaj">Tockay</rs>, 
+<!-- 400 -->
+                    <lb/>mit allen seinen zubehörungen, inmassen es itzo <w>be
+<!-- 401 -->
+                        <pc>-</pc>
+                        <lb/>funden</w>, beneben den beyden gantzen Graffschafften<note type="crit_app">Korrigiert aus: Graffschaffteu.</note>  
+
+<!-- 402 -->
+                    <lb/>
+                    <pb facs="#f018" n="C1v"/>
+                    <rs type="place" ref="#ugocsa">Ugotz</rs> <!-- listplace ergänzen http://d-nb.info/gnd/4300366-7 --> und <rs type="place" ref="#bereg">Berch</rs> <!-- listplace ergänzen http://d-nb.info/gnd/4087225-7 -->, so wol inner und ausserhalb der 
+<!-- 403 -->
+                    <lb/>
+                    <rs type="place" ref="#theiss">Theyß</rs><!-- listplace eintrag ändern Tisa --> gelegen, gleichsfals mit seinen uhralten <w>gre[n]
+<!-- 404 -->
+                        <pc>-</pc>
+                        <lb/>tzen</w> und zugehörungen, so wol auch die Vestung 
+<!-- 405 -->
+                    <lb/>
+                    <rs type="place" ref="#satu_mare">Zackmar</rs> ubergeben und eingereumet.</p>
+<!-- 406 -->
+                <p>
+                    <lb/>Die beyden Stedte aber, <rs type="place" ref="#cherestur">Karetzwar</rs><!-- in der lat. Hs: Kerezthur  --> und <rs type="place" ref="#tarcal">Taztzal</rs>, 
+<!-- 407 -->
+                    <lb/>weil dieselben <rs type="person" ref="#rakoczi_zsigmond">Sigismundo Ragotzi</rs><!-- regpers eintrag an dnb ansetzung anpassen --> und <rs type="person" ref="#thoekoely_sebestyen">
+                        <w>Sebastia
+<!-- 408 -->
+                            <pc>-</pc>
+                            <lb/>no</w> Tekoli</rs> vor <hi rend="antiqua">hypotheciret</hi> und vorunterpfendet, 
+<!-- 409 -->
+                    <lb/>Seind <rs type="person" ref="#rudolf_ii">I[hre] Key[serliche] und Kün[igliche] Maj[estät]</rs> zufrieden, das die
+<!-- 410 -->
+                    <lb rend="trennstrich"/>selben von Herrn <rs type="person" ref="#bocskai_stephan">Botzkay</rs> wiederumb eingelöset, 
+<!-- 411 -->
+                    <lb/>und zu der Vhestung <rs type="place" ref="#tokaj">Tockay</rs> nach altem gebrauch 
+<!-- 412 -->
+                    <lb/>geschlagen und in[n]en behalten werden.
+<!-- 413 -->
+                    <lb/>Die Erlauischen Zehenden aber uber der <rs type="place" ref="#theiss">Theiß</rs>, 
+<!-- 414 -->
+                    <lb/>so wol alle andere uber der <rs type="place" ref="#theiss">Theiß</rs>, sollen dem Herrn
+<!-- 415 -->
+                    <lb/>
+                    <rs type="person" ref="#bocskai_stephan">Botzkay</rs> bleiben: die aber disseit der <rs type="place" ref="#theiss">Theiß</rs> sollen in
+<!-- 416 -->
+                    <lb/>
+                    <rs type="person" ref="#rudolf_ii">I[hrer] Key[serlichen] und Kön[iglichen] Maj[estät]</rs> Cam[m]er und Rechnung 
+<!-- 417 -->
+                    <lb/>eingebracht werden.
+<!-- 418 -->
+                    <lb/>Und werden also diese Herrschafft Gütter dem 
+<!-- 419 -->
+                    <lb/>Herrn <rs type="person" ref="#bocskai_stephan">Botzkay</rs> nach Erblichem Rechten innen zu 
+<!-- 420 -->
+                    <lb/>haben, zu geniessen und zugebrauchen ubergeben: 
+<!-- 421 -->
+                    <lb/>Da aber von seinen Erben aus Manlicher <hi rend="antiqua">linien</hi>
+<!-- 422 -->
+                    <lb/>aus seinen lenden und rechtem Ehebett erzeuget<orig>,</orig> <w>nie
+<!-- 423 -->
+                        <pc>-</pc>
+                        <lb/>mandt</w> ubrig noch vorhanden, auf den einigen fall 
+<!-- 424 -->
+                    <lb/>sol all das jenige, so im hiemit ubergeben, dem <w>or 
+<!-- 425 -->
+                        <pc>-</pc>
+                        <lb/>dentlichen</w> König und <hi rend="antiqua">per consequens</hi> der <rs type="place" ref="#ungarn_koenigreich">Cron 
+<!-- 426 -->
+                        <lb/>Hungern</rs>
+                    <orig>,</orig> wiederumb heymfallen, also und der <w>ge
+<!-- 427 -->
+                        <pc>-</pc>
+                        <lb/>stalt</w>, das keiner seiner Bluts freunde oder <w>verwa[n]d
+<!-- 428 -->
+                        <pc>-</pc>
+                        <lb/>ten</w>, noch auch derselben Erben und Erbnemen einig
+ 
+<!-- 429 -->
+                    <lb/>
+                    <pb facs="#f019" n="C2r"/>Recht oder <hi rend="antiqua">Iurisdiction</hi>, weder zu dem <w>Fürsten
+<!-- 430 -->
+                        <pc>-</pc>
+                        <lb/>thumb</w>, noch auch den andern, ime<reg>,</reg> <rs type="person" ref="#bocskai_stephan">Botzkay</rs>
+                    <reg>,</reg> hiemit 
+<!-- 431 -->
+                    <lb/>eingereumbten Graff und Herrschafften, nim[m]er und
+<!-- 432 -->
+                    <lb/>zu ewigen zeiten nicht zu <hi rend="antiqua">praetendiren</hi> oder <w>vorzu
+<!-- 433 -->
+                        <pc>-</pc>
+                        <lb/>wenden</w> haben müge.</p>
+<!-- 434 -->
+                <p>
+                    <lb/>Da er aber würde eine Tochter verlassen, sol die 
+<!-- 435 -->
+                    <lb/>Tochter <hi rend="antiqua">Iure quartalitio</hi>, zum vierdten teyl, nach 
+<!-- 436 -->
+                    <lb/>des Reichs <hi rend="antiqua">constitution</hi> zu frieden sein, oder sich 
+<!-- 437 -->
+                    <lb/>an dem benugen lassen, wie sich <rs type="person" ref="#rudolf_ii">I[hre] Maj[estät]</rs> mit dem
+<!-- 438 -->
+                    <lb/>Herrn <rs type="place" ref="#bocskai_stephan">Botzkay</rs> hieruber vergleichen werden.</p>
+<!-- 439 -->
+                <p>
+                    <lb/>Die Stadt <rs type="place" ref="#">Lizka</rs><!-- Es gibt einige Orte/Stadtteile und einen Hügel namens Liska/Liszki aber nicht in der Zips, listplace eintrag nn -->, weil die nach alter <hi rend="antiqua">fundation</hi>                    <!-- 440 -->
+                    <lb/>zu der <hi rend="antiqua">Praepositur</hi> in <rs type="place" ref="#zips">Zips</rs> <!-- http://d-nb.info/gnd/4067868-4 Zips, slowakisch: Spiš; ungarisch: Szepes; polnisch: Spisz; lateinisch: Scepusium --> gehörig, wird zwar dem 
+<!-- 441 -->
+                    <lb/>Herrn <rs type="person" ref="#bocskai_stephan">Botzkay</rs>
+                    <orig>,</orig> so lang auch eingereumet, biß das 
+<!-- 442 -->
+                    <lb/>sich <rs type="person" ref="#rudolf_ii">I[hre] Maj[estät]</rs> mit ime in andere wege vergleichen 
+<!-- 443 -->
+                    <lb/>und abfinden.
+<!-- 444 -->
+                    <lb/>Das <hi rend="antiqua">gubernament</hi> zu <rs type="place" ref="#kosice">Caschau</rs> und anderer 
+<!-- 445 -->
+                    <lb/>örter in <rs type="place" ref="#oberungarn">Oberhungern</rs> <!-- oberungarn Oberungarn http://d-nb.info/gnd/4055297-4 --> sol den Hungern zum besten 
+<!-- 446 -->
+                    <lb/>geschehen, wie in dem <hi rend="antiqua">general</hi> Artickel beschlossen.</p>
+<!-- 447 -->
+                <p>
+                    <lb/>Von des <hi rend="antiqua">Capituls</hi> zu <rs type="place" ref="#erlau">Erlau</rs> <hi rend="antiqua">intertention</hi> <w>wer
+<!-- 448 -->
+                        <pc>-</pc>
+                        <lb/>den</w> <rs type="person" ref="#rudolf_ii">I[hre] Key[serliche] und Kön[igliche] Maj[estät]</rs> und die Reichs <w>Inwo
+<!-- 449 -->
+                        <pc>-</pc>
+                        <lb/>ner</w> auf nechstkunfftiger <hi rend="antiqua">Diaet</hi> auff einen sichern und 
+<!-- 450 -->
+                    <lb/>bequeme[n] ort vordacht sein, wo ferne es zu <rs type="place" ref="#kosice">Caschau</rs> 
+<!-- 451 -->
+                    <lb/>nicht wird seyn kön[n]en. Wegen des tituls<orig>,</orig> wird im
+<!-- 452 -->
+                    <lb/>gleicher gestalt der gegeben und zugelassen, den <rs type="person" ref="#bathory_sigismund">
+                        <w>Si
+<!-- 453 -->
+                            <pc>-</pc>
+                            <lb/>gismundus</w> Bathori</rs> gehabt und gefurt, das er sich 
+<!-- 454 -->
+                    <lb/>nemlich einen Fürsten deß Reichs<orig>,</orig> und in <rs type="place" ref="#siebenbuergen_fuerstentum">
+                        <w>Sieben
+<!-- 455 -->
+                            <pc>-</pc>
+                            <lb/>bürgen</w>
+                    </rs>
+                    <orig>,</orig> und der Zeckler Graffen<!-- Volksstamm -->, so wol auch eine[n]
+   
+<!-- 456 --> <lb/>
+                    <pb facs="#f020" n="C2v"/>Herrn der eingereumbten Landschafft in <rs type="place" ref="#ungarn_koenigreich">Hungern</rs>
+<!-- 457 -->
+                    <lb/>nennen und schreiben müge. Desgleichen auch das 
+<!-- 458 -->
+                    <lb/>Siebenbürgische Wappen füren, inmassen es <rs type="person" ref="#bathory_sigismund">
+                        <hi rend="antiqua">
+                            <w>Si
+<!-- 459 -->
+                                <pc>-</pc>
+                                <lb/>gismundus</w> Bathori</hi>
+                    </rs> gehabt, ausser seine <w>angestam
+<!-- 460 -->
+                        <pc>-</pc>
+                        <lb/>pte</w> und andere angefelte Wappen.
+<!-- 461 -->
+                    <lb/>So bald nun dieses alles von Herrn <rs type="person" ref="#bocskai_stephan">Botzkay</rs> un[d]
+<!-- 462 -->
+                    <lb/>seinen <hi rend="antiqua">Adhaerenten</hi> gebürlichen <hi rend="antiqua">ratificiret</hi>, sol die 
+<!-- 463 -->
+                    <lb/>
+                    <hi rend="antiqua">introduction</hi> und einführung in die Landschafft ime 
+<!-- 464 -->
+                    <lb/>von <rs type="person" ref="#rudolf_ii">I[hrer] Maj[estät]</rs> ubergeben<orig>,</orig> und dero hierzu <hi rend="antiqua">
+                        <w>deputir
+<!-- 465 -->
+                            <pc>-</pc>
+                            <lb/>ten</w>
+                    </hi> Commissarien geschehen, da dan auch zugleich
+<!-- 466 -->
+                    <lb/>der Siebenburger Eyd und pflicht, so sie in <rs type="person" ref="#rudolf_ii">I[hrer] Maj[estät]</rs> 
+<!-- 467 -->
+                    <lb/>in der huldigung geleistet und gethan, erfolgen sol.</p> 
+<!-- 468 -->
+                <p>
+                    <lb/>Es verwilligt sich auch und verspricht hiemit <w>ge
+<!-- 469 -->
+                        <pc>-</pc>
+                        <lb/>nandter</w> <rs type="person" ref="#bocskai_stephan">Botzkay</rs>, er darauff verdacht sein wolle,
+<!-- 470 -->
+                    <lb/>damit sie, <seg type="crit_app">der Fürst in der <rs type="place" ref="#walachei_fuerstentum">Walachey</rs> und Inwoner
+<!-- 471 -->
+                        <lb/>derselben<reg>,</reg>
+                    </seg>
+                    <note type="crit_app">Dieser Teilsatz kommt im lateinischen Original nicht vor.</note> wiederumb auff den alten un[d] rechten wegk 
+<!-- 472 -->
+                    <lb/>gebracht werden mügen.
+<!-- 473 -->
+                    <lb/>Inmassen er dan auch seine Gesandten und <w>Bot
+<!-- 474 -->
+                        <pc>-</pc>
+                        <lb/>schafften</w>, von den jenigen Graff und Herrschafften, 
+<!-- 475 -->
+                    <lb/>so zu <rs type="place" ref="#ungarn_koenigreich">Hungern</rs> gehörig, auf die <hi rend="antiqua">general Diaeten</hi> od[er] 
+<!-- 476 -->
+                    <lb/>Reichs versamlung, so in <rs type="place" ref="#ungarn_koenigreich">Hungern</rs> gehalten werde[n], 
+<!-- 477 -->
+                    <lb/>jederzeit schicken und abfertigen sol.
+<!-- 478 -->
+                    <lb/>Hieruber ist auch beschlossen, das die von Herren 
+<!-- 479 -->
+                    <lb/>und Adelstandes beyderseyts, so wol <rs type="person" ref="#rudolf_ii">I[hre] Maj[estät]</rs> als 
+<!-- 480 -->
+                    <lb/>auch Herrn <rs type="person" ref="#bocskai_stephan">Botzkay</rs> theyls, alle ihre Gütter und 
+<!-- 481 -->
+                    <lb/>besitzlich Recht, es sey Inner oder ausserhalb der
+<!-- 482 -->
+                    <lb/>
+                    <rs type="place" ref="#theiss">Theyß</rs>, frey und ungehindert besitzen mügen, 
+
+<!-- 483 -->
+                    <lb/>
+                    <pb facs="#f021" n="C3r"/>die andern aber ihren vorigen Herrn un[d] <hi rend="antiqua">Possessorn 
+<!-- 484 -->
+                        <lb/>restituiren</hi> und wider einantworten sollen.</p>
+<!-- 485 -->
+                <p>
+                    <lb/>Gleicher gestalt sol auch die Stadt <rs type="place" ref="#skalica">Zakoletz</rs>, so 
+<!-- 486 -->
+                    <lb/>wol die andern Vhestungen, <rs type="place" ref="#sastin">Sossim</rs><!--sastin Šaštín-Stráže http://www.geonames.org/11054693/sastin-straze.html-->, <rs type="place" ref="#holic">Holitz</rs><!-- holic Holíč http://www.geonames.org/3060077/holic.html-->, <rs type="place" ref="#podbranc">
+                        <w>Be
+<!-- 487 -->
+                            <pc>-</pc>
+                            <lb/>rentz</w>
+                    </rs><!--podbranc Podbranč http://www.geonames.org/3058156/podbranc.html-->, und alles anders zu <rs type="place" ref="#ungarn_koenigreich">Hungern</rs> gehörig, ihren 
+<!-- 488 -->
+                    <lb/>vorigen <hi rend="antiqua">Possessorn</hi> wieder zugestalt werden, Auch
+<!-- 489 -->
+                    <lb/>einem jedern frey stehen, sein Recht vor den <w>ordent
+<!-- 490 -->
+                        <pc>-</pc>
+                        <lb/>lichen</w> Herrn der Graffschafften, und Adels <w>Rich
+<!-- 491 -->
+                        <pc>-</pc>
+                        <lb/>tern</w> zu <hi rend="antiqua">prosequiren</hi> und außzufüren, desgleichen 
+<!-- 492 -->
+                    <lb/>auch in den <hi rend="antiqua">Octaven</hi>.</p>
+<!-- 493 -->
+                <p>
+                    <lb/>Da auch etliche Ubeltheter von <hi rend="antiqua">Officialen</hi> oder 
+<!-- 494 -->
+                    <lb/>
+                    <hi rend="antiqua">Factorn</hi> <rs type="person" ref="#rudolf_ii">I[hrer] May[estät]</rs> oder etlicher Reichs Inwohner<orig>,</orig> 
+<!-- 495 -->
+                    <lb/>wegen ihres begangenen schadens und <w>mißhand
+<!-- 496 -->
+                        <pc>-</pc>
+                        <lb/>lung</w>
+                    <orig>,</orig> in <rs type="place" ref="#siebenbuergen_fuerstentum">Siebenburgen</rs>
+                    <orig>,</orig> oder desselben zugehörigen 
+<!-- 497 -->
+                    <lb/>Orter fliehen würden, Sollen als dan dieselben, so 
+<!-- 498 -->
+                    <lb/>wol auff <hi rend="antiqua">requisition</hi> und erforderung <rs type="person" ref="#rudolf_ii">I[hrer] Maj[estät]</rs> als 
+<!-- 499 -->
+                    <lb/>aller andern Reichs Inwohner Anklag des orts 
+<!-- 500 -->
+                    <lb/>also baldt vor Recht gestalt, und<note type="crit_app">Korrigiert aus: uud.</note> wegen ihres <w>be
+<!-- 501 -->
+                        <pc>-</pc>
+                        <lb/>gangenen</w> schadens und Mißhandlung, nach laut 
+<!-- 502 -->
+                    <lb/>der Reichs <hi rend="antiqua">Decreten</hi> gestrafft werden, wie es dan 
+<!-- 503 -->
+                    <lb/>
+                    <rs type="person" ref="#rudolf_ii">I[hrer] Majest[ät]</rs> teyls gleichsfalles auch also gehalten 
+<!-- 504 -->
+                    <lb/>werden sol.</p>
+<!-- 505 -->
+                <p>
+                    <lb/>Gleicher gestalt ist auch beschlosse[n], das so bald nach 
+<!-- 506 -->
+                    <lb/>beschluß un[d] <hi rend="antiqua">Co[n]firmatio[n]</hi> dieser Fridshandlu[n]g, alles 
+<!-- 507 -->
+                    <lb/>zur <hi rend="antiqua">execution</hi> gerichtet, und alle oberzelte Heuser<orig>.</orig>
+                    <reg>,</reg>
+
+<!-- 508 -->
+                    <lb/>
+                    <pb facs="#f022" n="C3v"/>Vhestung, Stedte, Flecken, Dörffer<orig>,</orig> und alle <w>ande
+<!-- 509 -->
+                        <pc>-</pc>
+                        <lb/>re</w> Herrschafften, ausgenommen derer, so nach laut 
+<!-- 510 -->
+                    <lb/>gegenwertiger vergleichung<orig>,</orig> Herrn <rs type="person" ref="#bocskai_stephan">Botzkay</rs> <w>ein
+<!-- 511 -->
+                        <pc>-</pc>
+                        <lb/>gereumet</w>, in <rs type="person" ref="#rudolf_ii">I[hrer] Maj[estät]</rs>, der Reichs Inwohner und
+<!-- 512 -->
+                    <lb/>ihrer vorigen Herren und <hi rend="antiqua">Possessoren</hi> handen <w>wie
+<!-- 513 -->
+                        <pc>-</pc>
+                        <lb/>derumb</w> <hi rend="antiqua">cediret</hi> und eingeantwortet werden: jedoch 
+<!-- 514 -->
+                    <lb/>ausserhalb der <hi rend="antiqua">Donationen</hi> und vor unterpfendten 
+<!-- 515 -->
+                    <lb/>Gütter, darvon in dem 14. Artickel verordnung 
+<!-- 516 -->
+                    <lb/>geschehen.</p>
+<!-- 517 -->
+                <p>
+                    <lb/>Was aber <rs type="person" ref="#rudolf_ii">I[hrer] M[ajestät]</rs> getreue Unterthanen, <rs type="person" ref="#kornis_balthasar">
+                        <w>Bal
+<!-- 518 -->
+                            <pc>-</pc>
+                            <lb/>thaser</w> Kolnis</rs><!--kornis_balthasar Boldizsár Kornis Note: (vor 1581-1610)-->, <rs type="person" ref="#sennyey_pongrac">
+                        <hi rend="antiqua">Pancratium</hi> Somicii</rs><!--sennyey_pongrac Pongrác Sennyey  gest. 1614--> und alle <w>an
+<!-- 519 -->
+                        <pc>-</pc>
+                        <lb/>dere</w> Siebenbürger anlanget, so wegen <rs type="person" ref="#rudolf_ii">I[hrer] Key[serlichen] un[d] 
+<!-- 520 -->
+                        <lb/>Kön[iglichen] May[estät]</rs> geleisten treu und pflicht, umb alle ihre
+<!-- 521 -->
+                    <lb/>Gütter in <rs type="place" ref="#siebenbuergen_fuerstentum">Siebenbürgen</rs> kommen<note type="crit_app">Korrigiert aus: komnen.</note>, weil dieselben 
+<!-- 522 -->
+                    <lb/>durch solche ihre treu bey jedermen[n]iglichen mehr <w>ru
+<!-- 523 -->
+                        <pc>-</pc>
+                        <lb/>hms</w>, als straff wirdig, des Herrn <rs type="person" ref="#bocskai_stephan">Botzkay</rs> anha[n]g
+<!-- 524 -->
+                    <lb/>auch all deß irigen wiederumb <hi rend="antiqua">restituiret</hi>, und das 
+<!-- 525 -->
+                    <lb/>vorgangene alles in vergessenheit gestelt wird, So 
+<!-- 526 -->
+                    <lb/>beruhen <rs type="person" ref="#matthias_oesterreich">I[hre] Durchl[aucht]</rs> nochmals hierauff gnedigst, un[d]
+<!-- 527 -->
+                    <lb/>wollen, das auch diesen <rs type="person" ref="#rudolf_ii">I[hrer] Maj[estät]</rs> getreuen <w>Unter
+<!-- 528 -->
+                        <pc>-</pc>
+                        <lb/>thanen</w> dergleichen Recht wiederfahren, ihnen ihre
+<!-- 529 -->
+                    <lb/>Gütter wiederumb eingeraumet, und sie dieselben 
+<!-- 530 -->
+                    <lb/>entweder durch sich oder andere besitzen, oder aber 
+<!-- 531 -->
+                    <lb/>andern umb gleichmeßigen werth ver <hi rend="antiqua">alieniren</hi> un[d] 
+<!-- 532 -->
+                    <lb/>verkauffen mügen.</p>
+<!-- 533 -->
+                <p>
+                    <lb/>Uber das, so saget mehrgemelter Herr <rs type="person" ref="#bocskai_stephan">Botzkay</rs>,
+<!-- 534 -->
+                    <lb/>das er die Cron, so ime von dem <rs type="person" ref="#pascha_lala_mehmed">Vezier Bascha</rs><!-- Sokolluzade Lala Mehmed Pascha note: gest. 1606, Großwesir 1604-1606 (nicht in dnb und viaf)--> zu
+
+<!-- 535 -->
+                    <lb rend="trennstrich"/>
+                    <pb facs="#f023" n="C4r"/>geschickt, zu abbruch d[er] Kön[iglichen] Maj[estät] deß Königreichs 
+<!-- 536 -->
+                    <lb/>
+                    <rs type="place" ref="#ungarn_koenigreich">Hungern</rs>, und desselben uhralten Kron, nicht 
+<!-- 537 -->
+                    <lb/>angenommen.
+<!-- 538 -->
+                    <lb/>Endlichen, so ist auch beschlossen, das <rs type="person" ref="#rudolf_ii">I[hre] Key[serliche] un[d] 
+<!-- 539 -->
+                        <lb/>Kün[igliche] Maj[estät]</rs> die schulden, so dero <hi rend="antiqua">Com[m]issarien</hi> zu 
+<!-- 540 -->
+                    <lb/>nothwendiger behulff <rs type="person" ref="#rudolf_ii">I[hrer] Maj[estät]</rs> bey den <w>Siebenbür
+<!-- 541 -->
+                        <pc>-</pc>
+                        <lb/>gern</w> gemacht, wollen lassen abtragen, oder aber 
+<!-- 542 -->
+                    <lb/>ihnen an ihren Renten wegen des dreissigsten <hi rend="antiqua">
+                        <w>suc
+<!-- 543 -->
+                            <pc>-</pc>
+                            <lb/>cessive</w>
+                    </hi>, vo[n] eine[m] Termin zu de[m] andern abgehe[n] lassen.</p>
+<!-- 544 -->
+                <p>
+                    <lb/>Und demnach nun diese speen und Irrung <w>allen
+<!-- 545 -->
+                        <pc>-</pc>
+                        <lb/>thalben</w> also abgeha[n]delt un[d] verglichen, ermangelt es 
+<!-- 546 -->
+                    <lb/>noch an dene, d[as] alle die jenige[n], so de[m] Herrn <rs type="person" ref="#bocskai_stephan">Botzkay</rs> 
+<!-- 547 -->
+                    <lb/>anhe[n]gig gewese[n], d[er] treu un[d] pflicht, so sie im geleistet, 
+<!-- 548 -->
+                    <lb/>loß gezehlet, und wiederumb in <rs type="person" ref="#rudolf_ii">I[hrer] Key[serlichen] und Kön[iglichen]
+<!-- 549 -->
+                        <lb/>Maj[estät]</rs>, als ires ordentlichen Herrn und Königs huld 
+<!-- 550 -->
+                    <lb/>und pflicht gebracht und auffgenom[m]en werden, Sie 
+<!-- 551 -->
+                    <lb/>auch und ihre Nachkommen von nun an und hinfüro 
+<!-- 552 -->
+                    <lb/>nim[m]er und zu keiner zeit von<rs type="person" ref="#rudolf_ii"> I[hrer] Maj[estät]</rs> und dero <hi rend="antiqua">
+                        <w>Suc
+<!-- 553 -->
+                            <pc>-</pc>
+                            <lb/>cessorn</w>
+                    </hi> der ordentlichen Königen in <rs type="place" ref="#ungarn_koenigreich">Hungern</rs> <w>ge
+<!-- 554 -->
+                        <pc>-</pc>
+                        <lb/>huldeten</w> pflicht, <hi rend="antiqua">Salvis iuribus &amp; libertatibus 
+<!-- 555 -->
+                        <lb/>Regni permanentibus</hi>, wiederumb abfallen.</p>
+<!-- 556 -->
+                <p>
+                    <lb/>Und damit solches desto füglicher geschehen, und 
+<!-- 557 -->
+                    <lb/>in steten krefften bleiben, auch die Hungern, so dem 
+<!-- 558 -->
+                    <lb/>Herrn <rs type="person" ref="#bocskai_stephan">Botzkay</rs> anhengig, umb so viel desto mehr 
+<!-- 559 -->
+                    <lb/>hieruber gesichert und ruhig sein mügen, haben <rs type="person" ref="#matthias_oesterreich">wir</rs> 
+<!-- 560 -->
+                    <lb/>aus volkommenheit der uns vor der <rs type="person" ref="#rudolf_ii">Key[serlichen] und Kön[iglichen] 
+<!-- 561 -->
+                        <lb/>Maj[estät]</rs> auffgetragenen machts und gewalt, hiemit
+ 
+<!-- 562 -->
+                    <lb/>
+                    <pb facs="#f024" n="C4v"/>gnedigst geruhet und gewilliget, das bey allen und 
+<!-- 563 -->
+                    <lb/>jeden, so mit <rs type="person" ref="#rudolf_ii">I[hrer] Maj[estät]</rs> also hinwider <hi rend="antiqua">reconciliiret</hi> 
+<!-- 564 -->
+                    <lb/>und versönet, all das jenige, so von dem 15. Tag <hi rend="antiqua">
+                        <w>Oc
+<!-- 565 -->
+                            <pc>-</pc>
+                            <lb/>tobris</w>
+                    </hi> an An[n]o 1604. biß anhero von beyden <w>they
+<!-- 566 -->
+                        <pc>-</pc>
+                        <lb/>len</w> geschehen und ergangen, gentzlich hiemit <w>auffge
+<!-- 567 -->
+                        <pc>-</pc>
+                        <lb/>hoben</w> und vergessen sein sol, dergestalt und also, d[as]
+<!-- 568 -->
+                    <lb/>aller mord, raub, nam un[d] plunderung der Vhestu[n]g, 
+<!-- 569 -->
+                    <lb/>einnemung der Stedte, Flecke, Heuser und Dörffer, 
+<!-- 570 -->
+                    <lb/>und in summa allerhandt gewalt thetigkeit, so <w>die
+<!-- 571 -->
+                        <pc>-</pc>
+                        <lb/>se</w> zeit uber geubet und gebraucht worden, keinem, er 
+<!-- 572 -->
+                    <lb/>sey was Standes, wirdens oder wesens er wolle, 
+<!-- 573 -->
+                    <lb/>außgenommen der oben außgesatzten, sol zu <w>gerech
+<!-- 574 -->
+                        <pc>-</pc>
+                        <lb/>net</w>, sondern gantz und gar verzihen und hingeleget 
+<!-- 575 -->
+                    <lb/>sein, Auch nimmermehr und zu keiner zeit weder <rs type="person" ref="#rudolf_ii">I[hre]
+<!-- 576 -->
+                        <lb/>Key[serliche] und Kön[igliche] Maj[estät]</rs> noch auch derselben <hi rend="antiqua">
+                        <w>Succes
+<!-- 577 -->
+                            <pc>-</pc>
+                            <lb/>sorn</w>
+                    </hi> und ordentliche Nachfolger im <rs type="place" ref="#ungarn_koenigreich">Königreich</rs>, od[er] 
+<!-- 578 -->
+                    <lb/>die beschedigten Reichs Inwoner unter einigem <w>an
+<!-- 579 -->
+                        <pc>-</pc>
+                        <lb/>gemasten</w> oder geferbten schein unter einander <w>heim
+<!-- 580 -->
+                        <pc>-</pc>
+                        <lb/>lich</w> oder offentlich, in oder ausserhalb Rechtens, 
+<!-- 581 -->
+                    <lb/>vor sich selbst oder durch andere derwege[n] gehindert, 
+<!-- 582 -->
+                    <lb/>oder einiger massen <hi rend="antiqua">aggraviret</hi> oder beschweret 
+<!-- 583 -->
+                    <lb/>werden möchten.</p>
+<!-- 584 -->
+                <p>
+                    <lb/>Das auch alle und jede uber solcher irer <w>verhand
+<!-- 585 -->
+                        <pc>-</pc>
+                        <lb/>lung</w>, so obberurte zeit uber geschehe[n], von aller Clag 
+<!-- 586 -->
+                    <lb/>und anspruch, in oder ausserhalb Rechtens, gentzlich 
+<!-- 587 -->
+                    <lb/>gefreyet und <hi rend="antiqua">absolviret</hi> sein sollen, noch einiger <w>or
+<!-- 588 -->
+                        <pc>-</pc>
+                        <lb/>dentlicher</w> Richter uber sie zu urteilen oder Recht zu
+
+<!-- 589 -->
+                    <lb/>
+                    <pb facs="#f025" n="D1r"/>sprechen sich unterstehen<orig>,</orig> oder anmassen sol, auf <w>wa
+<!-- 590 -->
+                        <pc>-</pc>
+                        <lb/>serley</w> weiß oder mas das immer sein oder geschehen 
+<!-- 591 -->
+                    <lb/>möchte, Ausgenommen <rs type="person" ref="#rudolf_ii">I[hre] Key[serliche] Maj[estät]</rs> oder anderer 
+<!-- 592 -->
+                    <lb/>Herren und Adels Diener, so zur Rechnung <w>vero
+<!-- 593 -->
+                        <pc>-</pc>
+                        <lb/>bligiret</w> und verbunden, diese sollen hierdurch nicht 
+<!-- 594 -->
+                    <lb/>gemeinet, sondern zu ihrer Rechnung in alle wege 
+<!-- 595 -->
+                    <lb/>verbunden sein: Da man auch würde in erfarung 
+<!-- 596 -->
+                    <lb/>kom[m]en, das dergleichen <hi rend="antiqua">proventus</hi> oder einkom[m]en, 
+<!-- 597 -->
+                    <lb/>so wol <rs type="person" ref="#rudolf_ii">I[hrer] Maj[estät]</rs> als der andern Reichs Inwoner 
+<!-- 598 -->
+                    <lb/>mit gewerter handt oder mit gewalt durch sie von
+<!-- 599 -->
+                    <lb/>abhanden gebracht, auff den fall sollen sie zu wieder 
+<!-- 600 -->
+                    <lb/>einbringung solcher einkommen <hi rend="antiqua">astringirt</hi> und 
+<!-- 601 -->
+                    <lb/>verpflichtet sein.</p>
+<!-- 602 -->
+                <p>
+                    <lb/>Da auch etliche aus obbenandte[n] Hungern Herrn 
+<!-- 603 -->
+                    <lb/>
+                    <rs type="person" ref="#bocskai_stephan">Botzkay</rs> anhangs irgend einig Hauß, Vhestung 
+<!-- 604 -->
+                    <lb/>oder <hi rend="antiqua">Munition</hi> freywillig oder gezwungen in die 
+<!-- 605 -->
+                    <lb/>hende der Hungern uberlieffert, oder mit hülff der 
+<!-- 606 -->
+                    <lb/>Türcken und Tatern, <rs type="person" ref="#rudolf_ii">I[hrer] Key[serlichen] und Kön[iglichen] Majest[ät]</rs> 
+<!-- 607 -->
+                    <lb/>oder auch den Hungern und benachbarten <w>Landt
+<!-- 608 -->
+                        <pc>-</pc>
+                        <lb/>schafften</w> einigen schaden zugefüget, deßgleichen vo[n] 
+<!-- 609 -->
+                    <lb/>den freyen Stedten, Bergkwercken, Flecken, <w>Dör
+<!-- 610 -->
+                        <pc>-</pc>
+                        <lb/>ffern</w>, Güttern, Taxen, Zinsen und einkommen, wie 
+<!-- 611 -->
+                    <lb/>das im[m]er nahmen haben und genen[n]et werden müge, 
+<!-- 612 -->
+                    <lb/>etwas einbekommen und vor sich gebraucht hetten, 
+<!-- 613 -->
+                    <lb/>Die sollen gleichsfals den andern hiemit gentzlich
+<!-- 614 -->
+                    <lb/>
+                    <hi rend="antiqua">absolvirt</hi> und loß gesprochen sein, jedoch mit der 
+<!-- 615 -->
+                    <lb/>maß, das sie sich hinfüro von dergleichen beginnen 
+
+<!-- 616 -->
+                    <lb/>
+                    <pb facs="#f026" n="D1v"/>gentzlichen enthalten, und damit demselben umb so 
+<!-- 617 -->
+                    <lb/>viel desto mehr wircklichen nachgesatzt: So ist <w>letz
+<!-- 618 -->
+                        <pc>-</pc>
+                        <lb/>lichen</w> auch dahin geschlossen, das alle die Hungern,
+<!-- 619 -->
+                    <lb/>so dem Herrn <rs type="person" ref="#bocskai_stephan">Botzkay</rs> anhengig gewesen, nun mehr 
+<!-- 620 -->
+                    <lb/>nach beschluß und <hi rend="antiqua">confirmation</hi> der vorhergehen
+<!-- 621 -->
+                    <lb rend="trennstrich"/>den Punckt und Artickel, dem Jurament und pflicht, 
+<!-- 622 -->
+                    <lb/>darmit sie ime verbunden gewesen, zum <w>förderlich
+<!-- 623 -->
+                        <pc>-</pc>
+                        <lb/>sten</w> wircklichen <hi rend="antiqua">renunciiren</hi>
+                    <orig>,</orig> und von derselben <w>er
+<!-- 624 -->
+                        <pc>-</pc>
+                        <lb/>lediget</w> werden möchten, das auch er, <rs type="person" ref="#bocskai_stephan">Botzkay</rs>, <w>nim 
+<!-- 625 -->
+                        <pc>-</pc>
+                        <lb/>mer</w> un[d] zu keiner zeit sie ime wiederumb verbindlich  
+<!-- 626 -->
+                    <lb/>mache, ja auch vor sich selbst sie solcher ime geleisten 
+<!-- 627 -->
+                    <lb/>Pflicht loß und ledig zehle.</p>
+<!-- 628 -->
+                <p>
+                    <lb/>Das auch dieses alles so viel mehr <hi rend="antiqua">roboriret</hi> 
+<!-- 629 -->
+                    <lb/>und seine kreffte erreichen müge, und aller <hi rend="antiqua">scrupul</hi>
+<!-- 630 -->
+                    <lb/>und mißvertraue[n] aus den hertzen deß <rs type="person" ref="#bocskai_stephan">Herrn <w>Botz
+<!-- 631 -->
+                            <pc>-</pc>
+                            <lb/>kay</w>
+                    </rs> <hi rend="antiqua">Adhaerenten</hi> gerissen, Auch dieser <hi rend="antiqua">Tractat</hi> un[d] 
+<!-- 632 -->
+                    <lb/>Friedshandlung desto krefftiger und bestendiger sein
+<!-- 633 -->
+                    <lb/>müge, So werden <rs type="person" ref="#rudolf_ii">I[hre] Key[serliche] und Kön[igliche] Maj[estät]</rs> durch 
+<!-- 634 -->
+                    <lb/>einen sonderlichen hieruber auffgerichten und <w>auß
+<!-- 635 -->
+                        <pc>-</pc>
+                        <lb/>gehenden</w> Machtbrieff kräfftig hierein verwilligen, 
+<!-- 636 -->
+                    <lb/>und beneben derselben auch dz <rs type="place" ref="#boehmen_koenigreich">Königreich Beheim</rs>,
+<!-- 637 -->
+                    <lb/>Ertzhertzogthumb <rs type="place" ref="#oesterreich_erzherzogtum">Osterreich</rs>, Marggraffthumb 
+<!-- 638 -->
+                    <lb/>
+                    <rs type="place" ref="#maehren_markgrafschaft">Mähren</rs> und Hertzogthumb <rs type="place" ref="#schlesien_herzogtum">Schlesien</rs>, Auch I[hrer] 
+<!-- 639 -->
+                    <lb/>Durchl[aucht] Ertzhertzog <rs type="person" ref="#ferdinand_ii">Ferdinandus</rs><!-- Ferdinand II. http://d-nb.info/gnd/118532510 Kaiser  --> mit sampt dem
+<!-- 640 -->
+                    <lb/>Hertzogthumb <rs type="place" ref="#steiermark_herzogtum">Steyer</rs> sich mit verpflichten, Das
+<!-- 641 -->
+                    <lb/>nemlich <rs type="person" ref="#rudolf_ii">I[hre] Key[serliche] und Kön[igliche] Maj[estät]</rs> diese <hi rend="antiqua">
+                        <w>Reconcilia
+<!-- 642 -->
+                            <pc>-</pc>
+                            <lb/>tion</w>
+                    </hi> und vergleichung mit den Hungern stet, fest und 
+
+<!-- 643 -->
+                    <lb/>
+                    <pb facs="#f027" n="D2r"/>unvorbruchlich in allen ihren Puncten und <w>Arti
+<!-- 644 -->
+                        <pc>-</pc>
+                        <lb/>ckeln</w> halten, ingleichen auch die benachbarte <w>Kö
+<!-- 645 -->
+                        <pc>-</pc>
+                        <lb/>nigreich</w> und Landschafften nichtes, so dem <w>Nach
+<!-- 646 -->
+                        <pc>-</pc>
+                        <lb/>barlichen</w> Rechten schedlich sein möchte, dawieder 
+<!-- 647 -->
+                    <lb/>
+                    <hi rend="antiqua">attentiren</hi> wollen, Wie dan auch hinwieder die
+<!-- 648 -->
+                    <lb/>Reichs Inwohner, so wol auch die hierzu gehörigen 
+<!-- 649 -->
+                    <lb/>
+                    <hi rend="antiqua">Provincien</hi> und Graffschafften <rs type="person" ref="#rudolf_ii">I[hrer] Key[serlichen] und Kön[iglichen] 
+<!-- 650 -->
+                        <lb/>Maj[estät]</rs> und deren ordentlichen <hi rend="antiqua">Successorn</hi> den <w>Kö
+<!-- 651 -->
+                        <pc>-</pc>
+                        <lb/>nigen</w> in <rs type="place" ref="#ungarn_koenigreich">Hungern</rs> zu stetwerender treu, Pflicht un[d]
+<!-- 652 -->
+                    <lb/>
+                    <hi rend="antiqua">observantz</hi> sich durch offentliche Reichs <hi rend="antiqua">
+                        <w>Consti
+<!-- 653 -->
+                            <pc>-</pc>
+                            <lb/>tution</w>
+                    </hi> ver<hi rend="antiqua">obligiren</hi> und verbinden sollen, das sie, 
+<!-- 654 -->
+                    <lb/>jedoch unbeschadet des Reichs Recht und <w>gerechtig
+<!-- 655 -->
+                        <pc>-</pc>
+                        <lb/>keit</w>, und nach verbleibung desselben Freyheit, nim[m]er 
+<!-- 656 -->
+                    <lb/>und zu ewigen zeiten sich keines abfals, <hi rend="antiqua">rebellion</hi>, 
+<!-- 657 -->
+                    <lb/>auffstandes, betrübung des gemeinen friedes, <w>ein
+<!-- 658 -->
+                        <pc>-</pc>
+                        <lb/>nemung</w> und verhergung der benachbarten <w>Landt
+<!-- 659 -->
+                        <pc>-</pc>
+                        <lb/>schafft</w>, in und außwertiger <hi rend="antiqua">conspiration</hi>, der <w>Tür
+<!-- 660 -->
+                        <pc>-</pc>
+                        <lb/>cken</w>, Tatern<orig>,</orig> oder anderer Feinde einfürung in das
+<!-- 661 -->
+                    <lb/>Königreich <rs type="place" ref="#ungarn_koenigreich">Hungern</rs> und anstossenden <hi rend="antiqua">Provincien</hi>,
+<!-- 662 -->
+                    <lb/>noch sonderbare <hi rend="antiqua">conventiculen</hi> und <w>zusammen
+<!-- 663 -->
+                        <pc>-</pc>
+                        <lb/>kunfften</w> wider <rs type="person" ref="#rudolf_ii">I[hre] Key[serliche] und Kön[igliche] Maj[estät]</rs> nicht <w>un
+<!-- 664 -->
+                        <pc>-</pc>
+                        <lb/>terstehen</w>, noch durch einigen angemaste[n] schein unter
+<!-- 665 -->
+                    <lb/>fahen sollen: Sondern das viel mehr die Hungern
+<!-- 666 -->
+                    <lb/>und benachbarten Lender, vermöge der alten <hi rend="antiqua">
+                        <w>com
+<!-- 667 -->
+                            <pc>-</pc>
+                            <lb/>pactaten</w>
+                    </hi> und verbündtnus gute Nachbarschafft
+<!-- 668 -->
+                    <lb/>und vertrauliche <hi rend="antiqua">correspontentz</hi> unter einander 
+<!-- 669 -->
+                    <lb/>halten, und hin und wieder <hi rend="antiqua">commercien</hi> mit 
+
+<!-- 670 -->
+                    <lb/>
+                    <pb facs="#f028" n="D2v"/>den Christen einem jedern frey gelassen werden <w>mü
+<!-- 671 -->
+                        <pc>-</pc>
+                        <lb/>gen</w>, Inmasse[n] dann auch hinwieder die Hungern den 
+<!-- 672 -->
+                    <lb/>benachbarten Landtschaffte[n] von haltu[n]g guter <w>nach
+<!-- 673 -->
+                        <pc>-</pc>
+                        <lb/>barschafft</w>, un[d] alles, so hierzu von nöten, einer jeden 
+<!-- 674 -->
+                    <lb/>ihre so[n]derbare verbrieffu[n]g hieruber zustelle[n] werde[n].</p>
+<!-- 675 -->
+                <p>
+                    <lb/>Und auff den fall der friede mit den Türcken <w>auff
+<!-- 676 -->
+                        <pc>-</pc>
+                        <lb/>richtiger</w> weiß nicht köndte geschlossen werden, sie 
+<!-- 677 -->
+                    <lb/>auff ihren vorigen <hi rend="antiqua">conditionen</hi> noch mals beruhen 
+<!-- 678 -->
+                    <lb/>und solche ding <hi rend="antiqua">proponiren</hi> möchten, welche der 
+<!-- 679 -->
+                    <lb/>Cron <rs type="place" ref="#ungarn_koenigreich">Hungern</rs> und benachbarten Landschafften<note type="crit_app">Korrigiert aus: Ladtschafften.</note> <w>nach
+<!-- 680 -->
+                        <pc>-</pc>
+                        <lb/>teylig</w> und gefahr bringen möchten, das sie als dan 
+<!-- 681 -->
+                    <lb/>mit gesambter macht un[d] freydigem, willigem gemüt, 
+<!-- 682 -->
+                    <lb/>sampt der <rs type="person" ref="#rudolf_ii">Key[serlichen]und Kün[iglichen] Maj[estät]</rs> Kriegsvolck wieder 
+<!-- 683 -->
+                    <lb/>in, als den Erbfeindt Christliches nahmens und deß 
+<!-- 684 -->
+                    <lb/>Vaterlandes, ohne einige <hi rend="antiqua">tergiversation</hi> un[d] <w>auß
+<!-- 685 -->
+                        <pc>-</pc>
+                        <lb/>flucht</w>, zu bezeugu[n]g irer unterthenige[n] treu, verfahre[n].</p>
+<!-- 686 -->
+                <p>
+                    <lb/>Und da dasselbe also nicht erfolgen würde, sollen 
+<!-- 687 -->
+                    <lb/>die jenigen, so hierwider handeln würde[n], hierdurch 
+<!-- 688 -->
+                    <lb/>in ewige schmach und vorwurff ihrer begangenen 
+<!-- 689 -->
+                    <lb/>untreu gefallen sein.</p>
+<!-- 690 -->
+                <p>
+                    <lb/>Gehandelt un[d] beschlosse[n] seind diese dinge<orig>,</orig> zu <rs type="place" ref="#wien">Wien</rs> 
+<!-- 691 -->
+                    <lb/>in <rs type="place" ref="#oesterreich_erzherzogtum">Osterreich</rs>, de[n] 23 Monats tag Junii, An[n]o 1606.</p>
+<!-- 692 -->
+                <p>
+                    <lb/>
+                    <rs type="person" ref="#matthias_oesterreich">MATTHIAS</rs>. 
+<!-- 693 -->
+                    <lb/>
+                    <rs type="person" ref="#trautson_paul_sixt">Paul Sixt Trautson</rs> etc[etera].
+<!-- 694 -->
+                    <lb/>
+                    <rs type="person" ref="#molart_ernst_von">Ernst von Molart</rs>.
+<!-- 695 -->
+                    <lb/>
+                    <rs type="person" ref="#erdoedy_tamas">Thomas Erdedi</rs>, Erbgraff 
+<!-- 696 -->
+                    <lb/>zu <rs type="place" ref="#moslavina">
+                        <hi rend="antiqua">Monte Claudii</hi>
+                    </rs>.
+<!-- 697 -->
+                    <lb/>
+                    <rs type="person" ref="#forgacs_zsigmond">Sigsmund Forgatzsch von <rs type="place" ref="#jelenec">Ghymes</rs>
+                    </rs>. <!-- Eintrag in listperson zu Forgacs ändern: http://d-nb.info/gnd/142860980 --> 
+<!-- 698 -->
+                    <lb/>
+                    <rs type="person" ref="#breiner_siegfried_christoph">Siegfried Christoff Preiner</rs> etc[etera].
+<!-- 699 -->
+                    <lb/>
+                    <rs type="person" ref="#liechtenstein_karl_von">Carol von Liechtenstein</rs>, etc[etera].
+<!-- 700 -->
+                    <lb/>
+                    <rs type="person" ref="#thurzo_gyoergy">Georg Turzo</rs>, Erbgraf vo[n] <rs type="place" ref="#arva_komitat">Arva</rs>.<!-- Komitat Arva http://d-nb.info/gnd/1062529340-->
+<!-- 701 -->
+                    <lb/>
+                    <rs type="person" ref="#kremberg_ulrich_von">Ulrich von Kremberg</rs>.
+<!-- 702 -->
+                    <lb/>
+                    <rs type="person" ref="#illeshazy_istvan">Steffan Illiashazy</rs>.
+<!-- 703 -->
+                    <lb/>
+                    <rs type="person" ref="#vizkelety_tamas">Thomas Witzkelethy</rs>.
+<!-- 704 -->
+                    <lb/>
+                    <rs type="person" ref="#ostrozic_andras">Andreas Ostrossith</rs>.
+<!-- 705 -->
+                    <lb/>
+                    <rs type="person" ref="#apponyi_pal">Paulus Apponi</rs>.
+</p>
+            </div>
+        <!--  <lb/>
+         <lb/>
+         </p><p><milestone unit="line"/><lb/>Folgen der Herren Commissarien, so wol
+            <milestone unit="line"/><lb/>von Hungerischen, als Behemischen Ständen, sampt
+            <milestone unit="line"/><lb/>desselben incorporirten Landschafften beyderseits gegen ein&#x2e17;
+            <milestone unit="line"/><lb/>ander hierüber gegebene Assecurationes und
+            <milestone unit="line"/><lb/>Versicherung
+         <lb/>
+               </p><p><milestone unit="line"/><lb/><choice><orig>WJR</orig><reg>Wir</reg></choice> <rs type="person" ref=>Franciscus Forgatsch</rs> von Ghymes, deß
+            <milestone unit="line"/><lb/>Stiffts Nitry, und bemeltes Orts Erbgraff, und der
+            <milestone unit="line"/><lb/>Cron Hungern Cantzler: Naprady deß Stiffts Wes&#x2e17;
+               <milestone unit="line"/><lb/>prien, und Graff benantes Orts: <rs type="person" ref=>Petrus Radovitius</rs>
+               <milestone unit="line"/><lb/>zu Waczi&#xe8;, und <rs type="person" ref='#velantinus_lepes'>Valentinus Lepes</rs> zu Thynien, Bischoffe: <rs type="person" ref='#thomas_erdődy'>Tho&#x2e17;
+            <milestone unit="line"/><lb/>mas Erdodi von Moniorokereck</rs>, Erbgraff zu monte Claudio
+               <milestone unit="line"/><lb/>und Warazdien, Obergraff zu Taucznitz, <rs type="person" ref='#georg_turzo'>Georg Turzo</rs> von Beth&#x2e17;
+            <milestone unit="line"/><lb/>lehem Falva, Erbgraff von Arva Obergraff deß Truchsessen
+               <milestone unit="line"/><lb/>Ampts, in berürter Graffschafft Arva: <rs type="person" ref='#niclas_istwanffy'>Niclas Istwanfy</rs> von Ky&#x2e17;
+            <milestone unit="line"/><lb/>sazzonfalva, Vice Waywoda deß Thorhüter Ampts im König&#x2e17;
+               <milestone unit="line"/><lb/>reich Hungern: <rs type="person" ref='#sigismundus_forgatz'>Sigismundus Forgatsch von Ghymes</rs>, Graff
+            <milestone unit="line"/><lb/>der Graffschafft Nogredien, Meister deß Königlichen Schenck
+               <milestone unit="line"/><lb/>Ampts in Hungern: <rs type="person" ref='#petrus_reway'>Petrus Reway Graff der Graffschafft</rs> Tu&#x2e17;
+         <pb/>
+               <milestone unit="line"/><lb/>roczin: <rs type="person" ref='#andreas_doczy'>Andreas Doczy</rs>, Graff der Graffschafft Barsien:
+               <milestone unit="line"/><lb/><rs type="person" ref='#johann_lippay'>Johan Lippay von Zomber, Stadthalter der persönlichen König.
+                  <milestone unit="line"/><lb/>Gegenwart in Gerichtssachen, der Röm[isch] Key[serlichen] und Kön[iglichen] May[estät]</rs>
+               <milestone unit="line"/><lb/>Räthe: <rs type="person" ref='#franciscus_von_bathian'>Franciscus von Bathian</rs>, Graff der Graffschafft So&#x2e17;
+            <milestone unit="line"/><lb/>pronien, auch der gegend in Hungern disseit der Thonau general
+               <milestone unit="line"/><lb/>Capitän: <rs type="person" ref='#niclas_von_zun'>Niclas Erbgraff von Zun</rs>, und Obergraff der Graff&#x2e17;
+               <milestone unit="line"/><lb/>schafft Zaladien: <rs type="person" ref='#siegfried_von_kolonitsch'>Siegfrid von Kolonitsch</rs>, Ritter, höchstgedach&#x2e17;
+            <milestone unit="line"/><lb/>ter Key[serlichen] und Kön[iglichen] <choice><abbr>M.</abbr><ex>Majestät</ex></choice> Kriegßrath, der gegend vber der Thonau ge&#x2e17;
+               <milestone unit="line"/><lb/>neral, und der Besatzung zu Wywar oberster Capitän: <rs type="person" ref='#thomas_zechy'>Thomas
+                  <milestone unit="line"/><lb/>Zechy</rs> von Rimazech, <rs type="person" ref='#johann_keglevich'>Johan Keglevich von Buzin</rs>, <rs type="person" ref='#georg_keglevich'>Georg Keg&#x2e17;
+                     <milestone unit="line"/><lb/>levich von Buzin</rs>, <rs type="person" ref='#emerich_balassa'>Emerich Balassa</rs> von Giarmath, <rs type="person" ref='#benedict_thuroczy'>Benedict
+                        <milestone unit="line"/><lb/>Thuroczy</rs>, <rs type="person" ref='#georg_petheo'>Georg Petheo von Gersse</rs>, <rs type="person" ref='#georg_zombathely'>Georg Zombathely</rs> Vice
+               <milestone unit="line"/><lb/>Graff der Graffschafft Mosonien: <rs type="person" ref='#franciscus_khery'>Franciscus Khery</rs>, Vice
+               <milestone unit="line"/><lb/>Graff der Graffschafft Zobien: <rs type="person" ref='#franciscus_thury'>Francissus Thuri</rs>, Vice Capi&#x2e17;
+               <milestone unit="line"/><lb/>tän der Besatzung Wiwar: <rs type="person" ref='#emerich_megiery'>Emerich Megiery</rs>, <rs type="person" ref='#petrus_kohari'>Petrus Kohari</rs>,
+               <milestone unit="line"/><lb/><rs type="person" ref='#moyses_czyriaky'>Moyses Czyriaky</rs>: Director der Königlichen Sachen, so wol
+            <milestone unit="line"/><lb/>der Königreich Dalmatien, Croatien und Sclavonien Bott&#x2e17;
+               <milestone unit="line"/><lb/>schaffter und Abgesandte: <rs type="person" ref='#christoff_merniauchich'>Christoff Merniauchich</rs>, vorbenanter
+            <milestone unit="line"/><lb/>Königreich Vice Ban, und <rs type="person" ref='#johann_kitonich'>Johan Kitonich</rs>, <c>J</c>. Key[serlichen] May[estät] theils
+            <milestone unit="line"/><lb/>von <c>J</c>. <choice><abbr>Durchl.</abbr><ex>Durchlaucht</ex></choice> abgefertigte.
+               <milestone unit="line"/><lb/>Ingleichen, Wir <rs type="person" ref='#steffan_illiashazy'>Steffan Illiashazi</rs> von Illiashaza,
+            <milestone unit="line"/><lb/>Graff der Graffschafften Trenschin und Lypto, deß Königreichs
+            <milestone unit="line"/><lb/>Hungern Landhoffmeister, und höchstermelter <c>J</c>. Key[serlichen] und Kön[iglichen]
+               <milestone unit="line"/><lb/><choice><abbr>Ma.</abbr><ex>Majestät</ex></choice> Rath, <rs type="person" ref='#franciscus_magochy'>Franciscus Magochii</rs>, Graff der Graffschafft Thorn,
+               <milestone unit="line"/><lb/><rs type="person" ref='#georg_drugeth_von_homonna'>Georg Drugeth von Homonna</rs>, Graff der Graffschafft von
+               <milestone unit="line"/><lb/>Ungk, <rs type="person" ref='#stanislaus_thurzo'>Stanißlaus Thurzo</rs> von Bethlehem Falva, Erbgraff der
+               <milestone unit="line"/><lb/>Graffschafft Zips: <rs type="person" ref='#sebastian_thököly'>Sebastian Töcköly</rs>, <rs type="person" ref='#georg_hoffman'>Georg Hoffman</rs>, <rs type="person" ref='#peter_horwath'>Peter
+                  <milestone unit="line"/><lb/>Horwath</rs>, Miadosovith, <rs type="person" ref='#andreas_ostrosith'>Andreas Ostrosith von Ghylettnes</rs>, <rs type="person" ref='#thomas_witzkelethy'>Tho&#x2e17;
+                     <milestone unit="line"/><lb/>mas Vizkelethy von Vizkeleth</rs>, <rs type="person" ref='#paul_appony'>Paulus Apponi</rs> von Nad Ap&#x2e17;
+               <milestone unit="line"/><lb/>pon, <rs type="person" ref="#bocskai_stephan">Fürst Stephani</rs> und seiner Hungerischen Adh&#xe6;renten
+               <milestone unit="line"/><lb/>theils, anhero gen <rs type="place" ref='#wien'>Wien</rs> abgefertigte und abgesandte, Fügen
+            <milestone unit="line"/><lb/>heimit zu gedencken, lauts und Inhalts dieser Schrifft, und thun
+         <pb/>
+            <milestone unit="line"/><lb/>kund allen und jeden, denen es zu wissen von nöthen, Demnach zu
+            <milestone unit="line"/><lb/>Hinlegung und Stillung der kurtz verruckter Zeit in Hungern ent&#x2e17;
+            <milestone unit="line"/><lb/>standenen Unruhe und Empörung, zwischen der Röm[isch] Key[serlichen] und
+               <milestone unit="line"/><lb/>Kön[iglichen] May[estät] unsers aller gnädigsten Herrn, an einem, und Herrn
+               <milestone unit="line"/><lb/><rs type="person" ref="#bocskai_stephan">Steffan</rs>, Fürsten in Siebenbürgen etc. und seinem Anhang von
+            <milestone unit="line"/><lb/>Hungern, anders theils, die Sachen durch den Durchlauchtigsten
+               <milestone unit="line"/><lb/>Fürsten und Herrn, <rs type="person" ref='#matthias'>Herrn Matthiam</rs> Ertzhertzogen zu Oster&#x2e17;
+            <milestone unit="line"/><lb/>reich, unserm auch gnädigsten Herrn, auff vollkommene Macht
+            <milestone unit="line"/><lb/>und Gewalt <c>J</c>. <choice><abbr>Durchl.</abbr><ex>Durchlaucht</ex></choice> von <c>J</c>. May[estät] auffgetragen und vberge&#x2e17;
+            <milestone unit="line"/><lb/>ben, in eine gewisse Reconciliation und vergleichungs Form
+            <milestone unit="line"/><lb/>gebracht, welche Vergleichung vnter Dato den 23. Monats Tag
+            <milestone unit="line"/><lb/>Junii nechstverschienen, so wol von <c>J</c>. <choice><abbr>Durchlauch.</abbr><ex>Durchlaucht</ex></choice> und den Her&#x2e17;
+            <milestone unit="line"/><lb/>ren Commissarien, von beyden theilen hierzu deputiret und er&#x2e17;
+            <milestone unit="line"/><lb/>fordert, vnterschrieben, und mit ihren Insigeln besiegelt, Als auch
+            <milestone unit="line"/><lb/><c>J</c>. May[estät] theils sub dato den 6. Monatstag Augusti confirmiret
+            <milestone unit="line"/><lb/>und bestettiget worden.
+            <milestone unit="line"/><lb/>Derowegen wir oben benandte, als wir hierüber gentzlich
+            <milestone unit="line"/><lb/>concordiret und uns vergleichen, im Namen und von wegen al&#x2e17;
+            <milestone unit="line"/><lb/>ler Orden und Stände der löblichen Cron Hungern, sampt der&#x2e17;
+            <milestone unit="line"/><lb/>selben zugehörigen Landschafften, freywillig und wissentlich, auß
+            <milestone unit="line"/><lb/>wolbedachtem Muth, zusagen, gereden und versprechen, daß wir
+            <milestone unit="line"/><lb/>und vorbenandte alle und jede Orden und Stände im Königreich
+            <milestone unit="line"/><lb/>Hungern, und desselben angehörigen Landschaffften, vor sich
+            <milestone unit="line"/><lb/>und ihre Successorn und Nachkommen, solche mit Jhr May[estät]
+            <milestone unit="line"/><lb/>und den benachbarten Königreichen und Provincien getroffene
+            <milestone unit="line"/><lb/>Reconciliation und Vergleichung in allen ihren Puncten und
+            <milestone unit="line"/><lb/>Artickeln stet, fest und unvorbrüchlich halten, dann auch nach In&#x2e17;
+            <milestone unit="line"/><lb/>halt der alten Conpactaten und Verbündniß, (so wir Krafft die&#x2e17;
+            <milestone unit="line"/><lb/>ser gegenwertigen Schrifft hiemit renoviret, und in ihren vorigen
+            <milestone unit="line"/><lb/>Stand, als wann dieselbigen niemals vorgewaltiget oder ge&#x2e17;
+            <milestone unit="line"/><lb/>schwächt worden, gesetzt haben wollen) gute Nachbarschafft und
+            <milestone unit="line"/><lb/>vertreuliche correspontentz zu ewigen zeiten mit einander halt&#xe8;,
+         <pb/>
+            <milestone unit="line"/><lb/>Auch alle und jede Handlung und commercien mit den Christen
+            <milestone unit="line"/><lb/>einem jedern vergönnen und nachlassen wollen, anders nicht, als
+            <milestone unit="line"/><lb/>wenn solches alles in öffentlicher Di&#xe6;t oder Reichs versamlung
+            <milestone unit="line"/><lb/>gehandelt und beschlossen worden were. Dessen zu mehrer Urkund
+            <milestone unit="line"/><lb/>und Beglaubigung, haben wir diese Schrifft mit unsern eigenen
+            <milestone unit="line"/><lb/>Handen vnterschrieben, und mit unsern Insiegeln bekräfftiget, den
+            <milestone unit="line"/><lb/>Ständen der Cron Behaimb, sampt desselben incorporirten
+            <milestone unit="line"/><lb/>Länder, des Marggraffthumbs Mehren, deß Hertzogthumbs
+            <milestone unit="line"/><lb/>Schlesien, dann auch deß Marggraffthumbs Ober und Nieder
+            <milestone unit="line"/><lb/>Laußnitz, zu ihrer desto bessern caution und Versicherung, hierü&#x2e17;
+               <milestone unit="line"/><lb/>ber geben und zustellen lassen. Datum zu <rs type="place" ref='#wien'>Wien</rs> in Osterreich, den
+            <milestone unit="line"/><lb/><choice><orig>23:</orig><reg>23.</reg></choice> Monatstag Septembris Anno 1606.
+         <lb/>
+         <lb/>
+         <lb/>
+         </p><p><milestone unit="line"/><lb/>Hierauff folgen neunzehen kleinere Insi&#x2e17;
+            <milestone unit="line"/><lb/>gel, und hernacher sechs und dreissig Un&#x2e17;
+            <milestone unit="line"/><lb/>terschrifften.
+         <lb/>
+               </p><p><milestone unit="line"/><lb/>WJR <rs type="person" ref='#adam_von_sternberg'>Adam von Sternberg</rs> Freyherr, Herr zu Be&#x2e17;
+            <milestone unit="line"/><lb/>chinien und Sedlecz, Röm[isch] Key[serlichen] und Kön[iglichen] May[estät] Rath, un[d]
+               <milestone unit="line"/><lb/>oberster Land Kämmerer im Königreich Beheimb: <rs type="person" ref='#adam_von_waldstein'>Adam
+            <milestone unit="line"/><lb/>der Jünger, Freyherr von Waldstein</rs> in Hradek an der Sazawa,
+            <milestone unit="line"/><lb/>und Lowositz, Röm[isch] Key[serlichen] May[estät] Rath, Cammerer, und der Kön.
+               <milestone unit="line"/><lb/>May[estät] in Beheimb Hoffmarschalck: <rs type="person" ref='#mattheus_leopold_poppel'>Mattheus Leopoldus Pop&#x2e17;
+                  <milestone unit="line"/><lb/>pel</rs>, Freyherr von Lobkowitz, in Strakonitz, der Röm[isch] Key[serlichen] un[d] Kön[iglichen]
+            <milestone unit="line"/><lb/>May[estät] Rath, und deß Priorats im Königreich Behaimb ober
+               <milestone unit="line"/><lb/>Meister: <rs type="person" ref='#johann_von_klenau'>Johan von Klenowehe und Janowitz</rs>, in Zinkowa und
+            <milestone unit="line"/><lb/>Zitina, Röm[isch] Key[serlichen] und Kön[iglichen] May[estät] Rath, und ober Landschreiber
+               <milestone unit="line"/><lb/>deß Königreichs Behem: <rs type="person" ref='#georg_gerßdorff'>Georg Gerßdorff v&#xf5; Gerßdorff</rs>, in Chol&#x2e17;
+               <milestone unit="line"/><lb/>titz, <choice><abbr>R.</abbr><ex>Römisch</ex></choice> <choice><abbr>K.</abbr><ex>Kaiserlicher</ex></choice> und Kön[iglichen] May[estät] Rath, und <rs type="person" ref='#johann_wostrowetz_von_kralowitz'>Johan Wostrowetz von Kra&#x2e17;
+         <pb/>
+                  <milestone unit="line"/><lb/>lowitz</rs>, auf Wlassim und Domassin, Röm[isch] <choice><abbr>Key.</abbr><ex>Keyserlicher</ex></choice> und Kön[iglichen] May[estät]
+               <milestone unit="line"/><lb/>Truchseß, der Orden un[d] Stände der löblichen Cron Behem. &#x2020;<rs type="person" ref='#karl_von_liechtenstein'>Ca&#x2e17;
+            <milestone unit="line"/><lb/>rol von Lichtenstein und Nicklaspurg</rs>, Herr zu Velsperg, Herrn
+            <milestone unit="line"/><lb/>Baumgarten, Eißgrub, Plumblaw, Prostnitz, Ausow und
+            <milestone unit="line"/><lb/>Czernahor, Röm[isch] <choice><abbr>Key.</abbr><ex>Keyserlicher</ex></choice> May[estät] geheimbter Rath, und Ober&#x2e17;
+               <milestone unit="line"/><lb/>hauptman deß Marggraffthumbs Mähren, <rs type="person" ref='#weickard_zu_salm_und_neuburg'>Weickard Graff
+            <milestone unit="line"/><lb/>zu Salm und Newpurg</rs> vber dem Jhn, in Zowiczaw,
+            <milestone unit="line"/><lb/>Röm[isch] <choice><abbr>Key.</abbr><ex>Keyserlicher</ex></choice> May[estät] Rath, <rs type="person" ref='#georg_hodiczky'>Georg Hodiczky von Hodicz</rs>, auff
+               <milestone unit="line"/><lb/>Plawecz und Rudoczi, <rs type="person" ref='#wilhelm_zaudeck'>Wilhelm Zaudeck von Zdietin</rs>, auff Zdann-
+            <milestone unit="line"/><lb/>kach und Fsatrowanecz, Oberster Landschreiber deß Marg&#x2e17;
+               <milestone unit="line"/><lb/>graffthumbs Mähren: <rs type="person" ref='#wentzel_zahradeczky'>Wentzel Zahradeczky von Zahradecz</rs>,
+               <milestone unit="line"/><lb/>auff Budisskowicz, <rs type="person" ref='#gunther_golcz'>Gunther Golcz von Golczian</rs>, auff Kla&#x2e17;
+               <milestone unit="line"/><lb/>berstorff, deß Marggraffthumbs Mähren: &#x2020;<rs type="person" ref='#joachim_malczan'>Joachim Malczan</rs>
+            <milestone unit="line"/><lb/>Freyherr von Wartenberg und Pentzlin, auff Militzsch, Ronau
+            <milestone unit="line"/><lb/>und Drumb, Röm[isch] <choice><abbr>Key.</abbr><ex>Keyserlicher</ex></choice> May[estät] Rath, <rs type="person" ref='#friedrich_von_ratzbor_und_przibor'>Friderich von Ratz&#x2e17;
+            <milestone unit="line"/><lb/>bor und Przibor</rs>, Churfürstlicher Brandenburgischer Rath,
+               <milestone unit="line"/><lb/>und Oberhauptman deß Hertzogthumbs Carnow: <rs type="person" ref='#christoff_henscher'>Christoff
+            <milestone unit="line"/><lb/>Henscher</rs>, beyder Rechten Doctor, Syndicus der Stadt Breß&#x2e17;
+            <milestone unit="line"/><lb/>law, und derselben im Hertzogthumb Breßlaw sampt dessen zuge&#x2e17;
+            <milestone unit="line"/><lb/>hörigen Pflegschafft un[d] district Vice Cantzler, deß Hertzogthumbs
+               <milestone unit="line"/><lb/>Ober und Nieder Schlesien. &#x2020;<rs type="person" ref='#johann_fabian_von_poncikau'>Johan Fabian von Ponickau</rs> auff
+               <milestone unit="line"/><lb/>Elstra, der Landschafft in Ober Laußnitz Senior, Und <rs type="person" ref='#siegsmund_kindler'>Siegs&#x2e17;
+            <milestone unit="line"/><lb/>mund Kindler</rs>, der Stadt Zittaw Secretarius, deß Marggraff&#x2e17;
+               <milestone unit="line"/><lb/>thumbs in Ober Laußnitz: und <rs type="person" ref='#maximilian_von_löben'>Maximilian von Löben</rs> in Amptitz,
+               <milestone unit="line"/><lb/>deß <choice><abbr>Kön: </abbr><ex>Königlichen </ex></choice> Landtgerichts Pr&#xe6;sident: und <rs type="person" ref='#abraham_gasto'>Abraham Gasto</rs>, Syndi&#x2e17;
+            <milestone unit="line"/><lb/>cus der Stadt Guben, und Assessor deß Landgerichts, deß
+            <milestone unit="line"/><lb/>Marggraffthumbs Nieder Laußnitz, Abgesandte. &#x2020;Fügen hiemit
+            <milestone unit="line"/><lb/>zugedencken, lauts und Inhalts dieser Schrifft, und thun kund je&#x2e17;
+            <milestone unit="line"/><lb/>dermenniglich, denen solches zu wissen von nöthen: Nach dem zu
+            <milestone unit="line"/><lb/>Hinlegung und Stillung der kurtz verruckter Zeit, in Hungern ent&#x2e17;
+            <milestone unit="line"/><lb/>standenen Unruh und Empörung, zwischen der Röm[isch] Key[serlichen] und
+               <milestone unit="line"/><lb/>Kön[iglichen] May[estät] unsers aller gnädigsten Herrn, an einem, und dem
+         <pb/>
+               <milestone unit="line"/><lb/>Durchlauchten, Hoch und wolgebornen, Herrn <rs type="person" ref="#bocskai_stephan">Steffan Botzkay</rs>
+            <milestone unit="line"/><lb/>von Kyßmaria, und seinen Adh&#xe6;renten den Hungern, anders
+            <milestone unit="line"/><lb/>theils, die Sachen durch den Durchlauchtigsten Fürsten und Herrn,
+               <milestone unit="line"/><lb/>Herrn <rs type="person" ref='#matthias'>Matthiam</rs>, Ertzhertzogen zu Oesterreich, unsern auch gnä&#x2e17;
+            <milestone unit="line"/><lb/>digsten Herrn, auff die <c>J</c>. <choice><abbr>Durchl:</abbr><ex>Durchlaucht</ex></choice> von <c>J</c>. May[estät] auffgetragenen
+            <milestone unit="line"/><lb/>und vbergebenen Machts und Gewalts vollkommenheit in eine ge&#x2e17;
+            <milestone unit="line"/><lb/>wisse Reconciliation und Vergleichungs Form gebracht, welche
+            <milestone unit="line"/><lb/>Vergleichung vnter dato den 23 Monats Tag Junii, jüngst ver&#x2e17;
+            <milestone unit="line"/><lb/>schienen, so wol von <c>J</c>. <choice><abbr>Durchl:</abbr><ex>Durchlaucht</ex></choice> und von beyden theilen hierzu de-
+            <milestone unit="line"/><lb/>putirten und erforderten Herrn Commissarien vnterschrieben, und
+            <milestone unit="line"/><lb/>mit ihren Pettschafften besigelt, Als auch <c>J</c>. May[estät] theils sub dato
+            <milestone unit="line"/><lb/>den 6. Monats Tag Augusti confirmiret und bestettiget wor&#x2e17;
+            <milestone unit="line"/><lb/>den.
+            <milestone unit="line"/><lb/>Derowegen wir, im Namen und auß vollkommener uns von
+            <milestone unit="line"/><lb/>unsern Principalen, den Ständen der Cron Behem, sampt dero
+            <milestone unit="line"/><lb/>incorporirten Landschafften, auffgetragenen Macht un[d] Gewalt,
+            <milestone unit="line"/><lb/>mit Autoritet, und consens Höchstgemelter <c>J</c>. Key[serlichen] May[estät] zusagen
+            <milestone unit="line"/><lb/>und versprechung frey und vngezwungen, un[d] versichern hiemit ob&#x2e17;
+               <milestone unit="line"/><lb/>benandten <rs type="person" ref="#bocskai_stephan">Herrn Botzkay</rs>, auch alle und jede Stände deß König&#x2e17;
+            <milestone unit="line"/><lb/>reichs Hungern und in Siebenbürgen, das <c>J</c>. Key[serliche] May[estät] solche mit
+            <milestone unit="line"/><lb/>den Hungern getroffene Vergleichung in allen ihren Puncten und
+            <milestone unit="line"/><lb/>Artickeln nicht allein unvorbrüchlich halten, sondern auch die
+            <milestone unit="line"/><lb/>Stände der löblich&#xe8; Cron Behem, sampt deren einvorleibten Pro-
+            <milestone unit="line"/><lb/>vincien un[d] Landschafften, wieder die Hungern im gerinsten nichts
+            <milestone unit="line"/><lb/>vornemen, so dem nachbarlichen Recht einigen Schaden oder
+            <milestone unit="line"/><lb/>Abbruch thun möchte, sondern vermöge der alten Compactaten
+            <milestone unit="line"/><lb/>und Verbundniß (so wir Krafft dieser gegenwertigen Schrifft,
+            <milestone unit="line"/><lb/>hiemit renoviret und in ihren vorigen Stand, als wenn dieselben
+            <milestone unit="line"/><lb/>niemals vorgewaltigt oder geschwächt word&#xe8;, gesatzt haben woll&#xe8;)
+            <milestone unit="line"/><lb/>gute Nachbarschafft un[d] vertrauliche correspondentz auffrichtig
+            <milestone unit="line"/><lb/>halten, auch alle und jede Handlung und commercien mit den
+            <milestone unit="line"/><lb/>Christen einem jedem vergönnen und nachlassen wollen ander Ge&#x2e17;
+         <pb/>
+            <milestone unit="line"/><lb/>stallt nicht, als wann solches alles auff den öffentlichen Landtä&#x2e17;
+            <milestone unit="line"/><lb/>gen und Versamlung der Cron Behem, Marggraffthumbs Mäh&#x2e17;
+            <milestone unit="line"/><lb/>ren, Hertzogthumbs Schlesien, dann auch deß Marggraffthumbs
+            <milestone unit="line"/><lb/>Ober und Nieder Laußnitz verhandelt und beschlossen worden we&#x2e17;
+            <milestone unit="line"/><lb/>re, wo ferne nur dasselbe gleicher gestallt von der Hungerischen
+            <milestone unit="line"/><lb/>Nation, nach Inhalt ihrer Brieff und Siegel, so sie uns in son&#x2e17;
+            <milestone unit="line"/><lb/>derheit hierüber zugestallt, pr&#xe6;stiret und geleistet werde.
+            <milestone unit="line"/><lb/>Dessen zu Urkund und vmb mehrer Bekräfftigung willen, ha&#x2e17;
+            <milestone unit="line"/><lb/>ben wir gegenwertige Schrifft mit unsern anhangenden Insiegeln
+            <milestone unit="line"/><lb/>verwaren und bestetigen lassen, Geschehen zu Wien in Osterreich,
+            <milestone unit="line"/><lb/>den 26. Monatstag Septembris, im Jahr nach Christi Geburt.
+            <lb/>1606.
+         <lb/>
+         </p><p><lb/>Der Ort der Insiegeln.
+         <lb/>
+         <lb/>
+         <lb/>
+         <lb/>
+         <lb/>
+            </p><p><lb/>Extract desz gemachten Frie&#x2e17;
+            <lb/>dens mit dem Türcken.
+         <lb/>
+         </p><p><lb/><choice><orig>ERstlichen</orig><reg>Erstlichen</reg></choice> soll bey der nechst gegen einander ab&#x2e17;
+            <lb/>geschiedener Legation, ein Keyser als der unserige zum Va&#x2e17;
+            <lb/>ter, und der ander zum Sohn angenommen werden.
+            <lb/>2. Soll in allen Schreiben der gebräuchigest Form gebraucht,
+            <lb/>und dißfals summariter procediret werden, auch einer den an&#x2e17;
+            <lb/>dern einen Keyser, und nicht einen König nennen.
+         <pb/>
+            <lb/>3. Sollen die Tattern, so wol auch die andern Nationen, in den
+            <lb/>Frieden begriffen seyn, und der Christen Länder oder Provintzen ei&#x2e17;
+            <lb/>niger Schade nicht zugefüget werden.
+            <lb/>4. Soll dieser Frieden zwischen denen zweyen Keysern, an allen
+            <lb/>ihnen angehörigen örtern, fürnemlich aber in Ungern, und denen
+            <lb/>von Alters hero darzu gehörigen Provintzen, wie auch andern Län&#x2e17;
+            <lb/>dern, Regionen und Provintzen, so wol auch zu Meer und Land,
+            <lb/>so weit sich ihrer beyder Gebiet erstreckt, verstanden seyn, darinnen
+            <lb/>sollen auch alle die jenigen Länder, so dem hochlöblichen Hauß
+            <lb/>Oesterreich angehörig, oder davon dependiren, geschlossen seyn,
+            <lb/>Jm fall auch der König in Hispania in den Friede eingehen wolte,
+            <lb/>soll es ihm vnerwehret seyn.
+            <lb/>5. Ist das streiffen gantz und gar beyder seits auffgehebt, im fall
+            <lb/>aber Räuber auffstünden, und einem oder dem andern theil Scha&#x2e17;
+            <lb/>den zufügten, soll zugelassen seyn, dergleichen Vorbrecher gefeng&#x2e17;
+            <lb/>lich einzuziehen, und dessen den gegentheil zuerinnern, damit gegen
+            <lb/>ihnen, vor ihrem Hauptman, vnter welchem sich etwa dergleichen
+            <lb/>Gewalthätigkeiten begeben, rechtlich fürgangen, und die abge&#x2e17;
+            <lb/>trungene Sachen wider restituiret werden möge.
+            <lb/>6. Solle keinem Theil zugelassen seyn, sich in die Schlösser o&#x2e17;
+            <lb/>der Vestungen einzuschleiffen, und dieselben entweder heimlich
+            <lb/>oder öffentlich, oder auch durch practiciren, zueröbern viel weniger
+            <lb/>vnter einem pr&#xe6;text solche einzunemen, tentiren, wie auch die
+            <lb/>Leute gefenglichen davon zu führen, oder den bösen Leuten und
+            <lb/>Feinden beyder Keyser vnterschleiff oder Auffenthalt zugestatten,
+               <lb/>und was dem <rs type="person" ref="#bocskai_stephan">Herrn Botzkay</rs> bewilliget ist worden, das bleib an
+               <lb/>seinem Ort, vermöge deß zu <rs type="place" ref='#wien'>Wien</rs> gemachten Schlusses.
+            <lb/>7. Sollen die Gefangenen beyderseits restituiret oder nach ge&#x2e17;
+            <lb/>legenheit der Personen ein Wexel getroffen werden, also daß ihre
+            <lb/>Herren zu beyden theilen, laut der Satzung, vorgnüget seyn mö&#x2e17;
+            <lb/>gen, die jenigen, so allbereit wegen ihrer Außlösung mit ihren Her&#x2e17;
+            <lb/>ren abkommen, sollen die Schatzungen erlegen, welche aber vnter
+         <pb/>
+            <lb/>wehrenden Außstand deß Kriegs gefangen werden, sollen vmb
+            <lb/>sonst frey und ledig gelassen werden.
+               <lb/>8. Sollen den Obersten zu <rs type="place" ref='#raab'>Raab</rs>, gleichsfals auch dem Bassa
+               <lb/>zu <rs type="person" ref='#ofen'>Ofen</rs> (davon nun die andern dependiren sollen) also auch dem
+            <lb/>Baan in Windisch Land, <choice><orig>Jt</orig><reg>It</reg></choice>em, denen Kreiß Obersten disseits
+            <lb/>und jenseits der Thonau, völliger Gewalt vorliehen seyn, alle et&#x2e17;
+            <lb/>wan auff den Gräntzen fürfallende Ungelegenheiten und Erger&#x2e17;
+            <lb/>nissen zuvorhüten, im fall aber gar wichtige Sachen darzwischen
+            <lb/>kemen, die durch sie nicht könten hingeleget oder erörtert werden,
+            <lb/>als dann soll es an beyde Keyser gelanget werden.
+            <lb/>9. Soll auch jedem theil zugelassen seyn, die Schlösser oder
+            <lb/>Vestungen an ihren alten örtern zu erbawen und zu befestigen, ne&#x2e17;
+            <lb/>we Vestungen aber, und Castell zu erbawen und auffzurichten soll
+            <lb/>verbotten seyn.
+            <lb/>10. Soll unser seits ein Legation mit Vorehrungen zu dem Tür&#x2e17;
+               <lb/>ckischen Keyser, also auch von dem <rs type="person" ref='#murat_bassa_serdar'>Murat Bassa Serdar</rs>, ein
+               <lb/>Botschafft zu der Fürstl. <choice><abbr>Durchl.</abbr><ex>Durchlaucht</ex></choice> Herrn <rs type="person" ref='#matthias'>Matthiassen</rs> Ertzhertzo&#x2e17;
+            <lb/>gen zu Oesterreich unserm gnädigsten Herrn, mit Voreherungen
+            <lb/>abgeschickt werden, und wann unser Legaten zu ratificirung oder
+               <lb/>Bestattung deß Friedens zu <rs type="place" ref='#konstantinopel'>Constantinopel</rs> ankommen werden,
+            <lb/>soll als dann von dannen der Türckische Keyser, auch zu den unse&#x2e17;
+               <lb/>rigen, sein Legation nach <rs type="place" ref='#prag'>Prag</rs>, mit mehrern und bessern Voreh&#x2e17;
+            <lb/>rungen, als hievor im brauch gewesen, absenden.
+            <lb/>11. Soll an jetzo der Key[serlichen] May[estät] Legat die zugesagte Vorehrung
+            <lb/> der 200. tausent Gulden, doch einmal vor alle mal zuvorstehen,
+               <lb/>nach <rs type="place" ref='#konstantinopel'>Constantinopel</rs> bringen
+            <lb/>12. Soll der Friede 20. Jahr wehren, vom ersten Januarii
+            <lb/>künfftiges Jahres anzuraiten, Nach Außgang der drey Jahr aber
+            <lb/>soll ein Keyser dem andern bey gleichmessigen ansehelichen Perso&#x2e17;
+            <lb/>nen Vorehrungen, welche kein Bedingniß oder Namen haben,
+            <lb/>sondern jedem zu seinen gefallen heimgestellet, und frey gelassen
+            <lb/>seyn sollen, schicken, In diesen 20. Jahren sollen begriffen und vor&#x2e17;
+         <pb/>
+            <lb/>standen seyn, alle ihre Key[serlichen] May[estät] legitimirte Erben, Erben und
+            <lb/>Nachkommen, die Könige in Ungern, die Brüder, Schwäger
+            <lb/>und Enckel, so wol auch derselben legitimirte Erben und Nachkom&#x2e17;
+            <lb/>men, mit welchen auch der Friede, steiff und fest gehalten, und eben
+            <lb/>dieses auff deß Türckischen Keysers seiten auch gehalten, und ver&#x2e17;
+            <lb/>standen werden.
+               <lb/>13. Damit <rs type="place" ref='#waitzen'>Waitzen</rs> widerumb erbawet und erweitert werden
+            <lb/>möge, bleibet es in unsern Händen.
+            <lb/>14. Wann der Key[serlichen] May[estät] Legation an die Porten gelanget, soll
+            <lb/>ihn den Legaten frey seyn, alles das jenige, was sie wollen, von dem
+            <lb/>Türckischen Keyser begeren.
+            <lb/>15. Ist wegen der gehuldigten Dörffer dahin geschlossen, daß die
+               <lb/>jenigen Dörffer, so mit Eröberung der Vestungen <rs type="place" ref='#filleck'>Filleck</rs>, <rs type="place" ref='#somosho'>Somos-
+                  <lb/>ho</rs>, <rs type="place" ref='#amarzeho'>Amarzeho</rs>, <rs type="place" ref='#diwein'>Divuz</rs>, <rs type="place" ref='#kekkö'>Keress</rs>, <rs type="place" ref='#zechen'>Techin</rs>, <rs type="place" ref='#giarmath'>Giarmath</rs>, <rs type="place" ref='#plankenburg'>Palancka</rs>,
+               <lb/><rs type="place" ref='#novigrad'>Novigrad</rs> und <rs type="place" ref='#waitzen'>Weitzen</rs>, von dem Türckischen Joch erlediget und
+            <lb/>frey gemacht werden, und ihrer der Türcken Huldigung, und Rei&#x2e17;
+            <lb/>chung deß Tibuts frey bleiben sollen, sintemal solche Vestungen
+            <lb/>an jetzo in unsern Händen seyn, und soll bey denselbigen Dörffern
+            <lb/>einicher Türck, oder ihr Bassa, wo sie jmmer wohnen möchten,
+            <lb/>das geringste jus oder Gerechtigkeit nicht pr&#xe6;tendiren, viel we&#x2e17;
+            <lb/>niger sie zur Huldigung nötigen, außgenommen derer Dörffer,
+               <lb/>welche nach Vorlust <rs type="place" ref='#erla'>Erla</rs> allzeit und beharrlich dienstbar seyn ge&#x2e17;
+            <lb/>wesen, die sollen auch hinfüro in der Huldigung vorbleiben, sonsten
+            <lb/>aber sollen ihnen die Türcken ausserhalb der Erlaischen Dörffer
+            <lb/>keine andere vnterthänig oder dienstbar machen. Was die Grane&#x2e17;
+            <lb/>rische Refier anlangt, sollen allein die jenigen Dörffer, welche seit
+               <lb/>deß verlusts <rs type="place" ref='#gran'>Gran</rs> in der Türcken gewaltsam kommen, vnter ihrer
+            <lb/>Huldigung vorbleiben, die andern aber sollen sie vnter ihre Huldigung
+               <lb/>nicht zwingen. Wegen der vmb <rs type="place" ref='#großkirchen'>Canischa</rs> herumb gelegenen Dörf&#x2e17;
+            <lb/>fern ist beschlossen, daß der Bassa von Ofen, also auch der Herr
+            <lb/>Budiany, zugleich ihre vorneme Leute dahin abfertigen, welche die
+         <pb/>
+            <lb/>Dörffer bereitten, abzehlen, und wo eins oder das ander dahin ge&#x2e17;
+            <lb/>hört, den Auspruch thun und ratificiren sollen, Auff den fall sich et&#x2e17;
+            <lb/>wan in den gehuldigten Dörffern Adelspersonen befünden, oder
+            <lb/>ihre Häuser und Wonungen daselbst hab&#x1ebd; möchten, die sollen dem
+            <lb/>Türcken weder Tribut noch Zehend reichen, auch im wenigsten ih&#x2e17;
+            <lb/>nen nicht dienstbar, sondern durchauß, so wol mit ihren Gütern,
+            <lb/>als eigenen Personen frey seyn, und alle de jenigen, so von ihrem
+            <lb/>rechten König der Gaben befreyet sind, sollen den Türcken nichts
+            <lb/>reichen, die Türcken sollen in eigener Person auff die Dörffer nicht
+            <lb/>außziehen, sondern durch die Richter jedes Dorffes ihre Einkom&#x2e17;
+            <lb/>men einbringen, Jm fall aber di Richter solches nicht theten, soll
+            <lb/>deßwegen den Hauptleuten jedes Orts, oder ihren grund Obrig&#x2e17;
+            <lb/>keiten zugeshrieben werden. Wenn aber solcher gestallt auch nichts
+            <lb/>außgerichtet werden könte, als denn mögen die Türcken außrei&#x2e17;
+            <lb/>sen, und die vngehorsamen compelliren. Ebenfals
+            <lb/>soll es auch auff der Bogen seiten gehal&#x2e17;
+            <lb/>ten werden.
+         </p> -->
+      </body>
+        <back/>
+  </text>
+</TEI>

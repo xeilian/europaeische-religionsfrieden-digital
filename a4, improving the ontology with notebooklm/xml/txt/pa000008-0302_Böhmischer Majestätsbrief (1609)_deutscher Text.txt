@@ -1,0 +1,927 @@
+<?xml-model href="../../../customization/schema_quellentexte/religionsfrieden-quellentexte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pa000008-0302">
+        <teiHeader>      
+                <fileDesc>         
+                        <titleStmt>
+                            <title level="a">Böhmischer Majestaetsbrief (9. Juli 1609)</title>
+                                <title level="s">Europäische Religionsfrieden Digital</title>
+                                
+                                 
+                                
+                                <editor role="http://id.loc.gov/vocabulary/relators/edt" ref=" http://d-nb.info/gnd/1049203518">
+                    <persName>Martin-Paul Buchholz</persName>
+                </editor> 
+                                <respStmt>
+                    <resp ref="http://id.loc.gov/vocabulary/relators/mrk">Mitarbeit</resp>
+                    <persName>Kevin Wunsch</persName>
+                    <persName>Silke Kalmer</persName>
+                </respStmt>           
+                        </titleStmt>         
+                        <editionStmt>
+                                <edition>Digitale Edition gemäß <ref target="http://www.tei-c.org/">TEI P5</ref>
+                </edition>
+                                <funder>Akademie der Wissenschaften und der Literatur Mainz</funder>
+                <principal>Unter der Leitung von Irene Dingel und Thomas Stäcker</principal>
+                        </editionStmt>         
+                        <publicationStmt>
+                                <publisher>
+                                        <orgName ref="http://www.isni.org/0000000119314040">Leibniz-Institut für Europäische Geschichte Mainz</orgName>
+                                </publisher>           
+                                <distributor>
+                                        <orgName ref="http://www.isni.org/0000000110101946">Universitäts- und Landesbibliothek Darmstadt</orgName>
+                                        <idno type="ISIL">http://lobid.org/organisation/DE-17</idno>
+                                </distributor>
+                                <date when="2013-10-17" type="issued">2013</date>
+                                <availability>
+                                        <licence target="https://creativecommons.org/licenses/by/4.0/">
+                                                <p xml:lang="en">This file is licensed under the terms of the Creative Commons License CC-BY 4.0 (Attribution 4.0 International)</p>
+                                        </licence>
+                                </availability>
+                        </publicationStmt>        
+                        <sourceDesc>
+                <p>Textgrundlage s. ggf. Einleitung.</p>
+            </sourceDesc>
+                </fileDesc>      
+                <encodingDesc>         
+                        <projectDesc>
+                                <p>
+                    <ref target="https://eured.de">Europäische Religionsfrieden Digital</ref>
+                </p>
+                        </projectDesc>
+                        <classDecl>
+                                <taxonomy xml:id="marcrelator">
+                                        <bibl>
+                        <idno type="URI">http://id.loc.gov/vocabulary/relators/</idno> MARC Code List for Relators </bibl>
+                                </taxonomy>
+                        </classDecl>         
+                </encodingDesc>      
+                <profileDesc>         
+                        <langUsage>
+                                <language ident="deu">Deutsch</language>
+                        </langUsage>         
+                </profileDesc>      
+                <!--<revisionDesc><change/></revisionDesc>-->   
+        </teiHeader>
+    <standOff>
+        <listPerson>
+            <person xml:id="rudolf_ii">
+                    <persName ref="http://d-nb.info/gnd/118603701">
+                        <forename>Rudolf II.</forename>
+                        <roleName>Kaiser</roleName>
+                    </persName>
+                    <note>Kaiser des <rs type="place" ref="#heiliges_roemisches_reich">Heiligen
+                            Römischen Reichs</rs>.</note>
+                </person>
+            <person xml:id="maximilian_ii">
+                    <persName ref="http://d-nb.info/gnd/11857938X">
+                        <forename>Maximilian II.</forename>
+                        <roleName>Kaiser</roleName>
+                    </persName>
+                    <note>Kaiser des <rs type="place" ref="#heiliges_roemisches_reich">Heiligen
+                            Römischen Reichs</rs>.</note>
+                </person>
+            <person xml:id="lamberg_karl">
+                    <persName ref="http://d-nb.info/997258365">
+                        <forename>Karl</forename>
+                        <nameLink>von</nameLink>
+                        <surname>Lamberg</surname>
+                    </persName>
+                    <note>Erzbischof von <rs type="place" ref="#prag_erzbistum">Prag</rs>
+                </note>
+                </person>
+            <person xml:id="sternberg_adam">
+                    <persName ref="http://d-nb.info/gnd/136863302">
+                        <forename>Adam</forename>
+                        <nameLink>von</nameLink>
+                        <surname>Sternberg</surname>
+                    </persName>
+                    <note>Adam II. (der Ältere) von Sternberg, Landrichter und Burggraf von <rs type="place" ref="#prag">Prag</rs>
+                </note>
+                </person>
+            <person xml:id="michna_paul">
+                    <persName>
+                        <forename>Paul</forename>
+                        <surname>Michna von Waizenhofen (Vacínov)</surname>
+                        <roleName>Graf</roleName>
+                    </persName>
+                    <note>Hofsekretär der kaiserlichen Statthalterei in <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs>
+                </note>
+                </person>
+        </listPerson>
+        <listPlace>
+            <place xml:id="heiliges_roemisches_reich">
+                    <placeName ref="http://d-nb.info/gnd/2035457-5">Heiliges Römisches Reich
+                        Deutscher Nation</placeName>
+                    <!-- dnb link geprüft, BM, 18.1.2021 -->
+                </place>
+            <place xml:id="prag_erzbistum">
+                    <placeName ref="http://d-nb.info/gnd/1215715-6">Prag, Erzbistum</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="prag">
+                    <placeName ref="http://www.geonames.org/3067696/prague.html">Prag,
+                        Stadt</placeName>
+                </place>
+            <place xml:id="boehmen_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/63739-7">Böhmen, Königreich</placeName>
+                    <!-- dnb link geprüft, BM, 14.1.2021 -->
+                </place>
+            <place xml:id="ungarn_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/4078541-5">Ungarn, Königreich</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="dalmatien">
+                    <placeName>Dalmatien, Region</placeName>
+                </place>
+            <place xml:id="kroatien_koenigreich">
+                    <placeName ref="http://d-nb.info/gnd/4073841-3">Kroatien-Slawonien,
+                        Königreich</placeName>
+                    <!-- dnb Link überprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="oesterreich_erzherzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4075601-4">Österreich,
+                        Erzherzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="maehren_markgrafschaft">
+                    <placeName ref="http://d-nb.info/gnd/4074432-2">Mähren,
+                        Markgrafschaft</placeName>
+                    <!-- dnb link geprüft und aktualisiert, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="luxemburg_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/4036728-9">Luxemburg, Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 19.1.2021 -->
+                </place>
+            <place xml:id="schlesien_herzogtum">
+                    <placeName ref="http://d-nb.info/gnd/24372-3">Ober- und Niederschlesien,
+                        Herzogtum</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="tirol_grafschaft">
+                    <placeName ref="http://d-nb.info/gnd/4060207-2">Tirol, Grafschaft</placeName>
+                    <!-- dnb link geprüft, BM, 20.1.2021 -->
+                </place>
+            <place xml:id="prag_burg">
+                    <placeName ref="https://www.geonames.org/6290257/prazsky-hrad.html">Prager
+                        Burg</placeName>
+                </place>
+            <place xml:id="karlstein">
+                    <placeName ref="https://www.geonames.org/3073800/karlstejn.html">Karlstein,
+                        Burg</placeName>
+                </place>
+        </listPlace>
+    </standOff>
+        
+        <facsimile>
+                <surface xml:id="f00001">
+            <graphic url="https://diglib.hab.de/drucke/205-quod-16s/00001.jpg"/>
+        </surface>
+                <surface xml:id="f00002">
+            <graphic url="https://diglib.hab.de/drucke/205-quod-16s/00002.jpg"/>
+        </surface>
+                <surface xml:id="f00003">
+            <graphic url="https://diglib.hab.de/drucke/205-quod-16s/00003.jpg"/>
+        </surface>
+                <surface xml:id="f00004">
+            <graphic url="https://diglib.hab.de/drucke/205-quod-16s/00004.jpg"/>
+        </surface>
+                <surface xml:id="f00005">
+            <graphic url="https://diglib.hab.de/drucke/205-quod-16s/00005.jpg"/>
+        </surface>
+                <surface xml:id="f00006">
+            <graphic url="https://diglib.hab.de/drucke/205-quod-16s/00006.jpg"/>
+        </surface>
+                <surface xml:id="f00007">
+            <graphic url="https://diglib.hab.de/drucke/205-quod-16s/00007.jpg"/>
+        </surface>
+                <surface xml:id="f00008">
+            <graphic url="https://diglib.hab.de/drucke/205-quod-16s/00008.jpg"/>
+        </surface>
+                <surface xml:id="f00009">
+            <graphic url="https://diglib.hab.de/drucke/205-quod-16s/00009.jpg"/>
+        </surface>
+                <surface xml:id="f00010">
+            <graphic url="https://diglib.hab.de/drucke/205-quod-16s/00010.jpg"/>
+        </surface>
+                <surface xml:id="f00011">
+            <graphic url="https://diglib.hab.de/drucke/205-quod-16s/00011.jpg"/>
+        </surface>
+                <surface xml:id="f00012">
+            <graphic url="https://diglib.hab.de/drucke/205-quod-16s/00012.jpg"/>
+        </surface>
+                <surface xml:id="f00013">
+            <graphic url="https://diglib.hab.de/drucke/205-quod-16s/00013.jpg"/>
+        </surface>
+                <surface xml:id="f00014">
+            <graphic url="https://diglib.hab.de/drucke/205-quod-16s/00014.jpg"/>
+        </surface>
+                <surface xml:id="f00015">
+            <graphic url="https://diglib.hab.de/drucke/205-quod-16s/00015.jpg"/>
+        </surface>
+                <surface xml:id="f00016">
+            <graphic url="https://diglib.hab.de/drucke/205-quod-16s/00016.jpg"/>
+        </surface>
+                <surface xml:id="f00017">
+            <graphic url="https://diglib.hab.de/drucke/205-quod-16s/00017.jpg"/>
+        </surface>
+                <surface xml:id="f00018">
+            <graphic url="https://diglib.hab.de/drucke/205-quod-16s/00018.jpg"/>
+        </surface>
+        </facsimile>
+<text>
+<body> 
+
+        <div>
+                <head>
+                    <lb/>
+                    <pb facs="#f00001" n="A1r"/>Maiestat und <hi rend="antiqua">Priuilegium</hi>
+                </head>
+<head>
+                    <lb/>Des <w>Allerdurchleuchtigi
+<pc>-</pc>
+                        <lb/>sten</w> Großmechtigisten Fürsten und Herrn
+<lb/>Herrn <rs type="person" ref="#rudolf_ii">Rudolffi / des Andern</rs> Erwölten Römischen
+<lb/>Kaysers / auch zu <rs type="place" ref="#ungarn_koenigreich">Hungern</rs> und <rs type="place" ref="#boehmen_koenigreich">Behaimb</rs> Khünig / etc.
+<lb/>uber die von den Dreyen Stenden der Cron <rs type="place" ref="#boehmen_koenigreich">Behaimb</rs> <w>uberge
+<pc>-</pc>
+                        <lb/>bene</w> Behmische <hi rend="antiqua">Confession</hi> (so man die Augspurgische <w>nen
+ <pc>-</pc>
+                        <lb/>net</w>) und derselben freyen<hi rend="antiqua">Exercitij</hi>, sambt dem <hi rend="antiqua">
+                        <w>Consi
+<pc>-</pc>
+                            <lb/>storio</w>
+                    </hi> und <hi rend="antiqua">Academia</hi>, im Jahr
+        <!--<lb/->[...]Wappen-->
+<lb/>1609.</head>
+            </div>
+        
+<pb facs="#f00002" n="A1v"/>
+
+<div>
+        <p>
+                    <lb/>
+                    <pb facs="#f00003" n="A2r"/>
+                    <rs type="person" ref="#rudolf_ii">Wir Rudolff der
+<lb/>Ander</rs> / von Gottes gnaden
+<lb/>Erwöhlter Römischer Kayser / zu
+<lb/>allen zeiten Mehrer des <rs type="place" ref="#heiliges_roemisches_reich">Reichs</rs> /
+<lb/>zu <rs type="place" ref="#ungarn_koenigreich">Hungern</rs> / <rs type="place" ref="#boehmen_koenigreich">Behem</rs> / <rs type="place" ref="#dalmatien">Dalmatien</rs> /
+<lb/>
+                    <rs type="place" ref="#kroatien_koenigreich">Croatien</rs> / etc. Khünig/ Ertzhertzog zu <rs type="place" ref="#oesterreich_erzherzogtum">Osterreich</rs> /
+<lb/>Marggraff zu <rs type="place" ref="#maehren_markgrafschaft">Mährern</rs> / Hertzog zu <rs type="place" ref="#luxemburg_herzogtum">Lutzenburg</rs> und
+<lb/>in <rs type="place" ref="#schlesien_herzogtum">Schlesien</rs> / Marggraff zu <rs type="place" ref="#obererlausitz_markgrafschaft">Lausitz</rs> und Graff zu
+<lb/>
+                    <rs type="place" ref="#tirol_grafschaft">Tyrol</rs> / etc.</p>
+<p>
+                    <lb/>Zu Ewiger gedechtnis sey Krafft dieses
+<lb/>Brieffs menniglichen khundt gethan / Nach dem alle
+<lb/>drey Stende unsers <rs type="place" ref="#boehmen_koenigreich">Khünigreichs Behaimb</rs> / so den
+<lb/>Leib und das Blut des Herrn Jhesu Christi / unter <w>bey
+<pc>-</pc>
+                        <lb/>derley</w> empfangen / unsere liebe getrewe / in gemeinem
+<lb/>Landtag (welcher vergangen im Ain tausent <w>Sechs
+<pc>-</pc>
+                        <lb/>hundert</w> und Achten Jahrs / Montag nach <hi rend="antiqua">Exaudi</hi>/ <!-- Datum raussuchen - Sachanmerkung -->
+<lb/>aufm <rs type="place" ref="#prag_burg">Prager Schlos</rs> augegangen / und eben dasselbe
+<lb/>Jahr / Freytag nach Johanni des Teuffers<!--Personen-Tag? Nein! Datumsangabe als Sachanmerkung--> / beschlossen
+        
+<lb/>
+                    <pb facs="#f00004" n="A2v"/>worden) bey uns als ihrem <rs type="person" ref="#rudolf_ii">Behmischen König</rs> / aller
+<lb/>underthenigist und gebürlichen angehalten und <w>gebet
+<pc>-</pc>
+                        <lb/>ten</w> / damit sie bey der gemeinen Behmischen <hi rend="antiqua">
+                        <w>Confes
+<pc>-</pc>
+                            <lb/>sion</w>
+                    </hi> und Glaubens bekendtnüs (welche von etlichen
+<lb/>die Augspurgische genendt wirdt) im Jahr Christi
+<lb/>Tausent Fünfhundert Fünf und Sibentzig / auf <w>allge
+<pc>-</pc>
+                        <lb/>meinem</w> Landtag zusamben getragen / und der Kay<am>:</am>
+                    <ex>serlichen</ex>
+<lb/>May<am>:</am>
+                    <ex>estät</ex> weilandt <rs type="person" ref="#maximilian_ii">Kayser Maximiliano</rs> / unserm <w>gelieb
+<pc>-</pc>
+                        <lb/>sten</w> Herrn Vattern / löblichster und seeligster <w>gedecht
+<pc>-</pc>
+                        <lb/>nüs</w> ubergebenen <hi rend="antiqua">Confession</hi> (die ihnen baldt damals /
+<lb/>wie wir gewislich berichtet worden / und aus den
+<lb/>schreiben unsers geliebsten Herrn Vattern aigenen
+<lb/>handt / auch andern bey der Landtaffel verhandenen
+<lb/>gedechtnüs vornomben / von Ihrer May<am>:</am>
+                    <ex>estät</ex> bewilliget
+<lb/>worden) auch ihrer unterainander aufgerichten / und
+<lb/>in der Vorrede eingebrachter vergleichung / so wol bey
+<lb/>andern ansuchen / und begehren ihre <hi rend="antiqua">Religion</hi> <w>betref
+<pc>-</pc>
+                        <lb/>fendt</w> / so außtrücklich fürgedeutet / erhalten worden /
+<lb/>solche ihre Christliche Religion under beyderley / frey
+<lb/>und von menniglich ungehindert / uben und <w>fortpflan
+<pc>-</pc>
+                        <lb/>tzen</w>. Und also in diesem allen / das die Stendt <w>genug
+<pc>-</pc>
+                        <lb/>samb</w> von Uns versichert werden <choice>
+                        <orig>möchten</orig>
+                        <reg>mechten</reg>
+                    </choice> / inmassen
+<lb/>dieser Artickel und Ihr begehren / in gemeltem
+<lb/>Landtag und der Landtäge in die Landtaffel / in das
+<lb/>Grüen Buch der gemeinen Landtägen/ <hi rend="antiqua">Anno</hi> im
+        
+<lb/>
+                    <pb facs="#f00005" n="A3r"/>Eintausent Sechshundert und Acht / Montag nach
+<lb/>
+                    <hi rend="antiqua">Exaudi <!-- Datum Sachanmerkung --> / sub lit</hi>: K 8.<!--Abkürzung?--> einuerleibt / dis weitleufftig und
+<lb/>ausführlichen in sich begreifft.</p>
+<p>
+                    <lb/>Weiln <rs type="person" ref="#rudolf_ii">uns</rs> aber damals Hochwichtiger geschefft
+<lb/>halben / welcher wegen bemelter Landtag am meisten
+<lb/>angesteldt / und die da ainigen auffschub nicht dulden
+<lb/>mögen / dieses zubestettigen unmüglich gefallen / haben
+<lb/>wir zu weitterer erörtterung solcher sachen genedigist
+<lb/>auffschueb begehrt / bis auf künfftigen Landtag / <w>wel
+<pc>-</pc>
+                        <lb/>cher</w> auff den Donnerstag für Martini<!-- Datum Sachanmerkung --> nechst <w>vol
+<pc>-</pc>
+                        <lb/>gendts</w> verlegt worden. Inmittels auch die <w>Sten
+<pc>-</pc>
+                        <lb/>de</w> versichert / wofern solches auf allgemeinem <w>Land
+<pc>-</pc>
+                        <lb/>tag</w> nicht zu ende gebracht <choice>
+                        <orig>würde</orig>
+                        <reg>würde</reg>
+                    </choice> / das Sie unter <w>des
+<pc>-</pc>
+                        <lb/>sen</w> ihrer <hi rend="antiqua">Religion</hi> / ein frey und ungehindertes <hi rend="antiqua">
+                        <w>exer
+<pc>-</pc>
+                            <lb/>citium</w>
+                    </hi> haben und halten / auch bis zu entlicher <w>hinle
+<pc>-</pc>
+                        <lb/>gung</w> dieses Articuls / zu ainiger erwegung oder <w>ab
+<pc>-</pc>
+                        <lb/>handtlung</w> anderer Articul / so wir ihnen in der <w>Land
+<pc>-</pc>
+                        <lb/>tags</w> <hi rend="antiqua">proposition</hi> vortragen würden / zuschreitten gar
+<lb/>nicht schuldig / oder verbunden sein sollen / wie dann <w>sol
+<pc>-</pc>
+                        <lb/>ches</w> unser gnedigist begehren und versicherung mit
+<lb/>mehrem bezeuget.</p>
+<p>
+                    <lb/>Nach welchem allgemeinen verbleiben / als der
+<lb/>Landtag auff gemeldten Termin / Donnerstag vor
+<lb/>Martini<!-- Datum Sachanmerkung --> angesetzt / aus erheblichen ursachen von <rs type="person" ref="#rudolf_ii">uns</rs>
+<lb/>verschoben / und ain anderer den Dinstag nach Pauli<!-- Datum Sachanmerkung -->
+        
+<lb/>
+                    <pb facs="#f00006" n="A3v"/>Bekhehrung / <hi rend="antiqua">Anno</hi> Ain tausent Sechshundert und
+<lb/>Neun angestellet / und mit unsern <hi rend="antiqua">mandatis</hi> / auff das
+<lb/>
+                    <rs type="place" ref="#prag_burg">Prager Schlos</rs> ausgeschrieben worden / haben <w>obbe
+<pc>-</pc>
+                        <lb/>melte</w> <hi rend="antiqua">sub utraq<am>;</am>
+                        <ex>ue</ex>
+                    </hi> Stende abermals die vorige <hi rend="antiqua">
+                        <w>Confes
+<pc>-</pc>
+                            <lb/>sion</w>
+                    </hi> / und wie sie sich unterainander verglichen / uns
+<lb/>ubergeben / und nicht unterlassen / bey uns als ihrem
+<lb/>
+                    <rs type="person" ref="#rudolf_ii">Khönig und Herrn</rs> / nicht allein durch untertheniges
+<lb/>und demüttiges flehen und bieten / sondern auch durch
+<lb/>für:<!--Abkürzung?--> und angegebenen <hi rend="antiqua">intercession</hi> und vorbiet zu <hi rend="antiqua">
+                        <w>solli
+<pc>-</pc>
+                            <lb/>citiren</w>
+                    </hi> und anhalten / das wir geruheten / solches der
+<lb/>Stende <hi rend="antiqua">sub utraq<am>;</am>
+                        <ex>ue</ex>
+                    </hi> / als unser lieben getrewen / bietten
+<lb/>und ansuchen / gnedigist zubewilligen.</p>
+<p>
+                    <lb/>Als <rs type="person" ref="#rudolf_ii">Wir</rs> nun dis / mit Unsern Obristen <w>Landt
+<pc>-</pc>
+                        <lb/>
+                        <hi rend="antiqua">Officirern</hi>
+                    </w> und andern Räthen dieses <rs type="place" ref="#boehmen_koenigreich">Khönigreichs
+<lb/>Behaimb</rs> / in embsiges erwegen gezogen / haben wir
+<lb/>für guet angesehen / auf unterthenig demüttiges <w>biet
+<pc>-</pc>
+                        <lb/>ten</w> und begehren / deren von Herrn und <w>Ritterstan
+<pc>-</pc>
+                        <lb/>des</w> / der <rs type="place" ref="#prag">Präger</rs> und andern abgesandten der Städt /
+<lb/>alle drey Stendt <hi rend="antiqua">sub vtraq<am>;</am>
+                        <ex>ue</ex>
+                    </hi> dieses <rs type="place" ref="#boehmen_koenigreich">Khönigreichs <w>Be
+<pc>-</pc>
+                            <lb/>haimb</w>
+                    </rs> / so sich zu der bemelten <hi rend="antiqua">Confession</hi> bekennen /
+<lb/>Unserer lieben getrewen Unterthanen / allen dreyen
+<lb/>Stenden ingemein des <rs type="place" ref="#boehmen_koenigreich">Khönigreichs Behaimb</rs> / <w>ai
+<pc>-</pc>
+                        <lb/>nen</w> gemeinen Landtag / aufm Montag nach dem
+<lb/>Sontag <hi rend="antiqua">Rogationum</hi> <!-- Datum Sachanmerkung --> / in der Creutzwochen / dieses
+<lb/>Ain tausent Sechshundert und Neunten Jahres /
+        
+<lb/>
+                    <pb facs="#f00007" n="A4r"/>durch unsere Khönigliche <hi rend="antiqua">Mandat</hi> auszuschreiben / auf
+<lb/>das <rs type="place" ref="#prag_burg">Prager Schlos</rs> zuverlegen / und in <hi rend="antiqua">publicirten
+<lb/>mandatis</hi> / auch mit anzuhefften / das wir bey diesem
+<lb/>Landtage / die schlüsliche Erörtterung des Articuls von
+<lb/>der Religion / in der Landtags <hi rend="antiqua">proposition</hi> einbringen.
+<lb/>Item / wie auch alle und jede / so wol unter beyder / als
+<lb/>ainicherley / und die sich zu der uns ubergebenen
+<lb/>
+                    <hi rend="antiqua">Confession</hi> bekennen / ihre Religion / ohne allerley
+<lb/>bedreng und verhindernis / es sey von Geistlichen oder
+<lb/>Weltlichen Personen / frey uben und fortpflantzen
+<lb/>möchten / genugsamb versichern und versehen wollen.
+<lb/>Wie solches unsere <hi rend="antiqua">Mandata</hi> / deren datum aufm <rs type="place" ref="#prag_burg">
+                        <w>Pra
+<pc>-</pc>
+                            <lb/>ger</w> Schlos</rs> / Sonnabendts nach dem Sontag <hi rend="antiqua">Iubi
+<lb rend="trennstrich"/>late</hi><!-- Datum Sachanmerkung --> / dieses Aintausent Sechshundert und Neunten
+<lb/>Jahres / in bemeltem Articul weitters besagen / zu
+<lb/>welchem allgemeinen von uns ausgeschriebenen <w>Land
+<pc>-</pc>
+                        <lb/>tage</w> / weil sich alle drey Stendt gehorsambist und <w>un
+<pc>-</pc>
+                        <lb/>terthenigist</w> haben eingestellet / und wir auch laut <w>un
+<pc>-</pc>
+                        <lb/>sers</w> gnedigen vorsprechen an bemelten <hi rend="antiqua">mandat</hi> / den
+<lb/>Artickel von der Religion / in der Landtags <hi rend="antiqua">
+                        <w>proposi
+<pc>-</pc>
+                            <lb/>tion</w>
+                    </hi> zuförderist fürbringen lassen / haben offtgemelte
+<lb/>drey Stendt <hi rend="antiqua">sub utraq<am>;</am>
+                        <ex>ue</ex>
+                    </hi> einhellig / Ihr voriges <w>bege
+<pc>-</pc>
+                        <lb/>hren</w> und bietten / durch uns ubergebene Schrifft / wi
+<lb rend="trennstrich"/>der vorneuert / umb genugsam versicherung / und bey
+<lb/>der Landtaffel bestettigung / desselben unterthenigist
+<lb/>gebetten.</p>
+                
+<p>
+                    <lb/>
+                    <pb facs="#f00008" n="A4v"/>Dieweil <rs type="person" ref="#rudolf_ii">uns</rs> dan nichts liebers ist / als das in <w>un
+<pc>-</pc>
+                        <lb/>serm</w> <rs type="place" ref="#boehmen_koenigreich">Königreich</rs> / unter allen dreyen Stenden / so wol
+<lb/>ainer als beyderley / allen unsern lieben getrewen <w>Un
+<pc>-</pc>
+                        <lb/>terhanen</w> / nutz und zu ewigen zeitten standthafftige
+<lb/>lieb und ainigkeit / friedt und vertröglikheit / zu <w>auf
+<pc>-</pc>
+                        <lb/>nehmen</w> / und erhaltung gemeinen bestes gepflantzet /
+<lb/>ain jedes theil / bey der Religion / bey welcher sie ihrer
+<lb/>Seelen Seeligkheit versichert zusein / vestiglich <w>glau
+<pc>-</pc>
+                        <lb/>ben</w> frey willig / unverhindert und unbetrengt / neben
+<lb/>dem andern möge verbleiben und gelassen werden / <w>da
+<pc>-</pc>
+                        <lb/>mit</w> also wie billich dem <hi rend="antiqua">Anno</hi> Eintausent <w>Sechshun
+<pc>-</pc>
+                        <lb/>dert</w> und Acht geschehenen Landtages beschlüs / und
+<lb/>dem neulich <hi rend="antiqua">publicirten Mandat</hi> (in welchem wir die
+<lb/>vereinigte Stende / so sich zu gemelter <hi rend="antiqua">Confession</hi> <w>be
+<pc>-</pc>
+                        <lb/>kennen</w> / für die so sie allezeit gewesen / nemlich für <w>unse
+<pc>-</pc>
+                        <lb/>re</w> trewe und gehorsambe Unterthanen / unter unseren
+<lb/>gnedigen schutz/allerley Ordnungen /Recht / <w>Gerech
+<pc>-</pc>
+                        <lb/>tigkeiten</w> / und Freyheiten dises <rs type="place" ref="#boehmen_koenigreich">Khönigreichs</rs> <w>erstre
+<pc>-</pc>
+                        <lb/>cket</w> / erkennet / und gehalten gemes und gehörig / auff
+<lb/>welche sich unsere Khönigliche Pflicht / Recht und
+<lb/>Landts Ordnung erstrecket / erkennet und gehalten /
+<lb/>auch gegenwertig erkennen und halten) folge und eine
+<lb/>genüge beschehe/ in anseh: und betrachtung der obbe
+<lb rend="trennstrich"/>rürten stattlichen <hi rend="antiqua">intercessionen</hi> und fürbietten / und
+<lb/>dan auch auf vielerley embsiges anhalten und bietten
+
+<lb/>
+                    <pb facs="#f00009" n="B1r"/>ihrer selbst/ der Stende <hi rend="antiqua">sub utraq<am>;</am>
+                        <ex>ue</ex>
+                    </hi> / neben der trewe
+<lb/>und nützlichen dienst / so sie uns die gantze zeit unsers
+<lb/>glückseligen Regiment uber sie mit der That erzeiget
+<lb/>und bewiesen haben.</p>
+<p>
+                    <lb/>Aus diesen allen und andern vielen ursachen / mit
+<lb/>reiffen Rath bedacht / <rs type="person" ref="#rudolf_ii">unseren</rs> gutten wiessen / <w>Khöni
+<pc>-</pc>
+                        <lb/>glicher</w> Behmischer macht / und mit Rath unserer
+<lb/>Obristen <hi rend="antiqua">Officirer</hi> / Landt Recht beysetzer und <w>Rät
+<pc>-</pc>
+                        <lb/>hen</w> / haben wir den Articul die Religion betreffendt /
+<lb/>mit allen dreyen Stenden dieses <rs type="place" ref="#boehmen_koenigreich">Khönigreichs <w>Be
+<pc>-</pc>
+                            <lb/>haimb</w>
+                    </rs> / bey gegenwerttigem Landtage / so aufm <rs type="place" ref="#prag_burg">Prager
+<lb/>Schloß</rs> gehalten wirdt erötet / und also entlich <w>be
+<pc>-</pc>
+                        <lb/>schlossen</w> / wie die Stende <hi rend="antiqua">sub utraq<am>;</am>
+                        <ex>ue</ex>
+                    </hi> mit volgendem
+<lb/>unserem Maiestet oder Khöniglichen Brieffe <w>versi
+<pc>-</pc>
+                        <lb/>chert</w> haben und versichern.</p>
+</div>
+<div>
+<p>
+                    <lb/>Vors Erste / Wie es vor hin bey der Landtaffel lit:
+<lb/>A 32.<!--Auflösen?--> bestettiget ist / was die Religion / unter ainer und
+<lb/>beyderley gestalt belangt / das sie ainander nicht <w>be
+<pc>-</pc>
+                        <lb/>trengen</w> / sondern für ainen Man beyainander stehen /
+<lb/>als treue freunde / und ain theil die ander nicht schmehen
+<lb/>solle / das soll also bey diesem Articul gentzlich <w>verblei
+<pc>-</pc>
+                        <lb/>ben</w> / und sollen hiemit beyde Theil / wie jetzo / also auch
+<lb/>künfftig / ainander verbunden sein / bey deren Peen
+<lb/>hiervon in der Landtsordnung begrieffen ist. Und
+<lb/>dieweiln die unter ainerley / in diesem <rs type="place" ref="#boehmen_koenigreich">Khönigreich</rs> / <w>ih
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="#f00010" n="B1v"/>rer</w> <hi rend="antiqua">Religion</hi> ain frey und ungehindertes <hi rend="antiqua">exercitium</hi> <w>ha
+<pc>-</pc>
+                        <lb/>ben</w> / in welchem ihnen die unter beyderley / so sich zu
+<lb/>der <hi rend="antiqua">Confession</hi> bekennen / keinen eintrag thuen / oder
+<lb/>ordnung geben / das hierinnen aine gleichheit möge
+<lb/>gehalten werden / derowegen verwilligen <rs type="person" ref="#rudolf_ii">wir</rs> und geben
+<lb/>inen Recht und Macht darzu / das obgemelte <w>verei
+<pc>-</pc>
+                        <lb/>nigte</w> Stende <hi rend="antiqua">sub utraq<am>;</am>
+                        <ex>ue</ex>
+                    </hi> / Herrn und von Adel / <w>Pra
+<pc>-</pc>
+                        <lb/>ger</w> / Berg und andere Städte / sambt ihren <w>Untertha
+<pc>-</pc>
+                        <lb/>nen</w> / in summa / alle die sich zu der Behemischen <hi rend="antiqua">Con
+<lb rend="trennstrich"/>fession</hi> / welche Löblicher und Seeliger gedechtnüs /
+<lb/>weilandt <rs type="person" ref="#maximilian_ii">Kayser Maximilian</rs> / unserm liebsten Herrn
+<lb/>und Vattern / auf allgemeinem Landtag <hi rend="antiqua">Anno</hi> <w>Ain
+<pc>-</pc>
+                        <lb/>tausent</w> Fünfhundert Fünff und Sietbentzig / und jetz
+<lb/>auffs neue / auch uns ubergeben worden (bey <w>wel
+<pc>-</pc>
+                        <lb/>cher</w> wir sie allergenedigist zuschützen versprochen) <w>be
+<pc>-</pc>
+                        <lb/>kendt</w> haben/ und nach bekennen/ kainen <w>ausgenom
+<pc>-</pc>
+                        <lb/>ben</w> / das sie nemlich ihre Christliche Religion <hi rend="antiqua">sub
+<lb/>utraq<am>;</am>
+                        <ex>ue</ex>
+                    </hi> laut deren <hi rend="antiqua">Confession</hi> / und unterainander <w>aufge
+<pc>-</pc>
+                        <lb/>richter</w> verainigung und vergleichung /frey und <w>unge
+<pc>-</pc>
+                        <lb/>hindert</w> / aller orthen uben und vorbringen / bey ihren
+<lb/>Glauben und Religion  Priesterschafft und <w>Kirchen
+<pc>-</pc>
+                        <lb/>ordnung</w> / welche bey ihnen ist / oder aufgericht werden
+<lb/>wirdt / fridlich mögen gelassen werden / biß zu <w>gentzli
+<pc>-</pc>
+                        <lb/>cher</w> Christlichen einhelligen vergleichung / wegen
+<lb/>der Religion / im <rs type="place" ref="#heiliges_roemisches_reich">Heiligen Reich</rs> / und also sollen sie
+
+<lb/>
+                    <pb facs="#f00011" n="B2r"/>weder jetzt / nach khünfftige zeit nicht schuldig sein / sich
+<lb/>nach den <hi rend="antiqua">Compactatis</hi> / welche auf allgemeinem <w>Land
+<pc>-</pc>
+                        <lb/>tage</w> / <hi rend="antiqua">Anno</hi> Ain tausent Fünfhundert Sieben und
+<lb/>Sechtzigisten / in den Landt <hi rend="antiqua">privilegijs</hi> / und anderstwo
+<lb/>ausgelassen / zu <hi rend="antiqua">reguliren</hi>.</p>
+<p>
+                    <lb/>Ferner wollen <rs type="person" ref="#rudolf_ii">wir</rs> in folgenden / den Stenden <hi rend="antiqua">sub</hi>
+<lb/>
+                    <hi rend="antiqua">utraq<am>;</am>
+                        <ex>ue</ex>
+                    </hi> auch diese sondere gnad thuen / und allen dreyen
+<lb/>Stenden / so sich zu dieser <hi rend="antiqua">Confession</hi> bekennen / das
+<lb/>unter <rs type="place" ref="#prag">Pragerisch</rs> <hi rend="antiqua">Consistorium</hi> / in ihre Macht und
+<lb/>verwaltung widerumb ainantwortten / und <w>verwilli
+<pc>-</pc>
+                        <lb/>gen</w> gnedigist darzu / das die verainigten Stende <hi rend="antiqua">sub</hi>
+<lb/>
+                    <hi rend="antiqua">utraq<am>;</am>
+                        <ex>ue</ex>
+                    </hi>/solch <hi rend="antiqua">Consistorium</hi> / mit ihrer Priesterschafft /
+<lb/>nach der <hi rend="antiqua">Confession</hi> / und ihrer hierinne vergleichung
+<lb/>
+                    <hi rend="antiqua">reformiren</hi> und verneuern / Ihre <hi rend="antiqua">Predicanten</hi> / so wol
+<lb/>Teutsch und Behmisch alda <hi rend="antiqua">ordiniren</hi> lassen / oder <w>wel
+<pc>-</pc>
+                        <lb/>che</w> allbereith <hi rend="antiqua">ordiniret</hi> worden / von dannen ohne <w>aini
+<pc>-</pc>
+                        <lb/>ge</w> verhinderung des <rs type="person" ref="#lamberg_karl">Pragerischen Ertzbischoffes</rs> / oder
+<lb/>aber jemandts andern / auf ihre <hi rend="antiqua">Collaturen</hi> nehmen /
+<lb/>und dieselben damit besetzen mögen. Nichts weniger <w>ge
+<pc>-</pc>
+                        <lb/>ben</w> wir auch gnedigist in die gewalt der Stende (wie
+<lb/>sie jnen dan von Alters hero zugestanden) die <w>Prage
+<pc>-</pc>
+                        <lb/>risch</w> <hi rend="antiqua">Academi</hi> / mit allen zugehörungen / dieselb mit
+<lb/>Tauglichen und Gelehrten Männern zubesetzen / <w>gut
+<pc>-</pc>
+                        <lb/>te</w> und löbliche Ordnung und gebreuche <w>auffzubrin
+<pc>-</pc>
+                        <lb/>gen</w> / und vber beyde als das <hi rend="antiqua">Consistorium</hi> und <hi rend="antiqua">
+                        <w>Acade
+
+<pc>-</pc>
+                            <lb/>
+                            <pb facs="#f00012" n="B2v"/>mi</w>
+                    </hi> / gwiesse und Tüchtige Personen / zu <hi rend="antiqua">Defensorn</hi> und 
+<lb/>beschützern anzuordnen / und bestellen mögen.</p>
+<p>
+                    <lb/>Unter dessen aber / und ehe dis alles gebürlichen
+<lb/>ins werckh gerichtet werde / sollen nicht weniger alle
+<lb/>Stende <hi rend="antiqua">sub utraq<am>,</am>
+                        <ex>ue</ex>
+                    </hi> bey obgeschriebenen / als nemblich
+<lb/>das sie ihre <hi rend="antiqua">Religion</hi> ohne betrengnis und <w>verhinder
+<pc>-</pc>
+                        <lb/>nis</w> möchten fort uben / volkommenlich gelassen <w>wer
+<pc>-</pc>
+                        <lb/>den</w> / und wievil Personen die verainigten Stende
+<lb/>
+                    <hi rend="antiqua">sub utraq<am>,</am>
+                        <ex>ue</ex>
+                    </hi> ihres mittels zu <hi rend="antiqua">Defensorn</hi> ubergemelt ihr
+<lb/>
+                    <hi rend="antiqua">Consistorium</hi> und <hi rend="antiqua">Academia</hi> / nach ihrer einhelligen <w>ver
+<pc>-</pc>
+                        <lb/>gleichung</w> / aus allen dreyen Stenden in gleicher <w>an
+<pc>-</pc>
+                        <lb/>zahl</w> verordnen / und dieselben uns / als ihrem <rs type="person" ref="#rudolf_ii">Khönig</rs>
+<lb/>und Herrn ubergeben werden. Dieselben uns alle
+<lb/>namhafft gemachte und ubergebene Personen / keinen
+<lb/>hievon ausgelassen / wollen und sollen wir innerhalb
+<lb/>zweyer Wachen / von dato der uns ubergebenen <w>ver
+<pc>-</pc>
+                        <lb/>zeichnüs</w> / darzu zubestetigen / und sie für <hi rend="antiqua">Defensores</hi> <w>er
+<pc>-</pc>
+                        <lb/>kleren</w> / doch uber der Stende ihnen gegebene Pflicht
+<lb/>und <hi rend="antiqua">Instruction</hi>, in keine andere <hi rend="antiqua">Instruction</hi> nach pflicht
+<lb/>sie zuziehen. Da wir aber anderer verhinderungen
+<lb/>wegen in obbemelter zeit dieselben nicht bestettigen <w>kün
+<pc>-</pc>
+                        <lb/>ten</w> oder würden / so sollen sie dach aines weges als des
+<lb/>andern / uber beydes <hi rend="antiqua">Defensores</hi> verbleiben / alles das
+<lb/>thuen und verrichten / als wan sie von uns <hi rend="antiqua">Confirmi
+<lb rend="trennstrich"/>ret</hi> und bestettigt wehren /und do auch ainer aus ihnen
+
+<lb/>
+                    <pb facs="#f00013" n="B3r"/>stierbe / werden die Stende <hi rend="antiqua">sub utraq<am>,</am>
+                        <ex>ue</ex>
+                    </hi> an stadt <w>dessel
+<pc>-</pc>
+                        <lb/>ben</w> / bey nechst darauf folgendem Landtag / ainen <w>an
+<pc>-</pc>
+                        <lb/>dern</w> zu denen nach ubrigen im leben verbleibenen /
+<lb/>wehlen und zugeben künnen. Welches also in khünfftig
+<lb/>alzeit abbeschriebener gestaldt / wie von uns / unsern <w>Er
+<pc>-</pc>
+                        <lb/>ben</w> und khünfftigen Khönigen zu <rs type="place" ref="#boehmen_koenigreich">Behaimb</rs> / also auch
+<lb/>von ihnen den Stenden und den <hi rend="antiqua">Defensorn observirt</hi>
+<lb/>und gehalten werden solle.</p>
+<p>
+                    <lb/>Wenn auch jemandts aus den verainigten allen
+<lb/>Dreyen Stenden <hi rend="antiqua">sub utraq<am>,</am>
+                        <ex>ue</ex>
+                    </hi> dieses <rs type="place" ref="#boehmen_koenigreich">Khönigreichs</rs> /
+<lb/>ausser den Kirchen und Gottesheusern / welche sie <w>je
+<pc>-</pc>
+                        <lb/>tzundt</w> halten / und ihnen vorhin zustendig (bey <w>wel
+<pc>-</pc>
+                        <lb/>chen</w> Sie auch friedtlich geschützt und erhalten <w>wer
+<pc>-</pc>
+                        <lb/>den</w> sollen) jrgendt in Städten / Städtlin und <w>Dör
+<pc>-</pc>
+                        <lb/>ffern</w> /oder anders wo wolten / oder solten / mehr <w>Kir
+<pc>-</pc>
+                        <lb/>chen</w> / Gottsheuser oder Schulen / zu unterweiß und
+<lb/>aufferziehung der Jugendt / aufrichten und bawen
+<lb/>lassen / dasselbe soll gleich wie den Herrn und <w>Ritter
+<pc>-</pc>
+                        <lb/>standt</w> / also auch den Pragern / Berg: und andern
+<lb/>Städten ingemein / und ainen jeden insonderheit / an
+<lb/>jetzo und in khünfftig zuthun von meniglichem <w>unge
+<pc>-</pc>
+                        <lb/>hindert</w> / frey und offen stehen. Wie dan auch ohn dis
+<lb/>in viehlen <rs type="person" ref="#rudolf_ii">unsern</rs> Khöniglichen und auch der <w>Khöni
+<pc>-</pc>
+                        <lb/>gin</w><!--Tag?--> Städten dieses <rs type="place" ref="#boehmen_koenigreich">Khönigreichs</rs> / nicht wenig <hi rend="antiqua">sub
+<lb/>una</hi> und <hi rend="antiqua">sub utraq<am>;</am>
+                        <ex>ue</ex>
+                    </hi> unterainander wohnen. <w>Derent
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="#f00014" n="B3v"/>wegen</w> ist dis unserer sonderer will und bevelich / das zu
+<lb/>erhaltung lieb und ainigkeit / ain Parth der andern in
+<lb/>ubung ihren <hi rend="antiqua">Religion</hi> und Kirchen Ordnung / nicht
+<lb/>aingreiffen oder fürschreiben. Die begrebnüs <w>Töd
+<pc>-</pc>
+                        <lb/>ter</w> Leichnamb in Kirchen / und auf Kirchhöffen / wie
+<lb/>auch das Leutten / nicht abschlagen und verbietten.
+<lb/>und also von heuttiges tages dato an / keiner/ wie
+<lb/>aus den Herrn und freyen Stendten / also auch den
+<lb/>Städten / Städtlein und Bawres Volckh / weder
+<lb/>von ihrer Obrigkheit / nach von ainem andern / <w>Geist
+<pc>-</pc>
+                        <lb/>lichen</w> oder Weltlichen Standes Personen / von seiner
+<lb/>
+                    <hi rend="antiqua">Religion</hi> abgetrungen / und also zu ainer andern / es
+<lb/>sey durch gewaldt oder listige erdachte findtlein <w>ge
+<pc>-</pc>
+                        <lb/>zwungen</w> und abgeführet werden solle. Und ist also dis
+<lb/>alles auf nichts anders / als zu erhaltung lieb und <w>ei
+<pc>-</pc>
+                        <lb/>nigkeit</w> / treulich gemaindt und angeordnet.</p>
+<p>
+                    <lb/>Derowegen versprechen <rs type="person" ref="#rudolf_ii">wir</rs> bey unsern <w>Khünig
+<pc>-</pc>
+                        <lb/>lichen</w> wortten / das alle drey vereinigte Stende / so
+<lb/>sich zu den Behemischen <hi rend="antiqua">Confession</hi> bekennen / sambt
+<lb/>ihren nachkommenden / bey allem obgesetzten / von uns
+<lb/>unseren Erben und khünfftigen Khönigen in <rs type="place" ref="#boehmen_koenigreich">
+                        <w>Be
+<pc>-</pc>
+                            <lb/>haimb</w>
+                    </rs> / gantz und volkömblich / ohne verwirrung <w>sol
+<pc>-</pc>
+                        <lb/>len</w> gelassen / erhalten und geschützet werden. <w>Inma
+<pc>-</pc>
+                        <lb/>sen</w> wir sie dan in dem Religions friedt / des <rs type="place" ref="#heiliges_roemisches_reich">hayligen
+<lb/>Reichs</rs> / als ein vornembes gliedt desselben / <w>gen
+
+<pc>-</pc>
+                        <lb/>
+                        <pb facs="#f00015" n="B4r"/>tzlich</w> mit einschliessen / soll auch ihnen hierinnen in
+<lb/>khünfftig / weder von uns / unsern Erben und <w>khünffti
+<pc>-</pc>
+                        <lb/>gen</w> Khönigen in <rs type="place" ref="#boehmen_koenigreich">Behaimb</rs> / nach von andern Geist:
+<lb/>oder Weltlichen Personen / zu khünfftigen und <w>ewi
+<pc>-</pc>
+                        <lb/>gen</w> zeitten / ainige verhinderung oder eintrag nicht
+<lb/>geschehen / nach verstattet werden. Wieder solchem <w>ob
+<pc>-</pc>
+                        <lb/>gedachtem</w> aufgerichtem Landtsfried / und den <w>Sten
+<pc>-</pc>
+                        <lb/>den</w> <hi rend="antiqua">sub utraq<am>;</am>
+                        <ex>ue</ex>
+                    </hi> von uns widerfahrnen versicherung / <w>wöl
+<choice>
+                            <orig/>
+                            <reg>
+                                <pc>-</pc>
+                            </reg>
+                        </choice>
+                        <lb/>len</w> wir nicht das aintzige befehlich / oder etwas <w>der
+<pc>-</pc>
+                        <lb/>gleichen</w> / welchie die gewenigste verhinderung / oder
+<lb/>ainige verenderung / dessen verursachen möchten / von
+<lb/>uns / unsern Erben und khünfftigen Khönigen in <rs type="place" ref="#boehmen_koenigreich">
+                        <w>Be
+<pc>-</pc>
+                            <lb/>haimb</w>
+                    </rs> / oder jemandt anders / ausgehen oder <w>ange
+<pc>-</pc>
+                        <lb/>nomben</w> werden sollen.</p>
+<p>
+                    <lb/>Und im fahl dergleichen etwas ausginge / oder von
+<lb/>jemanden angenomben würde / soll es doch unkrefftig
+<lb/>sein / und auf den fahl weder mit recht / nach one recht
+<lb/>etwas geurtheilet / oder ausgesprochen werden: Wie
+<lb/>wir dan auch derowegen alle andere bevehliche und
+<lb/>
+                    <hi rend="antiqua">Mandata</hi> / so vor diesem wieder die Stendt <hi rend="antiqua">sub utraq<am>;</am>
+                        <ex>ue</ex>
+                    </hi>/
+<lb/>so sich zu bemelter <hi rend="antiqua">Confession</hi> bekennen / von was immer
+<lb/>orthen ausgegangen sein / in gegenwerttigkeit <w>aufhe
+<pc>-</pc>
+                        <lb/>ben</w> / vernicht Todt und aber kennen und halten / das
+<lb/>also alles / was die Stende ain jetzo und zuvor / bey
+<lb/>bestettigung dieses Articuls begehret/ sambt allen
+
+<lb/>
+                    <pb facs="#f00016" n="B4v"/>dem was entzwischen vorgeläufen weder jetzo nach in
+<lb/>khünfftig / zu einigen nachtheil oder abbruch des <w>ehr
+<pc>-</pc>
+                        <lb/>lichen</w> Leimudts / oder ander beschwerung und <w>ansto
+<pc>-</pc>
+                        <lb/>sen</w> / allen dreyen Stenden ingemein und insonderheit /
+<lb/>von <rs type="person" ref="#rudolf_ii">uns</rs> / unsern Erben / und khünfftigen Khönigen in
+<lb/>
+                    <rs type="place" ref="#boehmen_koenigreich">Behaimb</rs> nicht gerechnet / oder bemelten Stenden
+<lb/>ubel angetzogen und ausgedeuttet werden soll / und
+<lb/>dis zu khünfftig und ewigen zeitten.</p>
+<p>
+                    <lb/>Befehlen hiermit allen <rs type="person" ref="#rudolf_ii">unsern</rs> Obristen <hi rend="antiqua">Officiren</hi>/
+<lb/>Landt Rechts beysitzeren / und Räthen / auch allen
+<lb/>Stenden und Inwohnern dieses <rs type="place" ref="#boehmen_koenigreich">Khönigreichs</rs> / so
+<lb/>an jetzo und khünfftig sein werden / unsern lieben <w>ge
+<pc>-</pc>
+                        <lb/>trewen</w> / das ihr gemelten Herrn / Ritterschafft / <w>Prä
+<pc>-</pc>
+                        <lb/>ger</w> / Berg: und andern Stedten / alle drey Stende
+<lb/>dieses <rs type="place" ref="#boehmen_koenigreich">Khönigreichs</rs> / sambt allen ihren Unterthanen /
+<lb/>in Summa alle die <hi rend="antiqua">sub utraq<am>;</am>
+                        <ex>ue</ex>
+                    </hi> / welche sich zu dieser
+<lb/>Behmischen <hi rend="antiqua">Confession</hi> bekennen / bey dieser unserer
+<lb/>versicherung und Maiestadt / wie dieselbe in allen
+<lb/>Articuln / Sententzen und Clauseln lautet / vertrettet
+<lb/>und schützet / selbst ihnen hierinnen ainigen aintrag
+<lb/>nicht thuet / viel weniger andern zuthuen nicht <w>ver
+<pc>-</pc>
+                        <lb/>stattet</w> / und dis bey vermeidung unsers zorns und <w>un
+<pc>-</pc>
+                        <lb/>genad</w>. Und wollen uber dies / da jemandts sey von
+<lb/>Geistlichen oder Weltlichen Personen / diese <w>Maie
+<pc>-</pc>
+                        <lb/>stat</w> zuubertretten sich unterstünde / so erkhennen wir
+
+<lb/>
+                    <pb facs="#f00017" n="C1r"/>sich schuldig / sambt unsern Erben und zukhünfftigen
+<lb/>Khönigen in <rs type="place" ref="#boehmen_koenigreich">Behaimb</rs> / wie auch den Stenden <w>die
+<pc>-</pc>
+                        <lb/>ses</w> <rs type="place" ref="#boehmen_koenigreich">Khönigreichs</rs> / zu ainem jeden derselben / als zu <w>ai
+<pc>-</pc>
+                        <lb/>nem</w> verhinderer / und zerstörer des gemeinen fridens /
+<lb/>zugreiffen. Die Stende hergegen / bey dem ihrigen
+<lb/>schüetzen und vertheidigen / wie solches in der <w>Landts
+<pc>-</pc>
+                        <lb/>ordnung</w> der Articul / von beschützung des <w>Landes
+<pc>-</pc>
+                        <lb/>guter</w> / Ordnung und Rechten desselben / klerlich <w>aus
+<pc>-</pc>
+                        <lb/>weisset</w>.</p>
+<p>
+                    <lb/>Entlich befehlen <rs type="person" ref="#rudolf_ii">Wir</rs> den grössern und mindern
+<lb/>
+                    <hi rend="antiqua">Officiren</hi> / bey der Landtaffel dieses <rs type="place" ref="#boehmen_koenigreich">Khönigreichs
+<lb/>Behaimb</rs> / das sie zukhünfftigen gedechtnüs / diesen
+<lb/>Brieff und Maiestat / in der Landtags <hi rend="antiqua">Relation</hi>/
+<lb/>welche bey diesem Landtage / von allen dreyen <w>Sten
+<pc>-</pc>
+                        <lb/>den</w> dieses <rs type="place" ref="#boehmen_koenigreich">Khönigreichs</rs> / bey der Landtaffel geschehen
+<lb/>würdt /in die Landtaffel mit einleiben / und hernach
+<lb/>dies <hi rend="antiqua">Original</hi> zu andern Freyheitten und Landts
+<lb/>
+                    <hi rend="antiqua">Privilegien</hi>/ auffm <rs type="place" ref="#karlstein">Carlstein</rs> legen / und verwahren
+<lb/>lassen. Dessen zu Urkhundt haben Wier Unser
+<lb/>Kayserlich Insigel / an diesem Brieff und <w>Maie
+<pc>-</pc>
+                        <lb/>stadt</w> anzuhengen bevohlen. Geben auff Unserm
+<lb/>
+                    <rs type="place" ref="#prag_burg">Khüniglichen Schlos</rs> <rs type="place" ref="#prag">Prag</rs> / am Donnerstag
+<lb/>nach <hi rend="antiqua">S<am>.</am>
+                        <ex>anct</ex> Procopii<note type="annotation">Der 09. Juli 1609.</note>/ Anno</hi> / im Ein tausent / <w>Sechshun
+<pc>-</pc>
+                        <lb/>dert</w> und Neunten. Unserer <rs type="place" ref="#heiliges_roemisches_reich">Reiche des Römischen</rs>
+
+<lb/>
+                    <pb facs="#f00018" n="C1v"/>im Vier und Dreyssigisten / des <rs type="place" ref="#ungarn_koenigreich">Hungerischen</rs> im
+<lb/>Sieben und Dreyssigisten / und des <rs type="place" ref="#boehmen_koenigreich">Behemischen</rs>
+<lb/>auch im Vier und Dreyssigisten.
+<lb/>
+                    <rs type="person" ref="#rudolf_ii">Rudolff</rs>.</p>
+                <lb/>
+<p>
+                    <lb/>
+                    <hi rend="antiqua">
+                        <rs type="person" ref="#sternberg_adam">Adamus de Sternbergk</rs>,
+<lb/>Supremus Burggravius
+<lb/>
+                        <rs type="place" ref="#prag">Pragensis</rs>
+                    </hi>
+                </p>
+                <lb/>
+<p>
+                    <lb/>
+                    <hi rend="antiqua">Ad mandatum Sacrae Caes:<!--Abkürzung?-->
+<lb/>Majestatis proprium.</hi>
+                </p>
+                <lb/>
+<p>
+                    <lb/>
+                    <hi rend="antiqua">
+                        <rs type="person" ref="#michna_paul">Paulus Michna</rs>
+                    </hi>
+</p>      
+                <!--<pb/>Emblem-->
+                
+                
+        </div>
+</body>
+        <back/>
+</text>
+</tei:TEI>

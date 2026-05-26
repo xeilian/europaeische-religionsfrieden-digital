@@ -1,0 +1,923 @@
+<?xml-model href="../../../customization/schema_quellentexte/religionsfrieden-quellentexte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pa000008-0236">
+   <teiHeader>      
+      <fileDesc>         
+         <titleStmt>
+            
+            <title level="a">Octroi (<date when="1620-10-21">21. Oktober 1620</date>) - LASH Abt. 7 Nr. 5499 (Abschrift aus dem Jahr 1704)</title>
+            <title level="s">Europäische Religionsfrieden Digital</title>
+            <principal ref="http://d-nb.info/gnd/111186870">Irene Dingel</principal> 
+            <editor role="http://id.loc.gov/vocabulary/relators/edt" ref="http://orcid.org/0000-0002-1509-6960">Thomas Stäcker</editor>
+            <editor role="http://id.loc.gov/vocabulary/relators/edt" ref="https://orcid.org/0000-0002-5429-6367">
+                    <persName>Christopher Voigt-Goy</persName>
+                </editor> 
+            <editor role="http://id.loc.gov/vocabulary/relators/mrk">Kevin Wunsch</editor>           
+            <editor role="http://id.loc.gov/vocabulary/relators/mrk">Kevin Kuck</editor>           
+         </titleStmt>         
+         <editionStmt>
+            <edition>Digitale Edition gemäß <ref target="http://www.tei-c.org/">TEI P5</ref>
+                </edition>
+            <funder>Akademie der Wissenschaften und der Literatur</funder>
+         </editionStmt>         
+         <publicationStmt>
+            <publisher>
+               <orgName ref="http://www.isni.org/0000000119314040">Akademie der Wissenschaften und Literatur Mainz</orgName>
+            </publisher>           
+            <distributor>
+               <orgName ref="http://www.isni.org/0000000110101946">Universitäts- und Landesbibliothek Darmstadt</orgName>
+               <idno type="ISIL">http://lobid.org/organisation/DE-17</idno>
+            </distributor>
+            <date when="2024" type="issued">2024</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p xml:lang="en">This file is licensed under the terms of the Creative Commons License CC-BY 4.0 (Attribution 4.0 International)</p>
+               </licence>
+            </availability>
+         </publicationStmt>        
+         <sourceDesc><!-- bitte ausfüllen; nicht zutreffende Elemente bitte rauslöschen -->
+            <msDesc>
+               <msIdentifier>
+                  <settlement/>                               
+                  <repository/>
+                  <collection/>
+                  <idno>Signatur</idno>
+                  <idno type="urn"/>
+                  <idno type="vd16"/>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title/>
+                     <respStmt>
+                        <resp/>
+                        <persName/>
+                     </respStmt>
+                     <biblStruct><!-- gilt nur für Drucke; rausnehmen, wenn es sich um ein Manuskript handelt! -->
+                        <monogr xml:id="vorlage">
+                           <imprint>
+                              <pubPlace/>
+                              <publisher>
+                                 <persName/>
+                              </publisher>
+                              <date/>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                  </msItem>
+               </msContents>
+               <history><!-- bei Manuskript, falls Datum und/oder Ort bekannt sind; andernfalls rauslöschen! -->
+                  <origin>
+                     <date>1620</date>
+                     <placeName>Gottorp</placeName>
+                  </origin>
+               </history>
+            </msDesc>    
+         </sourceDesc>
+      </fileDesc>      
+      <encodingDesc>         
+         <projectDesc>
+            <p>
+               <ref target="http://www.eured.de">Europäische Religionsfrieden Digital</ref>
+            </p>
+         </projectDesc>
+         <classDecl>
+            <taxonomy xml:id="marcrelator">
+               <bibl>
+                        <idno type="URI">http://id.loc.gov/vocabulary/relators/</idno> MARC Code List for Relators </bibl>
+            </taxonomy>
+         </classDecl>         
+      </encodingDesc>      
+      <profileDesc>         
+         <langUsage>
+            <language ident="deut">Deutsch</language><!-- Sprache hinzufügen -->
+         </langUsage>         
+      </profileDesc>      
+      <revisionDesc>
+         <change xml:id="ch01" when="2018-01-18">
+                <p>Die Edition ist 2018 von der Herzog August Bibliothek Wolfenbüttel an die Universitäts- und Landesbibliothek Darmstadt umgezogen.</p>
+            </change>
+      </revisionDesc>   
+   </teiHeader>
+   <!--<facsimile>
+      <surface ulx="0" uly="0" lrx="2501" lry="3856" xml:id="facs_1">
+        <!-\- <graphic url="0001_0016_Primaer.jpg" width="2501px" height="3856px"/>-\->
+         <graphic url="https://files.transkribus.eu/Get?id=EIWBAEKARDQIUGSFASNFXSSX&amp;fileType=view" width="2501px" height="3856px"/>
+         <zone points="107,91 2474,91 2474,3729 107,3729" rendition="TextRegion" xml:id="facs_1_tr_1">
+            <zone points="685,0 2276,0 2276,465 685,465" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+            <zone points="583,423 2439,423 2439,652 583,652" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+            <zone points="598,499 2449,499 2449,736 598,736" rendition="Line" xml:id="facs_1_tr_1_tl_10"/>
+            <zone points="568,628 2422,628 2422,798 568,798" rendition="Line" xml:id="facs_1_tr_1_tl_11"/>
+            <zone points="516,736 2375,736 2375,939 516,939" rendition="Line" xml:id="facs_1_tr_1_tl_13"/>
+            <zone points="502,833 2353,833 2353,991 502,991" rendition="Line" xml:id="facs_1_tr_1_tl_14"/>
+            <zone points="507,907 2409,907 2409,1097 507,1097" rendition="Line" xml:id="facs_1_tr_1_tl_15"/>
+            <zone points="492,1003 2447,1003 2447,1181 492,1181" rendition="Line" xml:id="facs_1_tr_1_tl_16"/>
+            <zone points="497,1097 2419,1097 2419,1268 497,1268" rendition="Line" xml:id="facs_1_tr_1_tl_17"/>
+            <zone points="494,1189 2437,1189 2437,1364 494,1364" rendition="Line" xml:id="facs_1_tr_1_tl_18"/>
+            <zone points="489,1275 2392,1275 2392,1451 489,1451" rendition="Line" xml:id="facs_1_tr_1_tl_19"/>
+            <zone points="484,1352 2429,1352 2429,1559 484,1559" rendition="Line" xml:id="facs_1_tr_1_tl_20"/>
+            <zone points="497,1463 2432,1463 2432,1636 497,1636" rendition="Line" xml:id="facs_1_tr_1_tl_21"/>
+            <zone points="474,1552 2419,1552 2419,1710 474,1710" rendition="Line" xml:id="facs_1_tr_1_tl_22"/>
+            <zone points="487,1629 2434,1629 2434,1831 487,1831" rendition="Line" xml:id="facs_1_tr_1_tl_23"/>
+            <zone points="489,1710 2407,1710 2407,1886 489,1886" rendition="Line" xml:id="facs_1_tr_1_tl_24"/>
+            <zone points="484,1799 2409,1799 2409,1965 484,1965" rendition="Line" xml:id="facs_1_tr_1_tl_25"/>
+            <zone points="489,1886 2409,1886 2409,2096 489,2096" rendition="Line" xml:id="facs_1_tr_1_tl_26"/>
+            <zone points="497,1975 2447,1975 2447,2170 497,2170" rendition="Line" xml:id="facs_1_tr_1_tl_27"/>
+            <zone points="484,2078 2400,2078 2400,2291 484,2291" rendition="Line" xml:id="facs_1_tr_1_tl_28"/>
+            <zone points="484,2172 2454,2172 2454,2377 484,2377" rendition="Line" xml:id="facs_1_tr_1_tl_29"/>
+            <zone points="497,2261 2432,2261 2432,2464 497,2464" rendition="Line" xml:id="facs_1_tr_1_tl_30"/>
+            <zone points="484,2367 2405,2367 2405,2548 484,2548" rendition="Line" xml:id="facs_1_tr_1_tl_31"/>
+            <zone points="497,2466 2380,2466 2380,2659 497,2659" rendition="Line" xml:id="facs_1_tr_1_tl_32"/>
+            <zone points="482,2523 2474,2523 2474,2773 482,2773" rendition="Line" xml:id="facs_1_tr_1_tl_33"/>
+            <zone points="497,2657 2427,2657 2427,2849 497,2849" rendition="Line" xml:id="facs_1_tr_1_tl_34"/>
+            <zone points="497,2748 2442,2748 2442,2946 497,2946" rendition="Line" xml:id="facs_1_tr_1_tl_35"/>
+            <zone points="504,2835 2466,2835 2466,3042 504,3042" rendition="Line" xml:id="facs_1_tr_1_tl_36"/>
+            <zone points="497,2936 2451,2936 2451,3141 497,3141" rendition="Line" xml:id="facs_1_tr_1_tl_37"/>
+            <zone points="499,3025 2390,3025 2390,3247 499,3247" rendition="Line" xml:id="facs_1_tr_1_tl_38"/>
+            <zone points="628,3134 2444,3134 2444,3341 628,3341" rendition="Line" xml:id="facs_1_tr_1_tl_39"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2501" lry="3856" xml:id="facs_2">
+         <!-\-<graphic url="0002_0017_Primaer.jpg" width="2501px" height="3856px"/>-\->
+         <graphic url="https://files.transkribus.eu/Get?id=WXWEEMCIBCXGYTTJPKQLMYUX&amp;fileType=view" width="2501px" height="3856px"/>
+         <zone points="432,378 2456,378 2456,3304 432,3304" rendition="TextRegion" xml:id="facs_2_tr_1">
+            <zone points="461,265 2384,265 2384,509 461,509" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
+            <zone points="479,433 2399,433 2399,630 479,630" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
+            <zone points="459,539 2399,539 2399,723 459,723" rendition="Line" xml:id="facs_2_tr_1_tl_3"/>
+            <zone points="454,645 2422,645 2422,819 454,819" rendition="Line" xml:id="facs_2_tr_1_tl_4"/>
+            <zone points="449,748 2328,748 2328,932 449,932" rendition="Line" xml:id="facs_2_tr_1_tl_5"/>
+            <zone points="486,867 2444,867 2444,1048 486,1048" rendition="Line" xml:id="facs_2_tr_1_tl_6"/>
+            <zone points="466,970 2437,970 2437,1099 466,1099" rendition="Line" xml:id="facs_2_tr_1_tl_7"/>
+            <zone points="471,1071 2391,1071 2391,1227 471,1227" rendition="Line" xml:id="facs_2_tr_1_tl_8"/>
+            <zone points="471,1174 2391,1174 2391,1343 471,1343" rendition="Line" xml:id="facs_2_tr_1_tl_9"/>
+            <zone points="466,1257 2399,1257 2399,1434 466,1434" rendition="Line" xml:id="facs_2_tr_1_tl_10"/>
+            <zone points="464,1368 2389,1368 2389,1532 464,1532" rendition="Line" xml:id="facs_2_tr_1_tl_11"/>
+            <zone points="454,1477 2434,1477 2434,1651 454,1651" rendition="Line" xml:id="facs_2_tr_1_tl_12"/>
+            <zone points="446,1580 2427,1580 2427,1751 446,1751" rendition="Line" xml:id="facs_2_tr_1_tl_13"/>
+            <zone points="451,1678 2397,1678 2397,1835 451,1835" rendition="Line" xml:id="facs_2_tr_1_tl_14"/>
+            <zone points="451,1774 2391,1774 2391,1915 451,1915" rendition="Line" xml:id="facs_2_tr_1_tl_15"/>
+            <zone points="451,1867 2354,1867 2354,2026 451,2026" rendition="Line" xml:id="facs_2_tr_1_tl_16"/>
+            <zone points="449,1968 2437,1968 2437,2132 449,2132" rendition="Line" xml:id="facs_2_tr_1_tl_17"/>
+            <zone points="451,2054 2434,2054 2434,2223 451,2223" rendition="Line" xml:id="facs_2_tr_1_tl_18"/>
+            <zone points="436,2167 2434,2167 2434,2316 436,2316" rendition="Line" xml:id="facs_2_tr_1_tl_19"/>
+            <zone points="423,2250 2437,2250 2437,2432 423,2432" rendition="Line" xml:id="facs_2_tr_1_tl_20"/>
+            <zone points="431,2349 2427,2349 2427,2523 431,2523" rendition="Line" xml:id="facs_2_tr_1_tl_21"/>
+            <zone points="426,2444 2434,2444 2434,2626 426,2626" rendition="Line" xml:id="facs_2_tr_1_tl_22"/>
+            <zone points="438,2545 2442,2545 2442,2719 438,2719" rendition="Line" xml:id="facs_2_tr_1_tl_23"/>
+            <zone points="428,2654 2359,2654 2359,2807 428,2807" rendition="Line" xml:id="facs_2_tr_1_tl_24"/>
+            <zone points="451,2749 2452,2749 2452,2913 451,2913" rendition="Line" xml:id="facs_2_tr_1_tl_25"/>
+            <zone points="428,2843 2432,2843 2432,3021 428,3021" rendition="Line" xml:id="facs_2_tr_1_tl_26"/>
+            <zone points="428,2943 2371,2943 2371,3122 428,3122" rendition="Line" xml:id="facs_2_tr_1_tl_27"/>
+            <zone points="418,3044 2412,3044 2412,3246 418,3246" rendition="Line" xml:id="facs_2_tr_1_tl_28"/>
+            <zone points="418,3145 2447,3145 2447,3344 418,3344" rendition="Line" xml:id="facs_2_tr_1_tl_29"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2501" lry="3856" xml:id="facs_3">
+         <!-\- <graphic url="0003_0018_Primaer.jpg" width="2501px" height="3856px"/> -\->
+         <graphic url="https://files.transkribus.eu/Get?id=LZUKPQZMRIRBNYXIZUZQQMEG&amp;fileType=view" width="2501px" height="3856px"/>
+         <zone points="155,115 2450,115 2450,3720 155,3720" rendition="TextRegion" xml:id="facs_3_tr_1">
+            <zone points="571,187 2353,187 2353,432 571,432" rendition="Line" xml:id="facs_3_tr_1_tl_4"/>
+            <zone points="544,326 2439,326 2439,535 544,535" rendition="Line" xml:id="facs_3_tr_1_tl_5"/>
+            <zone points="538,452 2420,452 2420,627 538,627" rendition="Line" xml:id="facs_3_tr_1_tl_6"/>
+            <zone points="521,549 2397,549 2397,722 521,722" rendition="Line" xml:id="facs_3_tr_1_tl_7"/>
+            <zone points="368,661 2397,661 2397,892 368,892" rendition="Line" xml:id="facs_3_tr_1_tl_8"/>
+            <zone points="516,758 2433,758 2433,953 516,953" rendition="Line" xml:id="facs_3_tr_1_tl_9"/>
+            <zone points="471,853 2408,853 2408,1068 471,1068" rendition="Line" xml:id="facs_3_tr_1_tl_10"/>
+            <zone points="493,953 2361,953 2361,1115 493,1115" rendition="Line" xml:id="facs_3_tr_1_tl_11"/>
+            <zone points="482,1048 2336,1048 2336,1232 482,1232" rendition="Line" xml:id="facs_3_tr_1_tl_12"/>
+            <zone points="502,1146 2364,1146 2364,1324 502,1324" rendition="Line" xml:id="facs_3_tr_1_tl_13"/>
+            <zone points="493,1252 2277,1252 2277,1427 493,1427" rendition="Line" xml:id="facs_3_tr_1_tl_14"/>
+            <zone points="496,1332 2394,1332 2394,1522 496,1522" rendition="Line" xml:id="facs_3_tr_1_tl_15"/>
+            <zone points="488,1461 2364,1461 2364,1628 488,1628" rendition="Line" xml:id="facs_3_tr_1_tl_16"/>
+            <zone points="488,1550 2417,1550 2417,1737 488,1737" rendition="Line" xml:id="facs_3_tr_1_tl_17"/>
+            <zone points="488,1647 2425,1647 2425,1843 488,1843" rendition="Line" xml:id="facs_3_tr_1_tl_18"/>
+            <zone points="482,1751 2342,1751 2342,1940 482,1940" rendition="Line" xml:id="facs_3_tr_1_tl_19"/>
+            <zone points="479,1859 2375,1859 2375,2057 479,2057" rendition="Line" xml:id="facs_3_tr_1_tl_20"/>
+            <zone points="485,1960 2425,1960 2425,2141 485,2141" rendition="Line" xml:id="facs_3_tr_1_tl_21"/>
+            <zone points="474,2068 2425,2068 2425,2252 474,2252" rendition="Line" xml:id="facs_3_tr_1_tl_22"/>
+            <zone points="479,2166 2433,2166 2433,2358 479,2358" rendition="Line" xml:id="facs_3_tr_1_tl_23"/>
+            <zone points="474,2258 2442,2258 2442,2453 474,2453" rendition="Line" xml:id="facs_3_tr_1_tl_24"/>
+            <zone points="485,2367 2436,2367 2436,2553 485,2553" rendition="Line" xml:id="facs_3_tr_1_tl_25"/>
+            <zone points="482,2475 2447,2475 2447,2643 482,2643" rendition="Line" xml:id="facs_3_tr_1_tl_26"/>
+            <zone points="463,2573 2403,2573 2403,2754 463,2754" rendition="Line" xml:id="facs_3_tr_1_tl_27"/>
+            <zone points="460,2676 2425,2676 2425,2882 460,2882" rendition="Line" xml:id="facs_3_tr_1_tl_28"/>
+            <zone points="479,2788 2344,2788 2344,2974 479,2974" rendition="Line" xml:id="facs_3_tr_1_tl_29"/>
+            <zone points="477,2871 2378,2871 2378,3080 477,3080" rendition="Line" xml:id="facs_3_tr_1_tl_30"/>
+            <zone points="468,3010 2394,3010 2394,3183 468,3183" rendition="Line" xml:id="facs_3_tr_1_tl_31"/>
+            <zone points="477,3102 2375,3102 2375,3298 477,3298" rendition="Line" xml:id="facs_3_tr_1_tl_32"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2501" lry="3856" xml:id="facs_4">
+         <!-\-<graphic url="0004_0019_Primaer.jpg" width="2501px" height="3856px"/>-\->
+         <graphic url="https://files.transkribus.eu/Get?id=QRKNQLDKZUMZCAJTORKEHVHF&amp;fileType=view" width="2501px" height="3856px"/>
+         <zone points="429,291 2462,291 2462,3288 429,3288" rendition="TextRegion" xml:id="facs_4_tr_1">
+            <zone points="496,196 2438,196 2438,412 496,412" rendition="Line" xml:id="facs_4_tr_1_tl_1"/>
+            <zone points="484,362 2435,362 2435,529 484,529" rendition="Line" xml:id="facs_4_tr_1_tl_2"/>
+            <zone points="484,447 2428,447 2428,623 484,623" rendition="Line" xml:id="facs_4_tr_1_tl_3"/>
+            <zone points="479,556 2455,556 2455,730 479,730" rendition="Line" xml:id="facs_4_tr_1_tl_4"/>
+            <zone points="469,670 2450,670 2450,837 469,837" rendition="Line" xml:id="facs_4_tr_1_tl_5"/>
+            <zone points="472,762 2423,762 2423,943 472,943" rendition="Line" xml:id="facs_4_tr_1_tl_6"/>
+            <zone points="484,866 2448,866 2448,1023 484,1023" rendition="Line" xml:id="facs_4_tr_1_tl_7"/>
+            <zone points="467,966 2393,966 2393,1130 467,1130" rendition="Line" xml:id="facs_4_tr_1_tl_8"/>
+            <zone points="484,1065 2443,1065 2443,1187 484,1187" rendition="Line" xml:id="facs_4_tr_1_tl_9"/>
+            <zone points="479,1164 2401,1164 2401,1308 479,1308" rendition="Line" xml:id="facs_4_tr_1_tl_10"/>
+            <zone points="434,1254 2425,1254 2425,1408 434,1408" rendition="Line" xml:id="facs_4_tr_1_tl_11"/>
+            <zone points="469,1343 2453,1343 2453,1522 469,1522" rendition="Line" xml:id="facs_4_tr_1_tl_12"/>
+            <zone points="464,1445 2438,1445 2438,1621 464,1621" rendition="Line" xml:id="facs_4_tr_1_tl_13"/>
+            <zone points="469,1544 2406,1544 2406,1730 469,1730" rendition="Line" xml:id="facs_4_tr_1_tl_14"/>
+            <zone points="482,1651 2443,1651 2443,1800 482,1800" rendition="Line" xml:id="facs_4_tr_1_tl_15"/>
+            <zone points="472,1745 2411,1745 2411,1909 472,1909" rendition="Line" xml:id="facs_4_tr_1_tl_16"/>
+            <zone points="472,1844 2425,1844 2425,1988 472,1988" rendition="Line" xml:id="facs_4_tr_1_tl_17"/>
+            <zone points="464,1931 2418,1931 2418,2108 464,2108" rendition="Line" xml:id="facs_4_tr_1_tl_18"/>
+            <zone points="464,2028 2425,2028 2425,2182 464,2182" rendition="Line" xml:id="facs_4_tr_1_tl_19"/>
+            <zone points="464,2130 2428,2130 2428,2306 464,2306" rendition="Line" xml:id="facs_4_tr_1_tl_20"/>
+            <zone points="454,2237 2413,2237 2413,2396 454,2396" rendition="Line" xml:id="facs_4_tr_1_tl_21"/>
+            <zone points="469,2336 2311,2336 2311,2507 469,2507" rendition="Line" xml:id="facs_4_tr_1_tl_22"/>
+            <zone points="457,2448 2366,2448 2366,2609 457,2609" rendition="Line" xml:id="facs_4_tr_1_tl_23"/>
+            <zone points="434,2537 2326,2537 2326,2726 434,2726" rendition="Line" xml:id="facs_4_tr_1_tl_24"/>
+            <zone points="457,2644 2406,2644 2406,2823 457,2823" rendition="Line" xml:id="facs_4_tr_1_tl_25"/>
+            <zone points="449,2748 2408,2748 2408,2887 449,2887" rendition="Line" xml:id="facs_4_tr_1_tl_26"/>
+            <zone points="444,2855 2408,2855 2408,3016 444,3016" rendition="Line" xml:id="facs_4_tr_1_tl_27"/>
+            <zone points="415,2947 2376,2947 2376,3113 415,3113" rendition="Line" xml:id="facs_4_tr_1_tl_28"/>
+            <zone points="434,3046 2418,3046 2418,3210 434,3210" rendition="Line" xml:id="facs_4_tr_1_tl_29"/>
+            <zone points="439,3148 2356,3148 2356,3329 439,3329" rendition="Line" xml:id="facs_4_tr_1_tl_30"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2501" lry="3856" xml:id="facs_5">
+         <!-\-<graphic url="0005_0020_Primaer.jpg" width="2501px" height="3856px"/>-\->
+         <graphic url="https://files.transkribus.eu/Get?id=RGOVEFYRBFRQJIYUIEMFJJAM&amp;fileType=view" width="2501px" height="3856px"/>
+         <zone points="196,127 2441,127 2441,3199 196,3199" rendition="TextRegion" xml:id="facs_5_tr_1">
+            <zone points="587,263 2404,263 2404,486 587,486" rendition="Line" xml:id="facs_5_tr_1_tl_9"/>
+            <zone points="554,392 2434,392 2434,587 554,587" rendition="Line" xml:id="facs_5_tr_1_tl_10"/>
+            <zone points="546,521 2436,521 2436,683 546,683" rendition="Line" xml:id="facs_5_tr_1_tl_11"/>
+            <zone points="541,620 2365,620 2365,787 541,787" rendition="Line" xml:id="facs_5_tr_1_tl_12"/>
+            <zone points="598,716 2395,716 2395,881 598,881" rendition="Line" xml:id="facs_5_tr_1_tl_13"/>
+            <zone points="527,823 2398,823 2398,982 527,982" rendition="Line" xml:id="facs_5_tr_1_tl_14"/>
+            <zone points="502,914 2404,914 2404,1078 502,1078" rendition="Line" xml:id="facs_5_tr_1_tl_15"/>
+            <zone points="499,1001 2398,1001 2398,1194 499,1194" rendition="Line" xml:id="facs_5_tr_1_tl_16"/>
+            <zone points="513,1100 2371,1100 2371,1273 513,1273" rendition="Line" xml:id="facs_5_tr_1_tl_17"/>
+            <zone points="505,1202 2404,1202 2404,1322 505,1322" rendition="Line" xml:id="facs_5_tr_1_tl_18"/>
+            <zone points="502,1301 2373,1301 2373,1476 502,1476" rendition="Line" xml:id="facs_5_tr_1_tl_19"/>
+            <zone points="508,1399 2398,1399 2398,1523 508,1523" rendition="Line" xml:id="facs_5_tr_1_tl_20"/>
+            <zone points="499,1501 2379,1501 2379,1668 499,1668" rendition="Line" xml:id="facs_5_tr_1_tl_21"/>
+            <zone points="494,1600 2340,1600 2340,1767 494,1767" rendition="Line" xml:id="facs_5_tr_1_tl_22"/>
+            <zone points="483,1682 2387,1682 2387,1844 483,1844" rendition="Line" xml:id="facs_5_tr_1_tl_23"/>
+            <zone points="486,1794 2340,1794 2340,1943 486,1943" rendition="Line" xml:id="facs_5_tr_1_tl_24"/>
+            <zone points="483,1885 2428,1885 2428,2033 483,2033" rendition="Line" xml:id="facs_5_tr_1_tl_25"/>
+            <zone points="483,1967 2313,1967 2313,2113 483,2113" rendition="Line" xml:id="facs_5_tr_1_tl_26"/>
+            <zone points="464,2028 2401,2028 2401,2239 464,2239" rendition="Line" xml:id="facs_5_tr_1_tl_27"/>
+            <zone points="458,2159 2393,2159 2393,2310 458,2310" rendition="Line" xml:id="facs_5_tr_1_tl_28"/>
+            <zone points="469,2247 2362,2247 2362,2406 469,2406" rendition="Line" xml:id="facs_5_tr_1_tl_29"/>
+            <zone points="469,2340 2420,2340 2420,2508 469,2508" rendition="Line" xml:id="facs_5_tr_1_tl_30"/>
+            <zone points="461,2431 2360,2431 2360,2598 461,2598" rendition="Line" xml:id="facs_5_tr_1_tl_31"/>
+            <zone points="455,2522 2390,2522 2390,2686 455,2686" rendition="Line" xml:id="facs_5_tr_1_tl_32"/>
+            <zone points="458,2626 2425,2626 2425,2801 458,2801" rendition="Line" xml:id="facs_5_tr_1_tl_33"/>
+            <zone points="444,2738 2357,2738 2357,2914 444,2914" rendition="Line" xml:id="facs_5_tr_1_tl_34"/>
+            <zone points="464,2843 1959,2843 1959,3024 464,3024" rendition="Line" xml:id="facs_5_tr_1_tl_35"/>
+            <zone points="1045,2928 2431,2928 2431,3114 1045,3114" rendition="Line" xml:id="facs_5_tr_1_tl_36"/>
+            <zone points="447,3026 2401,3026 2401,3251 447,3251" rendition="Line" xml:id="facs_5_tr_1_tl_37"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2501" lry="3856" xml:id="facs_6">
+         <!-\-<graphic url="0006_0021_Primaer.jpg" width="2501px" height="3856px"/>-\->
+         <graphic url="https://files.transkribus.eu/Get?id=TQSUMAZAUYNIYCIXOPIRIEUY&amp;fileType=view" width="2501px" height="3856px"/>
+         <zone points="390,332 2462,332 2462,3203 390,3203" rendition="TextRegion" xml:id="facs_6_tr_1">
+            <zone points="456,225 2444,225 2444,472 456,472" rendition="Line" xml:id="facs_6_tr_1_tl_1"/>
+            <zone points="469,391 2384,391 2384,562 469,562" rendition="Line" xml:id="facs_6_tr_1_tl_2"/>
+            <zone points="464,498 2412,498 2412,676 464,676" rendition="Line" xml:id="facs_6_line_1729593492431_278"/>
+            <zone points="469,606 2405,606 2405,780 469,780" rendition="Line" xml:id="facs_6_tr_1_tl_7"/>
+            <zone points="464,715 2431,715 2431,897 464,897" rendition="Line" xml:id="facs_6_tr_1_tl_8"/>
+            <zone points="430,827 2379,827 2379,998 430,998" rendition="Line" xml:id="facs_6_tr_1_tl_9"/>
+            <zone points="464,925 2379,925 2379,1101 464,1101" rendition="Line" xml:id="facs_6_tr_1_tl_10"/>
+            <zone points="443,1005 2425,1005 2425,1218 443,1218" rendition="Line" xml:id="facs_6_tr_1_tl_11"/>
+            <zone points="456,1138 2389,1138 2389,1311 456,1311" rendition="Line" xml:id="facs_6_tr_1_tl_12"/>
+            <zone points="469,1233 2449,1233 2449,1399 469,1399" rendition="Line" xml:id="facs_6_tr_1_tl_13"/>
+            <zone points="451,1334 2353,1334 2353,1495 451,1495" rendition="Line" xml:id="facs_6_tr_1_tl_14"/>
+            <zone points="453,1433 2438,1433 2438,1601 453,1601" rendition="Line" xml:id="facs_6_tr_1_tl_15"/>
+            <zone points="441,1539 2407,1539 2407,1702 441,1702" rendition="Line" xml:id="facs_6_tr_1_tl_16"/>
+            <zone points="456,1632 2423,1632 2423,1806 456,1806" rendition="Line" xml:id="facs_6_tr_1_tl_17"/>
+            <zone points="438,1736 2423,1736 2423,1897 438,1897" rendition="Line" xml:id="facs_6_tr_1_tl_18"/>
+            <zone points="430,1824 2389,1824 2389,2000 430,2000" rendition="Line" xml:id="facs_6_tr_1_tl_19"/>
+            <zone points="451,1925 2314,1925 2314,2102 451,2102" rendition="Line" xml:id="facs_6_tr_1_tl_20"/>
+            <zone points="469,2024 2444,2024 2444,2208 469,2208" rendition="Line" xml:id="facs_6_tr_1_tl_21"/>
+            <zone points="448,2133 2446,2133 2446,2332 448,2332" rendition="Line" xml:id="facs_6_tr_1_tl_22"/>
+            <zone points="453,2231 2431,2231 2431,2397 453,2397" rendition="Line" xml:id="facs_6_tr_1_tl_23"/>
+            <zone points="404,2337 2402,2337 2402,2506 404,2506" rendition="Line" xml:id="facs_6_tr_1_tl_24"/>
+            <zone points="435,2441 2444,2441 2444,2602 435,2602" rendition="Line" xml:id="facs_6_tr_1_tl_25"/>
+            <zone points="376,2532 2457,2532 2457,2747 376,2747" rendition="Line" xml:id="facs_6_tr_1_tl_26"/>
+            <zone points="433,2635 2451,2635 2451,2809 433,2809" rendition="Line" xml:id="facs_6_tr_1_tl_27"/>
+            <zone points="453,2744 2298,2744 2298,2918 453,2918" rendition="Line" xml:id="facs_6_tr_1_tl_28"/>
+            <zone points="425,2850 2446,2850 2446,3047 425,3047" rendition="Line" xml:id="facs_6_tr_1_tl_29"/>
+            <zone points="430,2959 2457,2959 2457,3143 430,3143" rendition="Line" xml:id="facs_6_tr_1_tl_30"/>
+            <zone points="415,3068 2420,3068 2420,3249 415,3249" rendition="Line" xml:id="facs_6_tr_1_tl_31"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2501" lry="3856" xml:id="facs_7">
+         <!-\-<graphic url="0007_0022_Primaer.jpg" width="2501px" height="3856px"/>-\->
+         <graphic url="https://files.transkribus.eu/Get?id=RUGXQTRENXHTQCAPPYKHVTSG&amp;fileType=view" width="2501px" height="3856px"/>
+         <zone points="217,165 2462,165 2462,3246 217,3246" rendition="TextRegion" xml:id="facs_7_tr_1">
+            <zone points="590,220 2427,220 2427,478 590,478" rendition="Line" xml:id="facs_7_tr_1_tl_4"/>
+            <zone points="590,380 2298,380 2298,556 590,556" rendition="Line" xml:id="facs_7_tr_1_tl_5"/>
+            <zone points="488,496 2372,496 2372,661 488,661" rendition="Line" xml:id="facs_7_tr_1_tl_6"/>
+            <zone points="546,598 2443,598 2443,758 546,758" rendition="Line" xml:id="facs_7_tr_1_tl_7"/>
+            <zone points="296,695 2403,695 2403,897 296,897" rendition="Line" xml:id="facs_7_tr_1_tl_8"/>
+            <zone points="559,805 2306,805 2306,992 559,992" rendition="Line" xml:id="facs_7_tr_1_tl_9"/>
+            <zone points="540,887 2437,887 2437,1073 540,1073" rendition="Line" xml:id="facs_7_tr_1_tl_10"/>
+            <zone points="527,989 2435,989 2435,1183 527,1183" rendition="Line" xml:id="facs_7_tr_1_tl_11"/>
+            <zone points="538,1094 2440,1094 2440,1286 538,1286" rendition="Line" xml:id="facs_7_tr_1_tl_12"/>
+            <zone points="543,1199 2380,1199 2380,1356 543,1356" rendition="Line" xml:id="facs_7_tr_1_tl_13"/>
+            <zone points="538,1296 2354,1296 2354,1435 538,1435" rendition="Line" xml:id="facs_7_tr_1_tl_14"/>
+            <zone points="517,1388 2435,1388 2435,1561 517,1561" rendition="Line" xml:id="facs_7_tr_1_tl_15"/>
+            <zone points="520,1490 2424,1490 2424,1666 520,1666" rendition="Line" xml:id="facs_7_tr_1_tl_16"/>
+            <zone points="514,1598 2440,1598 2440,1792 514,1792" rendition="Line" xml:id="facs_7_tr_1_tl_17"/>
+            <zone points="512,1700 2427,1700 2427,1873 512,1873" rendition="Line" xml:id="facs_7_tr_1_tl_18"/>
+            <zone points="514,1800 2380,1800 2380,1986 514,1986" rendition="Line" xml:id="facs_7_tr_1_tl_19"/>
+            <zone points="506,1907 2354,1907 2354,2104 506,2104" rendition="Line" xml:id="facs_7_tr_1_tl_20"/>
+            <zone points="485,1997 2435,1997 2435,2188 485,2188" rendition="Line" xml:id="facs_7_tr_1_tl_21"/>
+            <zone points="496,2107 2451,2107 2451,2280 496,2280" rendition="Line" xml:id="facs_7_tr_1_tl_22"/>
+            <zone points="480,2217 2458,2217 2458,2377 480,2377" rendition="Line" xml:id="facs_7_tr_1_tl_23"/>
+            <zone points="493,2322 2377,2322 2377,2474 493,2474" rendition="Line" xml:id="facs_7_tr_1_tl_24"/>
+            <zone points="496,2409 2385,2409 2385,2577 496,2577" rendition="Line" xml:id="facs_7_tr_1_tl_25"/>
+            <zone points="485,2503 2448,2503 2448,2689 485,2689" rendition="Line" xml:id="facs_7_tr_1_tl_26"/>
+            <zone points="480,2621 2435,2621 2435,2786 480,2786" rendition="Line" xml:id="facs_7_tr_1_tl_27"/>
+            <zone points="475,2721 2435,2721 2435,2881 475,2881" rendition="Line" xml:id="facs_7_tr_1_tl_28"/>
+            <zone points="485,2818 2453,2818 2453,2981 485,2981" rendition="Line" xml:id="facs_7_line_1729593539807_363"/>
+            <zone points="496,2928 2456,2928 2456,3078 496,3078" rendition="Line" xml:id="facs_7_tr_1_tl_31"/>
+            <zone points="485,3023 2443,3023 2443,3193 485,3193" rendition="Line" xml:id="facs_7_tr_1_tl_32"/>
+            <zone points="485,3125 2437,3125 2437,3306 485,3306" rendition="Line" xml:id="facs_7_tr_1_tl_33"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2501" lry="3856" xml:id="facs_8">
+         <!-\- <graphic url="0008_0023_Primaer.jpg" width="2501px" height="3856px"/>-\->
+         <graphic url="https://files.transkribus.eu/Get?id=HIZXEDYBIJEMCZCVZGBOGAUM&amp;fileType=view" width="2501px" height="3856px"/>
+         <zone points="435,312 2471,312 2471,3294 435,3294" rendition="TextRegion" xml:id="facs_8_tr_1">
+            <zone points="487,209 2445,209 2445,432 487,432" rendition="Line" xml:id="facs_8_tr_1_tl_1"/>
+            <zone points="420,317 2382,317 2382,555 420,555" rendition="Line" xml:id="facs_8_tr_1_tl_2"/>
+            <zone points="455,477 2430,477 2430,668 455,668" rendition="Line" xml:id="facs_8_tr_1_tl_3"/>
+            <zone points="462,585 2447,585 2447,771 462,771" rendition="Line" xml:id="facs_8_tr_1_tl_4"/>
+            <zone points="470,706 2402,706 2402,887 470,887" rendition="Line" xml:id="facs_8_tr_1_tl_5"/>
+            <zone points="462,809 2435,809 2435,1002 462,1002" rendition="Line" xml:id="facs_8_tr_1_tl_6"/>
+            <zone points="442,920 2399,920 2399,1100 442,1100" rendition="Line" xml:id="facs_8_tr_1_tl_7"/>
+            <zone points="452,1028 2384,1028 2384,1201 452,1201" rendition="Line" xml:id="facs_8_tr_1_tl_8"/>
+            <zone points="472,1128 2384,1128 2384,1306 472,1306" rendition="Line" xml:id="facs_8_tr_1_tl_9"/>
+            <zone points="460,1226 2382,1226 2382,1404 460,1404" rendition="Line" xml:id="facs_8_tr_1_tl_10"/>
+            <zone points="447,1344 2397,1344 2397,1520 447,1520" rendition="Line" xml:id="facs_8_tr_1_tl_11"/>
+            <zone points="440,1452 2435,1452 2435,1648 440,1648" rendition="Line" xml:id="facs_8_tr_1_tl_12"/>
+            <zone points="442,1570 2407,1570 2407,1744 442,1744" rendition="Line" xml:id="facs_8_tr_1_tl_13"/>
+            <zone points="457,1676 2417,1676 2417,1852 457,1852" rendition="Line" xml:id="facs_8_tr_1_tl_14"/>
+            <zone points="457,1779 2409,1779 2409,1970 457,1970" rendition="Line" xml:id="facs_8_tr_1_tl_15"/>
+            <zone points="452,1884 2450,1884 2450,2065 452,2065" rendition="Line" xml:id="facs_8_tr_1_tl_16"/>
+            <zone points="455,1990 2404,1990 2404,2193 455,2193" rendition="Line" xml:id="facs_8_tr_1_tl_17"/>
+            <zone points="435,2093 2452,2093 2452,2259 435,2259" rendition="Line" xml:id="facs_8_tr_1_tl_18"/>
+            <zone points="455,2193 2452,2193 2452,2379 455,2379" rendition="Line" xml:id="facs_8_tr_1_tl_19"/>
+            <zone points="450,2304 2460,2304 2460,2462 450,2462" rendition="Line" xml:id="facs_8_tr_1_tl_20"/>
+            <zone points="440,2399 2425,2399 2425,2588 440,2588" rendition="Line" xml:id="facs_8_tr_1_tl_21"/>
+            <zone points="457,2505 2467,2505 2467,2676 457,2676" rendition="Line" xml:id="facs_8_tr_1_tl_22"/>
+            <zone points="442,2595 2437,2595 2437,2764 442,2764" rendition="Line" xml:id="facs_8_tr_1_tl_23"/>
+            <zone points="445,2701 2447,2701 2447,2864 445,2864" rendition="Line" xml:id="facs_8_tr_1_tl_24"/>
+            <zone points="440,2799 2445,2799 2445,2925 440,2925" rendition="Line" xml:id="facs_8_tr_1_tl_25"/>
+            <zone points="432,2884 2445,2884 2445,3020 432,3020" rendition="Line" xml:id="facs_8_tr_1_tl_26"/>
+            <zone points="447,2962 2442,2962 2442,3110 447,3110" rendition="Line" xml:id="facs_8_tr_1_tl_27"/>
+            <zone points="437,3060 2347,3060 2347,3216 437,3216" rendition="Line" xml:id="facs_8_tr_1_tl_28"/>
+            <zone points="432,3151 2435,3151 2435,3352 432,3352" rendition="Line" xml:id="facs_8_tr_1_tl_29"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2501" lry="3856" xml:id="facs_9">
+         <!-\- <graphic url="0009_0024_Primaer.jpg" width="2501px" height="3856px"/>-\->
+         <graphic url="https://files.transkribus.eu/Get?id=BWWHGGKPRZYVXQAHUDUMTGYY&amp;fileType=view" width="2501px" height="3856px"/>
+         <zone points="164,123 2456,123 2456,3269 164,3269" rendition="TextRegion" xml:id="facs_9_tr_1">
+            <zone points="578,179 2406,179 2406,377 578,377" rendition="Line" xml:id="facs_9_tr_1_tl_6"/>
+            <zone points="441,313 2406,313 2406,477 441,477" rendition="Line" xml:id="facs_9_tr_1_tl_7"/>
+            <zone points="519,408 2431,408 2431,555 519,555" rendition="Line" xml:id="facs_9_tr_1_tl_8"/>
+            <zone points="508,494 2423,494 2423,659 508,659" rendition="Line" xml:id="facs_9_tr_1_tl_9"/>
+            <zone points="522,586 2400,586 2400,754 522,754" rendition="Line" xml:id="facs_9_tr_1_tl_11"/>
+            <zone points="310,687 2403,687 2403,860 310,860" rendition="Line" xml:id="facs_9_tr_1_tl_12"/>
+            <zone points="522,773 2409,773 2409,935 522,935" rendition="Line" xml:id="facs_9_tr_1_tl_13"/>
+            <zone points="477,860 2428,860 2428,1016 477,1016" rendition="Line" xml:id="facs_9_tr_1_tl_14"/>
+            <zone points="491,949 2431,949 2431,1075 491,1075" rendition="Line" xml:id="facs_9_tr_1_tl_15"/>
+            <zone points="477,1044 2442,1044 2442,1164 477,1164" rendition="Line" xml:id="facs_9_tr_1_tl_16"/>
+            <zone points="488,1108 2403,1108 2403,1239 488,1239" rendition="Line" xml:id="facs_9_tr_1_tl_17"/>
+            <zone points="500,1189 2403,1189 2403,1329 500,1329" rendition="Line" xml:id="facs_9_tr_1_tl_18"/>
+            <zone points="491,1264 2381,1264 2381,1421 491,1421" rendition="Line" xml:id="facs_9_tr_1_tl_19"/>
+            <zone points="488,1348 2356,1348 2356,1510 488,1510" rendition="Line" xml:id="facs_9_tr_1_tl_20"/>
+            <zone points="486,1437 2389,1437 2389,1577 486,1577" rendition="Line" xml:id="facs_9_tr_1_tl_21"/>
+            <zone points="477,1516 2387,1516 2387,1655 477,1655" rendition="Line" xml:id="facs_9_tr_1_tl_22"/>
+            <zone points="475,1599 2398,1599 2398,1731 475,1731" rendition="Line" xml:id="facs_9_tr_1_tl_23"/>
+            <zone points="480,1680 2389,1680 2389,1831 480,1831" rendition="Line" xml:id="facs_9_tr_1_tl_24"/>
+            <zone points="477,1758 2423,1758 2423,1909 477,1909" rendition="Line" xml:id="facs_9_tr_1_tl_25"/>
+            <zone points="472,1845 2398,1845 2398,1993 472,1993" rendition="Line" xml:id="facs_9_tr_1_tl_26"/>
+            <zone points="480,1926 2428,1926 2428,2077 480,2077" rendition="Line" xml:id="facs_9_tr_1_tl_27"/>
+            <zone points="475,2015 2423,2015 2423,2166 475,2166" rendition="Line" xml:id="facs_9_tr_1_tl_28"/>
+            <zone points="469,2096 2339,2096 2339,2211 469,2211" rendition="Line" xml:id="facs_9_tr_1_tl_29"/>
+            <zone points="469,2186 2387,2186 2387,2333 469,2333" rendition="Line" xml:id="facs_9_tr_1_tl_30"/>
+            <zone points="458,2266 2400,2266 2400,2423 458,2423" rendition="Line" xml:id="facs_9_tr_1_tl_31"/>
+            <zone points="469,2347 2395,2347 2395,2473 469,2473" rendition="Line" xml:id="facs_9_tr_1_tl_32"/>
+            <zone points="469,2426 2426,2426 2426,2574 469,2574" rendition="Line" xml:id="facs_9_tr_1_tl_33"/>
+            <zone points="461,2509 2426,2509 2426,2668 461,2668" rendition="Line" xml:id="facs_9_tr_1_tl_34"/>
+            <zone points="449,2601 2347,2601 2347,2752 449,2752" rendition="Line" xml:id="facs_9_tr_1_tl_35"/>
+            <zone points="455,2674 2442,2674 2442,2833 455,2833" rendition="Line" xml:id="facs_9_tr_1_tl_36"/>
+            <zone points="458,2783 2451,2783 2451,2897 458,2897" rendition="Line" xml:id="facs_9_tr_1_tl_37"/>
+            <zone points="449,2872 2406,2872 2406,3031 449,3031" rendition="Line" xml:id="facs_9_tr_1_tl_38"/>
+            <zone points="458,2964 2403,2964 2403,3143 458,3143" rendition="Line" xml:id="facs_9_tr_1_tl_39"/>
+            <zone points="475,3056 2406,3056 2406,3204 475,3204" rendition="Line" xml:id="facs_9_tr_1_tl_40"/>
+            <zone points="461,3151 2398,3151 2398,3310 461,3310" rendition="Line" xml:id="facs_9_tr_1_tl_41"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2501" lry="3856" xml:id="facs_10">
+         <!-\-<graphic url="0010_0025_Primaer.jpg" width="2501px" height="3856px"/>-\->
+         <graphic url="https://files.transkribus.eu/Get?id=WUKIEHNHQHLUCCJXQBISIKTX&amp;fileType=view" width="2501px" height="3856px"/>
+         <zone points="423,295 2483,295 2483,3283 423,3283" rendition="TextRegion" xml:id="facs_10_tr_1">
+            <zone points="418,198 2360,198 2360,406 418,406" rendition="Line" xml:id="facs_10_tr_1_tl_1"/>
+            <zone points="408,336 2387,336 2387,496 408,496" rendition="Line" xml:id="facs_10_tr_1_tl_2"/>
+            <zone points="428,438 2425,438 2425,579 428,579" rendition="Line" xml:id="facs_10_tr_1_tl_3"/>
+            <zone points="426,511 2417,511 2417,666 426,666" rendition="Line" xml:id="facs_10_tr_1_tl_4"/>
+            <zone points="436,596 2447,596 2447,762 436,762" rendition="Line" xml:id="facs_10_tr_1_tl_5"/>
+            <zone points="461,681 2452,681 2452,859 461,859" rendition="Line" xml:id="facs_10_tr_1_tl_6"/>
+            <zone points="443,759 2437,759 2437,932 443,932" rendition="Line" xml:id="facs_10_tr_1_tl_7"/>
+            <zone points="443,852 2405,852 2405,1025 443,1025" rendition="Line" xml:id="facs_10_tr_1_tl_8"/>
+            <zone points="461,932 2432,932 2432,1102 461,1102" rendition="Line" xml:id="facs_10_tr_1_tl_9"/>
+            <zone points="466,1020 2447,1020 2447,1190 466,1190" rendition="Line" xml:id="facs_10_tr_1_tl_10"/>
+            <zone points="458,1125 2430,1125 2430,1293 458,1293" rendition="Line" xml:id="facs_10_tr_1_tl_11"/>
+            <zone points="436,1202 2450,1202 2450,1358 436,1358" rendition="Line" xml:id="facs_10_tr_1_tl_12"/>
+            <zone points="458,1290 2402,1290 2402,1438 458,1438" rendition="Line" xml:id="facs_10_tr_1_tl_13"/>
+            <zone points="466,1385 2435,1385 2435,1548 466,1548" rendition="Line" xml:id="facs_10_tr_1_tl_14"/>
+            <zone points="443,1470 2372,1470 2372,1663 443,1663" rendition="Line" xml:id="facs_10_tr_1_tl_15"/>
+            <zone points="458,1563 2440,1563 2440,1743 458,1743" rendition="Line" xml:id="facs_10_tr_1_tl_16"/>
+            <zone points="461,1666 2445,1666 2445,1814 461,1814" rendition="Line" xml:id="facs_10_tr_1_tl_17"/>
+            <zone points="473,1751 2455,1751 2455,1944 473,1944" rendition="Line" xml:id="facs_10_tr_1_tl_18"/>
+            <zone points="476,1839 2442,1839 2442,2009 476,2009" rendition="Line" xml:id="facs_10_tr_1_tl_19"/>
+            <zone points="466,1941 2377,1941 2377,2077 466,2077" rendition="Line" xml:id="facs_10_tr_1_tl_20"/>
+            <zone points="468,2039 2440,2039 2440,2194 468,2194" rendition="Line" xml:id="facs_10_tr_1_tl_21"/>
+            <zone points="473,2124 2432,2124 2432,2287 473,2287" rendition="Line" xml:id="facs_10_tr_1_tl_22"/>
+            <zone points="476,2194 2410,2194 2410,2385 476,2385" rendition="Line" xml:id="facs_10_tr_1_tl_23"/>
+            <zone points="478,2292 2320,2292 2320,2455 478,2455" rendition="Line" xml:id="facs_10_tr_1_tl_24"/>
+            <zone points="456,2375 2392,2375 2392,2565 456,2565" rendition="Line" xml:id="facs_10_tr_1_tl_25"/>
+            <zone points="478,2492 2432,2492 2432,2670 478,2670" rendition="Line" xml:id="facs_10_tr_1_tl_26"/>
+            <zone points="468,2563 2477,2563 2477,2766 468,2766" rendition="Line" xml:id="facs_10_tr_1_tl_27"/>
+            <zone points="481,2655 2377,2655 2377,2841 481,2841" rendition="Line" xml:id="facs_10_tr_1_tl_28"/>
+            <zone points="483,2740 2465,2740 2465,2936 483,2936" rendition="Line" xml:id="facs_10_tr_1_tl_29"/>
+            <zone points="478,2848 2452,2848 2452,3036 478,3036" rendition="Line" xml:id="facs_10_tr_1_tl_30"/>
+            <zone points="486,2943 2365,2943 2365,3139 486,3139" rendition="Line" xml:id="facs_10_tr_1_tl_31"/>
+            <zone points="483,3054 2437,3054 2437,3204 483,3204" rendition="Line" xml:id="facs_10_tr_1_tl_32"/>
+            <zone points="488,3151 2415,3151 2415,3339 488,3339" rendition="Line" xml:id="facs_10_tr_1_tl_33"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2501" lry="3856" xml:id="facs_11">
+         <!-\-<graphic url="0011_0026_Primaer.jpg" width="2501px" height="3856px"/>-\->
+         <graphic url="https://files.transkribus.eu/Get?id=NFWTKHMJQIFLUKRBVHVSRWJU&amp;fileType=view" width="2501px" height="3856px"/>
+         <zone points="191,160 2435,160 2435,1866 191,1866" rendition="TextRegion" xml:id="facs_11_tr_1">
+            <zone points="530,201 2435,201 2435,398 530,398" rendition="Line" xml:id="facs_11_tr_1_tl_6"/>
+            <zone points="515,333 2384,333 2384,489 515,489" rendition="Line" xml:id="facs_11_tr_1_tl_9"/>
+            <zone points="503,412 2391,412 2391,561 503,561" rendition="Line" xml:id="facs_11_tr_1_tl_12"/>
+            <zone points="513,513 2430,513 2430,673 513,673" rendition="Line" xml:id="facs_11_tr_1_tl_16"/>
+            <zone points="496,604 2423,604 2423,760 496,760" rendition="Line" xml:id="facs_11_tr_1_tl_18"/>
+            <zone points="491,700 2339,700 2339,867 491,867" rendition="Line" xml:id="facs_11_tr_1_tl_19"/>
+            <zone points="498,793 2310,793 2310,961 498,961" rendition="Line" xml:id="facs_11_tr_1_tl_20"/>
+            <zone points="501,889 2411,889 2411,1038 501,1038" rendition="Line" xml:id="facs_11_tr_1_tl_22"/>
+            <zone points="477,987 2394,987 2394,1155 477,1155" rendition="Line" xml:id="facs_11_tr_1_tl_23"/>
+            <zone points="484,1093 1205,1093 1205,1232 484,1232" rendition="Line" xml:id="facs_11_tr_1_tl_24"/>
+            <zone points="1260,1366 1809,1366 1809,1589 1260,1589" rendition="Line" xml:id="facs_11_tr_1_tl_25"/>
+            <zone points="1440,1596 2200,1596 2200,1773 1440,1773" rendition="Line" xml:id="facs_11_tr_1_tl_26"/>
+            <zone points="1658,1716 2188,1716 2188,1888 1658,1888" rendition="Line" xml:id="facs_11_tr_1_tl_27"/>
+         </zone>
+      </surface>
+   </facsimile>-->
+   <text>
+      <body>
+         <div>
+            <p facs="#facs_1_tr_1">
+                    <pb facs="#facs_1" xml:id="img_0001" n="40r"/>
+               <lb facs="#facs_1_tr_1_tl_8" n="N001"/>Wy, <rs type="person" ref="#friedrich_iii_schleswig_holstein_gottorf">Frederich</rs> van
+               <lb facs="#facs_1_tr_1_tl_9" n="N002"/>Godes Genaden, Erve tot <rs type="place" ref="#norwegen_koenigreich">
+                        <w>Noor<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_10" n="N003"/>wegen</w>
+                    </rs>, Hertoch tot <rs type="place" ref="#schleswig_herzogtum">Sleeswyck</rs>, <rs type="place" ref="#holstein_herzogtum">Holsteyn</rs>,
+               <lb facs="#facs_1_tr_1_tl_11" n="N004"/>
+                    <rs type="place" ref="#stormarn_herzogtum">Stormarn</rs> ende <rs type="place" ref="#dithmarschen_herzogtum">Ditmarschen</rs>, Grave tot
+               <lb facs="#facs_1_tr_1_tl_13" n="N005"/>
+                    <rs type="place" ref="#oldenburg_grafschaft">Oldenborg</rs> ende <rs type="place" ref="#delmenhorst_grafschaft">Delmenhorst</rs>
+                    <note type="crit_app">Korrigiert aus: Delmerhorst.</note> etc. Doen cont
+               <lb facs="#facs_1_tr_1_tl_14" n="N006"/>mits desen: Nademael wy geneyght syn onsere van
+               <lb facs="#facs_1_tr_1_tl_15" n="N007"/>God Almachtich verleenden vorstendome ende Landen
+               <lb facs="#facs_1_tr_1_tl_16" n="N008"/>in wellvaert ende voorspoet te brengen, ende met eerlycken
+               <lb facs="#facs_1_tr_1_tl_17" n="N009"/>middel van handel ende trafyke te vermeerderen. Ende
+               <lb facs="#facs_1_tr_1_tl_18" n="N010"/>ons ettelyke parsoonen van goeden ghelove verscheenen
+               <lb facs="#facs_1_tr_1_tl_19" n="N011"/>syn, te kennen gevende, dat veele remonstrantche <w>par<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_20" n="N012"/>soonen</w> geneycht syn, andere woonsteede te soecken, ende
+               <lb facs="#facs_1_tr_1_tl_21" n="N013"/>haer oock wel onder onsen Furstendome ende ghebiet <w>sou<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_22" n="N014"/>den</w> willen begeeven, om haer huyslyck neder te setten
+               <lb facs="#facs_1_tr_1_tl_23" n="N015"/>ende de vryheyt haerder Religie te beleven, ende hare
+               <lb facs="#facs_1_tr_1_tl_24" n="N016"/>Negotie ende Handelinge te dryven, wanneer deselve
+               <lb facs="#facs_1_tr_1_tl_25" n="N017"/>met behoorlyke ende gherequireerde Privilegien ende
+               <lb facs="#facs_1_tr_1_tl_26" n="N018"/>Vryheeden voorsien ende begonstiget worden. So ist,
+               <lb facs="#facs_1_tr_1_tl_27" n="N019"/>dat <rs type="person" ref="#friedrich_iii_schleswig_holstein_gottorf">Wy</rs> op derselver voorgeven rypelyck ghelet ende <w>hier<pc>-</pc> 
+               <lb facs="#facs_1_tr_1_tl_28" n="N020"/>op</w> ghehoort hebbende het avys van den Luyden van
+               <lb facs="#facs_1_tr_1_tl_29" n="N021"/>onsen Rade, beweegt syn geworden om te consenteeren.
+               <lb facs="#facs_1_tr_1_tl_30" n="N022"/>Consenteeren ende vergunnen mits desen, aen alle <w>soo<pc>-</pc>
+               <lb facs="#facs_1_tr_1_tl_31" n="N023"/>danighe</w>, als hare wooninghe sullen willen nemen,
+               <lb facs="#facs_1_tr_1_tl_32" n="N024"/>om de Vryheyt haerder Goodsdienste te beleven,
+               <lb facs="#facs_1_tr_1_tl_33" n="N025"/>seeker plaetse van Wooninghe aen de Eyderstroom,
+               <lb facs="#facs_1_tr_1_tl_34" n="N026"/>aen ende rontom de drie Sluysen oft nieuwe
+               <lb facs="#facs_1_tr_1_tl_35" n="N027"/>Veer.<note type="annotation">Vgl. die <ref type="einleitung" target="0235#geographische_lage">Einleitung</ref>.</note> Alwaer sy sullen mogen stichten ende
+               <lb facs="#facs_1_tr_1_tl_36" n="N028"/>bouwen een nieuwe stadt ende dryven aldaer
+               <lb facs="#facs_1_tr_1_tl_37" n="N029"/>hare neeringe ende negotie sonder verlet van
+               <lb facs="#facs_1_tr_1_tl_38" n="N030"/>yemanden, onder ende met Conditien ende
+               <lb facs="#facs_1_tr_1_tl_39" n="N031"/>Vryheeden als volcht. </p>
+                <p resp="CVG" xml:id="art_1">1. Eerstelyck sullen
+            
+               <pb facs="#facs_2" xml:id="img_0002" n="40v"/>
+            
+               <lb facs="#facs_2_tr_1_tl_1" n="N001"/>die van de Remonstrantsche ghereformeerde
+               <lb facs="#facs_2_tr_1_tl_2" n="N002"/>Religie de Regieringhe ende t'Gouvernement
+               <lb facs="#facs_2_tr_1_tl_3" n="N003"/>hebben haerder voorschreeven Steede, ende
+               <lb facs="#facs_2_tr_1_tl_4" n="N004"/>daer beneffens de publycke, vrye Exercitie haerder
+               <lb facs="#facs_2_tr_1_tl_5" n="N005"/>Relige, mits dat sy haer daermeede vernoecht
+               <lb facs="#facs_2_tr_1_tl_6" n="N006"/>houden ende in geen ander plaetsen of Steeden
+               <lb facs="#facs_2_tr_1_tl_7" n="N007"/>doen Preedickeen resorteerende onder ons <w>ghe<pc>-</pc>
+               <lb facs="#facs_2_tr_1_tl_8" n="N008"/>biet</w>, haer draegende in alder modestie ende <w>Stil<pc>-</pc>
+               <lb facs="#facs_2_tr_1_tl_9" n="N009"/>licheyt</w> op peene van ons onghenade. <w>Sul<pc>-</pc>
+               <lb facs="#facs_2_tr_1_tl_10" n="N010"/>lende</w> daer beneffens in de selve Stadt oock
+               <lb facs="#facs_2_tr_1_tl_11" n="N011"/>ghedoocht worden Exercitie haerder Religie
+               <lb facs="#facs_2_tr_1_tl_12" n="N012"/>aen de Martinisten<note type="annotation">Vor allem im Niederländisch gebräuchliche Bezeichnung für <q>Lutheraner</q>.</note>.</p>
+            </div>
+            <div type="irrelevant">
+                <p resp="CVG" xml:id="art_2"> 2. Ende op dat de faseen
+               <lb facs="#facs_2_tr_1_tl_13" n="N013"/>der Regieringhe int beginsel ende altyt mogen
+               <lb facs="#facs_2_tr_1_tl_14" n="N014"/>gaen met de minste confusie ende het meeste
+               <lb facs="#facs_2_tr_1_tl_15" n="N015"/>Contentement der Ingeseetene. So willen wy
+               <lb facs="#facs_2_tr_1_tl_16" n="N016"/>tot de meeste dienste der inwoonders, voor de
+               <lb facs="#facs_2_tr_1_tl_17" n="N017"/>eerste male Eligeeren drie van de ghequalificeerste
+               <lb facs="#facs_2_tr_1_tl_18" n="N018"/>ende vroomste parsoonen der eerste aenvangers
+               <lb facs="#facs_2_tr_1_tl_19" n="N019"/>of inwoonders daertoe wy ten eersten aen vangen
+               <lb facs="#facs_2_tr_1_tl_20" n="N020"/>sullen committeeren eenen van onsen Rade, die
+               <lb facs="#facs_2_tr_1_tl_21" n="N021"/>hem sal informieren by Seeven van de Notabilste
+               <lb facs="#facs_2_tr_1_tl_22" n="N022"/>Parsoonen naer syn goetduncken, om van elck
+               <lb facs="#facs_2_tr_1_tl_23" n="N023"/>int bysonder haer avys te hebben, wat drie eerste
+               <lb facs="#facs_2_tr_1_tl_24" n="N024"/>parsoonen men daertoe soude behooren te ver
+               <lb facs="#facs_2_tr_1_tl_25" n="N025"/>waerdigen, naer welcker meeste avys Wy onse
+               <lb facs="#facs_2_tr_1_tl_26" n="N026"/>electie sullen formeeren. Welcke drie 
+               <w>par<pc>-</pc>
+                        <lb facs="#facs_2_tr_1_tl_27" n="N027"/>soonen</w> by ons op maniere voors daertoe
+               <lb facs="#facs_2_tr_1_tl_28" n="N028"/>gheeligeert, sullen moogen tot haer kiesen
+               <lb facs="#facs_2_tr_1_tl_29" n="N029"/>drie andere, ende deselve ses noch drie andere
+
+               <pb facs="#facs_3" xml:id="img_0003" n="41r"/>
+            
+               <lb facs="#facs_3_tr_1_tl_4" n="N001"/>Welcke moogen Raetsparsoonen of 
+               <w>Vroet<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_5" n="N002"/>schappen</w> der Steede noch meer tot haer sullen
+               <lb facs="#facs_3_tr_1_tl_6" n="N003"/>mogen Kiesen so syt goet vinden naer 
+               <w>ghe<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_7" n="N004"/>legentheyt</w> ende meenighte der in woonders.</p>
+                <p resp="CVG" xml:id="art_3">
+               <lb facs="#facs_3_tr_1_tl_8" n="N005"/>3. Welcke voornoemde Raetsparsoonen
+               <lb facs="#facs_3_tr_1_tl_9" n="N006"/>Jaerlyx sullen nomineeren dobbel ghetal van
+               <lb facs="#facs_3_tr_1_tl_10" n="N007"/>Borgermeesteren ende Scheepenen (
+               <w>moetende<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_11" n="N008"/>ten</w> minsten in elck Collegie eenen blyven
+               <lb facs="#facs_3_tr_1_tl_12" n="N009"/>van den voorgaenden Jare) daeraf wy de
+               <lb facs="#facs_3_tr_1_tl_13" n="N010"/>electie sullen hebben.</p>
+            </div>
+            <div>
+                <p resp="CVG" xml:id="art_4"> 4. Ende sullen Wy
+               <lb facs="#facs_3_tr_1_tl_14" n="N011"/>uyt de Nederlantsche Natie stellen eenen
+               <lb facs="#facs_3_tr_1_tl_15" n="N012"/>Stathouder, den welcken neffens <w>Borgemee<pc>-</pc>
+               <lb facs="#facs_3_tr_1_tl_16" n="N013"/>steren</w> in Stats sacken (als oock wanneert
+               <lb facs="#facs_3_tr_1_tl_17" n="N014"/>noodich in Kerckelyke Saken) sal presideeren
+               <lb facs="#facs_3_tr_1_tl_18" n="N015"/>ende by de ghemeente eerlyck worden <w>ghetrac<pc>-</pc>
+               <lb facs="#facs_3_tr_1_tl_19" n="N016"/>teert</w>.</p>
+            </div>
+            <div type="irrelevant">
+                <p resp="CVG" xml:id="art_5"> 5. De ander Officiren sullen by 
+               <w>Stat<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_20" n="N017"/>houder</w> ende Borgemeesteren ghestelt worden.</p>
+                <p resp="CVG" xml:id="art_6">
+               <lb facs="#facs_3_tr_1_tl_21" n="N018"/>6. Van alle vonnissen off Sententien in Civile
+               <lb facs="#facs_3_tr_1_tl_22" n="N019"/>Saken by Scheepenen te wysen sal men moogen
+               <lb facs="#facs_3_tr_1_tl_23" n="N020"/>appelleeren aen Stathouder ende eenighe 
+               <w>Asses<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_24" n="N021"/>sores</w> daer toe te committeeren by ons aen d’een
+               <lb facs="#facs_3_tr_1_tl_25" n="N022"/>Syde ende de Regenten aen d’under Syde, ende
+               <lb facs="#facs_3_tr_1_tl_26" n="N023"/>die haer daerby noch beswaert mochten vinden
+               <lb facs="#facs_3_tr_1_tl_27" n="N024"/>sullen voor de laeste male aen ons mogen
+               <lb facs="#facs_3_tr_1_tl_28" n="N025"/>Appelleeren.</p>
+                <p resp="CVG" xml:id="art_7"> 7. Aengaende de Jurisdictie
+               <lb facs="#facs_3_tr_1_tl_29" n="N026"/>der Stadt hoe wyt sich die sal strecken
+               <lb facs="#facs_3_tr_1_tl_30" n="N027"/>daertoe sullen Wy so balt den Aenvanck
+               <lb facs="#facs_3_tr_1_tl_31" n="N028"/>ghemaeckt wort, of corts daernaer 
+               <w>Commis<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_32" n="N029"/>sarien</w> ordineeren om Oculaire inspectie te
+            
+            <pb facs="#facs_4" xml:id="img_0004" n="41v"/>
+            
+               <lb facs="#facs_4_tr_1_tl_1" n="N001"/>te neemen, hoe wyt men deselve naer alle 
+               <w>doen<pc>-</pc>
+                        <lb facs="#facs_4_tr_1_tl_2" n="N002"/>lyckheyt</w> sal mogen toestaen, waerop Wy ons
+               <lb facs="#facs_4_tr_1_tl_3" n="N003"/>dan genedelyck werden ercleeren, Ende sullen
+               <lb facs="#facs_4_tr_1_tl_4" n="N004"/>alle Crimineele saken binnen den selven bedrive
+               <lb facs="#facs_4_tr_1_tl_5" n="N005"/>te vallen, Coomen tot Kennisse ende Judicature
+               <lb facs="#facs_4_tr_1_tl_6" n="N006"/>van Scheepen deser Steede ten overstaen van
+               <lb facs="#facs_4_tr_1_tl_7" n="N007"/>den Stathouder.</p>
+                <p resp="CVG" xml:id="art_8"> 8. Des sullen de Ingesetene
+               <lb facs="#facs_4_tr_1_tl_8" n="N008"/>der voorss. Steede of aenvangers der Erven
+               <lb facs="#facs_4_tr_1_tl_9" n="N009"/>Jaerlyx voor pacht betaelen aen ons of onsere
+               <lb facs="#facs_4_tr_1_tl_10" n="N010"/>ghecommitteerden ingaende twee Jaren nae de
+               <lb facs="#facs_4_tr_1_tl_11" n="N011"/>Fondatie der Stat als volcht.</p>
+                <p resp="CVG" xml:id="art_9"> 9. Dat eerste
+               <lb facs="#facs_4_tr_1_tl_12" n="N012"/>Erff van t'Sestigh voeten breet vyffthien roeden
+               <lb facs="#facs_4_tr_1_tl_13" n="N013"/>Lanck, d’eerste ses volgende Jaeren daeraen, Ses
+               <lb facs="#facs_4_tr_1_tl_14" n="N014"/>Ryxdaelders Jaerlycks, ende daer naer twelff
+               <lb facs="#facs_4_tr_1_tl_15" n="N015"/>Ryxdaelders Jaerlyx, Dat anderde Erff dartigh
+               <lb facs="#facs_4_tr_1_tl_16" n="N016"/>voeten breet, Lanck vyffthien roeden, d'eerste
+               <lb facs="#facs_4_tr_1_tl_17" n="N017"/>Ses Jaaren als voren vier Ryxdaelders ende daer
+               <lb facs="#facs_4_tr_1_tl_18" n="N018"/>naer Acht Ryxdaelders Jaerlyx, dat derde Erff
+               <lb facs="#facs_4_tr_1_tl_19" n="N019"/>van Vieren Twintich voeten breet, twaelff roeden
+               <lb facs="#facs_4_tr_1_tl_20" n="N020"/>lang derde halve Ryxdaelders d’eerste ses Jaren
+               <lb facs="#facs_4_tr_1_tl_21" n="N021"/>ende daer naer vyff Ryxdaelder Jaerlyx, dat
+               <lb facs="#facs_4_tr_1_tl_22" n="N022"/>Vierde Erff van Twintich voeten breet ende
+               <lb facs="#facs_4_tr_1_tl_23" n="N023"/>twaelf roeden lang, d'eerste Ses Jaren twee
+               <lb facs="#facs_4_tr_1_tl_24" n="N024"/>Ryxdaelders, ende daer naer vier Ryxdalder
+               <lb facs="#facs_4_tr_1_tl_25" n="N025"/>Jaerlyx, dat vyffte Erff van Achntien voeten
+               <lb facs="#facs_4_tr_1_tl_26" n="N026"/>breet ende ses Roeden lang, d'eerste ses Jaaren
+               <lb facs="#facs_4_tr_1_tl_27" n="N027"/>eenen Ryxdaelder ende daernaer twee Ryxdaelders
+               <lb facs="#facs_4_tr_1_tl_28" n="N028"/>Jaerlyx. Dat seste Erff van Sestien voeten
+               <lb facs="#facs_4_tr_1_tl_29" n="N029"/>breet ende vyff Roeden lang, de eerste ses Jaaren
+               <lb facs="#facs_4_tr_1_tl_30" n="N030"/>eenen halven Rykdaelder, ende daer
+            
+            <pb facs="#facs_5" xml:id="img_0005" n="42r"/>
+            
+               <lb facs="#facs_5_tr_1_tl_9" n="N001"/>Naer eenen Ryxdaelder Jaerlyx, ende 
+               <w>groo<pc>-</pc>
+                        <lb facs="#facs_5_tr_1_tl_10" n="N002"/>ter</w> off minder naer advenant, alles gherekent
+               <lb facs="#facs_5_tr_1_tl_11" n="N003"/>de roode op twaelff voeten, den voet op twaelff
+               <lb facs="#facs_5_tr_1_tl_12" n="N004"/>Duymen.</p>
+                <p resp="CVG" xml:id="art_10"> 10. Mits dat Regenten der Steede
+               <lb facs="#facs_5_tr_1_tl_13" n="N005"/>sullen mogen macken ende ordineeren soo
+               <lb facs="#facs_5_tr_1_tl_14" n="N006"/>danighe Straeten, binnen vaerten, Marckten,
+               <lb facs="#facs_5_tr_1_tl_15" n="N007"/>Vesten, grachten (welcker vesten ende 
+               <w>grach<pc>-</pc>
+                        <lb facs="#facs_5_tr_1_tl_16" n="N008"/>ten</w> doch naer Onser genedigen bewillinge ende
+               <lb facs="#facs_5_tr_1_tl_17" n="N009"/>goet achten sullen ghemaekt worden) als sy
+               <lb facs="#facs_5_tr_1_tl_18" n="N010"/>tot dienste van de Stat sullen bevinden te
+               <lb facs="#facs_5_tr_1_tl_19" n="N011"/>behoeven, ende eenighe huysen in den wech
+               <lb facs="#facs_5_tr_1_tl_20" n="N012"/>staende willen Wy doen affbreecken.</p>
+                <p resp="CVG" xml:id="art_11"> 11. Naer
+               <lb facs="#facs_5_tr_1_tl_21" n="N013"/>welcker voorss. tacx, elck Erff altyt sal 
+               <w>Con<pc>-</pc>
+                        <lb facs="#facs_5_tr_1_tl_22" n="N014"/>tribueeren</w> ende geschat worden, in alle 
+               <w>ghe<pc>-</pc>
+                        <lb facs="#facs_5_tr_1_tl_23" n="N015"/>meyne</w> wercken, als vesten, wateren, Straaten,
+               <lb facs="#facs_5_tr_1_tl_24" n="N016"/>Poorten, havininge, bruggen, Sluysen ende
+               <lb facs="#facs_5_tr_1_tl_25" n="N017"/>wes tot d’eerste makinghe ende onderhoudinghe
+               <lb facs="#facs_5_tr_1_tl_26" n="N018"/>van alle ghemeynne wercken noodich wert,
+               <lb facs="#facs_5_tr_1_tl_27" n="N019"/>De welcke de Inwoonders alleen sullen becostigen
+               <lb facs="#facs_5_tr_1_tl_28" n="N020"/>soo veel hare Stats dienste aengaet.</p>
+                <p resp="CVG" xml:id="art_12"> 12. Maer
+               <lb facs="#facs_5_tr_1_tl_29" n="N021"/>om alles te meer te avanceeren, so willen wy
+               <lb facs="#facs_5_tr_1_tl_30" n="N022"/>tot de gemeyne wercken der selver Steede vereeren
+               <lb facs="#facs_5_tr_1_tl_31" n="N023"/>ende Schencken een goede partye holt naer
+               <lb facs="#facs_5_tr_1_tl_32" n="N024"/>vereyschen der Saken, ende onse discrectie.</p>
+                <p resp="CVG" xml:id="art_13">
+               <lb facs="#facs_5_tr_1_tl_33" n="N025"/>13. Des sullen de aenvangers der Erven hare
+               <lb facs="#facs_5_tr_1_tl_34" n="N026"/>Namen by Tyts off voor primo Marty 
+               <w>be<pc>-</pc>
+                        <lb facs="#facs_5_tr_1_tl_35" n="N027"/>kent</w> macken tot Tonningen aen ...
+               <lb facs="#facs_5_tr_1_tl_36" n="N028"/>met verclaeringhe van de groote
+               <lb facs="#facs_5_tr_1_tl_37" n="N029"/>der Erven die sy willen betimmeren, om primo
+            
+           <pb facs="#facs_6" xml:id="img_0006" n="42v"/>
+                        
+               <lb facs="#facs_6_tr_1_tl_1" n="N001"/>April olden Styl de Cavelinge der Erven te doen,
+               <lb facs="#facs_6_tr_1_tl_2" n="N002"/>ende sullen als dan betaelen, aen den geenen
+               <lb facs="#facs_6_line_1729593492431_278" n="N003"/>die den voorseyden ... haer 
+               <w>aenwy<pc>-</pc>
+                        <lb facs="#facs_6_tr_1_tl_7" n="N004"/>sen</w> sal, tot Incomgelt beneffens den eersten
+               <lb facs="#facs_6_tr_1_tl_8" n="N005"/>omslagh tot fondatie der Stat als volcht.
+               <lb facs="#facs_6_tr_1_tl_9" n="N006"/>1. Een Erff van de eerste groote voor incomgelt
+               <lb facs="#facs_6_tr_1_tl_10" n="N007"/>veertich Ryxdaelders ende voor den eersten 
+               <w>om<pc>-</pc>
+                        <lb facs="#facs_6_tr_1_tl_11" n="N008"/>slagh</w> hondert Twintigh Ryxdaelders; 2. Een Erff
+               <lb facs="#facs_6_tr_1_tl_12" n="N009"/>van de Tweede groote, voor incomgelt vier en
+               <lb facs="#facs_6_tr_1_tl_13" n="N010"/>Twintich Ryxdaelders, ende voor den eersten 
+               <w>om<pc>-</pc>
+                        <lb facs="#facs_6_tr_1_tl_14" n="N011"/>slach</w> t'achtig Ryxdaelders; 3. Een Erff vande
+               <lb facs="#facs_6_tr_1_tl_15" n="N012"/>darde grootheyt voor incomgelt Sestien 
+               <w>Ryxdael<pc>-</pc>
+                        <lb facs="#facs_6_tr_1_tl_16" n="N013"/>ders</w> ende voor den eerſten Omslagh vyftigh
+               <lb facs="#facs_6_tr_1_tl_17" n="N014"/>Ryxdaelders; 4. Een Erff van de vierde groote
+               <lb facs="#facs_6_tr_1_tl_18" n="N015"/>voor Incomgelt Twaelff Ryxdaelders, ende voor
+               <lb facs="#facs_6_tr_1_tl_19" n="N016"/>den eersten Omslach veertigh Ryxdaelders;
+               <lb facs="#facs_6_tr_1_tl_20" n="N017"/>5. Een Erff van de vyffde groote, incomgelt
+               <lb facs="#facs_6_tr_1_tl_21" n="N018"/>vyff Ryxdaelders, ende voor den eersten omslach
+               <lb facs="#facs_6_tr_1_tl_22" n="N019"/>Twintich Ryxdaelders; 6. Een Erff van de seste
+               <lb facs="#facs_6_tr_1_tl_23" n="N020"/>groote, Incomgeldt Twee Ryxdaelders, ende voor
+               <lb facs="#facs_6_tr_1_tl_24" n="N021"/>den eersten omslach Thien Ryxdaelders, ende
+               <lb facs="#facs_6_tr_1_tl_25" n="N022"/>grooter off minder naer advenant.</p>
+                <p resp="CVG" xml:id="art_14"> 14. Sullen
+               <lb facs="#facs_6_tr_1_tl_26" n="N023"/>geene Huysen van Luyden van neeringhe binnen
+               <lb facs="#facs_6_tr_1_tl_27" n="N024"/>t'gebiedt buyten der Stat gemaekt moogen werden
+               <lb facs="#facs_6_tr_1_tl_28" n="N025"/>sonder Consent van Regierders der Steede.</p>
+                <p resp="CVG" xml:id="art_15">
+               <lb facs="#facs_6_tr_1_tl_29" n="N026"/>15. Oock sullen geene nieuwe buyten landers mogen
+               <lb facs="#facs_6_tr_1_tl_30" n="N027"/>coomen op een Myle weeghs nae by dese Stadt
+               <lb facs="#facs_6_tr_1_tl_31" n="N028"/>daer ons ghebiedt so wyt es streckende (ten
+            
+            <pb facs="#facs_7" xml:id="img_0007" n="43r"/>
+            
+               <lb facs="#facs_7_tr_1_tl_4" n="N001"/>Ware by provisie tot dat hare huysinge 
+                  <w>ge<pc>-</pc>
+                        <lb facs="#facs_7_tr_1_tl_5" n="N002"/>reet</w> ware) sonder consent als vooren.</p>
+                <p resp="CVG" xml:id="art_16">
+               <lb facs="#facs_7_tr_1_tl_6" n="N003"/>16. Ende sullen van deesen eersten Omslach
+               <lb facs="#facs_7_tr_1_tl_7" n="N004"/>Fabrycken by de eerste aenvangers te ordineeren
+               <lb facs="#facs_7_tr_1_tl_8" n="N005"/>mogen disponeeren met avys van Stathou=
+               <lb facs="#facs_7_tr_1_tl_9" n="N006"/>Ider ende regenten, ende den ontfanger doen
+               <lb facs="#facs_7_tr_1_tl_10" n="N007"/>goede rekeninghe, sullende de volgende omslaghen
+                     <lb facs="#facs_7_tr_1_tl_11" n="N008"/>ghemaekt worden by Borgemeesteren der Stede.</p>
+                <p resp="CVG" xml:id="art_17">
+               <lb facs="#facs_7_tr_1_tl_12" n="N009"/>17. Ooch sullen die geene die naer naer den voorss.
+               <lb facs="#facs_7_tr_1_tl_13" n="N010"/>tyt comen verclaeren om eenighe Erven te
+               <lb facs="#facs_7_tr_1_tl_14" n="N011"/>begeeren, gheadmitteert ende aengenoomen
+               <lb facs="#facs_7_tr_1_tl_15" n="N012"/>moogen worden, maer sullen taer dan moeten
+               <lb facs="#facs_7_tr_1_tl_16" n="N013"/>Contenteeren met de vervolgende plaetsen, 
+               <w>vol<pc>-</pc>
+                        <lb facs="#facs_7_tr_1_tl_17" n="N014"/>gens</w> de ordere ende aenwysinghe van Statholder,
+                        <lb facs="#facs_7_tr_1_tl_18" n="N015"/>Regenten ende Fabryken der Steede.</p>
+                <p resp="CVG" xml:id="art_18"> 18. Ende
+               <lb facs="#facs_7_tr_1_tl_19" n="N016"/>sullen alle Hoeck Erven van Straten aen de
+               <lb facs="#facs_7_tr_1_tl_20" n="N017"/>ghemeente der Stat blyven ghereserveert, soo't
+               <lb facs="#facs_7_tr_1_tl_21" n="N018"/>haer belieft, om eenighe Luyden van neeringhe nae
+               <lb facs="#facs_7_tr_1_tl_22" n="N019"/>hare Sindelyckheyt daermeede te moogen dienen
+               <lb facs="#facs_7_tr_1_tl_23" n="N020"/>mits dat de Stat aen ons betale naer advenant
+                           <lb facs="#facs_7_tr_1_tl_24" n="N021"/>andere.</p>
+                <p resp="CVG" xml:id="art_19"> 19. So wie ten tyde van de Cavelinge
+               <lb facs="#facs_7_tr_1_tl_25" n="N022"/>niet verschynt noch ghemachtigde en seynt
+               <lb facs="#facs_7_tr_1_tl_26" n="N023"/>om fabryken te ordineeren tot de nodighe 
+               <w>ghe<pc>-</pc>
+                        <lb facs="#facs_7_tr_1_tl_27" n="N024"/>meyne</w> Wercken, sal syn stemme verliesen
+               <lb facs="#facs_7_tr_1_tl_28" n="N025"/>ende hem vernoegen laeeten met t'geene daer
+                              <lb facs="#facs_7_line_1729593539807_363" n="N026"/>beslooten wert.</p>
+                <p resp="CVG" xml:id="art_20"> 20. Oock es onse expresse
+               <lb facs="#facs_7_tr_1_tl_31" n="N027"/>meyninghe, dat de grootste Erven de beste 
+               <w>plaet<pc>-</pc>
+                        <lb facs="#facs_7_tr_1_tl_32" n="N028"/>se</w> sullen vergunt worden, ende dat de 
+               <w>Woo<pc>-</pc>
+                        <lb facs="#facs_7_tr_1_tl_33" n="N029"/>ninxkens</w> van de vyffde ende seste groote maer
+            
+            <pb facs="#facs_8" xml:id="img_0008" n="43v"/>
+            
+                                 <lb facs="#facs_8_tr_1_tl_1" n="N001"/>sullen dienen voor arbeyders ende Handtwerckers.</p>
+                <p resp="CVG" xml:id="art_21">
+               <lb facs="#facs_8_tr_1_tl_2" n="N002"/>21. Meede dat men tot het Gouvernement der
+               <lb facs="#facs_8_tr_1_tl_3" n="N003"/>stat, niemant sal admitteeren, dan die beneffens
+               <lb facs="#facs_8_tr_1_tl_4" n="N004"/>behoorlycke bequaemheyt bouwen of bewoonen
+               <lb facs="#facs_8_tr_1_tl_5" n="N005"/>sullen Huysen van de Eerste, tweede off ten
+                                    <lb facs="#facs_8_tr_1_tl_6" n="N006"/>minsten van de darde grootheyt.</p>
+                <p resp="CVG" xml:id="art_22"> 22. Ende
+               <lb facs="#facs_8_tr_1_tl_7" n="N007"/>so yemandt den eersten Omslach 
+               <w>gheContribu<pc>-</pc>
+                        <lb facs="#facs_8_tr_1_tl_8" n="N008"/>eert</w> hebbende, achterbleeve ten tyde van den
+               <lb facs="#facs_8_tr_1_tl_9" n="N009"/>tweeden omslage ende in gebreeke bleeve die
+               <lb facs="#facs_8_tr_1_tl_10" n="N010"/>te betaalen, so sullen de gheContribueerde 
+                                       <w>pen<pc>-</pc>
+                        <lb facs="#facs_8_tr_1_tl_11" n="N011"/>ningen</w> vervallen aen de ghemeynte der Stat.</p>
+                <p resp="CVG" xml:id="art_23">
+               <lb facs="#facs_8_tr_1_tl_12" n="N012"/>23. Ende op dat de Handtwercks luyden ende
+               <lb facs="#facs_8_tr_1_tl_13" n="N013"/>Arbeyders te meer gheaccommodeert mogen
+               <lb facs="#facs_8_tr_1_tl_14" n="N014"/>worden, so willen Wy voor eerst in deselve
+               <lb facs="#facs_8_tr_1_tl_15" n="N015"/>Steede, doen timmeren ende becostigen (Sodt
+               <lb facs="#facs_8_tr_1_tl_16" n="N016"/>noodich bevonden wert) Hondert Huyskens
+               <lb facs="#facs_8_tr_1_tl_17" n="N017"/>van omtrent Hondert Ryxdaelders t'Stuck,
+               <lb facs="#facs_8_tr_1_tl_18" n="N018"/>die ons de bewoonders op reedelycke ende 
+               <w>draech<pc>-</pc>
+                        <lb facs="#facs_8_tr_1_tl_19" n="N019"/>lycke</w> termyynen weder sullen betaalen tot onsen
+                                          <lb facs="#facs_8_tr_1_tl_20" n="N020"/>goet vinden.</p>
+                <p resp="CVG" xml:id="art_24"> 24. Ook om de Scheepstimmering
+               <lb facs="#facs_8_tr_1_tl_21" n="N021"/>te vorderen, willen Wy de eerste Compangie die
+               <lb facs="#facs_8_tr_1_tl_22" n="N022"/>deselve timmeringhe aenvangen, favoriseeren in
+               <lb facs="#facs_8_tr_1_tl_23" n="N023"/>den Incoop vant hout binnen unsen Lande naer
+               <lb facs="#facs_8_tr_1_tl_24" n="N024"/>alle vermoogen ende besorgen dat sy daerin niet sullen
+               <lb facs="#facs_8_tr_1_tl_25" n="N025"/>beschat worden, ende niet boven waerde behoeven
+               <lb facs="#facs_8_tr_1_tl_26" n="N026"/>te betaelen, maer met alle advantagie daerin sullen
+                                             <lb facs="#facs_8_tr_1_tl_27" n="N027"/>worden ghedient.</p>
+                <p resp="CVG" xml:id="art_25"> 25. Voorts willen Wy deselve
+               <lb facs="#facs_8_tr_1_tl_28" n="N028"/>Steede voorsien met Twee vrye Jaermarckten,
+               <lb facs="#facs_8_tr_1_tl_29" n="N029"/>Peerde ende Beest marckten op Sulcke dagen de
+            
+            <pb facs="#facs_9" xml:id="img_0009" n="44r"/>
+            
+               <lb facs="#facs_9_tr_1_tl_6" n="N001"/>Regienten bequaemst sullen vinden, als meede
+               <lb facs="#facs_9_tr_1_tl_7" n="N002"/>en week marckt toelaeten, op sulcken dach der
+                                                <lb facs="#facs_9_tr_1_tl_8" n="N003"/>weecke haer goet duncken sal.</p>
+                <p resp="CVG" xml:id="art_26"> 26. De Inwoonders
+               <lb facs="#facs_9_tr_1_tl_9" n="N004"/>sullen ghenieten Vryheyt van alle Schattingen den
+                                                   <lb facs="#facs_9_tr_1_tl_11" n="N005"/>Tydt van Twintigh Jaren.</p>
+                <p resp="CVG" xml:id="art_27"> 27. Ooch Vryheyt van
+               <lb facs="#facs_9_tr_1_tl_12" n="N006"/>Tollen ons alleen Competeerende, den Tydt van
+               <lb facs="#facs_9_tr_1_tl_13" n="N007"/>Twintigh Jaaren, ende sullen daernaer aen Ons 
+               <w>be<pc>-</pc>
+                        <lb facs="#facs_9_tr_1_tl_14" n="N008"/>taalen</w> Sulx als andere onses Lants inwoonders syn
+                                                      <lb facs="#facs_9_tr_1_tl_15" n="N009"/>doende sonder meer.</p>
+                <p resp="CVG" xml:id="art_28"> 28. Ende sullen Stathouder ende
+               <lb facs="#facs_9_tr_1_tl_16" n="N010"/>Borgemeesteren met avys der Raetspersoonen, mogen
+               <lb facs="#facs_9_tr_1_tl_17" n="N011"/>stellen sodaanich havengeldt op uytvarende ende
+               <lb facs="#facs_9_tr_1_tl_18" n="N012"/>incoomende Coopmanschappen ende Scheepen als
+               <lb facs="#facs_9_tr_1_tl_19" n="N013"/>sy tot verval van de Haveninghe ende verder 
+               <w>vol<pc>-</pc>
+                        <lb facs="#facs_9_tr_1_tl_20" n="N014"/>trecken</w> alles Statswercken sullen dienstich en
+                                                         <lb facs="#facs_9_tr_1_tl_21" n="N015"/>noodich vinden.</p>
+                <p resp="CVG" xml:id="art_29"> 29. Doch sullen deselve mogen
+               <lb facs="#facs_9_tr_1_tl_22" n="N016"/>macken sodanige Keuren ende ordinantien als sy
+               <lb facs="#facs_9_tr_1_tl_23" n="N017"/>sullen dienstich vinden tot de goede politie 
+               <w>der<pc>-</pc>
+                        <lb facs="#facs_9_tr_1_tl_24" n="N018"/>selver</w> Steede, doch dat daerop Confirmatie van
+                                                            <lb facs="#facs_9_tr_1_tl_25" n="N019"/>ons versocht ende verkreegen sal werden.</p>
+                <p resp="CVG" xml:id="art_30"> 30. Ende
+               <lb facs="#facs_9_tr_1_tl_26" n="N020"/>sal deselve stat met geene Garnisoenen noch 
+               <w>Crygs<pc>-</pc>
+                        <lb facs="#facs_9_tr_1_tl_27" n="N021"/>volck</w> mogen belast noch beswaert werden buyten
+               <lb facs="#facs_9_tr_1_tl_28" n="N022"/>goet vinden ende Consent van de Regierders der Stede
+               <lb facs="#facs_9_tr_1_tl_29" n="N023"/>maer sullen deborgers ende inwoonders deselve
+               <lb facs="#facs_9_tr_1_tl_30" n="N024"/>bewaeren in alle getrouwigheyt die oock geene
+               <lb facs="#facs_9_tr_1_tl_31" n="N025"/>Soldaten sullen moogen aenneemen sonder Consent
+                                                               <lb facs="#facs_9_tr_1_tl_32" n="N026"/>ende goet vinden van ons.</p>
+                <p resp="CVG" xml:id="art_31"> 31. De Inwoonders
+               <lb facs="#facs_9_tr_1_tl_33" n="N027"/>ende hare goederen sullen niet arrestabel weesen
+               <lb facs="#facs_9_tr_1_tl_34" n="N028"/>in alle de plaetsen onses gebiets, maer sullen de
+               <lb facs="#facs_9_tr_1_tl_35" n="N029"/>selve alleen te rechte staen voor d’eerste ende
+               <lb facs="#facs_9_tr_1_tl_36" n="N030"/>tweedemael binnen harer Steede ende ten laesten
+                                                                  <lb facs="#facs_9_tr_1_tl_37" n="N031"/>ende dardemaele voor ons mogen betrocken werden.</p>
+                <p resp="CVG" xml:id="art_32">
+               <lb facs="#facs_9_tr_1_tl_38" n="N032"/>32. Ende so Wy metter Tyt verstaen ghedient te
+               <lb facs="#facs_9_tr_1_tl_39" n="N033"/>syn met een Munte, so willen Wy die aldaer
+                                                                     <lb facs="#facs_9_tr_1_tl_40" n="N034"/>leggen ende oock onderhouden.</p>
+                <p resp="CVG" xml:id="art_33"> 33. Item om
+               <lb facs="#facs_9_tr_1_tl_41" n="N035"/>alles beeter te vorderen, ende de inwooonders
+            
+            <pb facs="#facs_10" xml:id="img_0010" n="44v"/>
+            
+               <lb facs="#facs_10_tr_1_tl_1" n="N001"/>(bysonder in den aenvanck) te vryen ende 
+               <w>be<pc>-</pc>
+                        <lb facs="#facs_10_tr_1_tl_2" n="N002"/>schermen</w> voor alle overlast ende ghewelt van
+               <lb facs="#facs_10_tr_1_tl_3" n="N003"/>eenighe moetwillighe onder wat pretext die souden
+               <lb facs="#facs_10_tr_1_tl_4" n="N004"/>mogen coomen t'sy te Water off te Lande, so willen
+               <lb facs="#facs_10_tr_1_tl_5" n="N005"/>Wy niet wyt van dese stadt doen maeken ende leggen
+               <lb facs="#facs_10_tr_1_tl_6" n="N006"/>op de Cant van de Eyder een foort ofte Schanse
+               <lb facs="#facs_10_tr_1_tl_7" n="N007"/>ten minsten van vier bolwercken, voorsien met
+               <lb facs="#facs_10_tr_1_tl_8" n="N008"/>gheschut, volck ende Crygs amonitie, om alle
+               <lb facs="#facs_10_tr_1_tl_9" n="N009"/>vyantlycke Scheepen te weeren ende de 
+               <w>inwoon<pc>-</pc>
+                        <lb facs="#facs_10_tr_1_tl_10" n="N010"/>ders</w> der voorss. Stede in alle overlast ende noot
+                                                                        <lb facs="#facs_10_tr_1_tl_11" n="N011"/>te beschermen ende hanthaven naer vermoogen.</p>
+                <p resp="CVG" xml:id="art_34">
+               <lb facs="#facs_10_tr_1_tl_12" n="N012"/>34. Welverstaende ende met Conditie, by aldien ten
+               <lb facs="#facs_10_tr_1_tl_13" n="N013"/>tyde van de Cavelinghe niet bevonden worden,
+               <lb facs="#facs_10_tr_1_tl_14" n="N014"/>dat sich hiertoe verstaen ten minsten Hondert
+               <lb facs="#facs_10_tr_1_tl_15" n="N015"/>parsoonen die Erven aenveerden van de eerste
+               <lb facs="#facs_10_tr_1_tl_16" n="N016"/>tweede ende darde grootheyt, ende twee hondert
+               <lb facs="#facs_10_tr_1_tl_17" n="N017"/>die Erven aenverden van de vierde ende vyffde
+               <lb facs="#facs_10_tr_1_tl_18" n="N018"/>grootheyt, dat dit Octroy sal ghehouden werden
+                                                                           <lb facs="#facs_10_tr_1_tl_19" n="N019"/>als nul en van geender weerden.</p>
+                <p resp="CVG" xml:id="art_35"> 35. Ende off
+               <lb facs="#facs_10_tr_1_tl_20" n="N020"/>metter Tydt bevonden wierde hier wat 
+               <w>ver<pc>-</pc>
+                        <lb facs="#facs_10_tr_1_tl_21" n="N021"/>suymt</w> dat in redene ghefondeert ware tot 
+               <w>dien<pc>-</pc>
+                        <lb facs="#facs_10_tr_1_tl_22" n="N022"/>ste</w> der Ingesetene, so willen Wy naer 
+               <w>bevin<pc>-</pc>
+                        <lb facs="#facs_10_tr_1_tl_23" n="N023"/>dinghe</w> der Saeke ons daerop ghenedichlyck
+                                                                              <lb facs="#facs_10_tr_1_tl_24" n="N024"/>erkleeren ende onweygerlyck laten vinden.</p>
+                <p resp="CVG" xml:id="art_36">
+               <lb facs="#facs_10_tr_1_tl_25" n="N025"/>36. Willende alle tydt neemen ende beholden
+               <lb facs="#facs_10_tr_1_tl_26" n="N026"/>in onse ghenedighe protectje de voorss. Stadt
+               <lb facs="#facs_10_tr_1_tl_27" n="N027"/>sampt alle ende een yderen der voorss. 
+               <w>Inwoon<pc>-</pc>
+                        <lb facs="#facs_10_tr_1_tl_28" n="N028"/>deren</w> ende hare goederen.</p>
+            </div> <div>
+                <p resp="CVG" xml:id="art_37">37. Willende ende
+               <lb facs="#facs_10_tr_1_tl_29" n="N029"/>beveelende by deesen allen <rs type="person" ref="#friedrich_iii_schleswig_holstein_gottorf">onseren</rs> Amptluyden
+               <lb facs="#facs_10_tr_1_tl_30" n="N030"/>ende allen ende yderen haren Onderdaenen: Den
+               <lb facs="#facs_10_tr_1_tl_31" n="N031"/>voorschreeven Inwoonderen alle alsulx als
+               <lb facs="#facs_10_tr_1_tl_32" n="N032"/>haer hierby vergunt, vreedelycken ende <w>onbe<pc>-</pc>
+               <lb facs="#facs_10_tr_1_tl_33" n="N033"/>commert</w> te laeten gebruycken, sonder haer
+            
+            <pb facs="#facs_11" xml:id="img_0011" n="45r"/>
+            
+               <lb facs="#facs_11_tr_1_tl_6" n="N001"/>int minste eenich letsel off hinder daerin te laeten
+               <lb facs="#facs_11_tr_1_tl_9" n="N002"/>gheschieden. Want het ons also gelieft. Dies
+               <lb facs="#facs_11_tr_1_tl_12" n="N003"/>te oirconde ende verseekeringe hebben <rs type="person" ref="#friedrich_iii_schleswig_holstein_gottorf">wy</rs> desen
+               <lb facs="#facs_11_tr_1_tl_16" n="N004"/>doen schryven; ende neffens onse ghewoonlyke
+               <lb facs="#facs_11_tr_1_tl_18" n="N005"/>onderteekeninghe met onsen Furstelyken Secreet
+               <lb facs="#facs_11_tr_1_tl_19" n="N006"/>Segel<note type="annotation">Sekretsiegel: Kleines Siegel.</note> bevestigen laeten. Aldus ghedaen
+               <lb facs="#facs_11_tr_1_tl_20" n="N007"/>op onsen Huyse tot <rs type="place" ref="#gottorf_schloss">Gottorp</rs> <date when="1620-10-21">den Een ende
+               <lb facs="#facs_11_tr_1_tl_22" n="N008"/>Twintichsten October, Int Jaer onses Heeren
+               <lb facs="#facs_11_tr_1_tl_23" n="N009"/>ende Salichmaekers Een duysent Seshondert
+               <lb facs="#facs_11_tr_1_tl_24" n="N010"/>ende Twintich</date>.
+               <lb facs="#facs_11_tr_1_tl_25" n="N011"/>
+                    <rs type="person" ref="#friedrich_iii_schleswig_holstein_gottorf">Friederich</rs>
+                    <note type="crit_app">Folgt: concordet Originali H. Brammer.</note>
+               <!--<lb facs="#facs_11_tr_1_tl_26" n="N012"/>concordet Originali
+               <lb facs="#facs_11_tr_1_tl_27" n="N013"/>H. Brammer-->
+            </p>
+         </div>
+      </body>
+   </text>
+</tei:TEI>

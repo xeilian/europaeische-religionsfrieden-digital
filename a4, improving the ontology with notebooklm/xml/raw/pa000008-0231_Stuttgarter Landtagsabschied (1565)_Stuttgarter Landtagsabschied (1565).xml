@@ -1,0 +1,1646 @@
+<?xml-model href="../../../customization/schema_quellentexte/religionsfrieden-quellentexte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pa000008-0231">
+   <teiHeader>      
+      <fileDesc>         
+         <titleStmt>
+            <title level="a">Stuttgarter Landtagsabschied (<date when="1565-06-19">19. Juni 1565</date>) - HStAS A 37 U 3</title><!-- Titel eintragen -->   
+            <title level="s">Europäische Religionsfrieden Digital</title>    
+            <editor role="http://id.loc.gov/vocabulary/relators/edt">
+                    <persName>Hans-Otto Schneider</persName>
+                </editor><!-- Name eingeben und bei ref evtl. orchid, ansonsten rauslöschen -->
+            <respStmt>
+                    <resp ref="http://id.loc.gov/vocabulary/relators/mrk">Mitarbeit</resp>
+                    <persName>Kevin Wunsch</persName>
+                    <persName>Kevin Kuck</persName>
+                </respStmt>           
+         </titleStmt>         
+         <editionStmt>
+            <edition>Digitale Edition gemäß <ref target="http://www.tei-c.org/">TEI P5</ref>
+                </edition>
+            <funder>Akademie der Wissenschaften und der Literatur Mainz</funder>
+                <principal>Unter der Leitung von Irene Dingel und Thomas Stäcker</principal>
+         </editionStmt>         
+         <publicationStmt>
+            <publisher>
+               <orgName ref="http://www.isni.org/0000000119314040">Leibniz-Institut für Europäische Geschichte Mainz</orgName>
+            </publisher>           
+            <distributor>
+               <orgName ref="http://www.isni.org/0000000110101946">Universitäts- und Landesbibliothek Darmstadt</orgName>
+               <idno type="ISIL">http://lobid.org/organisation/DE-17</idno>
+            </distributor>
+            <date when="2024" type="issued"/><!-- Datum (Jahr) eintragen, bei @when Datum in der Form JJJJ-MM-TT -->
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p xml:lang="en">This file is licensed under the terms of the Creative Commons License CC-BY 4.0 (Attribution 4.0 International)</p>
+               </licence>
+            </availability>
+         </publicationStmt>        
+         <sourceDesc>
+                <p>Textgrundlage s. Einleitung.</p>
+            </sourceDesc><!-- am besten eine msDesc einfügen! --> <!-- ACHTUNG bei Einleitungen: <sourceDesc><p>Born digital.</p></sourceDesc> -->
+      </fileDesc>      
+      <encodingDesc>         
+         <projectDesc>
+            <p>
+                    <ref target="https://eured.de">Europäische Religionsfrieden Digital</ref>
+                </p>
+         </projectDesc>
+         <classDecl>
+            <taxonomy xml:id="marcrelator">
+               <bibl>
+                        <idno type="URI">http://id.loc.gov/vocabulary/relators/</idno> MARC Code List for Relators </bibl>
+            </taxonomy>
+         </classDecl>         
+      </encodingDesc>      
+      <profileDesc>         
+         <langUsage>
+            <language ident=""/><!-- Sprache des Dokuments eintragen, bei ident Kürzel der Sprache -->
+         </langUsage>         
+      </profileDesc>
+   </teiHeader>
+   <!--<facsimile>
+      <surface ulx="0" uly="0" lrx="3237" lry="3508" xml:id="facs_1">
+         <!-\- <graphic url="0001_1565%20Stuttgart%20Landtagsabschied%20seitenweise-0001.jpg" width="3237px" height="3508px"/> -\->
+         <graphic url="https://files.transkribus.eu/Get?id=GKUUZKGRCOPJFCEUKRLGAVRS&amp;fileType=view" width="3237px" height="3508px"/>
+         <zone points="513,368 2857,368 2857,1415 513,1415" rendition="TextRegion" xml:id="facs_1_tr_1">
+            <zone points="1233,233 1619,233 1619,489 1233,489" rendition="Line" xml:id="facs_1_tr_1_tl_1"/>
+            <zone points="1098,405 1987,405 1987,601 1098,601" rendition="Line" xml:id="facs_1_tr_1_tl_2"/>
+            <zone points="1337,538 1673,538 1673,696 1337,696" rendition="Line" xml:id="facs_1_tr_1_tl_3"/>
+            <zone points="1371,857 1702,857 1702,1044 1371,1044" rendition="Line" xml:id="facs_1_tr_1_tl_4"/>
+            <zone points="1397,1003 1665,1003 1665,1147 1397,1147" rendition="Line" xml:id="facs_1_tr_1_tl_5"/>
+            <zone points="540,1067 2849,1067 2849,1262 540,1262" rendition="Line" xml:id="facs_1_tr_1_tl_6"/>
+            <zone points="540,1219 2818,1219 2818,1360 540,1360" rendition="Line" xml:id="facs_1_tr_1_tl_7"/>
+            <zone points="532,1265 2369,1265 2369,1423 532,1423" rendition="Line" xml:id="facs_1_tr_1_tl_8"/>
+            <zone points="497,1334 1538,1334 1538,1463 497,1463" rendition="Line" xml:id="facs_1_tr_1_tl_9"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3037" lry="3508" xml:id="facs_2">
+         <!-\- <graphic url="0002_1565%20Stuttgart%20Landtagsabschied%20seitenweise-0002.jpg" width="3037px" height="3508px"/> -\->
+         <graphic url="https://files.transkribus.eu/Get?id=SARAKSUUBMFIRPHTZNZJRBJY&amp;fileType=view" width="3037px" height="3508px"/>
+         <zone points="417,371 2889,371 2889,3131 417,3131" rendition="TextRegion" xml:id="facs_2_tr_1">
+            <zone points="425,30 2851,30 2851,483 425,483" rendition="Line" xml:id="facs_2_tr_1_tl_1"/>
+            <zone points="455,422 2839,422 2839,574 455,574" rendition="Line" xml:id="facs_2_tr_1_tl_2"/>
+            <zone points="449,516 2845,516 2845,671 449,671" rendition="Line" xml:id="facs_2_tr_1_tl_3"/>
+            <zone points="465,607 2805,607 2805,759 465,759" rendition="Line" xml:id="facs_2_tr_1_tl_4"/>
+            <zone points="452,683 2781,683 2781,835 452,835" rendition="Line" xml:id="facs_2_tr_1_tl_5"/>
+            <zone points="452,777 2863,777 2863,926 452,926" rendition="Line" xml:id="facs_2_tr_1_tl_6"/>
+            <zone points="446,884 2210,884 2210,1048 446,1048" rendition="Line" xml:id="facs_2_tr_1_tl_8"/>
+            <zone points="2259,887 2839,887 2839,1038 2259,1038" rendition="Line" xml:id="facs_2_tr_1_tl_7"/>
+            <zone points="462,975 2830,975 2830,1139 462,1139" rendition="Line" xml:id="facs_2_tr_1_tl_9"/>
+            <zone points="458,1063 2881,1063 2881,1221 458,1221" rendition="Line" xml:id="facs_2_tr_1_tl_10"/>
+            <zone points="455,1151 2830,1151 2830,1330 455,1330" rendition="Line" xml:id="facs_2_tr_1_tl_11"/>
+            <zone points="458,1254 2842,1254 2842,1403 458,1403" rendition="Line" xml:id="facs_2_tr_1_tl_12"/>
+            <zone points="458,1348 2848,1348 2848,1485 458,1485" rendition="Line" xml:id="facs_2_tr_1_tl_13"/>
+            <zone points="443,1433 2824,1433 2824,1576 443,1576" rendition="Line" xml:id="facs_2_tr_1_tl_14"/>
+            <zone points="428,1524 2863,1524 2863,1667 428,1667" rendition="Line" xml:id="facs_2_tr_1_tl_15"/>
+            <zone points="398,1673 2775,1673 2775,1876 398,1876" rendition="Line" xml:id="facs_2_tr_1_tl_16"/>
+            <zone points="455,1804 2827,1804 2827,1971 455,1971" rendition="Line" xml:id="facs_2_tr_1_tl_17"/>
+            <zone points="471,1886 2793,1886 2793,2056 471,2056" rendition="Line" xml:id="facs_2_tr_1_tl_18"/>
+            <zone points="468,1980 2796,1980 2796,2138 468,2138" rendition="Line" xml:id="facs_2_tr_1_tl_19"/>
+            <zone points="458,2059 2827,2059 2827,2232 458,2232" rendition="Line" xml:id="facs_2_tr_1_tl_20"/>
+            <zone points="468,2141 2766,2141 2766,2314 468,2314" rendition="Line" xml:id="facs_2_tr_1_tl_21"/>
+            <zone points="449,2241 2836,2241 2836,2420 449,2420" rendition="Line" xml:id="facs_2_tr_1_tl_22"/>
+            <zone points="455,2329 2857,2329 2857,2505 455,2505" rendition="Line" xml:id="facs_2_tr_1_tl_23"/>
+            <zone points="477,2420 2869,2420 2869,2642 477,2642" rendition="Line" xml:id="facs_2_tr_1_tl_24"/>
+            <zone points="413,2514 2775,2514 2775,2796 413,2796" rendition="Line" xml:id="facs_2_tr_1_tl_25"/>
+            <zone points="458,2669 2818,2669 2818,2881 458,2881" rendition="Line" xml:id="facs_2_tr_1_tl_26"/>
+            <zone points="465,2757 2878,2757 2878,2963 465,2963" rendition="Line" xml:id="facs_2_tr_1_tl_27"/>
+            <zone points="480,2851 2802,2851 2802,3058 480,3058" rendition="Line" xml:id="facs_2_tr_1_tl_28"/>
+            <zone points="480,2948 2781,2948 2781,3179 480,3179" rendition="Line" xml:id="facs_2_tr_1_tl_29"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3020" lry="3508" xml:id="facs_3">
+         <!-\- <graphic url="0003_1565%20Stuttgart%20Landtagsabschied%20seitenweise-0003.jpg" width="3020px" height="3508px"/> -\->
+         <graphic url="https://files.transkribus.eu/Get?id=BQFQWMDGMJHFXCAYVZYNCVZA&amp;fileType=view" width="3020px" height="3508px"/>
+         <zone points="367,308 2806,308 2806,2950 367,2950" rendition="TextRegion" xml:id="facs_3_tr_1">
+            <zone points="441,200 2631,200 2631,432 441,432" rendition="Line" xml:id="facs_3_tr_1_tl_1"/>
+            <zone points="456,370 2658,370 2658,504 456,504" rendition="Line" xml:id="facs_3_tr_1_tl_2"/>
+            <zone points="453,450 2596,450 2596,593 453,593" rendition="Line" xml:id="facs_3_tr_1_tl_3"/>
+            <zone points="450,527 2652,527 2652,685 450,685" rendition="Line" xml:id="facs_3_tr_1_tl_4"/>
+            <zone points="444,620 2649,620 2649,754 444,754" rendition="Line" xml:id="facs_3_tr_1_tl_5"/>
+            <zone points="450,709 2596,709 2596,870 450,870" rendition="Line" xml:id="facs_3_tr_1_tl_6"/>
+            <zone points="438,802 2685,802 2685,954 438,954" rendition="Line" xml:id="facs_3_tr_1_tl_7"/>
+            <zone points="441,900 2685,900 2685,1058 441,1058" rendition="Line" xml:id="facs_3_tr_1_tl_8"/>
+            <zone points="438,992 733,992 733,1141 438,1141" rendition="Line" xml:id="facs_3_tr_1_tl_9"/>
+            <zone points="417,1082 2691,1082 2691,1320 417,1320" rendition="Line" xml:id="facs_3_tr_1_tl_10"/>
+            <zone points="423,1240 2679,1240 2679,1407 423,1407" rendition="Line" xml:id="facs_3_tr_1_tl_11"/>
+            <zone points="438,1341 2697,1341 2697,1502 438,1502" rendition="Line" xml:id="facs_3_tr_1_tl_12"/>
+            <zone points="432,1421 2709,1421 2709,1582 432,1582" rendition="Line" xml:id="facs_3_tr_1_tl_13"/>
+            <zone points="432,1505 2721,1505 2721,1678 432,1678" rendition="Line" xml:id="facs_3_tr_1_tl_14"/>
+            <zone points="367,1621 2721,1621 2721,1851 367,1851" rendition="Line" xml:id="facs_3_tr_1_tl_15"/>
+            <zone points="417,1785 2691,1785 2691,1931 417,1931" rendition="Line" xml:id="facs_3_tr_1_tl_16"/>
+            <zone points="411,1862 2709,1862 2709,2041 411,2041" rendition="Line" xml:id="facs_3_tr_1_tl_17"/>
+            <zone points="420,1961 2703,1961 2703,2122 420,2122" rendition="Line" xml:id="facs_3_tr_1_tl_18"/>
+            <zone points="393,2053 2393,2053 2393,2208 393,2208" rendition="Line" xml:id="facs_3_tr_1_tl_19"/>
+            <zone points="352,2158 2727,2158 2727,2372 352,2372" rendition="Line" xml:id="facs_3_tr_1_tl_20"/>
+            <zone points="405,2292 2804,2292 2804,2453 405,2453" rendition="Line" xml:id="facs_3_tr_1_tl_21"/>
+            <zone points="405,2375 2745,2375 2745,2536 405,2536" rendition="Line" xml:id="facs_3_tr_1_tl_22"/>
+            <zone points="411,2470 2703,2470 2703,2625 411,2625" rendition="Line" xml:id="facs_3_tr_1_tl_23"/>
+            <zone points="402,2557 2682,2557 2682,2718 402,2718" rendition="Line" xml:id="facs_3_tr_1_tl_24"/>
+            <zone points="399,2640 2691,2640 2691,2792 399,2792" rendition="Line" xml:id="facs_3_tr_1_tl_25"/>
+            <zone points="405,2727 2703,2727 2703,2879 405,2879" rendition="Line" xml:id="facs_3_tr_1_tl_26"/>
+            <zone points="402,2813 2721,2813 2721,3013 402,3013" rendition="Line" xml:id="facs_3_tr_1_tl_27"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3112" lry="3508" xml:id="facs_4">
+         <!-\- <graphic url="0004_1565%20Stuttgart%20Landtagsabschied%20seitenweise-0004.jpg" width="3112px" height="3508px"/> -\->
+         <graphic url="https://files.transkribus.eu/Get?id=NWTVEQUKWJFIOHRDVJVHRHZE&amp;fileType=view" width="3112px" height="3508px"/>
+         <zone points="501,277 2961,277 2961,2866 501,2866" rendition="TextRegion" xml:id="facs_4_tr_1">
+            <zone points="552,180 2863,180 2863,399 552,399" rendition="Line" xml:id="facs_4_tr_1_tl_1"/>
+            <zone points="537,333 2854,333 2854,477 537,477" rendition="Line" xml:id="facs_4_tr_1_tl_2"/>
+            <zone points="537,414 2818,414 2818,567 537,567" rendition="Line" xml:id="facs_4_tr_1_tl_3"/>
+            <zone points="525,501 2878,501 2878,654 525,654" rendition="Line" xml:id="facs_4_tr_1_tl_4"/>
+            <zone points="540,606 2848,606 2848,747 540,747" rendition="Line" xml:id="facs_4_tr_1_tl_5"/>
+            <zone points="498,675 2887,675 2887,843 498,843" rendition="Line" xml:id="facs_4_tr_1_tl_6"/>
+            <zone points="555,780 2884,780 2884,924 555,924" rendition="Line" xml:id="facs_4_tr_1_tl_7"/>
+            <zone points="522,864 2848,864 2848,1011 522,1011" rendition="Line" xml:id="facs_4_tr_1_tl_8"/>
+            <zone points="546,945 2947,945 2947,1098 546,1098" rendition="Line" xml:id="facs_4_tr_1_tl_9"/>
+            <zone points="546,1029 2875,1029 2875,1179 546,1179" rendition="Line" xml:id="facs_4_tr_1_tl_10"/>
+            <zone points="552,1122 2860,1122 2860,1273 552,1273" rendition="Line" xml:id="facs_4_tr_1_tl_11"/>
+            <zone points="552,1210 2845,1210 2845,1345 552,1345" rendition="Line" xml:id="facs_4_tr_1_tl_12"/>
+            <zone points="549,1294 2881,1294 2881,1486 549,1486" rendition="Line" xml:id="facs_4_tr_1_tl_13"/>
+            <zone points="561,1402 1143,1402 1143,1552 561,1552" rendition="Line" xml:id="facs_4_tr_1_tl_14"/>
+            <zone points="483,1546 2896,1546 2896,1777 483,1777" rendition="Line" xml:id="facs_4_tr_1_tl_15"/>
+            <zone points="561,1714 2923,1714 2923,1873 561,1873" rendition="Line" xml:id="facs_4_tr_1_tl_16"/>
+            <zone points="567,1813 2851,1813 2851,1978 567,1978" rendition="Line" xml:id="facs_4_tr_1_tl_17"/>
+            <zone points="558,1912 2956,1912 2956,2074 558,2074" rendition="Line" xml:id="facs_4_tr_1_tl_18"/>
+            <zone points="495,2008 1762,2008 1762,2179 495,2179" rendition="Line" xml:id="facs_4_tr_1_tl_19"/>
+            <zone points="543,2158 2896,2158 2896,2347 543,2347" rendition="Line" xml:id="facs_4_tr_1_tl_21"/>
+            <zone points="552,2296 2905,2296 2905,2452 552,2452" rendition="Line" xml:id="facs_4_tr_1_tl_22"/>
+            <zone points="555,2383 2935,2383 2935,2542 555,2542" rendition="Line" xml:id="facs_4_tr_1_tl_23"/>
+            <zone points="561,2470 2902,2470 2902,2620 561,2620" rendition="Line" xml:id="facs_4_tr_1_tl_24"/>
+            <zone points="570,2563 2926,2563 2926,2737 570,2737" rendition="Line" xml:id="facs_4_tr_1_tl_25"/>
+            <zone points="576,2641 2893,2641 2893,2875 576,2875" rendition="Line" xml:id="facs_4_tr_1_tl_26"/>
+            <zone points="570,2743 1204,2743 1204,2905 570,2905" rendition="Line" xml:id="facs_4_tr_1_tl_27"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3150" lry="3508" xml:id="facs_5">
+         <!-\- <graphic url="0005_1565%20Stuttgart%20Landtagsabschied%20seitenweise-0005.jpg" width="3150px" height="3508px"/> -\->
+         <graphic url="https://files.transkribus.eu/Get?id=RZDPLBFBDXPOAUWTTLNCWWBG&amp;fileType=view" width="3150px" height="3508px"/>
+         <zone points="414,307 3054,307 3054,3041 414,3041" rendition="TextRegion" xml:id="facs_5_tr_1">
+            <zone points="407,194 2823,194 2823,417 407,417" rendition="Line" xml:id="facs_5_tr_1_tl_1"/>
+            <zone points="468,384 2839,384 2839,517 468,517" rendition="Line" xml:id="facs_5_tr_1_tl_2"/>
+            <zone points="495,448 2892,448 2892,608 495,608" rendition="Line" xml:id="facs_5_tr_1_tl_3"/>
+            <zone points="459,552 2833,552 2833,717 459,717" rendition="Line" xml:id="facs_5_tr_1_tl_4"/>
+            <zone points="446,659 2897,659 2897,820 446,820" rendition="Line" xml:id="facs_5_tr_1_tl_5"/>
+            <zone points="455,746 2817,746 2817,908 455,908" rendition="Line" xml:id="facs_5_tr_1_tl_6"/>
+            <zone points="446,840 2820,840 2820,1005 446,1005" rendition="Line" xml:id="facs_5_tr_1_tl_7"/>
+            <zone points="465,930 1854,930 1854,1089 465,1089" rendition="Line" xml:id="facs_5_tr_1_tl_8"/>
+            <zone points="1996,950 2852,950 2852,1089 1996,1089" rendition="Line" xml:id="facs_5_tr_1_tl_9"/>
+            <zone points="472,1021 2913,1021 2913,1185 472,1185" rendition="Line" xml:id="facs_5_tr_1_tl_10"/>
+            <zone points="472,1108 2913,1108 2913,1289 472,1289" rendition="Line" xml:id="facs_5_tr_1_tl_11"/>
+            <zone points="488,1205 2442,1205 2442,1386 488,1386" rendition="Line" xml:id="facs_5_tr_1_tl_12"/>
+            <zone points="410,1337 2833,1337 2833,1579 410,1579" rendition="Line" xml:id="facs_5_tr_1_tl_13"/>
+            <zone points="478,1495 2817,1495 2817,1676 478,1676" rendition="Line" xml:id="facs_5_tr_1_tl_14"/>
+            <zone points="468,1599 2762,1599 2762,1783 468,1783" rendition="Line" xml:id="facs_5_tr_1_tl_15"/>
+            <zone points="465,1702 2904,1702 2904,1909 465,1909" rendition="Line" xml:id="facs_5_tr_1_tl_16"/>
+            <zone points="449,1796 2781,1796 2781,1967 449,1967" rendition="Line" xml:id="facs_5_tr_1_tl_17"/>
+            <zone points="443,1880 2852,1880 2852,2054 443,2054" rendition="Line" xml:id="facs_5_tr_1_tl_18"/>
+            <zone points="459,1983 2871,1983 2871,2148 459,2148" rendition="Line" xml:id="facs_5_tr_1_tl_19"/>
+            <zone points="459,2070 2871,2070 2871,2251 459,2251" rendition="Line" xml:id="facs_5_tr_1_tl_20"/>
+            <zone points="459,2151 2859,2151 2859,2332 459,2332" rendition="Line" xml:id="facs_5_tr_1_tl_21"/>
+            <zone points="455,2248 2875,2248 2875,2442 455,2442" rendition="Line" xml:id="facs_5_tr_1_tl_22"/>
+            <zone points="465,2342 2868,2342 2868,2555 465,2555" rendition="Line" xml:id="facs_5_tr_1_tl_23"/>
+            <zone points="462,2461 1189,2461 1189,2636 462,2636" rendition="Line" xml:id="facs_5_tr_1_tl_24"/>
+            <zone points="397,2539 2836,2539 2836,2752 397,2752" rendition="Line" xml:id="facs_5_tr_1_tl_25"/>
+            <zone points="455,2665 2859,2665 2859,2855 455,2855" rendition="Line" xml:id="facs_5_tr_1_tl_26"/>
+            <zone points="449,2771 3049,2771 3049,2991 449,2991" rendition="Line" xml:id="facs_5_tr_1_tl_27"/>
+            <zone points="452,2891 1172,2891 1172,3085 452,3085" rendition="Line" xml:id="facs_5_tr_1_tl_28"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2979" lry="3508" xml:id="facs_6">
+         <!-\- <graphic url="0006_1565%20Stuttgart%20Landtagsabschied%20seitenweise-0006.jpg" width="2979px" height="3508px"/> -\->
+         <graphic url="https://files.transkribus.eu/Get?id=XWFZVPHSWWEPIRKYBOXECHMM&amp;fileType=view" width="2979px" height="3508px"/>
+         <zone points="331,344 2872,344 2872,2956 331,2956" rendition="TextRegion" xml:id="facs_6_tr_1">
+            <zone points="464,241 2725,241 2725,464 464,464" rendition="Line" xml:id="facs_6_tr_1_tl_1"/>
+            <zone points="491,399 2799,399 2799,544 491,544" rendition="Line" xml:id="facs_6_tr_1_tl_2"/>
+            <zone points="488,482 2755,482 2755,637 488,637" rendition="Line" xml:id="facs_6_tr_1_tl_3"/>
+            <zone points="479,571 2746,571 2746,729 479,729" rendition="Line" xml:id="facs_6_tr_1_tl_4"/>
+            <zone points="494,669 2767,669 2767,815 494,815" rendition="Line" xml:id="facs_6_tr_1_tl_5"/>
+            <zone points="500,753 2743,753 2743,907 500,907" rendition="Line" xml:id="facs_6_tr_1_tl_6"/>
+            <zone points="482,839 2710,839 2710,994 482,994" rendition="Line" xml:id="facs_6_tr_1_tl_7"/>
+            <zone points="467,922 2740,922 2740,1086 467,1086" rendition="Line" xml:id="facs_6_tr_1_tl_8"/>
+            <zone points="485,1026 2782,1026 2782,1169 485,1169" rendition="Line" xml:id="facs_6_tr_1_tl_9"/>
+            <zone points="488,1116 2764,1116 2764,1291 488,1291" rendition="Line" xml:id="facs_6_tr_1_tl_10"/>
+            <zone points="512,1232 2826,1232 2826,1455 512,1455" rendition="Line" xml:id="facs_6_tr_1_tl_11"/>
+            <zone points="497,1386 2832,1386 2832,1505 497,1505" rendition="Line" xml:id="facs_6_tr_1_tl_12"/>
+            <zone points="500,1476 2865,1476 2865,1639 500,1639" rendition="Line" xml:id="facs_6_tr_1_tl_13"/>
+            <zone points="497,1550 2749,1550 2749,1690 497,1690" rendition="Line" xml:id="facs_6_tr_1_tl_14"/>
+            <zone points="503,1630 2737,1630 2737,1782 503,1782" rendition="Line" xml:id="facs_6_tr_1_tl_15"/>
+            <zone points="497,1714 2725,1714 2725,1868 497,1868" rendition="Line" xml:id="facs_6_tr_1_tl_16"/>
+            <zone points="467,1797 2710,1797 2710,1955 467,1955" rendition="Line" xml:id="facs_6_tr_1_tl_17"/>
+            <zone points="497,1892 2755,1892 2755,2050 497,2050" rendition="Line" xml:id="facs_6_tr_1_tl_18"/>
+            <zone points="497,1972 2796,1972 2796,2139 497,2139" rendition="Line" xml:id="facs_6_tr_1_tl_19"/>
+            <zone points="506,2068 2817,2068 2817,2231 506,2231" rendition="Line" xml:id="facs_6_tr_1_tl_20"/>
+            <zone points="503,2163 2838,2163 2838,2320 503,2320" rendition="Line" xml:id="facs_6_tr_1_tl_21"/>
+            <zone points="485,2255 2841,2255 2841,2422 485,2422" rendition="Line" xml:id="facs_6_tr_1_tl_22"/>
+            <zone points="467,2344 2802,2344 2802,2556 467,2556" rendition="Line" xml:id="facs_6_tr_1_tl_23"/>
+            <zone points="473,2434 1250,2434 1250,2606 473,2606" rendition="Line" xml:id="facs_6_tr_1_tl_24"/>
+            <zone points="312,2550 2701,2550 2701,2794 312,2794" rendition="Line" xml:id="facs_6_tr_1_tl_25"/>
+            <zone points="491,2719 2773,2719 2773,2898 491,2898" rendition="Line" xml:id="facs_6_tr_1_tl_26"/>
+            <zone points="497,2802 2767,2802 2767,2999 497,2999" rendition="Line" xml:id="facs_6_tr_1_tl_27"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2970" lry="3508" xml:id="facs_7">
+         <!-\-<graphic url="0007_1565%20Stuttgart%20Landtagsabschied%20seitenweise-0007.jpg" width="2970px" height="3508px"/> -\->
+         <graphic url="https://files.transkribus.eu/Get?id=TNOOBEVGEFNBCXNFPVJFHTHA&amp;fileType=view" width="2970px" height="3508px"/>
+         <zone points="337,326 2818,326 2818,2938 337,2938" rendition="TextRegion" xml:id="facs_7_tr_1">
+            <zone points="467,217 2666,217 2666,446 467,446" rendition="Line" xml:id="facs_7_tr_1_tl_1"/>
+            <zone points="464,382 2577,382 2577,541 464,541" rendition="Line" xml:id="facs_7_tr_1_tl_2"/>
+            <zone points="440,473 2641,473 2641,632 440,632" rendition="Line" xml:id="facs_7_tr_1_tl_3"/>
+            <zone points="440,559 2461,559 2461,715 440,715" rendition="Line" xml:id="facs_7_tr_1_tl_4"/>
+            <zone points="394,669 2684,669 2684,895 394,895" rendition="Line" xml:id="facs_7_tr_1_tl_5"/>
+            <zone points="440,825 2669,825 2669,971 440,971" rendition="Line" xml:id="facs_7_tr_1_tl_6"/>
+            <zone points="437,919 2684,919 2684,1066 437,1066" rendition="Line" xml:id="facs_7_tr_1_tl_7"/>
+            <zone points="458,1014 2703,1014 2703,1197 458,1197" rendition="Line" xml:id="facs_7_tr_1_tl_8"/>
+            <zone points="440,1099 2611,1099 2611,1270 440,1270" rendition="Line" xml:id="facs_7_tr_1_tl_9"/>
+            <zone points="452,1191 2580,1191 2580,1377 452,1377" rendition="Line" xml:id="facs_7_tr_1_tl_10"/>
+            <zone points="434,1276 1032,1276 1032,1417 434,1417" rendition="Line" xml:id="facs_7_tr_1_tl_11"/>
+            <zone points="392,1384 2636,1384 2636,1583 392,1583" rendition="Line" xml:id="facs_7_tr_1_tl_12"/>
+            <zone points="428,1505 2672,1505 2672,1677 428,1677" rendition="Line" xml:id="facs_7_tr_1_tl_13"/>
+            <zone points="428,1603 2693,1603 2693,1783 428,1783" rendition="Line" xml:id="facs_7_tr_1_tl_14"/>
+            <zone points="437,1689 2712,1689 2712,1866 437,1866" rendition="Line" xml:id="facs_7_tr_1_tl_15"/>
+            <zone points="431,1780 2706,1780 2706,1933 431,1933" rendition="Line" xml:id="facs_7_tr_1_tl_16"/>
+            <zone points="431,1866 2751,1866 2751,2031 431,2031" rendition="Line" xml:id="facs_7_tr_1_tl_17"/>
+            <zone points="409,1951 2751,1951 2751,2119 409,2119" rendition="Line" xml:id="facs_7_tr_1_tl_18"/>
+            <zone points="409,2043 2727,2043 2727,2211 409,2211" rendition="Line" xml:id="facs_7_tr_1_tl_19"/>
+            <zone points="406,2132 2715,2132 2715,2290 406,2290" rendition="Line" xml:id="facs_7_tr_1_tl_20"/>
+            <zone points="403,2223 2813,2223 2813,2388 403,2388" rendition="Line" xml:id="facs_7_tr_1_tl_21"/>
+            <zone points="400,2318 2797,2318 2797,2501 400,2501" rendition="Line" xml:id="facs_7_tr_1_tl_22"/>
+            <zone points="388,2422 2513,2422 2513,2617 388,2617" rendition="Line" xml:id="facs_7_tr_1_tl_23"/>
+            <zone points="321,2556 2776,2556 2776,2779 321,2779" rendition="Line" xml:id="facs_7_tr_1_tl_24"/>
+            <zone points="394,2709 2803,2709 2803,2877 394,2877" rendition="Line" xml:id="facs_7_tr_1_tl_25"/>
+            <zone points="382,2800 2800,2800 2800,2980 382,2980" rendition="Line" xml:id="facs_7_tr_1_tl_26"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3029" lry="3508" xml:id="facs_8">
+         <!-\- <graphic url="0008_1565%20Stuttgart%20Landtagsabschied%20seitenweise-0008.jpg" width="3029px" height="3508px"/> -\->
+         <graphic url="https://files.transkribus.eu/Get?id=FMTRZWXZKCNLMTGZPMBJOUTD&amp;fileType=view" width="3029px" height="3508px"/>
+         <zone points="349,330 2794,330 2794,2954 349,2954" rendition="TextRegion" xml:id="facs_8_tr_1">
+            <zone points="517,233 2731,233 2731,464 517,464" rendition="Line" xml:id="facs_8_tr_1_tl_1"/>
+            <zone points="502,399 2758,399 2758,537 502,537" rendition="Line" xml:id="facs_8_tr_1_tl_2"/>
+            <zone points="508,478 2719,478 2719,638 508,638" rendition="Line" xml:id="facs_8_tr_1_tl_3"/>
+            <zone points="502,570 2746,570 2746,720 502,720" rendition="Line" xml:id="facs_8_tr_1_tl_4"/>
+            <zone points="505,673 2690,673 2690,841 505,841" rendition="Line" xml:id="facs_8_tr_1_tl_5"/>
+            <zone points="511,768 2696,768 2696,924 511,924" rendition="Line" xml:id="facs_8_tr_1_tl_6"/>
+            <zone points="517,844 2645,844 2645,1042 517,1042" rendition="Line" xml:id="facs_8_tr_1_tl_7"/>
+            <zone points="490,930 1453,930 1453,1116 490,1116" rendition="Line" xml:id="facs_8_tr_1_tl_8"/>
+            <zone points="531,1095 2707,1095 2707,1314 531,1314" rendition="Line" xml:id="facs_8_tr_1_tl_9"/>
+            <zone points="511,1196 2672,1196 2672,1394 511,1394" rendition="Line" xml:id="facs_8_tr_1_tl_10"/>
+            <zone points="508,1311 2755,1311 2755,1488 508,1488" rendition="Line" xml:id="facs_8_tr_1_tl_11"/>
+            <zone points="511,1388 2707,1388 2707,1574 511,1574" rendition="Line" xml:id="facs_8_tr_1_tl_13"/>
+            <zone points="331,1482 2702,1482 2702,1671 331,1671" rendition="Line" xml:id="facs_8_tr_1_tl_14"/>
+            <zone points="466,1577 2778,1577 2778,1745 466,1745" rendition="Line" xml:id="facs_8_tr_1_tl_15"/>
+            <zone points="520,1653 2752,1653 2752,1860 520,1860" rendition="Line" xml:id="facs_8_tr_1_tl_16"/>
+            <zone points="520,1745 2173,1745 2173,1937 520,1937" rendition="Line" xml:id="facs_8_tr_1_tl_17"/>
+            <zone points="461,1845 2728,1845 2728,2149 461,2149" rendition="Line" xml:id="facs_8_tr_1_tl_18"/>
+            <zone points="523,2049 2710,2049 2710,2226 523,2226" rendition="Line" xml:id="facs_8_tr_1_tl_19"/>
+            <zone points="487,2129 2250,2129 2250,2318 487,2318" rendition="Line" xml:id="facs_8_tr_1_tl_20"/>
+            <zone points="478,2238 2722,2238 2722,2530 478,2530" rendition="Line" xml:id="facs_8_tr_1_tl_21"/>
+            <zone points="517,2394 2681,2394 2681,2598 517,2598" rendition="Line" xml:id="facs_8_tr_1_tl_22"/>
+            <zone points="505,2489 2699,2489 2699,2719 505,2719" rendition="Line" xml:id="facs_8_tr_1_tl_23"/>
+            <zone points="526,2578 2672,2578 2672,2787 526,2787" rendition="Line" xml:id="facs_8_tr_1_tl_24"/>
+            <zone points="526,2669 2787,2669 2787,2885 526,2885" rendition="Line" xml:id="facs_8_tr_1_tl_25"/>
+            <zone points="531,2781 2764,2781 2764,2994 531,2994" rendition="Line" xml:id="facs_8_tr_1_tl_26"/>
+         </zone>
+         <zone points="2794,0 2881,0 2881,148 2794,148" rendition="TextRegion" xml:id="facs_8_tr_2">
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3033" lry="3508" xml:id="facs_9">
+         <!-\- <graphic url="0009_1565%20Stuttgart%20Landtagsabschied%20seitenweise-0009.jpg" width="3033px" height="3508px"/> -\->
+         <graphic url="https://files.transkribus.eu/Get?id=FMCXHQCERNJZDUMQJMXJKOYM&amp;fileType=view" width="3033px" height="3508px"/>
+         <zone points="400,330 2884,330 2884,2999 400,2999" rendition="TextRegion" xml:id="facs_9_tr_1">
+            <zone points="469,219 2796,219 2796,478 469,478" rendition="Line" xml:id="facs_9_tr_1_tl_2"/>
+            <zone points="456,396 2750,396 2750,566 456,566" rendition="Line" xml:id="facs_9_tr_1_tl_3"/>
+            <zone points="462,496 2796,496 2796,651 462,651" rendition="Line" xml:id="facs_9_tr_1_tl_4"/>
+            <zone points="450,584 2784,584 2784,739 450,739" rendition="Line" xml:id="facs_9_tr_1_tl_5"/>
+            <zone points="472,660 2875,660 2875,821 472,821" rendition="Line" xml:id="facs_9_tr_1_tl_6"/>
+            <zone points="456,758 2814,758 2814,940 456,940" rendition="Line" xml:id="facs_9_tr_1_tl_7"/>
+            <zone points="429,864 2836,864 2836,1083 429,1083" rendition="Line" xml:id="facs_9_tr_1_tl_8"/>
+            <zone points="453,1010 2757,1010 2757,1174 453,1174" rendition="Line" xml:id="facs_9_tr_1_tl_9"/>
+            <zone points="456,1092 2826,1092 2826,1272 456,1272" rendition="Line" xml:id="facs_9_tr_1_tl_10"/>
+            <zone points="444,1193 2769,1193 2769,1372 444,1372" rendition="Line" xml:id="facs_9_tr_1_tl_11"/>
+            <zone points="423,1299 2717,1299 2717,1457 423,1457" rendition="Line" xml:id="facs_9_tr_1_tl_12"/>
+            <zone points="444,1393 2726,1393 2726,1558 444,1558" rendition="Line" xml:id="facs_9_tr_1_tl_13"/>
+            <zone points="441,1497 2753,1497 2753,1664 441,1664" rendition="Line" xml:id="facs_9_tr_1_tl_14"/>
+            <zone points="438,1594 2741,1594 2741,1774 438,1774" rendition="Line" xml:id="facs_9_tr_1_tl_15"/>
+            <zone points="414,1692 2242,1692 2242,1886 414,1886" rendition="Line" xml:id="facs_9_tr_1_tl_17"/>
+            <zone points="396,1813 2781,1813 2781,2026 396,2026" rendition="Line" xml:id="facs_9_tr_1_tl_19"/>
+            <zone points="417,1962 2805,1962 2805,2151 417,2151" rendition="Line" xml:id="facs_9_tr_1_tl_20"/>
+            <zone points="414,2060 2620,2060 2620,2239 414,2239" rendition="Line" xml:id="facs_9_tr_1_tl_21"/>
+            <zone points="408,2194 2830,2194 2830,2431 408,2431" rendition="Line" xml:id="facs_9_tr_1_tl_22"/>
+            <zone points="402,2334 2769,2334 2769,2525 402,2525" rendition="Line" xml:id="facs_9_tr_1_tl_23"/>
+            <zone points="396,2431 2772,2431 2772,2607 396,2607" rendition="Line" xml:id="facs_9_tr_1_tl_24"/>
+            <zone points="396,2528 2839,2528 2839,2729 396,2729" rendition="Line" xml:id="facs_9_tr_1_tl_25"/>
+            <zone points="386,2632 2775,2632 2775,2830 386,2830" rendition="Line" xml:id="facs_9_tr_1_tl_26"/>
+            <zone points="383,2738 2799,2738 2799,2933 383,2933" rendition="Line" xml:id="facs_9_tr_1_tl_27"/>
+            <zone points="386,2836 2802,2836 2802,3052 386,3052" rendition="Line" xml:id="facs_9_tr_1_tl_28"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3054" lry="3508" xml:id="facs_10">
+         <!-\- <graphic url="0010_1565%20Stuttgart%20Landtagsabschied%20seitenweise-0010.jpg" width="3054px" height="3508px"/> -\->
+         <graphic url="https://files.transkribus.eu/Get?id=IPMNGNXLCXLBABVOZHGWNJPR&amp;fileType=view" width="3054px" height="3508px"/>
+         <zone points="444,336 2964,336 2964,3060 444,3060" rendition="TextRegion" xml:id="facs_10_tr_1">
+            <zone points="444,227 2830,227 2830,516 444,516" rendition="Line" xml:id="facs_10_tr_1_tl_1"/>
+            <zone points="438,422 2864,422 2864,618 438,618" rendition="Line" xml:id="facs_10_tr_1_tl_2"/>
+            <zone points="447,516 2845,516 2845,696 447,696" rendition="Line" xml:id="facs_10_tr_1_tl_3"/>
+            <zone points="444,627 2848,627 2848,792 444,792" rendition="Line" xml:id="facs_10_tr_1_tl_4"/>
+            <zone points="454,714 2883,714 2883,916 454,916" rendition="Line" xml:id="facs_10_tr_1_tl_5"/>
+            <zone points="450,829 2901,829 2901,1034 450,1034" rendition="Line" xml:id="facs_10_tr_1_tl_6"/>
+            <zone points="447,923 2876,923 2876,1118 447,1118" rendition="Line" xml:id="facs_10_tr_1_tl_7"/>
+            <zone points="469,1037 2892,1037 2892,1224 469,1224" rendition="Line" xml:id="facs_10_tr_1_tl_8"/>
+            <zone points="457,1124 2886,1124 2886,1339 457,1339" rendition="Line" xml:id="facs_10_tr_1_tl_9"/>
+            <zone points="457,1230 2951,1230 2951,1491 457,1491" rendition="Line" xml:id="facs_10_tr_1_tl_10"/>
+            <zone points="444,1382 851,1382 851,1556 444,1556" rendition="Line" xml:id="facs_10_tr_1_tl_11"/>
+            <zone points="441,1479 2876,1479 2876,1705 441,1705" rendition="Line" xml:id="facs_10_tr_1_tl_12"/>
+            <zone points="450,1628 1308,1628 1308,1771 450,1771" rendition="Line" xml:id="facs_10_tr_1_tl_13"/>
+            <zone points="457,1702 2013,1702 2013,1926 457,1926" rendition="Line" xml:id="facs_10_tr_1_tl_14"/>
+            <zone points="2069,1708 2917,1708 2917,1935 2069,1935" rendition="Line" xml:id="facs_10_tr_1_tl_15"/>
+            <zone points="466,1867 2957,1867 2957,2041 466,2041" rendition="Line" xml:id="facs_10_tr_1_tl_16"/>
+            <zone points="481,1969 2901,1969 2901,2159 481,2159" rendition="Line" xml:id="facs_10_tr_1_tl_17"/>
+            <zone points="438,2066 1438,2066 1438,2258 438,2258" rendition="Line" xml:id="facs_10_tr_1_tl_18"/>
+            <zone points="422,2230 2861,2230 2861,2473 422,2473" rendition="Line" xml:id="facs_10_tr_1_tl_19"/>
+            <zone points="478,2395 2889,2395 2889,2569 478,2569" rendition="Line" xml:id="facs_10_tr_1_tl_20"/>
+            <zone points="478,2491 2827,2491 2827,2665 478,2665" rendition="Line" xml:id="facs_10_tr_1_tl_21"/>
+            <zone points="454,2581 2901,2581 2901,2768 454,2768" rendition="Line" xml:id="facs_10_tr_1_tl_22"/>
+            <zone points="475,2693 2848,2693 2848,2873 475,2873" rendition="Line" xml:id="facs_10_tr_1_tl_23"/>
+            <zone points="481,2793 2917,2793 2917,2991 481,2991" rendition="Line" xml:id="facs_10_tr_1_tl_24"/>
+            <zone points="469,2914 2345,2914 2345,3100 469,3100" rendition="Line" xml:id="facs_10_tr_1_tl_25"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3037" lry="3508" xml:id="facs_11">
+         <!-\- <graphic url="0011_1565%20Stuttgart%20Landtagsabschied%20seitenweise-0011.jpg" width="3037px" height="3508px"/> -\->
+         <graphic url="https://files.transkribus.eu/Get?id=ERHWGELUZUZGHBFUBTCLUAMD&amp;fileType=view" width="3037px" height="3508px"/>
+         <zone points="376,358 2901,358 2901,3066 376,3066" rendition="TextRegion" xml:id="facs_11_tr_1">
+            <zone points="373,253 2867,253 2867,480 373,480" rendition="Line" xml:id="facs_11_tr_1_tl_1"/>
+            <zone points="423,420 2823,420 2823,590 423,590" rendition="Line" xml:id="facs_11_tr_1_tl_2"/>
+            <zone points="429,521 2810,521 2810,682 429,682" rendition="Line" xml:id="facs_11_tr_1_tl_3"/>
+            <zone points="448,632 2750,632 2750,802 448,802" rendition="Line" xml:id="facs_11_tr_1_tl_4"/>
+            <zone points="439,733 2078,733 2078,884 439,884" rendition="Line" xml:id="facs_11_tr_1_tl_5"/>
+            <zone points="455,830 2829,830 2829,1051 455,1051" rendition="Line" xml:id="facs_11_tr_1_tl_6"/>
+            <zone points="445,985 2801,985 2801,1149 445,1149" rendition="Line" xml:id="facs_11_tr_1_tl_7"/>
+            <zone points="455,1086 2813,1086 2813,1247 455,1247" rendition="Line" xml:id="facs_11_tr_1_tl_8"/>
+            <zone points="452,1184 2810,1184 2810,1348 452,1348" rendition="Line" xml:id="facs_11_tr_1_tl_9"/>
+            <zone points="445,1269 2851,1269 2851,1465 445,1465" rendition="Line" xml:id="facs_11_tr_1_tl_10"/>
+            <zone points="455,1386 1800,1386 1800,1547 455,1547" rendition="Line" xml:id="facs_11_tr_1_tl_11"/>
+            <zone points="360,1490 2895,1490 2895,1733 360,1733" rendition="Line" xml:id="facs_11_tr_1_tl_12"/>
+            <zone points="461,1651 2848,1651 2848,1800 461,1800" rendition="Line" xml:id="facs_11_tr_1_tl_13"/>
+            <zone points="461,1762 2839,1762 2839,1996 461,1996" rendition="Line" xml:id="facs_11_tr_1_tl_14"/>
+            <zone points="458,1888 1269,1888 1269,2062 458,2062" rendition="Line" xml:id="facs_11_tr_1_tl_15"/>
+            <zone points="417,1983 2772,1983 2772,2210 417,2210" rendition="Line" xml:id="facs_11_tr_1_tl_16"/>
+            <zone points="455,2160 2775,2160 2775,2343 455,2343" rendition="Line" xml:id="facs_11_tr_1_tl_17"/>
+            <zone points="439,2245 2753,2245 2753,2450 439,2450" rendition="Line" xml:id="facs_11_tr_1_tl_18"/>
+            <zone points="426,2359 2318,2359 2318,2580 426,2580" rendition="Line" xml:id="facs_11_tr_1_tl_19"/>
+            <zone points="442,2494 2756,2494 2756,2775 442,2775" rendition="Line" xml:id="facs_11_tr_1_tl_20"/>
+            <zone points="420,2662 2892,2662 2892,2867 420,2867" rendition="Line" xml:id="facs_11_tr_1_tl_21"/>
+            <zone points="489,2763 2782,2763 2782,2971 489,2971" rendition="Line" xml:id="facs_11_tr_1_tl_22"/>
+            <zone points="486,2845 2835,2845 2835,3126 486,3126" rendition="Line" xml:id="facs_11_tr_1_tl_23"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2966" lry="3508" xml:id="facs_12">
+         <!-\- <graphic url="0012_1565%20Stuttgart%20Landtagsabschied%20seitenweise-0012.jpg" width="2966px" height="3508px"/> -\->
+         <graphic url="https://files.transkribus.eu/Get?id=ISFASRAQOFDMCDJWOGXGEGGV&amp;fileType=view" width="2966px" height="3508px"/>
+         <zone points="406,364 2901,364 2901,3024 406,3024" rendition="TextRegion" xml:id="facs_12_tr_1">
+            <zone points="407,255 2818,255 2818,485 407,485" rendition="Line" xml:id="facs_12_tr_1_tl_1"/>
+            <zone points="407,426 2846,426 2846,603 407,603" rendition="Line" xml:id="facs_12_tr_1_tl_2"/>
+            <zone points="426,526 2827,526 2827,700 426,700" rendition="Line" xml:id="facs_12_tr_1_tl_3"/>
+            <zone points="426,638 569,638 569,759 426,759" rendition="Line" xml:id="facs_12_tr_1_tl_4"/>
+            <zone points="398,700 2892,700 2892,924 398,924" rendition="Line" xml:id="facs_12_tr_1_tl_5"/>
+            <zone points="414,861 2780,861 2780,1020 414,1020" rendition="Line" xml:id="facs_12_tr_1_tl_6"/>
+            <zone points="395,955 2790,955 2790,1123 395,1123" rendition="Line" xml:id="facs_12_tr_1_tl_7"/>
+            <zone points="426,1061 2839,1061 2839,1244 426,1244" rendition="Line" xml:id="facs_12_tr_1_tl_8"/>
+            <zone points="432,1163 2843,1163 2843,1334 432,1334" rendition="Line" xml:id="facs_12_tr_1_tl_9"/>
+            <zone points="426,1263 2880,1263 2880,1455 426,1455" rendition="Line" xml:id="facs_12_tr_1_tl_10"/>
+            <zone points="1129,1375 2774,1375 2774,1558 1129,1558" rendition="Line" xml:id="facs_12_tr_1_tl_11"/>
+            <zone points="420,1375 1014,1375 1014,1530 420,1530" rendition="Line" xml:id="facs_12_tr_1_tl_12"/>
+            <zone points="420,1471 2827,1471 2827,1645 420,1645" rendition="Line" xml:id="facs_12_tr_1_tl_13"/>
+            <zone points="395,1586 2805,1586 2805,1742 395,1742" rendition="Line" xml:id="facs_12_tr_1_tl_14"/>
+            <zone points="420,1679 2889,1679 2889,1891 420,1891" rendition="Line" xml:id="facs_12_tr_1_tl_15"/>
+            <zone points="423,1835 622,1835 622,1956 423,1956" rendition="Line" xml:id="facs_12_tr_1_tl_16"/>
+            <zone points="386,1863 2703,1863 2703,2199 386,2199" rendition="Line" xml:id="facs_12_tr_1_tl_17"/>
+            <zone points="401,2071 2665,2071 2665,2298 401,2298" rendition="Line" xml:id="facs_12_tr_1_tl_18"/>
+            <zone points="423,2217 2743,2217 2743,2413 423,2413" rendition="Line" xml:id="facs_12_tr_1_tl_19"/>
+            <zone points="404,2292 2846,2292 2846,2538 404,2538" rendition="Line" xml:id="facs_12_tr_1_tl_20"/>
+            <zone points="420,2404 902,2404 902,2597 420,2597" rendition="Line" xml:id="facs_12_tr_1_tl_21"/>
+            <zone points="395,2569 2790,2569 2790,2793 395,2793" rendition="Line" xml:id="facs_12_tr_1_tl_22"/>
+            <zone points="426,2687 2727,2687 2727,2883 426,2883" rendition="Line" xml:id="facs_12_tr_1_tl_23"/>
+            <zone points="432,2783 2752,2783 2752,2964 432,2964" rendition="Line" xml:id="facs_12_tr_1_tl_24"/>
+            <zone points="420,2867 2833,2867 2833,3073 420,3073" rendition="Line" xml:id="facs_12_tr_1_tl_25"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3008" lry="3508" xml:id="facs_13">
+         <!-\- <graphic url="0013_1565%20Stuttgart%20Landtagsabschied%20seitenweise-0013.jpg" width="3008px" height="3508px"/> -\->
+         <graphic url="https://files.transkribus.eu/Get?id=TEMMRJMMXJQOOIIOLHBTTDSN&amp;fileType=view" width="3008px" height="3508px"/>
+         <zone points="423,349 2991,349 2991,3030 423,3030" rendition="TextRegion" xml:id="facs_13_tr_1">
+            <zone points="410,265 2915,265 2915,470 410,470" rendition="Line" xml:id="facs_13_tr_1_tl_1"/>
+            <zone points="416,404 2874,404 2874,558 416,558" rendition="Line" xml:id="facs_13_tr_1_tl_2"/>
+            <zone points="413,492 2940,492 2940,640 413,640" rendition="Line" xml:id="facs_13_tr_1_tl_3"/>
+            <zone points="407,574 2890,574 2890,732 407,732" rendition="Line" xml:id="facs_13_tr_1_tl_4"/>
+            <zone points="416,672 2874,672 2874,817 416,817" rendition="Line" xml:id="facs_13_tr_1_tl_5"/>
+            <zone points="416,754 2855,754 2855,931 416,931" rendition="Line" xml:id="facs_13_tr_1_tl_6"/>
+            <zone points="420,842 2811,842 2811,953 420,953" rendition="Line" xml:id="facs_13_tr_1_tl_7"/>
+            <zone points="410,928 2836,928 2836,1092 410,1092" rendition="Line" xml:id="facs_13_tr_1_tl_8"/>
+            <zone points="439,1013 2887,1013 2887,1171 439,1171" rendition="Line" xml:id="facs_13_tr_1_tl_9"/>
+            <zone points="432,1088 2899,1088 2899,1268 432,1268" rendition="Line" xml:id="facs_13_tr_1_tl_10"/>
+            <zone points="432,1180 2934,1180 2934,1353 432,1353" rendition="Line" xml:id="facs_13_tr_1_tl_11"/>
+            <zone points="429,1265 2934,1265 2934,1458 429,1458" rendition="Line" xml:id="facs_13_tr_1_tl_12"/>
+            <zone points="454,1379 1290,1379 1290,1578 454,1578" rendition="Line" xml:id="facs_13_tr_1_tl_13"/>
+            <zone points="416,1521 2931,1521 2931,1719 416,1719" rendition="Line" xml:id="facs_13_tr_1_tl_14"/>
+            <zone points="451,1663 2988,1663 2988,1820 451,1820" rendition="Line" xml:id="facs_13_tr_1_tl_15"/>
+            <zone points="451,1751 2940,1751 2940,1890 451,1890" rendition="Line" xml:id="facs_13_tr_1_tl_16"/>
+            <zone points="467,1833 2934,1833 2934,1978 467,1978" rendition="Line" xml:id="facs_13_tr_1_tl_17"/>
+            <zone points="416,1912 2884,1912 2884,2032 416,2032" rendition="Line" xml:id="facs_13_tr_1_tl_18"/>
+            <zone points="461,2007 2909,2007 2909,2171 461,2171" rendition="Line" xml:id="facs_13_tr_1_tl_19"/>
+            <zone points="470,2095 2149,2095 2149,2262 470,2262" rendition="Line" xml:id="facs_13_tr_1_tl_20"/>
+            <zone points="426,2180 2966,2180 2966,2407 426,2407" rendition="Line" xml:id="facs_13_tr_1_tl_21"/>
+            <zone points="480,2319 2944,2319 2944,2499 480,2499" rendition="Line" xml:id="facs_13_tr_1_tl_22"/>
+            <zone points="492,2410 2849,2410 2849,2597 492,2597" rendition="Line" xml:id="facs_13_tr_1_tl_23"/>
+            <zone points="489,2518 1571,2518 1571,2685 489,2685" rendition="Line" xml:id="facs_13_tr_1_tl_24"/>
+            <zone points="467,2578 2944,2578 2944,2783 467,2783" rendition="Line" xml:id="facs_13_tr_1_tl_25"/>
+            <zone points="489,2720 2912,2720 2912,2877 489,2877" rendition="Line" xml:id="facs_13_tr_1_tl_26"/>
+            <zone points="489,2805 2862,2805 2862,2997 489,2997" rendition="Line" xml:id="facs_13_tr_1_tl_27"/>
+            <zone points="480,2899 1193,2899 1193,3092 480,3092" rendition="Line" xml:id="facs_13_tr_1_tl_28"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2966" lry="3508" xml:id="facs_14">
+         <!-\- <graphic url="0014_1565%20Stuttgart%20Landtagsabschied%20seitenweise-0014.jpg" width="2966px" height="3508px"/> -\->
+         <graphic url="https://files.transkribus.eu/Get?id=QVKCWUZDWTTJTGBSASBKBVBO&amp;fileType=view" width="2966px" height="3508px"/>
+         <zone points="241,322 2806,322 2806,3030 241,3030" rendition="TextRegion" xml:id="facs_14_tr_1">
+            <zone points="224,211 2757,211 2757,447 224,447" rendition="Line" xml:id="facs_14_tr_1_tl_1"/>
+            <zone points="473,388 1169,388 1169,517 473,517" rendition="Line" xml:id="facs_14_tr_1_tl_2"/>
+            <zone points="413,451 2770,451 2770,643 413,643" rendition="Line" xml:id="facs_14_tr_1_tl_5"/>
+            <zone points="470,580 2792,580 2792,728 470,728" rendition="Line" xml:id="facs_14_tr_1_tl_6"/>
+            <zone points="476,659 2767,659 2767,826 476,826" rendition="Line" xml:id="facs_14_tr_1_tl_7"/>
+            <zone points="444,759 2760,759 2760,901 444,901" rendition="Line" xml:id="facs_14_tr_1_tl_8"/>
+            <zone points="479,813 2723,813 2723,974 479,974" rendition="Line" xml:id="facs_14_tr_1_tl_9"/>
+            <zone points="466,895 2760,895 2760,1109 466,1109" rendition="Line" xml:id="facs_14_tr_1_tl_10"/>
+            <zone points="473,993 2798,993 2798,1188 473,1188" rendition="Line" xml:id="facs_14_tr_1_tl_11"/>
+            <zone points="470,1087 2764,1087 2764,1273 470,1273" rendition="Line" xml:id="facs_14_tr_1_tl_12"/>
+            <zone points="473,1169 939,1169 939,1314 473,1314" rendition="Line" xml:id="facs_14_tr_1_tl_13"/>
+            <zone points="397,1251 2723,1251 2723,1544 397,1544" rendition="Line" xml:id="facs_14_tr_1_tl_14"/>
+            <zone points="460,1405 2313,1405 2313,1613 460,1613" rendition="Line" xml:id="facs_14_tr_1_tl_16"/>
+            <zone points="391,1487 2713,1487 2713,1708 391,1708" rendition="Line" xml:id="facs_14_tr_1_tl_17"/>
+            <zone points="470,1585 2764,1585 2764,1809 470,1809" rendition="Line" xml:id="facs_14_tr_1_tl_18"/>
+            <zone points="451,1654 2798,1654 2798,1878 451,1878" rendition="Line" xml:id="facs_14_tr_1_tl_19"/>
+            <zone points="441,1730 2688,1730 2688,1941 441,1941" rendition="Line" xml:id="facs_14_tr_1_tl_20"/>
+            <zone points="457,1809 2723,1809 2723,2026 457,2026" rendition="Line" xml:id="facs_14_tr_1_tl_21"/>
+            <zone points="466,1888 2770,1888 2770,2118 466,2118" rendition="Line" xml:id="facs_14_tr_1_tl_22"/>
+            <zone points="460,1988 2682,1988 2682,2190 460,2190" rendition="Line" xml:id="facs_14_tr_1_tl_23"/>
+            <zone points="457,2080 2723,2080 2723,2288 457,2288" rendition="Line" xml:id="facs_14_tr_1_tl_24"/>
+            <zone points="466,2174 2704,2174 2704,2395 466,2395" rendition="Line" xml:id="facs_14_tr_1_tl_25"/>
+            <zone points="463,2231 671,2231 671,2373 463,2373" rendition="Line" xml:id="facs_14_tr_1_tl_26"/>
+            <zone points="466,2310 2776,2310 2776,2609 466,2609" rendition="Line" xml:id="facs_14_tr_1_tl_27"/>
+            <zone points="444,2442 2757,2442 2757,2688 444,2688" rendition="Line" xml:id="facs_14_tr_1_tl_28"/>
+            <zone points="463,2549 2773,2549 2773,2811 463,2811" rendition="Line" xml:id="facs_14_tr_1_tl_29"/>
+            <zone points="451,2644 2077,2644 2077,2814 451,2814" rendition="Line" xml:id="facs_14_tr_1_tl_30"/>
+            <zone points="454,2748 2760,2748 2760,2956 454,2956" rendition="Line" xml:id="facs_14_tr_1_tl_31"/>
+            <zone points="466,2864 2735,2864 2735,3088 466,3088" rendition="Line" xml:id="facs_14_tr_1_tl_32"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2995" lry="3508" xml:id="facs_15">
+         <!-\- <graphic url="0015_1565%20Stuttgart%20Landtagsabschied%20seitenweise-0015.jpg" width="2995px" height="3508px"/> -\->
+         <graphic url="https://files.transkribus.eu/Get?id=SQAEPIURPPJJHXIHQQLMCIZT&amp;fileType=view" width="2995px" height="3508px"/>
+         <zone points="200,1052 444,1052 444,1217 200,1217" rendition="TextRegion" xml:id="facs_15_tr_1">
+         </zone>
+         <zone points="349,353 2961,353 2961,2999 349,2999" rendition="TextRegion" xml:id="facs_15_tr_2">
+            <zone points="454,266 2827,266 2827,470 454,470" rendition="Line" xml:id="facs_15_tr_2_tl_1"/>
+            <zone points="485,400 2776,400 2776,562 485,562" rendition="Line" xml:id="facs_15_tr_2_tl_2"/>
+            <zone points="498,450 2862,450 2862,644 498,644" rendition="Line" xml:id="facs_15_tr_2_tl_3"/>
+            <zone points="479,571 2827,571 2827,727 479,727" rendition="Line" xml:id="facs_15_tr_2_tl_4"/>
+            <zone points="485,673 1878,673 1878,822 485,822" rendition="Line" xml:id="facs_15_tr_2_tl_5"/>
+            <zone points="463,739 2770,739 2770,914 463,914" rendition="Line" xml:id="facs_15_tr_2_tl_6"/>
+            <zone points="476,866 2792,866 2792,990 476,990" rendition="Line" xml:id="facs_15_tr_2_tl_7"/>
+            <zone points="492,945 2643,945 2643,1085 492,1085" rendition="Line" xml:id="facs_15_tr_2_tl_8"/>
+            <zone points="489,993 2855,993 2855,1187 489,1187" rendition="Line" xml:id="facs_15_tr_2_tl_9"/>
+            <zone points="457,1120 2868,1120 2868,1247 457,1247" rendition="Line" xml:id="facs_15_tr_2_tl_10"/>
+            <zone points="466,1196 2811,1196 2811,1329 466,1329" rendition="Line" xml:id="facs_15_tr_2_tl_11"/>
+            <zone points="450,1266 2865,1266 2865,1424 450,1424" rendition="Line" xml:id="facs_15_tr_2_tl_12"/>
+            <zone points="457,1339 2919,1339 2919,1504 457,1504" rendition="Line" xml:id="facs_15_tr_2_tl_13"/>
+            <zone points="457,1415 2900,1415 2900,1599 457,1599" rendition="Line" xml:id="facs_15_tr_2_tl_14"/>
+            <zone points="447,1482 2919,1482 2919,1643 447,1643" rendition="Line" xml:id="facs_15_tr_2_tl_15"/>
+            <zone points="425,1567 2887,1567 2887,1729 425,1729" rendition="Line" xml:id="facs_15_tr_2_tl_16"/>
+            <zone points="460,1640 2957,1640 2957,1865 460,1865" rendition="Line" xml:id="facs_15_tr_2_tl_17"/>
+            <zone points="393,1770 2944,1770 2944,1970 393,1970" rendition="Line" xml:id="facs_15_tr_2_tl_18"/>
+            <zone points="441,1878 2950,1878 2950,2046 441,2046" rendition="Line" xml:id="facs_15_tr_2_tl_19"/>
+            <zone points="460,1976 1672,1976 1672,2129 460,2129" rendition="Line" xml:id="facs_15_tr_2_tl_20"/>
+            <zone points="441,1999 2865,1999 2865,2211 441,2211" rendition="Line" xml:id="facs_15_tr_2_tl_21"/>
+            <zone points="438,2135 2887,2135 2887,2325 438,2325" rendition="Line" xml:id="facs_15_tr_2_tl_22"/>
+            <zone points="444,2214 2551,2214 2551,2405 444,2405" rendition="Line" xml:id="facs_15_tr_2_tl_23"/>
+            <zone points="425,2291 2855,2291 2855,2484 425,2484" rendition="Line" xml:id="facs_15_tr_2_tl_24"/>
+            <zone points="438,2411 2563,2411 2563,2573 438,2573" rendition="Line" xml:id="facs_15_tr_2_tl_25"/>
+            <zone points="333,2497 2808,2497 2808,2684 333,2684" rendition="Line" xml:id="facs_15_tr_2_tl_26"/>
+            <zone points="425,2601 2836,2601 2836,2776 425,2776" rendition="Line" xml:id="facs_15_tr_2_tl_27"/>
+            <zone points="422,2684 2801,2684 2801,2855 422,2855" rendition="Line" xml:id="facs_15_tr_2_tl_28"/>
+            <zone points="1577,2757 2751,2757 2751,2916 1577,2916" rendition="Line" xml:id="facs_15_tr_2_tl_29"/>
+            <zone points="422,2795 1447,2795 1447,2944 422,2944" rendition="Line" xml:id="facs_15_tr_2_tl_30"/>
+            <zone points="431,2839 2808,2839 2808,3055 431,3055" rendition="Line" xml:id="facs_15_tr_2_tl_31"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3037" lry="3508" xml:id="facs_16">
+         <!-\- <graphic url="0016_1565%20Stuttgart%20Landtagsabschied%20seitenweise-0016.jpg" width="3037px" height="3508px"/> -\->
+         <graphic url="https://files.transkribus.eu/Get?id=DWFKDXSXMYFIABNXFBDQHBHO&amp;fileType=view" width="3037px" height="3508px"/>
+         <zone points="331,39 2970,39 2970,3160 331,3160" rendition="TextRegion" xml:id="facs_16_tr_1">
+            <zone points="358,223 2819,223 2819,423 358,423" rendition="Line" xml:id="facs_16_tr_1_tl_2"/>
+            <zone points="404,365 1004,365 1004,507 404,507" rendition="Line" xml:id="facs_16_tr_1_tl_3"/>
+            <zone points="333,400 2809,400 2809,597 333,597" rendition="Line" xml:id="facs_16_tr_1_tl_4"/>
+            <zone points="397,546 2848,546 2848,684 397,684" rendition="Line" xml:id="facs_16_tr_1_tl_5"/>
+            <zone points="384,581 2916,581 2916,781 384,781" rendition="Line" xml:id="facs_16_tr_1_tl_6"/>
+            <zone points="358,704 2880,704 2880,894 358,894" rendition="Line" xml:id="facs_16_tr_1_tl_7"/>
+            <zone points="404,827 2857,827 2857,994 404,994" rendition="Line" xml:id="facs_16_tr_1_tl_8"/>
+            <zone points="404,920 2819,920 2819,1069 404,1069" rendition="Line" xml:id="facs_16_tr_1_tl_9"/>
+            <zone points="407,998 2799,998 2799,1146 407,1146" rendition="Line" xml:id="facs_16_tr_1_tl_10"/>
+            <zone points="394,1078 2809,1078 2809,1230 394,1230" rendition="Line" xml:id="facs_16_tr_1_tl_11"/>
+            <zone points="407,1169 2757,1169 2757,1321 407,1321" rendition="Line" xml:id="facs_16_tr_1_tl_12"/>
+            <zone points="391,1246 2754,1246 2754,1414 391,1414" rendition="Line" xml:id="facs_16_tr_1_tl_13"/>
+            <zone points="394,1346 2896,1346 2896,1511 394,1511" rendition="Line" xml:id="facs_16_tr_1_tl_14"/>
+            <zone points="375,1417 2867,1417 2867,1605 375,1605" rendition="Line" xml:id="facs_16_tr_1_tl_15"/>
+            <zone points="391,1530 2825,1530 2825,1666 391,1666" rendition="Line" xml:id="facs_16_tr_1_tl_16"/>
+            <zone points="387,1631 2799,1631 2799,1766 387,1766" rendition="Line" xml:id="facs_16_tr_1_tl_17"/>
+            <zone points="342,1663 2828,1663 2828,1918 342,1918" rendition="Line" xml:id="facs_16_tr_1_tl_18"/>
+            <zone points="368,1795 2964,1795 2964,2031 368,2031" rendition="Line" xml:id="facs_16_tr_1_tl_19"/>
+            <zone points="384,1889 2883,1889 2883,2092 384,2092" rendition="Line" xml:id="facs_16_tr_1_tl_20"/>
+            <zone points="387,1986 2786,1986 2786,2205 387,2205" rendition="Line" xml:id="facs_16_tr_1_tl_21"/>
+            <zone points="381,2060 1246,2060 1246,2221 381,2221" rendition="Line" xml:id="facs_16_tr_1_tl_22"/>
+            <zone points="368,2163 2828,2163 2828,2389 368,2389" rendition="Line" xml:id="facs_16_tr_1_tl_23"/>
+            <zone points="387,2309 730,2309 730,2393 387,2393" rendition="Line" xml:id="facs_16_tr_1_tl_24"/>
+            <zone points="865,2292 2809,2292 2809,2480 865,2480" rendition="Line" xml:id="facs_16_tr_1_tl_25"/>
+            <zone points="397,2354 2751,2354 2751,2557 397,2557" rendition="Line" xml:id="facs_16_tr_1_tl_26"/>
+            <zone points="404,2460 2803,2460 2803,2699 404,2699" rendition="Line" xml:id="facs_16_tr_1_tl_27"/>
+            <zone points="387,2583 2835,2583 2835,2790 387,2790" rendition="Line" xml:id="facs_16_tr_1_tl_28"/>
+            <zone points="381,2686 2812,2686 2812,2896 381,2896" rendition="Line" xml:id="facs_16_tr_1_tl_29"/>
+            <zone points="387,2757 2864,2757 2864,3006 387,3006" rendition="Line" xml:id="facs_16_tr_1_tl_30"/>
+            <zone points="400,2845 2764,2845 2764,3071 400,3071" rendition="Line" xml:id="facs_16_tr_1_tl_31"/>
+            <zone points="310,2951 2809,2951 2809,3251 310,3251" rendition="Line" xml:id="facs_16_tr_1_tl_32"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2945" lry="3508" xml:id="facs_17">
+         <!-\- <graphic url="0017_1565%20Stuttgart%20Landtagsabschied%20seitenweise-0017.jpg" width="2945px" height="3508px"/> -\->
+         <graphic url="https://files.transkribus.eu/Get?id=EPAXZESUGOJAYFVAOOSEBARL&amp;fileType=view" width="2945px" height="3508px"/>
+         <zone points="319,298 2913,298 2913,3017 319,3017" rendition="TextRegion" xml:id="facs_17_tr_1">
+            <zone points="373,195 2751,195 2751,412 373,412" rendition="Line" xml:id="facs_17_tr_1_tl_1"/>
+            <zone points="389,351 2751,351 2751,482 389,482" rendition="Line" xml:id="facs_17_tr_1_tl_2"/>
+            <zone points="389,431 2751,431 2751,581 389,581" rendition="Line" xml:id="facs_17_tr_1_tl_3"/>
+            <zone points="380,520 2780,520 2780,654 380,654" rendition="Line" xml:id="facs_17_tr_1_tl_4"/>
+            <zone points="386,603 2799,603 2799,756 386,756" rendition="Line" xml:id="facs_17_tr_1_tl_5"/>
+            <zone points="389,693 1950,693 1950,827 389,827" rendition="Line" xml:id="facs_17_tr_1_tl_6"/>
+            <zone points="377,740 2834,740 2834,948 377,948" rendition="Line" xml:id="facs_17_tr_1_tl_7"/>
+            <zone points="402,887 2792,887 2792,1037 402,1037" rendition="Line" xml:id="facs_17_tr_1_tl_8"/>
+            <zone points="396,970 2843,970 2843,1107 396,1107" rendition="Line" xml:id="facs_17_tr_1_tl_9"/>
+            <zone points="393,1056 2863,1056 2863,1194 393,1194" rendition="Line" xml:id="facs_17_tr_1_tl_10"/>
+            <zone points="377,1136 2856,1136 2856,1276 377,1276" rendition="Line" xml:id="facs_17_tr_1_tl_11"/>
+            <zone points="386,1213 2879,1213 2879,1363 386,1363" rendition="Line" xml:id="facs_17_tr_1_tl_12"/>
+            <zone points="389,1302 2843,1302 2843,1446 389,1446" rendition="Line" xml:id="facs_17_tr_1_tl_13"/>
+            <zone points="389,1375 2866,1375 2866,1551 389,1551" rendition="Line" xml:id="facs_17_tr_1_tl_14"/>
+            <zone points="380,1465 2208,1465 2208,1618 380,1618" rendition="Line" xml:id="facs_17_tr_1_tl_15"/>
+            <zone points="367,1545 2827,1545 2827,1742 367,1742" rendition="Line" xml:id="facs_17_tr_1_tl_16"/>
+            <zone points="373,1672 2741,1672 2741,1816 373,1816" rendition="Line" xml:id="facs_17_tr_1_tl_17"/>
+            <zone points="370,1755 2856,1755 2856,1918 370,1918" rendition="Line" xml:id="facs_17_tr_1_tl_18"/>
+            <zone points="377,1848 2815,1848 2815,1998 377,1998" rendition="Line" xml:id="facs_17_tr_1_tl_19"/>
+            <zone points="373,1924 2796,1924 2796,2071 373,2071" rendition="Line" xml:id="facs_17_tr_1_tl_20"/>
+            <zone points="370,2001 2802,2001 2802,2151 370,2151" rendition="Line" xml:id="facs_17_tr_1_tl_21"/>
+            <zone points="364,2087 2776,2087 2776,2240 364,2240" rendition="Line" xml:id="facs_17_tr_1_tl_22"/>
+            <zone points="373,2167 2853,2167 2853,2377 373,2377" rendition="Line" xml:id="facs_17_tr_1_tl_23"/>
+            <zone points="364,2288 1088,2288 1088,2422 364,2422" rendition="Line" xml:id="facs_17_tr_1_tl_24"/>
+            <zone points="300,2333 2853,2333 2853,2575 300,2575" rendition="Line" xml:id="facs_17_tr_1_tl_25"/>
+            <zone points="306,2489 1663,2489 1663,2642 306,2642" rendition="Line" xml:id="facs_17_tr_1_tl_26"/>
+            <zone points="345,2534 2904,2534 2904,2783 345,2783" rendition="Line" xml:id="facs_17_tr_1_tl_27"/>
+            <zone points="370,2697 2879,2697 2879,2866 370,2866" rendition="Line" xml:id="facs_17_tr_1_tl_28"/>
+            <zone points="367,2780 2875,2780 2875,2955 367,2955" rendition="Line" xml:id="facs_17_tr_1_tl_29"/>
+            <zone points="361,2869 2834,2869 2834,3076 361,3076" rendition="Line" xml:id="facs_17_tr_1_tl_30"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2916" lry="3508" xml:id="facs_18">
+         <!-\- <graphic url="0018_1565%20Stuttgart%20Landtagsabschied%20seitenweise-0018.jpg" width="2916px" height="3508px"/> -\->
+         <graphic url="https://files.transkribus.eu/Get?id=BZDYCPBASKBMIFLFSQONHTAX&amp;fileType=view" width="2916px" height="3508px"/>
+         <zone points="409,50 2845,50 2845,2922 409,2922" rendition="TextRegion" xml:id="facs_18_tr_1">
+            <zone points="408,209 2836,209 2836,414 408,414" rendition="Line" xml:id="facs_18_tr_1_tl_2"/>
+            <zone points="411,354 2691,354 2691,496 411,496" rendition="Line" xml:id="facs_18_tr_1_tl_3"/>
+            <zone points="402,441 2718,441 2718,587 402,587" rendition="Line" xml:id="facs_18_tr_1_tl_4"/>
+            <zone points="402,511 2640,511 2640,662 402,662" rendition="Line" xml:id="facs_18_tr_1_tl_5"/>
+            <zone points="408,599 2646,599 2646,762 408,762" rendition="Line" xml:id="facs_18_tr_1_tl_6"/>
+            <zone points="405,698 1569,698 1569,816 405,816" rendition="Line" xml:id="facs_18_tr_1_tl_7"/>
+            <zone points="393,741 2749,741 2749,956 393,956" rendition="Line" xml:id="facs_18_tr_1_tl_8"/>
+            <zone points="399,880 2743,880 2743,1046 399,1046" rendition="Line" xml:id="facs_18_tr_1_tl_9"/>
+            <zone points="396,971 2740,971 2740,1143 396,1143" rendition="Line" xml:id="facs_18_tr_1_tl_10"/>
+            <zone points="393,1070 2767,1070 2767,1228 393,1228" rendition="Line" xml:id="facs_18_tr_1_tl_11"/>
+            <zone points="405,1143 1681,1143 1681,1318 405,1318" rendition="Line" xml:id="facs_18_tr_1_tl_12"/>
+            <zone points="408,1234 2776,1234 2776,1448 408,1448" rendition="Line" xml:id="facs_18_tr_1_tl_13"/>
+            <zone points="441,1391 2800,1391 2800,1521 441,1521" rendition="Line" xml:id="facs_18_tr_1_tl_14"/>
+            <zone points="426,1470 2715,1470 2715,1609 426,1609" rendition="Line" xml:id="facs_18_tr_1_tl_15"/>
+            <zone points="426,1548 2694,1548 2694,1693 426,1693" rendition="Line" xml:id="facs_18_tr_1_tl_16"/>
+            <zone points="432,1636 2661,1636 2661,1775 432,1775" rendition="Line" xml:id="facs_18_tr_1_tl_17"/>
+            <zone points="423,1711 2622,1711 2622,1860 423,1860" rendition="Line" xml:id="facs_18_tr_1_tl_18"/>
+            <zone points="423,1802 2658,1802 2658,1956 423,1956" rendition="Line" xml:id="facs_18_tr_1_tl_19"/>
+            <zone points="426,1899 2691,1899 2691,2056 426,2056" rendition="Line" xml:id="facs_18_tr_1_tl_20"/>
+            <zone points="438,1984 2667,1984 2667,2135 438,2135" rendition="Line" xml:id="facs_18_tr_1_tl_21"/>
+            <zone points="426,2083 1832,2083 1832,2225 426,2225" rendition="Line" xml:id="facs_18_tr_1_tl_22"/>
+            <zone points="423,2159 2646,2159 2646,2383 423,2383" rendition="Line" xml:id="facs_18_tr_1_tl_23"/>
+            <zone points="429,2298 2637,2298 2637,2470 429,2470" rendition="Line" xml:id="facs_18_tr_1_tl_24"/>
+            <zone points="426,2392 2413,2392 2413,2543 426,2543" rendition="Line" xml:id="facs_18_tr_1_tl_25"/>
+            <zone points="420,2470 2694,2470 2694,2691 420,2691" rendition="Line" xml:id="facs_18_tr_1_tl_26"/>
+            <zone points="420,2613 2697,2613 2697,2770 420,2770" rendition="Line" xml:id="facs_18_tr_1_tl_27"/>
+            <zone points="423,2694 2706,2694 2706,2867 423,2867" rendition="Line" xml:id="facs_18_tr_1_tl_28"/>
+            <zone points="411,2764 2694,2764 2694,2960 411,2960" rendition="Line" xml:id="facs_18_tr_1_tl_29"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3012" lry="3508" xml:id="facs_19">
+         <!-\- <graphic url="0019_1565%20Stuttgart%20Landtagsabschied%20seitenweise-0019.jpg" width="3012px" height="3508px"/> -\->
+         <graphic url="https://files.transkribus.eu/Get?id=KIGOZKMAJKMLZGISGCYBMQTO&amp;fileType=view" width="3012px" height="3508px"/>
+         <zone points="417,327 3002,327 3002,3010 417,3010" rendition="TextRegion" xml:id="facs_19_tr_1">
+            <zone points="448,212 2880,212 2880,442 448,442" rendition="Line" xml:id="facs_19_tr_1_tl_1"/>
+            <zone points="442,357 2905,357 2905,530 442,530" rendition="Line" xml:id="facs_19_tr_1_tl_2"/>
+            <zone points="448,464 2889,464 2889,613 448,613" rendition="Line" xml:id="facs_19_tr_1_tl_3"/>
+            <zone points="445,540 2918,540 2918,695 445,695" rendition="Line" xml:id="facs_19_tr_1_tl_4"/>
+            <zone points="452,632 2918,632 2918,827 452,827" rendition="Line" xml:id="facs_19_tr_1_tl_5"/>
+            <zone points="442,755 1014,755 1014,897 442,897" rendition="Line" xml:id="facs_19_tr_1_tl_6"/>
+            <zone points="401,811 2899,811 2899,1048 401,1048" rendition="Line" xml:id="facs_19_tr_1_tl_7"/>
+            <zone points="442,995 2930,995 2930,1137 442,1137" rendition="Line" xml:id="facs_19_tr_1_tl_8"/>
+            <zone points="448,1070 2921,1070 2921,1235 448,1235" rendition="Line" xml:id="facs_19_tr_1_tl_9"/>
+            <zone points="442,1152 2927,1152 2927,1329 442,1329" rendition="Line" xml:id="facs_19_tr_1_tl_10"/>
+            <zone points="442,1231 2952,1231 2952,1389 442,1389" rendition="Line" xml:id="facs_19_tr_1_tl_11"/>
+            <zone points="461,1336 2993,1336 2993,1481 461,1481" rendition="Line" xml:id="facs_19_tr_1_tl_12"/>
+            <zone points="464,1415 2940,1415 2940,1588 464,1588" rendition="Line" xml:id="facs_19_tr_1_tl_13"/>
+            <zone points="452,1525 2968,1525 2968,1680 452,1680" rendition="Line" xml:id="facs_19_tr_1_tl_14"/>
+            <zone points="467,1604 2959,1604 2959,1771 467,1771" rendition="Line" xml:id="facs_19_tr_1_tl_15"/>
+            <zone points="470,1705 2940,1705 2940,1860 470,1860" rendition="Line" xml:id="facs_19_tr_1_tl_16"/>
+            <zone points="489,1790 2971,1790 2971,1939 489,1939" rendition="Line" xml:id="facs_19_tr_1_tl_17"/>
+            <zone points="493,1882 2943,1882 2943,2071 493,2071" rendition="Line" xml:id="facs_19_tr_1_tl_18"/>
+            <zone points="455,2008 2921,2008 2921,2226 455,2226" rendition="Line" xml:id="facs_19_tr_1_tl_19"/>
+            <zone points="508,2150 2892,2150 2892,2321 508,2321" rendition="Line" xml:id="facs_19_tr_1_tl_20"/>
+            <zone points="508,2232 2924,2232 2924,2412 508,2412" rendition="Line" xml:id="facs_19_tr_1_tl_21"/>
+            <zone points="524,2321 2936,2321 2936,2501 524,2501" rendition="Line" xml:id="facs_19_tr_1_tl_22"/>
+            <zone points="524,2425 2905,2425 2905,2586 524,2586" rendition="Line" xml:id="facs_19_tr_1_tl_23"/>
+            <zone points="543,2517 2880,2517 2880,2684 543,2684" rendition="Line" xml:id="facs_19_tr_1_tl_24"/>
+            <zone points="512,2611 2921,2611 2921,2826 512,2826" rendition="Line" xml:id="facs_19_tr_1_tl_25"/>
+            <zone points="505,2725 1522,2725 1522,2908 505,2908" rendition="Line" xml:id="facs_19_tr_1_tl_26"/>
+            <zone points="493,2801 2832,2801 2832,3063 493,3063" rendition="Line" xml:id="facs_19_tr_1_tl_27"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3054" lry="3508" xml:id="facs_20">
+         <!-\- <graphic url="0020_1565%20Stuttgart%20Landtagsabschied%20seitenweise-0020.jpg" width="3054px" height="3508px"/> -\->
+         <graphic url="https://files.transkribus.eu/Get?id=EFGJCTOCCMWINBLMMEKCVNAL&amp;fileType=view" width="3054px" height="3508px"/>
+         <zone points="370,61 2928,61 2928,3053 370,3053" rendition="TextRegion" xml:id="facs_20_tr_1">
+            <zone points="350,218 2838,218 2838,470 350,470" rendition="Line" xml:id="facs_20_tr_1_tl_2"/>
+            <zone points="382,391 2823,391 2823,571 382,571" rendition="Line" xml:id="facs_20_tr_1_tl_3"/>
+            <zone points="385,483 2898,483 2898,669 385,669" rendition="Line" xml:id="facs_20_tr_1_tl_4"/>
+            <zone points="388,587 2924,587 2924,744 388,744" rendition="Line" xml:id="facs_20_tr_1_tl_5"/>
+            <zone points="378,669 2860,669 2860,826 378,826" rendition="Line" xml:id="facs_20_tr_1_tl_6"/>
+            <zone points="378,773 2835,773 2835,934 378,934" rendition="Line" xml:id="facs_20_tr_1_tl_7"/>
+            <zone points="382,864 2857,864 2857,1022 382,1022" rendition="Line" xml:id="facs_20_tr_1_tl_8"/>
+            <zone points="391,956 2851,956 2851,1107 391,1107" rendition="Line" xml:id="facs_20_tr_1_tl_9"/>
+            <zone points="363,1047 2810,1047 2810,1195 363,1195" rendition="Line" xml:id="facs_20_tr_1_tl_10"/>
+            <zone points="372,1135 2797,1135 2797,1309 372,1309" rendition="Line" xml:id="facs_20_tr_1_tl_11"/>
+            <zone points="388,1233 2835,1233 2835,1391 388,1391" rendition="Line" xml:id="facs_20_tr_1_tl_12"/>
+            <zone points="397,1325 2807,1325 2807,1482 397,1482" rendition="Line" xml:id="facs_20_tr_1_tl_13"/>
+            <zone points="426,1429 2819,1429 2819,1577 426,1577" rendition="Line" xml:id="facs_20_tr_1_tl_14"/>
+            <zone points="401,1520 2810,1520 2810,1665 401,1665" rendition="Line" xml:id="facs_20_tr_1_tl_15"/>
+            <zone points="416,1605 2788,1605 2788,1750 416,1750" rendition="Line" xml:id="facs_20_tr_1_tl_16"/>
+            <zone points="404,1675 2914,1675 2914,1845 404,1845" rendition="Line" xml:id="facs_20_tr_1_tl_17"/>
+            <zone points="410,1782 2819,1782 2819,1946 410,1946" rendition="Line" xml:id="facs_20_tr_1_tl_18"/>
+            <zone points="413,1876 2816,1876 2816,2034 413,2034" rendition="Line" xml:id="facs_20_tr_1_tl_19"/>
+            <zone points="407,1974 2848,1974 2848,2135 407,2135" rendition="Line" xml:id="facs_20_tr_1_tl_20"/>
+            <zone points="423,2069 2255,2069 2255,2233 423,2233" rendition="Line" xml:id="facs_20_tr_1_tl_21"/>
+            <zone points="423,2148 2851,2148 2851,2340 423,2340" rendition="Line" xml:id="facs_20_tr_1_tl_22"/>
+            <zone points="438,2277 2807,2277 2807,2428 438,2428" rendition="Line" xml:id="facs_20_tr_1_tl_23"/>
+            <zone points="435,2365 2324,2365 2324,2523 435,2523" rendition="Line" xml:id="facs_20_tr_1_tl_24"/>
+            <zone points="356,2428 2845,2428 2845,2630 356,2630" rendition="Line" xml:id="facs_20_tr_1_tl_25"/>
+            <zone points="372,2583 2819,2583 2819,2734 372,2734" rendition="Line" xml:id="facs_20_tr_1_tl_26"/>
+            <zone points="375,2652 2756,2652 2756,2791 375,2791" rendition="Line" xml:id="facs_20_tr_1_tl_27"/>
+            <zone points="369,2744 2826,2744 2826,2901 369,2901" rendition="Line" xml:id="facs_20_tr_1_tl_28"/>
+            <zone points="369,2832 2782,2832 2782,2990 369,2990" rendition="Line" xml:id="facs_20_tr_1_tl_29"/>
+            <zone points="372,2936 1476,2936 1476,3094 372,3094" rendition="Line" xml:id="facs_20_tr_1_tl_30"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="3050" lry="3508" xml:id="facs_21">
+         <!-\- <graphic url="0021_1565%20Stuttgart%20Landtagsabschied%20seitenweise-0021.jpg" width="3050px" height="3508px"/> -\->
+         <graphic url="https://files.transkribus.eu/Get?id=SSRQZWYPFIOSJZTNAHKKDHBX&amp;fileType=view" width="3050px" height="3508px"/>
+         <zone points="415,320 3030,320 3030,3056 415,3056" rendition="TextRegion" xml:id="facs_21_tr_1">
+            <zone points="398,231 2897,231 2897,475 398,475" rendition="Line" xml:id="facs_21_tr_1_tl_2"/>
+            <zone points="446,385 2890,385 2890,549 446,549" rendition="Line" xml:id="facs_21_tr_1_tl_3"/>
+            <zone points="437,472 2929,472 2929,626 437,626" rendition="Line" xml:id="facs_21_tr_1_tl_4"/>
+            <zone points="440,549 2909,549 2909,716 440,716" rendition="Line" xml:id="facs_21_tr_1_tl_5"/>
+            <zone points="437,642 2909,642 2909,800 437,800" rendition="Line" xml:id="facs_21_tr_1_tl_6"/>
+            <zone points="440,726 2868,726 2868,893 440,893" rendition="Line" xml:id="facs_21_tr_1_tl_7"/>
+            <zone points="437,806 2868,806 2868,989 437,989" rendition="Line" xml:id="facs_21_tr_1_tl_8"/>
+            <zone points="440,896 2929,896 2929,1069 440,1069" rendition="Line" xml:id="facs_21_tr_1_tl_9"/>
+            <zone points="446,995 2938,995 2938,1172 446,1172" rendition="Line" xml:id="facs_21_tr_1_tl_10"/>
+            <zone points="443,1121 2868,1121 2868,1272 443,1272" rendition="Line" xml:id="facs_21_tr_1_tl_11"/>
+            <zone points="440,1185 2880,1185 2880,1384 440,1384" rendition="Line" xml:id="facs_21_tr_1_tl_12"/>
+            <zone points="424,1288 2418,1288 2418,1458 424,1458" rendition="Line" xml:id="facs_21_tr_1_tl_13"/>
+            <zone points="440,1368 2993,1368 2993,1577 440,1577" rendition="Line" xml:id="facs_21_tr_1_tl_14"/>
+            <zone points="446,1503 2974,1503 2974,1654 446,1654" rendition="Line" xml:id="facs_21_tr_1_tl_15"/>
+            <zone points="443,1599 2964,1599 2964,1731 443,1731" rendition="Line" xml:id="facs_21_tr_1_tl_16"/>
+            <zone points="443,1679 3019,1679 3019,1818 443,1818" rendition="Line" xml:id="facs_21_tr_1_tl_17"/>
+            <zone points="443,1766 2983,1766 2983,1914 443,1914" rendition="Line" xml:id="facs_21_tr_1_tl_18"/>
+            <zone points="443,1850 3025,1850 3025,2010 443,2010" rendition="Line" xml:id="facs_21_tr_1_tl_19"/>
+            <zone points="440,1940 3006,1940 3006,2094 440,2094" rendition="Line" xml:id="facs_21_tr_1_tl_20"/>
+            <zone points="437,2033 3009,2033 3009,2177 437,2177" rendition="Line" xml:id="facs_21_tr_1_tl_21"/>
+            <zone points="446,2113 2932,2113 2932,2290 446,2290" rendition="Line" xml:id="facs_21_tr_1_tl_22"/>
+            <zone points="430,2193 2993,2193 2993,2351 430,2351" rendition="Line" xml:id="facs_21_tr_1_tl_23"/>
+            <zone points="466,2280 2974,2280 2974,2479 466,2479" rendition="Line" xml:id="facs_21_tr_1_tl_24"/>
+            <zone points="443,2405 1615,2405 1615,2534 443,2534" rendition="Line" xml:id="facs_21_tr_1_tl_25"/>
+            <zone points="437,2428 2925,2428 2925,2614 437,2614" rendition="Line" xml:id="facs_21_tr_1_tl_26"/>
+            <zone points="456,2550 2935,2550 2935,2710 456,2710" rendition="Line" xml:id="facs_21_tr_1_tl_27"/>
+            <zone points="459,2633 2909,2633 2909,2794 459,2794" rendition="Line" xml:id="facs_21_tr_1_tl_28"/>
+            <zone points="453,2717 2598,2717 2598,2890 453,2890" rendition="Line" xml:id="facs_21_tr_1_tl_29"/>
+            <zone points="440,2781 2900,2781 2900,2974 440,2974" rendition="Line" xml:id="facs_21_tr_1_tl_30"/>
+            <zone points="440,2909 2929,2909 2929,3115 440,3115" rendition="Line" xml:id="facs_21_tr_1_tl_31"/>
+         </zone>
+      </surface>
+      <surface ulx="0" uly="0" lrx="2954" lry="3508" xml:id="facs_22">
+         <!-\- <graphic url="0022_1565%20Stuttgart%20Landtagsabschied%20seitenweise-0022.jpg" width="2954px" height="3508px"/> -\->
+         <graphic url="https://files.transkribus.eu/Get?id=KCOCGREHQMEGYLRCJILKEOCB&amp;fileType=view" width="2954px" height="3508px"/>
+         <zone points="400,300 2839,300 2839,1748 400,1748" rendition="TextRegion" xml:id="facs_22_tr_1">
+            <zone points="382,203 2799,203 2799,446 382,446" rendition="Line" xml:id="facs_22_tr_1_tl_1"/>
+            <zone points="388,346 925,346 925,479 388,479" rendition="Line" xml:id="facs_22_tr_1_tl_2"/>
+            <zone points="394,385 2808,385 2808,606 394,606" rendition="Line" xml:id="facs_22_tr_1_tl_3"/>
+            <zone points="412,546 2790,546 2790,701 412,701" rendition="Line" xml:id="facs_22_tr_1_tl_4"/>
+            <zone points="394,631 2835,631 2835,804 394,804" rendition="Line" xml:id="facs_22_tr_1_tl_5"/>
+            <zone points="406,725 679,725 679,858 406,858" rendition="Line" xml:id="facs_22_tr_1_tl_6"/>
+            <zone points="409,779 2729,779 2729,1031 409,1031" rendition="Line" xml:id="facs_22_tr_1_tl_7"/>
+            <zone points="406,931 2726,931 2726,1101 406,1101" rendition="Line" xml:id="facs_22_tr_1_tl_8"/>
+            <zone points="412,1022 2811,1022 2811,1204 412,1204" rendition="Line" xml:id="facs_22_tr_1_tl_9"/>
+            <zone points="406,1092 2775,1092 2775,1283 406,1283" rendition="Line" xml:id="facs_22_tr_1_tl_10"/>
+            <zone points="397,1183 2781,1183 2781,1389 397,1389" rendition="Line" xml:id="facs_22_tr_1_tl_11"/>
+            <zone points="406,1277 2729,1277 2729,1447 406,1447" rendition="Line" xml:id="facs_22_tr_1_tl_12"/>
+            <zone points="409,1365 2726,1365 2726,1525 409,1525" rendition="Line" xml:id="facs_22_tr_1_tl_13"/>
+            <zone points="397,1471 2757,1471 2757,1613 397,1613" rendition="Line" xml:id="facs_22_tr_1_tl_14"/>
+            <zone points="388,1537 2823,1537 2823,1747 388,1747" rendition="Line" xml:id="facs_22_tr_1_tl_15"/>
+            <zone points="409,1644 773,1644 773,1786 409,1786" rendition="Line" xml:id="facs_22_tr_1_tl_16"/>
+         </zone>
+         <zone points="2800,0 2881,0 2881,133 2800,133" rendition="TextRegion" xml:id="facs_22_tr_2">
+         </zone>
+      </surface>
+   </facsimile>-->
+   <text>
+      <body>
+         <div>
+            <p facs="#facs_1_tr_1">
+               <pb facs="#facs_1" xml:id="img_0001" n="Umschlagvorderseite"/>
+               <lb facs="#facs_1_tr_1_tl_1" n="N001"/>Abschid
+               <lb facs="#facs_1_tr_1_tl_2" n="N002"/>des gehaltnen Landtags zu
+               <lb facs="#facs_1_tr_1_tl_3" n="N003"/>
+                    <rs type="place" ref="#stuttgart_stadt">Stutgart</rs>,
+               <lb facs="#facs_1_tr_1_tl_4" n="N004"/>
+                    <date when="1565-06-19">19. Junii
+                  <lb facs="#facs_1_tr_1_tl_5" n="N005"/>1565</date>,
+               <lb facs="#facs_1_tr_1_tl_6" n="N006"/>das praelaten und landschafft in <rs type="place" ref="#wuerttemberg_herzogtum">Würtemberg</rs> wöllen, ann statt der hievor in anno 1554
+               <lb facs="#facs_1_tr_1_tl_7" n="N007"/>bewilligten residui unnd ablosung hilff, ann der herrschafft <rs type="place" ref="#wuerttemberg_herzogtum">Würtemberg</rs> etc. schullden last
+               <lb facs="#facs_1_tr_1_tl_8" n="N008"/>1200000 g<ex>u</ex>ld<ex>en</ex> hauptgutz<note type="annotation">Kapital bzw. Kreditsumme.</note> und darvon fallenden<note type="annotation">fälligen.</note> zins uff sich nemen etc.
+               <lb facs="#facs_1_tr_1_tl_9" n="N009"/>unnd andere noch vil puncten betreffend.
+            </p>
+            <p facs="#facs_2_tr_1">
+               <pb facs="#facs_2" xml:id="img_0002" n="1r"/>
+               <lb facs="#facs_2_tr_1_tl_1" n="N001"/>Von Gottes gnaden Wir <rs type="person" ref="#christoph_wuerttemberg">Christoff</rs> hertzog zue 
+               <rs type="place" ref="#wuerttemberg_herzogtum">
+                        <w>Wür<pc>-</pc>
+                            <lb facs="#facs_2_tr_1_tl_2" n="N002"/>temberg</w>
+                    </rs> unnd zu <rs type="place" ref="#teck_herzogtum">Teck</rs>, grave zu <rs type="place" ref="#moempelgard_grafschaft">Mumppelgart</rs> etc. bekhennen unnd thun khundt 
+               <w>aller<pc>-</pc>
+                        <lb facs="#facs_2_tr_1_tl_3" n="N003"/>meniglich</w>
+                    <note type="annotation">jedermann.</note>, das, demnach <rs type="person" ref="#christoph_wuerttemberg">wir</rs> allerhannd furtreffenlicher erheblicher, ansehenlicher 
+               <w>ur<pc>-</pc>
+                        <lb facs="#facs_2_tr_1_tl_4" n="N004"/>sachen</w> halben einen gemeinen lanndtag, uff sonntag Jubilate<note type="annotation">3. Sonntag nach Ostern.</note>, <date when="1565-05-13">den dreytzehenden
+                  <lb facs="#facs_2_tr_1_tl_5" n="N005"/>des monats May</date>, zu <rs type="place" ref="#stuttgart_stadt">Stutgarten</rs> eintzukhommen, usschreiben unnd furnemmenn
+               <lb facs="#facs_2_tr_1_tl_6" n="N006"/>lassen, daselbsten auch unnsere gehorsame lanndtschafft, von prelaten mehrentheils
+               <lb facs="#facs_2_tr_1_tl_8" n="N007"/>in der person, unnd die abwesende durch ire gegebne gewält, deßgleichen 
+              <!-- <lb facs="#facs_2_tr_1_tl_7" n="N008"/>-->
+               <w>ge<pc>-</pc>
+                        <lb facs="#facs_2_tr_1_tl_9" n="N009"/>meine</w> landtschafft durch ire gevolmechtigte gesante, gehorsamlich erschinen, <rs type="person" ref="#christoph_wuerttemberg">Wir</rs>
+               <lb facs="#facs_2_tr_1_tl_10" n="N010"/>mit inen auch des uf unserm furstenthumb alten, von vil jaren heer steenden schuldenlasts
+               <lb facs="#facs_2_tr_1_tl_11" n="N011"/>halb<note type="annotation">halben, wegen.</note> gnedige hanndlung pflegen lassen, das <rs type="person" ref="#christoph_wuerttemberg">wir</rs> unns gnedig, unnd sie unsere 
+               <w>ge<pc>-</pc>
+                        <lb facs="#facs_2_tr_1_tl_12" n="N012"/>horsame</w> prelaten unnd landtschafft mit unns undertheniglich folgender punctenn,
+               <lb facs="#facs_2_tr_1_tl_13" n="N013"/>unnd das denselben gegenainander gnedig unnd underthenig<note type="annotation">gegeneinander gnädig (von Seiten des Herzogs) und untertänig (von Seiten der Stände).</note> in dem werckh nach gesetzt
+               <lb facs="#facs_2_tr_1_tl_14" n="N014"/>unnd gelebt solle werden, mit unnd in crafft diß abschidtz, zu allen theilen fur uns, unsere
+                  <lb facs="#facs_2_tr_1_tl_15" n="N015"/>erben unnd nachkommen einhelliglich bewilligt, verglichen, versprochen und verabschidet:</p>
+            <p resp="HOS">
+               <lb facs="#facs_2_tr_1_tl_16" n="N016"/>
+                    <supplied reason="article_added">1.1</supplied> Erstlichen sollen und wöllen sie usser<note type="annotation">aus.</note> undertheniger guethertziger zuneigung, so sie
+               <lb facs="#facs_2_tr_1_tl_17" n="N017"/>zu <rs type="person" ref="#christoph_wuerttemberg">unns</rs> unnd unsern geliepten sohnen, iren angebornen rechten ainigen landtsfursten
+               <lb facs="#facs_2_tr_1_tl_18" n="N018"/>unnd herrn, gehorsamlich tragen, alls ein ainig zusamen gehörig corpus<note type="annotation">Körperschaft, Korporation.</note>, samentlich
+                     <lb facs="#facs_2_tr_1_tl_19" n="N019"/>mit einander, an statt der hievor <date when="1554">zu anno etc. funfftzig viere</date> bewilligten residui<note type="annotation">Anteil.</note> unnd
+               <lb facs="#facs_2_tr_1_tl_20" n="N020"/>ablosung hilff, zwelffmal hundert tausent guldin in müntz landtzwerung<note type="annotation">Landeswährung</note>, jeden gulden
+               <lb facs="#facs_2_tr_1_tl_21" n="N021"/>zu sechtzig creutzern oder funftzehen batzen, der alten schulden, so vor selbigem neherm
+               <lb facs="#facs_2_tr_1_tl_22" n="N022"/>lanndtag des vier unnd funtzigisten jars, uf unserm furstenthumb, unnd chammergut<note type="annotation">Landbesitz des Fürsten.</note>
+               <lb facs="#facs_2_tr_1_tl_23" n="N023"/>gestanden, derwegen etliche prelaten unnd ambtern, gegen habenden schadloß 
+               <w>ver<pc>-</pc>
+                        <lb facs="#facs_2_tr_1_tl_24" n="N024"/>sicherungen</w>, mitverschriben, an haubtguet unnd zinß zuvertretten, uf sich nemmen,
+               <lb facs="#facs_2_tr_1_tl_25" n="N025"/>dergestallt, das sie, unnsere prelaten, unnd probstey Nellingen<note type="annotation">Das Benediktinerkloster <rs type="place" ref="#sankt_blasien_kloster">St. Blasien</rs> (Schwarzwald) unterhielt eine Propstei in <rs type="place" ref="#nellingen_filder">Nellingen auf den Fildern</rs>.</note>, frawen clöster,
+               <lb facs="#facs_2_tr_1_tl_26" n="N026"/>bigenien<note type="annotation">Beginen, Frauen, die meist in einer ordensähnlichen Gemeinschaft lebten.</note> unnd kurchencasten<note type="annotation">Kirchenkasten, kirchliche Vermögensverwaltung.</note>, an den obvermelten zwelfmal hundert tausent gulden
+               <lb facs="#facs_2_tr_1_tl_27" n="N027"/>haubtguet unnd darvon fallenden zins, jars viertzig tausent guldin, unnd sie, die 
+               <w>landt<pc>-</pc>
+                        <lb facs="#facs_2_tr_1_tl_28" n="N028"/>schafft,</w> funftzig tausent guldin reichen unnd zu der jetzo gemeiner landtschafft 
+               <w>geord<pc>-</pc>
+                        <lb facs="#facs_2_tr_1_tl_29" n="N029"/>neter</w> unnd khunfftiger einnemmer hannden jedes jars uf Katharine<note type="annotation">25. November.</note> ohne <w>ver-
+           
+               <!--<pb facs="#facs_3_tr_1"/>-->
+               <pb facs="#facs_3" xml:id="img_0003" n="1v"/>
+                  <lb facs="#facs_3_tr_1_tl_1" n="N001"/>ziehen</w>
+                    <note type="annotation">Verzug, Verzögern, Hinausschieben.</note> oder einstellen<note type="annotation">Unterbrechen, Unterlassen, Aufhören.</note> lifern unnd anntwurtten, davon sie einnemmer
+               <lb facs="#facs_3_tr_1_tl_2" n="N002"/>zum vordersten die jerlichen zins, den zwelfmal hundert tausent guldin, oder des 
+               <w>je<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_3" n="N003"/>nigen</w> haubtgutz, so jedes mals uber die abgelöste summa noch bevor sein wurt,<note type="annotation">die noch ungetilgte Kreditsumme.</note>
+               <lb facs="#facs_3_tr_1_tl_4" n="N004"/>entrichten, unnd das uberig zuerledigung des hauptguets, so weit sich dasselb 
+               <w>er<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_5" n="N005"/>streckhen</w> thuet, verwenden, auch deshalb jerlich dem cleinen usschutz<note type="annotation">Der Kleine Ausschuss gehörte zum Landtag und bestand aus sechs Städtevertretern (darunter immer Stuttgart und Tübingen) und zwei Prälaten.</note> in 
+               <w>bey<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_6" n="N006"/>sein</w> unserer dartzu verordneten räth, wie bißheer von wegen der lanndtschafft
+               <lb facs="#facs_3_tr_1_tl_7" n="N007"/>ablesung<note type="annotation">Ablösung.</note> auch beschehen, gepürende urkhuntliche rechnung thun, und also verhandlen
+               <lb facs="#facs_3_tr_1_tl_8" n="N008"/>sollen, wie des ir von gemeiner prelaten unnd landtschafft habender staat <w>ußweiß<pc>-</pc>
+               <lb facs="#facs_3_tr_1_tl_9" n="N009"/>en</w> würt.</p>
+            <p resp="HOS">
+               <lb facs="#facs_3_tr_1_tl_10" n="N010"/>
+                    <supplied reason="article_added">1.2</supplied> Doch dergestallt, das erstlichen durch solliche ir underthenig guthertzig bewilligen, 
+               <w>ver<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_11" n="N011"/>sprechen</w> unnd zusagen, von inen usser iren habenden freyhaiten, dem Tuwingischen
+               <lb facs="#facs_3_tr_1_tl_12" n="N012"/>vertrag<note type="annotation">Im Tübinger Vertrag von <date when="1514">1514</date> hatte Herzog <rs type="person" ref="#ulrich_wuerttemberg">Ulrich</rs> den Landständen im Gegenzug für die Übernahme erheblicher Schulden grundlegende Rechte und Freiheiten gewährt.</note>, auch allen zwischen inen unnd unns bewilligten unnd zugesagten lanndtags
+               <lb facs="#facs_3_tr_1_tl_13" n="N013"/>abschiden unnd vergleichungen nit geschritten, dieselben geschwecht oder geendert,
+               <lb facs="#facs_3_tr_1_tl_14" n="N014"/>sonnder in allen puncten unverendert oder geschmelert<note type="annotation">ungeschmälert, die Vorsilbe <q>un-</q> ist von dem voraufgehenden <q>unverändert</q> her mitzudenken.</note>, crefftig sein, unnd pleiben sollen.
+               <lb facs="#facs_3_tr_1_tl_15" n="N015"/>Wie <rs type="person" ref="#christoph_wuerttemberg">wir</rs> uns dann fur unns, auch unnsere erben, eines solliches gegen inen auch erclärt, thun
+               <lb facs="#facs_3_tr_1_tl_16" n="N016"/>es auch mit unnd in crafft dis abschidtz, dergestalt, das sie bey solchen iren habenden
+               <lb facs="#facs_3_tr_1_tl_17" n="N017"/>freyheiten unnd abschiden gnedig gelassen unnd denen zuwider nichtz in einichen<note type="annotation">irgendeiner.</note> weiß
+               <lb facs="#facs_3_tr_1_tl_18" n="N018"/>oder weg mit anrichtung newer zöllen, ungellt<note type="annotation">Abgaben.</note>, maßpfennig<note type="annotation">Biersteuer.</note> oder andern anlagen<note type="annotation">Veranlagungen (zu Steuern).</note>,
+               <lb facs="#facs_3_tr_1_tl_19" n="N019"/>zuwider obgemelten verträgen und abschiden furgenommen solle werden.</p>
+            <p resp="HOS">
+               <lb facs="#facs_3_tr_1_tl_20" n="N020"/>
+                    <supplied reason="article_added">1.3</supplied> Unnd zum andern, alls dise außtheilung zwischen unnsern prelaten unnd 
+               <w>lanndt<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_21" n="N021"/>schafft</w> für ein ungleicheit von unns angesehen worden, dessen doch unnsere 
+               <w>lanndt<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_22" n="N022"/>schafft</w> ire ursachen unnd bedenckhen auch angetzeigt, ist dahin verglichen unnd 
+               <w>aller<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_23" n="N023"/>seitz</w> bewilligt unnd eingangen, das dise ungleicheit lenger nit weren soll, dann bis an
+               <lb facs="#facs_3_tr_1_tl_24" n="N024"/>den berüerten zwelfmal hundert tausent guldin hauptgutz die zwey mal 
+               <w>hundert<pc>-</pc>
+                        <lb facs="#facs_3_tr_1_tl_25" n="N025"/>tausent</w> guldin unnd darvon jerlichs fallende zehen tausent guldin zins volkhommenlich
+               <lb facs="#facs_3_tr_1_tl_26" n="N026"/>abgelöst werden. Wann dann solliches geschehen, sollen allsdann gedachte unnsere prelaten,
+               <lb facs="#facs_3_tr_1_tl_27" n="N027"/>probstey <rs type="place" ref="#nellingen_filder">Nellingen</rs>, frawen clöster, bigeinen heuser unnd kurchencasten zu
+           
+            <!--<p facs="#facs_4_tr_1">-->
+               <pb facs="#facs_4" xml:id="img_0004" n="2r"/>
+               <lb facs="#facs_4_tr_1_tl_1" n="N001"/>der lanndtschafft funftzig tausent guldin, allein dreissig tausent guldin, so lang und
+               <lb facs="#facs_4_tr_1_tl_2" n="N002"/>vil, bis widerumb zweymal hundert tausent guldin haubtguetz unnd zehen tausent
+               <lb facs="#facs_4_tr_1_tl_3" n="N003"/>guldin zins abgelöst, auch wann das beschehen, unns abermalen funftausent guldin
+               <lb facs="#facs_4_tr_1_tl_4" n="N004"/>in unnser landtschreiberey folgen, unnd mit der ablosung des uberigen schuldenlasts der
+               <lb facs="#facs_4_tr_1_tl_5" n="N005"/>achtmal hundert tausent guldin die allt gewonlich gleicheit zwischen prelaten und
+               <lb facs="#facs_4_tr_1_tl_6" n="N006"/>lanndtschafft gehalten, unnd mit der lanndtschafft funfftzig tausent guldin unnd der 
+               <w>pre<pc>-</pc>
+                        <lb facs="#facs_4_tr_1_tl_7" n="N007"/>laten</w> fünf unnd zweintzig tausent guldin, thuet zusamen funf unnd sibentzig tausent, 
+               <w>ob<pc>-</pc>
+                        <lb facs="#facs_4_tr_1_tl_8" n="N008"/>gemelter</w> schulden last, der acht mal hundert tausent guldin, mit haubtguet und zinssen
+               <lb facs="#facs_4_tr_1_tl_9" n="N009"/>vertretten<note type="annotation">übernommen(?).</note> unnd geledigt<note type="annotation">erledigt, abgetragen.</note> werden, unnd also die obgemelten funftzehen tausent gulden
+               <lb facs="#facs_4_tr_1_tl_10" n="N010"/>der prelaten unnd kurchencastens <rs type="person" ref="#christoph_wuerttemberg">Unns</rs> und unsern erben zu ablosung deren uff
+               <lb facs="#facs_4_tr_1_tl_11" n="N011"/>unnserm furstenthumb verpleibendem uberigen alten und newen schulden, wie
+               <lb facs="#facs_4_tr_1_tl_12" n="N012"/>darvon heernacher ein sonderer articul gestellt, neben dem andern deposito und
+               <lb facs="#facs_4_tr_1_tl_13" n="N013"/>uberschus der clöster unnd kurchencastens, <rs type="person" ref="#christoph_wuerttemberg">Unns</rs> in unser landtschreiberey 
+               <w>ver<pc>-</pc>
+                        <lb facs="#facs_4_tr_1_tl_14" n="N014"/>folgen</w>
+                    <note type="annotation">verabfolgen, ausfolgen, abliefern.</note> unnd gedeyen<note type="annotation">zuteil werden lassen (?).</note>.
+               <lb facs="#facs_4_tr_1_tl_15" n="N015"/>
+                    <supplied reason="article_added">1.4</supplied> Auch dise jetzige angetzogne ungleicheit in khunfftigen fellen gemeinen prelaten
+               <lb facs="#facs_4_tr_1_tl_16" n="N016"/>zu keinem eingang unnd nachtheil, noch auch der lanndtschafft zu vortheil gereichen,
+               <lb facs="#facs_4_tr_1_tl_17" n="N017"/>angetzogen oder gepraucht werden sollen. Dartzu der prelaten und anderer
+               <lb facs="#facs_4_tr_1_tl_18" n="N018"/>gaistlichen underthanen unsers furstenthumbs höhers nit, dann wie andere unsers
+               <lb facs="#facs_4_tr_1_tl_19" n="N019"/>furstenthumbs underthanen belegt werden.</p>
+            <p resp="HOS">
+               <lb facs="#facs_4_tr_1_tl_21" n="N020"/>
+                    <supplied reason="article_added">1.5</supplied> Damit unnd aber unnser furstenthumb, sovil ehe des gantzen schuldenlasts entlichen
+               <lb facs="#facs_4_tr_1_tl_22" n="N021"/>unnd gentzlichen erledigt, haben <rs type="person" ref="#christoph_wuerttemberg">wir</rs> gnedig verwilligt unnd uf uns genommen,
+               <lb facs="#facs_4_tr_1_tl_23" n="N022"/>den uberigen rest alter und neuer uf beruertem unserm furstenthumb steender
+               <lb facs="#facs_4_tr_1_tl_24" n="N023"/>schulden von unnserm chammerguet, auch der clöster und kurchencastens 
+               <w>de<pc>-</pc>
+                        <lb facs="#facs_4_tr_1_tl_25" n="N024"/>posito</w> unnd uberschus so ehist zuerledigen unnd abzulösen. Unnd allso unnser 
+               <w>landt<pc>-</pc>
+                        <lb facs="#facs_4_tr_1_tl_26" n="N025"/>schafft</w> von demselben gentzlichen entledigt unnd daran einige fernere hilff 
+               <w>zu<pc>-</pc>
+                        <lb facs="#facs_4_tr_1_tl_27" n="N026"/>thun</w> nit schüldig sein,
+          
+            <!--<p facs="#facs_5_tr_1">-->
+               <pb facs="#facs_5" xml:id="img_0005" n="2v"/>
+               <lb facs="#facs_5_tr_1_tl_1" n="N001"/>unnd als <rs type="person" ref="#christoph_wuerttemberg">wir</rs> unnserer prelaten unnd lanndtschafft verordneten usschutz, vor der
+               <lb facs="#facs_5_tr_1_tl_2" n="N002"/>zeit gnedig berichten lassen, das unns noch bis in die drey unnd zweintzig tausent
+               <lb facs="#facs_5_tr_1_tl_3" n="N003"/>sibenhundert unnd siben unnd funftzig guldin, zwen unnd viertzig creutzer reichs
+               <lb facs="#facs_5_tr_1_tl_4" n="N004"/>hilffen usstendig, welliche <rs type="person" ref="#christoph_wuerttemberg">wir</rs> von gemeiner unser prelaten und lanndtschafft
+               <lb facs="#facs_5_tr_1_tl_5" n="N005"/>wegen usgelegt, sie aber innhalt der reichsabschid zuerstatten schuldig weren, haben
+               <lb facs="#facs_5_tr_1_tl_6" n="N006"/>
+                    <rs type="person" ref="#christoph_wuerttemberg">wir</rs> inen solliche gegen der jetz verwilligten mehrern hilff gnediglich nachgelassen.
+               <lb facs="#facs_5_tr_1_tl_7" n="N007"/>Dargegenn sollen auch die acht tausent guldin, sie unns nehern jaren, uf unnser gnedigs
+               <lb facs="#facs_5_tr_1_tl_8" n="N008"/>begern, von der ablesungs hilf gegeben, gefallen sein. Doch was für reichs anlagen
+               <lb facs="#facs_5_tr_1_tl_10" n="N010"/>jedertzeit, khünfftig gemeinen stennden des <rs type="place" ref="#heiliges_roemisches_reich">reichs</rs> uffgelegt, unnd von den 
+               <w>under<pc>-</pc>
+                        <lb facs="#facs_5_tr_1_tl_11" n="N011"/>thonen</w> zuerstatten verabschidet, das solliches allweg zu irer angepür von dem 
+               <w>uß<pc>-</pc>
+                        <lb facs="#facs_5_tr_1_tl_12" n="N012"/>schutz</w> in unnser lanndtschreiberey richtig betzalt unnd erlegt werde,
+               <lb facs="#facs_5_tr_1_tl_13" n="N013"/>
+                    <supplied reason="article_added">2.1</supplied> unnd aber mit unnd bey sollichem irem underthenigen bewilligen, gleich anfangs unnd
+               <lb facs="#facs_5_tr_1_tl_14" n="N014"/>in aller handlung, bey uns, auch unsern geliepten söhnen, von prelaten und 
+               <w>lanndt<pc>-</pc>
+                        <lb facs="#facs_5_tr_1_tl_15" n="N015"/>schafft</w>, folgender puncten halb gantz underthenig unnd gehorsamlich gepettenn,
+               <lb facs="#facs_5_tr_1_tl_16" n="N016"/>unnd angehalten worden, damit, wie sie bißheer in allem gotseeligen friden und 
+               <w>weß<pc>-</pc>
+                        <lb facs="#facs_5_tr_1_tl_17" n="N017"/>en</w> erhalten, dieselbigen auch zum vordersten, durch den milten seegen, gedeyen und
+               <lb facs="#facs_5_tr_1_tl_18" n="N018"/>verleyhen seiner götlichen gnaden, auch unnser und unserer nachkhommen gnedige
+               <lb facs="#facs_5_tr_1_tl_19" n="N019"/>unnd vätterliche befürderung, gemeine unnsere getreue prelaten und lanndtschafft,
+               <lb facs="#facs_5_tr_1_tl_20" n="N020"/>in unnd bey der erkhanten unnd bekhanten warheit der <rs type="event" ref="#ca_invariata">Augspurgischen</rs> und unserer
+               <lb facs="#facs_5_tr_1_tl_21" n="N021"/>dem <rs type="event" ref="#tridentinum">concilio zu Trient</rs> uberreichter <rs type="event" ref="#confessio_virtembergica">Christlicher Confession</rs>, unnd daruf erfolgter 
+               <lb facs="#facs_5_tr_1_tl_22" n="N022"/>beeder Apologien<note type="annotation">AC und Apologie zur Confessio Virtembergica. Letztere Apologie erschien in drei Teilen 1556, 1557 und 1559 (vgl. VD 16 B 7486).</note>, auch angestelter gleichmessiger kurchenordnung<note type="annotation">Große Württembergische Kirchenordnung von 1559.</note>, durch das gantz 
+               <w>fursten<pc>-</pc>
+                        <lb facs="#facs_5_tr_1_tl_23" n="N023"/>thumb</w>, auch dieselbige uf unnsere und ire nachkhommen unnd posteritet<note type="annotation">Nachkommenschaft, Nachfahren.</note> propagiert
+               <lb facs="#facs_5_tr_1_tl_24" n="N024"/>erhalten unnd erstreckht,
+               <lb facs="#facs_5_tr_1_tl_25" n="N025"/>damit auch alle neuerungen, in religions unnd kurchen ceremonien, darbey
+               <lb facs="#facs_5_tr_1_tl_26" n="N026"/>auch alle einschleichende secten, sovil immer müglich, verhüet und fürkhommen,
+               <lb facs="#facs_5_tr_1_tl_27" n="N027"/>auch wa die haimlichen eingewurtzlet gentzlichen widerumb abgewendt, unnd keins wegs
+               <lb facs="#facs_5_tr_1_tl_28" n="N028"/>geduldet möchten werden.
+             
+           <!-- <p facs="#facs_6_tr_1">-->
+               <pb facs="#facs_6" xml:id="img_0006" n="3r"/>
+               <lb facs="#facs_6_tr_1_tl_1" n="N001"/>Unnd dann unns sollich ir einmüetig, einhellig, guethertzig unnd gotseeligs
+               <lb facs="#facs_6_tr_1_tl_2" n="N002"/>bitten unnd suchen zu hertzlichen freuden unnd ganz gnedigem gefallen gereicht,
+               <lb facs="#facs_6_tr_1_tl_3" n="N003"/>auch vor dem angesicht Gottes erkhennen unnd bekhennen, das unns durch sein
+               <lb facs="#facs_6_tr_1_tl_4" n="N004"/>gnad unnd verleyen des hailligen Gaists für unns unnd unsere geliepte khinder,
+               <lb facs="#facs_6_tr_1_tl_5" n="N005"/>auch getreue gehorsame lanndtschafft, höhers nit angelegen, dann das <rs type="person" ref="#christoph_wuerttemberg">wir</rs> und
+               <lb facs="#facs_6_tr_1_tl_6" n="N006"/>sie, in rechter warer erkhanntnus unnsers ainigen herrn unnd seeligmachers
+               <lb facs="#facs_6_tr_1_tl_7" n="N007"/>Jhesu Christi unnd seines hailigen unnd allein seelig unnd lebendig machenden
+               <lb facs="#facs_6_tr_1_tl_8" n="N008"/>worts, deßgleichen <rs type="person" ref="#christoph_wuerttemberg">wir</rs>, unsere geliepte Söhn unnd nachkhommen bey unser
+               <lb facs="#facs_6_tr_1_tl_9" n="N009"/>getreuen lanndtschafft in christlichen gotseeligem regiment, hinwider sie auch
+               <lb facs="#facs_6_tr_1_tl_10" n="N010"/>in allem fridlichem gotgefelligem leben unnd wesen erhalten möchten werden,
+               <lb facs="#facs_6_tr_1_tl_11" n="N011"/>so haben <rs type="person" ref="#christoph_wuerttemberg">wir</rs> solliche ir eufferige<note type="annotation">eifrige, dienstbeflissene.</note> guethertzige bekhantnus unnd underthenig pitten
+               <lb facs="#facs_6_tr_1_tl_12" n="N012"/>unnserer gehorsamen prelaten unnd lanndtschafft zu gantz gnedigem 
+               <w>wolgefall<pc>-</pc>
+                        <lb facs="#facs_6_tr_1_tl_13" n="N013"/>en</w> angenommen unnd unns mit inen gnedig, auch sie mit unns sich <w>underthenig<pc>-</pc>
+               <lb facs="#facs_6_tr_1_tl_14" n="N014"/>lichen</w> verglichen, obgemelte <rs type="event" ref="#ca_invariata">Augspurgische</rs>, unnd <rs type="event" ref="#confessio_virtembergica">unser christlichen bekhantnus</rs>,
+               <lb facs="#facs_6_tr_1_tl_15" n="N015"/>sambt der darüber ufgerichten unnd angestelten kurchenordnung<note type="annotation">Große Württembergische Kirchenordnung von 1559.</note>, durch die gnad
+               <lb facs="#facs_6_tr_1_tl_16" n="N016"/>des Allmechtigen, für unns, unnsere erben unnd nachkhommen allso in der kürchen
+               <lb facs="#facs_6_tr_1_tl_17" n="N017"/>Gottes zuerhallten, darüber getreu wechter unnd schirmer, deßgleichen 
+               <w>ge<pc>-</pc>
+                        <lb facs="#facs_6_tr_1_tl_18" n="N018"/>horsame</w> gefällige underthanen zusein, unns auch von sollicher waren erkhantnus
+               <lb facs="#facs_6_tr_1_tl_19" n="N019"/>durch die gnad des Allmechtigen durch kein zeitliche gefahr, gewalt noch macht 
+               <w>abwend<pc>-</pc>
+                        <lb facs="#facs_6_tr_1_tl_20" n="N020"/>en</w>, sonder zuerhaltung derselbigen allerseitz alle unnsere eusserste vermögen
+               <lb facs="#facs_6_tr_1_tl_21" n="N021"/>leibs, guetz unnd bluets gnedig unnd undertheniglich zu lob seines götlichen namens
+               <lb facs="#facs_6_tr_1_tl_22" n="N022"/>unnd erhaltung seiner geliepten kurchen zusamen setzen<note type="annotation">zusamensetzen = zusetzen, daransetzen, </note>, und bey sollicher erkanter
+               <lb facs="#facs_6_tr_1_tl_23" n="N023"/>und bekhannter warheit, durch die gnad des Allmechtigen, zu allen theillen gotselig
+               <lb facs="#facs_6_tr_1_tl_24" n="N024"/>und bestendiglichen pleiben.</p>
+            <p resp="HOS">
+               <lb facs="#facs_6_tr_1_tl_25" n="N025"/>
+                    <supplied reason="article_added">2.2</supplied> Es sollen auch unnsere gehorsame prelaten und lanndtschafft sich undertheniglich zue
+               <lb facs="#facs_6_tr_1_tl_26" n="N026"/>uns getrösten, das <rs type="person" ref="#christoph_wuerttemberg">wir</rs> nit allein die tag unnsers lebens, unsere geliepte söhne,
+               <lb facs="#facs_6_tr_1_tl_27" n="N027"/>dahin auch mit allem vätterlichen fleiß vermanen unnd anhalten, sonnder auch
+           
+            <!--<p facs="#facs_7_tr_1">-->
+               <pb facs="#facs_7" xml:id="img_0007" n="3v"/>
+               <lb facs="#facs_7_tr_1_tl_1" n="N001"/>in unnser vorhabennder vätterlicher dispositio unnd ordnung dahin ernstlich weißen
+               <lb facs="#facs_7_tr_1_tl_2" n="N002"/>unnd vermögen wollen, bey sollicher Confessio unnd unsern angerichten
+               <lb facs="#facs_7_tr_1_tl_3" n="N003"/>kurchen-, schul- unnd anndern ordnungen bestendiglich zupleiben, darüber alls
+               <lb facs="#facs_7_tr_1_tl_4" n="N004"/>getreu wächter unnd hürten<note type="annotation">Hirten.</note> zuhalten, unnd die gotseeliglich handtzuhaben<note type="annotation">zu schützen.</note>,
+               <lb facs="#facs_7_tr_1_tl_5" n="N005"/>ob auch in khunfftig zeit zuwider sollicher Augspurgischen unnd unser Confession
+               <lb facs="#facs_7_tr_1_tl_6" n="N006"/>unnd appologien, inen anders ufgetrachen wolte werden (welliches doch Gott
+               <lb facs="#facs_7_tr_1_tl_7" n="N007"/>gnediglich unnd vätterlich verhueten welle), das die prelaten unnd von der <w>lanndt<pc>-</pc>
+                  <lb facs="#facs_7_tr_1_tl_8" n="N008"/>schafft</w>, solliches für ire personen, oder auch in den kurchen der stät und fleckhen
+               <lb facs="#facs_7_tr_1_tl_9" n="N009"/>unsers furstenthumbs antzunemmen unnd zutzulassen, doch mit aller 
+               <w>be<pc>-</pc>
+                        <lb facs="#facs_7_tr_1_tl_10" n="N010"/>schaidenheit</w>, sovil christlichen underthonen gegen irer ordenlichen oberkheit gepürt,
+               <lb facs="#facs_7_tr_1_tl_11" n="N011"/>nit schuldig sein sollen.</p>
+            <p resp="HOS">
+               <lb facs="#facs_7_tr_1_tl_12" n="N012"/>
+                    <supplied reason="article_added">3</supplied> Es solle auch der prelaten stannd bey unnserm furstenthumb, vermög der erection
+               <lb facs="#facs_7_tr_1_tl_13" n="N013"/>alls der annder lanndtstannd, durch unns, unsere erben unnd nachkhommen erhalten,
+               <lb facs="#facs_7_tr_1_tl_14" n="N014"/>stetigs sein unnd pleiben, inmassen derwegen hievor in unser im truckh <date when="1559">anno etc.
+                  <lb facs="#facs_7_tr_1_tl_15" n="N015"/>funftzig neune</date> ausgangnen ordnungen<note type="annotation">Große Kirchenordnung von 1559.</note> auch fursehung geschehen, unnd solliche 
+               <w>pre<pc>-</pc>
+                        <lb facs="#facs_7_tr_1_tl_16" n="N016"/>laturen</w> jedertzeit mit gotsförchtigen, gelerten unnd fridliebenden theologen besetzt
+               <lb facs="#facs_7_tr_1_tl_17" n="N017"/>die auch ir sein unnd session bey denn land unnd usschutz tägen haben, unnd was jeder
+               <lb facs="#facs_7_tr_1_tl_18" n="N018"/>zeit zu unnser, auch unnserer geliepten söhnen, allen derselben nachkhommen, 
+               <w>deß<pc>-</pc>
+                        <lb facs="#facs_7_tr_1_tl_19" n="N019"/>gleichen</w> gemeinem unnserm furstenthumb lanndt unnd leuthen nutz, ehr, ufganng<note type="annotation">Gedeihen, Förderung.</note>
+               <lb facs="#facs_7_tr_1_tl_20" n="N020"/>unnd wolfardt zuberathschlagen unnd furtzunemmen fürfellt, dasselbig mit unnd
+               <lb facs="#facs_7_tr_1_tl_21" n="N021"/>neben unnserer gehorsamen lanndtschafft getreulichen erwegen unnd schliessen, 
+               <w>der<pc>-</pc>
+                        <lb facs="#facs_7_tr_1_tl_22" n="N022"/>gleichen</w> was verglichen, in das werckh zurichten, underthenig und gehorsamlichen helffen,
+               <lb facs="#facs_7_tr_1_tl_23" n="N023"/>auch von sollichen prelaturen nichtz verendert, versetzt, noch alieniert werden.</p>
+            <p resp="HOS">
+               <lb facs="#facs_7_tr_1_tl_24" n="N024"/>
+                    <supplied reason="article_added">4</supplied> Allso sollen auch die gaistlichen gefäll unnsers angerichten kurchencastens, was diser zeit
+               <lb facs="#facs_7_tr_1_tl_25" n="N025"/>von stifften, manns unnd frauen clöster, samlungen unnd andern gaistlichen 
+               <w>ein<pc>-</pc>
+                        <lb facs="#facs_7_tr_1_tl_26" n="N026"/>khommen</w> dahin verwenndt unnd mit der Zeit, vermög obvermelter unser im truckh
+            
+            <!--<p facs="#facs_8_tr_1">-->
+               <pb facs="#facs_8" xml:id="img_0008" n="4r"/>
+               <lb facs="#facs_8_tr_1_tl_1" n="N001"/>außgangener ordnung, weiter darein fallen soll, bestendiglich erhalten, solliche
+               <lb facs="#facs_8_tr_1_tl_2" n="N002"/>gefell nit verendert, sonnder zuerhaltung der ministerien, ansehenlichen großen
+               <lb facs="#facs_8_tr_1_tl_3" n="N003"/>antzaal der pfarrern, diaconen, subdiaconen, der angerichten pedagogien unnd
+               <lb facs="#facs_8_tr_1_tl_4" n="N004"/>allen dartzu gehörigen notwendigen preceptorn, deßgleichen zuerstattung der 
+               <w>sub<pc>-</pc>
+                        <lb facs="#facs_8_tr_1_tl_5" n="N005"/>sidien</w> der gar armen jungen schulern, unnd dann sonderlichen zu trost, schutz unnd
+               <lb facs="#facs_8_tr_1_tl_6" n="N006"/>schirm lanndt unnd leuthen, auch andern dergleichen gotgefelligen nottwendigen
+               <lb facs="#facs_8_tr_1_tl_7" n="N007"/>usgaben, abermals vermög unser im truckh ausgangner ordnung, in unnserm
+               <lb facs="#facs_8_tr_1_tl_8" n="N008"/>furstenthumb verwenndt werden.</p>
+            <p resp="HOS">
+               <lb facs="#facs_8_tr_1_tl_9" n="N009"/>
+                    <supplied reason="article_added">5.1</supplied> Sovil dann die gebettene dotation unnsers stipendii zu <rs type="place" ref="#tuebingen">Tuwingen</rs>
+                    <note type="annotation">des Tübinger Stifts zur Ausbildung evangelischer Pfarrer.</note> belangt, haben
+               <lb facs="#facs_8_tr_1_tl_10" n="N010"/>wir nach zeitlichem daruber gehaptem rath nicht khünden befinden, wie semlichs
+               <lb facs="#facs_8_tr_1_tl_11" n="N011"/>bas dotiert möge werden, dann das uber die jerliche geordnete gefell und 
+               <w>einkhom<pc>-</pc>
+                        <lb facs="#facs_8_tr_1_tl_13" n="N012"/>men</w> an gelt, so hievor in unsere ämpter ausgetheilt, desgleichen die 
+               <w>verord<pc>-</pc>
+                        <lb facs="#facs_8_tr_1_tl_14" n="N013"/>nete</w> hilf von den prelaturen an fruchten unnd wein, bestendiglichen dahin, unnd
+               <lb facs="#facs_8_tr_1_tl_15" n="N014"/>was weiter (welches dann auch ein ansehenlichs ist) ufgewenndt usser dem 
+               <w>kurch<pc>-</pc>
+                        <lb facs="#facs_8_tr_1_tl_16" n="N015"/>encasten</w> unnd desselbigen gefellen dahin gefolgt, unnd also das stipendium 
+               <w>dar<pc>-</pc>
+                        <lb facs="#facs_8_tr_1_tl_17" n="N016"/>uf</w> bestendiglich fundiert, verwisen unnd versichert sein solle etc.
+               <lb facs="#facs_8_tr_1_tl_18" n="N017"/>
+                    <supplied reason="article_added">5.2</supplied> Wann es sich aber mit der zeit befinden, das inen fürtreglicher sein möchte, dasselbig
+               <lb facs="#facs_8_tr_1_tl_19" n="N018"/>mit underschidlichen benanten gefellen irem begern nach dotiert solte werdenn,
+               <lb facs="#facs_8_tr_1_tl_20" n="N019"/>wellen wir dartzu auch gnedige hilff unnd befurderung thun.</p>
+            <p resp="HOS">
+               <lb facs="#facs_8_tr_1_tl_21" n="N020"/>
+                    <supplied reason="article_added">5.3</supplied> Unnd dieweil fur rathsam angesehen, das von wegen des fruchtparlichen profectus
+               <lb facs="#facs_8_tr_1_tl_22" n="N021"/>unnd furschreittens der jugendt in den vier mehrern oder grössern closter
+               <lb facs="#facs_8_tr_1_tl_23" n="N022"/>schulen<note type="annotation">Hirsau, Bebenhausen, Maulbronn und Herrenalb.</note> von der bestimbten, darinn erhaltenden antzaal, jeder zeit funfftzig
+               <lb facs="#facs_8_tr_1_tl_24" n="N023"/>in unnser stipendium zu <rs type="place" ref="#tuebingen">Tuwingen</rs>, uber die hundert, so zuvor bestendig
+               <lb facs="#facs_8_tr_1_tl_25" n="N024"/>alda seien, geordnet werden sollen, haben wir unns solliches auch gnedig 
+               <w>gefall<pc>-</pc>
+                        <lb facs="#facs_8_tr_1_tl_26" n="N025"/>en</w> lassen, unnd hiemit dise verordnung gethon, das solliche funfftzig personen
+            
+            <!--<p facs="#facs_9_tr_1">-->
+               <pb facs="#facs_9" xml:id="img_0009" n="4v"/>
+               <lb facs="#facs_9_tr_1_tl_2" n="N001"/>von den vier clöstern erhalten, unnd allso das in einer summa in unserm stipendio
+               <lb facs="#facs_9_tr_1_tl_3" n="N002"/>zu <rs type="place" ref="#tuebingen">Tuwingen</rs> unnd in den closter schulen unstendiglich vierthalbhundert<note type="annotation">dreihundertfünfzig.</note> 
+               <w>lanndt<pc>-</pc>
+                        <lb facs="#facs_9_tr_1_tl_4" n="N003"/>khinder</w>
+                    <note type="annotation">Landeskinder.</note>, in gottesforcht aller christlichen unnd gotgefelligen education<note type="annotation">Erziehung.</note> und disciplin
+               <lb facs="#facs_9_tr_1_tl_5" n="N004"/>deß gleicher getreuer unnd embsiger anhaltung unnd befurderung irer studien,
+               <lb facs="#facs_9_tr_1_tl_6" n="N005"/>sonderlichen aber zuversehung unnd besetzung der ministerien der kurchen Gottes
+               <lb facs="#facs_9_tr_1_tl_7" n="N006"/>unnd der schulen gotseeliglich ertzogen und per gradus<note type="annotation">stufenweise.</note> gefurdert werden sollen,
+               <lb facs="#facs_9_tr_1_tl_8" n="N007"/>allso wellen wir auch, das die closter schulen in dem stannd der christlichen disciplin,
+               <lb facs="#facs_9_tr_1_tl_9" n="N008"/>zucht, lehr unnd gotsförchtigen ybungen leben unnd wesen. Desgleichen in der
+               <lb facs="#facs_9_tr_1_tl_10" n="N009"/>antzaal der personen, nemlich dritthalbhundert<note type="annotation">zweihundertfünfzig.</note>, darunder die funftzig, so im 
+               <w>stipen<pc>-</pc>
+                        <lb facs="#facs_9_tr_1_tl_11" n="N010"/>dio</w> erhalten werden sollen, auch gerechnet, auch der verordneten underhaltung,
+               <lb facs="#facs_9_tr_1_tl_12" n="N011"/>wie dieselben jedem closter hiebevor unnd anfangs benent unnd geordnet seien,
+               <lb facs="#facs_9_tr_1_tl_13" n="N012"/>fur unnd fur sollen von unsern landtkindern besetzt, erhalten, von einem gradu
+               <lb facs="#facs_9_tr_1_tl_14" n="N013"/>zu dem andern, in studiis gefurdert, letstlichen gehn<note type="annotation">nach, gen.</note> <rs type="place" ref="#tuebingen">Tuwingen</rs> in das <w>stipendi<pc>-</pc>
+                  <lb facs="#facs_9_tr_1_tl_15" n="N014"/>um</w> zu volkhommenem lauf irer studiorum verordnet unnd von dannen zue
+               <lb facs="#facs_9_tr_1_tl_17" n="N015"/>den ministerien an gepürende orth angenommen werden.</p>
+            <p resp="HOS">
+               <lb facs="#facs_9_tr_1_tl_19" n="N016"/>
+                    <supplied reason="article_added">5.4</supplied> Dergleichen sollen auch weniger nicht die angerichte pedagogia, particular schulen, 
+               <w>deß<pc>-</pc>
+                        <lb facs="#facs_9_tr_1_tl_20" n="N017"/>gleichen</w> subsidia, der gar armen unnd jungen schulkhinder in irem wesen bestendiglich
+               <lb facs="#facs_9_tr_1_tl_21" n="N018"/>zu trost der armen und gotseeliger ufferziehung irer jugendt erhalten werden.
+               <lb facs="#facs_9_tr_1_tl_22" n="N019"/>
+                    <supplied reason="article_added">5.5</supplied> Uber solliches, dieweil hietzwischen der angerichten closter schulen unnd gotseeligen 
+               <w>christen<pc>-</pc>
+                        <lb facs="#facs_9_tr_1_tl_23" n="N020"/>lichen</w> exercitien, auch disciplinen, in demselben mehrfelltig furgefallen, das vonn
+               <lb facs="#facs_9_tr_1_tl_24" n="N021"/>gemeiner unsers fürstenthumbs burgerschafft, furnemlichen aber den jenigen, so
+               <lb facs="#facs_9_tr_1_tl_25" n="N022"/>den armen mit hinpringung irer khinder nit gern verhinderung thun oder 
+               <w>den<pc>-</pc>
+                        <lb facs="#facs_9_tr_1_tl_26" n="N023"/>selben</w> furkhommen, aber dannocht gegen Got dem herrn vonn wegen irer daheer
+               <lb facs="#facs_9_tr_1_tl_27" n="N024"/>gnediglichen bescherter unnd gemehrter narung gern sich auch danckhpar ertzeigen, und
+               <lb facs="#facs_9_tr_1_tl_28" n="N025"/>ire khinder in aller gotz forcht, zucht, disciplin unnd eingezogenem wesen von <w>jug-
+            
+            <!--<p facs="#facs_10_tr_1">-->
+               <pb facs="#facs_10" xml:id="img_0010" n="5r"/>
+                  <lb facs="#facs_10_tr_1_tl_1" n="N001"/>endt</w> uf zubefurdern, seiner allmechtigkheit, ehr unnd des gemeinen nutzen, es
+               <lb facs="#facs_10_tr_1_tl_2" n="N002"/>were gleich in kurchen oder politischen sachen in den clöstern, gegen zimlicher 
+               <w>er<pc>-</pc>
+                        <lb facs="#facs_10_tr_1_tl_3" n="N003"/>legung</w> des costs geltz, vil lieber alls bey den pedagogiis oder particular schulen, in
+               <lb facs="#facs_10_tr_1_tl_4" n="N004"/>den stätten unsers furstenthumbs oder andern orthen, allerdings der disciplinen
+               <lb facs="#facs_10_tr_1_tl_5" n="N005"/>unnd christlichen exercitien, den anndern closter schulen gemeß, uffertziehenn
+               <lb facs="#facs_10_tr_1_tl_6" n="N006"/>lassen wolten, unnd allso dahin gedacht worden, wa ire kinder nit gehörtermassen
+               <lb facs="#facs_10_tr_1_tl_7" n="N007"/>bey den anndern lanndt khindern undergebracht und erhalten, das doch eines oder
+               <lb facs="#facs_10_tr_1_tl_8" n="N008"/>zwey clöster zu sollicher burgerlichen schul, unnd allein zu irem underschlauf, 
+               <w>dar<pc>-</pc>
+                        <lb facs="#facs_10_tr_1_tl_9" n="N009"/>zu</w> die disciplin der preceptorn von den clöstern, aber alle anndere underhaltung
+               <lb facs="#facs_10_tr_1_tl_10" n="N010"/>mit essen, trinkhen, unnd anderer notturfft von inen selbs oder deren eltern 
+               <w>ge<pc>-</pc>
+                        <lb facs="#facs_10_tr_1_tl_11" n="N011"/>haben</w> möchten.
+               <lb facs="#facs_10_tr_1_tl_12" n="N012"/>Solliches aber bißheer nit angericht, noch dise zeit uf gewisse maß unnd ordnung bedacht, unnd
+               <lb facs="#facs_10_tr_1_tl_13" n="N013"/>berathschlagt werden mögen,
+               <lb facs="#facs_10_tr_1_tl_14" n="N014"/>unns aber sollich christenlich vorhaben auch nit zuwider, so haben <rs type="person" ref="#christoph_wuerttemberg">wir</rs> unns gnedig
+               <lb facs="#facs_10_tr_1_tl_16" n="N016"/>dahin erclärt, sollichem werckh berathenlich nach unnd uf solliche mittel unnd weg 
+               <w>zuge<pc>-</pc>
+                        <lb facs="#facs_10_tr_1_tl_17" n="N017"/>denkhen</w>, damit abermals die vermögliche burgerschafft in dem unsern gnedigen
+               <lb facs="#facs_10_tr_1_tl_18" n="N018"/>willen befinden unnd spüren sollen.</p>
+            <p resp="HOS">
+               <lb facs="#facs_10_tr_1_tl_19" n="N019"/>
+                    <supplied reason="article_added">5.6</supplied> Wie <rs type="person" ref="#christoph_wuerttemberg">wir</rs> dann auch im werckh, unnd also in beraitschafft stannden, neben unsern unnd
+               <lb facs="#facs_10_tr_1_tl_20" n="N020"/>unnserer universitet zu <rs type="place" ref="#tuebingen">Tuwingen</rs> zuthun, daselbst ein gantz neu collegium<note type="annotation">Wohl das Collegium illustre (heute Wilhelmsstift), zur Ausbildung von Beamten für die Landesverwaltung (?). Die Burse bestand schon seit 1508.</note> 
+               <w>uf<pc>-</pc>
+                        <lb facs="#facs_10_tr_1_tl_21" n="N021"/>richten</w> unnd das furnemlich bauen unnd anrichten zulassen, damit unnsers
+               <lb facs="#facs_10_tr_1_tl_22" n="N022"/>furstenthumbs lanndtkhinder neben andern darinnen iren underschlauf, disciplin,
+               <lb facs="#facs_10_tr_1_tl_23" n="N023"/>auch zimliche underhaltung mit essen unnd trinckhen gegen gepürlicher und
+               <lb facs="#facs_10_tr_1_tl_24" n="N024"/>leidenlicher betzalung haben, unnd nit ires gefallens in der statt bey der 
+               <w>burger<pc>-</pc>
+                        <lb facs="#facs_10_tr_1_tl_25" n="N025"/>schafft</w>, weder ir underhaltung noch wohnung suchen dörffen,
+            
+            <!--<p facs="#facs_11_tr_1">-->
+               <pb facs="#facs_11" xml:id="img_0011" n="5v"/>
+               <lb facs="#facs_11_tr_1_tl_1" n="N001"/>
+                    <supplied reason="article_added">5.7</supplied> Allso seien wir in berathschlagung etliche plater heuser<note type="annotation">Siechenhäuser, Krankenhäuser.</note>, ob unnd unnder der staige<note type="annotation">alte Einteilung Württembergs, orientiert an der (alten) Stuttgarter Weinsteige.</note>, an 
+               <w>ge<pc>-</pc>
+                        <lb facs="#facs_11_tr_1_tl_2" n="N002"/>legnen</w> orthen, für die presthaffte<note type="annotation">gebrechliche, kranke, altersschwache.</note> verletzte arme personen anzurichten, 
+               <w>da<pc>-</pc>
+                        <lb facs="#facs_11_tr_1_tl_3" n="N003"/>mit</w> solliche presthaffte leuth darinnen mit rath unnd pflag<note type="annotation">Pflege.</note> der artzet<note type="annotation">studierten Ärzte.</note> und scherer<note type="annotation">Barbiere, Wundärzte, Chirurgen.</note>,
+               <lb facs="#facs_11_tr_1_tl_4" n="N004"/>sonnder auch mit anderer notturfft zimlich underhalten, inmassen derwegen in
+               <lb facs="#facs_11_tr_1_tl_5" n="N005"/>mehrgemelter unser ordnung auch anregung geschicht.</p>
+            <p resp="HOS">
+               <lb facs="#facs_11_tr_1_tl_6" n="N006"/>
+                    <supplied reason="article_added">6.1</supplied> <rs type="person" ref="#christoph_wuerttemberg">Wir</rs> haben unns auch bey obgemeltem puncten der ablosung hilf ferner gnedig<w>
+                        <pc>-</pc>
+                  <lb facs="#facs_11_tr_1_tl_7" n="N007"/>lichen</w> erclärt unnd bewilligt, wo unnsers furstenthumbs <choice> <sic>incoporierter</sic> <corr>incorporierter</corr> </choice>, diser
+               <lb facs="#facs_11_tr_1_tl_8" n="N008"/>Zeit aber widerspenstiger prelat zu <rs type="place" ref="#zwiefalten_kloster">Zwifalten</rs>
+                    <note type="annotation">Zwiefalten, 1395 als österreichisches Lehen an die Württemberger gelangt, widersetzte sich erfolgreich der Einführung der Reformation und einer vollständigen territorialen Eingliederung ins Herzogtum. Im Vertrag von Speyer wurde 1570 der Abtei Zwiefalten innerhalb des Herzogtums Württemberg eine Sonderstellung zugestanden. 1751 erlangte die Abtei schließlich die Reichsunmittelbarkeit, ehe sie 1803 an Württemberg fiel.</note> zu schuldiger gepürlicher unnd von
+               <lb facs="#facs_11_tr_1_tl_9" n="N009"/>alter heerkhommener gehorsame der gemeinen contributionen unnd andern
+               <lb facs="#facs_11_tr_1_tl_10" n="N010"/>hilffen auch geprachtt, das sein angepür, alls ein augmentum, auch zu der 
+               <w>abloß<pc>-</pc>
+                        <lb facs="#facs_11_tr_1_tl_11" n="N011"/>ungs</w> hilf angewenndt unnd gefolgt werden.</p>
+            <p resp="HOS">
+               <lb facs="#facs_11_tr_1_tl_12" n="N012"/>
+                    <supplied reason="article_added">6.2</supplied> Allso wellen wir auch bey den Sachsenheimischen underthanen<note type="annotation">
+                        <date when="1561">1561</date> waren die Stadt <rs type="place" ref="#grosssachsenheim">Großsachsenheim</rs> und der Ort <rs type="place" ref="#kleinsachsenheim">Kleinsachsenheim</rs> an Württemberg gefallen, nachdem das Geschlecht der Herren von Sachsenheim im Mannesstamm erloschen war. (überprüfen!)</note> gnedige handlung 
+               <w>fur<pc>-</pc>
+                        <lb facs="#facs_11_tr_1_tl_13" n="N013"/>nemmen</w> lassen, damit sie an sollichem schuldenlast auch contribuiern, und was
+               <lb facs="#facs_11_tr_1_tl_14" n="N014"/>bey denselbigen erhalten, solliches auch gemeiner lanndtschafft zu guetem an der 
+               <w>ab<pc>-</pc>
+                        <lb facs="#facs_11_tr_1_tl_15" n="N015"/>losung</w> hilf kommen lassen.</p>
+            <p resp="HOS">
+               <lb facs="#facs_11_tr_1_tl_16" n="N016"/>
+                    <supplied reason="article_added">6.3</supplied> Allso sollen auch die von Ober Sielmingen<note type="annotation">Seit 1923 mit Untersielmingen verbunden, heute als Teil von Sielmingen Ortsteil von <rs type="place" ref="#sielmingen">Filderstadt</rs>. <rs type="place" ref="#sielmingen">Obersielmingen</rs> gelangte 1363 aus dem Besitz der Herren von Urslingen an Württemberg. Die österreichische Regierung verkaufte (??) den Ort 1524 an Nikolaus (Claus) III.(?) Gaisberg (um 1480 - 1541 (dieser?)), Rat und Rentmeister des Königs von Böhmen und Ungarn in Württemberg; dieser veräußerte ihn 1529 an das Esslinger Katharinenspital, von dem Württemberg ihn 1557 erwarb.</note>, angesehen sie von althers auch zue
+               <lb facs="#facs_11_tr_1_tl_17" n="N017"/>unnserm furstenthumb gehört unnd jetzo widerumb zu demselben erlangt,
+               <lb facs="#facs_11_tr_1_tl_18" n="N018"/>gleichmessiger angepür nach, das ir<note type="annotation">das Ihre, ihren Anteil.</note> zu diser hilf erstatten, unnd unnserm
+               <lb facs="#facs_11_tr_1_tl_19" n="N019"/>furstenthumb einverleipt unnd anhengig sein unnd pleiben.</p>
+            <p resp="HOS">
+               <lb facs="#facs_11_tr_1_tl_20" n="N020"/>
+                    <supplied reason="article_added">7.1</supplied> Bey disem allem ist auch ferner verglichen unnd verabschidet, im fal sich ein
+               <lb facs="#facs_11_tr_1_tl_21" n="N021"/>lanndtkrieg, niderlag eines regierenden fursten (welches doch Got 
+               <w>gnedig<pc>-</pc>
+                        <lb facs="#facs_11_tr_1_tl_22" n="N022"/>lich</w> verhüeten welle), außsteurung der fröwlin<note type="annotation">Anlässlich der Vermählung einer württembergischen Prinzessin wurde die Aussteuer/Mitgift durch eine Sondersteuer der Bevölkerung aufgebracht.</note>, reichshilffen oder 
+               <w>der<pc>-</pc>
+                        <lb facs="#facs_11_tr_1_tl_23" n="N023"/>gleichen</w> notfellen, so gemeinen unnsern prelaten unnd lanndtschafft, nach
+            
+           <!-- <p facs="#facs_12_tr_1">-->
+               <pb facs="#facs_12" xml:id="img_0012" n="6r"/>
+               <lb facs="#facs_12_tr_1_tl_1" n="N001"/>innhallt des Tuwingischen<note type="annotation">Der - in seiner historischen Bedeutung umstrittene - Tübinger Vertrag vom <date when="1514-07-08">8. Juli 1514</date> bildet eines der Grundgesetze des Herzogtums <rs type="place" ref="#wuerttemberg_herzogtum">Württemberg</rs>. Er sicherte der württembergischen <q>Ehrbarkeit</q> Einfluss auf die Landespolitik, schloss allerdings den Bauernstand davon aus.</note> unnd nehern anno etc. funftzig vier aufgerichten
+               <lb facs="#facs_12_tr_1_tl_2" n="N002"/>vertrags unnd lanndtags abschid<note type="annotation">1554 war der Kleine und Große Ausschuss der Landstände festgeschrieben worden; der Kleine Ausschuss bestand aus 6 Vertretern der Städte und aus 2 Prälaten, der Große Ausschuss aus 12 Städtevertretern und 4 Prälaten. Die insgesamt 14 Prälaten wurden vom Herzog ernannt, während von den 45 Amtsstädten jeweils zwei Vertreter entsandt wurden.</note>, hilf zuthun oder zuvertretten gepürte, zu
+               <lb facs="#facs_12_tr_1_tl_3" n="N003"/>müegen, das alßdann die ablossung stillsteen unnd dahin verwenndt werden
+               <lb facs="#facs_12_tr_1_tl_4" n="N004"/>solle.</p>
+            <p resp="HOS">
+               <lb facs="#facs_12_tr_1_tl_5" n="N005"/>
+                    <supplied reason="article_added">7.2</supplied> Das auch gemeine prelaten unnd lanndtschafft, deren usschutz alhie befolhen, 
+               <w>hin<pc>-</pc>
+                        <lb facs="#facs_12_tr_1_tl_6" n="N006"/>fürean</w> inmassen von alter heerkhommen zu ussteurung der fröwlin zu
+               <lb facs="#facs_12_tr_1_tl_7" n="N007"/>
+                    <rs type="place" ref="#wuerttemberg_herzogtum">Wurtemberg</rs> dreissig zwey tausent guldin zugeben, das nemmen <rs type="person" ref="#christoph_wuerttemberg">wir</rs> von
+               <lb facs="#facs_12_tr_1_tl_8" n="N008"/>unnser getreuen geliepten landtschafft zu gnedigem gefallen an, und wellen
+               <lb facs="#facs_12_tr_1_tl_9" n="N009"/>die verwürckhten strafen deren, so uber verbot des mandatz neue weingart
+               <lb facs="#facs_12_tr_1_tl_10" n="N010"/>ohne erlaubnus gemacht haben, uf der lanndtschafft underthenig fürpit gnedig-
+               <lb facs="#facs_12_tr_1_tl_11" n="N011"/>lichen fallen lassen, doch das sollichem verpot, welliches wir auch durch 
+               <lb facs="#facs_12_tr_1_tl_13" n="N013"/>ein usschreiben in alle ämbter unnsers furstenhumbs wider erneuern
+               <lb facs="#facs_12_tr_1_tl_14" n="N014"/>unnd ußkhunden lassen wellen, würckhlichen unnd gehorsamlich hinfüro 
+               <w>ge<pc>-</pc>
+                        <lb facs="#facs_12_tr_1_tl_15" n="N015"/>lebt</w> unnd die ubertretter vermög unnd innhalt solliches gestrafft werd-
+               <lb facs="#facs_12_tr_1_tl_16" n="N016"/>enn.</p>
+            <p resp="HOS">
+               <lb facs="#facs_12_tr_1_tl_17" n="N017"/>
+                    <supplied reason="article_added">8</supplied> <rs type="person" ref="#christoph_wuerttemberg">Wir</rs> seien auch gnediglichen bedacht, die pfanndtschafft der dreien fleckhen
+               <lb facs="#facs_12_tr_1_tl_18" n="N018"/>ihenseit des <rs type="place" ref="#heuchelberg">Heuchelbergs</rs>, <rs type="place" ref="#kleingartach">Gartach</rs>, <rs type="place" ref="#niederhofen_schwaigern">Niderhofen</rs> unnd <rs type="place" ref="#stetten_am_heuchelberg">Stetten</rs>,<note type="annotation">
+                        <rs type="place" ref="#stetten_am_heuchelberg">Stetten am Heuchelberg</rs>, <rs type="place" ref="#niederhofen_schwaigern">Niederhofen</rs> und <rs type="place" ref="#kleingartach">(Klein-)Gartach</rs> waren <date when="1485">1485</date> an <rs type="person" ref="#gemmingen_hans">Hans von Gemmingen, gen. der Reiche</rs>, verpfändet worden und wurden <date when="1571">1571</date> von <rs type="place" ref="#wuerttemberg_herzogtum">Württemberg</rs> wieder ausgelöst.</note> wann
+               <lb facs="#facs_12_tr_1_tl_19" n="N019"/>die pfannd jar uß sein, zu unserm furstenthumb widerumb zulösen. So
+               <lb facs="#facs_12_tr_1_tl_20" n="N020"/>hat es noch der zeit mit <rs type="place" ref="#heubach">Heubach</rs> sein sonndere maß, darus nit wol geschritten
+               <lb facs="#facs_12_tr_1_tl_21" n="N021"/>mag werden.<note type="annotation">Um 1358 war <rs type="place" ref="#heubach">Heubach</rs> pfandweise von den Grafen von Oettingen an die Grafen von Württemberg gelangt; 1360 fiel es an das Königreich <rs type="place" ref="#boehmen_koenigreich">Böhmen</rs> (nach dem Sieg Kaiser <rs type="person" ref="#karl_iv">Karls IV.</rs> über Graf <rs type="person" ref="#eberhard_ii_wuerttemberg">Eberhard den Greiner</rs>), <date when="1377">1377</date> kam es wiederum als Pfand an <rs type="place" ref="#wuerttemberg_herzogtum">Württemberg</rs>, das um 1413 die Herren von Woellwarth damit belehnte. <date when="1579">1579</date> kaufte Herzog <rs type="person" ref="#ludwig_wuerttemberg">Ludwig von Württemberg</rs> den Ort zurück.</note>
+                </p>
+            <p resp="HOS">
+               <lb facs="#facs_12_tr_1_tl_22" n="N022"/>
+                    <supplied reason="article_added">9</supplied> Nach dem auch von gemeinen unnsern prelaten unnd landtschafft, unangesehen
+               <lb facs="#facs_12_tr_1_tl_23" n="N023"/>hiebevor irem grossen usschutz neben fürlesung der gelerten schrifftlichen
+               <lb facs="#facs_12_tr_1_tl_24" n="N024"/>rathschlegen, auch gnugsamer des alten geprauchs vnd heerkhommens, wie
+               <lb facs="#facs_12_tr_1_tl_25" n="N025"/>es des abtzugs halben im hinaus erben geschaffen, bericht furgebracht, dannocht
+           
+            <!--<p facs="#facs_13_tr_1">-->
+               <pb facs="#facs_13" xml:id="img_0013" n="6v"/>
+               <lb facs="#facs_13_tr_1_tl_1" n="N001"/>bey disem landtag widerumb anregung beschehen, <rs type="person" ref="#christoph_wuerttemberg">Wir</rs> aber befunden, solliche 
+               <w>ein<pc>-</pc>
+                        <lb facs="#facs_13_tr_1_tl_2" n="N002"/>khommen</w> fur ein sonnder ehehafft<note type="annotation">rechtliche Ordnung.</note> in unnsers furstenthumbs allwegen gehalten und
+               <lb facs="#facs_13_tr_1_tl_3" n="N003"/>gehandthabt sein, auch von andern genachparten chur unnd furstenthumben, herrschafften,
+               <lb facs="#facs_13_tr_1_tl_4" n="N004"/>stätten unnd oberkheiten gegen den unsern solliches nit gepraucht, so haben <rs type="person" ref="#christoph_wuerttemberg">wir</rs> in dem auch
+               <lb facs="#facs_13_tr_1_tl_5" n="N005"/>nit untzytliche bedenckhen gehapt unnd es allso bey dem alten heerkhommen pleiben lassen,
+               <lb facs="#facs_13_tr_1_tl_6" n="N006"/>dan uf unser gehorsamen prelaten unnd landtschafft underthenigs beschehen erhalten unnd
+               <lb facs="#facs_13_tr_1_tl_7" n="N007"/>bitten, haben <rs type="person" ref="#christoph_wuerttemberg">wir</rs> aus gnaden bewilligt, das gegen denen oberkheiten, so gegen unsers
+               <lb facs="#facs_13_tr_1_tl_8" n="N008"/>furstenthumbs angehörigen und underthanen die gleicheit halten werden, unnd also kein
+               <lb facs="#facs_13_tr_1_tl_9" n="N009"/>abtzug nemmen, das die elter ire kinder, hinwider die khinder ire eltern, vatter und muter,
+               <lb facs="#facs_13_tr_1_tl_10" n="N010"/>ahne abtzug aus unnd einerben mögen, ob auch andere anreinende herrschafften und 
+               <w>ober<pc>-</pc>
+                        <lb facs="#facs_13_tr_1_tl_11" n="N011"/>kheiten</w>, an unnser fürstenthumb, sich weiters mit dem aus und ein erben mit uns und unser
+               <lb facs="#facs_13_tr_1_tl_12" n="N012"/>lanndtschafft bestendiglich vergleichen welten, wollen <rs type="person" ref="#christoph_wuerttemberg">wir</rs> uns gleichsfals unsern underthanen
+               <lb facs="#facs_13_tr_1_tl_13" n="N013"/>zu gnaden auch gnedig verhalten.</p>
+            <p resp="HOS">
+               <lb facs="#facs_13_tr_1_tl_14" n="N014"/>
+                    <supplied reason="article_added">10</supplied> Alls sich auch unsere getreue lanndtschafft beclagt, das an vilen orthen unsers furstenthumbs durch
+               <lb facs="#facs_13_tr_1_tl_15" n="N015"/>das wildpret schaden beschehe, haben <rs type="person" ref="#christoph_wuerttemberg">wir</rs> unns gnedig verwilligt, so offt <rs type="person" ref="#christoph_wuerttemberg">wir</rs> kunfftig deßen
+               <lb facs="#facs_13_tr_1_tl_16" n="N016"/>in specie bericht werden, gnedigs unnd gepürlichs einsehens zuverfüegen, damit das 
+               <w>wild<pc>-</pc>
+                        <lb facs="#facs_13_tr_1_tl_17" n="N017"/>prät</w> nit hauffent zuschaden des armen mans unnd seiner feldgüetlin uberhannd nemme,
+               <lb facs="#facs_13_tr_1_tl_18" n="N018"/>wa unns auch von wegen haagens, jagens, extra ordinari fuerung<note type="annotation">außerordentliche, übermäßige Geleits- und Spanndienste (?).</note>, beschwerden furkhämen
+               <lb facs="#facs_13_tr_1_tl_19" n="N019"/>und uns die in specie dargethan werden, wellen <rs type="person" ref="#christoph_wuerttemberg">wir</rs> jedertzeit gepürlichs einsehens thun
+               <lb facs="#facs_13_tr_1_tl_20" n="N020"/>und sie altem heerkhommen zuwider nit beschweren lassen.</p>
+            <p resp="HOS">
+               <lb facs="#facs_13_tr_1_tl_21" n="N021"/>
+                    <supplied reason="article_added">11</supplied> <rs type="person" ref="#christoph_wuerttemberg">Wir</rs> gedenckhen auch bey den prelaten und nunnen clöstern, sovil immer müglich, mhrere
+               <lb facs="#facs_13_tr_1_tl_22" n="N022"/>eingetzognere unnd bessere haußhaltungen dermassen antzustellen, damit von jaren
+               <lb facs="#facs_13_tr_1_tl_23" n="N023"/>zu jaren solliche des kurchencastens depositum gemehrt unnd mit der ablosung dester
+               <lb facs="#facs_13_tr_1_tl_24" n="N024"/>richtiger möge furgeschritten werden.</p>
+            <p resp="HOS">
+               <lb facs="#facs_13_tr_1_tl_25" n="N025"/>
+                    <supplied reason="article_added">12</supplied> Alls auch die lanndtschafft sich ab<note type="annotation">ob, wegen.</note> unsern ambtleuthen, das sie die underthanen in irer 
+               <w>verricht<pc>-</pc>
+                        <lb facs="#facs_13_tr_1_tl_26" n="N026"/>ung</w> rauch<note type="annotation">rauh, barsch.</note> anfaren unnd was unbeschaiden verhalten sollen, sich beclagen, da ist unser
+               <lb facs="#facs_13_tr_1_tl_27" n="N027"/>gnedigs begern, uns solliches in specie jedertzeit antzutzeigen, wellen <rs type="person" ref="#christoph_wuerttemberg">wir</rs> darüber
+               <lb facs="#facs_13_tr_1_tl_28" n="N028"/>billichs einsehens haben.</p>
+            <p resp="HOS">
+           
+            <!--<p facs="#facs_14_tr_1">-->
+               <pb facs="#facs_14" xml:id="img_0014" n="7r"/>
+               <lb facs="#facs_14_tr_1_tl_1" n="N001"/>
+                    <supplied reason="article_added">13</supplied> Allso wellen wir auch die professores unserer hohen schul mit embsigerm lesen zue
+               <lb facs="#facs_14_tr_1_tl_2" n="N002"/>mehrerm fleiß anhalten.</p>
+            <p resp="HOS">
+               <lb facs="#facs_14_tr_1_tl_5" n="N003"/>
+                    <supplied reason="article_added">14</supplied> Dieweil auch uf disem landtag furgefallen, das von nöten sein welle, was erclärung
+               <lb facs="#facs_14_tr_1_tl_6" n="N004"/>in dem landtrechten von wegen der erbschafften zu thun, wellen wir zu ehister 
+               <w>ge<pc>-</pc>
+                        <lb facs="#facs_14_tr_1_tl_7" n="N005"/>legenheit</w> dartzu unsere räth neben der lanndtschafft usschutz, auch von der juristen
+               <lb facs="#facs_14_tr_1_tl_8" n="N006"/>facultet zu <rs type="place" ref="#tuebingen">Tuwingen</rs> ordnen, die sollichs alles ersehen, erwegen, unnd nach dem ir
+               <lb facs="#facs_14_tr_1_tl_9" n="N007"/>samentlich bedenckhen unns furgepracht, alßdann daruf sollich unser landtrecht in den
+               <lb facs="#facs_14_tr_1_tl_10" n="N008"/>unlautern<note type="annotation">unklaren, undeutlichen.</note> puncten erclären, auch dasselb widerumb mit einverleipter erclärung
+               <lb facs="#facs_14_tr_1_tl_11" n="N009"/>truckhen lassen, damit hinfüro bey den gerichten daruf richtig den partheien urtheil
+               <lb facs="#facs_14_tr_1_tl_12" n="N010"/>gesprochen werden, auch der gemein mann dessen ein verstand haben und sich 
+               <w>dar<pc>-</pc>
+                        <lb facs="#facs_14_tr_1_tl_13" n="N011"/>ein</w> richten möge.</p>
+            <p resp="HOS">
+               <lb facs="#facs_14_tr_1_tl_14" n="N012"/>
+                    <supplied reason="article_added">15</supplied> Es solle auch alßdann der stattschreiber tax bedacht, damit unnsere underthannen vonn
+               <lb facs="#facs_14_tr_1_tl_16" n="N013"/>inen nit beschwert, dartzu inen ein pillicher staat gemacht werden.</p>
+            <p resp="HOS">
+               <lb facs="#facs_14_tr_1_tl_17" n="N014"/>
+                    <supplied reason="article_added">16</supplied> Dergleichen, dieweil unser landtzordnung in etlichen puncten erclärung zuthun von
+               <lb facs="#facs_14_tr_1_tl_18" n="N015"/>nöten zusein furgefallen, so sellen dieselben unsere verordnete räth und von der juristen
+               <lb facs="#facs_14_tr_1_tl_19" n="N016"/>facultet neben dem usschutz, die sambt dero comertien<note type="annotation">Erwerbsquellen, Unternehmungen zum Gelderwerb bzw. zum Erwerb des Lebensunterhalts.</note>, handthierung, gewerben, 
+               <w>hanndt<pc>-</pc>
+                        <lb facs="#facs_14_tr_1_tl_20" n="N017"/>werckhen</w>, erhaltung der wochenmärckhten in stätten, heut<note type="annotation">Häute(kauf).</note> unnd wollen kauf, das
+               <lb facs="#facs_14_tr_1_tl_21" n="N018"/>tucher, rot<note type="annotation">Rot(gerberhandwerk).</note> unnd weißgerber handtwerckh, waller<note type="annotation">Hausierer, Wanderhändler.</note> unnd frembder krämer, dartzu die
+               <lb facs="#facs_14_tr_1_tl_22" n="N019"/>gewerben in dörffern, und andere politische puncten auch fur hand nemmen, von puncten
+               <lb facs="#facs_14_tr_1_tl_23" n="N020"/>zu puncten verlesen und erwegen, was darinnen zuerclären und zuverbessern sein
+               <lb facs="#facs_14_tr_1_tl_24" n="N021"/>welle, unnd uns folgendtz ir berathenlich bedenckhen fürbringen, daruf wir dann die selb
+               <lb facs="#facs_14_tr_1_tl_25" n="N022"/>mit sollicher bedachter erclärung und enderung wider truckhen und ußbinnden<note type="annotation">separat binden (?).</note> lassen
+               <lb facs="#facs_14_tr_1_tl_26" n="N023"/>wellen.</p>
+            <p resp="HOS">
+               <lb facs="#facs_14_tr_1_tl_27" n="N024"/>
+                    <supplied reason="article_added">17</supplied> <rs type="person" ref="#christoph_wuerttemberg">Wir</rs> gedenckhen auch uf unnser landtschafft underthenigs und gehorsams bitten uf kunfftigen
+               <lb facs="#facs_14_tr_1_tl_28" n="N025"/>reichs und andern tägen, sovil an unns ist, dahin helffen zuhandlen, das mit 
+               <w>ubermeß<pc>-</pc>
+                        <lb facs="#facs_14_tr_1_tl_29" n="N026"/>igen</w> reichs anlagen, die durch die reichs abschid den underthanen ufgelegt werden wellen,
+               <lb facs="#facs_14_tr_1_tl_30" n="N027"/>sovil immer erheblichen, ir der underthanen verschont werde.</p>
+            <p resp="HOS">
+               <lb facs="#facs_14_tr_1_tl_31" n="N028"/>
+                    <supplied reason="article_added">18</supplied> Nachdem auch unnser lanndtschafft sich beschwert, das vilen unsern clöstern und ambtern
+               <lb facs="#facs_14_tr_1_tl_32" n="N029"/>mit der fuer<note type="annotation">Fuhre.</note> im zug fur Ericord<note type="annotation">
+                        <rs type="place" ref="#hericourt">Héricourt</rs>.</note> uber die vier und zweintzig guldin, so uf einen jeden
+           
+            <!--<p facs="#facs_15_tr_2">-->
+               <pb facs="#facs_15" xml:id="img_0015" n="7v"/>
+               <lb facs="#facs_15_tr_2_tl_1" n="N001"/>wagen gegeben worden, ein grosser cost ufgangen, unnd underthenig gepetten, inen
+               <lb facs="#facs_15_tr_2_tl_2" n="N002"/>bey unserm vettern und pfleg Sohn Graf <rs type="person" ref="#friedrich_i_wuerttemberg">Friderichen zu Würtemberg</rs>
+                    <note type="annotation">Friedrichs Vater, <rs type="person" ref="#georg_wuerttemberg">Georg I. von Württemberg-Mömpelgard</rs>, war am <date when="1558-07-17">17. Juli 1558</date> verstorben, deshalb wuchs <rs type="person" ref="#friedrich_i_wuerttemberg">Friedrich</rs> am Stuttgarter Hof auf, wo sein Vetter Herzog <rs type="person" ref="#christoph_wuerttemberg">Christoph</rs> für seine Ausbildung sorgte.</note> etc. derhalb
+               <lb facs="#facs_15_tr_2_tl_3" n="N003"/>widerlegung<note type="annotation">Erstattung.</note> gnedig zuverschaffen, sollen uns sie, unsere prelaten und landtschafft, durch
+               <lb facs="#facs_15_tr_2_tl_4" n="N004"/>iren cleinen usschutz in specie sollichen ufgewendten costen fürlegen, wellen <rs type="person" ref="#christoph_wuerttemberg">wir</rs> uns
+               <lb facs="#facs_15_tr_2_tl_5" n="N005"/>daruf weiter nach billichen dingen vernemmen lassen.</p>
+            <p resp="HOS">
+               <lb facs="#facs_15_tr_2_tl_6" n="N006"/>
+                    <supplied reason="article_added">19</supplied> Alls auch unnser getreue lanndtschafft sich beschwert, das die vom adel in den stätten unsers
+               <lb facs="#facs_15_tr_2_tl_7" n="N007"/>furstenthumbs mit kauffung der heuser und güeter sich eintringen<note type="annotation">eindrängen.</note> thun, solle uns das in
+               <lb facs="#facs_15_tr_2_tl_8" n="N008"/>specie und underschidlich dargethon werden, wellen <rs type="person" ref="#christoph_wuerttemberg">wir</rs> der gepür einsehens thun.</p>
+            <p resp="HOS">
+               <lb facs="#facs_15_tr_2_tl_9" n="N009"/>
+                    <supplied reason="article_added">20</supplied> Das dann unsere prelaten und lanndtschafft sich von wegen der ungleichen flaischschatzung<note type="annotation">Fleischbesteuerung.</note> in dem landt
+               <lb facs="#facs_15_tr_2_tl_10" n="N010"/>beschwert, wie auch bedacht möchte werden, das rechtgeschaffne vieh zuchten in dem landt angericht
+               <lb facs="#facs_15_tr_2_tl_11" n="N011"/>würden, also das von den inländischen die waiden beschlagen<note type="annotation">mit Vieh besetzt.</note>, den winter das fueter durch der
+               <lb facs="#facs_15_tr_2_tl_12" n="N012"/>landtmetzger und schäffer vieh und schaaf verezt<note type="annotation">veratzt, aufgezehrt, gefressen.</note> unnd der nutzen, so die frembden haben, dem
+               <lb facs="#facs_15_tr_2_tl_13" n="N013"/>landt zu guetem kommen möcht, wollen wir uf unser landtschafft der flaischschatzung halb ferner
+               <lb facs="#facs_15_tr_2_tl_14" n="N014"/>uberschickhte bericht und des usschutz underthenig ferner anhalten, ihemandt von unsern ober
+               <lb facs="#facs_15_tr_2_tl_15" n="N015"/>und chammer räthen neben inen dartzu ordnen, solliches nach notturfft<note type="annotation">Bedarf.</note> zuberathschlagen, und
+               <lb facs="#facs_15_tr_2_tl_16" n="N016"/>wa von nöten, so sollen auch die ämbter und die jenigen, so die vieh zucht belangen will, uber das,
+               <lb facs="#facs_15_tr_2_tl_17" n="N017"/>so derhalben berathschlagt würt, gehört, damit inen kein unbilliche beschwerd ufgelegt werde.
+               <lb facs="#facs_15_tr_2_tl_18" n="N018"/>Unnd was da befunden wurdet, gemeiner landtschafft nutzlichen und furstendig zu sein, wellen
+               <lb facs="#facs_15_tr_2_tl_19" n="N019"/>wir solliches in das werckh richten, unnd zu sollicher berathschlagung die von prelaten und 
+               <w>landt<pc>-</pc>
+                        <lb facs="#facs_15_tr_2_tl_20" n="N020"/>schafft</w> bestimbte personen dartzu ziehen lassen.</p>
+            <p resp="HOS">
+               <lb facs="#facs_15_tr_2_tl_21" n="N021"/>
+                    <supplied reason="article_added">21</supplied> Wie auch von prelaten und gemeiner landtschafft undertheniglich gepetten, uf die wege bedacht zusein,
+               <lb facs="#facs_15_tr_2_tl_22" n="N022"/>das die von <rs type="place" ref="#esslingen">Eßlingen</rs>, <rs type="place" ref="#reutlingen">Reutlingen</rs>, auch andere inn und umbligende reichs stätt, und vom adel 
+               <w>unß<pc>-</pc>
+                        <lb facs="#facs_15_tr_2_tl_23" n="N023"/>ers</w> furstenthumbs, sich gleicher meß und eich mit unser landtschafft vergleichen thetten,
+               <lb facs="#facs_15_tr_2_tl_24" n="N024"/>befinden <rs type="person" ref="#christoph_wuerttemberg">wir</rs> nach statlichem darüber gehaptem rath, das solliches unerheblichen, darumben der sachen
+               <lb facs="#facs_15_tr_2_tl_25" n="N025"/>notturfft nach weiters bey obgemelten unnd andern puncten nachtzugedenckhen.</p>
+            <p resp="HOS">
+               <lb facs="#facs_15_tr_2_tl_26" n="N026"/>
+                    <supplied reason="article_added">22</supplied> Alls auch uns uf disem landtag ferner clagendt furkhommen von wegen romung der wäld
+               <lb facs="#facs_15_tr_2_tl_27" n="N027"/>vermög unser im truckh ausgangner forstordnung, das auch die forstmeister die häu<note type="annotation">Schlagtermine bzw. -gebiete, d. h. welche Bäume gefällt werden sollen/dürfen. </note> <w>zuab<pc>-</pc>
+                  <lb facs="#facs_15_tr_2_tl_28" n="N028"/>hauung</w> des holtz, spaat ufthan<note type="annotation">spät bekanntmachen.</note>, also das in der forstordnung bestimbter zeit die häu nit wol
+               <lb facs="#facs_15_tr_2_tl_30" n="N030"/>gerombt mögen noch khünden werden, wellen <rs type="person" ref="#christoph_wuerttemberg">wir</rs> dise verordnung und befelch
+               <lb facs="#facs_15_tr_2_tl_31" n="N031"/>unsern forstmeistern geben, das sie die winter häu zwischen Michaelis<note type="annotation">29. September.</note> und Galli<note type="annotation">16. Oktober.</note> jedes
+            
+           <!-- <p facs="#facs_16_tr_1">-->
+               <pb facs="#facs_16" xml:id="img_0016" n="8r"/>
+               <lb facs="#facs_16_tr_1_tl_2" n="N001"/>jars zuabhauen ußgeben, unnd das solliches beschehen, sie jerlichs im urkhundt irer 
+               <w>rech<pc>-</pc>
+                        <lb facs="#facs_16_tr_1_tl_3" n="N002"/>nung</w> pringen sollen.
+               <lb facs="#facs_16_tr_1_tl_4" n="N003"/>Unnd was also noch vor der winter gefrörin<note type="annotation">Frost(periode).</note> abgehauen, das soll den winter hinumb aus
+               <lb facs="#facs_16_tr_1_tl_5" n="N004"/>den häuen gefüert und die wäld gerombt werden, was aber in dem Mertzen und Apprillen
+               <lb facs="#facs_16_tr_1_tl_6" n="N005"/>und also gegen dem früelinge gehauen, das solliches bis Michaelis ussen den häuen gefüert werde.
+               <lb facs="#facs_16_tr_1_tl_7" n="N006"/>Das unsere prelaten unnd landtschafft sich beclagen, das von etlichen unsern forstmeistern zuwider
+               <lb facs="#facs_16_tr_1_tl_8" n="N007"/>unserer forstordnung mehr dann sechtzehen banraitel<note type="annotation">junge Baumstämme, die nicht gefällt, sondern stehengelassen werden sollen, damit sie zu starken Bäumen heranwachsen und als Bauholz o. dgl. Verwendung finden können.</note>, also auch jedesmals, wann die wäld
+               <lb facs="#facs_16_tr_1_tl_9" n="N008"/>gehauen, uber die alte noch entgegen steende weiters sechtzehen banreitel steen zulassen,
+               <lb facs="#facs_16_tr_1_tl_10" n="N009"/>unsere underthanen angehalten, so doch an etlichen orthen von wegen das des bauholtz halben
+               <lb facs="#facs_16_tr_1_tl_11" n="N010"/>die gemeinden eigne banwäld, also das in den andern und uberigen wälden sovil banraiteln
+               <lb facs="#facs_16_tr_1_tl_12" n="N011"/>nit bedörffen, da lassen wir es, dieweil nit füegliche gleicheit gehalten werden mag,
+               <lb facs="#facs_16_tr_1_tl_13" n="N012"/>bey vermelter unser forstordnung dißmals pleiben. Derenhalben aber, so sich dessenn
+               <lb facs="#facs_16_tr_1_tl_14" n="N013"/>kunfftiglichen zubeschweren hetten unnd bey uns dasselb anprächten, wellen wir unsern
+               <lb facs="#facs_16_tr_1_tl_15" n="N014"/>forstmeistern befelhen, neben unsern ambtleuthen und andern verstendigen, die häu jedes
+               <lb facs="#facs_16_tr_1_tl_16" n="N015"/>jars zubesichtigen, und wa sich die menge der banraitel in den heuen befindet, also das, da
+               <lb facs="#facs_16_tr_1_tl_17" n="N016"/>das junge holtz darvor nit ufwachsen kan, das da einsehens beschehe nach pillichen dingen.
+               <lb facs="#facs_16_tr_1_tl_18" n="N017"/>Das dann sich gemeine landtschafft beschwert ab den forstmeistern und knechten, das sie zuwider der
+               <lb facs="#facs_16_tr_1_tl_19" n="N018"/>forstordnung und vorigen landtags abschiden mit vertzeinung<note type="annotation">Einzäunung, Einfriedigung.</note> und vergrabung<note type="annotation">Einfriedung durch Gräben.</note> irer guet, auch schöchung<note type="annotation">Verscheuchen.</note>
+               <lb facs="#facs_16_tr_1_tl_20" n="N019"/>des wildtprätz usser denselben, das auch sie etwan<note type="annotation">bisweilen.</note> die underthonen unschuldiger weiß 
+               <w>ein<pc>-</pc>
+                        <lb facs="#facs_16_tr_1_tl_21" n="N020"/>legen</w> sollen, so folgendtz sich erfindet, das die unschuldig, doch nit desto weniger die atzung<note type="annotation">Kosten für die Nahrungsmittel.</note>,
+               <lb facs="#facs_16_tr_1_tl_22" n="N021"/>auch fach guldin<note type="annotation">Fachgulden = Unterbringungskosten (?).</note> geben müessen,
+               <lb facs="#facs_16_tr_1_tl_23" n="N022"/>deßgleichen mit klaubung<note type="annotation">Einsammlung.</note> wilden obs<note type="annotation">Obstes, bes. Äpfel.</note> und biren<note type="annotation">Birnen.</note>, der hund und anders, leichtlich straffen 
+               <w>für<pc>-</pc>
+                        <lb facs="#facs_16_tr_1_tl_24" n="N023"/>nemmen</w>. Daruf ist unser gnedigs begern unnd befelch, das solliches uns in specie
+               <lb facs="#facs_16_tr_1_tl_26" n="N025"/>und underschidlichen dargethan werde, wellen wir derwegen ernstlichs einsehens thun,
+               <lb facs="#facs_16_tr_1_tl_27" n="N026"/>unnd was bey unns jederzeit der groß unnd clein usschutz unserer landtschafft diser und ander
+               <lb facs="#facs_16_tr_1_tl_28" n="N027"/>der lanndtschafft obligen<note type="annotation">Anliegen, dringende Forderungen.</note> unnd sachen halben anpringen würt, darinnen wellen wir sie
+               <lb facs="#facs_16_tr_1_tl_29" n="N028"/>jedertzeit, wie auch bißheer beschehen, gnediglich hören, abwendung und einsehens der 
+               <w>ge<pc>-</pc>
+                        <lb facs="#facs_16_tr_1_tl_30" n="N029"/>pür</w> unnd pillicheit nach thun, damit unser landtschafft, ambter, fleckhen und underthonen
+               <lb facs="#facs_16_tr_1_tl_31" n="N030"/>vor unpillichen beschwerungen verhüet und gnedig geschützt und geschirmbt werden.</p>
+            <p resp="HOS">
+               <lb facs="#facs_16_tr_1_tl_32" n="N031"/>
+                    <supplied reason="article_added">23</supplied> Unnd nachdem die lehenleuth unsers furstenthumbs vermög der erection für den dritten
+            
+            <!--<p facs="#facs_17_tr_1">-->
+               <pb facs="#facs_17" xml:id="img_0017" n="8v"/>
+               <lb facs="#facs_17_tr_1_tl_1" n="N001"/>stand desselbigen, auch wie die zu dem regiment zutziehen, angesehen, zu dem in dem
+               <lb facs="#facs_17_tr_1_tl_2" n="N002"/>Tuwingischen vertrag angeregt worden, nach mittel und wegen zu trachten, wie
+               <lb facs="#facs_17_tr_1_tl_3" n="N003"/>die etwas nahent zu unserm furstenthumb, durch gnedige mittel und weeg zupringen,
+               <lb facs="#facs_17_tr_1_tl_4" n="N004"/>auch derwegen bey sollicher furgeloffner tractation von unserer gehorsamen prelaten
+               <lb facs="#facs_17_tr_1_tl_5" n="N005"/>und lanndtschafft anregung geschehen, wellen wir den sachen ferners nach denckhen, wie
+               <lb facs="#facs_17_tr_1_tl_6" n="N006"/>diser sachen fuegliche mittel unnd weg zufinden sein mögen.</p>
+            <p resp="HOS">
+               <lb facs="#facs_17_tr_1_tl_7" n="N007"/>
+                    <supplied reason="article_added">24</supplied> Ferner den vorrath der landtschafft fruchten betreffendt: Dieweil die prelaten und 
+               <w>landt<pc>-</pc>
+                        <lb facs="#facs_17_tr_1_tl_8" n="N008"/>schafft</w> gemeinlich sich deßwegen underthenig erpürten thun, sich fürohin dessen grossen
+               <lb facs="#facs_17_tr_1_tl_9" n="N009"/>usschutz, hievor berathenlichen beschehen, verwilligen und daruf unserm gefolgten 
+               <w>uß<pc>-</pc>
+                        <lb facs="#facs_17_tr_1_tl_10" n="N010"/>schreiben</w>, nemlich das ein im monat Januarii anno etc. sechtzig eins, das ander im monat
+               <lb facs="#facs_17_tr_1_tl_11" n="N011"/>Februarii anno etc. sechtzig zwey, unnd das dritt den letsten Augusti anno etc, sechtzig viere 
+               <w>uß<pc>-</pc>
+                        <lb facs="#facs_17_tr_1_tl_12" n="N012"/>gangen</w>, allerdings gemeß zuhalten, soll es allso darbey würckhlich beruohen und besteen, doch
+               <lb facs="#facs_17_tr_1_tl_13" n="N013"/>in allweg dahin gesehen unnd die sachen gericht werden, das die märckht mit früchten erhalten
+               <lb facs="#facs_17_tr_1_tl_14" n="N014"/>unnd der gemein mann bey der hannd täglichs sein notturfft in rechtem fayllem kauf haben und
+               <lb facs="#facs_17_tr_1_tl_15" n="N015"/>das brot in zimlichem werth pleiben und nit mangel erscheinen möge.</p>
+            <p resp="HOS">
+               <lb facs="#facs_17_tr_1_tl_16" n="N016"/>
+                    <supplied reason="article_added">25.1</supplied> Der communen rechnungen und remanet betreffende, das unsere ambtleuth unnd 
+               <w>ge<pc>-</pc>
+                        <lb facs="#facs_17_tr_1_tl_17" n="N017"/>santen</w> von der landtschafft sollen und wellen, irem beschehenen underthenigen erpieten
+               <lb facs="#facs_17_tr_1_tl_18" n="N018"/>nach, die sachen furthin bey inen also anschickhen, das jerlichs unser landtzordnung nach 
+               <w>orden<pc>-</pc>
+                        <lb facs="#facs_17_tr_1_tl_19" n="N019"/>liche</w> unnd richtige rechnung gehört unnd die remanet zum vorrath des gemeinen nutz par<note type="annotation">bar.</note>
+               <lb facs="#facs_17_tr_1_tl_20" n="N020"/>erlegt, besonder auch die noth unverhörte rechnungen und unbetzalte remanet, hietzwischenn
+               <lb facs="#facs_17_tr_1_tl_21" n="N021"/>nechstkunfftig Liechtmeß<note type="annotation">2. Februar.</note>, allerdings ordenlich abgehört, und von den vermöglichen also baar ohne
+               <lb facs="#facs_17_tr_1_tl_22" n="N022"/>fernern uftzug betzalt, unnd den unvermuglichen zur billichen bezalung nach gestallt
+               <lb facs="#facs_17_tr_1_tl_23" n="N023"/>der sachen zil zugeben, unnd lenger nit eingestelt werden, zuverhüetung unsers 
+               <w>ernst<pc>-</pc>
+                        <lb facs="#facs_17_tr_1_tl_24" n="N024"/>lichen</w> und billichen einsehens.</p>
+            <p resp="HOS">
+               <lb facs="#facs_17_tr_1_tl_25" n="N025"/>
+                    <supplied reason="article_added">25.2</supplied> Hiemit auch der spittaln, sondersiechen, armen cästen, witwen unnd waisen, mül unnd
+               <lb facs="#facs_17_tr_1_tl_26" n="N026"/>andere rechnungen verstanden sollen werden.</p>
+            <p resp="HOS">
+               <lb facs="#facs_17_tr_1_tl_27" n="N027"/>
+                    <supplied reason="article_added">25.3</supplied> Ferners, damit dem lang gemachten schulden und gülten last der communen und sonderer 
+               <w>per<pc>-</pc>
+                        <lb facs="#facs_17_tr_1_tl_28" n="N028"/>sonen</w> auch einest widerumb abgeholffen, dartzu mit gueter inspection bey dem 
+               <w>gemein<pc>-</pc>
+                        <lb facs="#facs_17_tr_1_tl_29" n="N029"/>en</w> mann ein bessere haußhaltung und sparung angeschickht, unnd ob inen, auch den 
+               <w>ver<pc>-</pc>
+                        <lb facs="#facs_17_tr_1_tl_30" n="N030"/>schwendern</w> unnd faullentzern, gehalten werde, sich ferner mit gülten unnd schulden
+            
+           <!-- <p facs="#facs_18_tr_1">-->
+               <pb facs="#facs_18" xml:id="img_0018" n="9r"/>
+               <lb facs="#facs_18_tr_1_tl_2" n="N001"/>zubestöckhen, sonder dero sich wider zuledigen, und vor sollichem verschwenden, 
+               <w>faullentz<pc>-</pc>
+                        <lb facs="#facs_18_tr_1_tl_3" n="N002"/>en</w> und müessigang verhüet werden mögen, sollen unsere ambtleuth und gesandten
+               <lb facs="#facs_18_tr_1_tl_4" n="N003"/>von der landtschafft, derwegen irem selbs beschehenen underthenigen erpüeten nach, mit
+               <lb facs="#facs_18_tr_1_tl_5" n="N004"/>unnd in crafft deßhalb von unns hievor sondern beschehenen usschreiben und unnser
+               <lb facs="#facs_18_tr_1_tl_6" n="N005"/>landtzordnung, mit den gerichten, an jedem orth guete würckhliche anschickhung thun
+               <lb facs="#facs_18_tr_1_tl_7" n="N006"/>und an inen ires theils nichtz erwinden lassen,</p>
+            <p resp="HOS">
+               <lb facs="#facs_18_tr_1_tl_8" n="N007"/>
+                    <supplied reason="article_added">25.4</supplied> ferner das sie auch der stätt unnd fleckhen stattrecht, freyheiten, verträgen, gewanheiten,
+               <lb facs="#facs_18_tr_1_tl_9" n="N008"/>marckhungen, wun<note type="annotation">Wiese(n).</note>, waid, trib<note type="annotation">Viehtrieb, Erlaubnis zur Beweidung von Wiesen anderer Besitzer.</note>, trat<note type="annotation">ein Weiderecht.</note> unnd ander ir municipal sachen unnd 
+               <w>gerechtig<pc>-</pc>
+                        <lb facs="#facs_18_tr_1_tl_10" n="N009"/>kheit</w> hanndthaben, und derwegen in alweg guete anschickhung thun wellen, wa sie die
+               <lb facs="#facs_18_tr_1_tl_11" n="N010"/>nit in gueter richtiger neuerung und vertzeichnus haben, dieselben nachmals in guete
+               <lb facs="#facs_18_tr_1_tl_12" n="N011"/>richtige neuerung und vertzeichnus zupringen.</p>
+            <p resp="HOS">
+               <lb facs="#facs_18_tr_1_tl_13" n="N012"/>
+                    <supplied reason="article_added">26</supplied> Anlangendt ein richtige bauordnung zuverfassen, damit dester ordenlicher und gemein
+               <lb facs="#facs_18_tr_1_tl_14" n="N013"/>nützlicher gepauen und auch der reiche und arme nit also von den bauleuthen 
+               <w>ubernom<pc>-</pc>
+                        <lb facs="#facs_18_tr_1_tl_15" n="N014"/>men</w> werden, soll der grosse usschutz unserer landtschafft zu ehister gelegennheit für
+               <lb facs="#facs_18_tr_1_tl_16" n="N015"/>hannd nemmen, die sachen aigentlichen erkhundigen, wol bedenckhen und berath schlagen,
+               <lb facs="#facs_18_tr_1_tl_17" n="N016"/>nach geendtz ir bedenckhen uns furbringen, wellen wir solliches weiter erwegen,
+               <lb facs="#facs_18_tr_1_tl_18" n="N017"/>berathschlagen, und folgendtz uns von oberkheyt wegen mit dem grossen usschutz
+               <lb facs="#facs_18_tr_1_tl_19" n="N018"/>vergleichen unnd alßdann solliches in unserm furstenthumb publiciern und usgeen
+               <lb facs="#facs_18_tr_1_tl_20" n="N019"/>lassen, damit die unrichtigkheit und ungleicheit in gepeuen, auch die grosse 
+               <w>un<pc>-</pc>
+                        <lb facs="#facs_18_tr_1_tl_21" n="N020"/>treu</w> und ubernemung den frembden unnd inländischen meurern, zimmer und
+               <lb facs="#facs_18_tr_1_tl_22" n="N021"/>anderer handtwerckhs leuth abgeschnitten werde.</p>
+            <p resp="HOS">
+               <lb facs="#facs_18_tr_1_tl_23" n="N022"/>
+                    <supplied reason="article_added">27</supplied> Des malefitz rechten halben ist verabschidet, dieweil kein bessere dann des hailligen
+               <lb facs="#facs_18_tr_1_tl_24" n="N023"/>
+                    <rs type="place" ref="#heiliges_roemisches_reich">reichs</rs> halß gerichts ordnung<note type="annotation">Constitutio Criminalis Carolina von 1532.</note> erhalten unnd für genommen werden mag, so soll
+               <lb facs="#facs_18_tr_1_tl_25" n="N024"/>fürohin in unserm furstenthumb allerdings darnach geurtheilt werden.
+               <lb facs="#facs_18_tr_1_tl_26" n="N025"/>Dieweil aber in etlichen derselben puncten nit gleicher und lauterer verstand 
+               <w>genom<pc>-</pc>
+                        <lb facs="#facs_18_tr_1_tl_27" n="N026"/>nommen</w> möcht werden, so sollen sie dieselbigen mit unnserm vorwissen und rath
+               <lb facs="#facs_18_tr_1_tl_28" n="N027"/>auch dem grossen usschutz unnd sonder dartzu erforderten der recht gelerten von unser
+               <lb facs="#facs_18_tr_1_tl_29" n="N028"/>juristen facultet zu <rs type="place" ref="#tuebingen">Tuwingen</rs> unnd rechtzgelerten räthen erleutern, und bey <w>den<pc>-</pc>
+           
+            <!--<p facs="#facs_19_tr_1">-->
+               <pb facs="#facs_19" xml:id="img_0019" n="9v"/>
+               <lb facs="#facs_19_tr_1_tl_1" n="N001"/>selbigen</w> die gepürendt straf sovil gesein kan, setzen unnd bestimmen lassen. Wa
+               <lb facs="#facs_19_tr_1_tl_2" n="N002"/>aber die sachen solliche umbstend haben, oder also beschaffen, das darinn kein lauters
+               <lb facs="#facs_19_tr_1_tl_3" n="N003"/>kan gesetzt werden, unnd die Zweifelig seien, in selben puncten mögen sich alsdann
+               <lb facs="#facs_19_tr_1_tl_4" n="N004"/>die gericht bey unnser juristen facultet zu <rs type="place" ref="#tuebingen">Tuwingen</rs> vermög jungsten 
+               <w>landt<pc>-</pc>
+                        <lb facs="#facs_19_tr_1_tl_5" n="N005"/>tags</w> abschidtz wol raths erholen, damit niemandt verkhürtzt<note type="annotation">in seinen Rechten beschnitten, benachteiligt.</note>, vernachtheilt<note type="annotation">benachteiligt.</note>, nach<note type="annotation">noch</note>
+               <lb facs="#facs_19_tr_1_tl_6" n="N006"/>beschwert<note type="annotation">belastet.</note> werde.</p>
+            <p resp="HOS">
+               <lb facs="#facs_19_tr_1_tl_7" n="N007"/>
+                    <supplied reason="article_added">28.1</supplied> Unnd damit die zins der zwelfmalhunderttausent guldin desto richtiger betzalt, haben
+               <lb facs="#facs_19_tr_1_tl_8" n="N008"/>wir inen dieselben underschidlich ußziehen unnd zustellen lassen, unnd sollen der 
+               <w>lanndt<pc>-</pc>
+                        <lb facs="#facs_19_tr_1_tl_9" n="N009"/>schafft</w> umbschlag, der funftzig tausent guldin, auch der prelaten viertzig tausent guldin,
+               <lb facs="#facs_19_tr_1_tl_10" n="N010"/>erst uf <date when="1566-11-25">Catharine<note type="annotation">25. November.</note> anno etc. sechtzig sechse</date> zum ersten mal umbgelegt und eingezogen,
+               <lb facs="#facs_19_tr_1_tl_11" n="N011"/>aber uf <date when="1565-11-25">nechstkhunfftige Catharine lauffenden Jars</date>, die alte bißheer gewerte hilffen,
+               <lb facs="#facs_19_tr_1_tl_12" n="N012"/>als nemlich von den prelaten unnd kurchencasten siben und dreissig tausent, ein hund[ert]
+               <lb facs="#facs_19_tr_1_tl_13" n="N013"/>drey unnd achtzig guldin, unnd dann der lanndtschafft gepurende ablosungs hilffen,
+               <lb facs="#facs_19_tr_1_tl_14" n="N014"/>durch jeder prelaten und landtschafft jetz bedachte einnemmer zusamen 
+               <w>einge<pc>-</pc>
+                        <lb facs="#facs_19_tr_1_tl_15" n="N015"/>zogen</w>, und unns zuerstattung volkhommener zins biß <date when="1565-11-25">Catharine schierist<note type="annotation">nächstkommend</note>
+                    </date>, zwey
+               <lb facs="#facs_19_tr_1_tl_16" n="N016"/>unnd zweintzig tausent guldin darvon erlegen, unnd das uberig zubetzalung der
+               <lb facs="#facs_19_tr_1_tl_17" n="N017"/>zins, von den zwelfmal hundert tausent guldin, so uf und nach schieristem diß 
+               <w>laut<pc>-</pc>
+                        <lb facs="#facs_19_tr_1_tl_18" n="N018"/>enden</w> jars khünfftigem Catharine anfahen werden, gefallen, verwenndt werden.</p>
+            <p resp="HOS">
+               <lb facs="#facs_19_tr_1_tl_19" n="N019"/>
+                    <supplied reason="article_added">28.2</supplied> Unnd damit prelaten unnd lanndtschafft mit betzalung der uf sich nemmenden zins
+               <lb facs="#facs_19_tr_1_tl_20" n="N020"/>desto unverhinderter fortgeen und solliche entrichten mögen, sie auch allwegen
+               <lb facs="#facs_19_tr_1_tl_21" n="N021"/>der folgenden zinß halben, zu einem vorrath kommen thun, soll mit abkhündigung
+               <lb facs="#facs_19_tr_1_tl_22" n="N022"/>der ablosung bis <date when="1567-11-25">Catharine des siben unnd sechtzigsten jars</date> stillgestanden unnd erst
+               <lb facs="#facs_19_tr_1_tl_23" n="N023"/>solliche ablosung uf <date when="1568-11-25">Catharine des acht unnd sechtzigsten jars</date> beschehen. <supplied reason="article_added">28.3</supplied> Trüegen
+               <lb facs="#facs_19_tr_1_tl_24" n="N024"/>sich aber hietzwischen reichs anlagen, ussteurung unserer töchter und dergleichen
+               <lb facs="#facs_19_tr_1_tl_25" n="N025"/>hieoben specificierter fell zu, soll mit der ablosung auch stillgestanden werden,
+               <lb facs="#facs_19_tr_1_tl_26" n="N026"/>vermöge obgesetzter vergleichung.</p>
+            <p resp="HOS">
+               <lb facs="#facs_19_tr_1_tl_27" n="N027"/>
+                    <supplied reason="article_added">29.1</supplied> Dieweil die grosse ungehorsame der losen verruchten bueben, der wildprät
+            
+            <!--<p facs="#facs_20_tr_1">-->
+               <pb facs="#facs_20" xml:id="img_0020" n="10r"/>
+               <lb facs="#facs_20_tr_1_tl_2" n="N001"/>dieb unnd schutzen anderst nicht dann uf faullentzen, fressen, sauffen und schwelgenn
+               <lb facs="#facs_20_tr_1_tl_3" n="N002"/>gericht, auch ire weib unnd kind an den bettelstab pringen, unnd dermassen uberhand
+               <lb facs="#facs_20_tr_1_tl_4" n="N003"/>nimbt, das in zeit unser regierung uber die tausent mit urtheil und recht gestrafft,
+               <lb facs="#facs_20_tr_1_tl_5" n="N004"/>auch sollich loß gesünd, unverholen sagt, das es inen umb ein gerings zuthun, 
+               <w>zweintz<pc>-</pc>
+                        <lb facs="#facs_20_tr_1_tl_6" n="N005"/>ig</w> pfund zugeben unnd ein monat in dem thurm zuligen. Sie lösen allein aus häuten,
+               <lb facs="#facs_20_tr_1_tl_7" n="N006"/>bis etwan einer einkhombt, als vil, ja auch dopelt mehr, also das von wegen der 
+               <w>ge<pc>-</pc>
+                        <lb facs="#facs_20_tr_1_tl_8" n="N007"/>ringen</w> straf, unnd das sie wissen, wamit sie büessen künden, solliche ungehorsame
+               <lb facs="#facs_20_tr_1_tl_9" n="N008"/>und vile der wildprät dieb gibt. Derwegen zufürkomung ergers, <rs type="person" ref="#christoph_wuerttemberg">wir</rs> es mit unßer
+               <lb facs="#facs_20_tr_1_tl_10" n="N009"/>lanndtschafft weiters (wie sollichem ubel gewehrt) uf versuchen gnedig verabschidet,
+               <lb facs="#facs_20_tr_1_tl_11" n="N010"/>das hinfüro ein jeder wildprät schütz, so da mit buchsen und  armbrost geschossen, uf das
+               <lb facs="#facs_20_tr_1_tl_12" n="N011"/>wildprät mehrfeltig gewandert unnd gefellt, auch solliches uf ine in recht erwißen und 
+               <w>beyge<pc>-</pc>
+                        <lb facs="#facs_20_tr_1_tl_13" n="N012"/>bracht</w> were, zu dem ersten ein monatlang mit wasser unnd brot in dem thurm uf
+               <lb facs="#facs_20_tr_1_tl_14" n="N013"/>sein costen gestrafft, folgendtz ime alle wöhr, offen zechen, besuchung der hochtzeiten
+               <lb facs="#facs_20_tr_1_tl_15" n="N014"/>unnd aller ehrlicher gesellschafften verbotten, auch in den zehenden gebannen, darus 
+               <w>nim<pc>-</pc>
+                        <lb facs="#facs_20_tr_1_tl_16" n="N015"/>mer</w> zukhommen, ohne begnadigung, auch dessen zuhalten und zulaisten ain leiblichen aid
+               <lb facs="#facs_20_tr_1_tl_17" n="N016"/>schwören. Unnd so er sollichen aid mit weiterm wildprät schiessen gefarlichen verpreche
+               <lb facs="#facs_20_tr_1_tl_18" n="N017"/>unnd solliches khuntlich were, soll er widerumb fenglichen eingetzogen, peinlich als ein
+               <lb facs="#facs_20_tr_1_tl_19" n="N018"/>meinaidiger beclagt, unnd was erkhennt, an ime volstreckht unnd widerumben, wie
+               <lb facs="#facs_20_tr_1_tl_20" n="N019"/>hievor, mit verbietung der wöhr, offentzechen, hochtzeiten und ander ehrlicher 
+               <w>ge<pc>-</pc>
+                        <lb facs="#facs_20_tr_1_tl_21" n="N020"/>selschafften</w> unnd schwörung in den zehenden gebannen werden.
+               <lb facs="#facs_20_tr_1_tl_22" n="N021"/>So er aber des nit halten unnd zu dem andern mal sein glibd und aid in vergeß 
+               <w>stell<pc>-</pc>
+                        <lb facs="#facs_20_tr_1_tl_23" n="N022"/>en</w> wurde, ain sollicher alßdann widerumb peinlichen beclagt unnd mit urtheil und
+               <lb facs="#facs_20_tr_1_tl_24" n="N023"/>recht ine an seinem leib unnd leben zustraffen, erkhennt werden.</p>
+            <p resp="HOS">
+               <lb facs="#facs_20_tr_1_tl_25" n="N024"/>
+                    <supplied reason="article_added">29.2</supplied> Dieweil auch die wildprät fallen unnd selbgeschoß<note type="annotation">Schusswaffen mit Selbstauslöser.</note> so gemein in unserm landt werden,
+               <lb facs="#facs_20_tr_1_tl_26" n="N025"/>unnd dieselben leuthen und vich<note type="annotation">Vieh, Tieren.</note> sehr sorglichen<note type="annotation">bedrohlich, gefährlich.</note>, deren vil auch dardurch geschädigt werden,
+               <lb facs="#facs_20_tr_1_tl_27" n="N026"/>so haben wir mit unser landtschafft deßwegen verabschidet, das wa solliche, die in
+               <lb facs="#facs_20_tr_1_tl_28" n="N027"/>unser försten dergleichen fallen unnd selbgeschoß gelegt unnd in recht erwisen, 
+               <w>die<pc>-</pc>
+                        <lb facs="#facs_20_tr_1_tl_29" n="N028"/>selbige</w> umb funf unnd zweintzig pfund gestrafft, dartzu funf wochen mit wasser
+               <lb facs="#facs_20_tr_1_tl_30" n="N029"/>unnd brot in dem thurn biessen<note type="annotation">büßen.</note> thun.</p>
+            <p resp="HOS">
+            
+            <!--<p facs="#facs_21_tr_1">-->
+               <pb facs="#facs_21" xml:id="img_0021" n="10v"/>
+               <lb facs="#facs_21_tr_1_tl_2" n="N001"/>
+                    <supplied reason="article_added">29.3</supplied> Alls sich dann offtermalen begibt, das dise wildprät dieb mit geschifften<note type="annotation">angesetzten künstlichen.</note> bärten, 
+               <w>ver<pc>-</pc>
+                        <lb facs="#facs_21_tr_1_tl_3" n="N002"/>mumbten</w> angesichten uf den höltzern auch etwann in weybs klaidern geen, und also
+               <lb facs="#facs_21_tr_1_tl_4" n="N003"/>schiessen, unnd aber ein solliche vermumben den rechten zuwider, und gewiß solliche anderst
+               <lb facs="#facs_21_tr_1_tl_5" n="N004"/>nit furhaben, dann die jenigen, so inen solliches wören<note type="annotation">wehren.</note> wolten, zuerschiessen und 
+               <w>zuer<pc>-</pc>
+                        <lb facs="#facs_21_tr_1_tl_6" n="N005"/>morden</w>. Derwegen wir mit unserer lanndtschafft verabschidet, wann solche
+               <lb facs="#facs_21_tr_1_tl_7" n="N006"/>betretten, die also mit geschifften bärten, vermumbten angesichten unnd in weibs
+               <lb facs="#facs_21_tr_1_tl_8" n="N007"/>klaidern einkhommen, das dieselbigen dennechsten zu der peinlichen frag erkhennt,
+               <lb facs="#facs_21_tr_1_tl_9" n="N008"/>die warheit aus inen zuerlernen, aus was ursachen sie solliches gethan, und wa sich anders
+               <lb facs="#facs_21_tr_1_tl_10" n="N009"/>strafwürdigs bey inen nit befende, alßdann wie die andere wildprät dieb und schutzen
+               <lb facs="#facs_21_tr_1_tl_11" n="N010"/>zu dem ersten mal gestrafft. Befende sich aber, das sie der ursachen halben vermumbt,
+               <lb facs="#facs_21_tr_1_tl_12" n="N011"/>das sie willens gewesen, ihemanden zuerschiessen, so sollen sie peinlich beclagt, mit
+               <lb facs="#facs_21_tr_1_tl_13" n="N012"/>urtheil und recht als grassatores<note type="annotation">Wegelagerer, Straßenräuber.</note> erkhennt unnd gestrafft werden.</p>
+            <p resp="HOS">
+               <lb facs="#facs_21_tr_1_tl_14" n="N013"/>
+                    <supplied reason="article_added">29.4</supplied> Sodann auch sich nun etliche mal befunden, das hin unnd wider in den wälden vergiffte kugelen
+               <lb facs="#facs_21_tr_1_tl_15" n="N014"/>gelegt werden, dardurch das wildprät, so solliche genommen, unsinnig unnd rosend<note type="annotation">tollwütig.</note> worden,
+               <lb facs="#facs_21_tr_1_tl_16" n="N015"/>auch etlichs zamens vich, dartzu, wa bey unser hofhaltung oder sonsten von sollichem 
+               <w>wild<pc>-</pc>
+                        <lb facs="#facs_21_tr_1_tl_17" n="N016"/>prät</w> geessen, alle die ihenige auch inficiert und sich nit weniger nachtheils der 
+               <w>unsinnig<pc>-</pc>
+                        <lb facs="#facs_21_tr_1_tl_18" n="N017"/>kait</w> mit schaden leibs unnd lebens zubefaren, haben wir unns mit unser lanndtschafft
+               <lb facs="#facs_21_tr_1_tl_19" n="N018"/>deßwegen verabschidet, wa allso betretten, die solliche vergiffte kugeln gelegt, gemacht,
+               <lb facs="#facs_21_tr_1_tl_20" n="N019"/>rath unnd that dartzu geben, das die gefenglich eingetzogen, fur recht gestelt, peinlich beclagt
+               <lb facs="#facs_21_tr_1_tl_21" n="N020"/>und vermög kayserlicher geschribner recht daruber geurtheilt werde.</p>
+            <p resp="HOS"> <supplied reason="article_added">29.5</supplied> Sonsten lassen wir
+               <lb facs="#facs_21_tr_1_tl_22" n="N021"/>es bey der vergleichung der anderer wilderer, auch deren, so theil und gemein mit inen
+               <lb facs="#facs_21_tr_1_tl_23" n="N022"/>haben oder inen wissentlichen underschlauf unnd herberg geben, bey der vergleichung, mit
+               <lb facs="#facs_21_tr_1_tl_24" n="N023"/>unnserer landtschafft anno etc. ain und funfftzig unnd vier und funftzig gemacht, und deren
+               <lb facs="#facs_21_tr_1_tl_25" n="N024"/>darinn gesetzter straf, allerdings bleiben.
+               <lb facs="#facs_21_tr_1_tl_26" n="N025"/>Unnd soll dise obvermelte enderung der straffen mit den wildprätschützen, allein uf
+               <lb facs="#facs_21_tr_1_tl_27" n="N026"/>die ihenigen, welche zum ersten und andern mal, nach disem abschid, unnd nach dem 
+               <w>der<pc>-</pc>
+                        <lb facs="#facs_21_tr_1_tl_28" n="N027"/>selbig</w>, ir der wildprät schützen halb, durch ein mandat, zuvor (wie wir bedacht seien)
+               <lb facs="#facs_21_tr_1_tl_29" n="N028"/>verkhundt, strafbar befunden unnd uberwisen, verstanden werden.
+               <lb facs="#facs_21_tr_1_tl_30" n="N029"/>Sonnsten aber der anndern halber, so hievor ein mal oder zwey, innhallt nechstiger
+               <lb facs="#facs_21_tr_1_tl_31" n="N030"/>anno etc vier undfunftzig gemachter vergleichung gestrafft, unnd weiters verbrechen
+            
+            <!--<p facs="#facs_22_tr_1">-->
+               <pb facs="#facs_22" xml:id="img_0022" n="11r"/>
+               <lb facs="#facs_22_tr_1_tl_1" n="N001"/>wurden, soll es mit den uberigen gradibus innhallt selbiger alter vergleichung
+               <lb facs="#facs_22_tr_1_tl_2" n="N002"/>gehalten werden.
+               <lb facs="#facs_22_tr_1_tl_3" n="N003"/>Wa aber durch solliche mittel und wege disem ubel nit geholffen, behalten wir uns bevor,
+               <lb facs="#facs_22_tr_1_tl_4" n="N004"/>solliche wildprät schützen, des landtz gentzlichen zuverweisen und das verschwören
+               <lb facs="#facs_22_tr_1_tl_5" n="N005"/>zulassen, unnd wa sie darüber betretten, als meinaidige an iren leiben und leben 
+               <w>Zu<pc>-</pc>
+                        <lb facs="#facs_22_tr_1_tl_6" n="N006"/>straffen</w>.</p>
+            <p resp="HOS">
+               <lb facs="#facs_22_tr_1_tl_7" n="N007"/>
+                    <supplied reason="article_added">30</supplied> Des zu warem urkhundt, so haben <rs type="person" ref="#christoph_wuerttemberg">wir Hertzog Christoff</rs> etc. unnser innsigel hieran
+               <lb facs="#facs_22_tr_1_tl_8" n="N008"/>gehengt, unnd dann die prelaten <rs type="place" ref="#bebenhausen_kloster">Bebenhausen</rs>, <rs type="place" ref="#herrenalb_kloster">Herrenalb</rs>, <rs type="place" ref="#maulbronn_kloster">Maulbronn</rs> und 
+               <rs type="place" ref="#adelberg_kloster">
+                        <w>Adel<pc>-</pc>
+                            <lb facs="#facs_22_tr_1_tl_9" n="N009"/>berg</w>
+                    </rs> von ir unnd der andern prelaten, dartzu die von <rs type="place" ref="#stuttgart_stadt">Stutgarten</rs>, <rs type="place" ref="#tuebingen">Tuwingen</rs>, <rs type="place" ref="#urach">Urach</rs>,
+               <lb facs="#facs_22_tr_1_tl_10" n="N010"/>
+                    <rs type="place" ref="#schorndorf">Schorndorff</rs>, <rs type="place" ref="#vaihingen_enz">Vayhingen</rs> und <rs type="place" ref="#calw">Calw</rs> von ir unnd gemeiner landtschafft wegen ire
+               <lb facs="#facs_22_tr_1_tl_11" n="N011"/>innsigel auch an disen abschid gehangen. Deren vier gleichlautendt gefärtigt, 
+               <w>dar<pc>-</pc>
+                        <lb facs="#facs_22_tr_1_tl_12" n="N012"/>under</w> <rs type="person" ref="#christoph_wuerttemberg">wir Hertzog Christoff</rs> etc. den einen zu unsern handen genommen, den
+               <lb facs="#facs_22_tr_1_tl_13" n="N013"/>andern ermelten unsern prelaten, unnd die uberigen zwen unser landtschafft
+               <lb facs="#facs_22_tr_1_tl_14" n="N014"/>uberantwurt. Geben zu <rs type="place" ref="#stuttgart_stadt">Stutgarten</rs> <date when="1565-06-19">am neuntzehenden tag des Monats Junij,
+               <lb facs="#facs_22_tr_1_tl_15" n="N015"/>nach Christi, unsers herrn, gepurt funftzehenhundert unnd im funf und 
+                  <w>sechtzig<pc>-</pc>
+                            <lb facs="#facs_22_tr_1_tl_16" n="N016"/>isten</w> jare</date>.
+            </p>
+         </div>
+      </body>
+   </text>
+</tei:TEI>

@@ -1,0 +1,94 @@
+<span class="lineNumber">1</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/warhabetv_377055522/warhabetv_377055522_tif/jpegs/00000003.tif.large.jpg" id="p-1"> [Blatt: 1 ] </button>Warhafftiger Abdruck <br/>
+<span class="lineNumber">2</span>Etzlicher von Kay-<br/>
+<span class="lineNumber">3</span>ser <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e363">Ferdinando</button>, <button class="entity #maximilian_ii person" data-ref="maximilian_ii" data-type="person" id="d2e366">Maximiliano</button>, <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e370">Rudolpho</button> <br/>
+<span class="lineNumber">4</span>(Hochlöblichster seligster gedechtnüs) Und der jetzo <br/>
+<span class="lineNumber">5</span>Regierenden Römischen Kayserlichen, auch zu <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e377">Hun-</button><br/>
+<span class="lineNumber">6</span><button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e377">gern</button> und <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e384">Böhmen</button> Königlichen <button class="entity #matthias_oesterreich person" data-ref="matthias_oesterreich" data-type="person" id="d2e387">Majestät</button>, Unserm <br/>
+<span class="lineNumber">7</span>Allergnedigsten Herrn, den Herrn Landständen und <br/>
+<span class="lineNumber">8</span>Ständen des Marggraffthumbs <button class="entity #oberlausitz_markgrafschaft place" data-ref="oberlausitz_markgrafschaft" data-type="place" id="d2e395">Oberlausitz</button> Aller <br/>
+<span class="lineNumber">9</span>gnedigst verliehenen Privilegien, ertheilten Confir-<br/>
+<span class="lineNumber">10</span>mationen und Decreten, derer verzeichnüs im <br/>
+<span class="lineNumber">11</span>nachfolgenden blat zubefinden.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">12</span>1615.
+<span class="lineNumber">13</span>Gedruckt<a class="fnNumber" href="#F_a" id="A_a">a</a> zu <button class="entity #bautzen place" data-ref="bautzen" data-type="place" id="d2e422">Budissin</button> durch <button class="entity #zipser_nikolaus person" data-ref="zipser_nikolaus" data-type="person" id="d2e425">Nicolaum Zipsern</button>.
+<span class="lineNumber">14</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/warhabetv_377055522/warhabetv_377055522_tif/jpegs/00000004.tif.large.jpg" id="p-2"> [Blatt: 2 ] </button>
+<span class="lineNumber">15</span>[...]<a class="fnNumber" href="#F_1" id="A_1">1</a>
+<span class="lineNumber">16</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/warhabetv_377055522/warhabetv_377055522_tif/jpegs/00000058.tif.large.jpg" id="p-56"> [Blatt: 56 ] </button>IX. <br/>
+<span class="lineNumber">17</span>Kaysers <button class="entity #matthias_oesterreich person" data-ref="matthias_oesterreich" data-type="person" id="d2e453">Matthiae</button> <br/>
+<span class="lineNumber">18</span>Assecuration uber das exercitium <br/>
+<span class="lineNumber">19</span>Religionis, <br/>
+<span class="lineNumber">20</span>de dato den 5. Septembris, <br/>
+<span class="lineNumber">21</span>Anno 1611.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">22</span>Wir <button class="entity #matthias_oesterreich person" data-ref="matthias_oesterreich" data-type="person" id="d2e470">Matthias der </button><br/>
+<span class="lineNumber">23</span><button class="entity #matthias_oesterreich person" data-ref="matthias_oesterreich" data-type="person" id="d2e470">Ander</button> von Gottes gnaden zu <br/>
+<span class="lineNumber">24</span><button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e476">Hungarn</button>, <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e479">Böheimb</button>, <button class="entity #dalmatien place" data-ref="dalmatien" data-type="place" id="d2e482">Dalma-</button><br/>
+<span class="lineNumber">25</span><button class="entity #dalmatien place" data-ref="dalmatien" data-type="place" id="d2e482">tien</button>, <button class="entity #kroatien_koenigreich place" data-ref="kroatien_koenigreich" data-type="place" id="d2e490">Croatien</button> König etc., Ertz-<br/>
+<span class="lineNumber">26</span>hertzog zu <button class="entity #oesterreich_erzherzogtum place" data-ref="oesterreich_erzherzogtum" data-type="place" id="d2e499">Osterreich</button>, Hertzog <br/>
+<span class="lineNumber">27</span>zu <button class="entity #burgund_herzogtum place" data-ref="burgund_herzogtum" data-type="place" id="d2e504">Burgundi</button>, Marggraff zu <br/>
+<span class="lineNumber">28</span><button class="entity #maehren_markgrafschaft place" data-ref="maehren_markgrafschaft" data-type="place" id="d2e509">Mähren</button>, inn <button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e512">Schlesien</button>, zu <br/>
+<span class="lineNumber">29</span><button class="entity #steiermark_herzogtum place" data-ref="steiermark_herzogtum" data-type="place" id="d2e516">Steyer</button>, <button class="entity #kaernten_herzogtum place" data-ref="kaernten_herzogtum" data-type="place" id="d2e519">Cärnten</button>, <button class="entity #krain_herzogtum place" data-ref="krain_herzogtum" data-type="place" id="d2e522">Krain</button> und <br/>
+<span class="lineNumber">30</span><button class="entity #wuerttemberg_herzogtum place" data-ref="wuerttemberg_herzogtum" data-type="place" id="d2e527">Württembergk</button> Hertzog, Marggraff zu <button class="entity #lausitz place" data-ref="lausitz" data-type="place" id="d2e530">Lausitz</button> etc. <br/>
+<span class="lineNumber">31</span>Bekennen offentlich mit diesem Brieff und thun kund <br/>
+<span class="lineNumber">32</span>aller Männiglich vor Uns unsere Erben und Nach-<br/>
+<span class="lineNumber">33</span>kommende Könige zu <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e544">Böheimb</button>, als wir Uns gegen <br/>
+<span class="lineNumber">34</span>dem Wolgebornen, Gestrengen, Ehrenvhesten und <br/>
+<span class="lineNumber">35</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/warhabetv_377055522/warhabetv_377055522_tif/jpegs/00000059.tif.large.jpg" id="p-57"> [Blatt: 57 ] </button>Ersamen N.N. unserer getrewen Stände des Marg-<br/>
+<span class="lineNumber">36</span>graffthumbs <button class="entity #oberlausitz_markgrafschaft place" data-ref="oberlausitz_markgrafschaft" data-type="place" id="d2e561">Oberlausitz</button> zu Jüngst auffn <button class="entity #prag place" data-ref="prag" data-type="place" id="d2e564">Prager</button> <br/>
+<span class="lineNumber">37</span>Schloß gehaltenen General Landtag damahls ge-<br/>
+<span class="lineNumber">38</span>volmechtigten Abgesandten, sub dato den Zwey vnd <br/>
+<span class="lineNumber">39</span>Zwantzigsten Tag des Monats May dieses ablauf-<br/>
+<span class="lineNumber">40</span>fenden Sechzehenhundert und Eylfften Jahres, un-<br/>
+<span class="lineNumber">41</span>ter andern Vorreversiert, ihnen den Ständen, ehe und <br/>
+<span class="lineNumber">42</span>zuvorn die Uns im Landt die schuldige Pflicht leisten <br/>
+<span class="lineNumber">43</span>würden, wegen des Exercitii Religionis gnugsame <br/>
+<span class="lineNumber">44</span>assecuration zuertheilen.
+<span class="lineNumber">45</span>Das Wir demnach solchen genedigst nachkom-<br/>
+<span class="lineNumber">46</span>men und Sie, die Stände, hierüber vorsichern wollen, <br/>
+<span class="lineNumber">47</span>thun auch solches in krafft diß Brieffes, Meinen und <br/>
+<span class="lineNumber">48</span>Wollen, daß sie inhalts angezogenen Reverses (der <br/>
+<span class="lineNumber">49</span>dann von Uns hiermit confirmiret sein soll) bey dem <br/>
+<span class="lineNumber">50</span>freyen exercitio Religionis Augspurgischer Confes-<br/>
+<span class="lineNumber">51</span>sion, allermassen sie dessen bey Zeiten vnserer hochge-<br/>
+<span class="lineNumber">52</span>ehrten Herren Vorfahren weylandt Kayser <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e628">Ferdi-</button><br/>
+<span class="lineNumber">53</span><button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e628">nandi</button> und <button class="entity #maximilian_ii person" data-ref="maximilian_ii" data-type="person" id="d2e635">Maxilimiliani</button> hochlöblicher ange-<br/>
+<span class="lineNumber">54</span>dencken, auch der jetzigen <button class="entity #matthias_oesterreich person" data-ref="matthias_oesterreich" data-type="person" id="d2e645">Kayserlichen Majestät</button> Zei-<br/>
+<span class="lineNumber">55</span>ten, in Kirchen und Schulen in posses und übunge ge-<br/>
+<span class="lineNumber">56</span>wesen, jetzo noch sein, Und wie es bey eintrettung un-<br/>
+<span class="lineNumber">57</span>ser Königlichen Regierunge befunden, von Männig-<br/>
+<span class="lineNumber">58</span>lichen ungehindert, ruhig und unturbiret gelassen, <br/>
+<span class="lineNumber">59</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/warhabetv_377055522/warhabetv_377055522_tif/jpegs/00000060.tif.large.jpg" id="p-58"> [Blatt: 58 ] </button>auch von <button class="entity #matthias_oesterreich person" data-ref="matthias_oesterreich" data-type="person" id="d2e676">Uns</button> darüber geschützet und gehandthabet <br/>
+<span class="lineNumber">60</span>werden; Jedoch das ingleichen herentgegen den Ca-<br/>
+<span class="lineNumber">61</span>tholischen, Geistlichen und Weltlichen, von nieman-<br/>
+<span class="lineNumber">62</span>desten an ihren Gotteßdienst von alters hero haben-<br/>
+<span class="lineNumber">63</span>den Rechten und Gerechtigkeiten, auch Geistlichen <br/>
+<span class="lineNumber">64</span>Intraden, keine hinderung, Eintrag oder verkürtzung <br/>
+<span class="lineNumber">65</span>beschehen, sondern jedes theil bey dem jenigen, wessen <br/>
+<span class="lineNumber">66</span>es befuget, hinfüro Standthafft vorbleiben solle, <br/>
+<span class="lineNumber">67</span>alles getrewlich und ungefehrlich.
+<span class="lineNumber">68</span>Und gebieten hierauff jetzo und künfftigen un-<br/>
+<span class="lineNumber">69</span>sern Landtvoigten, Hauptleuten, Pflegern, Vor-<br/>
+<span class="lineNumber">70</span>wesern und Räthen in Städten des Marggraff-<br/>
+<span class="lineNumber">71</span>thumbs <button class="entity #oberlausitz_markgrafschaft place" data-ref="oberlausitz_markgrafschaft" data-type="place" id="d2e731">Oberlausitz</button> und sonsten allen unsern Un-<br/>
+<span class="lineNumber">72</span>terthanen und Getreuen, wes Würden, Standes <br/>
+<span class="lineNumber">73</span>oder Wesens die sein, daß sie mehrgemelte unsere ge-<br/>
+<span class="lineNumber">74</span>horsame Stände erwehntes Marggraffthumbs <br/>
+<span class="lineNumber">75</span><button class="entity #oberlausitz_markgrafschaft place" data-ref="oberlausitz_markgrafschaft" data-type="place" id="d2e750">Oberlausitz</button> uber obgedachten freyen exercitio Re-<br/>
+<span class="lineNumber">76</span>ligionis Augspurgischer Confession schützen und <br/>
+<span class="lineNumber">77</span>handthaben, darwider Niemandesten in keinerley we-<br/>
+<span class="lineNumber">78</span>ge zuthun gestatten, bey vormeidung unserer schweren <br/>
+<span class="lineNumber">79</span>Straff und Ungnad.
+<span class="lineNumber">80</span>Ob auch wider diese unsere Assecuration in wa-<br/>
+<span class="lineNumber">81</span>serley weise was vorgenommen würde, soll doch das-<br/>
+<span class="lineNumber">82</span>selbe alles nichtig und unkräfftig sein. Solches mei-<br/>
+<span class="lineNumber">83</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://digital.slub-dresden.de/data/kitodo/warhabetv_377055522/warhabetv_377055522_tif/jpegs/00000061.tif.large.jpg" id="p-59"> [Blatt: 59 ] </button>nen <button class="entity #matthias_oesterreich person" data-ref="matthias_oesterreich" data-type="person" id="d2e794">Wir</button> ernstlich, Mit Uhrkundt diß Briefes, besie-<br/>
+<span class="lineNumber">84</span>gelt mit unserm Königlichen anhangenden Insiegel. <br/>
+<span class="lineNumber">85</span>Geben in unser Stadt <button class="entity #bautzen place" data-ref="bautzen" data-type="place" id="d2e806">Budissin</button>, den Fünfften Tag <br/>
+<span class="lineNumber">86</span>des Monats Septembris, Nach Christi unsers lieben <br/>
+<span class="lineNumber">87</span>Herrn und Seligmachers Geburt im Sechze-<br/>
+<span class="lineNumber">88</span>henhundert vnd Eylfften Jahr, Unserer Reiche des <br/>
+<span class="lineNumber">89</span><button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e821">Hungarischen</button> im Dritten und des <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e824">Böheimischen</button> im <br/>
+<span class="lineNumber">90</span>Ersten Jahr.
+<span class="lineNumber">91</span><button class="entity #matthias_oesterreich person" data-ref="matthias_oesterreich" data-type="person" id="d2e834">Matthias</button>. <br/>
+<span class="lineNumber">92</span>Ad mandatum S<span class="ex">[uae]</span> Reg<span class="ex">[iae]</span> <br/>
+<span class="lineNumber">93</span>Maiest<span class="ex">[atis]</span> proprium, <br/>
+<span class="lineNumber">94</span><button class="entity #plateiss_johann person" data-ref="plateiss_johann" data-type="person" id="d2e852">Johan Plateiß</button>.

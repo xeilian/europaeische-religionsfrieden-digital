@@ -1,0 +1,155 @@
+<span class="lineNumber">1</span>Von denen Privilegiis wegen <br/>
+<span class="lineNumber">2</span>Alienation der zum Königreich ge=<br/>
+<span class="lineNumber">3</span>hörigen Gütter.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">4</span>A. XXII.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">5</span>Ob wohl die Privilegia, betreffend die <br/>
+<span class="lineNumber">6</span>Alienation<a class="fnNumber" href="#F_1" id="A_1">1</a> der Gütter, so zum <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e702">Königreich</button> <br/>
+<span class="lineNumber">7</span>gehören, voriger Landesordnung mehrern <br/>
+<span class="lineNumber">8</span>theils von Worth zu Worth einverleibt ge-<br/>
+<span class="lineNumber">9</span>wesen, Weil <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e717">Wir</button> Uns aber dieser und anderer Privilegien <br/>
+<span class="lineNumber">10</span>halber gegen Unsern gehorsamen Ständen absonderlich<a class="fnNumber" href="#F_2" id="A_2">2</a> er-<br/>
+<span class="lineNumber">11</span>klären und resolviren wollen, Als haben <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e733">Wir</button> gnedigist be-<br/>
+<span class="lineNumber">12</span>funden, daß es unvonnöthen<a class="fnNumber" href="#F_3" id="A_3">3</a>, die Worth derselben Privile-<br/>
+<span class="lineNumber">13</span>gien diß Orths inseriren<a class="fnNumber" href="#F_4" id="A_4">4</a> zulassen.
+<span class="lineNumber">14</span>Von der Religion.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">15</span>A. XXIII.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">16</span>Anlangend die Religion: Demnach <br/>
+<span class="lineNumber">17</span>kundbar und am Tage, daß nicht allein die <br/>
+<span class="lineNumber">18</span>Spaltung der Religion von der Zeit an, <br/>
+<span class="lineNumber">19</span>als sich dieselbe in diesem Unserm <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e783"> Erbkö-</button><br/>
+<span class="lineNumber">20</span><button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e783">nigreich </button> erhaben<a class="fnNumber" href="#F_5" id="A_5">5</a>, grosse Kriege und Unheil verursacht, auch <br/>
+<span class="lineNumber">21</span>daß die, so sich Stände sub Utraque genennet,<a class="fnNumber" href="#F_6" id="A_6">6</a> unterm præ-<br/>
+<span class="lineNumber">22</span>text <a class="fnNumber" href="#F_7" id="A_7">7</a> Ihrer zu unterschiedenen Zeiten außgewürckten<a class="fnNumber" href="#F_8" id="A_8">8</a> abson-<br/>
+<span class="lineNumber">23</span>derlichen <a class="fnNumber" href="#F_9" id="A_9">9</a> Privilegien und Satzungen Urheber und Anfän- <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?fileType=view&amp;id=IRNYEFZPHQIJFFFLLKQCXKDN" id="p-23"> [Blatt: 23 ] </button> <br/>
+<span class="lineNumber">24</span>ger der wider Uns entstandenen hochabscheülichen rebellion <br/>
+<span class="lineNumber">25</span>gewesen, Und aber <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e844">Wir</button>, nach dem <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e847">Wir</button> dieses Unser <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e850"> Erb-</button><br/>
+<span class="lineNumber">26</span><button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e850">königreich </button> durch kostbare<a class="fnNumber" href="#F_10" id="A_10">10</a> schwehre Kriegsrüstungen wider-<br/>
+<span class="lineNumber">27</span>umb erobert, Uns gnedigist resolvirt<a class="fnNumber" href="#F_11" id="A_11">11</a>, wie es zu besserer <br/>
+<span class="lineNumber">28</span>Verfassung desselben und Verhüttung dergleichen hoch-<br/>
+<span class="lineNumber">29</span>schädlichen Trennungen und daher besorglichen<a class="fnNumber" href="#F_12" id="A_12">12</a> Gefahr in <br/>
+<span class="lineNumber">30</span>gedachtem Unserm <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e889">Erbkönigreich</button> mit der Religion gehal-<br/>
+<span class="lineNumber">31</span>ten werden sol, Als setzen<a class="fnNumber" href="#F_13" id="A_13">13</a>, ordnen<a class="fnNumber" href="#F_14" id="A_14">14</a> und wollen <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e905">Wir</button>, daß <br/>
+<span class="lineNumber">32</span>nicht allein über dem, was <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e911">Wir</button> in Religionssachen von Zeit <br/>
+<span class="lineNumber">33</span>der Uns von Gott verliehenen Victori<a class="fnNumber" href="#F_15" id="A_15">15</a> in diesem Unserm <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e919"> Erb-</button><br/>
+<span class="lineNumber">34</span><button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e919">königreich </button> durch unterschiedene Resolutiones<a class="fnNumber" href="#F_16" id="A_16">16</a> gnedigist an-<br/>
+<span class="lineNumber">35</span>geordnet, stät und fest gehalten, sondern auch alles, was dem-<br/>
+<span class="lineNumber">36</span>selben zuwider und Unserer Heiligen Catholischen Religion <br/>
+<span class="lineNumber">37</span>zu Abbruch<a class="fnNumber" href="#F_17" id="A_17">17</a>, Nachteil und præiudiz<a class="fnNumber" href="#F_18" id="A_18">18</a> bey vorgehenden<a class="fnNumber" href="#F_19" id="A_19">19</a> Zeiten <br/>
+<span class="lineNumber">38</span>durch aufgerichte Majestätbrieff<a class="fnNumber" href="#F_20" id="A_20">20</a>, Landtagsbeschlüsse, Rever-<br/>
+<span class="lineNumber">39</span>salien <a class="fnNumber" href="#F_21" id="A_21">21</a>, Resolutionen, Privilegien oder andere Satzun-<br/>
+<span class="lineNumber">40</span>gen und Ordnungen, wie die Nahmen haben mögen, statu-<br/>
+<span class="lineNumber">41</span>irt <a class="fnNumber" href="#F_22" id="A_22">22</a> und von denen Ständen, so sich sub Utraque genent, zu <br/>
+<span class="lineNumber">42</span>welcher Zeit auch solches immer geschehen, zu ihrem favor<a class="fnNumber" href="#F_23" id="A_23">23</a> <br/>
+<span class="lineNumber">43</span>außbracht<a class="fnNumber" href="#F_24" id="A_24">24</a>, erhalten oder geschlossen<a class="fnNumber" href="#F_25" id="A_25">25</a>, jetzt und zu ewigen Zei-<br/>
+<span class="lineNumber">44</span>ten cassirt<a class="fnNumber" href="#F_26" id="A_26">26</a> seyn und bleiben, auch alle die jenigen, so solches <br/>
+<span class="lineNumber">45</span>widerumb auff die Bahn bringen<a class="fnNumber" href="#F_27" id="A_27">27</a> und moviren<a class="fnNumber" href="#F_28" id="A_28">28</a> wolten, für <br/>
+<span class="lineNumber">46</span>offentliche Zerstörer deß gemeinen Friedens ipso facto<a class="fnNumber" href="#F_29" id="A_29">29</a> ge-<br/>
+<span class="lineNumber">47</span>halten werden und Leib, Ehr und Gutt verlohren haben. <br/>
+<span class="lineNumber">48</span>Wie dan auch hinfüro<a class="fnNumber" href="#F_30" id="A_30">30</a> kheiner ins Land oder in Stäten, <br/>
+<span class="lineNumber">49</span>Er sey dan Unserer H <span class="ex">[eiligen]</span> Catholischen Religion zu-<br/>
+<span class="lineNumber">50</span>gethan, sol angenomben werden.
+<span class="lineNumber">51</span>Vom Geistlichen Stand.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">52</span>A. XXIV.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">53</span>Obwohl eine lange Zeithero, seider<a class="fnNumber" href="#F_31" id="A_31">31</a> daß <br/>
+<span class="lineNumber">54</span>etliche Uncatholische Lehren und Meinungen <br/>
+<span class="lineNumber">55</span>in disem Unserm <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1093">Erbkönigreich</button> auffkommen, <br/>
+<span class="lineNumber">56</span>die Prælaten nit mehr unter die Stände des-<br/>
+<span class="lineNumber">57</span>selbigen gezehlt worden, Jedoch dieweil es wißlich<a class="fnNumber" href="#F_32" id="A_32">32</a> und un-<br/>
+<span class="lineNumber">58</span>laugbar, daß der Prælatenstand zu Zeiten Unsers Vorfarers<a class="fnNumber" href="#F_33" id="A_33">33</a> <br/>
+<span class="lineNumber">59</span>Weiland Kaiser <button class="entity #karl_iv person" data-ref="karl_iv" data-type="person" id="d2e1122">Carls deß Vierten</button> und noch vil lange Jahr <br/>
+<span class="lineNumber">60</span>zuvor in diesem Königreich gewesen, Auch die Prælaten mit <br/>
+<span class="lineNumber">61</span>und neben andern Ständen contribuiren<a class="fnNumber" href="#F_34" id="A_34">34</a> müssen, So setzen<a class="fnNumber" href="#F_35" id="A_35">35</a>, <br/>
+<span class="lineNumber">62</span>ordnen<a class="fnNumber" href="#F_36" id="A_36">36</a> und wollen <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e1141">Wir</button>, daß hinfüro der Ertzbischoff zu <button class="entity #prag place" data-ref="prag" data-type="place" id="d2e1144">Prag</button> <br/>
+<span class="lineNumber">63</span>mit und zusambt denen Prælaten und der gantzen Clerisey<a class="fnNumber" href="#F_37" id="A_37">37</a> <br/>
+<span class="lineNumber">64</span>dieses Vnsers <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1155">Erbkönigreichs</button>, nicht allein für ein Stand <br/>
+<span class="lineNumber">65</span>desselbigen zu ewigen Zeiten gehalten werden, sondern auch <br/>
+<span class="lineNumber">66</span>solcher Geistliche Stand, wie bey andern wolbestelten Christ-<br/>
+<span class="lineNumber">67</span>lichen Regimenten gebreuchlich, der erste und fürnembste un-<br/>
+<span class="lineNumber">68</span>ter andern Ständen seyn sol, doch also und dergestalt, daß <br/>
+<span class="lineNumber">69</span>allein der Ertzbischoff und die jenige Geistliche, welche ein <br/>
+<span class="lineNumber">70</span>Jnful<a class="fnNumber" href="#F_38" id="A_38">38</a> oder Bischoffshut zutragen durch Privilegien oder al-<br/>
+<span class="lineNumber">71</span>tes Herkommen berechtiget und darneben in Unserer Land-<br/>
+<span class="lineNumber">72</span>tafel eingeschribene Gütter besitzen (inmassen dan sonst <br/>
+<span class="lineNumber">73</span>niemand, so im Land nicht angesessen, zu denen Landtägen <br/>
+<span class="lineNumber">74</span>zugelassen werden sol) zu gedachten Landtägen beruffen oder <br/>
+<span class="lineNumber">75</span>beschriben<a class="fnNumber" href="#F_39" id="A_39">39</a> und bey solchen Zusamenkunfften den gantzen Geist-<br/>
+<span class="lineNumber">76</span>lichen Stand und die sämbtliche Clerisey repræsentiren, Also <br/>
+<span class="lineNumber">77</span>diese Infulirte<a class="fnNumber" href="#F_40" id="A_40">40</a> Geistliche sämbtlich in denen Landtägen und <br/>
+<span class="lineNumber">78</span>andern gemeinen Landsachen nicht wenigers dan gedachter <br/>
+<span class="lineNumber">79</span>Ertzbischoff denen Hertzogen und Fürsten vorgehen und Ihre <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?fileType=view&amp;id=JJQSORPJNPKIHMQMUEGWKBOI" id="p-25"> [Blatt: 25 ] </button> <br/>
+<span class="lineNumber">80</span>Session<a class="fnNumber" href="#F_41" id="A_41">41</a> und Stimmen so wol vor denselben als denen Her-<br/>
+<span class="lineNumber">81</span>ren haben, Der Ertzbischoff aber Primas <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1243">Regni</button> genent wer-<br/>
+<span class="lineNumber">82</span>den und demselben die Obriste<a class="fnNumber" href="#F_42" id="A_42">42</a>, nach Ihm aber, da sonsten <br/>
+<span class="lineNumber">83</span>kein Bischoff vorhanden, die nechste Stelle dem Obristen<a class="fnNumber" href="#F_43" id="A_43">43</a> <br/>
+<span class="lineNumber">84</span>Priori<a class="fnNumber" href="#F_44" id="A_44">44</a> deß Ritterlichen Maltäserordens<a class="fnNumber" href="#F_45" id="A_45">45</a> im <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1270">Königreich Böh-</button><br/>
+<span class="lineNumber">85</span><button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1270">haimb </button> vor allen andern Praelaten gebüren sol.
+<span class="lineNumber">86</span>Von Vereüsserung der <br/>
+<span class="lineNumber">87</span>Geistlichen Gütter.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">88</span>A. XXV.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">89</span>Kein Prælat noch Convent, noch eini-<br/>
+<span class="lineNumber">90</span>ge <a class="fnNumber" href="#F_46" id="A_46">46</a> Geistliche Person oder Vorsteher Geistlicher <br/>
+<span class="lineNumber">91</span>Gütter können noch mögen etwas von Ihren <br/>
+<span class="lineNumber">92</span>ligenden Geistlichen Güttern und Stifftun-<br/>
+<span class="lineNumber">93</span>gen, Einkommen und Intraden<a class="fnNumber" href="#F_47" id="A_47">47</a> ohne Unsere und Unserer <br/>
+<span class="lineNumber">94</span>Erben Königen in <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1330">Böhaimb</button> als Obristen<a class="fnNumber" href="#F_48" id="A_48">48</a> Vogt<a class="fnNumber" href="#F_49" id="A_49">49</a> und Schutz-<br/>
+<span class="lineNumber">95</span>herrens Bewilligung versetzen, verkauffen, verschencken oder <br/>
+<span class="lineNumber">96</span>in andere Wege veralieniren<a class="fnNumber" href="#F_50" id="A_50">50</a> und vereüsern. Würde aber <br/>
+<span class="lineNumber">97</span>jemand deme entgegen ein ligendes Geistlich Gut, Stifftung, <br/>
+<span class="lineNumber">98</span>Rent oder Einkommen durch dergleichen Contract<a class="fnNumber" href="#F_51" id="A_51">51</a> oder Hand-<br/>
+<span class="lineNumber">99</span>lung, wie gemelt, an sich bringen, Sol nit allein solcher <br/>
+<span class="lineNumber">100</span>Contract an sich selbsten nichtig, unkrefftig und von Unwhür-<br/>
+<span class="lineNumber">101</span>den seyn und das Gut unverhindert desselbigen seiner Geist-<br/>
+<span class="lineNumber">102</span>lichen Stifftung, dahin es gehörig gewesen, sambt allen Schä-<br/>
+<span class="lineNumber">103</span>den, Unkosten und auffgehabenen Nutzungen, deßgleichen de-<br/>
+<span class="lineNumber">104</span>nen, so auffgehaben hetten werden mögen, restituirt, wider-<br/>
+<span class="lineNumber">105</span>umb abgetretten und eingeantwortet<a class="fnNumber" href="#F_52" id="A_52">52</a> werden, Sondern auch, <br/>
+<span class="lineNumber">106</span>da in solchem Contract ein pretium<a class="fnNumber" href="#F_53" id="A_53">53</a> oder Kauffgeld bedingt <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?fileType=view&amp;id=WNBBGSSJDLERNYRJQEVYGRFW" id="p-26"> [Blatt: 26 ] </button> <br/>
+<span class="lineNumber">107</span>worden, dasselbe Unserer Königlichen Cammer unnachläß-<br/>
+<span class="lineNumber">108</span>lich heimfallen, In andern Fällen aber die Straff gegen <br/>
+<span class="lineNumber">109</span>dem Kauffer pro arbitrio<a class="fnNumber" href="#F_54" id="A_54">54</a> dem König vorbehalten seyn.
+<span class="lineNumber">110</span>A. XXVI.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">111</span>Gleicher Gestalt und allermassen Wie im <br/>
+<span class="lineNumber">112</span>nechstvorgehenden Gesatz geordnet, Sol es auch <br/>
+<span class="lineNumber">113</span>mit denen jenigen Kirchen und Clöstern gehalten <br/>
+<span class="lineNumber">114</span>werden, darauff einer oder mehr auß denen Ständen und In-<br/>
+<span class="lineNumber">115</span>wohnern dieses <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1462">Königreichs</button>, umb daß dieselbige von Ihren <br/>
+<span class="lineNumber">116</span>Vorfahren gestifftet, fundirt<a class="fnNumber" href="#F_55" id="A_55">55</a> oder dotirt<a class="fnNumber" href="#F_56" id="A_56">56</a> worden, das Ius <br/>
+<span class="lineNumber">117</span>Patronatus<a class="fnNumber" href="#F_57" id="A_57">57</a> haben. Dan obwol die Uncatholische Patroni <br/>
+<span class="lineNumber">118</span>auß solchem Jure Patronatus eine zeithero berechtiget seyn wol-<br/>
+<span class="lineNumber">119</span>len, die von ihren Voreltern gemachte Stifftungen wider <br/>
+<span class="lineNumber">120</span>zu sich zuziehen oder in andere Wege zuveralieniren, So ist <br/>
+<span class="lineNumber">121</span>es jedoch offenbar und am Tag, weil dieselbe Vorfahren, von <br/>
+<span class="lineNumber">122</span>welchen eine Kirch oder Closter fundirt oder dotirt, sich deß <br/>
+<span class="lineNumber">123</span>darzu hergegebenen Guts enteüsert, und also das Eigenthumb <br/>
+<span class="lineNumber">124</span>desselbigen, nach der fundation oder dotation, nicht mehr <br/>
+<span class="lineNumber">125</span>ihnen und ihren Erben und Nachkommen, sondern zuforderst <br/>
+<span class="lineNumber">126</span>Unserm Herren Christo und dan der jenigen Kirchen oder <br/>
+<span class="lineNumber">127</span>Kloster und Orden, an welche es durch eine donation, letz-<br/>
+<span class="lineNumber">128</span>ten willen oder in andere Wege verwendet worden, zustehet <br/>
+<span class="lineNumber">129</span>und gehöret, daß demnach sie, die Erben und Nachkommen, <br/>
+<span class="lineNumber">130</span>mit solcher Stifftung als einem frembden Gut nichts (ausser <br/>
+<span class="lineNumber">131</span>was die Geistliche Recht denen Patronis zulassen) zu schaffen <br/>
+<span class="lineNumber">132</span>haben und daß derowegen mit ihrem consens<a class="fnNumber" href="#F_58" id="A_58">58</a> dieselbige Kirch <br/>
+<span class="lineNumber">133</span>oder Closter oder ein darzu gehöriges Gut nicht alienirt noch <br/>
+<span class="lineNumber">134</span>vereüssert werden möge. Sonder <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e1529">Wir</button> und die nach Uns je-<br/>
+<span class="lineNumber">135</span>desmahls Regierende Könige, als der Kirchen Gottes in die-<br/>
+<span class="lineNumber">136</span>sem <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1546">Unserm Erbkönigreich</button> Obere Advocaten, Schutz- <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?fileType=view&amp;id=XGIMRTRTJCSHDXHQNYLAPXYW" id="p-27"> [Blatt: 27 ] </button> <br/>
+<span class="lineNumber">137</span>und Schirmherren, Uns dieser Geistlichen Gütter, damit <br/>
+<span class="lineNumber">138</span>sie durch die Vereüsserung nicht zu anderm Gebrauch ver⸗<br/>
+<span class="lineNumber">139</span>wendet werden, dan darzu sie von denen Fundatoren gestiff-<br/>
+<span class="lineNumber">140</span>tet und hergeben worden, billich anzunehmen haben und <br/>
+<span class="lineNumber">141</span>darumb keine Vereüsserung solcher und dergleichen Gütter, <br/>
+<span class="lineNumber">142</span>die ohne Unsern gnedigisten consens geschicht, wie oben ver-<br/>
+<span class="lineNumber">143</span>meldet, verstatten noch zulassen können.
+<span class="lineNumber">144</span>Vom Andern Stand deß <br/>
+<span class="lineNumber">145</span>Königreichs Böhaimb, nämblichen vom <br/>
+<span class="lineNumber">146</span>Herrenstand.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">147</span>A. XXVII.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">148</span>Wie <button class="entity #ferdinand_ii person" data-ref="ferdinand_ii" data-type="person" id="d2e1611">Wir</button> nun gnedigist wollen, daß der <br/>
+<span class="lineNumber">149</span>Geistliche Stand in diesem <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1616">Unserm Erbkö-</button><br/>
+<span class="lineNumber">150</span><button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1616">nigreich </button> hinfüro der Erste Stand, auff Maß <br/>
+<span class="lineNumber">151</span>und weiß, wie obberürt, seyn soll, Also sol der <br/>
+<span class="lineNumber">152</span>Herrenstand der Ander Stand und darinnen auch die Her-<br/>
+<span class="lineNumber">153</span>tzogen und Fürsten in gedachtem <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1638">Unserm Erbkönigreich</button> be-<br/>
+<span class="lineNumber">154</span>griffen seyn und kheinen sonderbahren Stand <br/>
+<span class="lineNumber">155</span>machen.

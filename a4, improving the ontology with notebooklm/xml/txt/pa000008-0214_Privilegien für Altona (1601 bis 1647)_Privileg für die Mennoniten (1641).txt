@@ -1,0 +1,205 @@
+<?xml-model href="../../../customization/schema_quellentexte/religionsfrieden-quellentexte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<tei:TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="pa000008-0214">
+   <teiHeader>      
+      <fileDesc>         
+         <titleStmt>
+            
+            <title level="a">Privileg für die Mennoniten (<date when="1641-06-06">6. Juni 1641</date>) - StA HH, 521-5 1</title>
+            <title level="s">Europäische Religionsfrieden Digital</title>
+            <principal ref="http://d-nb.info/gnd/111186870">Irene Dingel</principal> 
+            <editor role="http://id.loc.gov/vocabulary/relators/edt" ref="http://orcid.org/0000-0002-1509-6960">Thomas Stäcker</editor>
+            <editor role="http://id.loc.gov/vocabulary/relators/edt" ref="https://orcid.org/0000-0002-5429-6367">
+                    <persName>Christopher Voigt-Goy</persName>
+                </editor> 
+            <editor role="http://id.loc.gov/vocabulary/relators/mrk">Kevin Wunsch</editor>           
+            <editor role="http://id.loc.gov/vocabulary/relators/mrk">Kevin Kuck</editor>           
+         </titleStmt>         
+         <editionStmt>
+            <edition>Digitale Edition gemäß <ref target="http://www.tei-c.org/">TEI P5</ref>
+                </edition>
+            <funder>Akademie der Wissenschaften und der Literatur</funder>
+         </editionStmt>         
+         <publicationStmt>
+            <publisher>
+               <orgName ref="http://www.isni.org/0000000119314040">Akademie der Wissenschaften und Literatur Mainz</orgName>
+            </publisher>           
+            <distributor>
+               <orgName ref="http://www.isni.org/0000000110101946">Universitäts- und Landesbibliothek Darmstadt</orgName>
+               <idno type="ISIL">http://lobid.org/organisation/DE-17</idno>
+            </distributor>
+            <date when="2021-12-16" type="issued">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p xml:lang="en">This file is licensed under the terms of the Creative Commons License CC-BY 4.0 (Attribution 4.0 International)</p>
+               </licence>
+            </availability>
+         </publicationStmt>        
+         <sourceDesc><!-- bitte ausfüllen; nicht zutreffende Elemente bitte rauslöschen -->
+            <msDesc>
+               <msIdentifier>
+                  <settlement/>                               
+                  <repository/>
+                  <collection/>
+                  <idno>Signatur</idno>
+                  <idno type="urn"/>
+                  <idno type="vd16"/>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title/>
+                     <respStmt>
+                        <resp/>
+                        <persName/>
+                     </respStmt>
+                     <biblStruct><!-- gilt nur für Drucke; rausnehmen, wenn es sich um ein Manuskript handelt! -->
+                        <monogr xml:id="vorlage">
+                           <imprint>
+                              <pubPlace ref="http://www.geonames.org/2874225/mainz.html">Mainz</pubPlace>
+                              <publisher>
+                                 <persName/>
+                              </publisher>
+                              <date/>
+                           </imprint>
+                        </monogr>
+                     </biblStruct>
+                  </msItem>
+               </msContents>
+               <history><!-- bei Manuskript, falls Datum und/oder Ort bekannt sind; andernfalls rauslöschen! -->
+                  <origin>
+                     <date/>
+                     <placeName/>
+                  </origin>
+               </history>
+            </msDesc>    
+         </sourceDesc>
+      </fileDesc>      
+      <encodingDesc>         
+         <projectDesc>
+            <p>
+               <ref target="http://www.eured.de">Europäische Religionsfrieden Digital</ref>
+            </p>
+         </projectDesc>
+         <classDecl>
+            <taxonomy xml:id="marcrelator">
+               <bibl>
+                        <idno type="URI">http://id.loc.gov/vocabulary/relators/</idno> MARC Code List for Relators </bibl>
+            </taxonomy>
+         </classDecl>         
+      </encodingDesc>      
+      <profileDesc>         
+         <langUsage>
+            <language ident="deut">Deutsch</language><!-- Sprache hinzufügen -->
+         </langUsage>         
+      </profileDesc>      
+      <revisionDesc>
+         <change xml:id="ch01" when="2018-01-18">
+                <p>Die Edition ist 2018 von der Herzog August Bibliothek Wolfenbüttel an die Universitäts- und Landesbibliothek Darmstadt umgezogen.</p>
+            </change>
+      </revisionDesc>   
+   </teiHeader>
+   <facsimile>
+      <surface lrx="2578" lry="4010" ulx="0" uly="0" xml:id="facs_1">
+         <!--<graphic height="4010px" url="61183803.tif" width="2578px"/>-->
+         <graphic height="4010px" url="https://files.transkribus.eu/Get?id=XBBXJYRCNSSTTJOWVFXSXNVH&amp;fileType=view" width="2578px"/>
+         <zone points="337,117 337,2626 2530,2626 2530,117" rendition="TextRegion" xml:id="facs_1_tr_2">
+            <zone points="350,363 540,315 575,347 1039,312 1223,347 1451,307 1638,358 2062,312 2205,350 2281,304 2373,355 2463,331 2466,222 2384,239 2278,190 2132,250 1796,203 1736,260 1646,225 1524,255 1335,184 1153,244 995,206 670,260 350,228" rendition="Line" xml:id="facs_1_tr_2_tl_2"/>
+            <zone points="350,418 879,439 1082,396 1158,450 1326,453 1405,399 1467,450 1592,404 1733,464 1861,410 1910,445 1967,401 2213,426 2441,385 2325,309 2205,350 1983,317 1888,361 1804,317 1638,358 1454,307 1261,361 1164,315 1080,355 1004,317 575,347 540,315 350,363" rendition="Line" xml:id="facs_1_tr_2_tl_3"/>
+            <zone points="323,518 1581,472 1901,526 1977,480 2458,486 2433,382 2251,434 1967,401 1910,445 1861,410 1766,456 1600,407 1478,450 1413,399 1329,453 1169,412 1131,442 1085,396 879,439 795,404 326,418" rendition="Line" xml:id="facs_1_tr_2_tl_4"/>
+            <zone points="358,575 656,567 700,602 1082,553 1210,594 1283,548 1467,605 1546,556 2026,597 2477,553 2477,486 2379,513 2205,472 2067,529 1983,480 1801,526 1581,469 1535,505 955,477 841,526 768,491 542,488 461,532 358,505" rendition="Line" xml:id="facs_1_tr_2_tl_5"/>
+            <zone points="326,670 529,629 667,667 944,629 1077,670 1134,632 1180,670 1240,621 1465,670 1538,627 1671,678 1763,629 2015,637 2137,686 2197,648 2265,684 2485,656 2485,578 2439,561 2243,608 1709,556 1546,556 1467,605 1283,548 1207,594 1085,553 326,594" rendition="Line" xml:id="facs_1_tr_2_tl_6"/>
+            <zone points="350,716 621,743 995,700 1137,757 1210,703 1394,746 1473,697 1853,741 2013,711 2200,768 2477,730 2474,646 2083,692 2005,637 1760,629 1682,686 1535,627 1440,675 1242,621 1180,673 1131,637 1052,670 993,632 727,629 670,665 526,629 350,675" rendition="Line" xml:id="facs_1_tr_2_tl_7"/>
+            <zone points="350,819 475,781 635,822 719,768 868,816 1131,768 1373,808 1598,781 1660,822 1758,781 2184,797 2243,835 2517,808 2517,724 2232,768 2148,724 1855,743 1478,697 1394,749 1329,700 982,700 941,735 781,700 597,746 350,719" rendition="Line" xml:id="facs_1_tr_2_tl_8"/>
+            <zone points="358,890 803,838 1595,852 1720,898 1855,849 2208,863 2316,911 2363,868 2485,887 2482,797 2241,830 1752,784 1660,822 1109,768 860,816 711,770 637,819 464,781 355,822" rendition="Line" xml:id="facs_1_tr_2_tl_9"/>
+            <zone points="355,985 499,922 746,922 792,966 1229,922 1302,971 1617,920 1866,968 2078,933 2477,971 2439,871 2316,911 2203,863 1899,854 1641,898 1587,849 1332,884 800,835 353,898" rendition="Line" xml:id="facs_1_tr_2_tl_10"/>
+            <zone points="355,1006 583,1004 659,1055 727,1004 808,1031 914,995 1175,1001 1223,1044 1375,995 1462,1036 1511,993 1826,1047 2062,1006 2352,1023 2390,1061 2485,1033 2485,963 2398,949 1866,968 1728,920 1481,925 1413,968 1354,933 1299,974 1223,922 795,966 749,925 542,922 355,979" rendition="Line" xml:id="facs_1_tr_2_tl_11"/>
+            <zone points="339,1099 789,1074 917,1115 974,1069 1278,1063 1348,1107 1400,1061 1503,1126 1622,1074 2010,1118 2151,1080 2276,1123 2493,1099 2493,1039 2390,1061 2232,1009 1826,1047 1522,993 1462,1036 1375,995 1223,1044 1175,1001 1044,1033 914,995 719,1006 654,1052 583,1004 339,993" rendition="Line" xml:id="facs_1_tr_2_tl_12"/>
+            <zone points="350,1147 632,1191 684,1137 760,1188 990,1131 1812,1150 1847,1185 2471,1161 2409,1099 2276,1120 2151,1080 2010,1118 1628,1077 1505,1112 1389,1071 1348,1107 1275,1063 974,1069 920,1115 789,1071 350,1082" rendition="Line" xml:id="facs_1_tr_2_tl_13"/>
+            <zone points="350,1215 749,1207 844,1250 941,1202 1028,1256 1207,1215 1343,1261 1514,1256 1568,1207 1717,1253 1896,1215 2024,1261 2070,1223 2458,1237 2455,1172 2379,1194 2322,1153 2254,1194 2110,1147 1850,1185 1812,1150 1194,1131 871,1137 816,1180 684,1137 621,1177 483,1142 420,1185 350,1150" rendition="Line" xml:id="facs_1_tr_2_tl_14"/>
+            <zone points="363,1291 2496,1313 2493,1212 2420,1250 2070,1223 2024,1264 1901,1212 1636,1253 1581,1207 1511,1256 1210,1215 1025,1256 914,1202 854,1240 751,1204 363,1218" rendition="Line" xml:id="facs_1_tr_2_tl_15"/>
+            <zone points="350,1367 694,1348 773,1400 882,1345 1278,1354 1348,1392 1435,1351 1622,1386 1701,1356 2295,1410 2496,1378 2496,1326 2181,1294 2121,1329 1918,1283 1741,1335 1657,1283 1446,1280 1375,1321 1291,1272 1196,1316 1118,1283 838,1275 789,1318 665,1275 347,1291" rendition="Line" xml:id="facs_1_tr_2_tl_16"/>
+            <zone points="353,1462 418,1419 542,1467 735,1419 846,1470 1047,1424 1134,1465 1766,1432 2053,1495 2124,1454 2485,1473 2512,1381 2018,1413 1977,1375 1695,1356 1435,1351 1348,1392 882,1343 770,1397 697,1348 502,1392 350,1367" rendition="Line" xml:id="facs_1_tr_2_tl_17"/>
+            <zone points="350,1495 578,1489 694,1533 1240,1500 1394,1549 1600,1508 1698,1560 1747,1514 1986,1557 2116,1511 2262,1571 2485,1552 2485,1467 2037,1489 1557,1427 1158,1465 1047,1424 852,1473 738,1419 545,1467 418,1419 347,1465" rendition="Line" xml:id="facs_1_tr_2_tl_18"/>
+            <zone points="361,1579 453,1554 548,1609 749,1560 1180,1565 1310,1617 1364,1573 2178,1584 2387,1636 2455,1595 2430,1527 2262,1571 2105,1508 1986,1557 1747,1511 1695,1557 1606,1508 1392,1552 1242,1500 578,1535 515,1492 358,1497" rendition="Line" xml:id="facs_1_tr_2_tl_19"/>
+            <zone points="350,1636 949,1628 1107,1676 1153,1633 1473,1676 1630,1641 2173,1657 2379,1701 2468,1668 2466,1606 2387,1638 2186,1584 1907,1625 1758,1573 1375,1571 1313,1617 1180,1565 350,1579" rendition="Line" xml:id="facs_1_tr_2_tl_20"/>
+            <zone points="347,1698 567,1687 806,1750 958,1698 1557,1722 1595,1760 1663,1728 2523,1752 2520,1663 2384,1701 2297,1665 2257,1703 2173,1657 1858,1687 1253,1636 1175,1682 722,1619 347,1652" rendition="Line" xml:id="facs_1_tr_2_tl_21"/>
+            <zone points="350,1790 583,1758 781,1798 1571,1790 1684,1839 1766,1798 1874,1847 2173,1807 2520,1834 2517,1755 2474,1744 2043,1771 1972,1733 1595,1760 1533,1720 347,1698" rendition="Line" xml:id="facs_1_tr_2_tl_22"/>
+            <zone points="353,1880 651,1836 738,1891 857,1842 1061,1877 1123,1839 1212,1891 1505,1855 1584,1918 1684,1918 1866,1869 2184,1934 2284,1885 2520,1901 2520,1858 2376,1809 1844,1844 1766,1798 1684,1842 1573,1793 1497,1823 1215,1774 787,1804 580,1758 350,1798" rendition="Line" xml:id="facs_1_tr_2_tl_23"/>
+            <zone points="355,1929 860,1912 1044,1964 1166,1920 1264,1967 1335,1920 1514,1923 1649,1975 1937,1937 2197,2002 2246,1953 2452,1969 2471,1918 2284,1885 2175,1934 1920,1874 1725,1904 1481,1855 1137,1888 971,1836 857,1842 806,1891 656,1836 608,1874 532,1836 353,1880" rendition="Line" xml:id="facs_1_tr_2_tl_24"/>
+            <zone points="347,2005 659,1986 873,2037 1077,1988 1429,1991 1530,2040 1660,1991 2021,2064 2083,2021 2452,2051 2449,1967 2251,1953 2162,2002 1934,1934 1592,1972 1514,1923 1335,1920 1259,1967 1112,1915 1044,1964 976,1923 830,1964 689,1910 494,1948 347,1920" rendition="Line" xml:id="facs_1_tr_2_tl_25"/>
+            <zone points="350,2075 1180,2062 1324,2124 1465,2070 1614,2102 1665,2067 1910,2108 1986,2078 2037,2129 2094,2097 2167,2137 2463,2118 2463,2059 1847,2045 1660,1991 1557,2040 1429,1991 1077,1988 985,2032 665,1988 597,2026 347,2005" rendition="Line" xml:id="facs_1_tr_2_tl_26"/>
+            <zone points="344,2178 507,2132 675,2165 990,2129 1250,2181 1524,2140 1665,2205 1760,2148 1858,2208 1915,2151 1961,2192 2512,2203 2509,2124 2059,2129 1988,2080 1703,2105 1655,2067 1614,2105 1538,2064 1318,2116 1099,2059 342,2075" rendition="Line" xml:id="facs_1_tr_2_tl_27"/>
+            <zone points="353,2295 575,2303 1069,2211 1305,2213 1470,2287 1801,2227 1991,2281 1988,2175 1915,2154 1861,2205 1760,2151 1638,2197 1486,2140 1313,2184 1166,2135 985,2135 895,2181 722,2140 602,2175 510,2132 350,2175" rendition="Line" xml:id="facs_1_tr_2_tl_28"/>
+            <zone points="1093,2458 1139,2474 1221,2444 1294,2466 1332,2430 1405,2422 1443,2447 1584,2455 1636,2417 1693,2417 1690,2284 1633,2268 1557,2303 1519,2281 1484,2316 1362,2273 1194,2308 1090,2281" rendition="Line" xml:id="facs_1_tr_2_tl_29"/>
+            <zone points="1271,2553 1425,2553 1425,2603 1271,2603" rendition="Line" xml:id="facs_1_line_1703268329878_289"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div>
+                <pb facs="#facs_1" xml:id="img_0001" n="15"/>
+            <p facs="#facs_1_tr_2">
+               <lb facs="#facs_1_tr_2_tl_2" n="N001"/>Wir <rs type="person" ref="#christian_iv">Christian der Vierte</rs> von Gottes Gnaden zu <rs type="place" ref="#daenemark_koenigreich">Dennemark</rs>, <rs type="place" ref="#norwegen_koenigreich">Norwegen</rs>,
+               <lb facs="#facs_1_tr_2_tl_3" n="N002"/>der Wenden u<am>.</am>
+                    <ex>nd</ex> Gothen König, Herzog zu <rs type="place" ref="#schleswig_herzogtum">Schleswich</rs>, <rs type="place" ref="#holstein_herzogtum">Holstein</rs>, <rs type="place" ref="#stormarn_herzogtum">Stormarn</rs> u<am>.</am>
+                    <ex>nd</ex> der
+               <lb facs="#facs_1_tr_2_tl_4" n="N003"/>
+                    <rs type="place" ref="#dithmarschen_herzogtum">Dithmarschen</rs>, Graf zu <rs type="place" ref="#oldenburg_grafschaft">Oldenburg</rs> u<am>.</am>
+                    <ex>nd</ex> <rs type="place" ref="#delmenhorst_grafschaft">Delmenhorst</rs> etc. Thun kund hiemit gegen <w>Jeder<pc>-</pc>
+                  <lb facs="#facs_1_tr_2_tl_5" n="N004"/>männlich</w>
+                    <note type="annotation">einen jeden.</note>, waß gestalt die sämmtliche, angehörige u<am>.</am>
+                    <ex>nd</ex> Mitverwandte Kauf u<am>.</am>
+                    <ex>nd</ex> Handwerks
+               <lb facs="#facs_1_tr_2_tl_6" n="N005"/>Leute der genannten ministen<note type="annotation">Andere Benennung für die Mennoniten.</note> zu <rs type="place" ref="#altona">Altena</rs> unterthänigst bey uns angehalten u<am>.</am>
+                    <ex>nd</ex> gesuchet<note type="annotation">erbeten.</note>,
+               <lb facs="#facs_1_tr_2_tl_7" n="N006"/>weil sie bey Zeit voriger Herrschaft selbigen Orts von vielen u<am>.</am>
+                    <ex>nd</ex> nunmehr über die
+               <lb facs="#facs_1_tr_2_tl_8" n="N007"/>
+                    <date from="1601">40 Jahren hero</date> nicht allein daselbst geruhiglich residiret und niedergesessen,<note type="annotation">Vgl. die <ref type="einleitung" target="0216#ansiedlung_mennoniten">Einleitung</ref>.</note> <w>be<pc>-</pc>
+                  <lb facs="#facs_1_tr_2_tl_9" n="N008"/>sonders</w> auch ihr frey exercitium religionis, auch Handel u<am>.</am>
+                    <ex>nd</ex> Wandel nicht mit
+               <lb facs="#facs_1_tr_2_tl_10" n="N009"/>geringem Aufnehmen<note type="annotation">Zuwachs.</note> des ganzen Fleckens<note type="annotation">Orts.</note> gehabt; wir geruheten bey
+               <lb facs="#facs_1_tr_2_tl_11" n="N010"/>unsrer jetzt angetretenen Regierung<note type="annotation">Vgl. die Einleitung.</note>, deren glückseliges stabiliment<note type="crit_app">Korrigiert aus: statiliment.</note> u<am>.</am>
+                    <ex>nd</ex> <w>Beharr<pc>-</pc>
+                  <lb facs="#facs_1_tr_2_tl_12" n="N011"/>lichkeit</w> sie wünschten, ihnen ebenmäßige Gnade wiederfahren zulassen, u<am>.</am>
+                    <ex>nd</ex> sie sowohl
+               <lb facs="#facs_1_tr_2_tl_13" n="N012"/>bey alter possession<note type="annotation">Besitz.</note> und erwähnten ihren freyen exercitio wieder alle ihre
+               <lb facs="#facs_1_tr_2_tl_14" n="N013"/>Wiederwärtige<note type="annotation">Gegner.</note> kräftiglich handzuhaben, zu schützen u<am>.</am>
+                    <ex>nd</ex> zu defendiren. Wann
+               <lb facs="#facs_1_tr_2_tl_15" n="N014"/>wir nun, jedoch auf vorhergehende gewiße recognition<note type="annotation">Überprüfung.</note> in solch ihr suchen <w>gnä<pc>-</pc>
+                  <lb facs="#facs_1_tr_2_tl_16" n="N015"/>digst</w> gewilliget. Als concediren u<am>.</am>
+                    <ex>nd</ex> gestatten Wir hiemit u<am>.</am>
+                    <ex>nd</ex> in Kraft dieses <w>Un<pc>-</pc>
+                     <lb facs="#facs_1_tr_2_tl_17" n="N016"/>sers</w> offenen Briefes, das besagte ministen, wie die heutiges Tages u<am>.</am>
+                    <ex>nd</ex> oben <w>tituli<pc>-</pc>
+               <lb facs="#facs_1_tr_2_tl_18" n="N017"/>ret</w>, auch hinführo, wie bishieher geschehen, sowohl bey ihrem freyen glaubens
+               <lb facs="#facs_1_tr_2_tl_19" n="N018"/>u<am>.</am>
+                    <ex>nd</ex> religions exercitio als unbehindertem Handel u<am>.</am>
+                    <ex>nd</ex> Wandel für uns nicht
+               <lb facs="#facs_1_tr_2_tl_20" n="N019"/>allein unbetriebet<note type="annotation">uneingeschränkt.</note> u<am>.</am>
+                    <ex>nd</ex> ungekränket an selbigen Ort verbleiben und <w>confir<pc>-</pc>
+                  <lb facs="#facs_1_tr_2_tl_21" n="N020"/>miret</w> sein, besonders auch widermänniglichs<note type="annotation">gegen alles.</note> eintracht u<am>.</am>
+                    <ex>nd</ex> turbation<note type="annotation">Unordnung.</note> von <w>Un<pc>-</pc>
+                     <lb facs="#facs_1_tr_2_tl_22" n="N021"/>sern</w> Beamten daselbst allergebühr<note type="annotation">soweit wie möglich.</note> kräftiglich geschützet u<am>.</am>
+                    <ex>nd</ex> vertreten werden
+               <lb facs="#facs_1_tr_2_tl_23" n="N022"/>sollen, hiergegen aber müssen u<am>.</am>
+                    <ex>nd</ex> sollen sie sich gegen jedermänniglich<note type="annotation">einen jeden.</note> schiedlich <w>ver<pc>-</pc>
+               <lb facs="#facs_1_tr_2_tl_24" n="N023"/>halten</w>
+                    <note type="crit_app">Korrigiert aus: ver-verhalten.</note>, durch aus ein unärgerlich Leben führen, und niemand so Unser
+               <lb facs="#facs_1_tr_2_tl_25" n="N024"/>Religion an sich zu ziehen oder zu lokken sich unterstehen, sondern in allen so
+               <lb facs="#facs_1_tr_2_tl_26" n="N025"/>wohl in Religion als Wandels Sachen unsträflich erweisen, sonder alle <w>Ge<pc>-</pc>
+                  <lb facs="#facs_1_tr_2_tl_27" n="N026"/>fährde</w>.</p> <p resp="CVG">Urkundlich unter unßern <rs type="person" ref="#christian_iv">Königl<am>.</am>
+                        <ex>ichen</ex>
+                    </rs> Handzeichen u<am>.</am>
+                    <ex>nd</ex> Secret<note type="annotation">Siegel.</note>, Geben
+               <lb facs="#facs_1_tr_2_tl_28" n="N027"/>auf unsern Hause <rs type="place" ref="#gluecksburg">Glücksburg</rs> am <date when="1641-06-06">6 Juni Anno 1641</date>.
+               <lb facs="#facs_1_tr_2_tl_29" n="N028"/>
+                    <rs type="person" ref="#christian_iv">Christian R<am>.</am>
+                        <ex>ex</ex>
+                    </rs>
+               <!--<lb facs="#facs_1_line_1703268329878_289" n="N029"/>L.S.-->
+            </p>
+         </div>
+      </body>
+   </text>
+</tei:TEI>

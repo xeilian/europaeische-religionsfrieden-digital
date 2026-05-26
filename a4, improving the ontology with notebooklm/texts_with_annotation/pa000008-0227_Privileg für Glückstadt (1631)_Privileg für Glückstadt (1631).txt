@@ -1,0 +1,462 @@
+<span class="lineNumber">1</span>Privilegia <br/>
+<span class="lineNumber">2</span>Oder Freyheiten, <br/>
+<span class="lineNumber">3</span>Welche der zu <button class="entity #daenemark_koenigreich place" data-ref="daenemark_koenigreich" data-type="place" id="d2e8123">Denne-</button><br/>
+<span class="lineNumber">4</span><button class="entity #daenemark_koenigreich place" data-ref="daenemark_koenigreich" data-type="place" id="d2e8123">marcken</button>, <button class="entity #norwegen_koenigreich place" data-ref="norwegen_koenigreich" data-type="place" id="d2e8132">Norwegenn</button> etc. <button class="entity #christian_iv person" data-ref="christian_iv" data-type="person" id="d2e8135">Kön-</button><br/>
+<span class="lineNumber">5</span><button class="entity #christian_iv person" data-ref="christian_iv" data-type="person" id="d2e8135">nigliche Majestät</button> <br/>
+<span class="lineNumber">6</span>Der <button class="entity #niederlande_vereinigte place" data-ref="niederlande_vereinigte" data-type="place" id="d2e8146">Niederlandische</button> Nation, und ihren <br/>
+<span class="lineNumber">7</span>familien, Adhaerenten<a class="fnNumber" href="#F_1" id="A_1">1</a> und Mitbeschriebenen<a class="fnNumber" href="#F_2" id="A_2">2</a>, so in <br/>
+<span class="lineNumber">8</span>der Veste <button class="entity #glueckstadt place" data-ref="glueckstadt" data-type="place" id="d2e8160">Glückstadt</button> anitzo residiren und in künfftig kommen <br/>
+<span class="lineNumber">9</span>möchten, Allergnedigst hat mitgetheilet und gegeben <br/>
+<span class="lineNumber">10</span>am 17. Octobris, Anno 1631. <br/>
+<span class="lineNumber">11</span>Gedruckt <br/>
+<span class="lineNumber">12</span>Mit consentz und belieben des HochEdeln Ge-<br/>
+<span class="lineNumber">13</span>strengen Herrn <button class="entity #christian_iv person" data-ref="christian_iv" data-type="person" id="d2e8182">Gubernatoris</button> der <br/>
+<span class="lineNumber">14</span>Veste <button class="entity #glueckstadt place" data-ref="glueckstadt" data-type="place" id="d2e8187">Glückstad</button>. <br/>
+<span class="lineNumber">15</span>Im Jahr 1633. <span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">16</span>Wir, <button class="entity #christian_iv person" data-ref="christian_iv" data-type="person" id="d2e8205">Christian </button><br/>
+<span class="lineNumber">17</span><button class="entity #christian_iv person" data-ref="christian_iv" data-type="person" id="d2e8205">der Vierdte</button>, von Got-<br/>
+<span class="lineNumber">18</span>tes gnaden, zu <button class="entity #daenemark_koenigreich place" data-ref="daenemark_koenigreich" data-type="place" id="d2e8217">Dennemar-</button><br/>
+<span class="lineNumber">19</span><button class="entity #daenemark_koenigreich place" data-ref="daenemark_koenigreich" data-type="place" id="d2e8217">cken</button>, <button class="entity #norwegen_koenigreich place" data-ref="norwegen_koenigreich" data-type="place" id="d2e8226">Norwegen</button>, der Wenden <br/>
+<span class="lineNumber">20</span>und Goten König, Hertzog zu <br/>
+<span class="lineNumber">21</span><button class="entity #schleswig_herzogtum place" data-ref="schleswig_herzogtum" data-type="place" id="d2e8232">Schleßwig</button>, <button class="entity #holstein_herzogtum place" data-ref="holstein_herzogtum" data-type="place" id="d2e8235">Holstein</button>, <button class="entity #stormarn_herzogtum place" data-ref="stormarn_herzogtum" data-type="place" id="d2e8238">Stor-</button><br/>
+<span class="lineNumber">22</span><button class="entity #stormarn_herzogtum place" data-ref="stormarn_herzogtum" data-type="place" id="d2e8238">marn</button> und der <button class="entity #dithmarschen_herzogtum place" data-ref="dithmarschen_herzogtum" data-type="place" id="d2e8247">Dithmarschen</button>, Graff zu <button class="entity #oldenburg_grafschaft place" data-ref="oldenburg_grafschaft" data-type="place" id="d2e8250">Oldenburg</button> <br/>
+<span class="lineNumber">23</span>und <button class="entity #delmenhorst_grafschaft place" data-ref="delmenhorst_grafschaft" data-type="place" id="d2e8255">Delmenhorst</button> etc. Thuen kundt Jedermennig-<br/>
+<span class="lineNumber">24</span>lichen<a class="fnNumber" href="#F_3" id="A_3">3</a>: Demnach wir vor diesem der <button class="entity #niederlande_vereinigte place" data-ref="niederlande_vereinigte" data-type="place" id="d2e8268">Niederlandi-</button><br/>
+<span class="lineNumber">25</span><button class="entity #niederlande_vereinigte place" data-ref="niederlande_vereinigte" data-type="place" id="d2e8268">schen</button> Nation aus sonderbahre gnade Unterschiedene <br/>
+<span class="lineNumber">26</span>Privilegien, Immunitäten und Freyheiten in unsere <br/>
+<span class="lineNumber">27</span>Neu erbaute Stadt <button class="entity #glueckstadt place" data-ref="glueckstadt" data-type="place" id="d2e8280">Glückstadt</button> sich ruhelich nie-<br/>
+<span class="lineNumber">28</span>derzulassen zu negociiren<a class="fnNumber" href="#F_4" id="A_4">4</a>, zu handlen, zu wandlen, <br/>
+<span class="lineNumber">29</span>und ihre Bürgerliche Nahrung zu treiben, gnedigst <br/>
+<span class="lineNumber">30</span>mitgetheilet haben, aber wegen einfallender Kriegs-<br/>
+<span class="lineNumber">31</span>Emporung<a class="fnNumber" href="#F_5" id="A_5">5</a> obgedachte Niederlandische Nation gu-<br/>
+<span class="lineNumber">32</span>ten Theils zerstreuet und auff andere Orter sich rete-<br/>
+<span class="lineNumber">33</span>riret, auch die Handelung und Nahrung zimblicher <br/>
+<span class="lineNumber">34</span>massen turbiret unnd niedergelegt worden: Nunmehr <br/>
+<span class="lineNumber">35</span>aber vormittelst Göttlicher aßistentz<a class="fnNumber" href="#F_a" id="A_a">a</a> unsere Fürsten-<br/>
+<span class="lineNumber">36</span>thumbe, Land und Leute, wieder zu einen friedtli-<br/>
+<span class="lineNumber">37</span>chen Stand gediegen, haben wir fast<a class="fnNumber" href="#F_6" id="A_6">6</a> rathsamb, gut, <br/>
+<span class="lineNumber">38</span>und für unsere Neu fundirte Stad <button class="entity #glueckstadt place" data-ref="glueckstadt" data-type="place" id="d2e8350">Glückstad</button> hoch-<br/>
+<span class="lineNumber">39</span>dienlig zu sein erachtet, Das man die frembden Na-<br/>
+<span class="lineNumber">40</span>tionen wieder herruffete, bevorab die Niederlände-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=NRNRQMGFOOZNOHUZJAATZBBL&amp;fileType=view" id="p-Aiiv"> [Blatt: Aii<span class="rectoVerso">v</span> ] </button><br/>
+<span class="lineNumber">41</span>ren, so diese Stad umb ein ansehenliches mit ihren <br/>
+<span class="lineNumber">42</span>Heuseren vormehret: Haben demnach und zu erlan-<br/>
+<span class="lineNumber">43</span>gung dieser, in unsern jüngst außgetheilten Patenten <br/>
+<span class="lineNumber">44</span>sub dato <button class="entity #glueckstadt place" data-ref="glueckstadt" data-type="place" id="d2e8388">Glückstad</button> denn 9. Decembris. 1629. unsere <br/>
+<span class="lineNumber">45</span>gnedigste Meinung zu erkennen gegeben, das wir <br/>
+<span class="lineNumber">46</span>nicht allein die vorige Privilegia<a class="fnNumber" href="#F_7" id="A_7">7</a> wollen erneuert, <br/>
+<span class="lineNumber">47</span>Confirmiret und bestettiget haben, Sonderen auch <br/>
+<span class="lineNumber">48</span>auff derselben anhalten solche mit neuen indulten<a class="fnNumber" href="#F_8" id="A_8">8</a> <br/>
+<span class="lineNumber">49</span>und Privilegien, so viel immer mit fueg und recht ge-<br/>
+<span class="lineNumber">50</span>schehen kan, vormehren und vorbesseren. Wie wir ih-<br/>
+<span class="lineNumber">51</span>nen dann hirmit auß Königlicher Autoritet, Macht, <br/>
+<span class="lineNumber">52</span>Gewalt unnd Krafft Landes Fürstlichen hohen <br/>
+<span class="lineNumber">53</span>Obrigkeit, auch so wol für <button class="entity #christian_iv person" data-ref="christian_iv" data-type="person" id="d2e8433">uns</button>, als im Nahmen des <br/>
+<span class="lineNumber">54</span>Hochgebornen Fürsten unseres freundtlichen lieben <br/>
+<span class="lineNumber">55</span>Herrn Sohns, Herrn <button class="entity #christian_v_prinz_daenemark person" data-ref="christian_v_prinz_daenemark" data-type="person" id="d2e8441">Christian deß Fünfften</button>, <br/>
+<span class="lineNumber">56</span>zu <button class="entity #daenemark_koenigreich place" data-ref="daenemark_koenigreich" data-type="place" id="d2e8446">Dennemarcken</button>, <button class="entity #norwegen_koenigreich place" data-ref="norwegen_koenigreich" data-type="place" id="d2e8449">Norwegen</button>, der Wenden unnd <br/>
+<span class="lineNumber">57</span>Gotten erwehleten Printzen, Hertzogen zu <button class="entity #schleswig_herzogtum place" data-ref="schleswig_herzogtum" data-type="place" id="d2e8454">Schleß-</button><br/>
+<span class="lineNumber">58</span><button class="entity #schleswig_herzogtum place" data-ref="schleswig_herzogtum" data-type="place" id="d2e8454">wig</button>, <button class="entity #holstein_herzogtum place" data-ref="holstein_herzogtum" data-type="place" id="d2e8463">Holstein</button>, <button class="entity #stormarn_herzogtum place" data-ref="stormarn_herzogtum" data-type="place" id="d2e8466">Stormarn</button> und der <button class="entity #dithmarschen_herzogtum place" data-ref="dithmarschen_herzogtum" data-type="place" id="d2e8469">Dithmarschen</button>, <br/>
+<span class="lineNumber">59</span>Graffen zu <button class="entity #oldenburg_grafschaft place" data-ref="oldenburg_grafschaft" data-type="place" id="d2e8474">Oldenburg</button> und <button class="entity #delmenhorst_grafschaft place" data-ref="delmenhorst_grafschaft" data-type="place" id="d2e8477">Delmenhorst</button> etc. Nach-<br/>
+<span class="lineNumber">60</span>folgende Privilegia, Immuniteten unnd Freyheiten <br/>
+<span class="lineNumber">61</span>gnedigst concediren, mittheilen und geben.
+<span class="lineNumber">62</span>1. Erstlichen wollen <button class="entity #christian_iv person" data-ref="christian_iv" data-type="person" id="d2e8495">wir</button>, auch unsere Erben, Nach-<br/>
+<span class="lineNumber">63</span>kommen und Successoren, die <button class="entity #niederlande_vereinigte place" data-ref="niederlande_vereinigte" data-type="place" id="d2e8505">Niederlandische</button> Nation, <br/>
+<span class="lineNumber">64</span>die sich in unsere <button class="entity #glueckstadt place" data-ref="glueckstadt" data-type="place" id="d2e8511">Glückstad</button> heußlich niederlassen und <br/>
+<span class="lineNumber">65</span>besetzen, in gesambt und ohne unterscheit Geist- oder <br/>
+<span class="lineNumber">66</span>Weltlicher Personen, Kauff- oder Handwercks Leu-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=QMEJDTACDDBMYMCQUJUUIHQW&amp;fileType=view" id="p-Aiiir"> [Blatt: Aiii<span class="rectoVerso">r</span> ] </button><br/>
+<span class="lineNumber">67</span>te, Rentener<a class="fnNumber" href="#F_9" id="A_9">9</a>, Schifferen oder Pauren<a class="fnNumber" href="#F_10" id="A_10">10</a>, vor unsere <br/>
+<span class="lineNumber">68</span>unterthanen auff und annehmen, das sie neben ihren <br/>
+<span class="lineNumber">69</span>Erben und Haußgesinde unter unseren Schutz und <br/>
+<span class="lineNumber">70</span>protection ein erbahres Leben in aller sicherheit füh-<br/>
+<span class="lineNumber">71</span>ren mügen: Gestaldt wir ihnen dann hirmit unnd in <br/>
+<span class="lineNumber">72</span>Krafft dieses unsere freyes sicheres Geleidt vor ihre <br/>
+<span class="lineNumber">73</span>Persohnen, Haußgesinde, Güter unnd alles, was <br/>
+<span class="lineNumber">74</span>ihnen zustendig, ein besser unnd bestendigster Formb <br/>
+<span class="lineNumber">75</span>wollen ertheilet haben, mit Ernsten befellich, das nie-<br/>
+<span class="lineNumber">76</span>mandt, was Nation, qualitet oder Condition er auch <br/>
+<span class="lineNumber">77</span>sein mag, dieselbigen beleidigen, ihnen ubels nach-<br/>
+<span class="lineNumber">78</span>reden oder sonsten, auff was weise es geschehen kön-<br/>
+<span class="lineNumber">79</span>te, gegen sie etwas<a class="fnNumber" href="#F_b" id="A_b">b</a> de facto attentire<a class="fnNumber" href="#F_11" id="A_11">11</a>, oder sich gelü-<br/>
+<span class="lineNumber">80</span>sten lasse, vielmehr aber nebenst ihren Kinderen und <br/>
+<span class="lineNumber">81</span>Gesinde andere Bürgern gleich respectiren unnd <br/>
+<span class="lineNumber">82</span>halten: Wer dar wieder thut, sol mit billiger<a class="fnNumber" href="#F_12" id="A_12">12</a> Straffe <br/>
+<span class="lineNumber">83</span>beleget werden. Und daferne auch in vorfallenden <br/>
+<span class="lineNumber">84</span>Feurß Brunsten, Wasserfluthen, oder anderen un-<br/>
+<span class="lineNumber">85</span>gelegenheiten, welcher der liebe Gott gnedig abkehre <br/>
+<span class="lineNumber">86</span>und abwende, sie eintziger hülffe benöttiget, sol die <br/>
+<span class="lineNumber">87</span>Bürgerschafft schuldig sein, ihnen so wol auch an-<br/>
+<span class="lineNumber">88</span>deren frembden Nationen die hülff- unnd nachbar-<br/>
+<span class="lineNumber">89</span>liche Handt zu bieten und treulich bey zustehen, wel-<br/>
+<span class="lineNumber">90</span>ches dann auch den Bürgeren bey Ablegung ihres <br/>
+<span class="lineNumber">91</span>Bürgerliches Eydes mit sol eingebunden und anbe-<br/>
+<span class="lineNumber">92</span>fohlen werden. Wir wollen auch nicht gestatten das <br/>
+<span class="lineNumber">93</span>jemand von denen, die sich erwehnter massen in der <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=TFYXCPMJEQVONADTEXLQQJJS&amp;fileType=view" id="p-Aiiiv"> [Blatt: Aiii<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">94</span><button class="entity #glueckstadt place" data-ref="glueckstadt" data-type="place" id="d2e8653">Glückstad</button> unter unser protection begeben, ausserhalb <br/>
+<span class="lineNumber">95</span>unsere Königreiche unnd Fürstenthumbe heimblich <br/>
+<span class="lineNumber">96</span>oder öffentlich weg geführet und vor frembde Rich-<br/>
+<span class="lineNumber">97</span>ter gebracht oder gestellet, noch auch von unseren <br/>
+<span class="lineNumber">98</span>Richteren und Officirern, ohne ordentlichen Proces <br/>
+<span class="lineNumber">99</span>unnd rechtmessige Erkändtnusse unsere Lande und <br/>
+<span class="lineNumber">100</span>Städte vorwiesen oder auß denselben weg zu ziehen <br/>
+<span class="lineNumber">101</span>gedrungen werde: Sonder es sollen die jenige, die in <br/>
+<span class="lineNumber">102</span>Civil oder Criminal sachen zu besprechen willens, ih-<br/>
+<span class="lineNumber">103</span>re klage an dem Orth, wor sie wonhafft, vor den ordi-<br/>
+<span class="lineNumber">104</span>nari<a class="fnNumber" href="#F_13" id="A_13">13</a> Richter anstellen und daselbsten in prima instan-<br/>
+<span class="lineNumber">105</span>tia gebührenden außschlages<a class="fnNumber" href="#F_14" id="A_14">14</a> erwarten: Und dar sie <br/>
+<span class="lineNumber">106</span>darmit nicht friedtlich, durch appellation die sache in <br/>
+<span class="lineNumber">107</span>secunda instantia an die Ubergerichte oder, nach imp-<br/>
+<span class="lineNumber">108</span>portantz derselben, vor uns, unseren Stadhalter und <br/>
+<span class="lineNumber">109</span>Räthen anhengig machen, und Rechtmessiger ent-<br/>
+<span class="lineNumber">110</span>scheidung gewertig sein. Mügen auch alle die jenige, <br/>
+<span class="lineNumber">111</span>so qualificirt befunden, gleich unseren eingebornen ad <br/>
+<span class="lineNumber">112</span>officia publica gezogen und gebraucht werden.
+<span class="lineNumber">113</span>2. Zum Andern sol ihnen frey stehen aller Bür-<br/>
+<span class="lineNumber">114</span>gerliche Nahrung zu Wasser und Lande, mit Kauff-<br/>
+<span class="lineNumber">115</span>manschafft, Handwercken oder ander Handtierung, <br/>
+<span class="lineNumber">116</span>wie die Nahmen haben mügen, an allen Örteren im <br/>
+<span class="lineNumber">117</span>Jahrmarcketen, mit offenen Buden, Laden unnd <br/>
+<span class="lineNumber">118</span>Winckelen, Gewicht und Maaß, gleich anderen un-<br/>
+<span class="lineNumber">119</span>seren Unterthanen ungehindert zu treiben und fort<a class="fnNumber" href="#F_c" id="A_c">c</a> <br/>
+<span class="lineNumber">120</span>zusetzen. Sollen jedoch nicht schuldig sein, in andere <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=VBPFQMLSOQATTBZMQHFNHHGX&amp;fileType=view" id="p-[Aivr]"> [Blatt: [Ai<span class="rectoVerso">v</span><span class="rectoVerso">r</span>] ] </button> <br/>
+<span class="lineNumber">121</span>Bürgere Zunfften, Gilden, Ampteren ober Societe-<br/>
+<span class="lineNumber">122</span>ten sich zu begeben, sonderen von denselbigen aller-<br/>
+<span class="lineNumber">123</span>dinges separiret und abgesondert bleiben, und einem <br/>
+<span class="lineNumber">124</span>Jeden sein Brod zu suchen unnd Handtierung zu <br/>
+<span class="lineNumber">125</span>treiben, auff waß massen er es am nützlichsten und be-<br/>
+<span class="lineNumber">126</span>quemsten befinden wird, doch daß es Ehrlicher und <br/>
+<span class="lineNumber">127</span>Redlicher weise geschehe, frey und zugelassen sein.
+<span class="lineNumber">128</span>3. Zum Dritten: die ihre Handlung zu <br/>
+<span class="lineNumber">129</span>und zu Lande treiben werden, den wollen wir zu sol-<br/>
+<span class="lineNumber">130</span>cher ihrer redlicher Handtierung, auff ihr unterthä-<br/>
+<span class="lineNumber">131</span>nigstes Anhalten, unsere Königliche offene Passe auff <br/>
+<span class="lineNumber">132</span><button class="entity #spanien_koenigreich place" data-ref="spanien_koenigreich" data-type="place" id="d2e8823">Hispanien</button>, <button class="entity #portugal_koenigreich place" data-ref="portugal_koenigreich" data-type="place" id="d2e8827">Portugal</button>, <button class="entity #italien place" data-ref="italien" data-type="place" id="d2e8830">Italien</button>, <button class="entity #alexandria_patriarchat place" data-ref="alexandria_patriarchat" data-type="place" id="d2e8833">Alexandria</button>, <button class="entity #indien place" data-ref="indien" data-type="place" id="d2e8836">Indien</button>, <br/>
+<span class="lineNumber">133</span><button class="entity #guinea place" data-ref="guinea" data-type="place" id="d2e8840">Guinea</button>, <button class="entity #nordland place" data-ref="nordland" data-type="place" id="d2e8844">Nordland</button>, <button class="entity #groenland place" data-ref="groenland" data-type="place" id="d2e8847">Gronland</button> unnd andere Örter, <br/>
+<span class="lineNumber">134</span>wie es ihnen beliebt, gleich unseren eigenen Einge-<br/>
+<span class="lineNumber">135</span>bornen mittheilen, auch ihre Personen sampt ihren <br/>
+<span class="lineNumber">136</span>Commercien zu Wasser und Lande in unseren König-<br/>
+<span class="lineNumber">137</span>lichen Schutz und protection nehmen, alle gute Be-<br/>
+<span class="lineNumber">138</span>fordrung bey außlendischen Potentaten unnd Herr-<br/>
+<span class="lineNumber">139</span>schafften erweissen, und unse Euserste dahin bemü-<br/>
+<span class="lineNumber">140</span>hen, daß die <button class="entity #niederlande_vereinigte place" data-ref="niederlande_vereinigte" data-type="place" id="d2e8890">Niederlandische</button> Nation, unter densel-<br/>
+<span class="lineNumber">141</span>ben und in ihren Botmessigkeiten gleicher Freyheit <br/>
+<span class="lineNumber">142</span>in dem Commercien, wie unsere eingeborne Unter-<br/>
+<span class="lineNumber">143</span>thanen geniessen mügen. Und mügen sie nicht allein <br/>
+<span class="lineNumber">144</span>mit den Eingesessenen unsere Reiche unnd Fürsten-<br/>
+<span class="lineNumber">145</span>thumbe, sonderen auch Frembden und Außwendi-<br/>
+<span class="lineNumber">146</span>gen Marschopey<a class="fnNumber" href="#F_15" id="A_15">15</a> halten, und mit derselben Geldt und <br/>
+<span class="lineNumber">147</span>Wahren ihres gefallens und gleich ihren eigenen <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=LBOYWLKRXAITCAINTZOUCGSP&amp;fileType=view" id="p-[Aivv]"> [Blatt: [Ai<span class="rectoVerso">v</span><span class="rectoVerso">v</span>] ] </button> <br/>
+<span class="lineNumber">148</span>Güteren ohne Vorhindernusse ihre Handtierung <br/>
+<span class="lineNumber">149</span>treiben.
+<span class="lineNumber">150</span>4. Zum Vierdten: Wo etwan Krieg oder Unei-<br/>
+<span class="lineNumber">151</span>nigkeit, welches GOtt gnedig vorhüten wolle, zwi-<br/>
+<span class="lineNumber">152</span>schen unseren Reichen und Landen und solcher Par-<br/>
+<span class="lineNumber">153</span>ticipanten Obrigkeit entstehen solte, wollen wir keines <br/>
+<span class="lineNumber">154</span>weges gestatten, das derselbe Frembden mit unseren <br/>
+<span class="lineNumber">155</span>in der <button class="entity #glueckstadt place" data-ref="glueckstadt" data-type="place" id="d2e8969">Glückstad</button> gesessenen Unterthanen in Hande-<br/>
+<span class="lineNumber">156</span>lung eingelegte Gelder, oder Wahren arrestiret<a class="fnNumber" href="#F_16" id="A_16">16</a>, se-<br/>
+<span class="lineNumber">157</span>questiret<a class="fnNumber" href="#F_17" id="A_17">17</a>, oder angehalten werden sollen, sonderen es <br/>
+<span class="lineNumber">158</span>sol ihnen frey stehen dieselbe ohne beschwerung und <br/>
+<span class="lineNumber">159</span>vorenthalt von dem unseren zu forderen und ihres <br/>
+<span class="lineNumber">160</span>gefallens darmit zu gebahren: Doch daferne sie sich <br/>
+<span class="lineNumber">161</span>in der Persohn nicht gegen uns gebrauchen lassen.
+<span class="lineNumber">162</span>5. Zum Fünfften: Da auch uber vorhoffen in un-<br/>
+<span class="lineNumber">163</span>seren Königreichen, Fürstenthumben, an Ort und <br/>
+<span class="lineNumber">164</span>Enden, wie die Nahmen haben, durch Ungelück und <br/>
+<span class="lineNumber">165</span>Ungewitter der <button class="entity #niederlande_vereinigte place" data-ref="niederlande_vereinigte" data-type="place" id="d2e9016">Niederländische</button> Nation ihre Schiffe, <br/>
+<span class="lineNumber">166</span>Gütere und Wahren absonderlich zu Stranden kom-<br/>
+<span class="lineNumber">167</span>men, vorordnen und wollen <button class="entity #christian_iv person" data-ref="christian_iv" data-type="person" id="d2e9029">wir</button> hirmit vor uns, un-<br/>
+<span class="lineNumber">168</span>sere Erben und Nachkommen, das beydes Gütere <br/>
+<span class="lineNumber">169</span>und Schiffe sampt unnd absonders, wor die anlan-<br/>
+<span class="lineNumber">170</span>den, ihnen gleich andern unseren Unterthanen umb <br/>
+<span class="lineNumber">171</span>ein liederliches und billiches<a class="fnNumber" href="#F_18" id="A_18">18</a> Behrgeld<a class="fnNumber" href="#F_19" id="A_19">19</a> wieder auß-<br/>
+<span class="lineNumber">172</span>gefolget, und den rechten Eigenthumbern restitui-<br/>
+<span class="lineNumber">173</span>ret werden sollen.
+<span class="lineNumber">174</span>6. Zum Sechsten: Wir setzen sie die <button class="entity #niederlande_vereinigte place" data-ref="niederlande_vereinigte" data-type="place" id="d2e9076"> Niederlan-</button><br/>
+<span class="lineNumber">175</span><button class="entity #niederlande_vereinigte place" data-ref="niederlande_vereinigte" data-type="place" id="d2e9076">dische</button> Kauffleute unnd gantze Nation hirmit liber<a class="fnNumber" href="#F_20" id="A_20">20</a>, <br/>
+<span class="lineNumber">176</span>loß, exempt, und frey von allen und jeden Imposten<a class="fnNumber" href="#F_21" id="A_21">21</a>, <br/>
+<span class="lineNumber">177</span>Haubtgelderen, und anderen derogleichen Lasten <br/>
+<span class="lineNumber">178</span>und Contributionen, so wol die Persohnen als Gütere <br/>
+<span class="lineNumber">179</span>betreffend (jedoch vorbehaltlich des Zollens, das <br/>
+<span class="lineNumber">180</span>von den auß und eingehende Wahren vormüge un-<br/>
+<span class="lineNumber">181</span>sere ZolRolle sol entrichtet werden), so etwa vor die-<br/>
+<span class="lineNumber">182</span>sen albereit imponiret und auffgesetzt, und sie selbsten <br/>
+<span class="lineNumber">183</span>vor diesen jährlich entrichtet haben oder in künfftig <br/>
+<span class="lineNumber">184</span>möchten imponiret werden: Von denen und deroglei-<br/>
+<span class="lineNumber">185</span>chen Imposten und Aufflagen befreyen <button class="entity #christian_iv person" data-ref="christian_iv" data-type="person" id="d2e9129">wir</button>, auch unse-<br/>
+<span class="lineNumber">186</span>ne Erben, Nachkommen unnd Successoren sie, die Nie-<br/>
+<span class="lineNumber">187</span>derlandische Nation, auff termin und zeit Fünff und <br/>
+<span class="lineNumber">188</span>Zwantzig Jahr, Als wir in unseren jüngst außge-<br/>
+<span class="lineNumber">189</span>theilten Patenten sub dato <button class="entity #glueckstadt place" data-ref="glueckstadt" data-type="place" id="d2e9156">Glückstad</button> den 9. Decem-<br/>
+<span class="lineNumber">190</span>bris Anno 1629. gnedigst vorsprochen haben.<a class="fnNumber" href="#F_22" id="A_22">22</a> Und <br/>
+<span class="lineNumber">191</span>nach vorlauff der Fünff und Zwantzig Jahren sol-<br/>
+<span class="lineNumber">192</span>len sie keines weges mehr dan andere Nationen und <br/>
+<span class="lineNumber">193</span>Bürger beschweret werden. Wie wir sie ebenmessig <br/>
+<span class="lineNumber">194</span>hiemit loß, frey und quith<a class="fnNumber" href="#F_23" id="A_23">23</a> sprechen von allen denen <br/>
+<span class="lineNumber">195</span>Schulden, welche die Gemein oder Commun der <br/>
+<span class="lineNumber">196</span><button class="entity #glueckstadt place" data-ref="glueckstadt" data-type="place" id="d2e9198">Glückstad</button> vor diesen gemachet, damit sie keines we-<br/>
+<span class="lineNumber">197</span>ges sollen noch können beunruhiget werden.
+<span class="lineNumber">198</span>7. Zum Siebenden: In Krieges so wol als in <br/>
+<span class="lineNumber">199</span>Friedenszeiten sollen sie von Einquartirung der <br/>
+<span class="lineNumber">200</span>Soldaten und anderen Bürden gantz frey sein.
+<span class="lineNumber">201</span>8. Zum Achten: Sie sollen auch mit den Zolle <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=NDDEBPJPENMURWDTDHTQLTUG&amp;fileType=view" id="p-Bv"> [Blatt: B<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">202</span>nicht höher als andere unsere Bürgere, denen sie in <br/>
+<span class="lineNumber">203</span>hoc passu<a class="fnNumber" href="#F_24" id="A_24">24</a> gleich, beschweret werden: Was sie an Per-<br/>
+<span class="lineNumber">204</span>len, Cleinodien, Edelgesteinen, Gold und Silber <br/>
+<span class="lineNumber">205</span>handelsweise ein unnd wieder auß führen, auch <br/>
+<span class="lineNumber">206</span>Haußrath und andere mobilien, solches alles ist von <br/>
+<span class="lineNumber">207</span>Zollen entfreyet: Wie dan auch, wan einer oder der <br/>
+<span class="lineNumber">208</span>ander mit seinen gantzen familia und Gesinde sich an <br/>
+<span class="lineNumber">209</span>frembde Örtere, ausser unsere Fürstenthumbe und <br/>
+<span class="lineNumber">210</span>Jurisdiction, welches ihnen frey stehet, begeben wol-<br/>
+<span class="lineNumber">211</span>ten, aller dinges nichtes zu entrichten schuldig sein <br/>
+<span class="lineNumber">212</span>sollen.
+<span class="lineNumber">213</span>9. Zum Neunden: Im vorfallenden Streitsachen <br/>
+<span class="lineNumber">214</span>sollen der Niederländeren Kauffbücher, sie sein in <br/>
+<span class="lineNumber">215</span>Niederlandischer, Frantzösischer, Teutscher oder an-<br/>
+<span class="lineNumber">216</span>dere Sprachen geschrieben, gleich anderen Beweiß-<br/>
+<span class="lineNumber">217</span>thumben, wie in <button class="entity #hamburg place" data-ref="hamburg" data-type="place" id="d2e9286">Hamburg</button> unter den Kauffleuten <br/>
+<span class="lineNumber">218</span>und sonsten gebreuchlich, mediante juramento plene<a class="fnNumber" href="#F_25" id="A_25">25</a> <br/>
+<span class="lineNumber">219</span>probiren und gelten: Auch sollen der Niederlanderen <br/>
+<span class="lineNumber">220</span>und ihren Adhaerenten Gezeuchnussen<a class="fnNumber" href="#F_26" id="A_26">26</a>, da ferne es <br/>
+<span class="lineNumber">221</span>sonsten unberuchtigte Persohnen sein, ein und ausser <br/>
+<span class="lineNumber">222</span>Gerichte war sein und gelten, Eben so wol als an-<br/>
+<span class="lineNumber">223</span>dere unsere Bürger.
+<span class="lineNumber">224</span>10. Zum Zehenden: So ferne unter ihnen einer <br/>
+<span class="lineNumber">225</span>durch einen unvorhofften Falle und zustehenden Un-<br/>
+<span class="lineNumber">226</span>gelücke zu fallieren<a class="fnNumber" href="#F_27" id="A_27">27</a> und schaden keme oder, auch daß <br/>
+<span class="lineNumber">227</span>Gott in gnaden abwenden wolte, im vorderben ge-<br/>
+<span class="lineNumber">228</span>rahte, und daher an einige particulier Persohnen mit <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=JXPHSHXIUXUOJKSPILKPDRUC&amp;fileType=view" id="p-Biir"> [Blatt: Bii<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">229</span>schüldern vorhafftet bliebe: in diesen Falle begehren <br/>
+<span class="lineNumber">230</span>und wollen wir, daß unser Obrigkeiten eine gewisse <br/>
+<span class="lineNumber">231</span>zeit auffsetzet, innerhalb welcher ihre Committenten <br/>
+<span class="lineNumber">232</span>und Correspondenten ihr an die Güter praetendirtes <br/>
+<span class="lineNumber">233</span>Eigenthumbliches Recht gebührender massen be-<br/>
+<span class="lineNumber">234</span>weisen und auß führen: Unnd immittelst sollen die <br/>
+<span class="lineNumber">235</span>Gütere, Wahren und Wechselbrieffe oder andere <br/>
+<span class="lineNumber">236</span>ihren Committenten und Correspondenten zugehö-<br/>
+<span class="lineNumber">237</span>rige Sachen in guter gewahrsamb genommen, Und <br/>
+<span class="lineNumber">238</span>nichtes davon distrahirt werden, ehe dan die Rech-<br/>
+<span class="lineNumber">239</span>nung geflichtet sein, als durch ordinantz und im Ge-<br/>
+<span class="lineNumber">240</span>brauch darüber wird disponiret sein, jedoch mit vor-<br/>
+<span class="lineNumber">241</span>behalt und reservirung unseres Königlichen Interesse.
+<span class="lineNumber">242</span>11. Zum Elfften: In Civil und Kauffmans sachen, <br/>
+<span class="lineNumber">243</span>so zwischen ihnen selbsten entstehen und vorfallen, <br/>
+<span class="lineNumber">244</span>haben ihre eigne Richter und Depurtirte, die wir ih-<br/>
+<span class="lineNumber">245</span>nen vorgönnen allezeit von ihrer Nation zuerweh-<br/>
+<span class="lineNumber">246</span>len, macht auff hundert unnd funffzig Reichsthaler <br/>
+<span class="lineNumber">247</span>definitive zu urtheilen und zusprechen: Höhere Sum-<br/>
+<span class="lineNumber">248</span>men gehören vor unsere Rath und Gerichte. Imglei-<br/>
+<span class="lineNumber">249</span>chen geben wir ihren obgedachten Deputirten eben-<br/>
+<span class="lineNumber">250</span>messigen Gewalt in Testamenten, Erbschafften, <br/>
+<span class="lineNumber">251</span>Matrimonial<a class="fnNumber" href="#F_28" id="A_28">28</a> Sachen, und so dotes<a class="fnNumber" href="#F_29" id="A_29">29</a> und dergleichen <br/>
+<span class="lineNumber">252</span>concerniren, da einiger Streit vorfelt, selbige nach ih-<br/>
+<span class="lineNumber">253</span>ren Gesetzen und Gebreuchen volkomblich und de-<br/>
+<span class="lineNumber">254</span>finitive ohne einiges appelliren oder revidiren, zu ur-<br/>
+<span class="lineNumber">255</span>theilen und zu vordragen, bey welchen Urtheil und <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=FIEWNQNEMQZTXABKBKUBZKDS&amp;fileType=view" id="p-Biiv"> [Blatt: Bii<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">256</span>Außspruch es so steiff und feste sol bleiben unnd be-<br/>
+<span class="lineNumber">257</span>wenden, als wann unsere Magistrat selbige außge-<br/>
+<span class="lineNumber">258</span>sprochen hette, und sollen unsere gesetzte Obrigkeiten <br/>
+<span class="lineNumber">259</span>ihnen jedesmahl zur würcklichen execution die hülff-<br/>
+<span class="lineNumber">260</span>liche Hand bieten.
+<span class="lineNumber">261</span>12. Zum Zwölfften: Wann sie aber mit einen von <br/>
+<span class="lineNumber">262</span>einer anderen Nation oder Außlendischen zu thuen <br/>
+<span class="lineNumber">263</span>haben, sollen sie an unsere Rath und Gerichte vor-<br/>
+<span class="lineNumber">264</span>weisen sein, welche ohne weitleufftiges procediren de <br/>
+<span class="lineNumber">265</span>simplici & plano<a class="fnNumber" href="#F_30" id="A_30">30</a>, so es inmer müglich, alle Sachen <br/>
+<span class="lineNumber">266</span>richten und schlichten sollen: So ferne sich aber in de-<br/>
+<span class="lineNumber">267</span>ren Außspruch ein oder der ander Theil beschweret zu <br/>
+<span class="lineNumber">268</span>sein vormeinet, sollen sie immediate<a class="fnNumber" href="#F_31" id="A_31">31</a> an uns zu appelli-<br/>
+<span class="lineNumber">269</span>ren und sich zuberuffen macht haben: Aber vor keine <br/>
+<span class="lineNumber">270</span>Städte zu compariren<a class="fnNumber" href="#F_32" id="A_32">32</a> schuldig sein.
+<span class="lineNumber">271</span>13. Zum Dreyzehenden: Wollen wir die Nieder-<br/>
+<span class="lineNumber">272</span>laendern, so sich in unser <button class="entity #glueckstadt place" data-ref="glueckstadt" data-type="place" id="d2e9563">Glückstad</button> nieder lassen, nicht <br/>
+<span class="lineNumber">273</span>allein in unseren Reichen und Fürstenthumben schüt-<br/>
+<span class="lineNumber">274</span>zen und schirmen, sonderen auch bey ihrer Obrigkeit, <br/>
+<span class="lineNumber">275</span>wo unter sie zuvor gesessen, so viel füglich geschehen <br/>
+<span class="lineNumber">276</span>kan, die Beschaffenheit thuen, das sie mit ihrer Haab <br/>
+<span class="lineNumber">277</span>und Güteren nach dero Landen Gerechtichkeit auß-<br/>
+<span class="lineNumber">278</span>gestattet werden.
+<span class="lineNumber">279</span>14. Zum Vierzehenden: Daferne auch noch Plat-<br/>
+<span class="lineNumber">280</span>ze in <button class="entity #glueckstadt place" data-ref="glueckstadt" data-type="place" id="d2e9601">Glückstad</button> ubrig, die noch nicht anderen vorge-<br/>
+<span class="lineNumber">281</span>ben, solchen wollen wir ihnen, so daselbsten zu bauen <br/>
+<span class="lineNumber">282</span>entschlossen, anweisen und einreumen lassen, ihre <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=UDNKGKCKSYVAHBQVAFTJUZXR&amp;fileType=view" id="p-Biiir"> [Blatt: Biii<span class="rectoVerso">r</span> ] </button> <br/>
+<span class="lineNumber">283</span>Heusere und Wohnung darauff zu bauen, ohne ein-<br/>
+<span class="lineNumber">284</span>tzige wieder Erstattung oder Bezahlung des fundi<a class="fnNumber" href="#F_33" id="A_33">33</a> <br/>
+<span class="lineNumber">285</span>und Platzes. Wie sie auch macht haben, Heusere und <br/>
+<span class="lineNumber">286</span>andere unbewegliche Gütere ein und umb die Stad <br/>
+<span class="lineNumber">287</span>vor sich und ihren Erben zu Heuren, zu Kauffen, und <br/>
+<span class="lineNumber">288</span>auff Platzen und Stedten, die ihnen vor diesen zuge-<br/>
+<span class="lineNumber">289</span>theilet gewesen, oder in künfftig solten zugetheilet <br/>
+<span class="lineNumber">290</span>werden, zu bauen, welche Platze, unbewegliche Gü-<br/>
+<span class="lineNumber">291</span>tere und liegende Gründe sie jederzeit als rechte Ei-<br/>
+<span class="lineNumber">292</span>genthumber bewohnen, behalten, und nach ihren <br/>
+<span class="lineNumber">293</span>gefallen alieniren und vorkauffen mügen: Und ob <br/>
+<span class="lineNumber">294</span>auch erwehnete Platze von anderen eingenommen <br/>
+<span class="lineNumber">295</span>und bebauet werden, sollen selbe doch ihnen restitui-<br/>
+<span class="lineNumber">296</span>ret und wieder eingereumet werden.
+<span class="lineNumber">297</span>15. Zum Fünffzehenden: Wan ihnen nicht lenger <br/>
+<span class="lineNumber">298</span>an obspecificirten Orte zu vorbleiben und ihre Hand-<br/>
+<span class="lineNumber">299</span>tierung daselbst zu treiben gefallen würde, sol ihnen <br/>
+<span class="lineNumber">300</span>mit den Ihrigen, was sie dahin gebracht oder daselb-<br/>
+<span class="lineNumber">301</span>sten erworben und gewunnen, ohne eintzige Entgelte-<br/>
+<span class="lineNumber">302</span>nisse wegzuziehen und an Orte wo ihnen geliebet sich <br/>
+<span class="lineNumber">303</span>zubegeben, vorgönnet und zugelassen sein.
+<span class="lineNumber">304</span>16. Zum Sechszehenden: Wir vorgünstigen <br/>
+<span class="lineNumber">305</span>auch hiermit den Niederlandischen Kauffleuten und <br/>
+<span class="lineNumber">306</span>ihren Adhaerenten, das sie in unser <button class="entity #glueckstadt place" data-ref="glueckstadt" data-type="place" id="d2e9717">Glückstad</button> mügen <br/>
+<span class="lineNumber">307</span>Schiffe zimmeren oder auffbauen lassen, und das <br/>
+<span class="lineNumber">308</span>nothwendige Holtz zu den Schiffen in unseren Für-<br/>
+<span class="lineNumber">309</span>stenthumben oder sonsten einkauffen und die Stör<a class="fnNumber" href="#F_34" id="A_34">34</a> <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=PFOIYITUKTDSSSKBBDYSFXPA&amp;fileType=view" id="p-Biiiv"> [Blatt: Biii<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">310</span>hinab bringen lassen, daran sie niemandt sol vorhin-<br/>
+<span class="lineNumber">311</span>deren: Auch ferner macht haben, die auffgebauete <br/>
+<span class="lineNumber">312</span>Schiffe entweder selbsten zubefrachten oder ihres <br/>
+<span class="lineNumber">313</span>gefallens zu alieniren<a class="fnNumber" href="#F_35" id="A_35">35</a> und zu vorkauffen, zur Stedte <br/>
+<span class="lineNumber">314</span>oder auch in frembden Landen, ungeachtet aller <br/>
+<span class="lineNumber">315</span>Rechten, statuten, Gebreuchen und Gewonheiten, so <br/>
+<span class="lineNumber">316</span>dagegen sein und streiten solten.
+<span class="lineNumber">317</span><a class="fnNumber" href="#F_d" id="A_d">d</a>17. Zum Siebenzehenden: Sol ihnen auch frey <br/>
+<span class="lineNumber">318</span>stehen und zu gelassen sein, zu erbauung ih-<br/>
+<span class="lineNumber">319</span>rer Heuser unnd Schiffe auß unseren Kö-<br/>
+<span class="lineNumber">320</span>nigreich <button class="entity #norwegen_koenigreich place" data-ref="norwegen_koenigreich" data-type="place" id="d2e9783">Norwegen</button> Eichen Holtz umb bil-<br/>
+<span class="lineNumber">321</span>liche Bezalung abzuholen, dero behuff sie <br/>
+<span class="lineNumber">322</span>dann einen Schein von unseren Gubernatorn forde-<br/>
+<span class="lineNumber">323</span>ren und in <button class="entity #norwegen_koenigreich place" data-ref="norwegen_koenigreich" data-type="place" id="d2e9803">Norwegen</button> vorzeigen sollen, das sie zu der <br/>
+<span class="lineNumber">324</span><button class="entity #glueckstadt place" data-ref="glueckstadt" data-type="place" id="d2e9807">Glückstad</button> gesessen.
+<span class="lineNumber">325</span>18. Zum Achtzehenden: Geben und lassen <button class="entity #christian_iv person" data-ref="christian_iv" data-type="person" id="d2e9815">wir</button> <br/>
+<span class="lineNumber">326</span>auch unsere Erben, Nachkommen und Successoren <br/>
+<span class="lineNumber">327</span>gnedigst zu, das sie das freye Exercitium ihrer Religion <br/>
+<span class="lineNumber">328</span>in ihrer Sprach, auff ihren Kosten, ohne eintzige vor-<br/>
+<span class="lineNumber">329</span>hinderung in aller Erbarkeit und stille haben und <br/>
+<span class="lineNumber">330</span>treiben mügen. Es sol ihnen auch hirmit zugelassen <br/>
+<span class="lineNumber">331</span>sein, eine Schule auff ihren Kosten anzurichten und <br/>
+<span class="lineNumber">332</span>darinne ihre Kinder im Lesen und Schreiben, Rech-<br/>
+<span class="lineNumber">333</span>nen und derogleichen zu Unterrichten: Es soll ihnen <br/>
+<span class="lineNumber">334</span>auch frey stehen bey ihrer Dracht in Kleideren und <br/>
+<span class="lineNumber">335</span>anderen Gewonheiten und Gebreuchen in Hoch-<br/>
+<span class="lineNumber">336</span>zeiten, Kinder Tauffen, Begrebnussen, Gästereyen, <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=CDMNRREANHBDOOTIOVPFGMYD&amp;fileType=view" id="p-[Bivr]"> [Blatt: [Bi<span class="rectoVerso">v</span><span class="rectoVerso">r</span>] ] </button> <br/>
+<span class="lineNumber">337</span>Zusammenkunfften und derogleichen<a class="fnNumber" href="#F_e" id="A_e">e</a> zuvorharren, <br/>
+<span class="lineNumber">338</span>auch sonsten in Speise, Dranck und Kleidung das, <br/>
+<span class="lineNumber">339</span>was sie bezahlen können zu geniessen und zugebrau-<br/>
+<span class="lineNumber">340</span>chen.
+<span class="lineNumber">341</span>19. Zum Neunzehenden: Wollen wir auch unsere <br/>
+<span class="lineNumber">342</span>Erben und Nachkommen, sothane Bauren unnd <br/>
+<span class="lineNumber">343</span>Haußleute, so auß <button class="entity #niederlande_vereinigte place" data-ref="niederlande_vereinigte" data-type="place" id="d2e9887">Holland</button> und anderen frembden <br/>
+<span class="lineNumber">344</span>Orten herkommend, ihre gelegenheit nach in Glück-<br/>
+<span class="lineNumber">345</span>stad nicht bequemblich können accomodiret werden, <br/>
+<span class="lineNumber">346</span>und sich nach unser Wiltniß, <button class="entity #krempermarsch place" data-ref="krempermarsch" data-type="place" id="d2e9902">Cremper</button> oder <button class="entity #wilstermarsch place" data-ref="wilstermarsch" data-type="place" id="d2e9905">Wilster-</button><br/>
+<span class="lineNumber">347</span><button class="entity #wilstermarsch place" data-ref="wilstermarsch" data-type="place" id="d2e9905">marsch</button><a class="fnNumber" href="#F_36" id="A_36">36</a> nieder zu lassen entschlossen, gnedigst vor un-<br/>
+<span class="lineNumber">348</span>sere Unterthanen auff und annehmen, und gleich un-<br/>
+<span class="lineNumber">349</span>seren Eingebornen schützen und schirmen, ohne je-<br/>
+<span class="lineNumber">350</span>mandts an seinen Gewissen eintrag zu thuen oder zu <br/>
+<span class="lineNumber">351</span>den ublichen Exercitio religionis zu zwingen, das sie <br/>
+<span class="lineNumber">352</span>unter unseren gnedigsten Schutz und protection frey, <br/>
+<span class="lineNumber">353</span>sicher und ungehindert (jedoch ohne einen privaten <br/>
+<span class="lineNumber">354</span>Gottesdienst anzurichten) Wohnen, in aller still <br/>
+<span class="lineNumber">355</span>ein Erlich und Bürgerlich Leben führen und ihren <br/>
+<span class="lineNumber">356</span>Handel und Handtierung treiben, und nur allein <br/>
+<span class="lineNumber">357</span>das Exercitium ihrer Religion in der Glückstadt frey <br/>
+<span class="lineNumber">358</span>haben mügen.
+<span class="lineNumber">359</span>20. Zum Zwantzigsten: Den genandten Menno-<br/>
+<span class="lineNumber">360</span>niten, so sich in etzliche Sachen beschweren, Als in <br/>
+<span class="lineNumber">361</span>jure jurando<a class="fnNumber" href="#F_37" id="A_37">37</a>, armorum usu<a class="fnNumber" href="#F_38" id="A_38">38</a> & paedobabtismo<a class="fnNumber" href="#F_39" id="A_39">39</a>, wollen <br/>
+<span class="lineNumber">362</span>wir gnedigst zu lassen, auff das sie ihre Religion und <br/>
+<span class="lineNumber">363</span>Conscientz<a class="fnNumber" href="#F_40" id="A_40">40</a> frey beleben, daß sie mit keinen Eydt-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=JEJTDMSMCBSGBGLGMVMDKTYW&amp;fileType=view" id="p-[Bivv]"> [Blatt: [Bi<span class="rectoVerso">v</span><span class="rectoVerso">v</span>] ] </button><br/>
+<span class="lineNumber">364</span>schweren, Gebrauch von Waffen oder Tauffen von <br/>
+<span class="lineNumber">365</span>ihre Kinder sollen beschweret, sonderen das sie an <br/>
+<span class="lineNumber">366</span>stat des Eydes mit ihren einfältig Ja unnd Nein, <br/>
+<span class="lineNumber">367</span>und ein Platz von die Waffen zu führen mit ein ge-<br/>
+<span class="lineNumber">368</span>bürliches Jahrgeldt, wan die Noht solches erfordert, <br/>
+<span class="lineNumber">369</span>jeders vormügen nach sollen frey sein und bleiben.<a class="fnNumber" href="#F_41" id="A_41">41</a>
+<span class="lineNumber">370</span>21. Zum Ein und Zwantzigsten: Wir wollen ihnen <br/>
+<span class="lineNumber">371</span>ein Platz vor der Stad von ungefehr zwey Morgen <br/>
+<span class="lineNumber">372</span>Landes zu einen Kirchhoffe anweisen, dar sie ihre <br/>
+<span class="lineNumber">373</span>Todten hingraben, auch von anderen Örteren dar-<br/>
+<span class="lineNumber">374</span>hin bringen mügen, sollen auch deßswegen keinen Zol <br/>
+<span class="lineNumber">375</span>oder Unpflicht<a class="fnNumber marginright" href="#F_f" id="A_f">f </a><a class="fnNumber" href="#F_42" id="A_42">42</a> geben und mügen von denselbigen <br/>
+<span class="lineNumber">376</span>Platze so viel zu ihren Kirchhoffe, als sie nötig erach-<br/>
+<span class="lineNumber">377</span>ten, gebrauchen und beplacken<a class="fnNumber" href="#F_43" id="A_43">43</a>, das ubrige können <br/>
+<span class="lineNumber">378</span>sie unter sich theilen, Garten, Heuser und Have dar-<br/>
+<span class="lineNumber">379</span>auff setzen, sonder einige Grundheur<a class="fnNumber" href="#F_44" id="A_44">44</a>: Jedoch das sie <br/>
+<span class="lineNumber">380</span>eins vor allemahl Funfftzig Reichs Thaler darfür <br/>
+<span class="lineNumber">381</span>abgeben und entrichten, damit sollen sie die possession <br/>
+<span class="lineNumber">382</span>so lange sie in der <button class="entity #glueckstadt place" data-ref="glueckstadt" data-type="place" id="d2e10078">Glückstad</button> wohnen versichert sein.
+<span class="lineNumber">383</span>22. Zum Zwey und Zwanzigsten: Es sol ihnen <br/>
+<span class="lineNumber">384</span>auch frey stehen, Testamenta zu machen und uber ih-<br/>
+<span class="lineNumber">385</span>re Gütere beweglich oder unbeweglich zu disponiren. <br/>
+<span class="lineNumber">386</span>Nach ihrer tödlichen Hintrit sollen die Gütere, da ein <br/>
+<span class="lineNumber">387</span>Testament gemachet, den eingesetzten Erben oder, da <br/>
+<span class="lineNumber">388</span>keines vorhanden, denen, so ab in Testato<a class="fnNumber" href="#F_45" id="A_45">45</a> vormügen <br/>
+<span class="lineNumber">389</span>der Rechten darzu befüget, sie wohnen in oder ausser-<br/>
+<span class="lineNumber">390</span>halb unser Reiche und Fürstenthumbe, gefolget wer-<button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=HSZTZPCVPMOMUQKOQVJRHMGF&amp;fileType=view" id="p-Cr"> [Blatt: C<span class="rectoVerso">r</span> ] </button><br/>
+<span class="lineNumber">391</span>den. Infall sich auch keine Erben so bald angeben <br/>
+<span class="lineNumber">392</span>würden, und der Vorstorbene keine Vorordnung, wie <br/>
+<span class="lineNumber">393</span>es mit den Gütern zu halten, gemacht hette, sol nicht <br/>
+<span class="lineNumber">394</span>Bürgermeister und Raht oder der Stad Voget sich <br/>
+<span class="lineNumber">395</span>deroselben anmassen, Sonderen es sollen die Depu-<br/>
+<span class="lineNumber">396</span>tirte der Nation die Güter inventiren<a class="fnNumber" href="#F_46" id="A_46">46</a>, und den Erben, <br/>
+<span class="lineNumber">397</span>so sich hernach angeben werden, zum besten bewah-<br/>
+<span class="lineNumber">398</span>ren.
+<span class="lineNumber">399</span>23. Zum Drey und Zwantzigsten: Imfall auch <br/>
+<span class="lineNumber">400</span>eintzige andere frembde Nationen in unser <button class="entity #glueckstadt place" data-ref="glueckstadt" data-type="place" id="d2e10159">Glückstad</button> <br/>
+<span class="lineNumber">401</span>wohnende, und specialich die <button class="entity #portugal_koenigreich place" data-ref="portugal_koenigreich" data-type="place" id="d2e10164">Portugisische</button> Nation <br/>
+<span class="lineNumber">402</span>Hebräischer Religion, einige andere Freyheiten als <br/>
+<span class="lineNumber">403</span>hirein begriffen: Nemblich von vollenkommenes Ge-<br/>
+<span class="lineNumber">404</span>leit und securitet Articulo 1. und 2. ihrer Privilegien <br/>
+<span class="lineNumber">405</span>sub dato Glückstad den 19. Junii Anno 1630. Begrif-<br/>
+<span class="lineNumber">406</span>fen und Außgetruckt, die sich all schon von uns erlan-<br/>
+<span class="lineNumber">407</span>get, oder in künfftig erlangen müchten, vor sich het-<br/>
+<span class="lineNumber">408</span>ten: Wollen wir ihnen, die <button class="entity #niederlande_vereinigte place" data-ref="niederlande_vereinigte" data-type="place" id="d2e10206">Niederländische</button> Nation <br/>
+<span class="lineNumber">409</span>auch deren zugeniessen und sich zu gebrauchen vor-<br/>
+<span class="lineNumber">410</span>gönnet und Krafft dieses zugelassen haben dero-<br/>
+<span class="lineNumber">411</span>massen, als wann sie ordentlich alhir specificiret und <br/>
+<span class="lineNumber">412</span>Außgedruckt wehren.<a class="fnNumber" href="#F_47" id="A_47">47</a>
+<span class="lineNumber">413</span>24. Zum Vier und Zwantzigsten: Wie wir dann <br/>
+<span class="lineNumber">414</span>auch wollen das obgesetzte unsere Privilegia in allen <br/>
+<span class="lineNumber">415</span>Articuln, Clausuln und Puncten, von uns, so wol un-<br/>
+<span class="lineNumber">416</span>seren Erben und Nachkommen in unseren Fürsten-<br/>
+<span class="lineNumber">417</span>thumben und Landen, principaliter aber in unserer <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=QJDIRCIXVVXIBZAMQDBTKGBG&amp;fileType=view" id="p-Cv"> [Blatt: C<span class="rectoVerso">v</span> ] </button> <br/>
+<span class="lineNumber">418</span><button class="entity #glueckstadt place" data-ref="glueckstadt" data-type="place" id="d2e10262">Glückstad</button>, den Niederlandern auch ihren Adhaeren-<br/>
+<span class="lineNumber">419</span>ten und familien allezeit steiff, fest und unvorbrüch-<br/>
+<span class="lineNumber">420</span>lich, wie wir ihnen zugesaget und vorsprochen, sollen <br/>
+<span class="lineNumber">421</span>gehalten werden: Und da uber das einer oder der <br/>
+<span class="lineNumber">422</span>ander Articul dieser unser Privilegien einige Interpre-<br/>
+<span class="lineNumber">423</span>tation benötiget, sol selbe den Niederlanderen, ihren <br/>
+<span class="lineNumber">424</span>familien und Adhaerenten zu ersprießlichen Besten <br/>
+<span class="lineNumber">425</span>von uns, unseren Erben und successoren beschehen <br/>
+<span class="lineNumber">426</span>und inseriret werden.
+<span class="lineNumber">427</span>25. Zum Fünff und Zwantzigsten: Wie <button class="entity #christian_iv person" data-ref="christian_iv" data-type="person" id="d2e10302">wir</button> dan <br/>
+<span class="lineNumber">428</span>auch hirbey und in Krafft dieses allen unseren Kö-<br/>
+<span class="lineNumber">429</span>niglichen Botmessigkeiten Subjicirten und Angehöri-<br/>
+<span class="lineNumber">430</span>gen, als Stadhaltern, Ambtleuten, Gubernatorn, <br/>
+<span class="lineNumber">431</span>Rahten, Voigten, Obrigkeiten, und sonsten allen <br/>
+<span class="lineNumber">432</span>und jeden unsern Ambtßtragern, Ernstlichen injungi-<br/>
+<span class="lineNumber">433</span>ren und befehlen, so wol in Krieges als auch in Frie-<br/>
+<span class="lineNumber">434</span>denszeiten dieser unser der <button class="entity #niederlande_vereinigte place" data-ref="niederlande_vereinigte" data-type="place" id="d2e10340">Niederlandische</button> Nation <br/>
+<span class="lineNumber">435</span>mitgetheilte Privilegia, wie sie hier oben der länge <br/>
+<span class="lineNumber">436</span>nach gesetzt und begriffen, getreu und fleissig in acht <br/>
+<span class="lineNumber">437</span>zu nehmen, zu manuteniren<a class="fnNumber" href="#F_48" id="A_48">48</a>, und in viridi observantia<a class="fnNumber" href="#F_49" id="A_49">49</a> <br/>
+<span class="lineNumber">438</span>zu halten.
+<span class="lineNumber">439</span>26. Zum Sechs und Zwantzigsten: Schließli-<br/>
+<span class="lineNumber">440</span>chen wollen wir, das dieser der <button class="entity #niederlande_vereinigte place" data-ref="niederlande_vereinigte" data-type="place" id="d2e10370">Niederlandische</button> Nati-<br/>
+<span class="lineNumber">441</span>on und ihren Adhaerenten und mit beschriebenen er-<br/>
+<span class="lineNumber">442</span>theilete Privilegia und Indulta<a class="fnNumber" href="#F_50" id="A_50">50</a>, von uns, unseren Er-<br/>
+<span class="lineNumber">443</span>ben und Nachkommen in allen Clausuln und Puncten <br/>
+<span class="lineNumber">444</span>steif und feste gehalten werden: Derowegen wir dan <button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://files.transkribus.eu/Get?id=YPBBAIABSNVXPUJZOMVVWDDJ&amp;fileType=view" id="p-[Cir]"> [Blatt: [Ci<span class="rectoVerso">r</span>] ] </button> <br/>
+<span class="lineNumber">445</span>alle Geist- und Weltliche Rechte, Gesetze, Statuten, <br/>
+<span class="lineNumber">446</span>Ordnungen, Decreta und Gebreuche, wie die Namen <br/>
+<span class="lineNumber">447</span>haben, so diesen unseren ertheileten Privilegiis Con-<br/>
+<span class="lineNumber">448</span>trariiren oder Derogiren möchten, Krafft habender <br/>
+<span class="lineNumber">449</span>Königlicher Macht und Gewalt, vor <button class="entity #christian_iv person" data-ref="christian_iv" data-type="person" id="d2e10418">uns</button>, auch un-<br/>
+<span class="lineNumber">450</span>seren Erben und Nachkommen, annihiliren, Caßiren, <br/>
+<span class="lineNumber">451</span>annulliren, und hirmit auffheben in totum, sampt und <br/>
+<span class="lineNumber">452</span>sonders, kein außgeschlossen. Und bleiben ihnen je-<br/>
+<span class="lineNumber">453</span>derzeit mit Königl<span class="ex">[icher]</span> Gnad und geneigten Willen wol <br/>
+<span class="lineNumber">454</span>zu gethan. Wie wir uns solches dan auch gnedigst <br/>
+<span class="lineNumber">455</span>erbieten, zu fortsetzung der Commercien, und auf <br/>
+<span class="lineNumber">456</span>begebene Falle, diese unsere Privilegia zu extendiren <br/>
+<span class="lineNumber">457</span>und zu vormehren, und da es nötig, mehr in ein und <br/>
+<span class="lineNumber">458</span>ander Articul zu addiren. Dessen zu mehrer Vorsiche-<br/>
+<span class="lineNumber">459</span>rung haben <button class="entity #christian_iv person" data-ref="christian_iv" data-type="person" id="d2e10461">wir</button> diese gegenwertige Privilegia mit <br/>
+<span class="lineNumber">460</span>unserer Hand subscription und Königlichen Insiegel <br/>
+<span class="lineNumber">461</span>bekrefftiget. Gegeben in unser Veste <button class="entity #glueckstadt place" data-ref="glueckstadt" data-type="place" id="d2e10469">Glückstad</button>, den <br/>
+<span class="lineNumber">462</span> 17. Octob<span class="ex">[ris]</span> Anno 1631.

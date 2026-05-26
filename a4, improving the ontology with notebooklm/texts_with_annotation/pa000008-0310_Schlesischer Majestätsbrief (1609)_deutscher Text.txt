@@ -1,0 +1,379 @@
+<span class="lineNumber">1</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://iiif.onb.ac.at/images/ABO/Z207564504/00000005/full/full/0/default.jpg" id="p-A1r"> [Blatt: A1<span class="rectoVerso">r</span> ] </button>Deß Allerdurchleuch-<br/>
+<span class="lineNumber">2</span>tigisten, Großmechtigisten Fürsten unnd <br/>
+<span class="lineNumber">3</span>Herrn, Herrn <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e588">Rudolphi deß Andern</button>, Erwöhlten <br/>
+<span class="lineNumber">4</span>Römischen Kaysers, auch zu <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e594">Hungern</button> und <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e597">Behaimb</button> <br/>
+<span class="lineNumber">5</span>Königs, uber das freye Exercitium Religionis Aug-<br/>
+<span class="lineNumber">6</span>spurgischer Confession im Lande <button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e608">Schlesien</button> <br/>
+<span class="lineNumber">7</span>Allergnedigste Confir-<br/>
+<span class="lineNumber">8</span>mation, <br/>
+<span class="lineNumber">9</span> <br/>
+<span class="lineNumber">10</span>Der Herrn Fürsten und Stände <br/>
+<span class="lineNumber">11</span>Abgesandten, <br/>
+<span class="lineNumber">12</span>Dem Wolgebornen, Auch <br/>
+<span class="lineNumber">13</span>Edlen, Gestrengen, Ehrnvesten, Hochge-<br/>
+<span class="lineNumber">14</span>lehrten, Wolweisen Herrn, Herrn <button class="entity #promnitz_weighart person" data-ref="promnitz_weighart" data-type="person" id="d2e637">Weigharten von </button><br/>
+<span class="lineNumber">15</span><button class="entity #promnitz_weighart person" data-ref="promnitz_weighart" data-type="person" id="d2e637">Promnitz</button>, Freyherrn auff <button class="entity #sorau_herrschaft place" data-ref="sorau_herrschaft" data-type="place" id="d2e642">Sorau</button>, <button class="entity #triebel_herrschaft place" data-ref="triebel_herrschaft" data-type="place" id="d2e645">Triebel</button>, <button class="entity #pless_herrschaft place" data-ref="pless_herrschaft" data-type="place" id="d2e648">Pleß</button>, <button class="entity #hoyerswerda_herrschaft place" data-ref="hoyerswerda_herrschaft" data-type="place" id="d2e651">Hoyerswer-</button><br/>
+<span class="lineNumber">16</span><button class="entity #hoyerswerda_herrschaft place" data-ref="hoyerswerda_herrschaft" data-type="place" id="d2e651">da</button> und <button class="entity #falkenberg_herrschaft place" data-ref="falkenberg_herrschaft" data-type="place" id="d2e659">Falckenberg</button>; <button class="entity #zedlitz_hans_georg person" data-ref="zedlitz_hans_georg" data-type="person" id="d2e662">Hans Georgen von Zedlitz</button> auff <button class="entity #stroppen place" data-ref="stroppen" data-type="place" id="d2e665">Strop-</button><br/>
+<span class="lineNumber">17</span><button class="entity #stroppen place" data-ref="stroppen" data-type="place" id="d2e665">pen</button>; <button class="entity #burghauss_sigismund person" data-ref="burghauss_sigismund" data-type="person" id="d2e672">Sigmunden von Burghauß</button> auff <button class="entity #stoltz place" data-ref="stoltz" data-type="place" id="d2e675">Stoltz</button>; <button class="entity #geissler_andreas person" data-ref="geissler_andreas" data-type="person" id="d2e678">Andreae Geiß-</button><br/>
+<span class="lineNumber">18</span><button class="entity #geissler_andreas person" data-ref="geissler_andreas" data-type="person" id="d2e678">lern</button>, beyder Rechten Doctorn, Fürstlichem <button class="entity #liegnitz_fuerstentum place" data-ref="liegnitz_fuerstentum" data-type="place" id="d2e687">Lignitzischen</button>, <button class="entity #brieg_fuerstentum place" data-ref="brieg_fuerstentum" data-type="place" id="d2e690">Brie-</button><br/>
+<span class="lineNumber">19</span><button class="entity #brieg_fuerstentum place" data-ref="brieg_fuerstentum" data-type="place" id="d2e690">gischen</button> Rhat und der Herrn Fürsten und Stände in <button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e697">Schlesien</button> <br/>
+<span class="lineNumber">20</span>Landsbestelten, und <button class="entity #otter_wenzel person" data-ref="otter_wenzel" data-type="person" id="d2e702">Wentzel Ottern</button>, deß Rahts zur <button class="entity #schweidnitz place" data-ref="schweidnitz" data-type="place" id="d2e705">Schweid-</button><br/>
+<span class="lineNumber">21</span><button class="entity #schweidnitz place" data-ref="schweidnitz" data-type="place" id="d2e705">nitz</button>, den Acht und Zwantzigsten Augusti inste-<br/>
+<span class="lineNumber">22</span>henden 1609. Jahres <br/>
+<span class="lineNumber">23</span>ertailet <br/>
+<span class="lineNumber">24</span>Im Jahr 1609.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">25</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://iiif.onb.ac.at/images/ABO/Z207564504/00000006/full/full/0/default.jpg" id="p-A1v"> [Blatt: A1<span class="rectoVerso">v</span> ] </button>Mayestat und Privilegium uber <br/>
+<span class="lineNumber">26</span>das Freye Exercitium der Augspurgischen <br/>
+<span class="lineNumber">27</span>Confession deß Landes <button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e735">Schlesien</button>.<span class="arrow"><a href="#jump">↑</a></span>
+<span class="lineNumber">28</span>Wir <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e743">Rudolff der Ander</button> von <br/>
+<span class="lineNumber">29</span>Gottes Gnaden Erwöhlter Römi-<br/>
+<span class="lineNumber">30</span>scher Kayser, zu allen zeiten Mehrer deß <br/>
+<span class="lineNumber">31</span>Reichs inn <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e757">Germanien</button>, zu <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e760">Hungern</button>, <br/>
+<span class="lineNumber">32</span><button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e764">Behaimb</button>, <button class="entity #dalmatien place" data-ref="dalmatien" data-type="place" id="d2e767">Dalmatien</button>, <button class="entity #kroatien_koenigreich place" data-ref="kroatien_koenigreich" data-type="place" id="d2e770">Croatien</button> unnd <br/>
+<span class="lineNumber">33</span><button class="entity #slawonien place" data-ref="slawonien" data-type="place" id="d2e775">Sclavonien</button> etc. König, Ertzhertzog zu <button class="entity #oesterreich_erzherzogtum place" data-ref="oesterreich_erzherzogtum" data-type="place" id="d2e778">Oesterreich</button>, Her-<br/>
+<span class="lineNumber">34</span>tzog zu <button class="entity #burgund_herzogtum place" data-ref="burgund_herzogtum" data-type="place" id="d2e787">Burgund</button>, Marggraff zu <button class="entity #maehren_markgrafschaft place" data-ref="maehren_markgrafschaft" data-type="place" id="d2e790">Mährern</button>, Hertzog <br/>
+<span class="lineNumber">35</span>zu <button class="entity #luxemburg_herzogtum place" data-ref="luxemburg_herzogtum" data-type="place" id="d2e796">Lützenburg</button>, in <button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e799">Schlesien</button>, zu <button class="entity #brabant_herzogtum place" data-ref="brabant_herzogtum" data-type="place" id="d2e802">Braband</button>, zu <button class="entity #steiermark_herzogtum place" data-ref="steiermark_herzogtum" data-type="place" id="d2e805">Steyr</button>, <br/>
+<span class="lineNumber">36</span><button class="entity #kaernten_herzogtum place" data-ref="kaernten_herzogtum" data-type="place" id="d2e810">Kärndten</button>, <button class="entity #krain_herzogtum place" data-ref="krain_herzogtum" data-type="place" id="d2e813">Crain</button>, <button class="entity #wuerttemberg_herzogtum place" data-ref="wuerttemberg_herzogtum" data-type="place" id="d2e816">Wirttemberg</button> und <button class="entity #teck_herzogtum place" data-ref="teck_herzogtum" data-type="place" id="d2e819">Teckh</button> etc. Fürst <br/>
+<span class="lineNumber">37</span>zu <button class="entity #schwaben_reichslandvogtei place" data-ref="schwaben_reichslandvogtei" data-type="place" id="d2e824">Schwaben</button>, Marggraff zu <button class="entity #lausitz place" data-ref="lausitz" data-type="place" id="d2e828">Lausitz</button>, Gefürster <br/>
+<span class="lineNumber">38</span>Graff zu <button class="entity #habsburg_grafschaft place" data-ref="habsburg_grafschaft" data-type="place" id="d2e833">Habspurg</button>, zu <button class="entity #tirol_grafschaft place" data-ref="tirol_grafschaft" data-type="place" id="d2e836">Tyroll</button>, zu <button class="entity #pfirt_grafschaft place" data-ref="pfirt_grafschaft" data-type="place" id="d2e839">Pfirt</button>, zu <button class="entity #kyburg_grafschaft place" data-ref="kyburg_grafschaft" data-type="place" id="d2e842">Kiburg</button> <br/>
+<span class="lineNumber">39</span>und zu <button class="entity #goerz_grafschaft place" data-ref="goerz_grafschaft" data-type="place" id="d2e848">Görtz</button>, Landgraff inn <button class="entity #elsass place" data-ref="elsass" data-type="place" id="d2e851">Elsaß</button>, Marggraff deß <br/>
+<span class="lineNumber">40</span>Heiligen Römischen Reichs <button class="entity #oesterreich_erzherzogtum place" data-ref="oesterreich_erzherzogtum" data-type="place" id="d2e856">ob der Ens</button> und zu <button class="entity #burgau_markgrafschaft place" data-ref="burgau_markgrafschaft" data-type="place" id="d2e859">Bur-</button><br/>
+<span class="lineNumber">41</span><button class="entity #burgau_markgrafschaft place" data-ref="burgau_markgrafschaft" data-type="place" id="d2e859">gau</button>, Herr auff der <button class="entity #windische_mark place" data-ref="windische_mark" data-type="place" id="d2e867">Windischen Marckh</button>, zu <button class="entity #portenau place" data-ref="portenau" data-type="place" id="d2e870">Porte-</button><br/>
+<span class="lineNumber">42</span><button class="entity #portenau place" data-ref="portenau" data-type="place" id="d2e870">nau</button> und <button class="entity #salins_herrschaft place" data-ref="salins_herrschaft" data-type="place" id="d2e877">Salimß</button> etc.
+<span class="lineNumber">43</span>Bekennen für uns, unsere Erben unnd <br/>
+<span class="lineNumber">44</span>nachkommende Könige zu <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e887">Behaimb</button> offentlich mit die-<br/>
+<span class="lineNumber">45</span>sem Brieff: Demnach unsere Getreue und Gehorsa-<br/>
+<span class="lineNumber">46</span>me der Augspurgischen Confession zugethane Fürsten <br/>
+<span class="lineNumber">47</span>und Stende in <button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e905">Ober und Nieder Schlesien</button> verwiche-<br/>
+<span class="lineNumber">48</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://iiif.onb.ac.at/images/ABO/Z207564504/00000007/full/full/0/default.jpg" id="p-A2r"> [Blatt: A2<span class="rectoVerso">r</span> ] </button>ner zeit durch ihre Gesandten, Den Wolgebornen und <br/>
+<span class="lineNumber">49</span>die Ehrnveste, auch Gelährte und Ersame unsere liebe <br/>
+<span class="lineNumber">50</span>getreue: <button class="entity #promnitz_weighart person" data-ref="promnitz_weighart" data-type="person" id="d2e919">Weickharten von Promnitz</button>, Frey-Herrn zu <br/>
+<span class="lineNumber">51</span><button class="entity #pless_herrschaft place" data-ref="pless_herrschaft" data-type="place" id="d2e924">Pleß</button> auff <button class="entity #sorau_herrschaft place" data-ref="sorau_herrschaft" data-type="place" id="d2e927">Sorau</button>, <button class="entity #triebel_herrschaft place" data-ref="triebel_herrschaft" data-type="place" id="d2e930">Triebel</button> und <button class="entity #hoyerswerda_herrschaft place" data-ref="hoyerswerda_herrschaft" data-type="place" id="d2e933">Hoyerswerda</button>; <button class="entity #zedlitz_hans_georg person" data-ref="zedlitz_hans_georg" data-type="person" id="d2e936">Hans </button><br/>
+<span class="lineNumber">52</span><button class="entity #zedlitz_hans_georg person" data-ref="zedlitz_hans_georg" data-type="person" id="d2e936">Georgen von Zedlitz</button> auff <button class="entity #stroppen place" data-ref="stroppen" data-type="place" id="d2e942">Stroppen</button>; <button class="entity #burghauss_sigismund person" data-ref="burghauss_sigismund" data-type="person" id="d2e945">Sigmunden </button><br/>
+<span class="lineNumber">53</span><button class="entity #burghauss_sigismund person" data-ref="burghauss_sigismund" data-type="person" id="d2e945">von Burghaus</button> auff <button class="entity #stoltz place" data-ref="stoltz" data-type="place" id="d2e950">Stoltz</button>; <button class="entity #geissler_andreas person" data-ref="geissler_andreas" data-type="person" id="d2e953">Andreas Geißlern</button>, der <br/>
+<span class="lineNumber">54</span>Rechten Doctorn, und <button class="entity #otter_wenzel person" data-ref="otter_wenzel" data-type="person" id="d2e958">Wentzel Ottern</button> Unter andern <br/>
+<span class="lineNumber">55</span>deß Landes beschwerden züförderist unnd fürnembli-<br/>
+<span class="lineNumber">56</span>chen von Uns als Regirendem Könige zu <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e970">Behaimb</button> <br/>
+<span class="lineNumber">57</span>und Obristen Hertzoge inn <button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e975">Schlesien</button> aller untertheni-<br/>
+<span class="lineNumber">58</span>gist gebetten, das sie bey der Augspurgischen Confession <br/>
+<span class="lineNumber">59</span>dero freyen Exercitio gelassen unnd dessen von uns ge-<br/>
+<span class="lineNumber">60</span>nugsam versichert werden möchten; Wir auch sie un-<br/>
+<span class="lineNumber">61</span>derm dato den 16. Tag deß Monats Decembris nechst <br/>
+<span class="lineNumber">62</span>verflossenen Jahres mit mehrer außführung gnedigist <br/>
+<span class="lineNumber">63</span>dahin beschieden, Daß wann ein jeder bey dem jenigen, <br/>
+<span class="lineNumber">64</span>wessen er befügt und berechtigt, verbliebe und nicht da-<br/>
+<span class="lineNumber">65</span>von gedrungen würde, wir ihnen nachmals keine Unbil-<br/>
+<span class="lineNumber">66</span>ligkeit zu zufügen verstatten, sondern es in Glaubens sa-<br/>
+<span class="lineNumber">67</span>chen aller dings bey deme, wie es bey unsern Hochge-<br/>
+<span class="lineNumber">68</span>ehrten Vorfahrn, als Kaysers <button class="entity #ferdinand_i person" data-ref="ferdinand_i" data-type="person" id="d2e1030">Ferdinandi</button> und <button class="entity #maximilian_ii person" data-ref="maximilian_ii" data-type="person" id="d2e1033">Maxi-</button><br/>
+<span class="lineNumber">69</span><button class="entity #maximilian_ii person" data-ref="maximilian_ii" data-type="person" id="d2e1033">miliani</button>, zeiten gehalten worden, Und wie wir es bey un-<br/>
+<span class="lineNumber">70</span>ser angehenden Regierung befunden, in gnaden beruhen <br/>
+<span class="lineNumber">71</span>lassen wolten.
+<span class="lineNumber">72</span>Und aber Uns bey dieser jetzigen Absendung sie <br/>
+<span class="lineNumber">73</span>ferner underthenigst fürbringen lassen, das ihnen solche <br/>
+<span class="lineNumber">74</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://iiif.onb.ac.at/images/ABO/Z207564504/00000008/full/full/0/default.jpg" id="p-A2v"> [Blatt: A2<span class="rectoVerso">v</span> ] </button>Resolution darumb beschwerlichen fallen wolte, weil <br/>
+<span class="lineNumber">75</span>dieselbte Conditioniret, unnd dadurch den Catholi-<br/>
+<span class="lineNumber">76</span>schen der Augspurgischen Confessions verwandten <br/>
+<span class="lineNumber">77</span>Stritt zu erregen anlaß gegeben würde. Mit under-<br/>
+<span class="lineNumber">78</span>thenigster Bitte, das in puncto Religionis, ebener mas-<br/>
+<span class="lineNumber">79</span>sen, wie wir gegen unsern Ständen deß Königreichs <br/>
+<span class="lineNumber">80</span><button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1083">Behaimb</button>, sub utraq[ue], uns gnedigist resolviret,<a class="fnNumber" href="#F_1" id="A_1">1</a> auch <br/>
+<span class="lineNumber">81</span>ihnen, den gehorsamben Fürsten unnd Ständen, mit <br/>
+<span class="lineNumber">82</span>gleichmässiger satisfaction allergnedigist uns zu erzei-<br/>
+<span class="lineNumber">83</span>gen geruhen wolten.
+<span class="lineNumber">84</span>Wann Wir dann gnedigist angesehen solch unse-<br/>
+<span class="lineNumber">85</span>rer gehorsamen und getreuen Augspurgischer Confes-<br/>
+<span class="lineNumber">86</span>sions verwandten Fürsten und Stände underthenig-<br/>
+<span class="lineNumber">87</span>stes flehen und bitten, bey nebens auch war genommen <br/>
+<span class="lineNumber">88</span>die vielfaltige und grosse Beschwerungen, so wie hien <br/>
+<span class="lineNumber">89</span>und wider also im Lande <button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e1134">Schlesien</button> aus des Religions <br/>
+<span class="lineNumber">90</span>strittigkeiten erwachsen unnd biß dato sich erhalten ha-<br/>
+<span class="lineNumber">91</span>ben, Hinfüro auch nach mehr (wo fern, wie biß dieser zeit <br/>
+<span class="lineNumber">92</span>beschehen, ein theil kegen dem andern sein Recht und Ge-<br/>
+<span class="lineNumber">93</span>rechtigkeit, welche sich kegen einander vor Alters wie <br/>
+<span class="lineNumber">94</span>auch vor antrettung unserer Regierung zu Stifften, <br/>
+<span class="lineNumber">95</span>Clöstern, Kirchen, Consistoriis, Renten, Zehenden, ein-<br/>
+<span class="lineNumber">96</span>komen und allen andern Zugehörungen, sive ex prima <br/>
+<span class="lineNumber">97</span>fundatione aut ex iure patronatus vel alio quovis <br/>
+<span class="lineNumber">98</span>titulo, wie solcher erdacht, auffgesucht unnd herfür ge-<br/>
+<span class="lineNumber">99</span>zogen werden künte und möchte, gehabt, im petitorio <br/>
+<span class="lineNumber">100</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://iiif.onb.ac.at/images/ABO/Z207564504/00000009/full/full/0/default.jpg" id="p-A3r"> [Blatt: A3<span class="rectoVerso">r</span> ] </button>rügen, eifern, deßwegen ein ander turbiren und bedrän-<br/>
+<span class="lineNumber">101</span>gen solten) sich gar leicht erheben und uberhauffen möchten.
+<span class="lineNumber">102</span>Diesem nach und damit solchem unrath in der zeit <br/>
+<span class="lineNumber">103</span>vorkommen und wie inn allen andern unsern Königrei-<br/>
+<span class="lineNumber">104</span>chen und Landen also auch im Land <button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e1198">Schlesien</button> unter <br/>
+<span class="lineNumber">105</span>beyder Religionen, Nemblich den Catholischen unnd <br/>
+<span class="lineNumber">106</span>Augspurgischen Confessions verwandten, unsern ge-<br/>
+<span class="lineNumber">107</span>horsamen Fürsten und Ständen und getreuen Unter-<br/>
+<span class="lineNumber">108</span>thanen, jetzo und allezeit standhaffte Liebe, Fried, Einig- <br/>
+<span class="lineNumber">109</span>und Vertreuligkeit zu auffnehmung deß gemeinen Nu-<br/>
+<span class="lineNumber">110</span>tzes gepflantzet und erhalten, auch fürbas kein theil dieser <br/>
+<span class="lineNumber">111</span>beyder bewilligten Religionen in seinem Posseß unnd <br/>
+<span class="lineNumber">112</span>Exercitio bedrängt, sondern dabey geruiglich ohne <br/>
+<span class="lineNumber">113</span>mennigliches einhalt gelassen werden möchte.
+<span class="lineNumber">114</span>Als haben wir inn betrachtung dieser aller jetzt ge-<br/>
+<span class="lineNumber">115</span>setzten und sonst vieler andern erheblichen ursachen und <br/>
+<span class="lineNumber">116</span>motiven, bevoraus deren uns von obgedachten unsern <br/>
+<span class="lineNumber">117</span>gehorsamen Fürsten und Ständen in allen unnd jeden <br/>
+<span class="lineNumber">118</span>die gantze zeit unserer Kayser- und Königlichen Regie-<br/>
+<span class="lineNumber">119</span>rung vorgefallenen angelegenheiten mit so standhaff-<br/>
+<span class="lineNumber">120</span>ter Treue gantz nützlichst unnd willigst geleisten Dien-<br/>
+<span class="lineNumber">121</span>sten, welche ihre Treuhertzigkeit sie auch nach fer-<br/>
+<span class="lineNumber">122</span>ners zu continuiren sich gehorsambist anerbitten, auff <br/>
+<span class="lineNumber">123</span>gehabten genugsamben bedacht unnd mit unsern gut-<br/>
+<span class="lineNumber">124</span>ten wissen unnd willen, auch zuvor mit unserer Obri-<br/>
+<span class="lineNumber">125</span>sten Landofficirer, Landrechtsitzern, Edlen Räthen <br/>
+<span class="lineNumber">126</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://iiif.onb.ac.at/images/ABO/Z207564504/00000010/full/full/0/default.jpg" id="p-A3v"> [Blatt: A3<span class="rectoVerso">v</span> ] </button>und lieben getreuen unsers Königreichs <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e1293">Behaimb</button> ge-<br/>
+<span class="lineNumber">127</span>pflogenen reiffen Raht, den Articul, die Religion be-<br/>
+<span class="lineNumber">128</span>treffend, gnedigst dahin vermittelt und beschlossen und <br/>
+<span class="lineNumber">129</span>zu desto bestendiger wehrenden fest haltung gedachten <br/>
+<span class="lineNumber">130</span>unsern gehorsamen Augspurgischer Confessions ver-<br/>
+<span class="lineNumber">131</span>wandten Fürsten und Ständen und getreuen Unter-<br/>
+<span class="lineNumber">132</span>thanen solches alles mit darüber ertaillung dieses un-<br/>
+<span class="lineNumber">133</span>sers Kayser- und Königlichen offenen Majestet Brieffs <br/>
+<span class="lineNumber">134</span>versichert und bestettiget.
+<span class="lineNumber">135</span>Erstlich, Demnach die Catholischen im Lande <br/>
+<span class="lineNumber">136</span><button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e1341">Schlesien</button> ihr freyes und ungehindertes Exercitium <br/>
+<span class="lineNumber">137</span>Religionis haben, in welchem<a class="fnNumber" href="#F_a" id="A_a">a</a> ihnen die Augspurgischen <br/>
+<span class="lineNumber">138</span>Confessions verwandten keinen eintrag thun oder ord-<br/>
+<span class="lineNumber">139</span>nung geben, viel mehr sie bey ihren Kirchen, Gottes-<br/>
+<span class="lineNumber">140</span>dienst, Ceremonien, Clöstern, Schulen, Pfarren, <br/>
+<span class="lineNumber">141</span>Stifftungen, Zehenden, Zinßen, Accidentien, einkom-<br/>
+<span class="lineNumber">142</span>men und alten gebreuchen, wie solches alles bißanhero <br/>
+<span class="lineNumber">143</span>und zu dato sie im Besitz gehabt, dieser unser Majestet <br/>
+<span class="lineNumber">144</span>unnd dem interdicto uti possidetis, ita possideatis ge-<br/>
+<span class="lineNumber">145</span>mäß ruhig unnd ohne verhinderung verbleiben lassen <br/>
+<span class="lineNumber">146</span>sollen und wollen.
+<span class="lineNumber">147</span>Diesem nach und damit hierinnen eine gleichheit <br/>
+<span class="lineNumber">148</span>gehalten werde, bewilligen Wir und geben macht unnd <br/>
+<span class="lineNumber">149</span>recht darzu, daß die gehorsamen Fürsten und Stände <br/>
+<span class="lineNumber">150</span>und also alle unnd jede Einwohner deß gantzen Landes <br/>
+<span class="lineNumber">151</span><button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e1402">Schlesien</button>, sie sein unter Geist- oder Weltlichen Für-<br/>
+<span class="lineNumber">152</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://iiif.onb.ac.at/images/ABO/Z207564504/00000011/full/full/0/default.jpg" id="p-A4r"> [Blatt: A4<span class="rectoVerso">r</span> ] </button>sten, Herrn, Commendatorn, auch in unsern Ertzfür-<br/>
+<span class="lineNumber">153</span>stenthumern gesessen, auffm Land, Städten unnd in <br/>
+<span class="lineNumber">154</span>Dörffern, welche der Augspurgischen Confession<a class="fnNumber" href="#F_b" id="A_b">b</a> ver-<br/>
+<span class="lineNumber">155</span>wandt sein und sich zu derselben bekennen, keinen auß-<br/>
+<span class="lineNumber">156</span>genommen, ihre Religion laut jetzt erwehnten Confes-<br/>
+<span class="lineNumber">157</span>sion frey unnd ungehindert uberal, an allen orten, uben <br/>
+<span class="lineNumber">158</span>und verrichten bey solch ihrer Religion, Priesterschafft <br/>
+<span class="lineNumber">159</span>und Kirchenordnung, welche jetzo bey ihnen ist oder <br/>
+<span class="lineNumber">160</span>dieser Confession gemeß möchte auffgerichtet werden, <br/>
+<span class="lineNumber">161</span>fried- unnd geruigklich verbleiben, keiner aus denselben <br/>
+<span class="lineNumber">162</span>zu einer andern Religion, als wie sie die bißhero ge-<br/>
+<span class="lineNumber">163</span>habt, ungeachtet, unter welcher Geist- oder Weltlichen <br/>
+<span class="lineNumber">164</span>Obrigkeit einer gesessen oder sich auffhalten thuet, ge-<br/>
+<span class="lineNumber">165</span>drungen oder derowegen verjaget, viel weniger bloß <br/>
+<span class="lineNumber">166</span>und allein der Religion halben ab officiis removiret, <br/>
+<span class="lineNumber">167</span>und also auff keinerley weise nach wege in ihren Gewis-<br/>
+<span class="lineNumber">168</span>sen bedrenget oder betrübet, sondern viel mehr alle unnd <br/>
+<span class="lineNumber">169</span>jede dieser Augspurgischen Confessions verwandte bey <br/>
+<span class="lineNumber">170</span>deroselben, auch bey allen jetzo innehabenden Kirchen, <br/>
+<span class="lineNumber">171</span>Gottesdienst, Ceremonien, Schulen, Pfarren, Clö-<br/>
+<span class="lineNumber">172</span>stern, Stifftungen, Zehenden, Zinsen, Accidentien, <br/>
+<span class="lineNumber">173</span>Einkomben, aller massen wie sie solche bißhero im besitz <br/>
+<span class="lineNumber">174</span>und gebrauch gehalten, ruhig und unangefochten gelas-<br/>
+<span class="lineNumber">175</span>sen werden sollen.
+<span class="lineNumber">176</span>Zum Andern Wöllen unnd ordnen Wir, das <br/>
+<span class="lineNumber">177</span>alles das jenige, was ein theil zu dem andern, Catho-<br/>
+<span class="lineNumber">178</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://iiif.onb.ac.at/images/ABO/Z207564504/00000012/full/full/0/default.jpg" id="p-A4v"> [Blatt: A4<span class="rectoVerso">v</span> ] </button>lische so wol als der Augspurgischen Confession ver-<br/>
+<span class="lineNumber">179</span>wandte, vor Alters wie auch vor und nach antrettung <br/>
+<span class="lineNumber">180</span>unserer Löblichen Regierung zu Stifftern, Clöstern, <br/>
+<span class="lineNumber">181</span>Kirchen, Consistoriis, Renten, Zehenden, Einkomben <br/>
+<span class="lineNumber">182</span>und allen andern Zugehörungen, sive ex prima funda-<br/>
+<span class="lineNumber">183</span>tione aut ex iure patronatus aut ex alio quovis ti-<br/>
+<span class="lineNumber">184</span>tulo, wie solcher in petitorio erdacht, auffgesucht oder <br/>
+<span class="lineNumber">185</span>herfür gezogen werden künte oder möchte, berechtiget ge-<br/>
+<span class="lineNumber">186</span>wesen oder zu sein vermeinet, gantz ruehen und ein jeder <br/>
+<span class="lineNumber">187</span>bey deme, was Er besitzet, insonderheit Kirchen unnd <br/>
+<span class="lineNumber">188</span>Schulen, unangesehen, wem solche vor Alters zugehö-<br/>
+<span class="lineNumber">189</span>ret unnd destwegen noch ihre iura patronatus darauff <br/>
+<span class="lineNumber">190</span>praetendiren möchten, verbleiben unnd destwegen kein <br/>
+<span class="lineNumber">191</span>theil das ander mit oder ausser Recht anfassen, darin-<br/>
+<span class="lineNumber">192</span>nen turbiren oder im wenigsten bedrangen soll.
+<span class="lineNumber">193</span>Zum Dritten Verwilligen Wir auch dieses: da <br/>
+<span class="lineNumber">194</span>jemand aus den Fürsten und Ständen ausser denen Kir-<br/>
+<span class="lineNumber">195</span>chen und Gotteshäusern, welche sie jetzo inne haben, hal-<br/>
+<span class="lineNumber">196</span>ten oder ihnen sonsten zustendig sein (bey welchen sie <br/>
+<span class="lineNumber">197</span>auch friedlich geschützt unnd erhalten werden sollen) <br/>
+<span class="lineNumber">198</span>etwa in Städten, Städtlein, Dörffern oder anders-<br/>
+<span class="lineNumber">199</span>wo, wolte oder wolten mehr Kirchen, Gotteshäuser <br/>
+<span class="lineNumber">200</span>oder Schulen zu Unterweiß- und aufferziehung der <br/>
+<span class="lineNumber">201</span>Jugendt auffrichten unnd bauen lassen, das solches <br/>
+<span class="lineNumber">202</span>gleich wie den Fürsten und Herrn Standt unnd der-<br/>
+<span class="lineNumber">203</span>selbten allerseits Unterthanen, also auch den Erb-<br/>
+<span class="lineNumber">204</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://iiif.onb.ac.at/images/ABO/Z207564504/00000013/full/full/0/default.jpg" id="p-B1r"> [Blatt: B1<span class="rectoVerso">r</span> ] </button>Fürstenthümern, so wol in Städten als auff dem Lan-<br/>
+<span class="lineNumber">205</span>de in gemein und einem jeden insonderheit an jetzo und <br/>
+<span class="lineNumber">206</span>in künfftig zu thun frey und offen stehen sol, vor men-<br/>
+<span class="lineNumber">207</span>niglich ungehindert.
+<span class="lineNumber">208</span>Zum Vierden Wollen wir auch den Augspurgi-<br/>
+<span class="lineNumber">209</span>schen Confessions verwandten Fürsten und Ständen <br/>
+<span class="lineNumber">210</span>diese sondere Gnad thun, das die jenigen Fürsten, so zu <br/>
+<span class="lineNumber">211</span>zeitten unserer Hochgeehrten Herrn Anherns unnd <br/>
+<span class="lineNumber">212</span>Herrn Vatters, auch bey antrettung unserer Regie-<br/>
+<span class="lineNumber">213</span>rung, ihre Consistoria gehabt unnd biß dato erhalten / <br/>
+<span class="lineNumber">214</span>dabey nun unnd hin füro allezeit vor menniglich unbeir-<br/>
+<span class="lineNumber">215</span>ret sein und bleiben, auch das denen andern Augspurgi-<br/>
+<span class="lineNumber">216</span>scher Confession, Fürsten unnd Ständen, so hiebevor <br/>
+<span class="lineNumber">217</span>keine Consistoria gehabt, neue auffzurichten und aller <br/>
+<span class="lineNumber">218</span>massen mit denselben wie die andern, so die ihrige biß <br/>
+<span class="lineNumber">219</span>hero gehalten, in ordination vnd Ehesachen zu vorfah-<br/>
+<span class="lineNumber">220</span>ren, frey stehen sol.
+<span class="lineNumber">221</span>Dabey wir dann insonderheit den Erbfürsten-<br/>
+<span class="lineNumber">222</span>thumbern gnedigist frey stellen, das sie es in ordinatio-<br/>
+<span class="lineNumber">223</span>nibus, wie vor diesem beschehen, in künfftig halten und <br/>
+<span class="lineNumber">224</span>die Pfarrer ordiniren lassen, In Ehsachen aber sich <br/>
+<span class="lineNumber">225</span>entweder der Consistorien der Augspurgischen Con-<br/>
+<span class="lineNumber">226</span>fessions verwandten Fürsten und Stände inn <button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e1725">Schle-</button><br/>
+<span class="lineNumber">227</span><button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e1725">sien</button> gebrauchen oder aber durch die Hauptleute unnd <br/>
+<span class="lineNumber">228</span>die vom Lande darzu verordnete Personen Augspur-<br/>
+<span class="lineNumber">229</span>gischen Confession an einem gewissen Orte ein Gene-<br/>
+<span class="lineNumber">230</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://iiif.onb.ac.at/images/ABO/Z207564504/00000014/full/full/0/default.jpg" id="p-B1v"> [Blatt: B1<span class="rectoVerso">v</span> ] </button>ral Consistorium auffrichten mögen. Jedoch auff unser <br/>
+<span class="lineNumber">231</span>gnedigiste Ratification, so innerhalb eines Monats <br/>
+<span class="lineNumber">232</span>nach beschehenem ihrem gehorsambistem anbringen er-<br/>
+<span class="lineNumber">233</span>folgen oder in verbleibung dessen, wie es auffgerichtet, <br/>
+<span class="lineNumber">234</span>gehalten unnd von ihren deputirten ohne allen eintrag <br/>
+<span class="lineNumber">235</span>dirigiret werden sol. Dahin dann sie alle und jede Ehe-<br/>
+<span class="lineNumber">236</span>sachen remittiren mögen, mit diesem außdrücklichen <br/>
+<span class="lineNumber">237</span>vorbehalt, das in erwehneten Heyraths- und Ehesachen <br/>
+<span class="lineNumber">238</span>wie bey diesem also auch in allen andern Consistorien <br/>
+<span class="lineNumber">239</span>fleissig auffacht gegeben werde, damit niemandt zu nahe <br/>
+<span class="lineNumber">240</span>mit dem Geblütte sich vermische, unnd das es je besche-<br/>
+<span class="lineNumber">241</span>hen solte doch der modus coercendi & puniendi aller <br/>
+<span class="lineNumber">242</span>massen, wie es im <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e1785">Heyligen Römischen Reich</button> unter den <br/>
+<span class="lineNumber">243</span>Augspurgischen Confessions verwandten und deren <br/>
+<span class="lineNumber">244</span>wolbestelten Consistoriis in ublichen brauch biß hero ge-<br/>
+<span class="lineNumber">245</span>halten, observiret werde.
+<span class="lineNumber">246</span>Zum Fünfften sollen die Begräbnüs Todter Leich-<br/>
+<span class="lineNumber">247</span>nam in Kirchen und auff Kirchhöffen, wie auch das <br/>
+<span class="lineNumber">248</span>Ausleutten, den jenigen, so dazu gepfarret, nicht abge-<br/>
+<span class="lineNumber">249</span>schlagen, Gleichwol aber bey den Catholischen Kirchen <br/>
+<span class="lineNumber">250</span>unnd Pfarren den Augspurgischen Confessions ver-<br/>
+<span class="lineNumber">251</span>wandten anders nicht denn vermöge derer daselbeten <br/>
+<span class="lineNumber">252</span>gebreuchlichen Ceremonien, Hinwiderumb auch den <br/>
+<span class="lineNumber">253</span>Catholischen bey deß andern theils Pfarren ebener ge-<br/>
+<span class="lineNumber">254</span>stalt zugelassen und ertailet werden, Unnd da es je be-<br/>
+<span class="lineNumber">255</span>schehe, von den eingepfarreten die zur zeit so gestalten <br/>
+<span class="lineNumber">256</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://iiif.onb.ac.at/images/ABO/Z207564504/00000015/full/full/0/default.jpg" id="p-B2r"> [Blatt: B2<span class="rectoVerso">r</span> ] </button>verwegerung gebürende unnd sonst zur Kirchen oder <br/>
+<span class="lineNumber">257</span>Pfarr schuldige Rent und Decem zu entrichten entnom-<br/>
+<span class="lineNumber">258</span>men, unnd ihre Obrigkeiten dieselben zu einer andern <br/>
+<span class="lineNumber">259</span>Pfarr, da es ihr gefellig, zu verwenden unnd daselbst sie <br/>
+<span class="lineNumber">260</span>begraben zu lassen befügt sein.
+<span class="lineNumber">261</span>Wegen frembder Personen und Laichen aber soll <br/>
+<span class="lineNumber">262</span>dieses alles mit deß Collatoris oder Pfarrers selbigen <br/>
+<span class="lineNumber">263</span>Orts guten wissen und willen verrichtet werden. In <br/>
+<span class="lineNumber">264</span>welchen Orten aber und Städten die jenigen, so der <br/>
+<span class="lineNumber">265</span>Augspurgischen Confession sein, ihr eigne Kirchen und <br/>
+<span class="lineNumber">266</span>Begräbnis oder gesampt mit den Catholischen nicht <br/>
+<span class="lineNumber">267</span>hetten, dieselben sollen vermöge dieser unser Concession, <br/>
+<span class="lineNumber">268</span>wie Kirchen und Gottshäuser, also Begräbnüs unnd <br/>
+<span class="lineNumber">269</span>Kirchhöfe auffzubauen, auch stellen darzu auszusetzen <br/>
+<span class="lineNumber">270</span>macht haben.
+<span class="lineNumber">271</span>Auff das also hierin zum Sechsten vielgedachten <br/>
+<span class="lineNumber">272</span>unsern gehorsamben Fürsten und Ständen, auch allen <br/>
+<span class="lineNumber">273</span>andern unsern im <button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e1896">Hertzogthumb Schlesien</button> unnd un-<br/>
+<span class="lineNumber">274</span>serer darin habenden Erbfürstenthumbern getreuen <br/>
+<span class="lineNumber">275</span>Unterthanen und Einwohnern nicht etwas verhinder-<br/>
+<span class="lineNumber">276</span>liches sein möge, So thun wir hiemit alle Bevehlich und <br/>
+<span class="lineNumber">277</span>Mandata, welche vor diesem wider die Augspurgischen <br/>
+<span class="lineNumber">278</span>Confessions verwandte, in specie aber die jenigen, so <br/>
+<span class="lineNumber">279</span>wegen verbottener graduum in Heyrathen und andern <br/>
+<span class="lineNumber">280</span>in puncto Religionis außgangen sein, in gegenwertig <br/>
+<span class="lineNumber">281</span>gentzlich auffheben und Cassirn.
+<span class="lineNumber">282</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://iiif.onb.ac.at/images/ABO/Z207564504/00000016/full/full/0/default.jpg" id="p-B2v"> [Blatt: B2<span class="rectoVerso">v</span> ] </button>Letzlich Wollen wir auch dieses, das zu erhaltung <br/>
+<span class="lineNumber">283</span>Lieb und Einigkeit eine part der andern, Catholische <br/>
+<span class="lineNumber">284</span>so wol als der Augspurgischen Confessions verwand-<br/>
+<span class="lineNumber">285</span>te, inn so wie vorgesetzt verwilligter ubung unnd ge-<br/>
+<span class="lineNumber">286</span>brauch ihrer Religion, Kirchenordnung und ertheilten <br/>
+<span class="lineNumber">287</span>Gerechtigkeiten nicht eingreiffen oder fürschreiben, die <br/>
+<span class="lineNumber">288</span>Geistliche in Weltliche unnd hinwieder die Weltliche <br/>
+<span class="lineNumber">289</span>in Geistliche Empter sich nicht einmischen, Viel weni-<br/>
+<span class="lineNumber">290</span>ger einander schmehen nach verfolgen, sondern nun mehr <br/>
+<span class="lineNumber">291</span>als Glieder zu einem corpore gehörig einander lieben, <br/>
+<span class="lineNumber">292</span>ehren, fördern und beyderseits für einen Mann inn al-<br/>
+<span class="lineNumber">293</span>len unsern und deß Vaterlandes Notturfften und ange-<br/>
+<span class="lineNumber">294</span>legenheiten, es sey in Mitleidungen oder andern unver-<br/>
+<span class="lineNumber">295</span>meidenlichen zufellen, beysamen als treue Freunde ste-<br/>
+<span class="lineNumber">296</span>hen. Und in summa also von heutiges Tages dato an <br/>
+<span class="lineNumber">297</span>keiner von dem andern, wie aus den Fürsten, Herrn und <br/>
+<span class="lineNumber">298</span>Ständen, also auch den Städten, Städtlein unnd <br/>
+<span class="lineNumber">299</span>Pauersvolck, weder von ihren Obrigkeiten nach von <br/>
+<span class="lineNumber">300</span>keinem einzigen andern Geist- oder Weltliches Stan-<br/>
+<span class="lineNumber">301</span>des Personen wegen der Religion bedrenget und zu ei-<br/>
+<span class="lineNumber">302</span>ner andern, es sey durch gewalt oder anderer unzimli-<br/>
+<span class="lineNumber">303</span>cher weise, gezwungen und abgeführet werden.
+<span class="lineNumber">304</span>Welches alles und jedes, wie jetzt erzehlet, verwilli-<br/>
+<span class="lineNumber">305</span>gen, versichern unnd bestettigen wir hiemit aus Regi-<br/>
+<span class="lineNumber">306</span>render <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e2037">Königlicher Böhmischer</button> volkommenheit, <br/>
+<span class="lineNumber">307</span>Macht und Gewalt unnd als Obrister Hertzog inn <br/>
+<span class="lineNumber">308</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://iiif.onb.ac.at/images/ABO/Z207564504/00000017/full/full/0/default.jpg" id="p-B3r"> [Blatt: B3<span class="rectoVerso">r</span> ] </button><button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e2045">Schlesien</button>, Mainen, setzen und wöllen, bey unsern Kö-<br/>
+<span class="lineNumber">309</span>niglichen Worten versprechendt, das viel erwehnte un-<br/>
+<span class="lineNumber">310</span>sere Augspurgischer Confessions verwandte Fürsten <br/>
+<span class="lineNumber">311</span>unnd Stände sampt andern obberürten unsern deren <br/>
+<span class="lineNumber">312</span>orth, Landen und Erbfürstenthumbern getreuen Un-<br/>
+<span class="lineNumber">313</span>terthanen unnd Einwohnern für sich und ihre Nach-<br/>
+<span class="lineNumber">314</span>kommen bey allem dem, was obgesetzt, von uns auch <br/>
+<span class="lineNumber">315</span>künfftigen Königen zu <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e2079">Behaimb</button> und Obristen Her-<br/>
+<span class="lineNumber">316</span>tzogen in <button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e2088">Schlesien</button> biß zu einer Christlichen volkom-<br/>
+<span class="lineNumber">317</span>lichen und endlichen vereinigung wegen der Religion <br/>
+<span class="lineNumber">318</span>im <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e2100">Heyligen Römischen Reich</button> gantz unnd volkömlich <br/>
+<span class="lineNumber">319</span>in Fried und Ruhe gelassen unnd gleich andern bey dem <br/>
+<span class="lineNumber">320</span>Religions frieden deß <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e2107">Heyligen Römischen Reichs</button> er-<br/>
+<span class="lineNumber">321</span>halten, das geringste ihnen hierinn weder von uns nach, <br/>
+<span class="lineNumber">322</span>wie obgedacht, all unsern Nachkommen oder aber von <br/>
+<span class="lineNumber">323</span>andern Geist- oder Weltlichen Personen zu künfftigen <br/>
+<span class="lineNumber">324</span>und jeden zeiten einige verhinderung oder eintrag nicht <br/>
+<span class="lineNumber">325</span>geschehen nach verstattet, weniger wieder solchen Reli-<br/>
+<span class="lineNumber">326</span>gion frieden unnd die unsere Assecuration ainzige be-<br/>
+<span class="lineNumber">327</span>vellich oder etwas dergleichen, so dessen geringste ver-<br/>
+<span class="lineNumber">328</span>hinder- oder veränderung verursachen möchte, von uns <br/>
+<span class="lineNumber">329</span>oder mehr erwehnten unsern Nachkommen oder aber <br/>
+<span class="lineNumber">330</span>sonsten jemandts andern ausgehen oder von jemandts <br/>
+<span class="lineNumber">331</span>anzunehmen angehalten, Unnd im fall gar etwas der-<br/>
+<span class="lineNumber">332</span>gleichen außgienge oder von jemanden angenommen <br/>
+<span class="lineNumber">333</span>würde, jedoch unkrefftig sein und dafür gehalten, auch <br/>
+<span class="lineNumber">334</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://iiif.onb.ac.at/images/ABO/Z207564504/00000018/full/full/0/default.jpg" id="p-B3v"> [Blatt: B3<span class="rectoVerso">v</span> ] </button>auff solche gestalt weder mit oder ohne recht ichtwas <br/>
+<span class="lineNumber">335</span>geurtheilet und außgesprochen werden sol.
+<span class="lineNumber">336</span>Und gebitten darauff unsern Ober- und allen an-<br/>
+<span class="lineNumber">337</span>dern Hauptleuten in <button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e2175">Ober und Nieder Schlesien</button>, das <br/>
+<span class="lineNumber">338</span>sie gemelte unsere gehorsame Fürsten unn Stände sampt <br/>
+<span class="lineNumber">339</span>allen andern hierin Vermelt unsern getreuen Unter-<br/>
+<span class="lineNumber">340</span>thanen und Einwohnern in <button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e2189">Ober- und Nieder Schle-</button><br/>
+<span class="lineNumber">341</span><button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e2189">sien</button>, so sich zu vielberürter bewilligter Augspurgischer <br/>
+<span class="lineNumber">342</span>Confession bekennen, bey dieser unserer versicherung <br/>
+<span class="lineNumber">343</span>und Majestet, wie dieselbte in allen Articuln, Senten-<br/>
+<span class="lineNumber">344</span>tzen und Clausuln lautet, vertretten und schützen, selbst <br/>
+<span class="lineNumber">345</span>ihnen hierin keinen eintrag thuen, viel weniger andern <br/>
+<span class="lineNumber">346</span>zuthun verstaten. Unnd wo uber diß jemandt, es sey <br/>
+<span class="lineNumber">347</span>von Geist- oder Weltlichen Personen, diese unsere Asse-<br/>
+<span class="lineNumber">348</span>curation und Majestat zu ubertretten sich unterstunde, / <br/>
+<span class="lineNumber">349</span>zu deme und einem jeden deroselben, als zu einem zerstö-<br/>
+<span class="lineNumber">350</span>rer deß gemeinen Friedens, an stat unser und ihres von <br/>
+<span class="lineNumber">351</span>uns oder mehres erwehnet unsern Nachkommen ihnen <br/>
+<span class="lineNumber">352</span>anvertrauten <a class="fnNumber" href="#F_c" id="A_c">c</a>Ampts halben<a class="fnNumber" href="#F_c">c</a> greiffen und also vielermel-<br/>
+<span class="lineNumber">353</span>te unsere gehorsame Fürsten und Stände festiglich schü-<br/>
+<span class="lineNumber">354</span>tzen, beschirmen und verthaidigen sollen.
+<span class="lineNumber">355</span>Und diß alles bey vermeidung unsers, unserer nach-<br/>
+<span class="lineNumber">356</span>kommen unnd künfftigen Regierenden Königen zu <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e2261">Be-</button><br/>
+<span class="lineNumber">357</span><button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e2261">haimb</button>, auch Obristen Hertzogen in <button class="entity #schlesien_herzogtum place" data-ref="schlesien_herzogtum" data-type="place" id="d2e2268">Schlesien</button> zorns, <br/>
+<span class="lineNumber">358</span>schwerer straff und ungnade. Alles getreulich und un-<br/>
+<span class="lineNumber">359</span>gefehrlich. Uhrkündtlich und umb mehrer sicherheit <br/>
+<span class="lineNumber">360</span><button aria-label="a pagebreak with a link to a facsimile" class="pagebreak" data-image="https://iiif.onb.ac.at/images/ABO/Z207564504/00000019/full/full/0/default.jpg" id="p-B4r"> [Blatt: B4<span class="rectoVerso">r</span> ] </button>willen mit unserm Kayser: und Königlichen anhengen-<br/>
+<span class="lineNumber">361</span>den grössern Insigel bekrefftiget. Geben auff unserm <br/>
+<span class="lineNumber">362</span>Königlichen Schloß <button class="entity #prag place" data-ref="prag" data-type="place" id="d2e2291">Prag</button> den Zwantzigsten Tag deß <br/>
+<span class="lineNumber">363</span>Monats Augusti, Nach Christi unsers lieben Herrn <br/>
+<span class="lineNumber">364</span>und Seligmachers Geburt im Ein tausent Sechs-<br/>
+<span class="lineNumber">365</span>hundert und Neundten Jahre, Unserer Reiche deß <button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e2305">Rö-</button><br/>
+<span class="lineNumber">366</span><button class="entity #heiliges_roemisches_reich place" data-ref="heiliges_roemisches_reich" data-type="place" id="d2e2305">mischen</button> im Vier und Dreyssigsten, deß <button class="entity #ungarn_koenigreich place" data-ref="ungarn_koenigreich" data-type="place" id="d2e2312">Hungerischen</button> <br/>
+<span class="lineNumber">367</span>im Sieben und Dreyssigsten unnd deß <button class="entity #boehmen_koenigreich place" data-ref="boehmen_koenigreich" data-type="place" id="d2e2318">Behemischen</button> <br/>
+<span class="lineNumber">368</span>auch im Vier und Dreyssigsten Jahre.
+<span class="lineNumber">369</span><button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e2327">Rudolff</button>.
+<span class="lineNumber">370</span><button class="entity #sternberg_adam person" data-ref="sternberg_adam" data-type="person" id="d2e2334">Adamus de Sternbergk</button>, <br/>
+<span class="lineNumber">371</span>Supremus Burggravius <br/>
+<span class="lineNumber">372</span><button class="entity #prag place" data-ref="prag" data-type="place" id="d2e2340">Pragensis</button>.
+<span class="lineNumber">373</span>Ad mandatum <button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e2349">Sacrae Caes[areae] </button><br/>
+<span class="lineNumber">374</span><button class="entity #rudolf_ii person" data-ref="rudolf_ii" data-type="person" id="d2e2349">Maiestatis</button> proprium,
+<span class="lineNumber">375</span><button class="entity #michna_paul person" data-ref="michna_paul" data-type="person" id="d2e2361">Paulus Michna</button>.
+<span class="lineNumber">376</span>Gedruckt in der Alten Stadt <button class="entity #prag place" data-ref="prag" data-type="place" id="d2e2369">Prag</button> bey <button class="entity #bohutsky_jonata person" data-ref="bohutsky_jonata" data-type="person" id="d2e2372">Jonatan </button><br/>
+<span class="lineNumber">377</span><button class="entity #bohutsky_jonata person" data-ref="bohutsky_jonata" data-type="person" id="d2e2372">Bohutsky</button>, bey der Brucken neben dem Zollhauß, <br/>
+<span class="lineNumber">378</span>4. Tag deß Monats Septembris. <br/>
+<span class="lineNumber">379</span>Anno M.DC.IX.
